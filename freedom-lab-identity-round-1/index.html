@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow,noarchive,nosnippet,noimageindex">
+<link rel="icon" href="data:,">
+<title>Freedom Lab — Symbol Exploration</title>
+<style>
+:root{color-scheme:light;--paper:#f4f1e9;--ink:#111;--muted:#68645d;--line:#d6d0c4;--pick:#10a84b}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+main{width:min(1180px,calc(100% - 32px));margin:0 auto;padding:44px 0 120px}
+h1{font-size:clamp(30px,5vw,56px);letter-spacing:-.045em;line-height:1;margin:0 0 14px}
+p{margin:0;color:var(--muted);font-size:17px;line-height:1.5}
+.top{display:flex;align-items:end;justify-content:space-between;gap:24px;margin-bottom:34px}
+.sheet-link{white-space:nowrap;color:var(--ink);text-underline-offset:4px}
+.grid{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:14px}
+.card{appearance:none;border:2px solid var(--line);border-radius:14px;background:#fff;padding:10px 10px 12px;cursor:pointer;color:var(--ink);font:inherit;transition:border-color .12s,transform .12s,box-shadow .12s}
+.card:hover{transform:translateY(-2px)}
+.card[aria-pressed="true"]{border-color:var(--pick);box-shadow:0 0 0 3px rgba(16,168,75,.16)}
+.card img.main{display:block;width:100%;aspect-ratio:1;object-fit:contain}
+.meta{display:flex;align-items:center;justify-content:space-between;padding:4px 4px 0;font-weight:650;letter-spacing:.03em}
+.mini{width:32px;height:32px;object-fit:contain;display:block}
+.bar{position:fixed;left:0;right:0;bottom:0;background:rgba(244,241,233,.96);backdrop-filter:blur(10px);border-top:1px solid var(--line);padding:13px 16px;z-index:2}
+.bar-inner{width:min(1180px,100%);margin:0 auto;display:flex;gap:14px;align-items:center;justify-content:space-between}
+#selection{font-weight:650;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+button.copy{border:0;border-radius:999px;background:var(--ink);color:#fff;padding:12px 18px;font:inherit;font-weight:700;cursor:pointer;white-space:nowrap}
+button.copy:disabled{opacity:.4;cursor:default}
+.note{margin-top:28px;font-size:14px}
+@media(max-width:900px){.grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media(max-width:620px){main{width:min(100% - 20px,1180px);padding-top:26px}.top{display:block}.sheet-link{display:inline-block;margin-top:13px}.grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.card{padding:7px}.mini{width:26px;height:26px}.bar-inner{align-items:stretch;flex-direction:column;gap:8px}.copy{width:100%}}
+</style>
+</head>
+<body>
+<main>
+  <header class="top">
+    <div>
+      <h1>Freedom Lab symbol exploration</h1>
+      <p>Tap 5–8 marks you would genuinely want refined. Judge the symbol before seeing its concept or rationale.</p>
+    </div>
+    <a class="sheet-link" href="freedom-lab-symbol-exploration.jpg">Full contact sheet</a>
+  </header>
+  <section class="grid" id="grid" aria-label="Symbol candidates"></section>
+  <p class="note">The small mark on each card is an actual-size readability check. Typography and color come after symbol selection.</p>
+</main>
+<div class="bar">
+  <div class="bar-inner">
+    <div id="selection">No marks selected</div>
+    <button class="copy" id="copy" type="button" disabled>Copy selected codes</button>
+  </div>
+</div>
+<script>
+const grid=document.getElementById('grid');
+const selection=document.getElementById('selection');
+const copy=document.getElementById('copy');
+const selected=new Set();
+for(let i=1;i<=33;i++){
+  const code=`S${String(i).padStart(2,'0')}`;
+  const button=document.createElement('button');
+  button.className='card';
+  button.type='button';
+  button.setAttribute('aria-pressed','false');
+  button.setAttribute('aria-label',`Select ${code}`);
+  button.innerHTML=`<img class="main" src="assets/${code}.png" alt="${code} symbol candidate"><span class="meta"><span>${code}</span><img class="mini" src="assets/${code}.png" alt="" aria-hidden="true"></span>`;
+  button.addEventListener('click',()=>{
+    if(selected.has(code)){selected.delete(code);button.setAttribute('aria-pressed','false')}else{selected.add(code);button.setAttribute('aria-pressed','true')}
+    update();
+  });
+  grid.appendChild(button);
+}
+function ordered(){return [...selected].sort((a,b)=>Number(a.slice(1))-Number(b.slice(1)))}
+function update(){
+  const codes=ordered();
+  selection.textContent=codes.length?`${codes.length} selected: ${codes.join(', ')}`:'No marks selected';
+  copy.disabled=!codes.length;
+}
+copy.addEventListener('click',async()=>{
+  const text=ordered().join(', ');
+  try{await navigator.clipboard.writeText(text);copy.textContent='Copied';setTimeout(()=>copy.textContent='Copy selected codes',1200)}
+  catch{copy.textContent=text}
+});
+</script>
+</body>
+</html>
