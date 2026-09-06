@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img">
+<rect width="100%" height="100%" fill="#070807"/>
+<rect x="54" y="50" width="1492" height="900" rx="34" fill="none" stroke="#49E05B" stroke-opacity=".22" stroke-width="2"/>
+<text x="100" y="130" fill="#FF6B49" font-family="Avenir Next, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="6">04</text>
+<text x="190" y="130" fill="#F3F6F2" font-family="Avenir Next, Arial, sans-serif" font-size="56" font-weight="750">Open Flame</text>
+<text x="100" y="188" fill="#F3F6F2" fill-opacity=".68" font-family="Avenir Next, Arial, sans-serif" font-size="27">A torch-first symbol with F/L geometry hidden in flame and handle.</text>
+<g transform="translate(110 270) scale(.92)"><g id="mark">
+  <!-- An outlined angular flame makes this direction structurally distinct. -->
+  <path fill="none" stroke="#49E05B" stroke-width="34" stroke-linecap="square" stroke-linejoin="miter" d="M154 282V190l78-108v132l124-112v136l-54 44"/>
+  <!-- The connected interior bars quietly form an F. -->
+  <path fill="#49E05B" d="M174 164h108v30h-70v38h56v30h-56v40h-38z"/>
+  <path fill="#FF6B49" d="M286 258l48-96v96z"/>
+  <!-- Two strokes create the torch cup; the handle finishes as an L. -->
+  <path fill="none" stroke="#49E05B" stroke-width="30" stroke-linecap="square" d="M112 326h288M150 382h212"/>
+  <path fill="none" stroke="#49E05B" stroke-width="34" stroke-linecap="square" stroke-linejoin="miter" d="M222 398v82h112"/>
+</g></g>
+<text x="710" y="420" fill="#49E05B" font-family="DIN Condensed, Avenir Next Condensed, Arial Narrow, sans-serif" font-size="142" font-weight="800" letter-spacing="2">FREEDOM LAB</text>
+<text x="710" y="610" fill="#49E05B" font-family="DIN Condensed, Avenir Next Condensed, Arial Narrow, sans-serif" font-size="112" font-weight="800" letter-spacing="2">FREEDOM LAB</text>
+<text x="713" y="710" fill="#FF6B49" font-family="DIN Condensed, Avenir Next Condensed, Arial Narrow, sans-serif" font-size="74" font-weight="800" letter-spacing="10">NYC</text>
+<line x1="710" y1="770" x2="1450" y2="770" stroke="#F3F6F2" stroke-opacity=".14"/>
+<text x="710" y="820" fill="#F3F6F2" fill-opacity=".55" font-family="Avenir Next, Arial, sans-serif" font-size="22" letter-spacing="3">ONE COLOR</text>
+<g transform="translate(710 840) scale(.16)"><g id="mark">
+  <!-- An outlined angular flame makes this direction structurally distinct. -->
+  <path fill="none" stroke="#49E05B" stroke-width="34" stroke-linecap="square" stroke-linejoin="miter" d="M154 282V190l78-108v132l124-112v136l-54 44"/>
+  <!-- The connected interior bars quietly form an F. -->
+  <path fill="#49E05B" d="M174 164h108v30h-70v38h56v30h-56v40h-38z"/>
+  <path fill="#49E05B" d="M286 258l48-96v96z"/>
+  <!-- Two strokes create the torch cup; the handle finishes as an L. -->
+  <path fill="none" stroke="#49E05B" stroke-width="30" stroke-linecap="square" d="M112 326h288M150 382h212"/>
+  <path fill="none" stroke="#49E05B" stroke-width="34" stroke-linecap="square" stroke-linejoin="miter" d="M222 398v82h112"/>
+</g></g>
+<text x="820" y="900" fill="#F3F6F2" fill-opacity=".55" font-family="Avenir Next, Arial, sans-serif" font-size="22">16 / 32 / 64 px stress-tested separately</text>
+
+</svg>

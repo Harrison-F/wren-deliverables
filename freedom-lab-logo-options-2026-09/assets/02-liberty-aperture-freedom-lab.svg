@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 512" width="1600" height="512" role="img">
+<g transform="translate(24 10) scale(.92)"><g id="mark">
+  <defs>
+    <mask id="aperture-cut">
+      <rect width="512" height="512" fill="white"/>
+      <path fill="black" d="M220 184Q256 142 292 184V286h-72z"/>
+    </mask>
+  </defs>
+  <!-- One flame silhouette; the central cutout is an open doorway. -->
+  <path fill="#35D68A" mask="url(#aperture-cut)" d="M258 44C196 98 160 154 164 212c4 54 36 88 92 104 60-18 94-56 92-112-1-39-25-72-7-130-43 28-71 62-86 103-18-35-22-83 3-133z"/>
+  <path fill="#FFB21A" d="M244 190Q256 174 268 190v86h-24z"/>
+  <rect fill="#35D68A" x="112" y="312" width="288" height="30" rx="15"/>
+  <path fill="#35D68A" d="M140 350h232l-32 64H172z"/>
+  <rect fill="#35D68A" x="164" y="418" width="184" height="26" rx="13"/>
+  <path fill="#35D68A" d="M222 444h68l14 52h-96z"/>
+</g></g>
+<text x="500" y="275" fill="#35D68A" font-family="Avenir Next, Arial, sans-serif" font-size="140" font-weight="800" letter-spacing="1">FREEDOM LAB</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 512" width="1600" height="512" role="img">
+<g transform="translate(24 10) scale(.92)"><g id="mark">
+  <!-- An outlined angular flame makes this direction structurally distinct. -->
+  <path fill="none" stroke="#49E05B" stroke-width="34" stroke-linecap="square" stroke-linejoin="miter" d="M154 282V190l78-108v132l124-112v136l-54 44"/>
+  <!-- The connected interior bars quietly form an F. -->
+  <path fill="#49E05B" d="M174 164h108v30h-70v38h56v30h-56v40h-38z"/>
+  <path fill="#FF6B49" d="M286 258l48-96v96z"/>
+  <!-- Two strokes create the torch cup; the handle finishes as an L. -->
+  <path fill="none" stroke="#49E05B" stroke-width="30" stroke-linecap="square" d="M112 326h288M150 382h212"/>
+  <path fill="none" stroke="#49E05B" stroke-width="34" stroke-linecap="square" stroke-linejoin="miter" d="M222 398v82h112"/>
+</g></g>
+<text x="500" y="275" fill="#49E05B" font-family="DIN Condensed, Avenir Next Condensed, Arial Narrow, sans-serif" font-size="190" font-weight="800" letter-spacing="2">FREEDOM LAB</text>
+</svg>
