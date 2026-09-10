@@ -1,0 +1,873 @@
+{
+  "verified_date": "2026-09-09",
+  "mattresses": [
+    {
+      "id": "sleep-on-latex-pure-green-queen-medium",
+      "brand": "Sleep On Latex",
+      "name": "Pure Green Latex",
+      "variant": "Queen · Medium · 8-inch latex core",
+      "price_usd": 1299.0,
+      "price_note": "Mattress only · before tax",
+      "shipping_cost": "Free contiguous-US shipping",
+      "shipping_cost_usd": 0,
+      "dispatch": "Dispatch: same / next business day",
+      "arrival": "Transit and arrival date not quoted.",
+      "availability": "Exact queen medium orderable",
+      "materials": "Organic natural latex foam, wool and cotton—including cotton quiltbacking. Processed rubber, not an all-fiber mattress. Minor-component composition is incomplete.",
+      "sleep": "Responsive cushioning; Medium is the provisional mixed-sleeper pick. Strongest return flexibility here. Heavy: queen medium is listed at 125 lb.",
+      "temperature": "Breathable construction is plausible, but individual heat response varies. No independent exact-model cooling advantage verified.",
+      "returns": "Full mattress refund within 100 days of receipt; free pickup; no return freight/restocking deduction. One return/exchange per product group per 12 months. Expedited/out-of-area shipping and custom-size surcharges excluded.",
+      "caveat": "Still rubber foam. No zero-particle claim. Check frame support and slat spacing before ordering.",
+      "url": "https://sleeponlatex.com/products/natural-latex-mattress/?variant=5837161989",
+      "image_url": "https://sleeponlatex.com/img/01_Hero_231486872_1024x.jpg",
+      "image_verification": {
+        "url": "https://sleeponlatex.com/img/01_Hero_231486872_1024x.jpg",
+        "final_url": "https://sleeponlatex.com/img/01_Hero_231486872_1024x.jpg",
+        "status": 200,
+        "content_type": "image/jpeg",
+        "bytes": 219796
+      },
+      "image_note": "Seller product photograph; representative product image, not independently verified exact queen dimensions.",
+      "sources": [
+        {
+          "url": "https://sleeponlatex.com/products/natural-latex-mattress/",
+          "label": "Natural latex mattress",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://sleeponlatex.com/help/shipping",
+          "label": "Shipping",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://sleeponlatex.com/help/returns",
+          "label": "Returns",
+          "note": "Seller source · checked Sep 9, 2026"
+        }
+      ],
+      "badge": "Best comfort trial",
+      "image": "assets/sleep-on-latex-pure-green-queen-medium.webp"
+    },
+    {
+      "id": "white-lotus-green-cotton-wool-dreamton-queen-6",
+      "brand": "White Lotus Home",
+      "name": "Cotton & Wool Dreamton",
+      "variant": "Queen · 6-inch · Green Cotton, not organic",
+      "price_usd": 1410.0,
+      "price_note": "Mattress only · protector required for trial",
+      "shipping_cost": "Free contiguous-US shipping",
+      "shipping_cost_usd": 0,
+      "dispatch": "Production: plan for 3–5 weeks*",
+      "arrival": "Then 2–5 business days transit. *Product says 1–4 weeks; FAQ says 3–5. Ready stock unconfirmed.",
+      "availability": "Orderable · exact ready stock unknown",
+      "materials": "Cotton core wrapped in wool; no foam or springs. Green Cotton is natural but not certified organic. Thread, labels and other small components remain unverified.",
+      "sleep": "Medium-firm, with a more traditional fiber feel. Cotton compacts and can firm up. Flipping and ventilation are ongoing requirements.",
+      "temperature": "Wool can manage moisture but also insulates. All-fiber construction alone does not prove a cooler mattress.",
+      "returns": "100 nights, after minimum 30-night trial; direct contiguous-US orders, protector required, no stains/damage. 70% cash refund OR 100% store credit valid 1 year; credit cannot combine with promotions. Coordinated removal free within 200 miles of New Brunswick, NJ, subject policy/address eligibility; do not dispose before approval.",
+      "caveat": "Only 70% cash back on a comfort return: $423 of the base price at risk. Protector costs extra; production guidance conflicts.",
+      "url": "https://www.whitelotushome.com/bedding/green-cotton-wool-dreamton-mattress.html",
+      "image_url": "https://cdn.whitelotushome.com/pimages/green-cotton-wool-dreamton-mattress-20260603140346707.webp",
+      "image_verification": {
+        "url": "https://cdn.whitelotushome.com/pimages/green-cotton-wool-dreamton-mattress-20260603140346707.webp",
+        "final_url": "https://cdn.whitelotushome.com/pimages/green-cotton-wool-dreamton-mattress-20260603140346707.webp",
+        "status": 200,
+        "content_type": "image/webp",
+        "bytes": 161024
+      },
+      "image_note": "Seller product photograph; representative product image, not independently verified exact queen dimensions.",
+      "sources": [
+        {
+          "url": "https://www.whitelotushome.com/bedding/green-cotton-wool-dreamton-mattress.html",
+          "label": "Green cotton wool dreamton mattress.html",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.whitelotushome.com/faq/",
+          "label": "Faq",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://docs.google.com/document/d/1-6kVduZjKpO0lD5hljP6txEuvvdB5TmmygY42buuFUA/export?format=txt",
+          "label": "Export",
+          "note": "Seller source · checked Sep 9, 2026"
+        }
+      ],
+      "badge": "All-fiber value",
+      "image": "assets/white-lotus-green-cotton-wool-dreamton-queen-6.webp"
+    },
+    {
+      "id": "futon-shop-pure-comfort-queen-natural",
+      "brand": "The Futon Shop",
+      "name": "Pure Comfort",
+      "variant": "Queen · Natural · cotton, wool & microcoils",
+      "price_usd": 797.48,
+      "price_note": "Sale item price · tax and delivery extra",
+      "shipping_cost": "Shipping charge: not yet quoted",
+      "shipping_cost_usd": null,
+      "dispatch": "Made to order: “within a few days”",
+      "arrival": "No exact queen ETA. Generic transit: 2–7 business days after dispatch; other policy estimates are longer.",
+      "availability": "Orderable · not ready-stock confirmation",
+      "materials": "Cotton, natural wool and pocketed steel microcoils. No foam listed, but coil-pocket fabric, adhesives and thread are unresolved.",
+      "sleep": "Seller-rated medium-firm with spring support. Natural-fill compression and foundation ventilation still matter; personal fit untested.",
+      "temperature": "Coils may allow airflow; wool handles moisture. Neither establishes a measured cooling advantage for this model.",
+      "returns": "POLICY CONFLICT: refund page offers 30-night refund or exchange at paid price ≥$759 after discounts; customer pays return freight, service charges nonrefundable, custom/special orders excluded. Separate comfort page still says exchange only/no refunds and product links it. Exact-order eligibility unconfirmed.",
+      "caveat": "Do not order yet: refund versus exchange-only policies conflict. Unknown shipping means this is not a verified lowest delivered price.",
+      "url": "https://www.thefutonshop.com/chemical-free-purecomfort-organic-cotton-wool-spring-mattress",
+      "image_url": "https://www.thefutonshop.com/media/catalog/product/p/u/purecom-natural-july-24-base.jpg",
+      "image_verification": {
+        "url": "https://www.thefutonshop.com/media/catalog/product/p/u/purecom-natural-july-24-base.jpg",
+        "final_url": "https://www.thefutonshop.com/media/catalog/product/p/u/purecom-natural-july-24-base.jpg",
+        "status": 200,
+        "content_type": "image/jpeg",
+        "bytes": 234657
+      },
+      "image_note": "Seller product photograph; representative product image, not independently verified exact queen dimensions.",
+      "sources": [
+        {
+          "url": "https://www.thefutonshop.com/chemical-free-purecomfort-organic-cotton-wool-spring-mattress",
+          "label": "Chemical free purecomfort organic cotton wool spring mattress",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thefutonshop.com/policy-store",
+          "label": "Policy store",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thefutonshop.com/policy-return-refund",
+          "label": "Policy return refund",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thefutonshop.com/30-days-comfort-guarantee",
+          "label": "30 days comfort guarantee",
+          "note": "Seller source · checked Sep 9, 2026"
+        }
+      ],
+      "badge": "Lowest mattress price",
+      "image": "assets/futon-shop-pure-comfort-queen-natural.webp"
+    },
+    {
+      "id": "shepherds-dream-all-wool-queen-5",
+      "brand": "Shepherd’s Dream / Holy Lamb",
+      "name": "All-Wool Mattress",
+      "variant": "Queen · approximately 5-inch · firm",
+      "price_usd": 2450.0,
+      "price_note": "Mattress only · any softening topper extra",
+      "shipping_cost": "Free standard continental-US shipping*",
+      "shipping_cost_usd": 0,
+      "dispatch": "Production: 8–12 weeks",
+      "arrival": "Then ground transit—generic guidance roughly 1 week to 10 days. Not an 8–12-week arrival promise.",
+      "availability": "Made to order · signature required",
+      "materials": "Wool batting inside woven wool fabric; no latex, synthetic foam or springs listed. Tuft/sewing thread and labels are not separately documented.",
+      "sleep": "Firm traditional wool feel. A side/mixed sleeper may need a topper. Flip, rotate and ventilate; no low-risk comfort trial.",
+      "temperature": "Wool buffers moisture but retains heat too. No verified head-to-head cooling result for this mattress.",
+      "returns": "FINAL SALE; all-wool orders cannot be canceled once placed. Policy mentions discretionary one-time cancellation exception at 30% restocking before shipping, not an entitlement. 30-day mattress comfort exchange covers only Holy Lamb Organics/Soaring Heart brands, not this Shepherd’s Dream model.",
+      "caveat": "Final sale; orders cannot normally be canceled. Firmness, long production and possible topper expense make this a demonstration—not the default pick.",
+      "url": "https://www.holylamborganics.com/products/wool-mattress?variant=799116649",
+      "image_url": "https://cdn.shopify.com/s/files/1/0338/2373/products/org._matt.jpg?v=1557874863",
+      "image_verification": {
+        "url": "https://cdn.shopify.com/s/files/1/0338/2373/products/org._matt.jpg?v=1557874863",
+        "final_url": "https://cdn.shopify.com/s/files/1/0338/2373/products/org._matt.jpg?v=1557874863",
+        "status": 200,
+        "content_type": "image/jpeg",
+        "bytes": 333201
+      },
+      "image_note": "Seller product photograph; representative product image, not independently verified exact queen dimensions.",
+      "sources": [
+        {
+          "url": "https://www.holylamborganics.com/products/wool-mattress.js",
+          "label": "Wool mattress.js",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.holylamborganics.com/products/wool-mattress",
+          "label": "Wool mattress",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.holylamborganics.com/pages/shipping",
+          "label": "Shipping",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.holylamborganics.com/pages/returns",
+          "label": "Returns",
+          "note": "Seller source · checked Sep 9, 2026"
+        }
+      ],
+      "badge": "Strictest main materials",
+      "image": "assets/shepherds-dream-all-wool-queen-5.webp"
+    }
+  ],
+  "bedding": [
+    {
+      "id": "bedding-ikea-cotton-wool",
+      "brand": "IKEA + Woolroom",
+      "name": "Cotton + Light Wool",
+      "variant": "Queen · white · IKEA linens + Woolroom insert",
+      "components": [
+        {
+          "name": "IKEA DVALA Sheet Set",
+          "quantity": 1,
+          "price_usd": 29.99,
+          "url": "https://www.ikea.com/us/en/p/dvala-sheet-set-white-70577531/",
+          "variant": "White / Queen; article 705.775.31; fitted 60×80 in; maximum mattress thickness 10 in",
+          "included": false,
+          "coverage": {
+            "fitted_sheet": 1,
+            "flat_sheet": 1,
+            "pillowcase": 2
+          },
+          "included_contents": [
+            "1 fitted sheet",
+            "1 flat sheet",
+            "2 Queen pillowcases"
+          ]
+        },
+        {
+          "name": "IKEA ÄNGSLILJA Duvet Cover and Pillowcases",
+          "quantity": 1,
+          "price_usd": 39.99,
+          "url": "https://www.ikea.com/us/en/p/aengslilja-duvet-cover-and-pillowcase-s-white-00318541/",
+          "variant": "White / Full/Queen; article 003.185.41; 86×86 in",
+          "included": false,
+          "coverage": {
+            "duvet_cover": 1,
+            "pillowcase": 2
+          },
+          "included_contents": [
+            "1 duvet cover",
+            "2 extra Queen pillowcases; NO insert"
+          ]
+        },
+        {
+          "name": "Woolroom Classic Wool Comforter — Light",
+          "quantity": 1,
+          "price_usd": 182,
+          "url": "https://www.thewoolroom.com/en-us/products/classic-wool-comforter-light?variant=54397817225601",
+          "variant": "Light; Queen / Full (86x86 inch); SKU 17030EC; no selectable color listed",
+          "included": false,
+          "coverage": {
+            "insert": 1
+          },
+          "included_contents": [
+            "1 wool-filled duvet/comforter insert; cover not included"
+          ]
+        }
+      ],
+      "price_note": "Complete setup · IKEA shipping and tax extra",
+      "shipping_cost": "IKEA: unquoted · Woolroom: free",
+      "shipping_cost_usd": null,
+      "dispatch": "Dispatch: not published",
+      "arrival": "IKEA ETA needs ZIP. Woolroom: 2–4 business days transit after dispatch. Two sellers / shipments.",
+      "availability": "Listed in stock · IKEA local delivery unverified",
+      "materials": "Cotton sheets and duvet cover; 200gsm British wool insert in cotton. Not certified organic. Elastic, press studs, thread and labels are not fully specified.",
+      "sleep": "Lowest-cost complete combination. Includes four pillowcases total. Plain white coordinates, but the fabrics are not one matching collection.",
+      "temperature": "Light wool insert, marketed for rooms at least 68°F. A reasonable light-layer approach, not proof of better cooling.",
+      "returns": "IKEA: 365 days new/unopened or 180 days opened, with proof of purchase; modified/dirty/stained/damaged items excluded. Store returns possible; mail/pickup cost unknown and must be arranged. Do not treat this as an unrestricted washed-bedding trial. Wool insert: 30-night trial from delivery, used eligible; keep original box, bags and tags/care labels. Return shipping is customer-paid unless optional checkout+ return protection was purchased (not included in total; price not verified). Refused/failed delivery can trigger a 50% charge. Follow dry-clean-only care; damage from washing is excluded.",
+      "caveat": "Fitted sheet fits only up to 10-inch mattress depth. Insert is dry-clean-only. Cover lacks verified corner ties; some seller-hosted reviews report rough fabric.",
+      "url": "https://www.ikea.com/us/en/p/aengslilja-duvet-cover-and-pillowcase-s-white-00318541/",
+      "image_url": "https://www.ikea.com/us/en/images/products/aengslilja-duvet-cover-and-pillowcase-s-white__1356030_pe953264_s5.jpg",
+      "sources": [
+        {
+          "url": "https://www.ikea.com/us/en/p/dvala-sheet-set-white-70577531/",
+          "label": "DVALA sheet set, white, Queen  - IKEA",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.ikea.com/us/en/p/aengslilja-duvet-cover-and-pillowcase-s-white-00318541/",
+          "label": "ÄNGSLILJA duvet cover and pillowcase(s), white, Full/Queen (Double/Queen)  - IKEA",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/products/classic-wool-comforter-light?variant=54397817225601",
+          "label": "Classic Wool Comforter - Light | British Wool | Woolroom",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.ikea.com/us/en/customer-service/services/delivery/",
+          "label": "Explore delivery service options and pricing - IKEA",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.ikea.com/us/en/customer-service/returns-claims/",
+          "label": "Return policies - IKEA",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.ikea.com/us/en/customer-service/returns-claims/return-policy/",
+          "label": "How to Return or Exchange Products - IKEA",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/delivery-information",
+          "label": "Delivery Information | Woolroom",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/returns-and-refunds",
+          "label": "Returns Policy – How to Return or Exchange Items | Woolroom",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/sleep-trials",
+          "label": "Sleep Trials – Try Bedding Risk-Free at Home | Woolroom",
+          "note": "Seller source · checked Sep 9, 2026"
+        }
+      ],
+      "fit": {
+        "queen_mattress_inches": [
+          60,
+          80
+        ],
+        "max_mattress_depth_inches": 10,
+        "duvet_cover_inches": [
+          86,
+          86
+        ],
+        "insert_inches": [
+          86,
+          86
+        ],
+        "nominal_match": "Exact cover/insert dimensions; mattress depth is a hard condition."
+      },
+      "price_usd": 251.98,
+      "coverage": {
+        "fitted_sheet": 1,
+        "flat_sheet": 1,
+        "pillowcase": 4,
+        "duvet_cover": 1,
+        "insert": 1,
+        "sham": 0
+      },
+      "image_note": "Manufacturer product photo of selected surface fabric/color; does not prove all setup components are pictured. Image endpoint verified HTTP 200.",
+      "badge": "Lowest complete-set price",
+      "image": "assets/bedding-ikea-cotton-wool.webp",
+      "fit_note": "Exact cover/insert dimensions; mattress depth is a hard condition. Fitted sheet depth: 10 in. Pillows and protector extra."
+    },
+    {
+      "id": "bedding-quince-percale-down",
+      "brand": "Quince",
+      "name": "Organic Percale + Down",
+      "variant": "Queen · white · matching bundle + light insert",
+      "components": [
+        {
+          "name": "Quince Organic Crisp Percale Deluxe Bedding Bundle",
+          "quantity": 1,
+          "price_usd": 169.9,
+          "url": "https://www.quince.com/home/organic-cotton-percale-deluxe-bedding-bundle?color=white&size=queen",
+          "variant": "Queen / White; SKU LB31491; fitted 60×80×16 in; cover 88×92 in",
+          "included": false,
+          "coverage": {
+            "fitted_sheet": 1,
+            "flat_sheet": 1,
+            "pillowcase": 2,
+            "duvet_cover": 1,
+            "sham": 2
+          },
+          "included_contents": [
+            "1 fitted sheet",
+            "1 flat sheet",
+            "2 pillowcases",
+            "1 duvet cover",
+            "2 shams; NO duvet insert"
+          ]
+        },
+        {
+          "name": "Quince Lightweight Premium Down Duvet Insert",
+          "quantity": 1,
+          "price_usd": 184,
+          "url": "https://www.quince.com/home/comforters-&-pillows/premium-lightweight-down-comforter?color=down&size=full%2Fqueen",
+          "variant": "Full/Queen; Lightweight; color option Down; 90×94 in; SKU LB69652",
+          "included": false,
+          "coverage": {
+            "insert": 1
+          },
+          "included_contents": [
+            "1 natural down/feather duvet insert; cover not included"
+          ]
+        }
+      ],
+      "price_note": "Complete setup · before tax",
+      "shipping_cost": "Free standard US shipping",
+      "shipping_cost_usd": 0,
+      "dispatch": "Dispatch: not published",
+      "arrival": "Arrival estimate requires checkout address. Items may ship separately.",
+      "availability": "Exact white queen + light insert listed in stock",
+      "materials": "Organic cotton percale sheets and cover. Natural down/feather insert in a cotton shell—not polyester down-alternative. Elastic, thread and small parts unverified.",
+      "sleep": "Crisp, smooth surface, deeper fitted sheets and a more reversible bedding return policy. The best-value one-brand setup in this comparison.",
+      "temperature": "Choose Lightweight, not All-Season. Low-loft down still insulates; no independent cooling advantage over light wool established.",
+      "returns": "Quince: 365-day free returns for ordinary eligible bedding; bedding is excepted from the general unworn/unwashed condition rule. Keep original internal packaging/tags; final-sale exceptions apply. Prepaid return label and no ordinary bedding restocking fee listed. Refund to original payment typically within 7 business days of warehouse receipt; payment-provider refund windows can instead yield store credit.",
+      "caveat": "Insert is 90×94 in; cover is 88×92 in—a slightly fuller fit, not exact. Insert care is spot/dry-clean recommended. Only surface fabrics are organic.",
+      "url": "https://www.quince.com/home/organic-cotton-percale-deluxe-bedding-bundle?color=white&size=queen",
+      "image_url": "https://images.quince.com/3EDhtCxpJUbP1IvjgrCV0A/308e89479e28dfa7d078d24b72aa6785/U-BEDD-169-WHT-40611_EDITED_1.jpg?fm=webP&q=90&w=1600",
+      "sources": [
+        {
+          "url": "https://www.quince.com/home/organic-cotton-percale-deluxe-bedding-bundle?color=white&size=queen",
+          "label": "Organic Crisp Percale Deluxe Bedding Bundle in White",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.quince.com/home/comforters-&-pillows/premium-lightweight-down-comforter?color=down&size=full%2Fqueen",
+          "label": "Lightweight Summerweight 650 Fill Power Premium White Down Duvet Insert Comforter in Down",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.quince.com/shipping",
+          "label": "Shipping and Return Policy",
+          "note": "Seller source · checked Sep 9, 2026"
+        }
+      ],
+      "fit": {
+        "queen_mattress_inches": [
+          60,
+          80
+        ],
+        "max_mattress_depth_inches": 16,
+        "duvet_cover_inches": [
+          88,
+          92
+        ],
+        "insert_inches": [
+          90,
+          94
+        ],
+        "nominal_match": "Slightly oversized insert; loop-and-tie attachment; not physically tested."
+      },
+      "price_usd": 353.9,
+      "coverage": {
+        "fitted_sheet": 1,
+        "flat_sheet": 1,
+        "pillowcase": 2,
+        "duvet_cover": 1,
+        "insert": 1,
+        "sham": 2
+      },
+      "image_note": "Manufacturer product photo of selected surface fabric/color; does not prove all setup components are pictured. Image endpoint verified HTTP 200.",
+      "badge": "Best coordinated value",
+      "image": "assets/bedding-quince-percale-down.webp",
+      "fit_note": "Slightly oversized insert; loop-and-tie attachment; not physically tested. Fitted sheet depth: 16 in. Pillows and protector extra."
+    },
+    {
+      "id": "bedding-woolroom-arinta-wool",
+      "brand": "Woolroom",
+      "name": "Organic Percale + Wool",
+      "variant": "Queen · vanilla · Arinta linens + light insert",
+      "components": [
+        {
+          "name": "Woolroom Arinta Organic Cotton Sheet Set",
+          "quantity": 1,
+          "price_usd": 191.75,
+          "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-linen-sheet-set-vanilla?variant=54517135999361",
+          "variant": "Vanilla / Queen (60×80 in); 18-inch fitted depth; variant 54517135999361",
+          "included": false,
+          "coverage": {
+            "fitted_sheet": 1,
+            "flat_sheet": 1,
+            "pillowcase": 2
+          },
+          "included_contents": [
+            "1 fitted sheet",
+            "1 flat sheet",
+            "2 Queen pillowcases; NO duvet cover or insert"
+          ]
+        },
+        {
+          "name": "Woolroom Arinta Organic Cotton Comforter Cover",
+          "quantity": 1,
+          "price_usd": 127.5,
+          "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-vanilla?variant=54397824172417",
+          "variant": "Vanilla / Queen / Full (86×86 in); variant 54397824172417",
+          "included": false,
+          "coverage": {
+            "duvet_cover": 1
+          },
+          "included_contents": [
+            "1 duvet cover only"
+          ]
+        },
+        {
+          "name": "Woolroom Classic Wool Comforter — Light",
+          "quantity": 1,
+          "price_usd": 182,
+          "url": "https://www.thewoolroom.com/en-us/products/classic-wool-comforter-light?variant=54397817225601",
+          "variant": "Light; Queen / Full (86x86 inch); SKU 17030EC; no selectable color listed",
+          "included": false,
+          "coverage": {
+            "insert": 1
+          },
+          "included_contents": [
+            "1 wool-filled duvet/comforter insert; cover not included"
+          ]
+        }
+      ],
+      "price_note": "Complete setup · observed sale prices · before tax",
+      "shipping_cost": "Free mainland-US shipping",
+      "shipping_cost_usd": 0,
+      "dispatch": "Dispatch: not published",
+      "arrival": "Ground transit: 2–4 business days after dispatch. No address-specific arrival date.",
+      "availability": "Selected linens and insert listed in stock",
+      "materials": "Organic cotton percale sheets and cover; 200gsm British wool insert in cotton. Insert is not sold as organic-certified. Fitted-sheet elastic and minor parts unresolved.",
+      "sleep": "One seller, 18-inch fitted depth and exactly matched 86×86-in cover/insert. Higher price buys coordination and fit, not proven superior sleep.",
+      "temperature": "Same light wool insert as the budget setup. Wool manages moisture but also insulates; the premium does not buy verified extra cooling.",
+      "returns": "Arinta sheets and cover: 14-day unused/original-condition returns, NOT a sleep trial; original packaging/bags/tags must stay intact. The sheet bundle does not qualify for the 60-night wool-system trial. Wool insert: 30-night trial from delivery, used eligible; keep original box, bags and tags/care labels. Return shipping is customer-paid unless optional checkout+ return protection was purchased (not included in total; price not verified). Refused/failed delivery can trigger a 50% charge. Follow dry-clean-only care; damage from washing is excluded.",
+      "caveat": "Sheets/cover: only 14-day unused returns. Insert: dry-clean-only. No cover corner ties; keep packaging and budget for return postage.",
+      "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-linen-sheet-set-vanilla?variant=54517135999361",
+      "image_url": "https://cdn.shopify.com/s/files/1/0905/3293/8113/files/Arinta-Sheet-Set-Vanilla-cropped.jpg?v=1787050501",
+      "sources": [
+        {
+          "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-linen-sheet-set-vanilla?variant=54517135999361",
+          "label": "Arinta Organic Cotton Sheet Set - Vanilla | Woolroom",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/products/arinta-organic-cotton-comforter-cover-vanilla?variant=54397824172417",
+          "label": "Arinta Organic Cotton Comforter Cover - Vanilla | Woolroom",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/products/classic-wool-comforter-light?variant=54397817225601",
+          "label": "Classic Wool Comforter - Light | British Wool | Woolroom",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/delivery-information",
+          "label": "Delivery Information | Woolroom",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/returns-and-refunds",
+          "label": "Returns Policy – How to Return or Exchange Items | Woolroom",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/sleep-trials",
+          "label": "Sleep Trials – Try Bedding Risk-Free at Home | Woolroom",
+          "note": "Seller source · checked Sep 9, 2026"
+        }
+      ],
+      "fit": {
+        "queen_mattress_inches": [
+          60,
+          80
+        ],
+        "max_mattress_depth_inches": 18,
+        "duvet_cover_inches": [
+          86,
+          86
+        ],
+        "insert_inches": [
+          86,
+          86
+        ],
+        "nominal_match": "Exact dimensions; cover intentionally has no corner ties."
+      },
+      "price_usd": 501.25,
+      "coverage": {
+        "fitted_sheet": 1,
+        "flat_sheet": 1,
+        "pillowcase": 2,
+        "duvet_cover": 1,
+        "insert": 1,
+        "sham": 0
+      },
+      "image_note": "Manufacturer product photo of selected surface fabric/color; does not prove all setup components are pictured. Image endpoint verified HTTP 200.",
+      "badge": "Coordinated wool-first set",
+      "image": "assets/bedding-woolroom-arinta-wool.webp",
+      "fit_note": "Exact dimensions; cover intentionally has no corner ties. Fitted sheet depth: 18 in. Pillows and protector extra."
+    },
+    {
+      "id": "bedding-quince-linen-down",
+      "brand": "Quince",
+      "name": "European Linen + Down",
+      "variant": "Queen · white · matching bundle + light insert",
+      "components": [
+        {
+          "name": "Quince European Linen Deluxe Bedding Bundle",
+          "quantity": 1,
+          "price_usd": 300,
+          "url": "https://www.quince.com/home/belgian-linen-duvet-deluxe-bundle?color=white&size=queen",
+          "variant": "Queen / White; SKU LB21013; fitted 60×80×16 in; cover 88×92 in",
+          "included": false,
+          "coverage": {
+            "fitted_sheet": 1,
+            "flat_sheet": 1,
+            "pillowcase": 2,
+            "duvet_cover": 1,
+            "sham": 2
+          },
+          "included_contents": [
+            "1 fitted sheet",
+            "1 flat sheet",
+            "2 pillowcases",
+            "1 duvet cover",
+            "2 shams; NO duvet insert"
+          ]
+        },
+        {
+          "name": "Quince Lightweight Premium Down Duvet Insert",
+          "quantity": 1,
+          "price_usd": 184,
+          "url": "https://www.quince.com/home/comforters-&-pillows/premium-lightweight-down-comforter?color=down&size=full%2Fqueen",
+          "variant": "Full/Queen; Lightweight; color option Down; 90×94 in; SKU LB69652",
+          "included": false,
+          "coverage": {
+            "insert": 1
+          },
+          "included_contents": [
+            "1 natural down/feather duvet insert; cover not included"
+          ]
+        }
+      ],
+      "price_note": "Complete setup · before tax",
+      "shipping_cost": "Free standard US shipping",
+      "shipping_cost_usd": 0,
+      "dispatch": "Dispatch: not published",
+      "arrival": "Arrival estimate requires checkout address. Items may ship separately.",
+      "availability": "Exact white queen + light insert listed in stock",
+      "materials": "100% European flax linen surfaces, not viscose. Natural down/feather insert in cotton. Not an all-organic setup; elastic, thread and closure materials incomplete.",
+      "sleep": "Relaxed, textured feel with 16-inch fitted depth. Choose for linen’s feel—not an established sleep benefit over cheaper cotton.",
+      "temperature": "Linen is a plausible breathable surface; lightweight down still insulates. Research does not establish linen universally beats percale.",
+      "returns": "Quince: 365-day free returns for ordinary eligible bedding; bedding is excepted from the general unworn/unwashed condition rule. Keep original internal packaging/tags; final-sale exceptions apply. Prepaid return label and no ordinary bedding restocking fee listed. Refund to original payment typically within 7 business days of warehouse receipt; payment-provider refund windows can instead yield store credit.",
+      "caveat": "Linen wrinkles and feels more textured. 90×94-in insert is slightly larger than 88×92-in cover. Insert needs spot/dry-clean care.",
+      "url": "https://www.quince.com/home/belgian-linen-duvet-deluxe-bundle?color=white&size=queen",
+      "image_url": "https://images.quince.com/1LifzBrY3fCTsTkrdIosC4/b852ab1eb45c098829386d56d02376d4/U-Bedd_49_171462_WHT_1.jpg?fm=webP&q=90&w=1600",
+      "sources": [
+        {
+          "url": "https://www.quince.com/home/belgian-linen-duvet-deluxe-bundle?color=white&size=queen",
+          "label": "100% European Linen Deluxe Bedding Bundle in White",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.quince.com/home/comforters-&-pillows/premium-lightweight-down-comforter?color=down&size=full%2Fqueen",
+          "label": "Lightweight Summerweight 650 Fill Power Premium White Down Duvet Insert Comforter in Down",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.quince.com/shipping",
+          "label": "Shipping and Return Policy",
+          "note": "Seller source · checked Sep 9, 2026"
+        }
+      ],
+      "fit": {
+        "queen_mattress_inches": [
+          60,
+          80
+        ],
+        "max_mattress_depth_inches": 16,
+        "duvet_cover_inches": [
+          88,
+          92
+        ],
+        "insert_inches": [
+          90,
+          94
+        ],
+        "nominal_match": "Slightly oversized insert; loop-and-tie attachment; not physically tested."
+      },
+      "price_usd": 484.0,
+      "coverage": {
+        "fitted_sheet": 1,
+        "flat_sheet": 1,
+        "pillowcase": 2,
+        "duvet_cover": 1,
+        "insert": 1,
+        "sham": 2
+      },
+      "image_note": "Manufacturer product photo of selected surface fabric/color; does not prove all setup components are pictured. Image endpoint verified HTTP 200.",
+      "badge": "Linen texture option",
+      "image": "assets/bedding-quince-linen-down.webp",
+      "fit_note": "Slightly oversized insert; loop-and-tie attachment; not physically tested. Fitted sheet depth: 16 in. Pillows and protector extra."
+    }
+  ],
+  "accessories": [
+    {
+      "id": "sleep-on-latex-shredded-pillow-queen",
+      "brand": "Sleep On Latex",
+      "name": "Shredded Latex Pillow",
+      "variant": "Queen · one pillow · 28×16 in",
+      "price_usd": 59,
+      "price_note": "One pillow · queen pair separately listed at $99",
+      "shipping_cost": "Free contiguous-US shipping",
+      "dispatch": "Dispatch: same / next business day",
+      "arrival": "Transit and arrival date not quoted.",
+      "availability": "Exact queen single listed in stock",
+      "materials": "Shredded natural latex, organic cotton outer cover and woven cotton inner cover. Zipper/thread composition is incomplete.",
+      "sleep": "Springy and shapeable; a lower-cost mixed-sleeper trial. Fill adjustability was not verified. Listed uncompressed loft is 7 inches.",
+      "temperature": "Shredded structure may ventilate, but latex can still feel warm. No measured cooling advantage verified.",
+      "returns": "30 days from receipt; full refund with paid FedEx label and no restocking fee. Only one item per product group may be returned/exchanged per customer within 12 months.",
+      "caveat": "Only the outer cover is specified washable. Do not assume removable fill or adjustable loft. One pillow—not a pair.",
+      "url": "https://sleeponlatex.com/products/shredded-foam-pillow/?variant=39912781250644",
+      "image_url": "https://sleeponlatex.com/img/221106_sleeponlatex-F-11_1200x630_c.jpg",
+      "sources": [
+        {
+          "url": "https://sleeponlatex.com/products/shredded-foam-pillow",
+          "label": "Shredded foam pillow",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://sleeponlatex.com/help/shipping",
+          "label": "Shipping",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://sleeponlatex.com/help/returns",
+          "label": "Returns",
+          "note": "Seller source · checked Sep 9, 2026"
+        }
+      ],
+      "badge": "Budget pillow / easy trial",
+      "image": "assets/sleep-on-latex-shredded-pillow-queen.webp"
+    },
+    {
+      "id": "woolroom-deluxe-pillow-queen",
+      "brand": "Woolroom",
+      "name": "Adjustable Wool Pillow",
+      "variant": "Queen · one pillow · 20×30 in",
+      "price_usd": 112,
+      "price_note": "One pillow · sale price · before tax",
+      "shipping_cost": "Free mainland-US shipping",
+      "dispatch": "Dispatch: not published",
+      "arrival": "Ground transit: 2–4 business days after dispatch.",
+      "availability": "Exact queen listed in stock",
+      "materials": "British wool balls and wool-quilted organic cotton cover. Zip/thread unspecified. Do not read washable or chemical-free copy as untreated wool.",
+      "sleep": "Remove or add wool to tune loft across sleep positions. Extra fill costs extra; occasional hand re-lofting is needed.",
+      "temperature": "Wool can buffer moisture but remains insulating. No independent exact-pillow cooling result.",
+      "returns": "30-night sleep trial from delivery, including used/washed eligible bedding. Original box, bags, tags required; wash damage excluded. Customer pays return shipping unless Checkout+ return protection was purchased; its price was not verified. Refund processing within 14 days of receipt. Do not read risk-free as free return shipping.",
+      "caveat": "Remove wool balls before washing the cover; line dry. Some seller-hosted reviews report compaction or a stiff cover. Return postage is not automatically free.",
+      "url": "https://www.thewoolroom.com/en-us/products/deluxe-washable-wool-pillow-us?variant=54397819322753",
+      "image_url": "https://www.thewoolroom.com/cdn/shop/files/US-deluxe-pillow-image-1.jpg?v=1753185067",
+      "sources": [
+        {
+          "url": "https://www.thewoolroom.com/en-us/products/deluxe-washable-wool-pillow-us",
+          "label": "Deluxe washable wool pillow us",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/delivery-information",
+          "label": "Delivery information",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/returns-and-refunds",
+          "label": "Returns and refunds",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/sleep-trials",
+          "label": "Sleep trials",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/the-home-of-machine-washability",
+          "label": "The home of machine washability",
+          "note": "Seller source · checked Sep 9, 2026"
+        }
+      ],
+      "badge": "Tuneable natural-fill loft",
+      "image": "assets/woolroom-deluxe-pillow-queen.webp"
+    },
+    {
+      "id": "woolroom-deluxe-protector-queen",
+      "brand": "Woolroom",
+      "name": "Wool Mattress Protector",
+      "variant": "Queen · non-waterproof · 18-inch skirt",
+      "price_usd": 238,
+      "price_note": "Protector only · sale price · before tax",
+      "shipping_cost": "Free mainland-US shipping",
+      "dispatch": "Dispatch: not published",
+      "arrival": "Ground transit: 2–4 business days after dispatch.",
+      "availability": "Exact queen listed in stock",
+      "materials": "Washable British wool and organic cotton outer/skirt. Elastic and stitching unknown. Manufacturer specifically discloses chlorine treatment of Deluxe wool; no resin verified.",
+      "sleep": "Thin protection layer, not a pressure-relieving topper. Check fitted depth and the underlying mattress’s protector requirements.",
+      "temperature": "Wool may handle moisture, but adds insulation. The seller’s large heat-removal claim was not independently supported.",
+      "returns": "30-night sleep trial from delivery, including used/washed eligible bedding. Original box, bags, tags required; wash damage excluded. Customer pays return shipping unless Checkout+ return protection was purchased; its price was not verified. Refund processing within 14 days of receipt. Do not read risk-free as free return shipping.",
+      "caveat": "Not waterproof; not reliable spill/urine protection. Wool-cycle care and line drying. Natural materials do not mean unprocessed.",
+      "url": "https://www.thewoolroom.com/en-us/products/deluxe-washable-wool-mattress-protector-us?variant=54397821813121",
+      "image_url": "https://www.thewoolroom.com/cdn/shop/files/US-Deluxe-wool-protector-image-2.jpg?v=1754501715",
+      "sources": [
+        {
+          "url": "https://www.thewoolroom.com/en-us/products/deluxe-washable-wool-mattress-protector-us",
+          "label": "Deluxe washable wool mattress protector us",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/delivery-information",
+          "label": "Delivery information",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/returns-and-refunds",
+          "label": "Returns and refunds",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/sleep-trials",
+          "label": "Sleep trials",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.thewoolroom.com/en-us/pages/the-home-of-machine-washability",
+          "label": "The home of machine washability",
+          "note": "Seller source · checked Sep 9, 2026"
+        }
+      ],
+      "badge": "Optional moisture-buffering layer",
+      "image": "assets/woolroom-deluxe-protector-queen.webp"
+    },
+    {
+      "id": "coyuchi-cotton-pad-queen",
+      "brand": "Coyuchi",
+      "name": "Organic Cotton Mattress Pad",
+      "variant": "Queen · white · non-waterproof · 15-inch pocket",
+      "price_usd": 298,
+      "price_note": "$298 item + $10 standalone shipping = $308 before tax",
+      "shipping_cost": "$10 shipping alone · free at $300+ subtotal",
+      "dispatch": "Processing: extended delays flagged",
+      "arrival": "UPS Ground: 5–7 business days; extra processing possible. Exact arrival unquoted.",
+      "availability": "Exact white queen listed in stock",
+      "materials": "Organic cotton fabric and batting, quilted percale encasement. Full elastic fitted edge; elastic/thread composition unknown.",
+      "sleep": "Light cushioning and everyday protection. Machine-washable cotton is easier-care than dry-clean wool inserts.",
+      "temperature": "Breathable cotton construction, but another batting layer can add warmth. Not a verified cooling upgrade.",
+      "returns": "Free returns within 30 days for full merchandise refund, even washed/worn; through 180 days from purchase for store credit minus $15 restocking fee. Final sale, made-to-order and purchases discounted 50%+ excluded.",
+      "caveat": "Premium optional pad, not a budget essential. Non-waterproof and only a 15-inch pocket. Avoid adding unneeded layers just for “cooling”.",
+      "url": "https://www.coyuchi.com/products/organic-cotton-mattress-pad-white?variant=50911856951588",
+      "image_url": "https://www.coyuchi.com/cdn/shop/files/mattresspad_alpinewhite_a_sp22_0910_f6b7dbf4-e9ce-4d04-8d6e-d55fcc6d9507.jpg?v=1753834819",
+      "sources": [
+        {
+          "url": "https://www.coyuchi.com/products/organic-cotton-mattress-pad-white",
+          "label": "Organic cotton mattress pad white",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.coyuchi.com/products/organic-cotton-mattress-pad-white.js",
+          "label": "Organic cotton mattress pad white.js",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.coyuchi.com/pages/shipping",
+          "label": "Shipping",
+          "note": "Seller source · checked Sep 9, 2026"
+        },
+        {
+          "url": "https://www.coyuchi.com/pages/returns",
+          "label": "Returns",
+          "note": "Seller source · checked Sep 9, 2026"
+        }
+      ],
+      "badge": "Cotton-only main padding",
+      "image": "assets/coyuchi-cotton-pad-queen.webp"
+    }
+  ],
+  "mattress_summary": "Start with Sleep On Latex for the most reversible comfort trial; White Lotus for all-fiber construction. Futon Shop is the budget lead, pending clarification.",
+  "bedding_summary": "Every setup includes fitted + flat sheets, at least two pillowcases, a duvet cover and the actual insert. Quince percale is the strongest coordinated value; IKEA + wool costs less.",
+  "context": [
+    "Comparison brief: queen, affordable as practical, mixed sleep positions, cooler nights and fewer synthetic materials. All-fiber, spring and natural-latex mattresses remain in scope. No body-weight, firmness, allergy or foundation fit has been established; comfort judgments are provisional.",
+    "Latex: organic natural latex foam is processed natural rubber. It is not polyurethane memory foam, but rubber versus plastic terminology does not establish no additives or no particle shedding. GOLS certification is not a zero-microplastics certificate.",
+    "Endorsements: Huberman Lab lists Helix and Eight Sleep as sponsors. Eight Sleep publishes Huberman’s Pod personal-use testimonial and announced Huberman and Matthew Walker as scientific advisors in 2024. The Pod is a temperature-control cover, not the underlying mattress. No exact Helix model or Walker mattress recommendation was verified. These commercial affiliations do not validate natural materials or cooling performance.",
+    "Fresh Grok searches of SolBrah and NaturallyFTW returned leads but no retrievable original posts supporting an exact bedding endorsement. No candidate is presented as verified influencer-recommended. Manufacturer descriptions establish advertised construction; they do not independently prove sleep or health benefits.",
+    "Other mattress leads retained in the research: Naturepedic’s latex-free model explicitly includes PLA, polypropylene and polyester components; Comfort Pure access and returns were unresolved; Home of Wool carries quote/import and nonreturnability questions. None provided a clearly better verified fit for the materials-and-value brief.",
+    "Delivery: mainland/contiguous-US policies, not an address-specific quote. Dispatch, production and transit are separate. Unknown delivery timing stays unknown. Prices exclude tax, optional protection plans and accessories. Photos are seller-sourced product illustrations and do not imply all included items are pictured."
+  ]
+}
