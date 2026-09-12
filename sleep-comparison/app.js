@@ -8,7 +8,7 @@ function card(item) {
  return `<article class="card" id="${esc(item.id)}"><div class="photo">${item.image ? `<img src="${safeURL(item.image)}" alt="${esc(item.brand + ' ' + item.name)}" loading="lazy" width="600" height="400">` : ''}<span class="badge">${esc(item.badge || 'Materials-first option')}</span></div>
  <div class="card-title"><div class="brand">${esc(item.brand)}</div><h3>${esc(item.name)}</h3><p class="variant">${esc(item.variant)}</p></div>
  <div class="commerce"><div class="amount">${money(item.price_usd)}</div><p class="price-note">${esc(item.price_note || 'Before tax; delivery costs below')}</p><div class="shipping"><strong>${esc(item.dispatch)}</strong><span>${esc(item.arrival)}</span></div><div class="shipping"><strong>${esc(item.shipping_cost)}</strong></div>${item.availability ? `<p class="availability">${esc(item.availability)}</p>` : ''}</div>
- <div class="evaluation">${[['Natural materials',item.materials],['Sleep advantages',item.sleep],['Temperature',item.temperature]].map(([label,text]) => `<section class="criterion"><h4>${label}</h4><p>${esc(text)}</p></section>`).join('')}</div>
+ <div class="evaluation">${[['Natural materials',item.materials],['Sleep advantages',item.sleep],['Temperature',item.temperature]].map(([label,text]) => `<section class="criterion"><h4>${label}</h4><p>${esc(text)}</p></section>`).join('')}</div>${item.criteria ? `<section class="criteria-fit"><h4>${esc(item.criteria_status || 'Construction criteria')}</h4><ul>${item.criteria.map(([label,status])=>`<li><strong>${esc(label)}</strong> — ${esc(status)}</li>`).join('')}</ul></section>` : ''}
  <div class="risk"><strong>THE TRADEOFF</strong>${esc(item.caveat)}</div>
  <div class="card-bottom">${components.length ? `<details><summary>What’s included · itemized price</summary><div class="detail-body">${components.map(c=>`<div class="component"><a href="${safeURL(c.url)}" target="_blank" rel="noopener noreferrer">${esc(c.name)}<small>${esc(c.variant || '')}${c.quantity>1 ? ` · qty ${c.quantity}` : ''}${c.included_contents ? `<br>${esc(c.included_contents.join(' · '))}` : ''}</small></a><span>${c.included ? 'Included' : money(c.price_usd)}</span></div>`).join('')}<p style="margin-top:10px">${esc(item.fit_note || 'Pillow inserts and mattress protector are separate.')}</p></div></details>` : ''}
  <details><summary>Returns & care</summary><div class="detail-body">${esc(item.returns)}${item.care ? `<p style="margin-top:8px">${esc(item.care)}</p>` : ''}</div></details>
@@ -27,7 +27,7 @@ for(const button of document.querySelectorAll('[data-tab]')) {
 window.addEventListener('hashchange',()=>setTab(location.hash.slice(1),false));
 document.getElementById('back-top').addEventListener('click',e=>{e.preventDefault();window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});});
 setTab(location.hash.slice(1),false);
-fetch('data.json?v=2').then(response=>{if(!response.ok)throw new Error('Comparison data unavailable');return response.json();}).then(data=>{
+fetch('data.json?v=3').then(response=>{if(!response.ok)throw new Error('Comparison data unavailable');return response.json();}).then(data=>{
  if(data.mattresses.length!==4 || data.bedding.length!==4) throw new Error('Incomplete comparison');
  document.getElementById('mattress-grid').innerHTML=data.mattresses.map(card).join('');
  document.getElementById('bedding-grid').innerHTML=data.bedding.map(card).join('');

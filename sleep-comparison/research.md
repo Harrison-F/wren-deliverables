@@ -867,6 +867,25 @@ White / Queen; 60 × 80 × 15 in; SKU 1018616; variant 50911856951588
 
 - https://www.eightsleep.com/blog/welcoming-new-scientific-advisory-board/
 
+## Criteria refresh — September 12, 2026
+
+### Why the mattress cards changed
+
+The linked `@AlpacaAurelius` and `@SolBrah` URLs were checked through the documented Grok/X search path. X did not provide retrievable original post objects/text. Grok returned generated summaries that pointed to these preferences: **avoid metal coil support; natural latex; cotton outer cover; avoid synthetic foam/materials; at least 8 inches thick.** The summaries are a product-selection lead only—not original-post evidence and not proof of EMF, testosterone, off-gassing, PFAS, microplastic, or health claims.
+
+The display now uses this construction rubric. Each displayed Queen mattress is ≥8 inches, lists coil-free latex/cotton/wool or latex/cotton construction, and has no polyurethane, memory foam, or synthetic latex disclosed in the main listed layers. This is deliberately limited: it does not establish every thread, zipper, label, adhesive, packaging component, or treatment is natural or plastic-free.
+
+### Current construction-first finalists
+
+1. **Sleep On Latex Pure Green, Queen Medium/Firm, 9 in — $1,299.** Solid organic natural latex, GOTS cotton cover and GOTS New Zealand wool; free contiguous-US shipping; live dispatch statement: 2–3 weeks; 100-day free-pickup full-refund trial. Best simple construction match.
+2. **Sleep EZ Select Sleep Organic Latex, Queen 10 in — $2,099.** Three natural-latex layers, organic cotton zip cover and wool fire barrier; free lower-48 shipping; maker says 1–2 business-day dispatch plus 2–5 business-day delivery; 90 days less $99. Queen can use split firmness layers.
+3. **PlushBeds Botanical Bliss, Queen 9 in — $2,024.** Cotton/wool cover plus organic latex layers; free lower-48 FedEx; 365-night trial after 30 days. Current dispatch timing and exact fire-barrier treatment were not verified.
+4. **FloBeds Natural Latex Vegan, Queen Select 9 in — $2,719.20.** Natural Talalay latex with organic cotton cover/batting, no wool. Shipping price, current dispatch, returns and flammability method are unverified; it is a conditional alternative, not the default pick.
+
+**All-wool result:** no verified Queen all-wool mattress ≥8 inches was found in the bounded refresh. Home of Wool describes its mattresses as up to 7 inches. The thickness criterion was not bent to retain an all-wool card.
+
+Full dated source record: [criteria-mattress-refresh-2026-09-12.md](../../raw/sources/criteria-mattress-refresh-2026-09-12.md).
+
 ## Scientific context
 
 The earlier inspected 17-person sleepwear/duvet study found no effect of bedding type on its measured sleep variables. It was not a mattress trial and involved wool-industry support. No exact candidate has independently established particle exposure reduction or a superior sleep outcome.
