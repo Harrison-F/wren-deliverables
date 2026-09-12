@@ -2,98 +2,44 @@
   "verified_date": "2026-09-09",
   "mattresses": [
     {
-      "id": "sleep-on-latex-pure-green-queen-medium",
-      "brand": "Sleep On Latex",
-      "name": "Pure Green Latex",
-      "variant": "Queen · Medium · 8-inch latex core",
-      "price_usd": 1299.0,
-      "price_note": "Mattress only · before tax",
-      "shipping_cost": "Free contiguous-US shipping",
-      "shipping_cost_usd": 0,
-      "dispatch": "Dispatch: same / next business day",
-      "arrival": "Transit and arrival date not quoted.",
-      "availability": "Exact queen medium orderable",
-      "materials": "Organic natural latex foam, wool and cotton—including cotton quiltbacking. Processed rubber, not an all-fiber mattress. Minor-component composition is incomplete.",
-      "sleep": "Responsive cushioning; Medium is the provisional mixed-sleeper pick. Strongest return flexibility here. Heavy: queen medium is listed at 125 lb.",
-      "temperature": "Breathable construction is plausible, but individual heat response varies. No independent exact-model cooling advantage verified.",
-      "returns": "Full mattress refund within 100 days of receipt; free pickup; no return freight/restocking deduction. One return/exchange per product group per 12 months. Expedited/out-of-area shipping and custom-size surcharges excluded.",
-      "caveat": "Still rubber foam. No zero-particle claim. Check frame support and slat spacing before ordering.",
-      "url": "https://sleeponlatex.com/products/natural-latex-mattress/?variant=5837161989",
-      "image_url": "https://sleeponlatex.com/img/01_Hero_231486872_1024x.jpg",
-      "image_verification": {
-        "url": "https://sleeponlatex.com/img/01_Hero_231486872_1024x.jpg",
-        "final_url": "https://sleeponlatex.com/img/01_Hero_231486872_1024x.jpg",
-        "status": 200,
-        "content_type": "image/jpeg",
-        "bytes": 219796
-      },
-      "image_note": "Seller product photograph; representative product image, not independently verified exact queen dimensions.",
+      "id": "j-life-queen-cotton-shikifuton",
+      "brand": "J-Life",
+      "name": "Cotton Shikifuton",
+      "variant": "Queen · 4-inch · 60×80 in",
+      "badge": "Lowest verified item price",
+      "price_usd": 399,
+      "price_note": "Mattress only · shipping and tax extra",
+      "dispatch": "Dispatch: 1–2 business days",
+      "arrival": "Ground transit / exact arrival not quoted. Product’s 24-hour claim is shorter than policy guidance.",
+      "shipping_cost": "Shipping: calculated at checkout",
+      "availability": "Queen 4-inch listed available; price rechecked Sep 12",
+      "materials": "Cotton batting and unbleached cotton-duck shell. No foam, wool or springs. Uses a boron compound for fire resistance; small components are not fully disclosed.",
+      "sleep": "Thin, firm Japanese-style mattress. The 4-inch version adds cushioning over the same-price 3-inch option, but mixed/side sleepers may feel shoulder or hip pressure.",
+      "temperature": "Cotton offers a breathable surface, but no cooler-sleep advantage was tested. Needs regular airing, flipping and moisture control.",
+      "returns": "Request within 14 calendar days FROM SHIPPING. Bedding must be intact in original packaging/as-new. Eligible refunds lose 25% restocking plus original and return shipping. No used-mattress comfort trial.",
+      "caveat": "A firm floor/platform futon—not a conventional cushioned mattress. Poor returns: $99.75 base restocking if eligible, plus freight. Base, tatami and extra cover not included.",
+      "url": "https://jlifeinternational.com/products/j-life-shikifuton?variant=7084498518067",
+      "image": "assets/j-life-queen-cotton-shikifuton.webp",
+      "image_url": "https://cdn.shopify.com/s/files/1/0006/8789/8675/products/2313a4104c5549b00fbf2c2b16eee4a1_c0028f57-5d47-4991-a959-f3d3d82e3e8c.jpg?v=1756404629",
       "sources": [
         {
-          "url": "https://sleeponlatex.com/products/natural-latex-mattress/",
-          "label": "Natural latex mattress",
-          "note": "Seller source · checked Sep 9, 2026"
+          "url": "https://jlifeinternational.com/products/j-life-shikifuton?variant=7084498518067",
+          "label": "Exact Queen 4-inch product"
         },
         {
-          "url": "https://sleeponlatex.com/help/shipping",
-          "label": "Shipping",
-          "note": "Seller source · checked Sep 9, 2026"
+          "url": "https://jlifeinternational.com/policies/shipping-policy",
+          "label": "Shipping & lead times"
         },
         {
-          "url": "https://sleeponlatex.com/help/returns",
-          "label": "Returns",
-          "note": "Seller source · checked Sep 9, 2026"
+          "url": "https://jlifeinternational.com/policies/refund-policy",
+          "label": "Return restrictions"
+        },
+        {
+          "url": "https://jlifeinternational.com/blogs/news/caring-for-your-shikifuton",
+          "label": "Airing, flipping & care"
         }
       ],
-      "badge": "Best comfort trial",
-      "image": "assets/sleep-on-latex-pure-green-queen-medium.webp"
-    },
-    {
-      "id": "white-lotus-green-cotton-wool-dreamton-queen-6",
-      "brand": "White Lotus Home",
-      "name": "Cotton & Wool Dreamton",
-      "variant": "Queen · 6-inch · Green Cotton, not organic",
-      "price_usd": 1410.0,
-      "price_note": "Mattress only · protector required for trial",
-      "shipping_cost": "Free contiguous-US shipping",
-      "shipping_cost_usd": 0,
-      "dispatch": "Production: plan for 3–5 weeks*",
-      "arrival": "Then 2–5 business days transit. *Product says 1–4 weeks; FAQ says 3–5. Ready stock unconfirmed.",
-      "availability": "Orderable · exact ready stock unknown",
-      "materials": "Cotton core wrapped in wool; no foam or springs. Green Cotton is natural but not certified organic. Thread, labels and other small components remain unverified.",
-      "sleep": "Medium-firm, with a more traditional fiber feel. Cotton compacts and can firm up. Flipping and ventilation are ongoing requirements.",
-      "temperature": "Wool can manage moisture but also insulates. All-fiber construction alone does not prove a cooler mattress.",
-      "returns": "100 nights, after minimum 30-night trial; direct contiguous-US orders, protector required, no stains/damage. 70% cash refund OR 100% store credit valid 1 year; credit cannot combine with promotions. Coordinated removal free within 200 miles of New Brunswick, NJ, subject policy/address eligibility; do not dispose before approval.",
-      "caveat": "Only 70% cash back on a comfort return: $423 of the base price at risk. Protector costs extra; production guidance conflicts.",
-      "url": "https://www.whitelotushome.com/bedding/green-cotton-wool-dreamton-mattress.html",
-      "image_url": "https://cdn.whitelotushome.com/pimages/green-cotton-wool-dreamton-mattress-20260603140346707.webp",
-      "image_verification": {
-        "url": "https://cdn.whitelotushome.com/pimages/green-cotton-wool-dreamton-mattress-20260603140346707.webp",
-        "final_url": "https://cdn.whitelotushome.com/pimages/green-cotton-wool-dreamton-mattress-20260603140346707.webp",
-        "status": 200,
-        "content_type": "image/webp",
-        "bytes": 161024
-      },
-      "image_note": "Seller product photograph; representative product image, not independently verified exact queen dimensions.",
-      "sources": [
-        {
-          "url": "https://www.whitelotushome.com/bedding/green-cotton-wool-dreamton-mattress.html",
-          "label": "Green cotton wool dreamton mattress.html",
-          "note": "Seller source · checked Sep 9, 2026"
-        },
-        {
-          "url": "https://www.whitelotushome.com/faq/",
-          "label": "Faq",
-          "note": "Seller source · checked Sep 9, 2026"
-        },
-        {
-          "url": "https://docs.google.com/document/d/1-6kVduZjKpO0lD5hljP6txEuvvdB5TmmygY42buuFUA/export?format=txt",
-          "label": "Export",
-          "note": "Seller source · checked Sep 9, 2026"
-        }
-      ],
-      "badge": "All-fiber value",
-      "image": "assets/white-lotus-green-cotton-wool-dreamton-queen-6.webp"
+      "verified_note": "Materials and policies inspected Sep 9, 2026. Exact queen price/availability rechecked in merchant API Sep 12. No physical comfort or cooling test."
     },
     {
       "id": "futon-shop-pure-comfort-queen-natural",
@@ -148,56 +94,87 @@
       "image": "assets/futon-shop-pure-comfort-queen-natural.webp"
     },
     {
-      "id": "shepherds-dream-all-wool-queen-5",
-      "brand": "Shepherd’s Dream / Holy Lamb",
-      "name": "All-Wool Mattress",
-      "variant": "Queen · approximately 5-inch · firm",
-      "price_usd": 2450.0,
-      "price_note": "Mattress only · any softening topper extra",
-      "shipping_cost": "Free standard continental-US shipping*",
+      "id": "sleep-ez-roma-queen",
+      "brand": "Sleep EZ",
+      "name": "Roma Latex Mattress",
+      "variant": "Queen · 9-inch · medium / firm flip",
+      "badge": "Conventional comfort compromise",
+      "price_usd": 909,
+      "price_note": "Mattress + standard shipping · before tax",
+      "dispatch": "Usually dispatches in 3–4 business days",
+      "arrival": "Then typically 3–10 business days transit. No address-specific arrival guarantee.",
+      "shipping_cost": "Free shipping to the lower 48 states",
+      "availability": "Queen available when checked Sep 9",
+      "materials": "6-inch natural Dunlop latex core. Organic-cotton covers quilted to synthetic CertiPUR-US foam. Meaningful natural fill, but NOT foam-free or all-natural construction.",
+      "sleep": "Flips between medium and firm; a more conventional cushioned bed than a cotton futon. Queen purchase advertises two latex pillows; exact pillow specifications not audited.",
+      "temperature": "Latex airflow is a plausible advantage, not measured cooling proof. Synthetic quilting and the rest of your bedding may affect warmth.",
+      "returns": "Roma-specific 90-day trial with a $99 return fee; arrange directly with seller. Ten-year limited manufacturing-defect warranty excludes shipping.",
+      "caveat": "The “100% latex mattress” headline does not account for synthetic foam quilted into the covers. This is a materials/comfort compromise, not a zero-plastic option.",
+      "url": "https://sleepez.com/product/roma-latex-mattress/",
+      "image": "assets/sleep-ez-roma-queen.webp",
+      "image_url": "https://sleepez.com/wp-content/uploads/2023/08/roma.jpg",
+      "sources": [
+        {
+          "url": "https://sleepez.com/product/roma-latex-mattress/",
+          "label": "Roma construction & exact queen price"
+        },
+        {
+          "url": "https://sleepez.com/shipping/",
+          "label": "Shipping & transit"
+        },
+        {
+          "url": "https://sleepez.com/returns-exchange-policy/",
+          "label": "Roma-specific return fee"
+        }
+      ],
+      "verified_note": "Exact Queen $909, in-stock variation and foam quilting verified on original browser page Sep 9, 2026. No independent exact-model cooling test."
+    },
+    {
+      "id": "sleep-on-latex-pure-green-queen-medium",
+      "brand": "Sleep On Latex",
+      "name": "Pure Green Latex",
+      "variant": "Queen · Medium · 8-inch latex core",
+      "price_usd": 1299.0,
+      "price_note": "Mattress only · before tax",
+      "shipping_cost": "Free contiguous-US shipping",
       "shipping_cost_usd": 0,
-      "dispatch": "Production: 8–12 weeks",
-      "arrival": "Then ground transit—generic guidance roughly 1 week to 10 days. Not an 8–12-week arrival promise.",
-      "availability": "Made to order · signature required",
-      "materials": "Wool batting inside woven wool fabric; no latex, synthetic foam or springs listed. Tuft/sewing thread and labels are not separately documented.",
-      "sleep": "Firm traditional wool feel. A side/mixed sleeper may need a topper. Flip, rotate and ventilate; no low-risk comfort trial.",
-      "temperature": "Wool buffers moisture but retains heat too. No verified head-to-head cooling result for this mattress.",
-      "returns": "FINAL SALE; all-wool orders cannot be canceled once placed. Policy mentions discretionary one-time cancellation exception at 30% restocking before shipping, not an entitlement. 30-day mattress comfort exchange covers only Holy Lamb Organics/Soaring Heart brands, not this Shepherd’s Dream model.",
-      "caveat": "Final sale; orders cannot normally be canceled. Firmness, long production and possible topper expense make this a demonstration—not the default pick.",
-      "url": "https://www.holylamborganics.com/products/wool-mattress?variant=799116649",
-      "image_url": "https://cdn.shopify.com/s/files/1/0338/2373/products/org._matt.jpg?v=1557874863",
+      "dispatch": "Dispatch: same / next business day",
+      "arrival": "Transit and arrival date not quoted.",
+      "availability": "Exact queen medium orderable",
+      "materials": "Organic natural latex foam, wool and cotton—including cotton quiltbacking. Processed rubber, not an all-fiber mattress. Minor-component composition is incomplete.",
+      "sleep": "Responsive cushioning; Medium is the provisional mixed-sleeper pick. Strongest return flexibility here. Heavy: queen medium is listed at 125 lb.",
+      "temperature": "Breathable construction is plausible, but individual heat response varies. No independent exact-model cooling advantage verified.",
+      "returns": "Full mattress refund within 100 days of receipt; free pickup; no return freight/restocking deduction. One return/exchange per product group per 12 months. Expedited/out-of-area shipping and custom-size surcharges excluded.",
+      "caveat": "Still rubber foam. No zero-particle claim. Check frame support and slat spacing before ordering.",
+      "url": "https://sleeponlatex.com/products/natural-latex-mattress/?variant=5837161989",
+      "image_url": "https://sleeponlatex.com/img/01_Hero_231486872_1024x.jpg",
       "image_verification": {
-        "url": "https://cdn.shopify.com/s/files/1/0338/2373/products/org._matt.jpg?v=1557874863",
-        "final_url": "https://cdn.shopify.com/s/files/1/0338/2373/products/org._matt.jpg?v=1557874863",
+        "url": "https://sleeponlatex.com/img/01_Hero_231486872_1024x.jpg",
+        "final_url": "https://sleeponlatex.com/img/01_Hero_231486872_1024x.jpg",
         "status": 200,
         "content_type": "image/jpeg",
-        "bytes": 333201
+        "bytes": 219796
       },
       "image_note": "Seller product photograph; representative product image, not independently verified exact queen dimensions.",
       "sources": [
         {
-          "url": "https://www.holylamborganics.com/products/wool-mattress.js",
-          "label": "Wool mattress.js",
+          "url": "https://sleeponlatex.com/products/natural-latex-mattress/",
+          "label": "Natural latex mattress",
           "note": "Seller source · checked Sep 9, 2026"
         },
         {
-          "url": "https://www.holylamborganics.com/products/wool-mattress",
-          "label": "Wool mattress",
-          "note": "Seller source · checked Sep 9, 2026"
-        },
-        {
-          "url": "https://www.holylamborganics.com/pages/shipping",
+          "url": "https://sleeponlatex.com/help/shipping",
           "label": "Shipping",
           "note": "Seller source · checked Sep 9, 2026"
         },
         {
-          "url": "https://www.holylamborganics.com/pages/returns",
+          "url": "https://sleeponlatex.com/help/returns",
           "label": "Returns",
           "note": "Seller source · checked Sep 9, 2026"
         }
       ],
-      "badge": "Strictest main materials",
-      "image": "assets/shepherds-dream-all-wool-queen-5.webp"
+      "badge": "Best comfort trial",
+      "image": "assets/sleep-on-latex-pure-green-queen-medium.webp"
     }
   ],
   "bedding": [
@@ -860,7 +837,7 @@
       "image": "assets/coyuchi-cotton-pad-queen.webp"
     }
   ],
-  "mattress_summary": "Start with Sleep On Latex for the most reversible comfort trial; White Lotus for all-fiber construction. Futon Shop is the budget lead, pending clarification.",
+  "mattress_summary": "Lowest item price first. J-Life is a thin, firm futon; Roma is a conventional comfort compromise. Unquoted shipping means item-price order is not delivered-cost order.",
   "bedding_summary": "Every setup includes fitted + flat sheets, at least two pillowcases, a duvet cover and the actual insert. Quince percale is the strongest coordinated value; IKEA + wool costs less.",
   "context": [
     "Comparison brief: queen, affordable as practical, mixed sleep positions, cooler nights and fewer synthetic materials. All-fiber, spring and natural-latex mattresses remain in scope. No body-weight, firmness, allergy or foundation fit has been established; comfort judgments are provisional.",
@@ -868,6 +845,7 @@
     "Endorsements: Huberman Lab lists Helix and Eight Sleep as sponsors. Eight Sleep publishes Huberman’s Pod personal-use testimonial and announced Huberman and Matthew Walker as scientific advisors in 2024. The Pod is a temperature-control cover, not the underlying mattress. No exact Helix model or Walker mattress recommendation was verified. These commercial affiliations do not validate natural materials or cooling performance.",
     "Fresh Grok searches of SolBrah and NaturallyFTW returned leads but no retrievable original posts supporting an exact bedding endorsement. No candidate is presented as verified influencer-recommended. Manufacturer descriptions establish advertised construction; they do not independently prove sleep or health benefits.",
     "Other mattress leads retained in the research: Naturepedic’s latex-free model explicitly includes PLA, polypropylene and polyester components; Comfort Pure access and returns were unresolved; Home of Wool carries quote/import and nonreturnability questions. None provided a clearly better verified fit for the materials-and-value brief.",
-    "Delivery: mainland/contiguous-US policies, not an address-specific quote. Dispatch, production and transit are separate. Unknown delivery timing stays unknown. Prices exclude tax, optional protection plans and accessories. Photos are seller-sourced product illustrations and do not imply all included items are pictured."
+    "Delivery: mainland/contiguous-US policies, not an address-specific quote. Dispatch, production and transit are separate. Unknown delivery timing stays unknown. Prices exclude tax, optional protection plans and accessories. Photos are seller-sourced product illustrations and do not imply all included items are pictured.",
+    "Budget follow-up: Comfort Pure publishes a $339.99 Queen 4-inch price in its merchant API, but its storefront and shipping/return terms blocked verification. It remains an unverified-purchase lead, not a ranked card. Earlier White Lotus and Shepherd’s Dream options remain in the research notes."
   ]
 }

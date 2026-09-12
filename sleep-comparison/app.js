@@ -27,7 +27,7 @@ for(const button of document.querySelectorAll('[data-tab]')) {
 window.addEventListener('hashchange',()=>setTab(location.hash.slice(1),false));
 document.getElementById('back-top').addEventListener('click',e=>{e.preventDefault();window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});});
 setTab(location.hash.slice(1),false);
-fetch('data.json?v=1').then(response=>{if(!response.ok)throw new Error('Comparison data unavailable');return response.json();}).then(data=>{
+fetch('data.json?v=2').then(response=>{if(!response.ok)throw new Error('Comparison data unavailable');return response.json();}).then(data=>{
  if(data.mattresses.length!==4 || data.bedding.length!==4) throw new Error('Incomplete comparison');
  document.getElementById('mattress-grid').innerHTML=data.mattresses.map(card).join('');
  document.getElementById('bedding-grid').innerHTML=data.bedding.map(card).join('');

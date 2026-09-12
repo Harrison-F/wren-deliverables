@@ -1,3 +1,67 @@
+# Budget-first display update
+
+Research: September 9, 2026; display updated September 12. Item prices, not guaranteed delivered totals. The Queen J-Life price/availability was rechecked Sep12; other listed prices retain their Sep9 research date.
+
+Current four-card row: J-Life cotton shikifuton $399 + unquoted shipping; Futon Shop Pure Comfort $797.48 + unquoted shipping; Sleep EZ Roma $909 shipping included; Sleep On Latex $1,299 shipping included. All before tax.
+
+J-Life is thin/firm and has no used comfort trial, a boron fire-resistance treatment and regular airing requirements. Roma uses a 6-inch natural latex core plus synthetic quilting foam, with a $99 trial-return fee. Previous White Lotus/Shepherd's Dream cards remain documented in the original research below rather than being erased.
+
+Comfort Pure $339.99 Queen is live merchant-API price data, but product storefront and policies remained blocked; no clean purchase recommendation or shipping total established.
+
+## J-Life Cotton Shikifuton
+Queen · 4-inch · 60×80 in
+
+**Price Note:** Mattress only · shipping and tax extra
+
+**Dispatch:** Dispatch: 1–2 business days
+
+**Arrival:** Ground transit / exact arrival not quoted. Product’s 24-hour claim is shorter than policy guidance.
+
+**Shipping Cost:** Shipping: calculated at checkout
+
+**Materials:** Cotton batting and unbleached cotton-duck shell. No foam, wool or springs. Uses a boron compound for fire resistance; small components are not fully disclosed.
+
+**Sleep:** Thin, firm Japanese-style mattress. The 4-inch version adds cushioning over the same-price 3-inch option, but mixed/side sleepers may feel shoulder or hip pressure.
+
+**Temperature:** Cotton offers a breathable surface, but no cooler-sleep advantage was tested. Needs regular airing, flipping and moisture control.
+
+**Returns:** Request within 14 calendar days FROM SHIPPING. Bedding must be intact in original packaging/as-new. Eligible refunds lose 25% restocking plus original and return shipping. No used-mattress comfort trial.
+
+**Caveat:** A firm floor/platform futon—not a conventional cushioned mattress. Poor returns: $99.75 base restocking if eligible, plus freight. Base, tatami and extra cover not included.
+
+- https://jlifeinternational.com/products/j-life-shikifuton?variant=7084498518067
+- https://jlifeinternational.com/policies/shipping-policy
+- https://jlifeinternational.com/policies/refund-policy
+- https://jlifeinternational.com/blogs/news/caring-for-your-shikifuton
+
+## Sleep EZ Roma Latex Mattress
+Queen · 9-inch · medium / firm flip
+
+**Price Note:** Mattress + standard shipping · before tax
+
+**Dispatch:** Usually dispatches in 3–4 business days
+
+**Arrival:** Then typically 3–10 business days transit. No address-specific arrival guarantee.
+
+**Shipping Cost:** Free shipping to the lower 48 states
+
+**Materials:** 6-inch natural Dunlop latex core. Organic-cotton covers quilted to synthetic CertiPUR-US foam. Meaningful natural fill, but NOT foam-free or all-natural construction.
+
+**Sleep:** Flips between medium and firm; a more conventional cushioned bed than a cotton futon. Queen purchase advertises two latex pillows; exact pillow specifications not audited.
+
+**Temperature:** Latex airflow is a plausible advantage, not measured cooling proof. Synthetic quilting and the rest of your bedding may affect warmth.
+
+**Returns:** Roma-specific 90-day trial with a $99 return fee; arrange directly with seller. Ten-year limited manufacturing-defect warranty excludes shipping.
+
+**Caveat:** The “100% latex mattress” headline does not account for synthetic foam quilted into the covers. This is a materials/comfort compromise, not a zero-plastic option.
+
+- https://sleepez.com/product/roma-latex-mattress/
+- https://sleepez.com/shipping/
+- https://sleepez.com/returns-exchange-policy/
+
+
+---
+
 # Sleep comparison — research and decisions
 
 Checked September 9, 2026. USD before tax. Public product research; no purchase authorized.
