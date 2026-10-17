@@ -2,12 +2,12 @@
   "id": "mens-natural-wardrobe",
   "layout": "natural-basics",
   "title": "Natural-fiber wardrobe",
-  "summary": "Dark pants 30×32 · long-sleeve shirts S · sweaters S. All prices low → high. Search “pants”, “shirt”, “sweater” or a brand.",
+  "summary": "Dark pants 30×32 · shirts, sweaters and jackets S. All prices low → high. Search “pants”, “shirt”, “sweater”, “jacket” or a brand.",
   "updated": "2026-10-17",
   "recommendation": {
-    "title": "22 verified options · 5 brands",
-    "text": "Main fabric is entirely natural. Four dark pant options cover two cuts in black and navy; shirts and knits range from light cotton to warm wool and cashmere.",
-    "test": "COS was prioritized, but US pages blocked price / size verification; no unverified COS stock is shown. Budget-brand access was also blocked."
+    "title": "34 verified options · 5 brands",
+    "text": "Main fabric is entirely natural. The original pants, shirts and sweaters are preserved, now with 12 jackets and woven outer layers. Lining, coatings and trims are disclosed separately.",
+    "test": "COS jackets were prioritized but US category and exact-product routes remained access-blocked; no unverified COS stock is shown. Affordable-retailer access gaps remain."
   },
   "products": [
     {
@@ -769,6 +769,58 @@
       ]
     },
     {
+      "id": "wardrobe-23",
+      "name": "Norse Projects · Vrigsted Wide Wale Corduroy Chore Jacket · Beluga",
+      "url": "https://www.norseprojects.com/products/vrigsted-wide-wale-corduroy-chore-jacket-beluga?variant=56808419000651&currency=USD",
+      "category": "Jacket",
+      "brand": "Norse Projects",
+      "color": "Beluga",
+      "verdict": "Jacket · Beluga",
+      "summary": "320 gsm corduroy; tonal patch pockets and metal buttons. Lining not specified.",
+      "unitPriceUSD": 395.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-23-01.webp",
+      "imageAlt": "Norse Projects Vrigsted Wide Wale Corduroy Chore Jacket — Beluga — gallery 1",
+      "imageNote": "All 5 images exposed by the exact-color first-party product gallery, in source order, including any size chart. Other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to WebP, maximum 1400 px. Brand images, not independently tested.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-23-01.webp",
+          "alt": "Norse Projects Vrigsted Wide Wale Corduroy Chore Jacket — Beluga — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N50-0278-8071-1133.jpg?v=1784537290"
+        },
+        {
+          "src": "assets/images/wardrobe-23-02.webp",
+          "alt": "Norse Projects Vrigsted Wide Wale Corduroy Chore Jacket — Beluga — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N50-0278-8071-1140.jpg?v=1784537288"
+        },
+        {
+          "src": "assets/images/wardrobe-23-03.webp",
+          "alt": "Norse Projects Vrigsted Wide Wale Corduroy Chore Jacket — Beluga — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N50-0278-8071-1142.jpg?v=1784537288"
+        },
+        {
+          "src": "assets/images/wardrobe-23-04.webp",
+          "alt": "Norse Projects Vrigsted Wide Wale Corduroy Chore Jacket — Beluga — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N50-0278-8071-1150.jpg?v=1784537292"
+        },
+        {
+          "src": "assets/images/wardrobe-23-05.webp",
+          "alt": "Norse Projects Vrigsted Wide Wale Corduroy Chore Jacket — Beluga — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N50-0278-813601packshot.jpg?v=1784713155"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% cotton · main fabric",
+        "Price": "$395.00 USD · shipping / tax extra",
+        "Fit": "Straight, boxy · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-23"
+      ]
+    },
+    {
       "id": "wardrobe-18",
       "name": "Studio Nicholson · Arda Knit in Black · Black",
       "url": "https://www.studionicholson.com/products/arda-knit-in-black?variant=57024908165495&currency=USD",
@@ -851,6 +903,63 @@
       ]
     },
     {
+      "id": "wardrobe-24",
+      "name": "Norse Projects · Stensholt Buff Cotton Blouson · Dark navy",
+      "url": "https://www.norseprojects.com/products/stensholt-buff-cotton-blouson-dark-navy?variant=56535387865419&currency=USD",
+      "category": "Jacket",
+      "brand": "Norse Projects",
+      "color": "Dark navy",
+      "verdict": "Jacket · Dark navy",
+      "summary": "Clean zip-front blouson; fully lined, but lining fiber content is not disclosed.",
+      "unitPriceUSD": 465.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-24-01.webp",
+      "imageAlt": "Norse Projects Stensholt Buff Cotton Blouson — Dark navy — gallery 1",
+      "imageNote": "All 6 images exposed by the exact-color first-party product gallery, in source order, including any size chart. Other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to WebP, maximum 1400 px. Brand images, not independently tested.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-24-01.webp",
+          "alt": "Norse Projects Stensholt Buff Cotton Blouson — Dark navy — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N55-0684-7004_0005.jpg?v=1784537298"
+        },
+        {
+          "src": "assets/images/wardrobe-24-02.webp",
+          "alt": "Norse Projects Stensholt Buff Cotton Blouson — Dark navy — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N55-0684-7004_0026.jpg?v=1784537296"
+        },
+        {
+          "src": "assets/images/wardrobe-24-03.webp",
+          "alt": "Norse Projects Stensholt Buff Cotton Blouson — Dark navy — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N55-0684-7004_0012.jpg?v=1784537298"
+        },
+        {
+          "src": "assets/images/wardrobe-24-04.webp",
+          "alt": "Norse Projects Stensholt Buff Cotton Blouson — Dark navy — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N55-0684-7004_0029.jpg?v=1784537299"
+        },
+        {
+          "src": "assets/images/wardrobe-24-05.webp",
+          "alt": "Norse Projects Stensholt Buff Cotton Blouson — Dark navy — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N55-0684-7004_01_packshot.jpg?v=1784536832"
+        },
+        {
+          "src": "assets/images/wardrobe-24-06.webp",
+          "alt": "Norse Projects Stensholt Buff Cotton Blouson — Dark navy — gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N55-0684-7004_02.jpg?v=1784536831"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% cotton · main fabric",
+        "Price": "$465.00 USD · shipping / tax extra",
+        "Fit": "Relaxed fit · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-24"
+      ]
+    },
+    {
       "id": "wardrobe-22",
       "name": "A.P.C. · Ron Sweater · Anthracite",
       "url": "https://www.apc-us.com/products/ron-sweater-charcoal-gray-sweater-in-recycled-wool-woatj-h23525_plc?variant=44416800030819&currency=USD",
@@ -927,6 +1036,53 @@
       },
       "sources": [
         "wardrobe-15"
+      ]
+    },
+    {
+      "id": "wardrobe-25",
+      "name": "A.P.C. · William Jacket · Dark navy blue",
+      "url": "https://www.apc-us.com/products/lightweight-cotton-jacket-cohtg-h32077_iak?variant=44106844536931&currency=USD",
+      "category": "Jacket",
+      "brand": "A.P.C.",
+      "color": "Dark navy blue",
+      "verdict": "Jacket · Dark navy blue",
+      "summary": "William lightweight zip jacket; discreet side pockets. Lining / trims unspecified.",
+      "unitPriceUSD": 495.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-25-01.webp",
+      "imageAlt": "A.P.C. William Jacket — Dark navy blue — gallery 1",
+      "imageNote": "All 4 images exposed by the exact-color first-party product gallery, in source order, including any size chart. Other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to WebP, maximum 1400 px. Brand images, not independently tested.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-25-01.webp",
+          "alt": "A.P.C. William Jacket — Dark navy blue — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHTG-H32077IAK_00.jpg?v=1784919446"
+        },
+        {
+          "src": "assets/images/wardrobe-25-02.webp",
+          "alt": "A.P.C. William Jacket — Dark navy blue — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHTG-H32077IAK_03.jpg?v=1784919446"
+        },
+        {
+          "src": "assets/images/wardrobe-25-03.webp",
+          "alt": "A.P.C. William Jacket — Dark navy blue — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHTG-H32077IAK_01.jpg?v=1784919446"
+        },
+        {
+          "src": "assets/images/wardrobe-25-04.webp",
+          "alt": "A.P.C. William Jacket — Dark navy blue — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHTG-H32077IAK_02.jpg?v=1784919446"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic cotton · main fabric",
+        "Price": "$495.00 USD · shipping / tax extra",
+        "Fit": "Straight cut · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-25"
       ]
     },
     {
@@ -1106,6 +1262,187 @@
       ]
     },
     {
+      "id": "wardrobe-26",
+      "name": "Studio Nicholson · Derby Moleskin Jacket in Black · Black",
+      "url": "https://www.studionicholson.com/products/derby-moleskin-jacket-in-black?variant=57024904626551&currency=USD",
+      "category": "Jacket",
+      "brand": "Studio Nicholson",
+      "color": "Black",
+      "verdict": "Jacket · Black",
+      "summary": "Soft moleskin trucker with tonal flap pockets; adjustable waist tabs. Trims unspecified.",
+      "unitPriceUSD": 610.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-26-01.webp",
+      "imageAlt": "Studio Nicholson Derby Moleskin Jacket in Black — Black — gallery 1",
+      "imageNote": "All 9 images exposed by the exact-color first-party product gallery, in source order, including any size chart. Other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to WebP, maximum 1400 px. Brand images, not independently tested.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-26-01.webp",
+          "alt": "Studio Nicholson Derby Moleskin Jacket in Black — Black — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/DERBYSNM-1442COTTONMOLESKINBLACK4.jpg?v=1781795440"
+        },
+        {
+          "src": "assets/images/wardrobe-26-02.webp",
+          "alt": "Studio Nicholson Derby Moleskin Jacket in Black — Black — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/DERBYSNM-1442COTTONMOLESKINBLACK.jpg?v=1781795440"
+        },
+        {
+          "src": "assets/images/wardrobe-26-03.webp",
+          "alt": "Studio Nicholson Derby Moleskin Jacket in Black — Black — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/DERBYSNM-1442COTTONMOLESKINBLACK1.jpg?v=1781795440"
+        },
+        {
+          "src": "assets/images/wardrobe-26-04.webp",
+          "alt": "Studio Nicholson Derby Moleskin Jacket in Black — Black — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/DERBYSNM-1442COTTONMOLESKINBLACK2.jpg?v=1781795439"
+        },
+        {
+          "src": "assets/images/wardrobe-26-05.webp",
+          "alt": "Studio Nicholson Derby Moleskin Jacket in Black — Black — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/DERBYSNM-1442COTTONMOLESKINBLACK3.jpg?v=1781795440"
+        },
+        {
+          "src": "assets/images/wardrobe-26-06.webp",
+          "alt": "Studio Nicholson Derby Moleskin Jacket in Black — Black — gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/DERBYSNM-1442COTTONMOLESKINBLACK5.jpg?v=1781795440"
+        },
+        {
+          "src": "assets/images/wardrobe-26-07.webp",
+          "alt": "Studio Nicholson Derby Moleskin Jacket in Black — Black — gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/DERBYSNM-1442COTTONMOLESKINBLACK6.jpg?v=1781795440"
+        },
+        {
+          "src": "assets/images/wardrobe-26-08.webp",
+          "alt": "Studio Nicholson Derby Moleskin Jacket in Black — Black — gallery 8",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/DERBYSNM-1442COTTONMOLESKINBLACK_105205-FS.jpg?v=1776693769"
+        },
+        {
+          "src": "assets/images/wardrobe-26-09.webp",
+          "alt": "Studio Nicholson Derby Moleskin Jacket in Black — Black — gallery 9",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/DERBYSNM-1442COTTONMOLESKINBLACK_105206.jpg?v=1776693768"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% cotton · main fabric",
+        "Price": "$610.00 USD · shipping / tax extra",
+        "Fit": "Relaxed, boxy · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-26"
+      ]
+    },
+    {
+      "id": "wardrobe-27",
+      "name": "Officine Générale · Vince jacket · Brown",
+      "url": "https://us.officinegenerale.com/products/vince-jacket-yarn-dye-denim-brown?variant=57781722546559&currency=USD",
+      "category": "Jacket",
+      "brand": "Officine Générale",
+      "color": "Brown",
+      "verdict": "Jacket · Brown",
+      "summary": "Short denim jacket with corduroy collar and vintage-effect buttons. Lining not specified.",
+      "unitPriceUSD": 625.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-27-01.webp",
+      "imageAlt": "Officine Générale Vince jacket — Brown — gallery 1",
+      "imageNote": "All 4 images exposed by the exact-color first-party product gallery, in source order, including any size chart. Other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to WebP, maximum 1400 px. Brand images, not independently tested.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-27-01.webp",
+          "alt": "Officine Générale Vince jacket — Brown — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOTW602.jpg?v=1785164733"
+        },
+        {
+          "src": "assets/images/wardrobe-27-02.webp",
+          "alt": "Officine Générale Vince jacket — Brown — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOTW602___P2.jpg?v=1785164733"
+        },
+        {
+          "src": "assets/images/wardrobe-27-03.webp",
+          "alt": "Officine Générale Vince jacket — Brown — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOTW602___P3.jpg?v=1785164733"
+        },
+        {
+          "src": "assets/images/wardrobe-27-04.webp",
+          "alt": "Officine Générale Vince jacket — Brown — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOTW602___P4.jpg?v=1785164734"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic cotton · main fabric",
+        "Price": "$625.00 USD · shipping / tax extra",
+        "Fit": "Loose fit · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-27"
+      ]
+    },
+    {
+      "id": "wardrobe-28",
+      "name": "mfpen · Letter Jacket · Muddy linen",
+      "url": "https://mfpen.com/products/letter-jacket-muddy-linen?variant=56684889899332&currency=USD",
+      "category": "Jacket",
+      "brand": "mfpen",
+      "color": "Muddy linen",
+      "verdict": "Jacket · Muddy linen",
+      "summary": "Deadstock linen; 100% cupro lining is regenerated cellulose, not a natural fiber. Metal zip.",
+      "unitPriceUSD": 670.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-28-01.webp",
+      "imageAlt": "mfpen Letter Jacket - Muddy Linen — Muddy linen — gallery 1",
+      "imageNote": "All 7 images exposed by the exact-color first-party product gallery, in source order, including any size chart. Other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to WebP, maximum 1400 px. Brand images, not independently tested.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-28-01.webp",
+          "alt": "mfpen Letter Jacket - Muddy Linen — Muddy linen — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Letter-Jacket_Muddy-Linen_1205.jpg?v=1781120833"
+        },
+        {
+          "src": "assets/images/wardrobe-28-02.webp",
+          "alt": "mfpen Letter Jacket - Muddy Linen — Muddy linen — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Letter-Jacket_Muddy-Linen_1212.jpg?v=1781120833"
+        },
+        {
+          "src": "assets/images/wardrobe-28-03.webp",
+          "alt": "mfpen Letter Jacket - Muddy Linen — Muddy linen — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Letter-Jacket_Muddy-Linen_1222.jpg?v=1781120833"
+        },
+        {
+          "src": "assets/images/wardrobe-28-04.webp",
+          "alt": "mfpen Letter Jacket - Muddy Linen — Muddy linen — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Letter-Jacket_Muddy-Linen_1233.jpg?v=1781120833"
+        },
+        {
+          "src": "assets/images/wardrobe-28-05.webp",
+          "alt": "mfpen Letter Jacket - Muddy Linen — Muddy linen — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Letter-Jacket_Muddy-Linen_1259.jpg?v=1781120833"
+        },
+        {
+          "src": "assets/images/wardrobe-28-06.webp",
+          "alt": "mfpen Letter Jacket - Muddy Linen — Muddy linen — gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Letter-Jacket_Muddy-Linen_1239.jpg?v=1781120833"
+        },
+        {
+          "src": "assets/images/wardrobe-28-07.webp",
+          "alt": "mfpen Letter Jacket - Muddy Linen — Muddy linen — gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/LetterJacketMuddyLinen.jpg?v=1781085476"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% linen · main fabric",
+        "Price": "$670.00 USD · shipping / tax extra",
+        "Fit": "Boxy, dropped shoulders · Small",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-28"
+      ]
+    },
+    {
       "id": "wardrobe-17",
       "name": "Officine Générale · Ricchi sweater · Midgrey / anthracite",
       "url": "https://us.officinegenerale.com/products/ricchi-sweater-wool-alpaca-midgrey-anthracite?variant=57781629944191&currency=USD",
@@ -1150,6 +1487,187 @@
       },
       "sources": [
         "wardrobe-17"
+      ]
+    },
+    {
+      "id": "wardrobe-29",
+      "name": "Officine Générale · Berry jacket · Dark grey",
+      "url": "https://us.officinegenerale.com/products/berry-jacket-cotton-canvas-dark-grey?variant=57781744304511&currency=USD",
+      "category": "Jacket",
+      "brand": "Officine Générale",
+      "color": "Dark grey",
+      "verdict": "Jacket · Dark grey",
+      "summary": "Unlined canvas; corduroy collar, suede back label and vintage finish.",
+      "unitPriceUSD": 695.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-29-01.webp",
+      "imageAlt": "Officine Générale Berry jacket — Dark grey — gallery 1",
+      "imageNote": "All 4 images exposed by the exact-color first-party product gallery, in source order, including any size chart. Other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to WebP, maximum 1400 px. Brand images, not independently tested.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-29-01.webp",
+          "alt": "Officine Générale Berry jacket — Dark grey — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOTW606.jpg?v=1785164623"
+        },
+        {
+          "src": "assets/images/wardrobe-29-02.webp",
+          "alt": "Officine Générale Berry jacket — Dark grey — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOTW606___P4.jpg?v=1785164624"
+        },
+        {
+          "src": "assets/images/wardrobe-29-03.webp",
+          "alt": "Officine Générale Berry jacket — Dark grey — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOTW606___P2.jpg?v=1785164623"
+        },
+        {
+          "src": "assets/images/wardrobe-29-04.webp",
+          "alt": "Officine Générale Berry jacket — Dark grey — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOTW606___P3.jpg?v=1785164623"
+        }
+      ],
+      "facts": {
+        "Fabric": "75% recycled cotton / 25% cotton · main fabric",
+        "Price": "$695.00 USD · shipping / tax extra",
+        "Fit": "Boxy fit · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-29"
+      ]
+    },
+    {
+      "id": "wardrobe-30",
+      "name": "mfpen · Liner Jacket · Dusty black",
+      "url": "https://mfpen.com/products/liner-jacket-dusty-black-dense-cotton?variant=56853815034180&currency=USD",
+      "category": "Jacket",
+      "brand": "mfpen",
+      "color": "Dusty black",
+      "verdict": "Jacket · Dusty black",
+      "summary": "Unlined cotton twill with water-resistant coating of unspecified chemistry; resin buttons.",
+      "unitPriceUSD": 710.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-30-01.webp",
+      "imageAlt": "mfpen Liner Jacket - Dusty Black Dense Cotton — Dusty black — gallery 1",
+      "imageNote": "All 9 images exposed by the exact-color first-party product gallery, in source order, including any size chart. Other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to WebP, maximum 1400 px. Brand images, not independently tested.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-30-01.webp",
+          "alt": "mfpen Liner Jacket - Dusty Black Dense Cotton — Dusty black — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Liner-Jacket_Dusty-Black-Dense-Cotton_5231_49812b1a-8e04-41f8-ac83-8903137b4dc3.jpg?v=1791531205"
+        },
+        {
+          "src": "assets/images/wardrobe-30-02.webp",
+          "alt": "mfpen Liner Jacket - Dusty Black Dense Cotton — Dusty black — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Liner-Jacket_Dusty-Black-Dense-Cotton_5254_1d538795-7325-4af2-9d3e-b7bd2bc8f413.jpg?v=1791531205"
+        },
+        {
+          "src": "assets/images/wardrobe-30-03.webp",
+          "alt": "mfpen Liner Jacket - Dusty Black Dense Cotton — Dusty black — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Liner-Jacket_Dusty-Black-Dense-Cotton_5263_1a2a3f1d-3a28-43bf-8506-24f186fed09d.jpg?v=1791531205"
+        },
+        {
+          "src": "assets/images/wardrobe-30-04.webp",
+          "alt": "mfpen Liner Jacket - Dusty Black Dense Cotton — Dusty black — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Liner-Jacket_Dusty-Black-Dense-Cotton_5269_1c37501b-83ab-4454-9288-f6a0ab1439c2.jpg?v=1791531205"
+        },
+        {
+          "src": "assets/images/wardrobe-30-05.webp",
+          "alt": "mfpen Liner Jacket - Dusty Black Dense Cotton — Dusty black — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Liner-Jacket_Dusty-Black-Dense-Cotton_5282_3b7057a1-f560-4f93-b290-8fe4ab1ebee3.jpg?v=1791531206"
+        },
+        {
+          "src": "assets/images/wardrobe-30-06.webp",
+          "alt": "mfpen Liner Jacket - Dusty Black Dense Cotton — Dusty black — gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Liner-Jacket_Dusty-Black-Dense-Cotton_5290_c9e89c8e-1ab0-437b-98d6-ab20172ac0a7.jpg?v=1791531206"
+        },
+        {
+          "src": "assets/images/wardrobe-30-07.webp",
+          "alt": "mfpen Liner Jacket - Dusty Black Dense Cotton — Dusty black — gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Liner-Jacket_Dusty-Black-Dense-Cotton_5291_728e3a21-dda9-435c-8eb7-919130216ce7.jpg?v=1791531205"
+        },
+        {
+          "src": "assets/images/wardrobe-30-08.webp",
+          "alt": "mfpen Liner Jacket - Dusty Black Dense Cotton — Dusty black — gallery 8",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Liner-Jacket_Dusty-Black-Dense-Cotton_5294_79a07df3-1308-4a8f-8b7f-d1fc5ff9df81.jpg?v=1791531205"
+        },
+        {
+          "src": "assets/images/wardrobe-30-09.webp",
+          "alt": "mfpen Liner Jacket - Dusty Black Dense Cotton — Dusty black — gallery 9",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/LinerjacketBlack.jpg?v=1791555096"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% cotton · main fabric",
+        "Price": "$710.00 USD · shipping / tax extra",
+        "Fit": "Boxy, dropped shoulders · Small",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-30"
+      ]
+    },
+    {
+      "id": "wardrobe-31",
+      "name": "mfpen · Terrain Jacket · Brown",
+      "url": "https://mfpen.com/products/terrain-jacket-brown?variant=55958517252420&currency=USD",
+      "category": "Jacket",
+      "brand": "mfpen",
+      "color": "Brown",
+      "verdict": "Jacket · Brown",
+      "summary": "Clean storm placket and welt pockets; resin buttons, zip and drawstrings. Lining unspecified.",
+      "unitPriceUSD": 760.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-31-01.webp",
+      "imageAlt": "mfpen Terrain Jacket - Brown — Brown — gallery 1",
+      "imageNote": "All 7 images exposed by the exact-color first-party product gallery, in source order, including any size chart. Other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to WebP, maximum 1400 px. Brand images, not independently tested.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-31-01.webp",
+          "alt": "mfpen Terrain Jacket - Brown — Brown — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Terrain-Jacket_Brown_2540.jpg?v=1775029250"
+        },
+        {
+          "src": "assets/images/wardrobe-31-02.webp",
+          "alt": "mfpen Terrain Jacket - Brown — Brown — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Terrain-Jacket_Brown_2570.jpg?v=1775029250"
+        },
+        {
+          "src": "assets/images/wardrobe-31-03.webp",
+          "alt": "mfpen Terrain Jacket - Brown — Brown — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Terrain-Jacket_Brown_2593.jpg?v=1775738807"
+        },
+        {
+          "src": "assets/images/wardrobe-31-04.webp",
+          "alt": "mfpen Terrain Jacket - Brown — Brown — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Terrain-Jacket_Brown_2594.jpg?v=1775738807"
+        },
+        {
+          "src": "assets/images/wardrobe-31-05.webp",
+          "alt": "mfpen Terrain Jacket - Brown — Brown — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Terrain-Jacket_Brown_2596.jpg?v=1775738807"
+        },
+        {
+          "src": "assets/images/wardrobe-31-06.webp",
+          "alt": "mfpen Terrain Jacket - Brown — Brown — gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Terrain-Jacket_Brown_2577.jpg?v=1775738807"
+        },
+        {
+          "src": "assets/images/wardrobe-31-07.webp",
+          "alt": "mfpen Terrain Jacket - Brown — Brown — gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/1233/8898/files/Terrainjacketbrown.jpg?v=1775736957"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% cotton · main fabric",
+        "Price": "$760.00 USD · shipping / tax extra",
+        "Fit": "Relaxed raglan fit · Small",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-31"
       ]
     },
     {
@@ -1242,6 +1760,197 @@
       },
       "sources": [
         "wardrobe-19"
+      ]
+    },
+    {
+      "id": "wardrobe-32",
+      "name": "Officine Générale · Overshirt marlino · Coffee / beige",
+      "url": "https://us.officinegenerale.com/products/overshirt-marlino-italian-brushed-wool-coffee-beige?variant=57781468660095&currency=USD",
+      "category": "Jacket",
+      "brand": "Officine Générale",
+      "color": "Coffee / beige",
+      "verdict": "Jacket · Coffee / beige",
+      "summary": "Brushed-wool zip jacket; fully lined, lining composition not disclosed. Elasticated hem.",
+      "unitPriceUSD": 945.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-32-01.webp",
+      "imageAlt": "Officine Générale Overshirt marlino — Coffee / beige — gallery 1",
+      "imageNote": "All 4 images exposed by the exact-color first-party product gallery, in source order, including any size chart. Other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to WebP, maximum 1400 px. Brand images, not independently tested.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-32-01.webp",
+          "alt": "Officine Générale Overshirt marlino — Coffee / beige — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOVS076.jpg?v=1785163744"
+        },
+        {
+          "src": "assets/images/wardrobe-32-02.webp",
+          "alt": "Officine Générale Overshirt marlino — Coffee / beige — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOVS076___P2.jpg?v=1785163744"
+        },
+        {
+          "src": "assets/images/wardrobe-32-03.webp",
+          "alt": "Officine Générale Overshirt marlino — Coffee / beige — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOVS076___P3.jpg?v=1785163743"
+        },
+        {
+          "src": "assets/images/wardrobe-32-04.webp",
+          "alt": "Officine Générale Overshirt marlino — Coffee / beige — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOVS076___P4.jpg?v=1785163744"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% virgin wool · main fabric",
+        "Price": "$945.00 USD · shipping / tax extra",
+        "Fit": "Classic fit · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-32"
+      ]
+    },
+    {
+      "id": "wardrobe-33",
+      "name": "Studio Nicholson · Over Twill Jacket in Brown Marl · Brown marl",
+      "url": "https://www.studionicholson.com/products/over-twill-jacket-in-brown-marl?variant=57024905249143&currency=USD",
+      "category": "Jacket",
+      "brand": "Studio Nicholson",
+      "color": "Brown marl",
+      "verdict": "Jacket · Brown marl",
+      "summary": "Water-repellent finish; lining 51% viscose / 49% cotton. Viscose is regenerated, not natural fiber.",
+      "unitPriceUSD": 1050.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-33-01.webp",
+      "imageAlt": "Studio Nicholson Over Twill Jacket in Brown Marl — Brown marl — gallery 1",
+      "imageNote": "All 9 images exposed by the exact-color first-party product gallery, in source order, including any size chart. Other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to WebP, maximum 1400 px. Brand images, not independently tested.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-33-01.webp",
+          "alt": "Studio Nicholson Over Twill Jacket in Brown Marl — Brown marl — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/OVERSNM-1355WOOLCOTTONTWILLBROWNMARL6.jpg?v=1781799045"
+        },
+        {
+          "src": "assets/images/wardrobe-33-02.webp",
+          "alt": "Studio Nicholson Over Twill Jacket in Brown Marl — Brown marl — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/OVERSNM-1355WOOLCOTTONTWILLBROWNMARL1.jpg?v=1781799046"
+        },
+        {
+          "src": "assets/images/wardrobe-33-03.webp",
+          "alt": "Studio Nicholson Over Twill Jacket in Brown Marl — Brown marl — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/OVERSNM-1355WOOLCOTTONTWILLBROWNMARL3.jpg?v=1781799045"
+        },
+        {
+          "src": "assets/images/wardrobe-33-04.webp",
+          "alt": "Studio Nicholson Over Twill Jacket in Brown Marl — Brown marl — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/OVERSNM-1355WOOLCOTTONTWILLBROWNMARL4.jpg?v=1781799045"
+        },
+        {
+          "src": "assets/images/wardrobe-33-05.webp",
+          "alt": "Studio Nicholson Over Twill Jacket in Brown Marl — Brown marl — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/OVERSNM-1355WOOLCOTTONTWILLBROWNMARL5.jpg?v=1781799046"
+        },
+        {
+          "src": "assets/images/wardrobe-33-06.webp",
+          "alt": "Studio Nicholson Over Twill Jacket in Brown Marl — Brown marl — gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/OVERSNM-1355WOOLCOTTONTWILLBROWNMARL.jpg?v=1781799046"
+        },
+        {
+          "src": "assets/images/wardrobe-33-07.webp",
+          "alt": "Studio Nicholson Over Twill Jacket in Brown Marl — Brown marl — gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/OVERSNM-1355WOOLCOTTONTWILLBROWNMARL2.jpg?v=1781799045"
+        },
+        {
+          "src": "assets/images/wardrobe-33-08.webp",
+          "alt": "Studio Nicholson Over Twill Jacket in Brown Marl — Brown marl — gallery 8",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/OVERSNM-1355WOOLCOTTONTWILLBROWNMARL_108620-FS.jpg?v=1777287270"
+        },
+        {
+          "src": "assets/images/wardrobe-33-09.webp",
+          "alt": "Studio Nicholson Over Twill Jacket in Brown Marl — Brown marl — gallery 9",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/OVERSNM-1355WOOLCOTTONTWILLBROWNMARL_108622.jpg?v=1777287271"
+        }
+      ],
+      "facts": {
+        "Fabric": "53% cotton / 47% virgin wool · main fabric",
+        "Price": "$1,050.00 USD · shipping / tax extra",
+        "Fit": "Harrington cut · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-33"
+      ]
+    },
+    {
+      "id": "wardrobe-34",
+      "name": "Studio Nicholson · Grevan Wool Jacket in Black · Black",
+      "url": "https://www.studionicholson.com/products/grevan-wool-jacket-in-black?variant=57299116654967&currency=USD",
+      "category": "Jacket",
+      "brand": "Studio Nicholson",
+      "color": "Black",
+      "verdict": "Jacket · Black",
+      "summary": "Minimal zip jacket; lining 51% viscose / 49% cotton. Viscose is regenerated, not natural fiber.",
+      "unitPriceUSD": 1250.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-34-01.webp",
+      "imageAlt": "Studio Nicholson Grevan Wool Jacket in Black — Black — gallery 1",
+      "imageNote": "All 9 images exposed by the exact-color first-party product gallery, in source order, including any size chart. Other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to WebP, maximum 1400 px. Brand images, not independently tested.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-34-01.webp",
+          "alt": "Studio Nicholson Grevan Wool Jacket in Black — Black — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/GREVANSNM-1553DOUBLEWOOLCASHMEREBLACK.jpg?v=1786369185"
+        },
+        {
+          "src": "assets/images/wardrobe-34-02.webp",
+          "alt": "Studio Nicholson Grevan Wool Jacket in Black — Black — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/GREVANSNM-1553DOUBLEWOOLCASHMEREBLACK4.jpg?v=1786369186"
+        },
+        {
+          "src": "assets/images/wardrobe-34-03.webp",
+          "alt": "Studio Nicholson Grevan Wool Jacket in Black — Black — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/GREVANSNM-1553DOUBLEWOOLCASHMEREBLACK1.jpg?v=1786369185"
+        },
+        {
+          "src": "assets/images/wardrobe-34-04.webp",
+          "alt": "Studio Nicholson Grevan Wool Jacket in Black — Black — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/GREVANSNM-1553DOUBLEWOOLCASHMEREBLACK3.jpg?v=1786369185"
+        },
+        {
+          "src": "assets/images/wardrobe-34-05.webp",
+          "alt": "Studio Nicholson Grevan Wool Jacket in Black — Black — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/GREVANSNM-1553DOUBLEWOOLCASHMEREBLACK2.jpg?v=1786369185"
+        },
+        {
+          "src": "assets/images/wardrobe-34-06.webp",
+          "alt": "Studio Nicholson Grevan Wool Jacket in Black — Black — gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/GREVANSNM-1553DOUBLEWOOLCASHMEREBLACK6.jpg?v=1786369186"
+        },
+        {
+          "src": "assets/images/wardrobe-34-07.webp",
+          "alt": "Studio Nicholson Grevan Wool Jacket in Black — Black — gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/GREVANSNM-1553DOUBLEWOOLCASHMEREBLACK5.jpg?v=1786369185"
+        },
+        {
+          "src": "assets/images/wardrobe-34-08.webp",
+          "alt": "Studio Nicholson Grevan Wool Jacket in Black — Black — gallery 8",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/GREVANSNM-1553DOUBLEWOOLCASHMEREBLACK_106706-FS.jpg?v=1783954206"
+        },
+        {
+          "src": "assets/images/wardrobe-34-09.webp",
+          "alt": "Studio Nicholson Grevan Wool Jacket in Black — Black — gallery 9",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/GREVANSNM-1553DOUBLEWOOLCASHMEREBLACK_106708.jpg?v=1783954207"
+        }
+      ],
+      "facts": {
+        "Fabric": "90% wool / 10% cashmere · main fabric",
+        "Price": "$1,250.00 USD · shipping / tax extra",
+        "Fit": "Short overcoat cut · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-34"
       ]
     }
   ],
@@ -1399,8 +2108,92 @@
       "title": "A.P.C. · exact color and selected size",
       "type": "Live first-party product page + variant data",
       "note": "Checked 2026-10-17. Exact US storefront returned HTTP 200; Shopify country US and currency USD. Selected variant PLC - Anthracite / S / 26H H2, ID 44416800030819, available=true; price $470.00. Main fabric: 100% recycled wool. Subtle knit details; only one gallery image exposed. Main-fabric qualification only: unspecified sewing thread, labels, buttons, interfacing and other trims are not certified natural. Shipping, tax and any import charges were not quoted; no checkout or purchase was made."
+    },
+    {
+      "id": "wardrobe-23",
+      "url": "https://www.norseprojects.com/products/vrigsted-wide-wale-corduroy-chore-jacket-beluga?variant=56808419000651&currency=USD",
+      "title": "Norse Projects · exact color and selected size",
+      "type": "Live first-party product page + variant data",
+      "note": "Checked 2026-10-17. First-party product HTML HTTP 200; Shopify country US and active currency USD. Exact size S, variant 56808419000651, available=true, $395.00. Main fabric: 100% cotton. 320 gsm corduroy; tonal patch pockets and metal buttons. Lining not specified. Qualification is main fabric only, not whole garment: sewing thread, labels, interfacing and other unspecified trims are not certified natural. Shipping, tax and import charges not quoted. No checkout or purchase made."
+    },
+    {
+      "id": "wardrobe-24",
+      "url": "https://www.norseprojects.com/products/stensholt-buff-cotton-blouson-dark-navy?variant=56535387865419&currency=USD",
+      "title": "Norse Projects · exact color and selected size",
+      "type": "Live first-party product page + variant data",
+      "note": "Checked 2026-10-17. First-party product HTML HTTP 200; Shopify country US and active currency USD. Exact size S, variant 56535387865419, available=true, $465.00. Main fabric: 100% cotton. Clean zip-front blouson; fully lined, but lining fiber content is not disclosed. Qualification is main fabric only, not whole garment: sewing thread, labels, interfacing and other unspecified trims are not certified natural. Shipping, tax and import charges not quoted. No checkout or purchase made."
+    },
+    {
+      "id": "wardrobe-25",
+      "url": "https://www.apc-us.com/products/lightweight-cotton-jacket-cohtg-h32077_iak?variant=44106844536931&currency=USD",
+      "title": "A.P.C. · exact color and selected size",
+      "type": "Live first-party product page + variant data",
+      "note": "Checked 2026-10-17. First-party product HTML HTTP 200; Shopify country US and active currency USD. Exact size IAK - Dark navy blue / S / 26H H1, variant 44106844536931, available=true, $495.00. Main fabric: 100% organic cotton. William lightweight zip jacket; discreet side pockets. Lining / trims unspecified. Qualification is main fabric only, not whole garment: sewing thread, labels, interfacing and other unspecified trims are not certified natural. Shipping, tax and import charges not quoted. No checkout or purchase made."
+    },
+    {
+      "id": "wardrobe-26",
+      "url": "https://www.studionicholson.com/products/derby-moleskin-jacket-in-black?variant=57024904626551&currency=USD",
+      "title": "Studio Nicholson · exact color and selected size",
+      "type": "Live first-party product page + variant data",
+      "note": "Checked 2026-10-17. First-party product HTML HTTP 200; Shopify country US and active currency USD. Exact size S, variant 57024904626551, available=true, $610.00. Main fabric: 100% cotton. Soft moleskin trucker with tonal flap pockets; adjustable waist tabs. Trims unspecified. Qualification is main fabric only, not whole garment: sewing thread, labels, interfacing and other unspecified trims are not certified natural. Shipping, tax and import charges not quoted. No checkout or purchase made."
+    },
+    {
+      "id": "wardrobe-27",
+      "url": "https://us.officinegenerale.com/products/vince-jacket-yarn-dye-denim-brown?variant=57781722546559&currency=USD",
+      "title": "Officine Générale · exact color and selected size",
+      "type": "Live first-party product page + variant data",
+      "note": "Checked 2026-10-17. First-party product HTML HTTP 200; Shopify country US and active currency USD. Exact size S, variant 57781722546559, available=true, $625.00. Main fabric: 100% organic cotton. Short denim jacket with corduroy collar and vintage-effect buttons. Lining not specified. Qualification is main fabric only, not whole garment: sewing thread, labels, interfacing and other unspecified trims are not certified natural. Shipping, tax and import charges not quoted. No checkout or purchase made."
+    },
+    {
+      "id": "wardrobe-28",
+      "url": "https://mfpen.com/products/letter-jacket-muddy-linen?variant=56684889899332&currency=USD",
+      "title": "mfpen · exact color and selected size",
+      "type": "Live first-party product page + variant data",
+      "note": "Checked 2026-10-17. First-party product HTML HTTP 200; Shopify country US and active currency USD. Exact size Small, variant 56684889899332, available=true, $670.00. Main fabric: 100% linen. Deadstock linen; 100% cupro lining is regenerated cellulose, not a natural fiber. Metal zip. Qualification is main fabric only, not whole garment: sewing thread, labels, interfacing and other unspecified trims are not certified natural. Shipping, tax and import charges not quoted. No checkout or purchase made. · Fabric made in Italy · Garment made in Portugal · Deadstock fabric · 100% linen · 100% cupro linning · YKK two-way zip · Dry clean only"
+    },
+    {
+      "id": "wardrobe-29",
+      "url": "https://us.officinegenerale.com/products/berry-jacket-cotton-canvas-dark-grey?variant=57781744304511&currency=USD",
+      "title": "Officine Générale · exact color and selected size",
+      "type": "Live first-party product page + variant data",
+      "note": "Checked 2026-10-17. First-party product HTML HTTP 200; Shopify country US and active currency USD. Exact size S, variant 57781744304511, available=true, $695.00. Main fabric: 75% recycled cotton / 25% cotton. Unlined canvas; corduroy collar, suede back label and vintage finish. Qualification is main fabric only, not whole garment: sewing thread, labels, interfacing and other unspecified trims are not certified natural. Shipping, tax and import charges not quoted. No checkout or purchase made."
+    },
+    {
+      "id": "wardrobe-30",
+      "url": "https://mfpen.com/products/liner-jacket-dusty-black-dense-cotton?variant=56853815034180&currency=USD",
+      "title": "mfpen · exact color and selected size",
+      "type": "Live first-party product page + variant data",
+      "note": "Checked 2026-10-17. First-party product HTML HTTP 200; Shopify country US and active currency USD. Exact size Small, variant 56853815034180, available=true, $710.00. Main fabric: 100% cotton. Unlined cotton twill with water-resistant coating of unspecified chemistry; resin buttons. Qualification is main fabric only, not whole garment: sewing thread, labels, interfacing and other unspecified trims are not certified natural. Shipping, tax and import charges not quoted. No checkout or purchase made. · Fabric made in Portugal · Garment made in Portugal · 100% cotton · Black resin buttons · Dry clean only"
+    },
+    {
+      "id": "wardrobe-31",
+      "url": "https://mfpen.com/products/terrain-jacket-brown?variant=55958517252420&currency=USD",
+      "title": "mfpen · exact color and selected size",
+      "type": "Live first-party product page + variant data",
+      "note": "Checked 2026-10-17. First-party product HTML HTTP 200; Shopify country US and active currency USD. Exact size Small, variant 55958517252420, available=true, $760.00. Main fabric: 100% cotton. Clean storm placket and welt pockets; resin buttons, zip and drawstrings. Lining unspecified. Qualification is main fabric only, not whole garment: sewing thread, labels, interfacing and other unspecified trims are not certified natural. Shipping, tax and import charges not quoted. No checkout or purchase made. · Fabric made in Portugal · Garment made in Portugal · 100% cotton · Black urea resin buttons · Drawstrings · YKK two-way zip · Dry clean only"
+    },
+    {
+      "id": "wardrobe-32",
+      "url": "https://us.officinegenerale.com/products/overshirt-marlino-italian-brushed-wool-coffee-beige?variant=57781468660095&currency=USD",
+      "title": "Officine Générale · exact color and selected size",
+      "type": "Live first-party product page + variant data",
+      "note": "Checked 2026-10-17. First-party product HTML HTTP 200; Shopify country US and active currency USD. Exact size S, variant 57781468660095, available=true, $945.00. Main fabric: 100% virgin wool. Brushed-wool zip jacket; fully lined, lining composition not disclosed. Elasticated hem. Qualification is main fabric only, not whole garment: sewing thread, labels, interfacing and other unspecified trims are not certified natural. Shipping, tax and import charges not quoted. No checkout or purchase made."
+    },
+    {
+      "id": "wardrobe-33",
+      "url": "https://www.studionicholson.com/products/over-twill-jacket-in-brown-marl?variant=57024905249143&currency=USD",
+      "title": "Studio Nicholson · exact color and selected size",
+      "type": "Live first-party product page + variant data",
+      "note": "Checked 2026-10-17. First-party product HTML HTTP 200; Shopify country US and active currency USD. Exact size S, variant 57024905249143, available=true, $1,050.00. Main fabric: 53% cotton / 47% virgin wool. Water-repellent finish; lining 51% viscose / 49% cotton. Viscose is regenerated, not natural fiber. Qualification is main fabric only, not whole garment: sewing thread, labels, interfacing and other unspecified trims are not certified natural. Shipping, tax and import charges not quoted. No checkout or purchase made."
+    },
+    {
+      "id": "wardrobe-34",
+      "url": "https://www.studionicholson.com/products/grevan-wool-jacket-in-black?variant=57299116654967&currency=USD",
+      "title": "Studio Nicholson · exact color and selected size",
+      "type": "Live first-party product page + variant data",
+      "note": "Checked 2026-10-17. First-party product HTML HTTP 200; Shopify country US and active currency USD. Exact size S, variant 57299116654967, available=true, $1,250.00. Main fabric: 90% wool / 10% cashmere. Minimal zip jacket; lining 51% viscose / 49% cotton. Viscose is regenerated, not natural fiber. Qualification is main fabric only, not whole garment: sewing thread, labels, interfacing and other unspecified trims are not certified natural. Shipping, tax and import charges not quoted. No checkout or purchase made."
     }
   ],
   "evidenceNote": "Prices and selected-size stock come from live US-market first-party pages and product variant data, not search snippets. All galleries are exact-color source galleries; size charts are retained. Material integrity is a tie: every main fabric totals 100% natural fibers, so that sort retains price order. No whole-garment plastic-free, treatment, durability or health claim is made.",
-  "caveat": "Shipping, tax and import charges are unknown and not included. Availability can change. COS, UNIQLO, ZARA, ARKET and MR PORTER blocked access; Abercrombie presented a challenge. These are access gaps, not evidence of no stock. This is a curated selection, not an exhaustive ranking of every requested brand."
+  "caveat": "Main fabric only—not a whole-garment natural or plastic-free claim. Some jackets have cupro / viscose linings, resin buttons, elastic or coatings. Shipping, tax and import charges are unknown and excluded; stock can change. COS and UNIQLO jacket routes were blocked, ZARA returned access denied and Abercrombie a challenge. Earlier ARKET / MR PORTER access gaps remain. These are access gaps, not proof of no stock; this is a curated selection, not an exhaustive brand ranking."
 }
