@@ -693,6 +693,583 @@
       "unitPriceUSD": 59.95,
       "integrityRank": 4,
       "naturalPercent": 100
+    },
+    {
+      "id": "natural-boxer-briefs-17",
+      "name": "Gildan \u00b7 Classic Cotton Boxer Briefs 5-Pack",
+      "url": "https://www.amazon.com/dp/B07JD4YL8X",
+      "verdict": "Natural body \u00b7 trim caveat",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-17-1.webp",
+      "imageAlt": "Gildan Classic Cotton Boxer Briefs 5-Pack \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-17-1.webp",
+          "alt": "Gildan Classic Cotton Boxer Briefs 5-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-17-2.webp",
+          "alt": "Gildan Classic Cotton Boxer Briefs 5-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-17-3.webp",
+          "alt": "Gildan Classic Cotton Boxer Briefs 5-Pack \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% cotton body",
+        "Price": "$3.21 / pair \u00b7 $16.04/5",
+        "Fit": "Black \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-17-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 3.2079999999999997,
+      "integrityRank": 2,
+      "naturalPercent": 100
+    },
+    {
+      "id": "natural-boxer-briefs-18",
+      "name": "ROSTITCH \u00b7 Cotton Boxer Briefs 6-Pack",
+      "url": "https://www.amazon.com/dp/B0H93ZY3ZK",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-18-1.webp",
+      "imageAlt": "ROSTITCH Cotton Boxer Briefs 6-Pack \u00b7 6c Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-18-1.webp",
+          "alt": "ROSTITCH Cotton Boxer Briefs 6-Pack \u00b7 6c Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% cotton, 5% spandex",
+        "Price": "$3.33 / pair \u00b7 $19.99/6",
+        "Fit": "6c Black \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-18-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 3.3316666666666666,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-19",
+      "name": "Fruit of the Loom \u00b7 CoolZone Fly Boxer Briefs 7-Pack",
+      "url": "https://www.amazon.com/dp/B08CZ8KPQF",
+      "verdict": "Natural body \u00b7 trim caveat",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-19-1.webp",
+      "imageAlt": "Fruit of the Loom CoolZone Fly Boxer Briefs 7-Pack \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-19-1.webp",
+          "alt": "Fruit of the Loom CoolZone Fly Boxer Briefs 7-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-19-2.webp",
+          "alt": "Fruit of the Loom CoolZone Fly Boxer Briefs 7-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-19-3.webp",
+          "alt": "Fruit of the Loom CoolZone Fly Boxer Briefs 7-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-19-4.webp",
+          "alt": "Fruit of the Loom CoolZone Fly Boxer Briefs 7-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-19-5.webp",
+          "alt": "Fruit of the Loom CoolZone Fly Boxer Briefs 7-Pack \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "Body: 100% cotton",
+        "Price": "$3.35 / pair \u00b7 $23.47/7",
+        "Fit": "Black \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-19-source",
+        "natural-boxer-briefs-19-detail-1",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 3.3528571428571428,
+      "integrityRank": 2,
+      "naturalPercent": 100
+    },
+    {
+      "id": "natural-boxer-briefs-20",
+      "name": "Hanes \u00b7 Cool Dri Cotton No-Ride-Up Boxer Briefs 12-Pack",
+      "url": "https://www.amazon.com/dp/B09G4VWJHT",
+      "verdict": "Natural body \u00b7 trim caveat",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-20-1.webp",
+      "imageAlt": "Hanes Cool Dri Cotton No-Ride-Up Boxer Briefs 12-Pack \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-20-1.webp",
+          "alt": "Hanes Cool Dri Cotton No-Ride-Up Boxer Briefs 12-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-20-2.webp",
+          "alt": "Hanes Cool Dri Cotton No-Ride-Up Boxer Briefs 12-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-20-3.webp",
+          "alt": "Hanes Cool Dri Cotton No-Ride-Up Boxer Briefs 12-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-20-4.webp",
+          "alt": "Hanes Cool Dri Cotton No-Ride-Up Boxer Briefs 12-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-20-5.webp",
+          "alt": "Hanes Cool Dri Cotton No-Ride-Up Boxer Briefs 12-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-20-6.webp",
+          "alt": "Hanes Cool Dri Cotton No-Ride-Up Boxer Briefs 12-Pack \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "Solid-color body: 100% cotton",
+        "Price": "$3.67 / pair \u00b7 $44.00/12",
+        "Fit": "Black \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-20-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 3.6666666666666665,
+      "integrityRank": 2,
+      "naturalPercent": 100
+    },
+    {
+      "id": "natural-boxer-briefs-21",
+      "name": "Amazon Essentials \u00b7 Breathable Ribbed Cotton Boxer Briefs 5-Pack",
+      "url": "https://www.amazon.com/dp/B07XGLWP65",
+      "verdict": "Natural body \u00b7 trim caveat",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-21-1.webp",
+      "imageAlt": "Amazon Essentials Breathable Ribbed Cotton Boxer Briefs 5-Pack \u00b7 Army assortment: black/white stripe, camo, dark blue, military green, Warrior \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-21-1.webp",
+          "alt": "Amazon Essentials Breathable Ribbed Cotton Boxer Briefs 5-Pack \u00b7 Army assortment: black/white stripe, camo, dark blue, military green, Warrior \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-21-2.webp",
+          "alt": "Amazon Essentials Breathable Ribbed Cotton Boxer Briefs 5-Pack \u00b7 Army assortment: black/white stripe, camo, dark blue, military green, Warrior \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-21-3.webp",
+          "alt": "Amazon Essentials Breathable Ribbed Cotton Boxer Briefs 5-Pack \u00b7 Army assortment: black/white stripe, camo, dark blue, military green, Warrior \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-21-4.webp",
+          "alt": "Amazon Essentials Breathable Ribbed Cotton Boxer Briefs 5-Pack \u00b7 Army assortment: black/white stripe, camo, dark blue, military green, Warrior \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-21-5.webp",
+          "alt": "Amazon Essentials Breathable Ribbed Cotton Boxer Briefs 5-Pack \u00b7 Army assortment: black/white stripe, camo, dark blue, military green, Warrior \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-21-6.webp",
+          "alt": "Amazon Essentials Breathable Ribbed Cotton Boxer Briefs 5-Pack \u00b7 Army assortment: black/white stripe, camo, dark blue, military green, Warrior \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% cotton body",
+        "Price": "$4.12 / pair \u00b7 $20.60/5",
+        "Fit": "Army assortment: black/white stripe, camo, dark blue, military green, Warrior \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-21-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 4.12,
+      "integrityRank": 2,
+      "naturalPercent": 100
+    },
+    {
+      "id": "natural-boxer-briefs-22",
+      "name": "Hanes \u00b7 Core Cotton-Stretch Regular Boxer Briefs 6-Pack",
+      "url": "https://www.amazon.com/dp/B0FNRQ1XHY",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-22-1.webp",
+      "imageAlt": "Hanes Core Cotton-Stretch Regular Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-22-1.webp",
+          "alt": "Hanes Core Cotton-Stretch Regular Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-22-2.webp",
+          "alt": "Hanes Core Cotton-Stretch Regular Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-22-3.webp",
+          "alt": "Hanes Core Cotton-Stretch Regular Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-22-4.webp",
+          "alt": "Hanes Core Cotton-Stretch Regular Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-22-5.webp",
+          "alt": "Hanes Core Cotton-Stretch Regular Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-22-6.webp",
+          "alt": "Hanes Core Cotton-Stretch Regular Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-22-7.webp",
+          "alt": "Hanes Core Cotton-Stretch Regular Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% cotton, 5% spandex",
+        "Price": "$4.58 / pair \u00b7 $27.50/6",
+        "Fit": "Black \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-22-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 4.583333333333333,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-23",
+      "name": "Hanes \u00b7 Core Cotton-Stretch Long-Leg Boxer Briefs 6-Pack",
+      "url": "https://www.amazon.com/dp/B0GQVC2G95",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-23-1.webp",
+      "imageAlt": "Hanes Core Cotton-Stretch Long-Leg Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-23-1.webp",
+          "alt": "Hanes Core Cotton-Stretch Long-Leg Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-23-2.webp",
+          "alt": "Hanes Core Cotton-Stretch Long-Leg Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-23-3.webp",
+          "alt": "Hanes Core Cotton-Stretch Long-Leg Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-23-4.webp",
+          "alt": "Hanes Core Cotton-Stretch Long-Leg Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-23-5.webp",
+          "alt": "Hanes Core Cotton-Stretch Long-Leg Boxer Briefs 6-Pack \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% cotton, 5% spandex",
+        "Price": "$4.58 / pair \u00b7 $27.50/6",
+        "Fit": "Black \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-23-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 4.583333333333333,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-24",
+      "name": "FINETOO \u00b7 Cotton Boxer Briefs 3-Pack",
+      "url": "https://www.amazon.com/dp/B0DS52SM6W",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-24-1.webp",
+      "imageAlt": "FINETOO Cotton Boxer Briefs 3-Pack \u00b7 Multicolor A \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-24-1.webp",
+          "alt": "FINETOO Cotton Boxer Briefs 3-Pack \u00b7 Multicolor A \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-24-2.webp",
+          "alt": "FINETOO Cotton Boxer Briefs 3-Pack \u00b7 Multicolor A \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-24-3.webp",
+          "alt": "FINETOO Cotton Boxer Briefs 3-Pack \u00b7 Multicolor A \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-24-4.webp",
+          "alt": "FINETOO Cotton Boxer Briefs 3-Pack \u00b7 Multicolor A \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-24-5.webp",
+          "alt": "FINETOO Cotton Boxer Briefs 3-Pack \u00b7 Multicolor A \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-24-6.webp",
+          "alt": "FINETOO Cotton Boxer Briefs 3-Pack \u00b7 Multicolor A \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-24-7.webp",
+          "alt": "FINETOO Cotton Boxer Briefs 3-Pack \u00b7 Multicolor A \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% cotton, 5% elastane",
+        "Price": "$5.00 / pair \u00b7 $14.99/3",
+        "Fit": "Multicolor A \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-24-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 4.996666666666667,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-25",
+      "name": "INNERSY \u00b7 Cotton Boxer Briefs with Fly 7-Pack",
+      "url": "https://www.amazon.com/dp/B07V9KMQCG",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-25-1.webp",
+      "imageAlt": "INNERSY Cotton Boxer Briefs with Fly 7-Pack \u00b7 Weekly Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-25-1.webp",
+          "alt": "INNERSY Cotton Boxer Briefs with Fly 7-Pack \u00b7 Weekly Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-25-2.webp",
+          "alt": "INNERSY Cotton Boxer Briefs with Fly 7-Pack \u00b7 Weekly Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-25-3.webp",
+          "alt": "INNERSY Cotton Boxer Briefs with Fly 7-Pack \u00b7 Weekly Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-25-4.webp",
+          "alt": "INNERSY Cotton Boxer Briefs with Fly 7-Pack \u00b7 Weekly Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-25-5.webp",
+          "alt": "INNERSY Cotton Boxer Briefs with Fly 7-Pack \u00b7 Weekly Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-25-6.webp",
+          "alt": "INNERSY Cotton Boxer Briefs with Fly 7-Pack \u00b7 Weekly Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-25-7.webp",
+          "alt": "INNERSY Cotton Boxer Briefs with Fly 7-Pack \u00b7 Weekly Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% cotton, 5% spandex",
+        "Price": "$5.14 / pair \u00b7 $35.99/7",
+        "Fit": "Weekly Black \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-25-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 5.1414285714285715,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-26",
+      "name": "Comfneat \u00b7 Stretchy Cotton Boxer Briefs 5-Pack",
+      "url": "https://www.amazon.com/dp/B07CMPN7LW",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-26-1.webp",
+      "imageAlt": "Comfneat Stretchy Cotton Boxer Briefs 5-Pack \u00b7 Black Pack-5 \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-26-1.webp",
+          "alt": "Comfneat Stretchy Cotton Boxer Briefs 5-Pack \u00b7 Black Pack-5 \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-26-2.webp",
+          "alt": "Comfneat Stretchy Cotton Boxer Briefs 5-Pack \u00b7 Black Pack-5 \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-26-3.webp",
+          "alt": "Comfneat Stretchy Cotton Boxer Briefs 5-Pack \u00b7 Black Pack-5 \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-26-4.webp",
+          "alt": "Comfneat Stretchy Cotton Boxer Briefs 5-Pack \u00b7 Black Pack-5 \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-26-5.webp",
+          "alt": "Comfneat Stretchy Cotton Boxer Briefs 5-Pack \u00b7 Black Pack-5 \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% cotton, 5% spandex",
+        "Price": "$5.60 / pair \u00b7 $27.99/5",
+        "Fit": "Black Pack-5 \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-26-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 5.598,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-27",
+      "name": "Calvin Klein \u00b7 Icon Cotton Stretch Boxer Briefs 5-Pack",
+      "url": "https://www.amazon.com/dp/B0DW5KYSRJ",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-27-1.webp",
+      "imageAlt": "Calvin Klein Icon Cotton Stretch Boxer Briefs 5-Pack \u00b7 5 Black bodies with black waistbands \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-27-1.webp",
+          "alt": "Calvin Klein Icon Cotton Stretch Boxer Briefs 5-Pack \u00b7 5 Black bodies with black waistbands \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-27-2.webp",
+          "alt": "Calvin Klein Icon Cotton Stretch Boxer Briefs 5-Pack \u00b7 5 Black bodies with black waistbands \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-27-3.webp",
+          "alt": "Calvin Klein Icon Cotton Stretch Boxer Briefs 5-Pack \u00b7 5 Black bodies with black waistbands \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-27-4.webp",
+          "alt": "Calvin Klein Icon Cotton Stretch Boxer Briefs 5-Pack \u00b7 5 Black bodies with black waistbands \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-27-5.webp",
+          "alt": "Calvin Klein Icon Cotton Stretch Boxer Briefs 5-Pack \u00b7 5 Black bodies with black waistbands \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-27-6.webp",
+          "alt": "Calvin Klein Icon Cotton Stretch Boxer Briefs 5-Pack \u00b7 5 Black bodies with black waistbands \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-27-7.webp",
+          "alt": "Calvin Klein Icon Cotton Stretch Boxer Briefs 5-Pack \u00b7 5 Black bodies with black waistbands \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% cotton, 5% elastane",
+        "Price": "$8.77 / pair \u00b7 $43.86/5",
+        "Fit": "5 Black bodies with black waistbands \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-27-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 8.772,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-28",
+      "name": "Jockey \u00b7 Lightweight Classic 5-inch Boxer Briefs 3-Pack",
+      "url": "https://www.amazon.com/dp/B0FDG8DDL8",
+      "verdict": "Natural body \u00b7 trim caveat",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-28-1.webp",
+      "imageAlt": "Jockey Lightweight Classic 5-inch Boxer Briefs 3-Pack \u00b7 Typical Green Stripe/Amazon/Trusty Green \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-28-1.webp",
+          "alt": "Jockey Lightweight Classic 5-inch Boxer Briefs 3-Pack \u00b7 Typical Green Stripe/Amazon/Trusty Green \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-28-2.webp",
+          "alt": "Jockey Lightweight Classic 5-inch Boxer Briefs 3-Pack \u00b7 Typical Green Stripe/Amazon/Trusty Green \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-28-3.webp",
+          "alt": "Jockey Lightweight Classic 5-inch Boxer Briefs 3-Pack \u00b7 Typical Green Stripe/Amazon/Trusty Green \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-28-4.webp",
+          "alt": "Jockey Lightweight Classic 5-inch Boxer Briefs 3-Pack \u00b7 Typical Green Stripe/Amazon/Trusty Green \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% cotton body",
+        "Price": "$10.96 / pair \u00b7 $32.88/3",
+        "Fit": "Typical Green Stripe/Amazon/Trusty Green \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-28-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 10.96,
+      "integrityRank": 2,
+      "naturalPercent": 100
     }
   ],
   "sources": [
@@ -975,6 +1552,97 @@
       "url": "https://rawganique.com/products/organic-merino-wool-boxer-briefs-no-fly-biodegradable",
       "type": "First-party source",
       "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-17-source",
+      "title": "Gildan \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B07JD4YL8X",
+      "type": "Manufacturer / retailer",
+      "note": "100% cotton body; elastic waistband fiber breakdown not disclosed | Small: waist 28\u201330 inches (listing size chart) | In Stock \u2014 exact selected Small ASIN in Amazon browser storefront | Inseam: not disclosed | Budget mainstream / marketplace comparison. Marketplace offer; not a Gildan-direct storefront. Avoid heather variants, which can contain polyester. Natural_percent describes main body fabric, not whole garment mass. Elastic waistbands and sewing thread are not verified natural; no whole-garment plastic-free claim. Prices are USD one-time pack prices before shipping/tax; account-specific delivery not verified. Exact Small ASIN product pages returned HTTP 200; prices/stock read from isolated signed-out Amazon browser storefront. Images are selected-ASIN listing gallery URLs in source order, excluding recommendations; these are retailer/seller-published, not independently authenticated manufacturer photography. Unit price: $3.21 per pair."
+    },
+    {
+      "id": "natural-boxer-briefs-18-source",
+      "title": "ROSTITCH \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B0H93ZY3ZK",
+      "type": "Manufacturer / retailer",
+      "note": "95% cotton, 5% spandex | Small: waist 28\u201330 inches (listing size chart) | In Stock \u2014 exact selected Small ASIN in Amazon browser storefront | Inseam: not disclosed | Budget mainstream / marketplace comparison. Sold by ROSTITCH US, ships Amazon. Number of Items confirms 6 (Unit Count inconsistently says 1); selected color is 6c Black. Only one image in selected-ASIN initial gallery. Ignore unsubstantiated performance percentages in seller copy. Natural_percent describes main body fabric, not whole garment mass. Elastic waistbands and sewing thread are not verified natural; no whole-garment plastic-free claim. Prices are USD one-time pack prices before shipping/tax; account-specific delivery not verified. Exact Small ASIN product pages returned HTTP 200; prices/stock read from isolated signed-out Amazon browser storefront. Images are selected-ASIN listing gallery URLs in source order, excluding recommendations; these are retailer/seller-published, not independently authenticated manufacturer photography. Unit price: $3.33 per pair."
+    },
+    {
+      "id": "natural-boxer-briefs-19-source",
+      "title": "Fruit of the Loom \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B08CZ8KPQF",
+      "type": "Manufacturer / retailer",
+      "note": "Body: 100% cotton; mesh fly: 94% cotton, 6% polyester; elastic waistband | Small: waist 28\u201330 inches (listing size chart) | In Stock \u2014 exact selected Small ASIN in Amazon browser storefront | Inseam: not disclosed | Budget mainstream / marketplace comparison. natural_percent applies only to main body: this is NOT all-cotton fabric throughout, because mesh fly contains polyester. Official Fruit site independently confirms body/fly split. Avoid heather mixes. Natural_percent describes main body fabric, not whole garment mass. Elastic waistbands and sewing thread are not verified natural; no whole-garment plastic-free claim. Prices are USD one-time pack prices before shipping/tax; account-specific delivery not verified. Exact Small ASIN product pages returned HTTP 200; prices/stock read from isolated signed-out Amazon browser storefront. Images are selected-ASIN listing gallery URLs in source order, excluding recommendations; these are retailer/seller-published, not independently authenticated manufacturer photography. Unit price: $3.35 per pair."
+    },
+    {
+      "id": "natural-boxer-briefs-19-detail-1",
+      "title": "Materials / sizing evidence",
+      "url": "https://www.fruit.com/p/men-s-eversoft-cool-zone-fly-boxer-briefs-white-5-pack/5BL7600",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-20-source",
+      "title": "Hanes \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B09G4VWJHT",
+      "type": "Manufacturer / retailer",
+      "note": "Solid-color body: 100% cotton; elastic Comfort Flex waistband | Small: waist 28\u201330 inches (listing size chart) | In Stock \u2014 exact selected Small ASIN in Amazon browser storefront | Inseam: not disclosed | Budget mainstream / marketplace comparison. All-black 12-pack selected. Black/gray packs are not equivalent: heather fabric is 75% cotton/25% polyester. Moisture-wicking finish chemistry undisclosed. Natural_percent describes main body fabric, not whole garment mass. Elastic waistbands and sewing thread are not verified natural; no whole-garment plastic-free claim. Prices are USD one-time pack prices before shipping/tax; account-specific delivery not verified. Exact Small ASIN product pages returned HTTP 200; prices/stock read from isolated signed-out Amazon browser storefront. Images are selected-ASIN listing gallery URLs in source order, excluding recommendations; these are retailer/seller-published, not independently authenticated manufacturer photography. Unit price: $3.67 per pair."
+    },
+    {
+      "id": "natural-boxer-briefs-21-source",
+      "title": "Amazon Essentials \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B07XGLWP65",
+      "type": "Manufacturer / retailer",
+      "note": "100% cotton body; soft elastic waistband | Small: waist 29.5\u201331.5 inches (listing size chart) | In Stock \u2014 exact selected Small ASIN in Amazon browser storefront | Inseam: not disclosed | Budget mainstream / marketplace comparison. All-black Small B0FVLFXP8H was explicitly currently unavailable; this Small assortment has confirmed In Stock. OEKO-TEX claim on listing, not independently registry-audited. Natural_percent describes main body fabric, not whole garment mass. Elastic waistbands and sewing thread are not verified natural; no whole-garment plastic-free claim. Prices are USD one-time pack prices before shipping/tax; account-specific delivery not verified. Exact Small ASIN product pages returned HTTP 200; prices/stock read from isolated signed-out Amazon browser storefront. Images are selected-ASIN listing gallery URLs in source order, excluding recommendations; these are retailer/seller-published, not independently authenticated manufacturer photography. Unit price: $4.12 per pair."
+    },
+    {
+      "id": "natural-boxer-briefs-22-source",
+      "title": "Hanes \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B0FNRQ1XHY",
+      "type": "Manufacturer / retailer",
+      "note": "95% cotton, 5% spandex | Small: waist 28\u201330 inches (listing size chart) | In Stock \u2014 exact selected Small ASIN in Amazon browser storefront | Inseam: not disclosed | Budget mainstream / marketplace comparison. Regular-leg ST2BB6. HTML page title incorrectly says 12-pack; visible product title, Number of Items and Unit Count all say 6. Price uses one-time purchase, not Subscribe & Save or conditional coupon. Moisture-wicking finish chemistry undisclosed. Natural_percent describes main body fabric, not whole garment mass. Elastic waistbands and sewing thread are not verified natural; no whole-garment plastic-free claim. Prices are USD one-time pack prices before shipping/tax; account-specific delivery not verified. Exact Small ASIN product pages returned HTTP 200; prices/stock read from isolated signed-out Amazon browser storefront. Images are selected-ASIN listing gallery URLs in source order, excluding recommendations; these are retailer/seller-published, not independently authenticated manufacturer photography. Unit price: $4.58 per pair."
+    },
+    {
+      "id": "natural-boxer-briefs-23-source",
+      "title": "Hanes \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B0GQVC2G95",
+      "type": "Manufacturer / retailer",
+      "note": "95% cotton, 5% spandex | Small: waist 28\u201330 inches (listing size chart) | In Stock \u2014 exact selected Small ASIN in Amazon browser storefront | Inseam: Long leg; exact inches not published in captured listing | Budget mainstream / marketplace comparison. Distinct longer-leg cut ST2BL6. Listing flags frequently returned due to tight fit. One-time price, no subscription/coupon assumed. Moisture-wicking finish chemistry undisclosed. Natural_percent describes main body fabric, not whole garment mass. Elastic waistbands and sewing thread are not verified natural; no whole-garment plastic-free claim. Prices are USD one-time pack prices before shipping/tax; account-specific delivery not verified. Exact Small ASIN product pages returned HTTP 200; prices/stock read from isolated signed-out Amazon browser storefront. Images are selected-ASIN listing gallery URLs in source order, excluding recommendations; these are retailer/seller-published, not independently authenticated manufacturer photography. Unit price: $4.58 per pair."
+    },
+    {
+      "id": "natural-boxer-briefs-24-source",
+      "title": "FINETOO \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B0DS52SM6W",
+      "type": "Manufacturer / retailer",
+      "note": "95% cotton, 5% elastane | Small: waist 28\u201330 inches (listing size chart) | In Stock \u2014 exact selected Small ASIN in Amazon browser storefront | Inseam: not disclosed | Budget mainstream / marketplace comparison. Sold by FINETOO OFFICAL STORE, ships Amazon. Low upfront cost but not lowest cost per pair. Seller composition claim; no independent testing established. Natural_percent describes main body fabric, not whole garment mass. Elastic waistbands and sewing thread are not verified natural; no whole-garment plastic-free claim. Prices are USD one-time pack prices before shipping/tax; account-specific delivery not verified. Exact Small ASIN product pages returned HTTP 200; prices/stock read from isolated signed-out Amazon browser storefront. Images are selected-ASIN listing gallery URLs in source order, excluding recommendations; these are retailer/seller-published, not independently authenticated manufacturer photography. Unit price: $5.00 per pair."
+    },
+    {
+      "id": "natural-boxer-briefs-25-source",
+      "title": "INNERSY \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B07V9KMQCG",
+      "type": "Manufacturer / retailer",
+      "note": "95% cotton, 5% spandex | Small: waist 28\u201330 inches (listing size chart) | In Stock \u2014 exact selected Small ASIN in Amazon browser storefront | Inseam: not disclosed | Budget mainstream / marketplace comparison. Sold by INNERSY STORE, ships Amazon. Generic marketplace alternative; composition is seller listing claim, not lab tested. Natural_percent describes main body fabric, not whole garment mass. Elastic waistbands and sewing thread are not verified natural; no whole-garment plastic-free claim. Prices are USD one-time pack prices before shipping/tax; account-specific delivery not verified. Exact Small ASIN product pages returned HTTP 200; prices/stock read from isolated signed-out Amazon browser storefront. Images are selected-ASIN listing gallery URLs in source order, excluding recommendations; these are retailer/seller-published, not independently authenticated manufacturer photography. Unit price: $5.14 per pair."
+    },
+    {
+      "id": "natural-boxer-briefs-26-source",
+      "title": "Comfneat \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B07CMPN7LW",
+      "type": "Manufacturer / retailer",
+      "note": "95% cotton, 5% spandex | Small: waist 28\u201330 inches (listing size chart) | In Stock \u2014 exact selected Small ASIN in Amazon browser storefront | Inseam: 5.5 inches | Budget mainstream / marketplace comparison. Sold by Comfneat, ships Amazon. Functional open fly, no side seams, inner-brushed elastic waistband. Exact price and In Stock also confirmed in fully rendered page. Natural_percent describes main body fabric, not whole garment mass. Elastic waistbands and sewing thread are not verified natural; no whole-garment plastic-free claim. Prices are USD one-time pack prices before shipping/tax; account-specific delivery not verified. Exact Small ASIN product pages returned HTTP 200; prices/stock read from isolated signed-out Amazon browser storefront. Images are selected-ASIN listing gallery URLs in source order, excluding recommendations; these are retailer/seller-published, not independently authenticated manufacturer photography. Unit price: $5.60 per pair."
+    },
+    {
+      "id": "natural-boxer-briefs-27-source",
+      "title": "Calvin Klein \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B0DW5KYSRJ",
+      "type": "Manufacturer / retailer",
+      "note": "95% cotton, 5% elastane | Small: waist 28\u201330 inches (listing size chart) | In Stock \u2014 exact selected Small ASIN in Amazon browser storefront | Inseam: not disclosed | Budget mainstream / marketplace comparison. Sold and shipped Amazon. Full rise, functional fly, longer thigh coverage. More expensive mainstream comparison, not budget winner. Original Cotton Stretch black Small also checked at $44.24/5; omitted as near-duplicate, not padding. Natural_percent describes main body fabric, not whole garment mass. Elastic waistbands and sewing thread are not verified natural; no whole-garment plastic-free claim. Prices are USD one-time pack prices before shipping/tax; account-specific delivery not verified. Exact Small ASIN product pages returned HTTP 200; prices/stock read from isolated signed-out Amazon browser storefront. Images are selected-ASIN listing gallery URLs in source order, excluding recommendations; these are retailer/seller-published, not independently authenticated manufacturer photography. Unit price: $8.77 per pair."
+    },
+    {
+      "id": "natural-boxer-briefs-28-source",
+      "title": "Jockey \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B0FDG8DDL8",
+      "type": "Manufacturer / retailer",
+      "note": "100% cotton body; Ultra Soft Flex elastic waistband | Small: waist 28\u201330 inches (listing size chart) | Orderable \u2014 Add to Cart and delivery range displayed; explicit In Stock label absent | Inseam: 5 inches | Budget mainstream / marketplace comparison. Style 9977. Only Small found in captured variant map is this green assortment, not black. Purchasable with Add to Cart and displayed delivery range; no explicit In Stock label. Marketplace seller Eyehill, not Jockey direct. StayNew anti-pilling/fading and Staycool+ moisture/odor-control treatments disclosed; chemistry not disclosed. Higher-priced comparison, not budget winner. Natural_percent describes main body fabric, not whole garment mass. Elastic waistbands and sewing thread are not verified natural; no whole-garment plastic-free claim. Prices are USD one-time pack prices before shipping/tax; account-specific delivery not verified. Exact Small ASIN product pages returned HTTP 200; prices/stock read from isolated signed-out Amazon browser storefront. Images are selected-ASIN listing gallery URLs in source order, excluding recommendations; these are retailer/seller-published, not independently authenticated manufacturer photography. Unit price: $10.96 per pair."
     },
     {
       "id": "benchmark",

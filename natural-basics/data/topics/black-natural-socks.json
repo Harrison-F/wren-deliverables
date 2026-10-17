@@ -722,6 +722,178 @@
       "unitPriceUSD": 9.996666666666666,
       "integrityRank": 2,
       "naturalPercent": null
+    },
+    {
+      "id": "black-natural-socks-21",
+      "name": "Brula \u00b7 98% Cotton Cushioned Quarter Socks, 4 pairs",
+      "url": "https://www.amazon.com/dp/B0G6YWGQ1W",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-21-1.webp",
+      "imageAlt": "Brula 98% Cotton Cushioned Quarter Socks, 4 pairs \u00b7 Black \u00b7 seller listing image",
+      "imageNote": "Selected-ASIN seller gallery, not independently authenticated manufacturer photography. Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-21-1.webp",
+          "alt": "Brula 98% Cotton Cushioned Quarter Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        },
+        {
+          "src": "assets/images/black-natural-socks-21-2.webp",
+          "alt": "Brula 98% Cotton Cushioned Quarter Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        },
+        {
+          "src": "assets/images/black-natural-socks-21-3.webp",
+          "alt": "Brula 98% Cotton Cushioned Quarter Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        },
+        {
+          "src": "assets/images/black-natural-socks-21-4.webp",
+          "alt": "Brula 98% Cotton Cushioned Quarter Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        },
+        {
+          "src": "assets/images/black-natural-socks-21-5.webp",
+          "alt": "Brula 98% Cotton Cushioned Quarter Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        },
+        {
+          "src": "assets/images/black-natural-socks-21-6.webp",
+          "alt": "Brula 98% Cotton Cushioned Quarter Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        },
+        {
+          "src": "assets/images/black-natural-socks-21-7.webp",
+          "alt": "Brula 98% Cotton Cushioned Quarter Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        }
+      ],
+      "facts": {
+        "Fabric": "98% cotton, 2% spandex",
+        "Price": "$4.00 / pair \u00b7 $15.99/4",
+        "Fit": "Black \u00b7 Small\u2013Medium",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-21-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 3.9975,
+      "integrityRank": 1,
+      "naturalPercent": 98
+    },
+    {
+      "id": "black-natural-socks-22",
+      "name": "Brula \u00b7 98% Cotton Cushioned Crew Socks, 4 pairs",
+      "url": "https://www.amazon.com/dp/B0G6ZW4N8F",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-22-1.webp",
+      "imageAlt": "Brula 98% Cotton Cushioned Crew Socks, 4 pairs \u00b7 Black \u00b7 seller listing image",
+      "imageNote": "Selected-ASIN seller gallery, not independently authenticated manufacturer photography. Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-22-1.webp",
+          "alt": "Brula 98% Cotton Cushioned Crew Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        },
+        {
+          "src": "assets/images/black-natural-socks-22-2.webp",
+          "alt": "Brula 98% Cotton Cushioned Crew Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        },
+        {
+          "src": "assets/images/black-natural-socks-22-3.webp",
+          "alt": "Brula 98% Cotton Cushioned Crew Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        },
+        {
+          "src": "assets/images/black-natural-socks-22-4.webp",
+          "alt": "Brula 98% Cotton Cushioned Crew Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        },
+        {
+          "src": "assets/images/black-natural-socks-22-5.webp",
+          "alt": "Brula 98% Cotton Cushioned Crew Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        },
+        {
+          "src": "assets/images/black-natural-socks-22-6.webp",
+          "alt": "Brula 98% Cotton Cushioned Crew Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        },
+        {
+          "src": "assets/images/black-natural-socks-22-7.webp",
+          "alt": "Brula 98% Cotton Cushioned Crew Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        }
+      ],
+      "facts": {
+        "Fabric": "98% cotton, 2% spandex",
+        "Price": "$4.50 / pair \u00b7 $17.99/4",
+        "Fit": "Black \u00b7 Small\u2013Medium",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-22-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 4.4975,
+      "integrityRank": 1,
+      "naturalPercent": 98
+    },
+    {
+      "id": "black-natural-socks-23",
+      "name": "DAUCO \u00b7 98% Cotton Seamless Slouchy Crew Socks, 4 pairs",
+      "url": "https://www.amazon.com/dp/B0FY6CK113",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-23-1.webp",
+      "imageAlt": "DAUCO 98% Cotton Seamless Slouchy Crew Socks, 4 pairs \u00b7 Black \u00b7 seller listing image",
+      "imageNote": "Selected-ASIN seller gallery, not independently authenticated manufacturer photography. Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-23-1.webp",
+          "alt": "DAUCO 98% Cotton Seamless Slouchy Crew Socks, 4 pairs \u00b7 Black \u00b7 seller listing image"
+        }
+      ],
+      "facts": {
+        "Fabric": "98% cotton, 2% elastane",
+        "Price": "$6.07 / pair \u00b7 $24.29/4",
+        "Fit": "Black \u00b7 10\u201313 sock option",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-23-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 6.0725,
+      "integrityRank": 1,
+      "naturalPercent": 98
+    },
+    {
+      "id": "black-natural-socks-24",
+      "name": "Wigwam \u00b7 King Cotton Crew Heavyweight Athletic Sock",
+      "url": "https://www.wigwam.com/products/king-cotton-crew-f1055?variant=42833084219523",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-24-1.webp",
+      "imageAlt": "Wigwam King Cotton Crew Heavyweight Athletic Sock \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-24-1.webp",
+          "alt": "Wigwam King Cotton Crew Heavyweight Athletic Sock \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "91% ring-spun cotton, 7% stretch nylon, 1% stretch polyester (logo), 1% spandex",
+        "Price": "$15.00 / pair",
+        "Fit": "Black \u00b7 LG",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-24-source",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 15.0,
+      "integrityRank": 1,
+      "naturalPercent": 91
     }
   ],
   "sources": [
@@ -1067,6 +1239,34 @@
       "url": "https://tittimitti.com/pages/100-organic-combed-cotton-socks-guide",
       "type": "First-party source",
       "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-21-source",
+      "title": "Brula \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B0G6YWGQ1W",
+      "type": "Manufacturer / retailer",
+      "note": "98% cotton, 2% spandex | Small\u2013Medium; image chart: men\u2019s shoe 9\u201311 | In Stock (exact Amazon ASIN; live browser-session product response) | Budget mainstream / marketplace comparison. $4.00/pair before tax/shipping. One-time price, no coupon or subscription assumed. Verified 2026-10-17; anonymous New York 10118 browser session, not account-specific delivery. Quarter-height compromise. IMPORTANT: choose Small\u2013Medium; image size chart labels 9\u201311 as men\u2019s shoe size, unlike ambiguous HTML chart. Same 98% composition confirmed on exact black/S\u2013M ASIN."
+    },
+    {
+      "id": "black-natural-socks-22-source",
+      "title": "Brula \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B0G6ZW4N8F",
+      "type": "Manufacturer / retailer",
+      "note": "98% cotton, 2% spandex | Small\u2013Medium; image chart: men\u2019s shoe 9\u201311 | In Stock (exact Amazon ASIN; live browser-session product response) | Budget mainstream / marketplace comparison. $4.50/pair before tax/shipping. One-time price, no coupon or subscription assumed. Verified 2026-10-17; anonymous New York 10118 browser session, not account-specific delivery. Preferred near-natural crew. IMPORTANT: choose Small\u2013Medium, not Medium\u2013Large: product image labels 9\u201311 as men\u2019s SHOE size, while Amazon HTML chart misleadingly labels the same numbers Sock Size. Gallery contains seller product photographs and explanatory graphics; no laboratory certification of fiber content."
+    },
+    {
+      "id": "black-natural-socks-23-source",
+      "title": "DAUCO \u00b7 exact product",
+      "url": "https://www.amazon.com/dp/B0FY6CK113",
+      "type": "Manufacturer / retailer",
+      "note": "98% cotton, 2% elastane | 10\u201313 sock option; explicitly fits men\u2019s shoe 7\u201310 | In Stock (exact Amazon ASIN; live browser-session product response) | Budget mainstream / marketplace comparison. $6.07/pair before tax/shipping. One-time price, no coupon or subscription assumed. Verified 2026-10-17; anonymous New York 10118 browser session, not account-specific delivery. Solid black. US10 is at upper limit; seller warns cotton may shrink in washing and recover on wear. Current limited-time deal; not the cheapest. Composition stated in About this item, not merely inferred from Cotton material label. Main product photo only; gallery completeness not verified."
+    },
+    {
+      "id": "black-natural-socks-24-source",
+      "title": "Wigwam \u00b7 exact product",
+      "url": "https://www.wigwam.com/products/king-cotton-crew-f1055?variant=42833084219523",
+      "type": "Manufacturer / retailer",
+      "note": "91% ring-spun cotton, 7% stretch nylon, 1% stretch polyester (logo), 1% spandex | LG; men\u2019s shoe 9\u201312 | In stock: exact BLACK/LG variant available=true in manufacturer Shopify JSON | Budget mainstream / marketplace comparison. 90\u201394% compromise, not >=95%. $15.00/pair; expensive compared with generic multipacks, retained as mainstream-brand fallback not best value. Heavyweight, fully cushioned crew. Product-page blend applies to black selected variant; do not repeat older 92% claims. Generic HTML includes unavailable labels even when exact Shopify variant is available. Tax/shipping not quoted."
     },
     {
       "id": "benchmark",
