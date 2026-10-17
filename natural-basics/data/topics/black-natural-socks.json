@@ -1,0 +1,1095 @@
+{
+  "id": "black-natural-socks",
+  "layout": "natural-basics",
+  "title": "Black natural-fiber socks",
+  "summary": "US men\u2019s 10 \u00b7 crew + quarter \u00b7 black only",
+  "updated": "2026-10-17",
+  "recommendation": {
+    "title": "",
+    "text": "",
+    "test": ""
+  },
+  "products": [
+    {
+      "id": "black-natural-socks-1",
+      "name": "Rawganique \u00b7 BAYRIDGE V1 99.9% Organic Cotton Socks",
+      "url": "https://rawganique.com/products/organic-cotton-tennis-socks-dye-free-biodegradable?variant=48240577675494",
+      "verdict": "Natural construction disclosed",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-1-1.webp",
+      "imageAlt": "Rawganique BAYRIDGE V1 99.9% Organic Cotton Socks \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-1-1.webp",
+          "alt": "Rawganique BAYRIDGE V1 99.9% Organic Cotton Socks \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "99.9% organic cotton",
+        "Price": "$17.95 / pair",
+        "Fit": "Black \u00b7 Large",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-1-source",
+        "black-natural-socks-1-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 17.95,
+      "integrityRank": 4,
+      "naturalPercent": 99.9
+    },
+    {
+      "id": "black-natural-socks-2",
+      "name": "Rawganique \u00b7 MARYLAND 99.99% Organic Cotton Dress Socks",
+      "url": "https://rawganique.com/products/organic-cotton-crew-socks-no-polyester-no-nylon-biodegradable?variant=47762114511078",
+      "verdict": "Natural body \u00b7 trim caveat",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-2-1.webp",
+      "imageAlt": "Rawganique MARYLAND 99.99% Organic Cotton Dress Socks \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-2-1.webp",
+          "alt": "Rawganique MARYLAND 99.99% Organic Cotton Dress Socks \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "99.99% organic cotton",
+        "Price": "$19.95 / pair",
+        "Fit": "Black \u00b7 Large",
+        "Status": "Conflicting % disclosure"
+      },
+      "sources": [
+        "black-natural-socks-2-source",
+        "black-natural-socks-2-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 19.95,
+      "integrityRank": 2,
+      "naturalPercent": null
+    },
+    {
+      "id": "black-natural-socks-3",
+      "name": "Rawganique \u00b7 SWEETWATER 99.95% Organic Cotton Terry Socks",
+      "url": "https://rawganique.com/products/organic-cotton-terry-crew-socks-biodegradable?variant=47632274948326",
+      "verdict": "Natural construction disclosed",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-3-1.webp",
+      "imageAlt": "Rawganique SWEETWATER 99.95% Organic Cotton Terry Socks \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-3-1.webp",
+          "alt": "Rawganique SWEETWATER 99.95% Organic Cotton Terry Socks \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "99.95% organic cotton",
+        "Price": "$17.95 / pair",
+        "Fit": "Black \u00b7 Large",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-3-source",
+        "black-natural-socks-3-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 17.95,
+      "integrityRank": 4,
+      "naturalPercent": 99.95
+    },
+    {
+      "id": "black-natural-socks-4",
+      "name": "Rawganique \u00b7 NORTHWINDS 99.95% Organic Cotton Hiking Socks",
+      "url": "https://rawganique.com/products/organic-cotton-terry-socks-biodegradable?variant=47490225012966",
+      "verdict": "Natural construction disclosed",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-4-1.webp",
+      "imageAlt": "Rawganique NORTHWINDS 99.95% Organic Cotton Hiking Socks \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-4-1.webp",
+          "alt": "Rawganique NORTHWINDS 99.95% Organic Cotton Hiking Socks \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-4-2.webp",
+          "alt": "Rawganique NORTHWINDS 99.95% Organic Cotton Hiking Socks \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "99.95% organic cotton",
+        "Price": "$17.95 / pair",
+        "Fit": "Black \u00b7 Large",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-4-source",
+        "black-natural-socks-4-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 17.95,
+      "integrityRank": 4,
+      "naturalPercent": 99.95
+    },
+    {
+      "id": "black-natural-socks-5",
+      "name": "Rawganique \u00b7 MEADOWLANDS Elastic-free 3-Ply 100% Organic Cotton Crew Socks",
+      "url": "https://rawganique.com/products/elastic-free-organic-cotton-crew-socks-3-ply-biodegradable?variant=45539572383974",
+      "verdict": "Natural construction disclosed",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-5-1.webp",
+      "imageAlt": "Rawganique MEADOWLANDS Elastic-free 3-Ply 100% Organic Cotton Crew Socks \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-5-1.webp",
+          "alt": "Rawganique MEADOWLANDS Elastic-free 3-Ply 100% Organic Cotton Crew Socks \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic cotton, including sewing thread",
+        "Price": "$19.95 / pair",
+        "Fit": "Black \u00b7 Large",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-5-source",
+        "black-natural-socks-5-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 19.95,
+      "integrityRank": 4,
+      "naturalPercent": 100
+    },
+    {
+      "id": "black-natural-socks-6",
+      "name": "Rawganique \u00b7 CANALTOWN Elastic-Free 3-Ply 100% Organic Cotton Socks",
+      "url": "https://rawganique.com/products/organic-cotton-jacquard-socks-no-elastic?variant=47041285193958",
+      "verdict": "Natural construction disclosed",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-6-1.webp",
+      "imageAlt": "Rawganique CANALTOWN Elastic-Free 3-Ply 100% Organic Cotton Socks \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-6-1.webp",
+          "alt": "Rawganique CANALTOWN Elastic-Free 3-Ply 100% Organic Cotton Socks \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic cotton, including sewing thread",
+        "Price": "$19.95 / pair",
+        "Fit": "Black \u00b7 Large",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-6-source",
+        "black-natural-socks-6-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 19.95,
+      "integrityRank": 4,
+      "naturalPercent": 100
+    },
+    {
+      "id": "black-natural-socks-7",
+      "name": "Cottonique \u00b7 Elite Elastic-Free 100% Organic Cotton Socks \u2013 Black (2 Pairs)",
+      "url": "https://cottonique.com/products/elite-elastic-free-100-cotton-socks-black-2-pack?variant=10818901633",
+      "verdict": "Natural construction disclosed",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-7-1.webp",
+      "imageAlt": "Cottonique Elite Elastic-Free 100% Organic Cotton Socks \u2013 Black (2 Pairs) \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-7-1.webp",
+          "alt": "Cottonique Elite Elastic-Free 100% Organic Cotton Socks \u2013 Black (2 Pairs) \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-7-2.webp",
+          "alt": "Cottonique Elite Elastic-Free 100% Organic Cotton Socks \u2013 Black (2 Pairs) \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-7-3.webp",
+          "alt": "Cottonique Elite Elastic-Free 100% Organic Cotton Socks \u2013 Black (2 Pairs) \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic combed cotton yarn",
+        "Price": "$11.20 / pair \u00b7 $22.40/2",
+        "Fit": "Black \u00b7 Large",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-7-source",
+        "black-natural-socks-7-detail-0",
+        "black-natural-socks-7-detail-2",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 11.2,
+      "integrityRank": 4,
+      "naturalPercent": 100
+    },
+    {
+      "id": "black-natural-socks-8",
+      "name": "Cottonique \u00b7 Lightweight Elastic-Free 100% Organic Cotton Crew Socks (2pairs/pack)",
+      "url": "https://cottonique.com/products/lightweight-latex-free-100-organic-cotton-crew-socks-2pairs-pack-black?variant=37532287500471",
+      "verdict": "Natural construction disclosed",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-8-1.webp",
+      "imageAlt": "Cottonique Lightweight Elastic-Free 100% Organic Cotton Crew Socks (2pairs/pack) \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-8-1.webp",
+          "alt": "Cottonique Lightweight Elastic-Free 100% Organic Cotton Crew Socks (2pairs/pack) \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-8-2.webp",
+          "alt": "Cottonique Lightweight Elastic-Free 100% Organic Cotton Crew Socks (2pairs/pack) \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-8-3.webp",
+          "alt": "Cottonique Lightweight Elastic-Free 100% Organic Cotton Crew Socks (2pairs/pack) \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic combed cotton yarn",
+        "Price": "$9.20 / pair \u00b7 $18.40/2",
+        "Fit": "Black \u00b7 Large",
+        "Status": "Sold out \u00b7 target size"
+      },
+      "sources": [
+        "black-natural-socks-8-source",
+        "black-natural-socks-8-detail-0",
+        "black-natural-socks-8-detail-2",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 9.2,
+      "integrityRank": 4,
+      "naturalPercent": 100
+    },
+    {
+      "id": "black-natural-socks-9",
+      "name": "Cottonique \u00b7 Elastic-Free 100% Organic Cotton Quarter Socks (2 Pairs/Pack)",
+      "url": "https://cottonique.com/products/elastic-free-100-organic-cotton?variant=47100621783282",
+      "verdict": "Natural construction disclosed",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-9-1.webp",
+      "imageAlt": "Cottonique Elastic-Free 100% Organic Cotton Quarter Socks (2 Pairs/Pack) \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-9-1.webp",
+          "alt": "Cottonique Elastic-Free 100% Organic Cotton Quarter Socks (2 Pairs/Pack) \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-9-2.webp",
+          "alt": "Cottonique Elastic-Free 100% Organic Cotton Quarter Socks (2 Pairs/Pack) \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-9-3.webp",
+          "alt": "Cottonique Elastic-Free 100% Organic Cotton Quarter Socks (2 Pairs/Pack) \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic combed cotton yarn",
+        "Price": "$11.20 / pair \u00b7 $22.40/2",
+        "Fit": "Black \u00b7 Large",
+        "Status": "Sold out \u00b7 target size"
+      },
+      "sources": [
+        "black-natural-socks-9-source",
+        "black-natural-socks-9-detail-0",
+        "black-natural-socks-9-detail-2",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 11.2,
+      "integrityRank": 4,
+      "naturalPercent": 100
+    },
+    {
+      "id": "black-natural-socks-10",
+      "name": "Q for Quinn \u00b7 Adult Ribbed Socks - 100% Organic Cotton",
+      "url": "https://qforquinn.com/products/natural-no-dye-ribbed-sock-100-organic-cotton?variant=40693548220510",
+      "verdict": "Synthetic thread + elastic",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-10-1.webp",
+      "imageAlt": "Q for Quinn Adult Ribbed Socks - 100% Organic Cotton \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-10-1.webp",
+          "alt": "Q for Quinn Adult Ribbed Socks - 100% Organic Cotton \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-10-2.webp",
+          "alt": "Q for Quinn Adult Ribbed Socks - 100% Organic Cotton \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-10-3.webp",
+          "alt": "Q for Quinn Adult Ribbed Socks - 100% Organic Cotton \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic cotton",
+        "Price": "$19.00 / pair",
+        "Fit": "Black \u00b7 Large/L\u2013XL",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-10-source",
+        "black-natural-socks-10-detail-0",
+        "black-natural-socks-10-detail-2",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 19.0,
+      "integrityRank": 2,
+      "naturalPercent": null
+    },
+    {
+      "id": "black-natural-socks-11",
+      "name": "Q for Quinn \u00b7 The Everyday Adult Trouser Socks - 98% Organic Cotton",
+      "url": "https://qforquinn.com/products/neutrals-adult-socks-98-organic-cotton?variant=39860614529118",
+      "verdict": "Synthetic thread + elastic",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-11-1.webp",
+      "imageAlt": "Q for Quinn The Everyday Adult Trouser Socks - 98% Organic Cotton \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-11-1.webp",
+          "alt": "Q for Quinn The Everyday Adult Trouser Socks - 98% Organic Cotton \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-11-2.webp",
+          "alt": "Q for Quinn The Everyday Adult Trouser Socks - 98% Organic Cotton \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-11-3.webp",
+          "alt": "Q for Quinn The Everyday Adult Trouser Socks - 98% Organic Cotton \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "98% organic cotton, 2% elastane",
+        "Price": "$18.00 / pair",
+        "Fit": "Black \u00b7 Large/L\u2013XL",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-11-source",
+        "black-natural-socks-11-detail-0",
+        "black-natural-socks-11-detail-2",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 18.0,
+      "integrityRank": 1,
+      "naturalPercent": null
+    },
+    {
+      "id": "black-natural-socks-12",
+      "name": "Q for Quinn \u00b7 Heavyweight (Thick) Cotton Adult Socks",
+      "url": "https://qforquinn.com/products/melange-adult-socks-1-pair?variant=42007962714206",
+      "verdict": "Synthetic thread + elastic",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-12-1.webp",
+      "imageAlt": "Q for Quinn Heavyweight (Thick) Cotton Adult Socks \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-12-1.webp",
+          "alt": "Q for Quinn Heavyweight (Thick) Cotton Adult Socks \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-12-2.webp",
+          "alt": "Q for Quinn Heavyweight (Thick) Cotton Adult Socks \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-12-3.webp",
+          "alt": "Q for Quinn Heavyweight (Thick) Cotton Adult Socks \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-12-4.webp",
+          "alt": "Q for Quinn Heavyweight (Thick) Cotton Adult Socks \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-12-5.webp",
+          "alt": "Q for Quinn Heavyweight (Thick) Cotton Adult Socks \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/black-natural-socks-12-6.webp",
+          "alt": "Q for Quinn Heavyweight (Thick) Cotton Adult Socks \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "97% organic cotton, 3% elastane",
+        "Price": "$22.00 / pair",
+        "Fit": "Black \u00b7 Large/L\u2013XL",
+        "Status": "Sold out \u00b7 target size"
+      },
+      "sources": [
+        "black-natural-socks-12-source",
+        "black-natural-socks-12-detail-0",
+        "black-natural-socks-12-detail-2",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 22.0,
+      "integrityRank": 1,
+      "naturalPercent": null
+    },
+    {
+      "id": "black-natural-socks-13",
+      "name": "Maggie's Organics \u00b7 Organic Cotton Classic Crew",
+      "url": "https://maggiesorganics.com/organic-cotton-socks-classic-crew/",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-13-1.webp",
+      "imageAlt": "Maggie's Organics Organic Cotton Classic Crew \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-13-1.webp",
+          "alt": "Maggie's Organics Organic Cotton Classic Crew \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "98% organic cotton, 1% nylon, 1% spandex",
+        "Price": "$12.00 / pair",
+        "Fit": "Black \u00b7 Large",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-13-source",
+        "black-natural-socks-13-detail-1",
+        "black-natural-socks-13-detail-2",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 12.0,
+      "integrityRank": 1,
+      "naturalPercent": 98
+    },
+    {
+      "id": "black-natural-socks-14",
+      "name": "Maggie's Organics \u00b7 Organic Cotton Allergy Crew",
+      "url": "https://maggiesorganics.com/organic-cotton-socks-allergy-crew/",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-14-1.webp",
+      "imageAlt": "Maggie's Organics Organic Cotton Allergy Crew \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-14-1.webp",
+          "alt": "Maggie's Organics Organic Cotton Allergy Crew \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "99.8% organic cotton, 0.2% spandex in a thin band at top",
+        "Price": "$12.00 / pair",
+        "Fit": "Black \u00b7 Large",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-14-source",
+        "black-natural-socks-14-detail-1",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 12.0,
+      "integrityRank": 1,
+      "naturalPercent": 99.8
+    },
+    {
+      "id": "black-natural-socks-15",
+      "name": "MARO \u00b7 Merino Wool Everyday Mini Crew Toe Socks",
+      "url": "https://wearmaro.com/products/merino-wool-everyday-mini-crew-toe-socks?variant=48920863866980",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-15-1.webp",
+      "imageAlt": "MARO Merino Wool Everyday Mini Crew Toe Socks \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-15-1.webp",
+          "alt": "MARO Merino Wool Everyday Mini Crew Toe Socks \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "80% Australian merino wool, 15% organic cotton, 5% spandex",
+        "Price": "$25.00 / pair",
+        "Fit": "Black \u00b7 Medium",
+        "Status": "Preorder \u00b7 Oct 23 advertised"
+      },
+      "sources": [
+        "black-natural-socks-15-source",
+        "black-natural-socks-15-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 25.0,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "black-natural-socks-16",
+      "name": "MARO \u00b7 Organic Cotton Everyday Mini Crew Toe Socks",
+      "url": "https://wearmaro.com/products/organic-cotton-everyday-mini-crew-toe-socks?variant=47633701011556",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-16-1.webp",
+      "imageAlt": "MARO Organic Cotton Everyday Mini Crew Toe Socks \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-16-1.webp",
+          "alt": "MARO Organic Cotton Everyday Mini Crew Toe Socks \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% GOTS-certified organic cotton, 5% spandex",
+        "Price": "$15.00 / pair",
+        "Fit": "Black \u00b7 Medium",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-16-source",
+        "black-natural-socks-16-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 15.0,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "black-natural-socks-17",
+      "name": "MARO \u00b7 Merino Wool Everyday Crew Toe Socks",
+      "url": "https://wearmaro.com/products/merino-wool-everyday-crew-toe-socks?variant=47633665294436",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-17-1.webp",
+      "imageAlt": "MARO Merino Wool Everyday Crew Toe Socks \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-17-1.webp",
+          "alt": "MARO Merino Wool Everyday Crew Toe Socks \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "80% Australian merino wool, 15% organic cotton, 5% spandex",
+        "Price": "$25.00 / pair",
+        "Fit": "Black \u00b7 Medium",
+        "Status": "Preorder \u00b7 Oct 23 advertised"
+      },
+      "sources": [
+        "black-natural-socks-17-source",
+        "black-natural-socks-17-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 25.0,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "black-natural-socks-18",
+      "name": "MARO \u00b7 Organic Cotton Everyday Crew Toe Socks",
+      "url": "https://wearmaro.com/products/organic-cotton-everyday-crew-toe-socks?variant=43033250594916",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-18-1.webp",
+      "imageAlt": "MARO Organic Cotton Everyday Crew Toe Socks \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-18-1.webp",
+          "alt": "MARO Organic Cotton Everyday Crew Toe Socks \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% GOTS-certified organic cotton, 5% spandex",
+        "Price": "$15.00 / pair",
+        "Fit": "Black \u00b7 Medium",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-18-source",
+        "black-natural-socks-18-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 15.0,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "black-natural-socks-19",
+      "name": "Hirsch Natur (MamaOwl) \u00b7 Adult\u2019s Wool Socks \u2013 Black",
+      "url": "https://mamaowl.net/en-us/products/hirsch-natur-adult-s-wool-socks-black?variant=58402967355776",
+      "verdict": "Natural body \u00b7 trim caveat",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-19-1.webp",
+      "imageAlt": "Hirsch Natur (MamaOwl) Adult\u2019s Wool Socks \u2013 Black \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-19-1.webp",
+          "alt": "Hirsch Natur (MamaOwl) Adult\u2019s Wool Socks \u2013 Black \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic wool declared",
+        "Price": "$24.00 / pair",
+        "Fit": "Black \u00b7 Large \u00b7 US 10",
+        "Status": "Fit unconfirmed"
+      },
+      "sources": [
+        "black-natural-socks-19-source",
+        "black-natural-socks-19-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 24.0,
+      "integrityRank": 2,
+      "naturalPercent": null
+    },
+    {
+      "id": "black-natural-socks-20",
+      "name": "TITTIMITTI \u00b7 Men\u2019s 100% Organic Combed Cotton Socks 3-Pack \u2013 Made in Italy",
+      "url": "https://tittimitti.com/products/mens-100-organic-combed-cotton-socks-3-pack-made-in-italy?variant=41613343948980",
+      "verdict": "Natural body \u00b7 trim caveat",
+      "summary": "",
+      "image": "assets/images/black-natural-socks-20-1.webp",
+      "imageAlt": "TITTIMITTI Men\u2019s 100% Organic Combed Cotton Socks 3-Pack \u2013 Made in Italy \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color subset, not a guarantee of full gallery coverage.",
+      "images": [
+        {
+          "src": "assets/images/black-natural-socks-20-1.webp",
+          "alt": "TITTIMITTI Men\u2019s 100% Organic Combed Cotton Socks 3-Pack \u2013 Made in Italy \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% cotton body \u00b7 cuff unspecified",
+        "Price": "$10.00 / pair \u00b7 $29.99/3",
+        "Fit": "Black \u00b7 EU43\u201346 / US9.5\u201313",
+        "Status": "In stock"
+      },
+      "sources": [
+        "black-natural-socks-20-source",
+        "black-natural-socks-20-detail-0",
+        "black-natural-socks-20-detail-2",
+        "black-natural-socks-20-detail-3",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 9.996666666666666,
+      "integrityRank": 2,
+      "naturalPercent": null
+    }
+  ],
+  "sources": [
+    {
+      "id": "black-natural-socks-1-source",
+      "title": "Rawganique \u00b7 exact product",
+      "url": "https://rawganique.com/products/organic-cotton-tennis-socks-dye-free-biodegradable?variant=48240577675494",
+      "type": "Manufacturer / retailer",
+      "note": "99.9% organic cotton; 0.1% biodegradable elastic | Large; men's US 10\u201312 | in stock (exact Black/Large Shopify variant) | Manufacturer documentation, not independent laboratory verification. Organic/certified cotton claim; current issuer scope certificate not independently verified. Site footer identifies organic elastic as organic cotton plus natural rubber, and cotton sewing thread. Natural-fiber percentage excludes rubber; biodegradable alone is not proof of natural origin. Cuff/toe elastic disclosure varies by style. Delicate laundering; restrictive sock returns. Gallery is verified variant-linked/black-named subset; unassigned multi-color images omitted."
+    },
+    {
+      "id": "black-natural-socks-1-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://rawganique.com/products/organic-cotton-tennis-socks-dye-free-biodegradable",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-2-source",
+      "title": "Rawganique \u00b7 exact product",
+      "url": "https://rawganique.com/products/organic-cotton-crew-socks-no-polyester-no-nylon-biodegradable?variant=47762114511078",
+      "type": "Manufacturer / retailer",
+      "note": "99.99% organic cotton; 0.01% biodegradable elastic | Large; men's US 10\u201312 | in stock (exact Black/Large Shopify variant) | Manufacturer documentation, not independent laboratory verification. Organic/certified cotton claim; current issuer scope certificate not independently verified. Site footer identifies organic elastic as organic cotton plus natural rubber, and cotton sewing thread. Natural-fiber percentage excludes rubber; biodegradable alone is not proof of natural origin. Cuff/toe elastic disclosure varies by style. Delicate laundering; restrictive sock returns. COMPOSITION CONFLICT: title and Material say 99.99% cotton/0.01% elastic but opening paragraph says 0.05% elastic; resolve with seller before relying on exact percentage. Gallery is verified variant-linked/black-named subset; unassigned multi-color images omitted."
+    },
+    {
+      "id": "black-natural-socks-2-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://rawganique.com/products/organic-cotton-crew-socks-no-polyester-no-nylon-biodegradable",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-3-source",
+      "title": "Rawganique \u00b7 exact product",
+      "url": "https://rawganique.com/products/organic-cotton-terry-crew-socks-biodegradable?variant=47632274948326",
+      "type": "Manufacturer / retailer",
+      "note": "99.95% organic cotton; 0.05% biodegradable elastic | Large; men's US 10\u201312 | in stock (exact Black/Large Shopify variant) | Manufacturer documentation, not independent laboratory verification. Organic/certified cotton claim; current issuer scope certificate not independently verified. Site footer identifies organic elastic as organic cotton plus natural rubber, and cotton sewing thread. Natural-fiber percentage excludes rubber; biodegradable alone is not proof of natural origin. Cuff/toe elastic disclosure varies by style. Delicate laundering; restrictive sock returns. Gallery is verified variant-linked/black-named subset; unassigned multi-color images omitted."
+    },
+    {
+      "id": "black-natural-socks-3-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://rawganique.com/products/organic-cotton-terry-crew-socks-biodegradable",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-4-source",
+      "title": "Rawganique \u00b7 exact product",
+      "url": "https://rawganique.com/products/organic-cotton-terry-socks-biodegradable?variant=47490225012966",
+      "type": "Manufacturer / retailer",
+      "note": "99.95% organic cotton; 0.05% biodegradable elastic | Large; men's US 10\u201312 | in stock (exact Black/Large Shopify variant) | Manufacturer documentation, not independent laboratory verification. Organic/certified cotton claim; current issuer scope certificate not independently verified. Site footer identifies organic elastic as organic cotton plus natural rubber, and cotton sewing thread. Natural-fiber percentage excludes rubber; biodegradable alone is not proof of natural origin. Cuff/toe elastic disclosure varies by style. Delicate laundering; restrictive sock returns. Gallery is verified variant-linked/black-named subset; unassigned multi-color images omitted."
+    },
+    {
+      "id": "black-natural-socks-4-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://rawganique.com/products/organic-cotton-terry-socks-biodegradable",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-5-source",
+      "title": "Rawganique \u00b7 exact product",
+      "url": "https://rawganique.com/products/elastic-free-organic-cotton-crew-socks-3-ply-biodegradable?variant=45539572383974",
+      "type": "Manufacturer / retailer",
+      "note": "100% organic cotton, including sewing thread; no elastic | Large; men's US 10\u201312 | in stock (exact Black/Large Shopify variant) | Manufacturer documentation, not independent laboratory verification. Organic/certified cotton claim; current issuer scope certificate not independently verified. Explicit cotton sewing-thread disclosure and no synthetics. Loose/non-compressive fit can slip; delicate washing and flat drying; restrictive sock returns. Gallery is verified variant-linked/black-named subset; unassigned multi-color images omitted."
+    },
+    {
+      "id": "black-natural-socks-5-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://rawganique.com/products/elastic-free-organic-cotton-crew-socks-3-ply-biodegradable",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-6-source",
+      "title": "Rawganique \u00b7 exact product",
+      "url": "https://rawganique.com/products/organic-cotton-jacquard-socks-no-elastic?variant=47041285193958",
+      "type": "Manufacturer / retailer",
+      "note": "100% organic cotton, including sewing thread; no elastic | Large; men's US 10\u201312 | in stock (exact Black/Large Shopify variant) | Manufacturer documentation, not independent laboratory verification. Organic/certified cotton claim; current issuer scope certificate not independently verified. Explicit cotton sewing-thread disclosure and no synthetics. Loose/non-compressive fit can slip; delicate washing and flat drying; restrictive sock returns. Gallery is verified variant-linked/black-named subset; unassigned multi-color images omitted."
+    },
+    {
+      "id": "black-natural-socks-6-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://rawganique.com/products/organic-cotton-jacquard-socks-no-elastic",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-7-source",
+      "title": "Cottonique \u00b7 exact product",
+      "url": "https://cottonique.com/products/elite-elastic-free-100-cotton-socks-black-2-pack?variant=10818901633",
+      "type": "Manufacturer / retailer",
+      "note": "100% organic combed cotton yarn; garment ingredients and allergen panel explicitly exclude synthetic fibers and elastic | Large; men's US 9\u201310 | in stock (exact variant) | Brand garment-ingredient claim, not lab test. Site displays GOTS IDFL GOTS-28166; issuer database validity/scope not independently confirmed. Black is dyed, not the undyed option; avoid interpreting marketing \u201cchemical-free\u201d as literal zero chemicals. Sale price; promotion banner ends October 18, 2026. Sock fit can be loose. Exact black gallery included."
+    },
+    {
+      "id": "black-natural-socks-7-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://cottonique.com/products/elite-elastic-free-100-cotton-socks-black-2-pack",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-7-detail-2",
+      "title": "Materials / sizing evidence",
+      "url": "https://cottonique.com/pages/size-chart",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-8-source",
+      "title": "Cottonique \u00b7 exact product",
+      "url": "https://cottonique.com/products/lightweight-latex-free-100-organic-cotton-crew-socks-2pairs-pack-black?variant=37532287500471",
+      "type": "Manufacturer / retailer",
+      "note": "100% organic combed cotton yarn; garment ingredients and allergen panel explicitly exclude synthetic fibers and elastic | Large; men's US 9\u201310 | sold out (Black/Large) | Brand garment-ingredient claim, not lab test. Site displays GOTS IDFL GOTS-28166; issuer database validity/scope not independently confirmed. Black is dyed, not the undyed option; avoid interpreting marketing \u201cchemical-free\u201d as literal zero chemicals. Sale price; promotion banner ends October 18, 2026. Sock fit can be loose. Exact black gallery included."
+    },
+    {
+      "id": "black-natural-socks-8-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://cottonique.com/products/lightweight-latex-free-100-organic-cotton-crew-socks-2pairs-pack-black",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-8-detail-2",
+      "title": "Materials / sizing evidence",
+      "url": "https://cottonique.com/pages/size-chart",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-9-source",
+      "title": "Cottonique \u00b7 exact product",
+      "url": "https://cottonique.com/products/elastic-free-100-organic-cotton?variant=47100621783282",
+      "type": "Manufacturer / retailer",
+      "note": "100% organic combed cotton yarn; garment ingredients and allergen panel explicitly exclude synthetic fibers and elastic | Large; men's US 9\u201310 | sold out (Black/Large) | Brand garment-ingredient claim, not lab test. Site displays GOTS IDFL GOTS-28166; issuer database validity/scope not independently confirmed. Black is dyed, not the undyed option; avoid interpreting marketing \u201cchemical-free\u201d as literal zero chemicals. Sale price; promotion banner ends October 18, 2026. Sock fit can be loose. Exact black gallery included."
+    },
+    {
+      "id": "black-natural-socks-9-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://cottonique.com/products/elastic-free-100-organic-cotton",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-9-detail-2",
+      "title": "Materials / sizing evidence",
+      "url": "https://cottonique.com/pages/size-chart",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-10-source",
+      "title": "Q for Quinn \u00b7 exact product",
+      "url": "https://qforquinn.com/products/natural-no-dye-ribbed-sock-100-organic-cotton?variant=40693548220510",
+      "type": "Manufacturer / retailer",
+      "note": "Body/fabric: 100% organic cotton; seams use cotton/recycled polyester thread; elastic trim polyester-elastane blend | Large/L\u2013XL; men's US 9\u201312 | in stock (exact variant) | Whole-garment natural percentage unknown because separately disclosed synthetic trims are not quantified. 100% is BODY/FABRIC ONLY. GOTS Organic claim, Ecocert Greenlife licence 256894 shown on product page; not independently revalidated in issuer database. Non-toxic/azo-free dyes are brand claims. Multipacks available but not counted as distinct products. Gallery is black-linked/named subset, not asserted exhaustive."
+    },
+    {
+      "id": "black-natural-socks-10-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://qforquinn.com/products/natural-no-dye-ribbed-sock-100-organic-cotton",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-10-detail-2",
+      "title": "Materials / sizing evidence",
+      "url": "https://qforquinn.com/pages/sizing-guide",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-11-source",
+      "title": "Q for Quinn \u00b7 exact product",
+      "url": "https://qforquinn.com/products/neutrals-adult-socks-98-organic-cotton?variant=39860614529118",
+      "type": "Manufacturer / retailer",
+      "note": "Body/fabric: 98% organic cotton, 2% elastane; seams use cotton/recycled polyester thread; elastic trim polyester-elastane blend | Large/L\u2013XL; men's US 9\u201312 | in stock (exact variant) | Whole-garment natural percentage unknown because separately disclosed synthetic trims are not quantified. 98% is BODY/FABRIC ONLY. GOTS Organic claim, Ecocert Greenlife licence 256894 shown on product page; not independently revalidated in issuer database. Non-toxic/azo-free dyes are brand claims. Multipacks available but not counted as distinct products. Gallery is black-linked/named subset, not asserted exhaustive."
+    },
+    {
+      "id": "black-natural-socks-11-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://qforquinn.com/products/neutrals-adult-socks-98-organic-cotton",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-11-detail-2",
+      "title": "Materials / sizing evidence",
+      "url": "https://qforquinn.com/pages/sizing-guide",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-12-source",
+      "title": "Q for Quinn \u00b7 exact product",
+      "url": "https://qforquinn.com/products/melange-adult-socks-1-pair?variant=42007962714206",
+      "type": "Manufacturer / retailer",
+      "note": "Body/fabric: 97% organic cotton, 3% elastane; seams use cotton/recycled polyester thread; elastic trim polyester-elastane blend | Large/L\u2013XL; men's US 9\u201312 | sold out (Black/Large) | Whole-garment natural percentage unknown because separately disclosed synthetic trims are not quantified. 97% is BODY/FABRIC ONLY. GOTS Organic claim, Ecocert Greenlife licence 256894 shown on product page; not independently revalidated in issuer database. Non-toxic/azo-free dyes are brand claims. Multipacks available but not counted as distinct products. Gallery is black-linked/named subset, not asserted exhaustive."
+    },
+    {
+      "id": "black-natural-socks-12-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://qforquinn.com/products/melange-adult-socks-1-pair",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-12-detail-2",
+      "title": "Materials / sizing evidence",
+      "url": "https://qforquinn.com/pages/sizing-guide",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-13-source",
+      "title": "Maggie's Organics \u00b7 exact product",
+      "url": "https://maggiesorganics.com/organic-cotton-socks-classic-crew/",
+      "type": "Manufacturer / retailer",
+      "note": "98% organic cotton, 1% nylon, 1% spandex | Large; general chart men's US 8\u201312 | in stock (Black/L exact product-attribute response) | US-knit/dyed; organic cotton claimed; finished-product certification not independently verified. Sewing thread not separately specified. 3-pack is $32 but Black/L is sold out, so this record uses the available $12 single pair. Image is exact black variant; full gallery color mapping not confirmed."
+    },
+    {
+      "id": "black-natural-socks-13-detail-1",
+      "title": "Materials / sizing evidence",
+      "url": "https://maggiesorganics.com/size-charts/",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-13-detail-2",
+      "title": "Materials / sizing evidence",
+      "url": "https://maggiesorganics.com/organic-cotton-socks-classic-crew-3-pak/",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-14-source",
+      "title": "Maggie's Organics \u00b7 exact product",
+      "url": "https://maggiesorganics.com/organic-cotton-socks-allergy-crew/",
+      "type": "Manufacturer / retailer",
+      "note": "99.8% organic cotton, 0.2% spandex in a thin band at top | Large; general chart men's US 8\u201312; special Allergy sizing caveat: product recommends sizing down for snugger fit | in stock (Black/L exact product-attribute response) | US-knit/dyed; organic cotton claimed; finished-product certification not independently verified. Sewing thread not separately specified. Loose generous mitten-like fit, not elastic-free despite high natural percentage. Image is exact black variant; full gallery color mapping not confirmed."
+    },
+    {
+      "id": "black-natural-socks-14-detail-1",
+      "title": "Materials / sizing evidence",
+      "url": "https://maggiesorganics.com/size-charts/",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-15-source",
+      "title": "MARO \u00b7 exact product",
+      "url": "https://wearmaro.com/products/merino-wool-everyday-mini-crew-toe-socks?variant=48920863866980",
+      "type": "Manufacturer / retailer",
+      "note": "80% Australian merino wool, 15% organic cotton, 5% spandex | Medium; men's US 8\u201310.5 | preorder; page advertises ships by October 23 (exact black/M available to order, not proven on-hand) | 90\u201397% comparator, NOT fully natural. Brand says spandex enclosed in natural fibers; enclosure does not remove synthetic content. Wool is not stated organic; superwash/coating treatment and sewing-thread composition unknown. OEKO-TEX Standard 100 factory claim is not an organic-fiber or plastic-free certificate; certificate number/current scope not independently established. Price is single pair; affiliate claims not used as evidence. Exact black variant image only."
+    },
+    {
+      "id": "black-natural-socks-15-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://wearmaro.com/products/merino-wool-everyday-mini-crew-toe-socks",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-16-source",
+      "title": "MARO \u00b7 exact product",
+      "url": "https://wearmaro.com/products/organic-cotton-everyday-mini-crew-toe-socks?variant=47633701011556",
+      "type": "Manufacturer / retailer",
+      "note": "95% GOTS-certified organic cotton, 5% spandex | Medium; men's US 8\u201310.5 | available to order (exact Black/M variant) | 90\u201397% comparator, NOT fully natural. Brand says spandex enclosed in natural fibers; enclosure does not remove synthetic content. GOTS statement concerns cotton material, not independently established finished-sock certification. OEKO-TEX Standard 100 factory claim is not an organic-fiber or plastic-free certificate; certificate number/current scope not independently established. Price is single pair; affiliate claims not used as evidence. Exact black variant image only."
+    },
+    {
+      "id": "black-natural-socks-16-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://wearmaro.com/products/organic-cotton-everyday-mini-crew-toe-socks",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-17-source",
+      "title": "MARO \u00b7 exact product",
+      "url": "https://wearmaro.com/products/merino-wool-everyday-crew-toe-socks?variant=47633665294436",
+      "type": "Manufacturer / retailer",
+      "note": "80% Australian merino wool, 15% organic cotton, 5% spandex | Medium; men's US 8\u201310.5 | preorder; page advertises ships by October 23 (exact black/M available to order, not proven on-hand) | 90\u201397% comparator, NOT fully natural. Brand says spandex enclosed in natural fibers; enclosure does not remove synthetic content. Wool is not stated organic; superwash/coating treatment and sewing-thread composition unknown. OEKO-TEX Standard 100 factory claim is not an organic-fiber or plastic-free certificate; certificate number/current scope not independently established. Price is single pair; affiliate claims not used as evidence. Exact black variant image only."
+    },
+    {
+      "id": "black-natural-socks-17-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://wearmaro.com/products/merino-wool-everyday-crew-toe-socks",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-18-source",
+      "title": "MARO \u00b7 exact product",
+      "url": "https://wearmaro.com/products/organic-cotton-everyday-crew-toe-socks?variant=43033250594916",
+      "type": "Manufacturer / retailer",
+      "note": "95% GOTS-certified organic cotton, 5% spandex | Medium; men's US 8\u201310.5 | available to order (exact Black/M variant) | 90\u201397% comparator, NOT fully natural. Brand says spandex enclosed in natural fibers; enclosure does not remove synthetic content. GOTS statement concerns cotton material, not independently established finished-sock certification. OEKO-TEX Standard 100 factory claim is not an organic-fiber or plastic-free certificate; certificate number/current scope not independently established. Price is single pair; affiliate claims not used as evidence. Exact black variant image only."
+    },
+    {
+      "id": "black-natural-socks-18-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://wearmaro.com/products/organic-cotton-everyday-crew-toe-socks",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-19-source",
+      "title": "Hirsch Natur (MamaOwl) \u00b7 exact product",
+      "url": "https://mamaowl.net/en-us/products/hirsch-natur-adult-s-wool-socks-black?variant=58402967355776",
+      "type": "Manufacturer / retailer",
+      "note": "100% organic wool declared; elastic and sewing-thread components not disclosed | EU42\u201343 and EU44\u201346 available; US 10 conversion not published on this retailer page\u2014confirm foot/EU size | in stock in both candidate EU sizes; US fit unresolved | Thick/chunky crew-like wool socks. Retailer claims untreated wool and GOTS certification; issuer certificate and exact certification scope not independently verified. US-localized USD page verified; delivered shipping/tax unknown. Do not equate 100% textile label with documented plastic-free trims."
+    },
+    {
+      "id": "black-natural-socks-19-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://mamaowl.net/en-us/products/hirsch-natur-adult-s-wool-socks-black",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-20-source",
+      "title": "TITTIMITTI \u00b7 exact product",
+      "url": "https://tittimitti.com/products/mens-100-organic-combed-cotton-socks-3-pack-made-in-italy?variant=41613343948980",
+      "type": "Manufacturer / retailer",
+      "note": "Main knitted sock fabric: 100% organic combed cotton. Small functional cuff components explicitly excluded from that statement; materials/weights unspecified. | EU43\u201346 / US9.5\u201313 | in stock (Noir / EU43\u201346 exact variant) | Black = Noir. NOT verified whole-garment 100% natural. Brand guide explicitly distinguishes cuff components. Yarn/supplier transaction documentation is not finished-product GOTS certification; brand explicitly does not claim GOTS certification of every sock. Black is dyed. Supplier names disclosed but original certificates not independently checked. Variant-linked gallery subset."
+    },
+    {
+      "id": "black-natural-socks-20-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://tittimitti.com/products/mens-100-organic-combed-cotton-socks-3-pack-made-in-italy",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-20-detail-2",
+      "title": "Materials / sizing evidence",
+      "url": "https://tittimitti.com/pages/materials-manufacturing-traceability",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "black-natural-socks-20-detail-3",
+      "title": "Materials / sizing evidence",
+      "url": "https://tittimitti.com/pages/100-organic-combed-cotton-socks-guide",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "benchmark",
+      "title": "Your natural-clothing benchmark",
+      "url": "https://x.com/AlpacaAurelius/status/2109694229345616077",
+      "type": "Discovery / benchmark",
+      "note": "Preference reference, not independent scientific evidence."
+    },
+    {
+      "id": "community",
+      "title": "PlasticFreeLiving \u00b7 inspected comments",
+      "url": "https://www.reddit.com/r/PlasticFreeLiving/comments/1gk81at/four_good_underwear_brands/",
+      "type": "Discovery / benchmark",
+      "note": "Cottonique, AYA, Tittimitti leads; limited anonymous-feed sample."
+    },
+    {
+      "id": "grok",
+      "title": "Influencer reply \u00b7 MARO",
+      "url": "https://x.com/wear_maro/status/2109695744118780385",
+      "type": "Discovery / benchmark",
+      "note": "Brand self-promotion in benchmark thread; not an independent endorsement."
+    }
+  ],
+  "evidenceNote": "Integrity ranks documented natural construction first, then body-only claims, then synthetic blends; natural percentage breaks ties. It is not a hands-on quality score. Percentages usually describe fabric, not total garment mass. Natural rubber is disclosed separately. Manufacturer certifications were not independently registry-validated.",
+  "caveat": "Prices USD before shipping/tax; sale prices can change. Sold-out and preorder items are labeled. Research includes Grok influencer threads/replies and r/PlasticFreeLiving comments; affiliate/brand posts are discovery leads, not independent proof. Organic/natural does not establish health benefit or absence of chemical residues."
+}

@@ -1,0 +1,1003 @@
+{
+  "id": "natural-boxer-briefs",
+  "layout": "natural-basics",
+  "title": "Natural-fiber boxer briefs",
+  "summary": "Waist 30 \u00b7 black preferred \u00b7 mixed inseams",
+  "updated": "2026-10-17",
+  "recommendation": {
+    "title": "",
+    "text": "",
+    "test": ""
+  },
+  "products": [
+    {
+      "id": "natural-boxer-briefs-1",
+      "name": "Quince \u00b7 Organic Cotton 6-inch Boxer Brief 3-Pack",
+      "url": "https://www.quince.com/men/3pack-organic-cotton-6-boxer-brief?color=black&size=xs",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-1-1.webp",
+      "imageAlt": "Quince Organic Cotton 6-inch Boxer Brief 3-Pack \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  Complete image mediaList mapped specifically to Black XS in first-party productGalleryV2Data; videos excluded.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-1-1.webp",
+          "alt": "Quince Organic Cotton 6-inch Boxer Brief 3-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-1-2.webp",
+          "alt": "Quince Organic Cotton 6-inch Boxer Brief 3-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-1-3.webp",
+          "alt": "Quince Organic Cotton 6-inch Boxer Brief 3-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-1-4.webp",
+          "alt": "Quince Organic Cotton 6-inch Boxer Brief 3-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-1-5.webp",
+          "alt": "Quince Organic Cotton 6-inch Boxer Brief 3-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-1-6.webp",
+          "alt": "Quince Organic Cotton 6-inch Boxer Brief 3-Pack \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% organic cotton, 5% spandex",
+        "Price": "$13.30 / pair \u00b7 $39.90/3",
+        "Fit": "Black \u00b7 XS",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-1-source",
+        "natural-boxer-briefs-1-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 13.299999999999999,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-2",
+      "name": "Organic Basics \u00b7 Core Boxer Briefs 3-Pack",
+      "url": "https://us.organicbasics.com/products/mens-core-boxer-briefs-3-pack-black-black-black?variant=50685951508807",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-2-1.webp",
+      "imageAlt": "Organic Basics Core Boxer Briefs 3-Pack \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  Complete product images array: product has black/black/black only, size variants.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-2-1.webp",
+          "alt": "Organic Basics Core Boxer Briefs 3-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-2-2.webp",
+          "alt": "Organic Basics Core Boxer Briefs 3-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-2-3.webp",
+          "alt": "Organic Basics Core Boxer Briefs 3-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-2-4.webp",
+          "alt": "Organic Basics Core Boxer Briefs 3-Pack \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% organic cotton, 5% elastane",
+        "Price": "$18.67 / pair \u00b7 $56.00/3",
+        "Fit": "Black \u00b7 XS",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-2-source",
+        "natural-boxer-briefs-2-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 18.666666666666668,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-3",
+      "name": "Organic Basics \u00b7 Core Easy Fit Boxer Briefs 3-Pack",
+      "url": "https://us.organicbasics.com/products/mens-core-easy-fit-boxer-briefs-3-pack-black-black-black?variant=51967264686407",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-3-1.webp",
+      "imageAlt": "Organic Basics Core Easy Fit Boxer Briefs 3-Pack \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  Complete product images array: product has black/black/black only, size variants.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-3-1.webp",
+          "alt": "Organic Basics Core Easy Fit Boxer Briefs 3-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-3-2.webp",
+          "alt": "Organic Basics Core Easy Fit Boxer Briefs 3-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-3-3.webp",
+          "alt": "Organic Basics Core Easy Fit Boxer Briefs 3-Pack \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% organic cotton, 5% elastane",
+        "Price": "$18.67 / pair \u00b7 $56.00/3",
+        "Fit": "Black \u00b7 XS",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-3-source",
+        "natural-boxer-briefs-3-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 18.666666666666668,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-4",
+      "name": "Cottonique \u00b7 Men\u2019s Rib Elasticized Boxer Brief with Fly",
+      "url": "https://www.cottonique.com/products/mens-rib-elasticized-boxer-brief?variant=47708173828338",
+      "verdict": "Natural body \u00b7 trim caveat",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-4-1.webp",
+      "imageAlt": "Cottonique Men\u2019s Rib Elasticized Boxer Brief with Fly \u00b7 Melange Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  Variant-linked hero only; full exact-color gallery not established.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-4-1.webp",
+          "alt": "Cottonique Men\u2019s Rib Elasticized Boxer Brief with Fly \u00b7 Melange Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic cotton rib body",
+        "Price": "$26.40 / pair",
+        "Fit": "Melange Black \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-4-source",
+        "natural-boxer-briefs-4-detail-0",
+        "natural-boxer-briefs-4-detail-2",
+        "natural-boxer-briefs-4-detail-3",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 26.4,
+      "integrityRank": 2,
+      "naturalPercent": 100
+    },
+    {
+      "id": "natural-boxer-briefs-5",
+      "name": "Cottonique \u00b7 Men\u2019s Rib Drawstring Boxer Brief with Fly",
+      "url": "https://www.cottonique.com/products/mens-rib-drawstring-boxer-brief-with-fly-colored?variant=48000292290802",
+      "verdict": "Natural construction disclosed",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-5-1.webp",
+      "imageAlt": "Cottonique Men\u2019s Rib Drawstring Boxer Brief with Fly \u00b7 Heather Grey \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-5-1.webp",
+          "alt": "Cottonique Men\u2019s Rib Drawstring Boxer Brief with Fly \u00b7 Heather Grey \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-5-2.webp",
+          "alt": "Cottonique Men\u2019s Rib Drawstring Boxer Brief with Fly \u00b7 Heather Grey \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic cotton rib fabric",
+        "Price": "$28.00 / pair",
+        "Fit": "Heather Grey \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-5-source",
+        "natural-boxer-briefs-5-detail-0",
+        "natural-boxer-briefs-5-detail-2",
+        "natural-boxer-briefs-5-detail-3",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 28.0,
+      "integrityRank": 4,
+      "naturalPercent": 100
+    },
+    {
+      "id": "natural-boxer-briefs-6",
+      "name": "AYA \u00b7 Organic Pima Cotton Boxer Briefs",
+      "url": "https://ecoaya.com/products/organic-pima-cotton-boxer-briefs?variant=42496975798518",
+      "verdict": "Natural textiles \u00b7 silicone finish",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-6-1.webp",
+      "imageAlt": "AYA Organic Pima Cotton Boxer Briefs \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  All product-gallery images explicitly filename-labeled color-black plus mapped variant hero.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-6-1.webp",
+          "alt": "AYA Organic Pima Cotton Boxer Briefs \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-6-2.webp",
+          "alt": "AYA Organic Pima Cotton Boxer Briefs \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-6-3.webp",
+          "alt": "AYA Organic Pima Cotton Boxer Briefs \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic Pima cotton fabric and thread",
+        "Price": "$32.00 / pair",
+        "Fit": "Black \u00b7 S",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-6-source",
+        "natural-boxer-briefs-6-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 32.0,
+      "integrityRank": 2,
+      "naturalPercent": 100
+    },
+    {
+      "id": "natural-boxer-briefs-7",
+      "name": "Rawganique \u00b7 ESSEX Organic Cotton Sports Boxer Briefs",
+      "url": "https://rawganique.com/products/organic-cotton-sports-boxer-briefs-essex?variant=43508002783462",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-7-1.webp",
+      "imageAlt": "Rawganique ESSEX Organic Cotton Sports Boxer Briefs \u00b7 Rainforest Charcoal/Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  Variant-linked hero only; full exact-color gallery not established.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-7-1.webp",
+          "alt": "Rawganique ESSEX Organic Cotton Sports Boxer Briefs \u00b7 Rainforest Charcoal/Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% organic cotton, 5% elastane",
+        "Price": "$33.95 / pair",
+        "Fit": "Rainforest Charcoal/Black \u00b7 M",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-7-source",
+        "natural-boxer-briefs-7-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 33.95,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-8",
+      "name": "MARO \u00b7 Plastic-Free Organic Cotton Boxer Briefs",
+      "url": "https://wearmaro.com/products/plastic-free-boxers?variant=44084450984036",
+      "verdict": "Natural construction disclosed",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-8-1.webp",
+      "imageAlt": "MARO Plastic-Free Organic Cotton Boxer Briefs \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-8-1.webp",
+          "alt": "MARO Plastic-Free Organic Cotton Boxer Briefs \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-8-2.webp",
+          "alt": "MARO Plastic-Free Organic Cotton Boxer Briefs \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-8-3.webp",
+          "alt": "MARO Plastic-Free Organic Cotton Boxer Briefs \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-8-4.webp",
+          "alt": "MARO Plastic-Free Organic Cotton Boxer Briefs \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-8-5.webp",
+          "alt": "MARO Plastic-Free Organic Cotton Boxer Briefs \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-8-6.webp",
+          "alt": "MARO Plastic-Free Organic Cotton Boxer Briefs \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% GOTS-certified organic cotton body",
+        "Price": "$34.00 / pair",
+        "Fit": "Black \u00b7 M",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-8-source",
+        "natural-boxer-briefs-8-detail-0",
+        "natural-boxer-briefs-8-detail-2",
+        "natural-boxer-briefs-8-detail-3",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 34.0,
+      "integrityRank": 4,
+      "naturalPercent": 100
+    },
+    {
+      "id": "natural-boxer-briefs-9",
+      "name": "menique \u00b7 Merino Short Boxer Briefs 2-Pack",
+      "url": "https://menique.com/products/mens-merino-short-boxer-briefs-2-pack?variant=47028255490304",
+      "verdict": "Natural body \u00b7 trim caveat",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-9-1.webp",
+      "imageAlt": "menique Merino Short Boxer Briefs 2-Pack \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-9-1.webp",
+          "alt": "menique Merino Short Boxer Briefs 2-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-9-2.webp",
+          "alt": "menique Merino Short Boxer Briefs 2-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-9-3.webp",
+          "alt": "menique Merino Short Boxer Briefs 2-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-9-4.webp",
+          "alt": "menique Merino Short Boxer Briefs 2-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-9-5.webp",
+          "alt": "menique Merino Short Boxer Briefs 2-Pack \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-9-6.webp",
+          "alt": "menique Merino Short Boxer Briefs 2-Pack \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% virgin merino wool body",
+        "Price": "$34.95 / pair \u00b7 $69.90/2",
+        "Fit": "Black \u00b7 S",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-9-source",
+        "natural-boxer-briefs-9-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 34.95,
+      "integrityRank": 2,
+      "naturalPercent": 100
+    },
+    {
+      "id": "natural-boxer-briefs-10",
+      "name": "Rawganique \u00b7 ACE Organic Cotton Athletic Pouch Boxer Briefs",
+      "url": "https://rawganique.com/products/ace-organic-cotton-retro-shorts?variant=43544843124966",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-10-1.webp",
+      "imageAlt": "Rawganique ACE Organic Cotton Athletic Pouch Boxer Briefs \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-10-1.webp",
+          "alt": "Rawganique ACE Organic Cotton Athletic Pouch Boxer Briefs \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-10-2.webp",
+          "alt": "Rawganique ACE Organic Cotton Athletic Pouch Boxer Briefs \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% organic cotton, 5% elastane",
+        "Price": "$35.97 / pair",
+        "Fit": "Black \u00b7 S offered",
+        "Status": "Fit unconfirmed"
+      },
+      "sources": [
+        "natural-boxer-briefs-10-source",
+        "natural-boxer-briefs-10-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 35.97,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-11",
+      "name": "NADS \u00b7 Organic Cotton Boxer Brief \u2014 Single",
+      "url": "https://nadsunder.com/products/organic-cotton-boxer-brief?variant=42087896121415",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-11-1.webp",
+      "imageAlt": "NADS Organic Cotton Boxer Brief \u2014 Single \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  Variant-linked hero only; full exact-color gallery not established.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-11-1.webp",
+          "alt": "NADS Organic Cotton Boxer Brief \u2014 Single \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "95% GOTS-certified organic cotton, 5% elastane body",
+        "Price": "$36.00 / pair",
+        "Fit": "Black \u00b7 Medium",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-11-source",
+        "natural-boxer-briefs-11-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 36.0,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-12",
+      "name": "Rawganique \u00b7 BJORN V3 Organic Cotton Fitted Boxer Briefs",
+      "url": "https://rawganique.com/products/organic-pima-cotton-fitted-boxer-briefs-jeff-bjorn?variant=47630056784102",
+      "verdict": "Natural construction disclosed",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-12-1.webp",
+      "imageAlt": "Rawganique BJORN V3 Organic Cotton Fitted Boxer Briefs \u00b7 Black V3 (100%) \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-12-1.webp",
+          "alt": "Rawganique BJORN V3 Organic Cotton Fitted Boxer Briefs \u00b7 Black V3 (100%) \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-12-2.webp",
+          "alt": "Rawganique BJORN V3 Organic Cotton Fitted Boxer Briefs \u00b7 Black V3 (100%) \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic cotton body and thread",
+        "Price": "$41.95 / pair",
+        "Fit": "Black V3 (100%) \u00b7 S",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-12-source",
+        "natural-boxer-briefs-12-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 41.95,
+      "integrityRank": 4,
+      "naturalPercent": 100
+    },
+    {
+      "id": "natural-boxer-briefs-13",
+      "name": "Woolly \u00b7 Everyday Merino Boxer Brief \u2014 5 inch",
+      "url": "https://www.woolly.clothing/products/everyday-boxer-brief-back-up-copy?variant=52763987050868",
+      "verdict": "Natural body \u00b7 trim caveat",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-13-1.webp",
+      "imageAlt": "Woolly Everyday Merino Boxer Brief \u2014 5 inch \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  All product-gallery images explicitly filename-labeled black and 5in, plus mapped hero; mixed/unspecified inseam photos excluded.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-13-1.webp",
+          "alt": "Woolly Everyday Merino Boxer Brief \u2014 5 inch \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-13-2.webp",
+          "alt": "Woolly Everyday Merino Boxer Brief \u2014 5 inch \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-13-3.webp",
+          "alt": "Woolly Everyday Merino Boxer Brief \u2014 5 inch \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-13-4.webp",
+          "alt": "Woolly Everyday Merino Boxer Brief \u2014 5 inch \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-13-5.webp",
+          "alt": "Woolly Everyday Merino Boxer Brief \u2014 5 inch \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-13-6.webp",
+          "alt": "Woolly Everyday Merino Boxer Brief \u2014 5 inch \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-13-7.webp",
+          "alt": "Woolly Everyday Merino Boxer Brief \u2014 5 inch \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% Australian merino wool body",
+        "Price": "$44.00 / pair",
+        "Fit": "Black \u00b7 Small",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-13-source",
+        "natural-boxer-briefs-13-detail-0",
+        "natural-boxer-briefs-13-reddit",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 44.0,
+      "integrityRank": 2,
+      "naturalPercent": 100
+    },
+    {
+      "id": "natural-boxer-briefs-14",
+      "name": "Jungmaven \u00b7 Hemp / Organic Cotton Boxer Brief",
+      "url": "https://jungmaven.com/products/hemp-brief-boxer?variant=42712797905094",
+      "verdict": "Small synthetic compromise",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-14-1.webp",
+      "imageAlt": "Jungmaven Hemp / Organic Cotton Boxer Brief \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-14-1.webp",
+          "alt": "Jungmaven Hemp / Organic Cotton Boxer Brief \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-14-2.webp",
+          "alt": "Jungmaven Hemp / Organic Cotton Boxer Brief \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-14-3.webp",
+          "alt": "Jungmaven Hemp / Organic Cotton Boxer Brief \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-14-4.webp",
+          "alt": "Jungmaven Hemp / Organic Cotton Boxer Brief \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "29% hemp, 66% organic cotton, 5% spandex",
+        "Price": "$48.00 / pair",
+        "Fit": "Black \u00b7 L",
+        "Status": "Fit unconfirmed"
+      },
+      "sources": [
+        "natural-boxer-briefs-14-source",
+        "natural-boxer-briefs-14-detail-0",
+        "natural-boxer-briefs-14-detail-2",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 48.0,
+      "integrityRank": 1,
+      "naturalPercent": 95
+    },
+    {
+      "id": "natural-boxer-briefs-15",
+      "name": "Arms of Andes \u00b7 Alpaca Wool Boxer Briefs \u2014 160 Ultralight",
+      "url": "https://armsofandes.com/products/mens-alpaca-wool-boxer-briefs?variant=19827535806537",
+      "verdict": "Natural body \u00b7 trim caveat",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-15-1.webp",
+      "imageAlt": "Arms of Andes Alpaca Wool Boxer Briefs \u2014 160 Ultralight \u00b7 Black \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  All product-gallery images explicitly filename-labeled color-black plus mapped variant hero.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-15-1.webp",
+          "alt": "Arms of Andes Alpaca Wool Boxer Briefs \u2014 160 Ultralight \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-15-2.webp",
+          "alt": "Arms of Andes Alpaca Wool Boxer Briefs \u2014 160 Ultralight \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-15-3.webp",
+          "alt": "Arms of Andes Alpaca Wool Boxer Briefs \u2014 160 Ultralight \u00b7 Black \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-15-4.webp",
+          "alt": "Arms of Andes Alpaca Wool Boxer Briefs \u2014 160 Ultralight \u00b7 Black \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% alpaca wool fabric",
+        "Price": "$52.00 / pair",
+        "Fit": "Black \u00b7 S",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-15-source",
+        "natural-boxer-briefs-15-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 52.0,
+      "integrityRank": 2,
+      "naturalPercent": 100
+    },
+    {
+      "id": "natural-boxer-briefs-16",
+      "name": "Rawganique \u00b7 TOBIN Organic Merino Wool Boxer Briefs",
+      "url": "https://rawganique.com/products/organic-merino-wool-boxer-briefs-no-fly-biodegradable?variant=47629993312486",
+      "verdict": "Natural construction disclosed",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-16-1.webp",
+      "imageAlt": "Rawganique TOBIN Organic Merino Wool Boxer Briefs \u00b7 Arctic Charcoal (Bio Dye) \u00b7 official photo",
+      "imageNote": "Official product imagery; selected-color gallery subset where associations are incomplete.  Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-16-1.webp",
+          "alt": "Rawganique TOBIN Organic Merino Wool Boxer Briefs \u00b7 Arctic Charcoal (Bio Dye) \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-16-2.webp",
+          "alt": "Rawganique TOBIN Organic Merino Wool Boxer Briefs \u00b7 Arctic Charcoal (Bio Dye) \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-16-3.webp",
+          "alt": "Rawganique TOBIN Organic Merino Wool Boxer Briefs \u00b7 Arctic Charcoal (Bio Dye) \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-16-4.webp",
+          "alt": "Rawganique TOBIN Organic Merino Wool Boxer Briefs \u00b7 Arctic Charcoal (Bio Dye) \u00b7 official photo"
+        },
+        {
+          "src": "assets/images/natural-boxer-briefs-16-5.webp",
+          "alt": "Rawganique TOBIN Organic Merino Wool Boxer Briefs \u00b7 Arctic Charcoal (Bio Dye) \u00b7 official photo"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% organic merino wool body",
+        "Price": "$59.95 / pair",
+        "Fit": "Arctic Charcoal (Bio Dye) \u00b7 S",
+        "Status": "In stock"
+      },
+      "sources": [
+        "natural-boxer-briefs-16-source",
+        "natural-boxer-briefs-16-detail-0",
+        "benchmark",
+        "community",
+        "grok"
+      ],
+      "unitPriceUSD": 59.95,
+      "integrityRank": 4,
+      "naturalPercent": 100
+    }
+  ],
+  "sources": [
+    {
+      "id": "natural-boxer-briefs-1-source",
+      "title": "Quince \u00b7 exact product",
+      "url": "https://www.quince.com/men/3pack-organic-cotton-6-boxer-brief?color=black&size=xs",
+      "type": "Manufacturer / retailer",
+      "note": "95% organic cotton, 5% spandex | XS: US size 29\u201330; body waist 29.5\u201330.5 inches (embedded official chart) | In stock \u2014 exact black XS activeInventory.available=50 and atcDisabled=false (not a promised inventory count) | Inseam: 6 inches | No-roll elastic waistband; thread and waistband complete composition undisclosed. OCS-certified cotton; OEKO-TEX Standard 100 material certificate 07.BH.52767 claimed; dyed in bluesign-standard mill. Factory WRAP-certified. Certification registry not independently audited. Natural_percent is body fabric, not entire garment. $39.90 per 3-pack / $13.30 each, before shipping/tax. Exact-size stock from first-party embedded product data. The separate 8-inch version is sold out and not padded into main list. Gallery: Complete image mediaList mapped specifically to Black XS in first-party productGalleryV2Data; videos excluded."
+    },
+    {
+      "id": "natural-boxer-briefs-1-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://www.quince.com/men/3pack-organic-cotton-6-boxer-brief?color=black",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-2-source",
+      "title": "Organic Basics \u00b7 exact product",
+      "url": "https://us.organicbasics.com/products/mens-core-boxer-briefs-3-pack-black-black-black?variant=50685951508807",
+      "type": "Manufacturer / retailer",
+      "note": "95% organic cotton, 5% elastane | XS: waist 29\u00bd\u201331 inches (US product chart) | In stock \u2014 exact selected variant available=true | Inseam: 6 inches | US storefront, not converted EU pricing. Elastic waistband and thread fiber breakdown not disclosed. Product fabric/certification claims do not establish natural trims or absence of all synthetic treatments. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: Complete product images array: product has black/black/black only, size variants."
+    },
+    {
+      "id": "natural-boxer-briefs-2-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://us.organicbasics.com/products/mens-core-boxer-briefs-3-pack-black-black-black",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-3-source",
+      "title": "Organic Basics \u00b7 exact product",
+      "url": "https://us.organicbasics.com/products/mens-core-easy-fit-boxer-briefs-3-pack-black-black-black?variant=51967264686407",
+      "type": "Manufacturer / retailer",
+      "note": "95% organic cotton, 5% elastane | XS: waist 29\u00bd\u201331 inches (US product chart) | In stock \u2014 exact selected variant available=true | Inseam: not disclosed | Distinct comfort-control separating pouch, not a color/pack duplicate of Core. Exposed embroidered elastic waistband; thread/elastic chemistry undisclosed. Real Cool Cotton sweat-wicking properties for up to 30 washes and Real Lasting anti-pilling claims: FINISH CHEMISTRY NOT DISCLOSED. Factory GOTS/GRS/WRAP/OEKO-TEX certification claims are not whole-garment natural-material proof. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: Complete product images array: product has black/black/black only, size variants."
+    },
+    {
+      "id": "natural-boxer-briefs-3-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://us.organicbasics.com/products/mens-core-easy-fit-boxer-briefs-3-pack-black-black-black",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-4-source",
+      "title": "Cottonique \u00b7 exact product",
+      "url": "https://www.cottonique.com/products/mens-rib-elasticized-boxer-brief?variant=47708173828338",
+      "type": "Manufacturer / retailer",
+      "note": "100% organic cotton rib body; 100% cotton-colored sewing thread and woven cotton label; latex-free/spandex-free elastic of undisclosed chemistry | Small: waist 28\u201330 inches (official size-chart image) | In stock \u2014 exact selected variant available=true | Inseam: not disclosed | Cotton-covered elastic is NOT documented all-natural. Melange Black product ingredient list specifically says cotton sewing thread; separate solid-black SKU lists cotton-wrapped polyester-core thread, so do not generalize across colors. Fiber-dyed; manufacturer claims no harsh dyes, resins, bleach or formaldehyde. Promotional $26.40 price; no health claims independently established. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: Variant-linked hero only; full exact-color gallery not established."
+    },
+    {
+      "id": "natural-boxer-briefs-4-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://www.cottonique.com/products/mens-rib-elasticized-boxer-brief",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-4-detail-2",
+      "title": "Materials / sizing evidence",
+      "url": "https://www.cottonique.com/pages/size-chart",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-4-detail-3",
+      "title": "Materials / sizing evidence",
+      "url": "https://cdn.shopify.com/s/files/1/0012/8072/files/MENS_BOTTOMS_2.jpg?v=1624932034",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-5-source",
+      "title": "Cottonique \u00b7 exact product",
+      "url": "https://www.cottonique.com/products/mens-rib-drawstring-boxer-brief-with-fly-colored?variant=48000292290802",
+      "type": "Manufacturer / retailer",
+      "note": "100% organic cotton rib fabric; 100% cotton-colored sewing thread; 100% organic cotton drawstring; 100% woven cotton label | Small: waist 28\u201330 inches (official size-chart image) | In stock \u2014 exact selected variant available=true | Inseam: not disclosed | Elastic-free waistband AND leg openings. Ingredient list documents all-cotton construction; manufacturer says 100% biodegradable/compostable. Heather Grey selected because Melange Black Small is sold out; Deep Melange Blue Small also available. Fiber-dyed; manufacturer claims no harsh dyes/resins/bleach/formaldehyde. Do not apply this thread disclosure to separate solid-black SKU. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded."
+    },
+    {
+      "id": "natural-boxer-briefs-5-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://www.cottonique.com/products/mens-rib-drawstring-boxer-brief-with-fly-colored",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-5-detail-2",
+      "title": "Materials / sizing evidence",
+      "url": "https://www.cottonique.com/pages/size-chart",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-5-detail-3",
+      "title": "Materials / sizing evidence",
+      "url": "https://cdn.shopify.com/s/files/1/0012/8072/files/MENS_BOTTOMS_2.jpg?v=1624932034",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-6-source",
+      "title": "AYA \u00b7 exact product",
+      "url": "https://ecoaya.com/products/organic-pima-cotton-boxer-briefs?variant=42496975798518",
+      "type": "Manufacturer / retailer",
+      "note": "100% organic Pima cotton fabric and thread; organic cotton label; tree-rubber/cotton waistband; silicone fabric finish and synthetic label ink disclosed | S: waist 28\u201331 inches (official product chart) | In stock \u2014 exact selected variant available=true | Inseam: not disclosed | Important integrity caveat: black uses low-impact GOTS dyes, OEKO-TEX silicone finishing, low-impact thread dye and synthetic GOTS label ink. Thus NOT chemically/all-materials natural despite plastic-free branding. Separate Undyed ChemicalFree option claims no synthetic dyes/finishes, but exact thread/label treatment scope needs confirmation. Broken Reddit-era 3-pack URL recovered to current single-product URL. Manufacturer 3.3/5 on 36 reviews with fit/durability complaints; not a blanket rejection. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: All product-gallery images explicitly filename-labeled color-black plus mapped variant hero."
+    },
+    {
+      "id": "natural-boxer-briefs-6-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://ecoaya.com/products/organic-pima-cotton-boxer-briefs",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-7-source",
+      "title": "Rawganique \u00b7 exact product",
+      "url": "https://rawganique.com/products/organic-cotton-sports-boxer-briefs-essex?variant=43508002783462",
+      "type": "Manufacturer / retailer",
+      "note": "95% organic cotton, 5% elastane | M: laid-flat waist relaxed 14.17, extended 16.14 inches; S extends only 14.96 inches flat, borderline for waist 30 | In stock \u2014 exact selected variant available=true | Inseam: not disclosed | Exposed elastic waistband; waistband chemistry and thread not disclosed. Organic biodegradable eco dye claimed. Opening fly. Measurements are garment measurements, not a body-size guarantee; Medium chosen over borderline Small. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: Variant-linked hero only; full exact-color gallery not established."
+    },
+    {
+      "id": "natural-boxer-briefs-7-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://rawganique.com/products/organic-cotton-sports-boxer-briefs-essex",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-8-source",
+      "title": "MARO \u00b7 exact product",
+      "url": "https://wearmaro.com/products/plastic-free-boxers?variant=44084450984036",
+      "type": "Manufacturer / retailer",
+      "note": "100% GOTS-certified organic cotton body; 60% organic cotton / 40% natural rubber waistband; 100% cotton thread and nonsynthetic labels | M: waist 30\u201332 (official product-gallery size chart) | In stock \u2014 exact selected variant available=true | Inseam: not disclosed | Current product explicitly renamed from Boxers/Hybrid Fit to Boxer Brief; photo confirms close-fitting short/trunk-like boxer-brief construction, not relaxed woven boxers. Separate Relaxed Boxers excluded. Covered natural rubber waistband; official materials page documents cotton thread and nonsynthetic labels. OEKO-TEX-certified dyes claimed; preshrunk without chemicals. Manufacturer disclosure, not independent lab/certificate verification. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded."
+    },
+    {
+      "id": "natural-boxer-briefs-8-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://wearmaro.com/products/plastic-free-boxers",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-8-detail-2",
+      "title": "Materials / sizing evidence",
+      "url": "https://wearmaro.com/pages/ai-info",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-8-detail-3",
+      "title": "Materials / sizing evidence",
+      "url": "https://cdn.shopify.com/s/files/1/0629/2917/4628/files/SIZE_CHART_BOXERS.jpg?v=1760447984",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-9-source",
+      "title": "menique \u00b7 exact product",
+      "url": "https://menique.com/products/mens-merino-short-boxer-briefs-2-pack?variant=47028255490304",
+      "type": "Manufacturer / retailer",
+      "note": "100% virgin merino wool body; waistband contains elastane | S: body waist 28.5\u201331 inches (official body chart) | In stock \u2014 exact selected variant available=true | Inseam: 3.7 inches / 9.5 cm (S garment chart) | 160 GSM single jersey. Explicit elastane waistband defeats whole-garment natural claim. Sewing thread, dye/finish chemistry and wool anti-shrink processing not disclosed on inspected product page. Pack contains two, not two distinct products. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded."
+    },
+    {
+      "id": "natural-boxer-briefs-9-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://menique.com/products/mens-merino-short-boxer-briefs-2-pack",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-10-source",
+      "title": "Rawganique \u00b7 exact product",
+      "url": "https://rawganique.com/products/ace-organic-cotton-retro-shorts?variant=43544843124966",
+      "type": "Manufacturer / retailer",
+      "note": "95% organic cotton, 5% elastane | S offered; numeric waist range not disclosed on product page\u2014waist-30 fit NOT confirmed | In stock \u2014 exact selected variant available=true | Inseam: not disclosed | Covered elastic waistband; elastic chemistry and sewing thread not disclosed. Organic biodegradable eco dye claimed. No fly; gusseted pouch. Numeric inseam not disclosed. Treat as fit-unverified candidate, not a fully qualified waist-30 pick. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded."
+    },
+    {
+      "id": "natural-boxer-briefs-10-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://rawganique.com/products/ace-organic-cotton-retro-shorts",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-11-source",
+      "title": "NADS \u00b7 exact product",
+      "url": "https://nadsunder.com/products/organic-cotton-boxer-brief?variant=42087896121415",
+      "type": "Manufacturer / retailer",
+      "note": "95% GOTS-certified organic cotton, 5% elastane body; 100% organic cotton crotch liner; excludes waistband elastic, decoration and trims | Medium: pant waist 28\u201330 inches (updated product chart; runs small) | In stock \u2014 exact selected variant available=true | Inseam: 5.3 inches | Selected SINGLE at $36, not default 8-pack $230.40. OEKO-TEX-certified dyes claimed; elastane marketed BPA-free. Waistband/trim/thread full composition not supplied. Do not repeat unsupported testosterone/fertility/health-protection marketing as established benefit. Manufacturer says shrinkage normal; size chart already updated. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: Variant-linked hero only; full exact-color gallery not established."
+    },
+    {
+      "id": "natural-boxer-briefs-11-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://nadsunder.com/products/organic-cotton-boxer-brief",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-12-source",
+      "title": "Rawganique \u00b7 exact product",
+      "url": "https://rawganique.com/products/organic-pima-cotton-fitted-boxer-briefs-jeff-bjorn?variant=47630056784102",
+      "type": "Manufacturer / retailer",
+      "note": "100% organic cotton body and thread; covered organic elastic 50% organic cotton / 50% natural rubber | S: 28\u201330 inches | In stock \u2014 exact selected variant available=true | Inseam: not disclosed | Choose V3 explicitly: V1 has conventional elastic and cotton-covered polyester thread; V2 has organic elastic but cotton-covered polyester thread. V3 is manufacturer-documented polyester-free, 100% biodegradable. Black is eco-dyed, not undyed. Natural V3 Small also available at $39.95; black V3 is $41.95. Inseam not disclosed (side seam is not inseam). Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded."
+    },
+    {
+      "id": "natural-boxer-briefs-12-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://rawganique.com/products/organic-pima-cotton-fitted-boxer-briefs-jeff-bjorn",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-13-source",
+      "title": "Woolly \u00b7 exact product",
+      "url": "https://www.woolly.clothing/products/everyday-boxer-brief-back-up-copy?variant=52763987050868",
+      "type": "Manufacturer / retailer",
+      "note": "100% Australian merino wool body; elastane waistband | Small: waist 29\u201331 inches (product size-guide table) | In stock \u2014 exact selected variant available=true | Inseam: 5 inches | 175 GSM, 17.5 micron wool; explicitly synthetic elastane waistband. Thread, dye chemistry and anti-shrink treatment not disclosed on inspected product page. 7-inch variant available but not counted as another product. Parent research flagged one Reddit report of thin fabric tearing; this is an anecdote, not consensus or independently re-read in this pass. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: All product-gallery images explicitly filename-labeled black and 5in, plus mapped hero; mixed/unspecified inseam photos excluded."
+    },
+    {
+      "id": "natural-boxer-briefs-13-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://www.woolly.clothing/products/everyday-boxer-brief-back-up-copy",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-13-reddit",
+      "title": "Reddit \u00b7 durability counterargument",
+      "url": "https://www.reddit.com/r/PlasticFreeLiving/comments/1gk81at/four_good_underwear_brands/",
+      "type": "Individual user report",
+      "note": "One commenter reports thin boxer briefs tearing after few wears. Anecdote, not a failure rate or consensus."
+    },
+    {
+      "id": "natural-boxer-briefs-14-source",
+      "title": "Jungmaven \u00b7 exact product",
+      "url": "https://jungmaven.com/products/hemp-brief-boxer?variant=42712797905094",
+      "type": "Manufacturer / retailer",
+      "note": "29% hemp, 66% organic cotton, 5% spandex | L: 30-inch RELAXED garment waist / 15-inch flat width; chart explicitly NOT body size or full stretch capacity | In stock \u2014 exact selected variant available=true | Inseam: not disclosed | Official product-linked Kiwi chart recovered: M relaxed waist 28, L 30. Waist-30 wearer may prefer M for stretch fit; no definitive body-size range supplied. L stock verified as a measured candidate, not guaranteed fit. Elastic waistband chemistry and thread undisclosed. Garment-dyed (black), prewashed/preshrunk; dye chemistry unspecified. FINAL SALE, no returns/exchanges. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded."
+    },
+    {
+      "id": "natural-boxer-briefs-14-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://jungmaven.com/products/hemp-brief-boxer",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-14-detail-2",
+      "title": "Materials / sizing evidence",
+      "url": "https://app.kiwisizing.com/api/getSizingChart?shop=jungmaven.myshopify.com&product=7792656744646",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-15-source",
+      "title": "Arms of Andes \u00b7 exact product",
+      "url": "https://armsofandes.com/products/mens-alpaca-wool-boxer-briefs?variant=19827535806537",
+      "type": "Manufacturer / retailer",
+      "note": "100% alpaca wool fabric; 100% cotton thread; 100% organic cotton labels; waistband composition unverified | S: waist 28\u201331 inches (official product chart) | In stock \u2014 exact selected variant available=true | Inseam: not disclosed | Black is low-impact/OEKO-TEX dye option; undyed and natural-dye options also listed. Label ink GOTS-certified. Page omits waistband ingredients, so do NOT infer plastic-free entire garment from fabric/thread. Manufacturer specifies fitted boxer-brief construction. Some onsite reviews report holes/short legs; anecdotal, no durability guarantee. No exact manufacturer inseam found. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: All product-gallery images explicitly filename-labeled color-black plus mapped variant hero."
+    },
+    {
+      "id": "natural-boxer-briefs-15-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://armsofandes.com/products/mens-alpaca-wool-boxer-briefs",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "natural-boxer-briefs-16-source",
+      "title": "Rawganique \u00b7 exact product",
+      "url": "https://rawganique.com/products/organic-merino-wool-boxer-briefs-no-fly-biodegradable?variant=47629993312486",
+      "type": "Manufacturer / retailer",
+      "note": "100% organic merino wool body; organic cotton thread; covered waistband 50% organic cotton / 50% natural rubber | S: body waist 28\u201331 inches | In stock \u2014 exact selected variant available=true | Inseam: 4.35 inches (S) | Certified organic, not superwashed; manufacturer says no polyester/elastane/synthetic fibers and organic biodegradable eco dye. Hand wash or gentle wash; NO dryer. Product body copy inconsistently describes labels as organic cotton and cork; both natural, but precise label material unclear. Natural_percent describes body fabric only, not measured whole-garment mass. Shipping/tax not included; no delivery deadline or destination checkout verified. Gallery: Exact-color photos identified by variant association plus filename/visual gallery review; ambiguous color photos excluded."
+    },
+    {
+      "id": "natural-boxer-briefs-16-detail-0",
+      "title": "Materials / sizing evidence",
+      "url": "https://rawganique.com/products/organic-merino-wool-boxer-briefs-no-fly-biodegradable",
+      "type": "First-party source",
+      "note": "Referenced in exact-product verification."
+    },
+    {
+      "id": "benchmark",
+      "title": "Your natural-clothing benchmark",
+      "url": "https://x.com/AlpacaAurelius/status/2109694229345616077",
+      "type": "Discovery / benchmark",
+      "note": "Preference reference, not independent scientific evidence."
+    },
+    {
+      "id": "community",
+      "title": "PlasticFreeLiving \u00b7 inspected comments",
+      "url": "https://www.reddit.com/r/PlasticFreeLiving/comments/1gk81at/four_good_underwear_brands/",
+      "type": "Discovery / benchmark",
+      "note": "Cottonique, AYA, Tittimitti leads; limited anonymous-feed sample."
+    },
+    {
+      "id": "grok",
+      "title": "Influencer reply \u00b7 MARO",
+      "url": "https://x.com/wear_maro/status/2109695744118780385",
+      "type": "Discovery / benchmark",
+      "note": "Brand self-promotion in benchmark thread; not an independent endorsement."
+    }
+  ],
+  "evidenceNote": "Integrity ranks documented natural construction first, then body-only claims, then synthetic blends; natural percentage breaks ties. It is not a hands-on quality score. Percentages usually describe fabric, not total garment mass. Natural rubber is disclosed separately. Manufacturer certifications were not independently registry-validated.",
+  "caveat": "Prices USD before shipping/tax; sale prices can change. Sold-out and preorder items are labeled. Research includes Grok influencer threads/replies and r/PlasticFreeLiving comments; affiliate/brand posts are discovery leads, not independent proof. Organic/natural does not establish health benefit or absence of chemical residues."
+}
