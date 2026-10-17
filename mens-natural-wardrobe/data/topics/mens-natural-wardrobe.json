@@ -2,14 +2,228 @@
   "id": "mens-natural-wardrobe",
   "layout": "natural-basics",
   "title": "Natural-fiber wardrobe",
-  "summary": "Dark pants 30×32 · shirts, sweaters and jackets S. All prices low → high. Search “pants”, “shirt”, “sweater”, “jacket” or a brand.",
+  "summary": "Pants 30×32 · shirts, sweaters & jackets S · 100% natural main fabric. USD, before shipping & tax.",
   "updated": "2026-10-17",
   "recommendation": {
-    "title": "34 verified options · 5 brands",
-    "text": "Main fabric is entirely natural. The original pants, shirts and sweaters are preserved, now with 12 jackets and woven outer layers. Lining, coatings and trims are disclosed separately.",
-    "test": "COS jackets were prioritized but US category and exact-product routes remained access-blocked; no unverified COS stock is shown. Affordable-retailer access gaps remain."
+    "title": "39 options · 17 jackets",
+    "text": "Five additional jackets, including two under $110.",
+    "test": "Original 34 records preserved."
   },
   "products": [
+    {
+      "id": "wardrobe-35",
+      "name": "Quince · 100% Organic Cotton Twill Harrington Jacket · Black",
+      "url": "https://www.quince.com/men/men-s-organic-cotton-harrington-jacket?color=black&size=s",
+      "brand": "Quince",
+      "store": "Quince",
+      "category": "Jacket",
+      "color": "Black",
+      "verdict": "Jacket · Black",
+      "summary": "Lowest-price clean zip silhouette. Retailer review excerpts flag long sleeves, loose cuffs and bulk; two 3-star reviews are from the same author, not independent reports.",
+      "unitPriceUSD": 80,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-35-01.webp",
+      "imageAlt": "Quince 100% Organic Cotton Twill Harrington Jacket — Black — photo 1",
+      "imageNote": "All 6 images in the exact-color first-party gallery, source order. Quince variant mediaList / Taylor Stitch single-size-option Shopify gallery; other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to maximum 1400 px WebP.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-35-01.webp",
+          "alt": "Quince 100% Organic Cotton Twill Harrington Jacket — Black — photo 1",
+          "source": "https://images.quince.com/7usS88xy2DbVqtwosxVlUM/0680f672c725016eaffe58443a303e3c/M-JKT-56-BLA-01_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/wardrobe-35-02.webp",
+          "alt": "Quince 100% Organic Cotton Twill Harrington Jacket — Black — photo 2",
+          "source": "https://images.quince.com/683FvAYIGVysywbpCMdvw1/a315dde39b7e52989ffcc81d02171725/M-JKT-56-BLA-02_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/wardrobe-35-03.webp",
+          "alt": "Quince 100% Organic Cotton Twill Harrington Jacket — Black — photo 3",
+          "source": "https://images.quince.com/4vbbmMrOKF3ERO6fC0ARlV/66f4bc590c88916f5242fc4cc09fb08a/M-JKT-56-BLA-03_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/wardrobe-35-04.webp",
+          "alt": "Quince 100% Organic Cotton Twill Harrington Jacket — Black — photo 4",
+          "source": "https://images.quince.com/5flqyzSRRAfBK8u5tdqrPB/5251163f0886ea8988ba598f3928ac41/M-JKT-56-BLA-04_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/wardrobe-35-05.webp",
+          "alt": "Quince 100% Organic Cotton Twill Harrington Jacket — Black — photo 5",
+          "source": "https://images.quince.com/4gaJxIWsgscv10SIGAj8yv/aa1f0d85e6b3571128a114fa92d975f4/M-JKT-56-BLA-05_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/wardrobe-35-06.webp",
+          "alt": "Quince 100% Organic Cotton Twill Harrington Jacket — Black — photo 6",
+          "source": "https://images.quince.com/67ClMyxmQQexRrrEMVq5ff/554b46972fa04a6d255677b0efefbc00/M-JKT-56-BLA-06_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "Cotton-blend lining (percentages undisclosed); elastic cuffs/hem; leather zip pull.",
+      "attribution": "Community brand lead: r/PlasticFreeLiving user Ok-Armadillo-5634 named Quince, not this exact jacket.",
+      "facts": {
+        "Fabric": "100% organic cotton · main fabric",
+        "Price": "$80.00 USD · shipping / tax excluded",
+        "Fit": "Men’s S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-35",
+        "expansion-pfl"
+      ]
+    },
+    {
+      "id": "wardrobe-36",
+      "name": "Quince · Organic Waxed Cotton Barn Jacket · Vintage Black",
+      "url": "https://www.quince.com/men/men-organic-waxed-cotton-barn-jacket?color=vintage-black&size=s",
+      "brand": "Quince",
+      "store": "Quince",
+      "category": "Jacket",
+      "color": "Vintage Black",
+      "verdict": "Jacket · Vintage Black",
+      "summary": "Warmer canvas alternative, but more workwear than minimal overshirt. Wax maintenance required; retailer reviews mention snug layering fit. Lowest-rated complete review lane not available in captured page.",
+      "unitPriceUSD": 104,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-36-01.webp",
+      "imageAlt": "Quince Organic Waxed Cotton Barn Jacket — Vintage Black — photo 1",
+      "imageNote": "All 9 images in the exact-color first-party gallery, source order. Quince variant mediaList / Taylor Stitch single-size-option Shopify gallery; other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to maximum 1400 px WebP.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-36-01.webp",
+          "alt": "Quince Organic Waxed Cotton Barn Jacket — Vintage Black — photo 1",
+          "source": "https://images.quince.com/5PcsIfK1CBbdrYHA4PpqxQ/19b47989d1051a6078ce82002d8d5ef6/M-JKT-47-VINBLA-01_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/wardrobe-36-02.webp",
+          "alt": "Quince Organic Waxed Cotton Barn Jacket — Vintage Black — photo 2",
+          "source": "https://images.quince.com/QO6BrCHHjSl8XXBTwhLcw/a63410cdc25f740911c06f2a0dcc8946/M-JKT-47-VINBLA-02_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/wardrobe-36-03.webp",
+          "alt": "Quince Organic Waxed Cotton Barn Jacket — Vintage Black — photo 3",
+          "source": "https://images.quince.com/4cH3U3zTsZ071iU3r61Fbe/33933d24284613070e8e024b00985627/M-JKT-47-VINBLA-03_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/wardrobe-36-04.webp",
+          "alt": "Quince Organic Waxed Cotton Barn Jacket — Vintage Black — photo 4",
+          "source": "https://images.quince.com/2UFcLOiJ1jcd2K6Y0di4tL/23910dce99ab7a8a284e8aec35e6aed2/M-JKT-47-VINBLA-04_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/wardrobe-36-05.webp",
+          "alt": "Quince Organic Waxed Cotton Barn Jacket — Vintage Black — photo 5",
+          "source": "https://images.quince.com/33bzspVmMjnKdv7ETlan93/f9fb5a1d20c8bbb540a0a9eb12f0da21/M-JKT-47-VINBLA-05_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/wardrobe-36-06.webp",
+          "alt": "Quince Organic Waxed Cotton Barn Jacket — Vintage Black — photo 6",
+          "source": "https://images.quince.com/6ipVqcaNwRr9LZKCGb7jQA/70104560fb09d9b1f985b17e9f33706a/M-JKT-47-VINBLA-06_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/wardrobe-36-07.webp",
+          "alt": "Quince Organic Waxed Cotton Barn Jacket — Vintage Black — photo 7",
+          "source": "https://images.quince.com/1BqpcbPLWWNstWkbQBmT1I/2acdb6f4db1e4dedb126939cf1b4c189/M-JKT-47-VINBLA-07_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/wardrobe-36-08.webp",
+          "alt": "Quince Organic Waxed Cotton Barn Jacket — Vintage Black — photo 8",
+          "source": "https://images.quince.com/7pVFqT8GvJbcuFA4TeUzZr/0a41720d73ba2a7f01776bc1c338b60d/M-JKT-47-VINBLA-08_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/wardrobe-36-09.webp",
+          "alt": "Quince Organic Waxed Cotton Barn Jacket — Vintage Black — photo 9",
+          "source": "https://images.quince.com/58VYGc3Bv5MEuWElAOR1Km/7c6ab65c6b62d299e0bdfedbe88a1008/M-JKT-47-VINBLA-09_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "Lining: 100% cotton flannel; wax chemistry and trims undisclosed.",
+      "attribution": "Community brand lead: r/PlasticFreeLiving user Ok-Armadillo-5634 named Quince, not this exact jacket.",
+      "facts": {
+        "Fabric": "100% organic cotton · main fabric",
+        "Price": "$104.00 USD · shipping / tax excluded",
+        "Fit": "Men’s S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-36",
+        "expansion-pfl"
+      ]
+    },
+    {
+      "id": "wardrobe-37",
+      "name": "Taylor Stitch · The Airman Jacket in Organic Khaki Foundation Twill · Organic Khaki",
+      "url": "https://www.taylorstitch.com/products/airman-jacket-in-organic-khaki-foundation-twill-2605?variant=42149195382861",
+      "brand": "Taylor Stitch",
+      "store": "Taylor Stitch",
+      "category": "Jacket",
+      "color": "Organic Khaki",
+      "verdict": "Jacket · Organic Khaki",
+      "summary": "Final sale: no returns; size exchange only when possible. Khaki and elbow patches are less minimal than COS.",
+      "unitPriceUSD": 166.6,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-37-01.webp",
+      "imageAlt": "Taylor Stitch The Airman Jacket in Organic Khaki Foundation Twill — Organic Khaki — photo 1",
+      "imageNote": "All 9 images in the exact-color first-party gallery, source order. Quince variant mediaList / Taylor Stitch single-size-option Shopify gallery; other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to maximum 1400 px WebP.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-37-01.webp",
+          "alt": "Taylor Stitch The Airman Jacket in Organic Khaki Foundation Twill — Organic Khaki — photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/airman-jacket-in-organic-khaki-foundation-twill-2605_001.jpg?v=1790611002"
+        },
+        {
+          "src": "assets/images/wardrobe-37-02.webp",
+          "alt": "Taylor Stitch The Airman Jacket in Organic Khaki Foundation Twill — Organic Khaki — photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q226_the-airman-jacket-in-organic-khaki-twill_pdp_02.jpg?v=1779471611"
+        },
+        {
+          "src": "assets/images/wardrobe-37-03.webp",
+          "alt": "Taylor Stitch The Airman Jacket in Organic Khaki Foundation Twill — Organic Khaki — photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q226_the-airman-jacket-in-organic-khaki-twill_pdp_03.jpg?v=1779471614"
+        },
+        {
+          "src": "assets/images/wardrobe-37-04.webp",
+          "alt": "Taylor Stitch The Airman Jacket in Organic Khaki Foundation Twill — Organic Khaki — photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q226_the-airman-jacket-in-organic-khaki-twill_pdp_04.jpg?v=1779471616"
+        },
+        {
+          "src": "assets/images/wardrobe-37-05.webp",
+          "alt": "Taylor Stitch The Airman Jacket in Organic Khaki Foundation Twill — Organic Khaki — photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q226_the-airman-jacket-in-organic-khaki-twill_pdp_05.jpg?v=1779471618"
+        },
+        {
+          "src": "assets/images/wardrobe-37-06.webp",
+          "alt": "Taylor Stitch The Airman Jacket in Organic Khaki Foundation Twill — Organic Khaki — photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q226_the-airman-jacket-in-organic-khaki-twill_pdp_06.jpg?v=1779471621"
+        },
+        {
+          "src": "assets/images/wardrobe-37-07.webp",
+          "alt": "Taylor Stitch The Airman Jacket in Organic Khaki Foundation Twill — Organic Khaki — photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q226_the-airman-jacket-in-organic-khaki-twill_pdp_07.jpg?v=1779471623"
+        },
+        {
+          "src": "assets/images/wardrobe-37-08.webp",
+          "alt": "Taylor Stitch The Airman Jacket in Organic Khaki Foundation Twill — Organic Khaki — photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q226_the-airman-jacket-in-organic-khaki-twill_pdp_08.jpg?v=1779471626"
+        },
+        {
+          "src": "assets/images/wardrobe-37-09.webp",
+          "alt": "Taylor Stitch The Airman Jacket in Organic Khaki Foundation Twill — Organic Khaki — photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q226_the-airman-jacket-in-organic-khaki-twill_swatch.jpg?v=1776705890"
+        }
+      ],
+      "materialCaveat": "Unlined; cotton pocketing; leather zip pull; thread/zip tape unspecified.",
+      "attribution": "Outside-network exact-product comparator; Taylor Stitch brand discussion cross-checked in r/BuyItForLife.",
+      "facts": {
+        "Fabric": "100% organic cotton twill · main fabric",
+        "Price": "$166.60 USD · shipping / tax excluded",
+        "Fit": "Men’s S / 38",
+        "Status": "S available · US storefront · FINAL SALE"
+      },
+      "sources": [
+        "wardrobe-37",
+        "expansion-bifl"
+      ],
+      "deal": "Sale $166.60 (was $238) · final sale, no returns"
+    },
     {
       "id": "wardrobe-05",
       "name": "Norse Projects · Kongshoved Cotton Twill GMD Relaxed Shirt · Lead grey",
@@ -117,6 +331,159 @@
       },
       "sources": [
         "wardrobe-12"
+      ]
+    },
+    {
+      "id": "wardrobe-38",
+      "name": "Taylor Stitch · The Ryder Jacket in Rinsed Black Organic Selvedge · Rinsed Black",
+      "url": "https://www.taylorstitch.com/products/ryder-jacket-in-rinsed-black-organic-selvedge-2608?variant=42507572379725",
+      "brand": "Taylor Stitch",
+      "store": "Taylor Stitch",
+      "category": "Jacket",
+      "color": "Rinsed Black",
+      "verdict": "Jacket · Rinsed Black",
+      "summary": "Black tonal workwear with pleated front; less sleek than a plain zip jacket. Compare garment measurements before ordering.",
+      "unitPriceUSD": 238.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-38-01.webp",
+      "imageAlt": "Taylor Stitch The Ryder Jacket in Rinsed Black Organic Selvedge — Rinsed Black — photo 1",
+      "imageNote": "All 9 images in the exact-color first-party gallery, source order. Quince variant mediaList / Taylor Stitch single-size-option Shopify gallery; other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to maximum 1400 px WebP.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-38-01.webp",
+          "alt": "Taylor Stitch The Ryder Jacket in Rinsed Black Organic Selvedge — Rinsed Black — photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/ryder-jacket-in-rinsed-black-organic-selvedge-2608_001.jpg?v=1790612079"
+        },
+        {
+          "src": "assets/images/wardrobe-38-02.webp",
+          "alt": "Taylor Stitch The Ryder Jacket in Rinsed Black Organic Selvedge — Rinsed Black — photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-ryder-jacket-rinsed-black-organic-selvedge_pdp_compressed_02.jpg?v=1787843851"
+        },
+        {
+          "src": "assets/images/wardrobe-38-03.webp",
+          "alt": "Taylor Stitch The Ryder Jacket in Rinsed Black Organic Selvedge — Rinsed Black — photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-ryder-jacket-rinsed-black-organic-selvedge_pdp_compressed_03.jpg?v=1787843852"
+        },
+        {
+          "src": "assets/images/wardrobe-38-04.webp",
+          "alt": "Taylor Stitch The Ryder Jacket in Rinsed Black Organic Selvedge — Rinsed Black — photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-ryder-jacket-rinsed-black-organic-selvedge_pdp_compressed_04.jpg?v=1787843851"
+        },
+        {
+          "src": "assets/images/wardrobe-38-05.webp",
+          "alt": "Taylor Stitch The Ryder Jacket in Rinsed Black Organic Selvedge — Rinsed Black — photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-ryder-jacket-rinsed-black-organic-selvedge_pdp_compressed_05.jpg?v=1787843852"
+        },
+        {
+          "src": "assets/images/wardrobe-38-06.webp",
+          "alt": "Taylor Stitch The Ryder Jacket in Rinsed Black Organic Selvedge — Rinsed Black — photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-ryder-jacket-rinsed-black-organic-selvedge_pdp_compressed_06.jpg?v=1787843852"
+        },
+        {
+          "src": "assets/images/wardrobe-38-07.webp",
+          "alt": "Taylor Stitch The Ryder Jacket in Rinsed Black Organic Selvedge — Rinsed Black — photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-ryder-jacket-rinsed-black-organic-selvedge_pdp_compressed_07.jpg?v=1787843852"
+        },
+        {
+          "src": "assets/images/wardrobe-38-08.webp",
+          "alt": "Taylor Stitch The Ryder Jacket in Rinsed Black Organic Selvedge — Rinsed Black — photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-ryder-jacket-rinsed-black-organic-selvedge_pdp_compressed_08.jpg?v=1787843851"
+        },
+        {
+          "src": "assets/images/wardrobe-38-09.webp",
+          "alt": "Taylor Stitch The Ryder Jacket in Rinsed Black Organic Selvedge — Rinsed Black — photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-ryder-jacket-rinsed-black-organic-selvedge_pdp_compressed_swatch.jpg?v=1787843851"
+        }
+      ],
+      "materialCaveat": "Unlined; collar: 100% cotton corduroy; thread/trims unspecified.",
+      "attribution": "Outside-network exact-product comparator; Taylor Stitch brand discussion cross-checked in r/BuyItForLife.",
+      "facts": {
+        "Fabric": "100% organic cotton selvedge denim · main fabric",
+        "Price": "$238.00 USD · shipping / tax excluded",
+        "Fit": "Men’s S / 38",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-38",
+        "expansion-bifl"
+      ]
+    },
+    {
+      "id": "wardrobe-39",
+      "name": "Taylor Stitch · The Ojai Jacket in Soil Corduroy · Soil",
+      "url": "https://www.taylorstitch.com/products/ojai-jacket-in-soil-corduroy-2609?variant=42507581096013",
+      "brand": "Taylor Stitch",
+      "store": "Taylor Stitch",
+      "category": "Jacket",
+      "color": "Soil",
+      "verdict": "Jacket · Soil",
+      "summary": "Brown corduroy matches the texture preference; visible tonal patch pockets. More expensive than the other new cotton options.",
+      "unitPriceUSD": 248.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/wardrobe-39-01.webp",
+      "imageAlt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — photo 1",
+      "imageNote": "All 9 images in the exact-color first-party gallery, source order. Quince variant mediaList / Taylor Stitch single-size-option Shopify gallery; other colors and recommendations excluded. Retrieved 2026-10-17; resized proportionally to maximum 1400 px WebP.",
+      "images": [
+        {
+          "src": "assets/images/wardrobe-39-01.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/ojai-jacket-in-soil-corduroy-2609_001.jpg?v=1790611920"
+        },
+        {
+          "src": "assets/images/wardrobe-39-02.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_002.jpg?v=1788450304"
+        },
+        {
+          "src": "assets/images/wardrobe-39-03.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_003.jpg?v=1788450309"
+        },
+        {
+          "src": "assets/images/wardrobe-39-04.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_004.jpg?v=1788450312"
+        },
+        {
+          "src": "assets/images/wardrobe-39-05.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_005.jpg?v=1788450315"
+        },
+        {
+          "src": "assets/images/wardrobe-39-06.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_006.jpg?v=1788450320"
+        },
+        {
+          "src": "assets/images/wardrobe-39-07.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_007.jpg?v=1788450323"
+        },
+        {
+          "src": "assets/images/wardrobe-39-08.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_008.jpg?v=1788450326"
+        },
+        {
+          "src": "assets/images/wardrobe-39-09.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_ojai-jacket-soil-corduroy_swatch.jpg?v=1785258984"
+        }
+      ],
+      "materialCaveat": "Thread/trims unspecified; metal ring-back buttons.",
+      "attribution": "Community model-level personal use: r/malefashionadvice author likes their Ojai; exact fabric/color was not specified.",
+      "facts": {
+        "Fabric": "100% organic cotton corduroy · main fabric",
+        "Price": "$248.00 USD · shipping / tax excluded",
+        "Fit": "Men’s S / 38",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "wardrobe-39",
+        "expansion-bifl",
+        "expansion-mfa"
       ]
     },
     {
@@ -2192,8 +2559,92 @@
       "title": "Studio Nicholson · exact color and selected size",
       "type": "Live first-party product page + variant data",
       "note": "Checked 2026-10-17. First-party product HTML HTTP 200; Shopify country US and active currency USD. Exact size S, variant 57299116654967, available=true, $1,250.00. Main fabric: 90% wool / 10% cashmere. Minimal zip jacket; lining 51% viscose / 49% cotton. Viscose is regenerated, not natural fiber. Qualification is main fabric only, not whole garment: sewing thread, labels, interfacing and other unspecified trims are not certified natural. Shipping, tax and import charges not quoted. No checkout or purchase made."
+    },
+    {
+      "id": "expansion-pfl",
+      "title": "PlasticFreeLiving: affordable natural-clothing discussion",
+      "url": "https://www.reddit.com/r/PlasticFreeLiving/comments/1srvkmz/recommendations_for_affordable_plasticfree/",
+      "type": "Community comments · anonymous Atom feed",
+      "note": "Read 20 returned comments, without scores/nesting or completeness guarantee. Quince/Pact recommendation is brand-level (ohhk794); another commenter warns men’s garments often contain poly/spandex (ohih853). Other leads: H&M, Gap, Uniqlo, Hanes, Fruit of the Loom, Walmart, thrift stores. Commercial relationships unknown; some other comments explicitly promote their own brands. Not consensus or exact-jacket endorsement."
+    },
+    {
+      "id": "expansion-bifl",
+      "title": "BuyItForLife: Taylor Stitch owner experiences",
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/1h45pdb/thoughts_on_the_taylor_stitch_brand/",
+      "type": "Community counterarguments · anonymous Atom feed",
+      "note": "25 returned comments inspected, no scores/nesting. Reports include inconsistent sizing, tight forearms, loose threads/seams and return friction; others describe years of satisfactory use. Brand-level experience, not controlled tests of these exact 2026 jackets. Commercial relationships unknown."
+    },
+    {
+      "id": "expansion-mfa",
+      "title": "Menswear: Ojai personal-use report",
+      "url": "https://www.reddit.com/r/malefashionadvice/comments/1q4nr2i/upgrading_business_casual_look/nxyn9yl/",
+      "type": "Community comment · personal use/recommendation",
+      "note": "Retrieved discussion and three comments. mrsugar recommends their tan Ojai over a button-down and reports generous sizing; older tan variant, not this exact Soil Corduroy. Another comment recommends Buck Mason generally. Separate post 1v8b20r also describes Ojai as a favorite, exact fabric unknown. No seed-network endorsement."
+    },
+    {
+      "id": "expansion-x",
+      "title": "X: returntoquality marketplace post",
+      "url": "https://x.com/returntoquality/status/2044058084499194112",
+      "type": "Seed commercial directory promotion · Grok exact-post inspection",
+      "note": "Native xAI/Grok searched returntoquality and reinspected this post/replies. No current jacket SKU endorsement found. Reply gasklord/2044206989778055632 praises Birdwell generally, not a jacket; Birdwell jackets inspected used synthetic SurfNyl and were rejected. Unslop’s Skinner Ranger listing was followed but exact numeric cotton composition/ready-stock gate was not established. No new displayed jacket is claimed endorsed by this seed."
+    },
+    {
+      "id": "expansion-maro",
+      "title": "X: MARO brand reply to natural-cotton discussion",
+      "url": "https://x.com/wear_maro/status/2109695744118780385",
+      "type": "Reply · commercial self-promotion · Grok inspection",
+      "note": "Brand says it uses organic cotton, without naming a jacket. This is not endorsement by AlpacaAurelius. The parent post’s health/toxicity claims are not adopted as scientific evidence."
+    },
+    {
+      "id": "expansion-sol",
+      "title": "X: SolBrah vintage waxed jacket personal use",
+      "url": "https://x.com/SolBrah/status/1615763966474453009",
+      "type": "Seed personal use · historic, not current SKU",
+      "note": "Grok retrieved praise of a vintage Ralph Lauren waxed-cotton jacket plus plans for own apparel. No matching current exact jacket established; not used to endorse these products."
+    },
+    {
+      "id": "expansion-directory",
+      "title": "NewBloom natural-clothing directory",
+      "url": "https://www.newbloom.shop/activewear",
+      "type": "Commercial directory · discovery only",
+      "note": "Founder rominaramon’s post 2091694134595596480 and sampled replies were inspected through Grok. Activewear brands, not jacket SKU recommendations. Current directory HTTP 200 but client-rendered; no qualifying jacket established."
+    },
+    {
+      "id": "wardrobe-35",
+      "title": "Quince · 100% Organic Cotton Twill Harrington Jacket · Black",
+      "url": "https://www.quince.com/men/men-s-organic-cotton-harrington-jacket?color=black&size=s",
+      "type": "First-party exact variant · verified 2026-10-17",
+      "note": "Main fabric: 100% organic cotton. Cotton-blend lining (percentages undisclosed); elastic cuffs/hem; leather zip pull. Men’s S in stock; $80.00 USD. US product page advertises free standard shipping and 365-day returns; unused, original tags/packaging required. Exact address delivery and tax not quoted. No mandatory accessories/subscriptions; laundering costs unquantified. Traditional-retail comparison is NOT a sale. Counterargument: Lowest-price clean zip silhouette. Retailer review excerpts flag long sleeves, loose cuffs and bulk; two 3-star reviews are from the same author, not independent reports. Community brand lead: r/PlasticFreeLiving user Ok-Armadillo-5634 named Quince, not this exact jacket. No independent durability or health test. Price-band comparison coverage is incomplete: not two qualifying available alternatives within ±20% for every item."
+    },
+    {
+      "id": "wardrobe-36",
+      "title": "Quince · Organic Waxed Cotton Barn Jacket · Vintage Black",
+      "url": "https://www.quince.com/men/men-organic-waxed-cotton-barn-jacket?color=vintage-black&size=s",
+      "type": "First-party exact variant · verified 2026-10-17",
+      "note": "Main fabric: 100% organic cotton. Lining: 100% cotton flannel; wax chemistry and trims undisclosed. Men’s S in stock; $104.00 USD. US product page advertises free standard shipping and 365-day returns; unused, original tags/packaging required. Exact address delivery and tax not quoted. No mandatory accessories/subscriptions; laundering costs unquantified. Traditional-retail comparison is NOT a sale. Counterargument: Warmer canvas alternative, but more workwear than minimal overshirt. Wax maintenance required; retailer reviews mention snug layering fit. Lowest-rated complete review lane not available in captured page. Community brand lead: r/PlasticFreeLiving user Ok-Armadillo-5634 named Quince, not this exact jacket. No independent durability or health test. Price-band comparison coverage is incomplete: not two qualifying available alternatives within ±20% for every item."
+    },
+    {
+      "id": "wardrobe-37",
+      "title": "Taylor Stitch · The Airman Jacket in Organic Khaki Foundation Twill · Organic Khaki",
+      "url": "https://www.taylorstitch.com/products/airman-jacket-in-organic-khaki-foundation-twill-2605?variant=42149195382861",
+      "type": "First-party exact variant · verified 2026-10-17",
+      "note": "Main fabric: 100% organic cotton twill. Unlined; cotton pocketing; leather zip pull; thread/zip tape unspecified. Men’s S in stock; $166.60 USD. Product page: 21-day returns in resellable condition, free continental-US return shipping; Last Call excluded. Exact delivered shipping/tax and arrival date not quoted. No mandatory accessories or recurring subscription; care costs unquantified. Counterargument: Final sale: no returns; size exchange only when possible. Khaki and elbow patches are less minimal than COS. Outside-network exact-product comparator; Taylor Stitch brand discussion cross-checked in r/BuyItForLife. No independent durability or health test. Price-band comparison coverage is incomplete: not two qualifying available alternatives within ±20% for every item."
+    },
+    {
+      "id": "wardrobe-38",
+      "title": "Taylor Stitch · The Ryder Jacket in Rinsed Black Organic Selvedge · Rinsed Black",
+      "url": "https://www.taylorstitch.com/products/ryder-jacket-in-rinsed-black-organic-selvedge-2608?variant=42507572379725",
+      "type": "First-party exact variant · verified 2026-10-17",
+      "note": "Main fabric: 100% organic cotton selvedge denim. Unlined; collar: 100% cotton corduroy; thread/trims unspecified. Men’s S in stock; $238.00 USD. Product page: 21-day returns in resellable condition, free continental-US return shipping; Last Call excluded. Exact delivered shipping/tax and arrival date not quoted. No mandatory accessories or recurring subscription; care costs unquantified. Counterargument: Black tonal workwear with pleated front; less sleek than a plain zip jacket. Compare garment measurements before ordering. Outside-network exact-product comparator; Taylor Stitch brand discussion cross-checked in r/BuyItForLife. No independent durability or health test. Price-band comparison coverage is incomplete: not two qualifying available alternatives within ±20% for every item."
+    },
+    {
+      "id": "wardrobe-39",
+      "title": "Taylor Stitch · The Ojai Jacket in Soil Corduroy · Soil",
+      "url": "https://www.taylorstitch.com/products/ojai-jacket-in-soil-corduroy-2609?variant=42507581096013",
+      "type": "First-party exact variant · verified 2026-10-17",
+      "note": "Main fabric: 100% organic cotton corduroy. Thread/trims unspecified; metal ring-back buttons. Men’s S in stock; $248.00 USD. Product page: 21-day returns in resellable condition, free continental-US return shipping; Last Call excluded. Exact delivered shipping/tax and arrival date not quoted. No mandatory accessories or recurring subscription; care costs unquantified. Counterargument: Brown corduroy matches the texture preference; visible tonal patch pockets. More expensive than the other new cotton options. Community model-level personal use: r/malefashionadvice author likes their Ojai; exact fabric/color was not specified. No independent durability or health test. Price-band comparison coverage is incomplete: not two qualifying available alternatives within ±20% for every item."
     }
   ],
-  "evidenceNote": "Prices and selected-size stock come from live US-market first-party pages and product variant data, not search snippets. All galleries are exact-color source galleries; size charts are retained. Material integrity is a tie: every main fabric totals 100% natural fibers, so that sort retains price order. No whole-garment plastic-free, treatment, durability or health claim is made.",
-  "caveat": "Main fabric only—not a whole-garment natural or plastic-free claim. Some jackets have cupro / viscose linings, resin buttons, elastic or coatings. Shipping, tax and import charges are unknown and excluded; stock can change. COS and UNIQLO jacket routes were blocked, ZARA returned access denied and Abercrombie a challenge. Earlier ARKET / MR PORTER access gaps remain. These are access gaps, not proof of no stock; this is a curated selection, not an exhaustive brand ranking."
+  "evidenceNote": "Native xAI/Grok seed and exact-reply inspection completed; no current exact jacket endorsement established. Quince is a PlasticFreeLiving brand-level lead; Ojai has a menswear personal-use signal, not this exact color. Other new jackets are outside-network comparators. Details distinguish commercial, reply and independent-community provenance. All main fabrics are 100% natural; this is not a whole-garment or health claim.",
+  "caveat": "Budget lane checked Quince, H&M, Old Navy, Uniqlo/Gap leads and mainstream basics from PlasticFreeLiving comments. H&M returned 403; Old Navy category lacked loaded products; Everlane catalog paths were incomplete. Quince stretch chore (3% spandex) and pique overshirt (30–40% polyester), Taylor Stitch Maritime wool/Kenne/Portola blends and Birdwell SurfNyl jackets failed fabric rules. COS and other earlier access gaps remain. Shipping/tax, exact delivery and two qualified price-band alternatives per finalist remain incomplete. Taylor Stitch sale Airman is nonreturnable. Natural fibers do not establish chemical-free finishes or tested longevity."
 }
