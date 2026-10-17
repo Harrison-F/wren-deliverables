@@ -1270,6 +1270,36 @@
       "unitPriceUSD": 10.96,
       "integrityRank": 2,
       "naturalPercent": 100
+    },
+    {
+      "id": "ryker-titan",
+      "name": "Ryker \u00b7 Titan Merino Boxer Brief",
+      "url": "https://rykerclothingco.com/products/the-titan-100-merino-wool-boxer-brief?variant=50151141310786",
+      "verdict": "Natural body \u00b7 trims unresolved",
+      "summary": "",
+      "image": "assets/images/natural-boxer-briefs-ryker.png",
+      "imageAlt": "Ryker Titan black merino boxer brief",
+      "imageNote": "Exact Black variant-associated retailer image; partial gallery.",
+      "images": [
+        {
+          "src": "assets/images/natural-boxer-briefs-ryker.png",
+          "alt": "Ryker Titan black merino boxer brief"
+        }
+      ],
+      "facts": {
+        "Fabric": "100% merino body",
+        "Price": "$46.00 / pair",
+        "Fit": "Black \u00b7 M chart 29\u201331 \u00b7 size-up warning",
+        "Status": "In stock \u00b7 runs small"
+      },
+      "sources": [
+        "ryker-titan",
+        "newbloom-directory",
+        "romina-post"
+      ],
+      "unitPriceUSD": 46,
+      "integrityRank": 2,
+      "naturalPercent": 100
     }
   ],
   "sources": [
@@ -1664,6 +1694,27 @@
       "url": "https://x.com/wear_maro/status/2109695744118780385",
       "type": "Discovery / benchmark",
       "note": "Brand self-promotion in benchmark thread; not an independent endorsement."
+    },
+    {
+      "id": "ryker-titan",
+      "title": "Ryker \u00b7 exact product",
+      "url": "https://rykerclothingco.com/products/the-titan-100-merino-wool-boxer-brief?variant=50151141310786",
+      "type": "Manufacturer",
+      "note": "100% organic merino wool main fabric; waistband and sewing-thread complete composition not disclosed on inspected pages Medium: official product size-chart waist 29\u201331 inches; 5-inch inseam. Brand warns runs small and recommends sizing up; Large/Black also available. Verified 2026-10-17. Higher-priced integrity candidate, not budget tier. 100% refers to main fabric, not verified whole-garment mass. Manufacturer says wool is ozone-descaled rather than traditional chlorine/Hercosett superwash, with 4\u20137% shrinkage after 1\u20132 washes. GOTS-compliant processing and OEKO-TEX/test claims are manufacturer statements; certificate/test scope not independently audited here, and no health benefit inferred. Product chart explicitly maps M to waist 29\u201331 inches but also says runs small and recommends sizing up; consider L rather than treating chart fit as guaranteed. Cold gentle wash, lay flat to dry. Advertised 90-day unused-item return policy; no worn trial established. Single $46; same style's Medium/Black 4-pack is $156.40 ($39.10 each), 8-pack $294.40 ($36.80 each), both available in catalog data. Packs are alternatives, not duplicate product entries. Shipping/tax and destination checkout not verified. Gallery contains the exact Black variant-associated image, visually verified; unassigned/mixed-color gallery images omitted, so this is not a complete product gallery."
+    },
+    {
+      "id": "newbloom-directory",
+      "title": "NewBloom \u00b7 natural activewear directory",
+      "url": "https://www.newbloom.shop/activewear",
+      "type": "Commercial discovery directory",
+      "note": "Inspected directory and Ryker, MARO, Wayvewear, Pangaia, Dilling, Live the Process. No additional qualifying socks. Dilling $17.99 cotton underwear remains a lead: waist-30 fit unverified."
+    },
+    {
+      "id": "romina-post",
+      "title": "@rominaramon \u00b7 brand discovery post",
+      "url": "https://x.com/rominaramon/status/2091694134595596480",
+      "type": "Founder self-promotion",
+      "note": "NewBloom founder; post and replies inspected via Grok. Not independent product testing."
     }
   ],
   "evidenceNote": "Integrity ranks documented natural construction first, then body-only claims, then synthetic blends; natural percentage breaks ties. It is not a hands-on quality score. Percentages usually describe fabric, not total garment mass. Natural rubber is disclosed separately. Manufacturer certifications were not independently registry-validated.",
