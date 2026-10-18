@@ -203,6 +203,181 @@
       ]
     },
     {
+      "id": "brown-25",
+      "name": "J.Crew · Lightweight Pima cotton crewneck sweater · Sanctuary",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/lightweight-pima-cotton-crewneck-sweater/CP719?color_name=sanctuary&fit=Classic",
+      "category": "Sweater",
+      "brand": "J.Crew",
+      "store": "J.Crew",
+      "color": "Sanctuary",
+      "verdict": "Sweater · Sanctuary",
+      "summary": "Muted green plain crewneck for white-shirt layering; fine cotton rather than fuzzy wool.",
+      "unitPriceUSD": 79.5,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-25-01.webp",
+      "imageAlt": "J.Crew Lightweight Pima cotton crewneck sweater — Sanctuary — gallery 1",
+      "imageNote": "All 4 exposed selected-color product still images, source order. Video omitted. Other colors and recommendations excluded. Retrieved 2026-10-17; proportional WebP resize to maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-25-01.webp",
+          "alt": "J.Crew Lightweight Pima cotton crewneck sweater — Sanctuary — gallery 1",
+          "source": "https://www.jcrew.com/s7-img-facade/CP719_GR0296_m?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-25-02.webp",
+          "alt": "J.Crew Lightweight Pima cotton crewneck sweater — Sanctuary — gallery 2",
+          "source": "https://www.jcrew.com/s7-img-facade/CP719_GR0296_d1?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-25-03.webp",
+          "alt": "J.Crew Lightweight Pima cotton crewneck sweater — Sanctuary — gallery 3",
+          "source": "https://www.jcrew.com/s7-img-facade/CP719_GR0296_d2?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-25-04.webp",
+          "alt": "J.Crew Lightweight Pima cotton crewneck sweater — Sanctuary — gallery 4",
+          "source": "https://www.jcrew.com/s7-img-facade/CP719_GR0296?hei=1400"
+        }
+      ],
+      "materialCaveat": "Trims unspecified.",
+      "attribution": "Muted green plain crewneck for white-shirt layering; fine cotton rather than fuzzy wool.",
+      "facts": {
+        "Fabric": "100% Pima cotton · main material",
+        "Price": "$79.50 USD · shipping / tax extra",
+        "Fit": "Classic crewneck · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-25"
+      ]
+    },
+    {
+      "id": "brown-26",
+      "name": "Banana Republic · Merino Crew-Neck Sweater · Forest Echo",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=9061921820001&vid=1#pdp-page-content",
+      "category": "Sweater",
+      "brand": "Banana Republic",
+      "store": "Banana Republic",
+      "color": "Forest Echo",
+      "verdict": "Sweater · Forest Echo",
+      "summary": "Plain forest-green soft merino crewneck, closer to the green reference than a cotton sweatshirt.",
+      "unitPriceUSD": 90,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-26-01.webp",
+      "imageAlt": "Banana Republic Merino Crew-Neck Sweater — Forest Echo — gallery 1",
+      "imageNote": "All 5 exposed selected-color product still images, source order. Video omitted. Other colors and recommendations excluded. Retrieved 2026-10-17; proportional WebP resize to maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-26-01.webp",
+          "alt": "Banana Republic Merino Crew-Neck Sweater — Forest Echo — gallery 1",
+          "source": "https://content.gapinc.com/b/0063/893/739/cn63893739.png?width=1440"
+        },
+        {
+          "src": "assets/images/brown-26-02.webp",
+          "alt": "Banana Republic Merino Crew-Neck Sweater — Forest Echo — gallery 2",
+          "source": "https://content.gapinc.com/b/0062/989/667/cn62989667.png?width=1440"
+        },
+        {
+          "src": "assets/images/brown-26-03.webp",
+          "alt": "Banana Republic Merino Crew-Neck Sweater — Forest Echo — gallery 3",
+          "source": "https://content.gapinc.com/b/0062/989/674/cn62989674.png?width=1440"
+        },
+        {
+          "src": "assets/images/brown-26-04.webp",
+          "alt": "Banana Republic Merino Crew-Neck Sweater — Forest Echo — gallery 4",
+          "source": "https://content.gapinc.com/b/0063/346/618/cn63346618.png?width=1440"
+        },
+        {
+          "src": "assets/images/brown-26-05.webp",
+          "alt": "Banana Republic Merino Crew-Neck Sweater — Forest Echo — gallery 5",
+          "source": "https://content.gapinc.com/b/0063/964/646/cn63964646.png?width=1440"
+        }
+      ],
+      "materialCaveat": "Trims unspecified.",
+      "attribution": "Plain forest-green soft merino crewneck, closer to the green reference than a cotton sweatshirt.",
+      "facts": {
+        "Fabric": "100% extra-fine merino wool · main material",
+        "Price": "$90.00 USD · shipping / tax extra",
+        "Fit": "Standard fit · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-26"
+      ]
+    },
+    {
+      "id": "brown-24",
+      "name": "J.Crew · Broken-in organic cotton oxford shirt · Classic Blue Oxford",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/shirts/broken-in-oxford/broken-in-organic-cotton-oxford-shirt/BE996?color_name=classic-blue-oxford&fit=Classic",
+      "category": "Shirt",
+      "brand": "J.Crew",
+      "store": "J.Crew",
+      "color": "Classic Blue Oxford",
+      "verdict": "Shirt · Classic Blue Oxford",
+      "summary": "Pale-blue layering shirt; Oxford texture and button-down collar instead of the reference point collar.",
+      "unitPriceUSD": 98,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-24-01.webp",
+      "imageAlt": "J.Crew Broken-in organic cotton oxford shirt — Classic Blue Oxford — gallery 1",
+      "imageNote": "All 8 exposed selected-color product still images, source order. Video omitted. Other colors and recommendations excluded. Retrieved 2026-10-17; proportional WebP resize to maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-24-01.webp",
+          "alt": "J.Crew Broken-in organic cotton oxford shirt — Classic Blue Oxford — gallery 1",
+          "source": "https://www.jcrew.com/s7-img-facade/BE996_YD9227_m?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-24-02.webp",
+          "alt": "J.Crew Broken-in organic cotton oxford shirt — Classic Blue Oxford — gallery 2",
+          "source": "https://www.jcrew.com/s7-img-facade/BE996_YD9227_d1?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-24-03.webp",
+          "alt": "J.Crew Broken-in organic cotton oxford shirt — Classic Blue Oxford — gallery 3",
+          "source": "https://www.jcrew.com/s7-img-facade/BE996_YD9227_d12?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-24-04.webp",
+          "alt": "J.Crew Broken-in organic cotton oxford shirt — Classic Blue Oxford — gallery 4",
+          "source": "https://www.jcrew.com/s7-img-facade/BE996_YD9227_d2?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-24-05.webp",
+          "alt": "J.Crew Broken-in organic cotton oxford shirt — Classic Blue Oxford — gallery 5",
+          "source": "https://www.jcrew.com/s7-img-facade/BE996_YD9227_d3?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-24-06.webp",
+          "alt": "J.Crew Broken-in organic cotton oxford shirt — Classic Blue Oxford — gallery 6",
+          "source": "https://www.jcrew.com/s7-img-facade/BE996_YD9227_d4?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-24-07.webp",
+          "alt": "J.Crew Broken-in organic cotton oxford shirt — Classic Blue Oxford — gallery 7",
+          "source": "https://www.jcrew.com/s7-img-facade/BE996_YD9227?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-24-08.webp",
+          "alt": "J.Crew Broken-in organic cotton oxford shirt — Classic Blue Oxford — gallery 8",
+          "source": "https://www.jcrew.com/s7-img-facade/BE996_YD9227_ed?hei=1400"
+        }
+      ],
+      "materialCaveat": "Trims unspecified.",
+      "attribution": "Pale-blue layering shirt; Oxford texture and button-down collar instead of the reference point collar.",
+      "facts": {
+        "Fabric": "100% organic cotton · main material",
+        "Price": "$98.00 USD · shipping / tax extra",
+        "Fit": "Classic fit · S · long sleeves",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-24"
+      ]
+    },
+    {
       "id": "brown-08",
       "name": "Quince · Mongolian Cashmere Cable Crewneck Sweater · Charcoal",
       "url": "https://www.quince.com/men/mongolian-cashmere-cable-crewneck-sweater?color=charcoal&size=s",
@@ -335,6 +510,61 @@
       },
       "sources": [
         "brown-03"
+      ]
+    },
+    {
+      "id": "brown-19",
+      "name": "J.Crew · Heritage cotton quarter-zip sweater · Ivory",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/sweaters/pullover/heritage-cotton-quarter-zip-sweater/BT793?color_name=ivory&fit=Classic",
+      "category": "Sweater",
+      "brand": "J.Crew",
+      "store": "J.Crew",
+      "color": "Ivory",
+      "verdict": "Sweater · Ivory",
+      "summary": "Cream zip-knit alternative. Smooth dense cotton, not the reference pronounced ribbing.",
+      "unitPriceUSD": 118,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-19-01.webp",
+      "imageAlt": "J.Crew Heritage cotton quarter-zip sweater — Ivory — gallery 1",
+      "imageNote": "All 5 exposed selected-color product still images, source order. Video omitted. Other colors and recommendations excluded. Retrieved 2026-10-17; proportional WebP resize to maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-19-01.webp",
+          "alt": "J.Crew Heritage cotton quarter-zip sweater — Ivory — gallery 1",
+          "source": "https://www.jcrew.com/s7-img-facade/BT793_NA6434?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-19-02.webp",
+          "alt": "J.Crew Heritage cotton quarter-zip sweater — Ivory — gallery 2",
+          "source": "https://www.jcrew.com/s7-img-facade/BT793_NA6434_d1?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-19-03.webp",
+          "alt": "J.Crew Heritage cotton quarter-zip sweater — Ivory — gallery 3",
+          "source": "https://www.jcrew.com/s7-img-facade/BT793_NA6434_d2?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-19-04.webp",
+          "alt": "J.Crew Heritage cotton quarter-zip sweater — Ivory — gallery 4",
+          "source": "https://www.jcrew.com/s7-img-facade/BT793_NA6434_d3?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-19-05.webp",
+          "alt": "J.Crew Heritage cotton quarter-zip sweater — Ivory — gallery 5",
+          "source": "https://www.jcrew.com/s7-img-facade/BT793_NA6434_d4?hei=1400"
+        }
+      ],
+      "materialCaveat": "Zip and trims unspecified.",
+      "attribution": "Cream zip-knit alternative. Smooth dense cotton, not the reference pronounced ribbing.",
+      "facts": {
+        "Fabric": "100% cotton · main material",
+        "Price": "$118.00 USD · shipping / tax extra",
+        "Fit": "Regular quarter-zip · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-19"
       ]
     },
     {
@@ -475,6 +705,176 @@
       },
       "sources": [
         "brown-13"
+      ]
+    },
+    {
+      "id": "brown-20",
+      "name": "J.Crew · Relaxed-fit double-pleated corduroy pant · Bitter Chocolate",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/pants-and-chinos/chino/relaxed-fit-double-pleated-corduroy-pant/CV868?color_name=bitter-chocolate&fit=Classic",
+      "category": "Pants",
+      "brand": "J.Crew",
+      "store": "J.Crew",
+      "color": "Bitter Chocolate",
+      "verdict": "Pants · Bitter Chocolate",
+      "summary": "Exact-size dark pleated match: relaxed double-pleated corduroy in deep chocolate brown.",
+      "unitPriceUSD": 168,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-20-01.webp",
+      "imageAlt": "J.Crew Relaxed-fit double-pleated corduroy pant — Bitter Chocolate — gallery 1",
+      "imageNote": "All 5 exposed selected-color product still images, source order. Video omitted. Other colors and recommendations excluded. Retrieved 2026-10-17; proportional WebP resize to maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-20-01.webp",
+          "alt": "J.Crew Relaxed-fit double-pleated corduroy pant — Bitter Chocolate — gallery 1",
+          "source": "https://www.jcrew.com/s7-img-facade/CV868_WZ8810_m?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-20-02.webp",
+          "alt": "J.Crew Relaxed-fit double-pleated corduroy pant — Bitter Chocolate — gallery 2",
+          "source": "https://www.jcrew.com/s7-img-facade/CV868_WZ8810_d1?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-20-03.webp",
+          "alt": "J.Crew Relaxed-fit double-pleated corduroy pant — Bitter Chocolate — gallery 3",
+          "source": "https://www.jcrew.com/s7-img-facade/CV868_WZ8810_d2?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-20-04.webp",
+          "alt": "J.Crew Relaxed-fit double-pleated corduroy pant — Bitter Chocolate — gallery 4",
+          "source": "https://www.jcrew.com/s7-img-facade/CV868_WZ8810_d3?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-20-05.webp",
+          "alt": "J.Crew Relaxed-fit double-pleated corduroy pant — Bitter Chocolate — gallery 5",
+          "source": "https://www.jcrew.com/s7-img-facade/CV868_WZ8810?hei=1400"
+        }
+      ],
+      "materialCaveat": "Zip and trims unspecified.",
+      "attribution": "Exact-size dark pleated match: relaxed double-pleated corduroy in deep chocolate brown.",
+      "facts": {
+        "Fabric": "100% cotton corduroy · main material",
+        "Price": "$168.00 USD · shipping / tax extra",
+        "Fit": "Relaxed double pleats · W30 / L32",
+        "Status": "W30 / L32 available · US storefront"
+      },
+      "sources": [
+        "brown-20"
+      ]
+    },
+    {
+      "id": "brown-21",
+      "name": "J.Crew · Mercer Classic-fit trouser in wool · Heathered Charcoal",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/pants-and-chinos/trouser/mercer-classic-fit-trouser-in-wool/CX836?color_name=heathered-charcoal&fit=Classic",
+      "category": "Pants",
+      "brand": "J.Crew",
+      "store": "J.Crew",
+      "color": "Heathered Charcoal",
+      "verdict": "Pants · Heathered Charcoal",
+      "summary": "Dark charcoal tailored wool trouser, exact W30/L32; flat-front rather than pleated.",
+      "unitPriceUSD": 168,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-21-01.webp",
+      "imageAlt": "J.Crew Mercer Classic-fit trouser in wool — Heathered Charcoal — gallery 1",
+      "imageNote": "All 5 exposed selected-color product still images, source order. Video omitted. Other colors and recommendations excluded. Retrieved 2026-10-17; proportional WebP resize to maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-21-01.webp",
+          "alt": "J.Crew Mercer Classic-fit trouser in wool — Heathered Charcoal — gallery 1",
+          "source": "https://www.jcrew.com/s7-img-facade/CX836_WZ7544_m?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-21-02.webp",
+          "alt": "J.Crew Mercer Classic-fit trouser in wool — Heathered Charcoal — gallery 2",
+          "source": "https://www.jcrew.com/s7-img-facade/CX836_WZ7544_d1?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-21-03.webp",
+          "alt": "J.Crew Mercer Classic-fit trouser in wool — Heathered Charcoal — gallery 3",
+          "source": "https://www.jcrew.com/s7-img-facade/CX836_WZ7544_d2?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-21-04.webp",
+          "alt": "J.Crew Mercer Classic-fit trouser in wool — Heathered Charcoal — gallery 4",
+          "source": "https://www.jcrew.com/s7-img-facade/CX836_WZ7544_d3?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-21-05.webp",
+          "alt": "J.Crew Mercer Classic-fit trouser in wool — Heathered Charcoal — gallery 5",
+          "source": "https://www.jcrew.com/s7-img-facade/CX836_WZ7544?hei=1400"
+        }
+      ],
+      "materialCaveat": "Partially lined; lining fibers not specified. Zip/trims unspecified.",
+      "attribution": "Dark charcoal tailored wool trouser, exact W30/L32; flat-front rather than pleated.",
+      "facts": {
+        "Fabric": "100% wool · main material",
+        "Price": "$168.00 USD · shipping / tax extra",
+        "Fit": "Classic fit · W30 / L32",
+        "Status": "W30 / L32 available · US storefront"
+      },
+      "sources": [
+        "brown-21"
+      ]
+    },
+    {
+      "id": "brown-22",
+      "name": "J.Crew · Heavyweight chamois workshirt in Japanese cotton · Chocolate Spice",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/shirts/chamois/heavyweight-chamois-workshirt-in-japanese-cotton/CO512?color_name=chocolate-spice&fit=Classic",
+      "category": "Shirt",
+      "brand": "J.Crew",
+      "store": "J.Crew",
+      "color": "Chocolate Spice",
+      "verdict": "Shirt · Chocolate Spice",
+      "summary": "Chocolate textured shirt: heavy brushed Japanese cotton chamois and a point collar; chest pockets add workwear detail.",
+      "unitPriceUSD": 168,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-22-01.webp",
+      "imageAlt": "J.Crew Heavyweight chamois workshirt in Japanese cotton — Chocolate Spice — gallery 1",
+      "imageNote": "All 6 exposed selected-color product still images, source order. Video omitted. Other colors and recommendations excluded. Retrieved 2026-10-17; proportional WebP resize to maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-22-01.webp",
+          "alt": "J.Crew Heavyweight chamois workshirt in Japanese cotton — Chocolate Spice — gallery 1",
+          "source": "https://www.jcrew.com/s7-img-facade/CO512_WZ9337_m?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-22-02.webp",
+          "alt": "J.Crew Heavyweight chamois workshirt in Japanese cotton — Chocolate Spice — gallery 2",
+          "source": "https://www.jcrew.com/s7-img-facade/CO512_WZ9337_d1?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-22-03.webp",
+          "alt": "J.Crew Heavyweight chamois workshirt in Japanese cotton — Chocolate Spice — gallery 3",
+          "source": "https://www.jcrew.com/s7-img-facade/CO512_WZ9337_d12?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-22-04.webp",
+          "alt": "J.Crew Heavyweight chamois workshirt in Japanese cotton — Chocolate Spice — gallery 4",
+          "source": "https://www.jcrew.com/s7-img-facade/CO512_WZ9337_d2?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-22-05.webp",
+          "alt": "J.Crew Heavyweight chamois workshirt in Japanese cotton — Chocolate Spice — gallery 5",
+          "source": "https://www.jcrew.com/s7-img-facade/CO512_WZ9337_d3?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-22-06.webp",
+          "alt": "J.Crew Heavyweight chamois workshirt in Japanese cotton — Chocolate Spice — gallery 6",
+          "source": "https://www.jcrew.com/s7-img-facade/CO512_WZ9337?hei=1400"
+        }
+      ],
+      "materialCaveat": "Trims unspecified.",
+      "attribution": "Chocolate textured shirt: heavy brushed Japanese cotton chamois and a point collar; chest pockets add workwear detail.",
+      "facts": {
+        "Fabric": "100% cotton · main material",
+        "Price": "$168.00 USD · shipping / tax extra",
+        "Fit": "Workshirt · S · long sleeves",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-22"
       ]
     },
     {
@@ -868,6 +1268,76 @@
       ]
     },
     {
+      "id": "brown-23",
+      "name": "J.Crew · Two-pocket field jacket in wool · Tan And Chestnut Hounds",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/coats-and-jackets/utility/two-pocket-field-jacket-in-wool/CV267?color_name=tan-and-chestnut-hounds&fit=Classic",
+      "category": "Jacket",
+      "brand": "J.Crew",
+      "store": "J.Crew",
+      "color": "Tan And Chestnut Hounds",
+      "verdict": "Jacket · Tan And Chestnut Hounds",
+      "summary": "Brown textured tailoring alternative with subtle houndstooth, collar and two front pockets; not a notch-lapel blazer.",
+      "unitPriceUSD": 298,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-23-01.webp",
+      "imageAlt": "J.Crew Two-pocket field jacket in wool — Tan And Chestnut Hounds — gallery 1",
+      "imageNote": "All 8 exposed selected-color product still images, source order. Video omitted. Other colors and recommendations excluded. Retrieved 2026-10-17; proportional WebP resize to maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-23-01.webp",
+          "alt": "J.Crew Two-pocket field jacket in wool — Tan And Chestnut Hounds — gallery 1",
+          "source": "https://www.jcrew.com/s7-img-facade/CV267_WZ8792_ed?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-23-02.webp",
+          "alt": "J.Crew Two-pocket field jacket in wool — Tan And Chestnut Hounds — gallery 2",
+          "source": "https://www.jcrew.com/s7-img-facade/CV267_WZ8792_m?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-23-03.webp",
+          "alt": "J.Crew Two-pocket field jacket in wool — Tan And Chestnut Hounds — gallery 3",
+          "source": "https://www.jcrew.com/s7-img-facade/CV267_WZ8792?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-23-04.webp",
+          "alt": "J.Crew Two-pocket field jacket in wool — Tan And Chestnut Hounds — gallery 4",
+          "source": "https://www.jcrew.com/s7-img-facade/CV267_WZ8792_d1?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-23-05.webp",
+          "alt": "J.Crew Two-pocket field jacket in wool — Tan And Chestnut Hounds — gallery 5",
+          "source": "https://www.jcrew.com/s7-img-facade/CV267_WZ8792_d11?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-23-06.webp",
+          "alt": "J.Crew Two-pocket field jacket in wool — Tan And Chestnut Hounds — gallery 6",
+          "source": "https://www.jcrew.com/s7-img-facade/CV267_WZ8792_d2?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-23-07.webp",
+          "alt": "J.Crew Two-pocket field jacket in wool — Tan And Chestnut Hounds — gallery 7",
+          "source": "https://www.jcrew.com/s7-img-facade/CV267_WZ8792_d3?hei=1400"
+        },
+        {
+          "src": "assets/images/brown-23-08.webp",
+          "alt": "J.Crew Two-pocket field jacket in wool — Tan And Chestnut Hounds — gallery 8",
+          "source": "https://www.jcrew.com/s7-img-facade/CV267_WZ8792_d4?hei=1400"
+        }
+      ],
+      "materialCaveat": "Herringbone cotton lining; trims unspecified.",
+      "attribution": "Brown textured tailoring alternative with subtle houndstooth, collar and two front pockets; not a notch-lapel blazer.",
+      "facts": {
+        "Fabric": "100% wool · main material",
+        "Price": "$298.00 USD · shipping / tax extra",
+        "Fit": "Field jacket · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-23"
+      ]
+    },
+    {
       "id": "brown-10",
       "name": "Quince · Italian Suede Trucker Jacket · Dark Chestnut",
       "url": "https://www.quince.com/men/suede-trucker-jacket?color=dark-chestnut&size=s",
@@ -945,6 +1415,56 @@
       },
       "sources": [
         "brown-10"
+      ]
+    },
+    {
+      "id": "brown-28",
+      "name": "Portuguese Flannel · Labura Herringbone Wool - Brown · Brown",
+      "url": "https://www.portugueseflannel.com/products/labura-herringbone-wool-brown-3?variant=54801781817667&currency=USD",
+      "category": "Jacket",
+      "brand": "Portuguese Flannel",
+      "store": "Portuguese Flannel",
+      "color": "Brown",
+      "verdict": "Jacket · Brown",
+      "summary": "Brown herringbone wool with a soft shirt-jacket cut; a lower-cost textured alternative, not a lapel blazer.",
+      "unitPriceUSD": 316.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-28-01.webp",
+      "imageAlt": "Portuguese Flannel Labura Herringbone Wool - Brown — Brown — gallery 1",
+      "imageNote": "All 4 exposed selected-color product still images, source order. Video omitted. Other colors and recommendations excluded. Retrieved 2026-10-17; proportional WebP resize to maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-28-01.webp",
+          "alt": "Portuguese Flannel Labura Herringbone Wool - Brown — Brown — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/LABURA_HERRINGBONE_WOOL_BROWN_0787_7971d72c-6e66-45bf-9484-a44f12ca4836.jpg?v=1788962208"
+        },
+        {
+          "src": "assets/images/brown-28-02.webp",
+          "alt": "Portuguese Flannel Labura Herringbone Wool - Brown — Brown — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/LABURA_HERRINGBONE_WOOL_BROWN_0788_c1dee668-f854-4603-a4b1-e3b90c2df8db.jpg?v=1788962208"
+        },
+        {
+          "src": "assets/images/brown-28-03.webp",
+          "alt": "Portuguese Flannel Labura Herringbone Wool - Brown — Brown — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/LABURA_HERRINGBONE_WOOL_BROWN_0790_1309a84e-1b2d-40ea-a81d-d0766848a3e8.jpg?v=1788962209"
+        },
+        {
+          "src": "assets/images/brown-28-04.webp",
+          "alt": "Portuguese Flannel Labura Herringbone Wool - Brown — Brown — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/LABURA_HERRINGBONE_WOOL_BROWN_0791_0feebca7-d347-43b7-b20f-fc47b4d4a682.jpg?v=1788962208"
+        }
+      ],
+      "materialCaveat": "Horn buttons; lining/trims not fully specified.",
+      "attribution": "Brown herringbone wool with a soft shirt-jacket cut; a lower-cost textured alternative, not a lapel blazer.",
+      "facts": {
+        "Fabric": "100% virgin wool · main material",
+        "Price": "$316.00 USD · shipping / tax extra",
+        "Fit": "Shirt-jacket · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-28"
       ]
     },
     {
@@ -1048,6 +1568,121 @@
       ]
     },
     {
+      "id": "brown-27",
+      "name": "Banana Republic · Suede Trucker Jacket · Dark Brown",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=906609002#pdp-page-content",
+      "category": "Jacket",
+      "brand": "Banana Republic",
+      "store": "Banana Republic",
+      "color": "Dark Brown",
+      "verdict": "Jacket · Dark Brown",
+      "summary": "Dark brown genuine suede (photographs nearly black); spread collar and snap front. Shorter trucker silhouette, not a relaxed button-front overshirt.",
+      "unitPriceUSD": 550,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-27-01.webp",
+      "imageAlt": "Banana Republic Suede Trucker Jacket — Dark Brown — gallery 1",
+      "imageNote": "All 7 exposed selected-color product still images, source order. Video omitted. Other colors and recommendations excluded. Retrieved 2026-10-17; proportional WebP resize to maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-27-01.webp",
+          "alt": "Banana Republic Suede Trucker Jacket — Dark Brown — gallery 1",
+          "source": "https://content.gapinc.com/b/0062/948/845/cn62948845.png?width=1440"
+        },
+        {
+          "src": "assets/images/brown-27-02.webp",
+          "alt": "Banana Republic Suede Trucker Jacket — Dark Brown — gallery 2",
+          "source": "https://content.gapinc.com/b/0062/948/791/cn62948791.png?width=1440"
+        },
+        {
+          "src": "assets/images/brown-27-03.webp",
+          "alt": "Banana Republic Suede Trucker Jacket — Dark Brown — gallery 3",
+          "source": "https://content.gapinc.com/b/0062/948/825/cn62948825.png?width=1440"
+        },
+        {
+          "src": "assets/images/brown-27-04.webp",
+          "alt": "Banana Republic Suede Trucker Jacket — Dark Brown — gallery 4",
+          "source": "https://content.gapinc.com/b/0056/980/516/cn56980516.png?width=1440"
+        },
+        {
+          "src": "assets/images/brown-27-05.webp",
+          "alt": "Banana Republic Suede Trucker Jacket — Dark Brown — gallery 5",
+          "source": "https://content.gapinc.com/b/0056/980/550/cn56980550.png?width=1440"
+        },
+        {
+          "src": "assets/images/brown-27-06.webp",
+          "alt": "Banana Republic Suede Trucker Jacket — Dark Brown — gallery 6",
+          "source": "https://content.gapinc.com/b/0057/561/885/cn57561885.png?width=1440"
+        },
+        {
+          "src": "assets/images/brown-27-07.webp",
+          "alt": "Banana Republic Suede Trucker Jacket — Dark Brown — gallery 7",
+          "source": "https://content.gapinc.com/b/0057/559/079/cn57559079.png?width=1440"
+        }
+      ],
+      "materialCaveat": "Body lining: 58% viscose rayon / 42% organic cotton. Sleeve lining: 100% polyester.",
+      "attribution": "Dark brown genuine suede (photographs nearly black); spread collar and snap front. Shorter trucker silhouette, not a relaxed button-front overshirt.",
+      "facts": {
+        "Fabric": "100% goat suede leather · main material",
+        "Price": "$550.00 USD · shipping / tax extra",
+        "Fit": "Standard trucker fit · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-27"
+      ]
+    },
+    {
+      "id": "brown-29",
+      "name": "Officine Générale · Overshirt sheldon · Beige / Coffee / Dark navy",
+      "url": "https://us.officinegenerale.com/products/overshirt-sheldon-shetland-wool-beige-coffee-dknavy?variant=57781469774207&currency=USD",
+      "category": "Jacket",
+      "brand": "Officine Générale",
+      "store": "Officine Générale",
+      "color": "Beige / Coffee / Dark navy",
+      "verdict": "Jacket · Beige / Coffee / Dark navy",
+      "summary": "Soft round shoulders and notch lapels with muted brown check wool; closer to the brown microcheck tailoring reference.",
+      "unitPriceUSD": 795.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-29-01.webp",
+      "imageAlt": "Officine Générale Overshirt sheldon — Beige / Coffee / Dark navy — gallery 1",
+      "imageNote": "All 4 exposed selected-color product still images, source order. Video omitted. Other colors and recommendations excluded. Retrieved 2026-10-17; proportional WebP resize to maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-29-01.webp",
+          "alt": "Officine Générale Overshirt sheldon — Beige / Coffee / Dark navy — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOVS077.jpg?v=1785163713"
+        },
+        {
+          "src": "assets/images/brown-29-02.webp",
+          "alt": "Officine Générale Overshirt sheldon — Beige / Coffee / Dark navy — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOVS077___P4.jpg?v=1785163709"
+        },
+        {
+          "src": "assets/images/brown-29-03.webp",
+          "alt": "Officine Générale Overshirt sheldon — Beige / Coffee / Dark navy — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOVS077___P2.jpg?v=1785163709"
+        },
+        {
+          "src": "assets/images/brown-29-04.webp",
+          "alt": "Officine Générale Overshirt sheldon — Beige / Coffee / Dark navy — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MOVS077___P3.jpg?v=1785163709"
+        }
+      ],
+      "materialCaveat": "Sleeves lined; lining fibers not specified.",
+      "attribution": "Soft round shoulders and notch lapels with muted brown check wool; closer to the brown microcheck tailoring reference.",
+      "facts": {
+        "Fabric": "100% wool · main material",
+        "Price": "$795.00 USD · shipping / tax extra",
+        "Fit": "Loose unconstructed blazer · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-29"
+      ]
+    },
+    {
       "id": "brown-15",
       "name": "Studio Nicholson · Roversi Wool Jacket in Bark Melange · Bark melange",
       "url": "https://www.studionicholson.com/products/roversi-wool-jacket-in-bark-melange?variant=57024903545207&currency=USD",
@@ -1125,6 +1760,61 @@
       },
       "sources": [
         "brown-15"
+      ]
+    },
+    {
+      "id": "brown-30",
+      "name": "Officine Générale · Overshirt silvio · Dark brown",
+      "url": "https://us.officinegenerale.com/products/overshirt-silvio-goat-suede-dark-brown?variant=57781672444287&currency=USD",
+      "category": "Jacket",
+      "brand": "Officine Générale",
+      "store": "Officine Générale",
+      "color": "Dark brown",
+      "verdict": "Jacket · Dark brown",
+      "summary": "Genuine dark-brown suede with five-button front and two front patch pockets; closer to relaxed collared suede reference than a zip bomber.",
+      "unitPriceUSD": 1750.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-30-01.webp",
+      "imageAlt": "Officine Générale Overshirt silvio — Dark brown — gallery 1",
+      "imageNote": "All 5 exposed selected-color product still images, source order. Video omitted. Other colors and recommendations excluded. Retrieved 2026-10-17; proportional WebP resize to maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-30-01.webp",
+          "alt": "Officine Générale Overshirt silvio — Dark brown — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MLTR554.jpg?v=1785234670"
+        },
+        {
+          "src": "assets/images/brown-30-02.webp",
+          "alt": "Officine Générale Overshirt silvio — Dark brown — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MLTR554___P4.jpg?v=1785234670"
+        },
+        {
+          "src": "assets/images/brown-30-03.webp",
+          "alt": "Officine Générale Overshirt silvio — Dark brown — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MLTR554___P2.jpg?v=1785234669"
+        },
+        {
+          "src": "assets/images/brown-30-04.webp",
+          "alt": "Officine Générale Overshirt silvio — Dark brown — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MLTR554___P3.jpg?v=1785234669"
+        },
+        {
+          "src": "assets/images/brown-30-05.webp",
+          "alt": "Officine Générale Overshirt silvio — Dark brown — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MLTR554___P5.jpg?v=1785234670"
+        }
+      ],
+      "materialCaveat": "Fully lined; lining fibers not specified.",
+      "attribution": "Genuine dark-brown suede with five-button front and two front patch pockets; closer to relaxed collared suede reference than a zip bomber.",
+      "facts": {
+        "Fabric": "100% goat suede leather · main material",
+        "Price": "$1,750.00 USD · shipping / tax extra",
+        "Fit": "Regular overshirt · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-30"
       ]
     }
   ],
@@ -1247,8 +1937,92 @@
       "title": "Quince · selected color and size",
       "type": "Live first-party product + exact variant data",
       "note": "Exact variant 38572, Moss / S, activeInventory.available=50, atcDisabled=false; price $59.90. Traditional retail is not a sale. Crafted from 100% Grade-A Mongolian cashmere 15.8 – 16.2 micron thickness, 12 gauge, 34-36mm fiber length creates a super soft hand feel Ribbed details at neck, hem, and cuffs Produced in BSCI (Business Social Compliance Initiative) certified factories which aim to improve working conditions throughout the supply chain Cashmere is sourced from goats in Inner Mongolia. Read our Cashmere 101 guide to learn more about cashmere, its origin, and how to care for it Made with care in China and Cambodia Green-knit reference: muted moss cashmere over a white shirt. Fine-gauge and softly fuzzy, not cable-knit; less lofty than brushed wool. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-19",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/sweaters/pullover/heritage-cotton-quarter-zip-sweater/BT793?color_name=ivory&fit=Classic",
+      "title": "J.Crew · selected color and size",
+      "type": "Live first-party product and exact variant verification",
+      "note": "US/USD product HTTP200. Exact SKU 99107137342, SMALL, orderable=true; live browser selected size and enabled Add to Bag. 100% cotton. Half-zip. Machine wash. Imported. Select stores. Cream zip-knit alternative. Smooth dense cotton, not the reference pronounced ribbing. Zip and trims unspecified. Main-material qualification only; thread/labels/trims not fully specified. Shipping/tax excluded. No purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-20",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/pants-and-chinos/chino/relaxed-fit-double-pleated-corduroy-pant/CV868?color_name=bitter-chocolate&fit=Classic",
+      "title": "J.Crew · selected color and size",
+      "type": "Live first-party product and exact variant verification",
+      "note": "US/USD product HTTP200. Exact SKU 99108169134, 30/32, orderable=true; live browser selected size and enabled Add to Bag. 100% cotton. Zip fly. On-seam pockets, back flap pockets. Machine wash cold. Imported. Select stores. Exact-size dark pleated match: relaxed double-pleated corduroy in deep chocolate brown. Zip and trims unspecified. Main-material qualification only; thread/labels/trims not fully specified. Shipping/tax excluded. No purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-21",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/pants-and-chinos/trouser/mercer-classic-fit-trouser-in-wool/CX836?color_name=heathered-charcoal&fit=Classic",
+      "title": "J.Crew · selected color and size",
+      "type": "Live first-party product and exact variant verification",
+      "note": "US/USD product HTTP200. Exact SKU 99108219215, 30/32, orderable=true; live browser selected size and enabled Add to Bag. 100% wool. Zip fly. Off-seam slant pockets, back welt pocket. Partially lined. Dry clean. Imported. Dark charcoal tailored wool trouser, exact W30/L32; flat-front rather than pleated. Partially lined; lining fibers not specified. Zip/trims unspecified. Main-material qualification only; thread/labels/trims not fully specified. Shipping/tax excluded. No purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-22",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/shirts/chamois/heavyweight-chamois-workshirt-in-japanese-cotton/CO512?color_name=chocolate-spice&fit=Classic",
+      "title": "J.Crew · selected color and size",
+      "type": "Live first-party product and exact variant verification",
+      "note": "US/USD product HTTP200. Exact SKU 99108211714, SMALL, orderable=true; live browser selected size and enabled Add to Bag. 100% cotton. Point collar. Machine wash. Imported. Select stores. Chocolate textured shirt: heavy brushed Japanese cotton chamois and a point collar; chest pockets add workwear detail. Trims unspecified. Main-material qualification only; thread/labels/trims not fully specified. Shipping/tax excluded. No purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-23",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/coats-and-jackets/utility/two-pocket-field-jacket-in-wool/CV267?color_name=tan-and-chestnut-hounds&fit=Classic",
+      "title": "J.Crew · selected color and size",
+      "type": "Live first-party product and exact variant verification",
+      "note": "US/USD product HTTP200. Exact SKU 99108175427, SMALL, orderable=true; live browser selected size and enabled Add to Bag. 100% wool. Patch pockets. Adjustable sleeve cuffs. Herringbone cotton lining. Dry clean only. Imported. Select stores. Brown textured tailoring alternative with subtle houndstooth, collar and two front pockets; not a notch-lapel blazer. Herringbone cotton lining; trims unspecified. Main-material qualification only; thread/labels/trims not fully specified. Shipping/tax excluded. No purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-24",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/shirts/broken-in-oxford/broken-in-organic-cotton-oxford-shirt/BE996?color_name=classic-blue-oxford&fit=Classic",
+      "title": "J.Crew · selected color and size",
+      "type": "Live first-party product and exact variant verification",
+      "note": "US/USD product HTTP200. Exact SKU 99107894131, SMALL, orderable=true; live browser selected size and enabled Add to Bag. 100% organic cotton. Patch pockets. Machine wash. Imported. Pale-blue layering shirt; Oxford texture and button-down collar instead of the reference point collar. Trims unspecified. Main-material qualification only; thread/labels/trims not fully specified. Shipping/tax excluded. No purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-25",
+      "url": "https://www.jcrew.com/p/mens/categories/clothing/sweaters/crewneck/lightweight-pima-cotton-crewneck-sweater/CP719?color_name=sanctuary&fit=Classic",
+      "title": "J.Crew · selected color and size",
+      "type": "Live first-party product and exact variant verification",
+      "note": "US/USD product HTTP200. Exact SKU 99108146473, SMALL, orderable=true; live browser selected size and enabled Add to Bag. 100% cotton. Machine wash. Imported. Select stores. Muted green plain crewneck for white-shirt layering; fine cotton rather than fuzzy wool. Trims unspecified. Main-material qualification only; thread/labels/trims not fully specified. Shipping/tax excluded. No purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-26",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=9061921820001&vid=1#pdp-page-content",
+      "title": "Banana Republic · selected color and size",
+      "type": "Live first-party product and exact variant verification",
+      "note": "\nLooks good, feels good. A classic crew-neck sweater, crafted in beautifully warm and soft Merino wool.\nStandard fit: A straight and easy fit.\nCrew neck.\nStraight hem.\nProduct #906192\nSize & fit\nStandard fit: A straight and easy fit.\nLong sleeves.\nHip length.\nModel wears size M.\nFabric & care\n100% extra-fine Merino wool.\nHand wash cold, dry flat, cool iron, or dry clean.\nImported.\n Browser selected S, shipping In Stock. Current item price verified; credit-card/signup offers not treated as deals. Plain forest-green soft merino crewneck, closer to the green reference than a cotton sweatshirt. Trims unspecified. Main-material qualification only; thread/labels/trims not fully specified. Shipping/tax excluded. No purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-27",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=906609002#pdp-page-content",
+      "title": "Banana Republic · selected color and size",
+      "type": "Live first-party product and exact variant verification",
+      "note": "\nA luxurious twist on a utilitarian staple, this suede jacket borrows its silhouette from classic trucker jean jackets. We kept the pocketing, snap buttons, and top-stitch detailing of the original, but upgraded the experience with a beautiful, buttery suede quality we love for its rich color.\nStandard fit: Classic. A straight & easy fit.\nSpread collar with snap closure.\nChest pockets with snap closure. Side pockets. Two interior pockets.\nStraight hem.\nFully lined.\nProduct #906609\nSize & fit\nStandard fit: A straight & Easy fit.\nLong sleeves.\nHip length.\nModel wears size M.\nFabric & care\nShell: 100% goat suede.\nBody lining: 58% viscose rayon, 42% organic cotton.\nSleeve lining: 100% polyester.\nProfessional leather clean.\nLeather Working Group: By purchasing this product, you are supporting responsible leather manufacturing through the Leather Working Group.\nImported.\n Browser selected S, shipping In Stock. Current item price verified; credit-card/signup offers not treated as deals. Dark brown genuine suede (photographs nearly black); spread collar and snap front. Shorter trucker silhouette, not a relaxed button-front overshirt. Body lining: 58% viscose rayon / 42% organic cotton. Sleeve lining: 100% polyester. Main-material qualification only; thread/labels/trims not fully specified. Shipping/tax excluded. No purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-28",
+      "url": "https://www.portugueseflannel.com/products/labura-herringbone-wool-brown-3?variant=54801781817667&currency=USD",
+      "title": "Portuguese Flannel · selected color and size",
+      "type": "Live first-party product and exact variant verification",
+      "note": "US product HTTP200; countryUS currencyUSD exact S variant 54801781817667 available=true at $316.00.  \n Horn Buttons \n \n Composition: 100% Virgin Wool \n   \n \n \n \n \n  Brown herringbone wool with a soft shirt-jacket cut; a lower-cost textured alternative, not a lapel blazer. Horn buttons; lining/trims not fully specified. Main-material qualification only; thread/labels/trims not fully specified. Shipping/tax excluded. No purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-29",
+      "url": "https://us.officinegenerale.com/products/overshirt-sheldon-shetland-wool-beige-coffee-dknavy?variant=57781469774207&currency=USD",
+      "title": "Officine Générale · selected color and size",
+      "type": "Live first-party product and exact variant verification",
+      "note": "US product HTTP200; countryUS currencyUSD exact S variant 57781469774207 available=true at $795.00. Unconstructed jacket with a loose round shoulder. Slightly loose fit|• 100% wool \n\n • Notch lapel \n\n • Front buttoned placket \n\n • One patch pocket on the left chest and two big patch pockets \n\n • Buttoned cuffs with bound slit \n\n • Straight bottom \n\n • Back slit \n\n • Sleeves lined \n\n • Dry cleaning only \n\n • Made in Portugal \n\n |This product sizes normally, we advise you to take your usual size. \n\n Our model measures 1m86 and wears a size S. \n\n Exists in sizes XS to XL. \n\n  Soft round shoulders and notch lapels with muted brown check wool; closer to the brown microcheck tailoring reference. Sleeves lined; lining fibers not specified. Main-material qualification only; thread/labels/trims not fully specified. Shipping/tax excluded. No purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-30",
+      "url": "https://us.officinegenerale.com/products/overshirt-silvio-goat-suede-dark-brown?variant=57781672444287&currency=USD",
+      "title": "Officine Générale · selected color and size",
+      "type": "Live first-party product and exact variant verification",
+      "note": "US product HTTP200; countryUS currencyUSD exact S variant 57781672444287 available=true at $1750.00. Suede overshirt with a classic collar and a regular fit |• 100% goat suede \n\n • Classic collar \n\n • Single breasted with 5 buttons \n\n • Two patch pockets on the front \n\n • Buttoned wrist cuffs \n\n • \"T\" shaped back detail \n\n • Fully lined \n\n • Cleaning by a leather specialist. \n\n •  Made in India \n\n |This product sizes normally, we advise you to take your usual size. \n\n Our model measures 1m86 and wears a size 48. \n\n Exists in sizes 44 to 54. \n\n  Genuine dark-brown suede with five-button front and two front patch pockets; closer to relaxed collared suede reference than a zip bomber. Fully lined; lining fibers not specified. Main-material qualification only; thread/labels/trims not fully specified. Shipping/tax excluded. No purchase. Checked 2026-10-17."
     }
   ],
-  "evidenceNote": "Five references inspected directly; these are alternatives, not identification of the original garments. All main materials are natural fibers or genuine suede. All selected S and W30/L32 variants verified available in USD on US storefronts. Exact-color galleries retained. New knits, brown/white shirts and relaxed brown tailoring are included alongside the original suede outfit.",
-  "caveat": "Fit gaps: no verified in-stock pleated dark W30/L32 finalist; the two black Norse chinos are exact-size flat-front substitutes, not high-rise pleated matches. Banana Republic Blue Charcoal pleated chino W30 was disabled. Roversi provides unstructured textured brown tailoring, but not an exact microcheck/herringbone. Quarter-zip is Speckled Beige, warmer than ivory; Moss cashmere is smoother than the fuzzy olive reference. Synthetic/regenerated linings and unspecified trims are disclosed; no whole-garment plastic-free claim. Shipping/tax/import fees excluded, stock may change. No Bottega Veneta, shoes or accessories."
+  "evidenceNote": "Original 17 preserved. Expanded with mainstream J.Crew and Banana Republic plus three focused designer matches. Exact S and dark W30/L32 variants, current US prices, main composition and selected-color still galleries verified.",
+  "caveat": "Pleated gap improved: J.Crew Bitter Chocolate double-pleated corduroy is exact W30/L32. Mercer charcoal wool is a flat-front exact-size alternative. Cream cotton quarter-zip is smooth, not pronounced ribbing; no new exact charcoal cable-knit match. Brown herringbone Labura is a shirt-jacket; Sheldon is unstructured checked tailoring. Suede Trucker uses snaps; Silvio uses buttons. Synthetic/regenerated linings and unspecified trims disclosed, no whole-garment plastic-free claim. Prices exclude shipping/tax/import fees; stock may change. Nordstrom, Macy’s and Bloomingdale’s blocked research access; no stock conclusions. Reddit exact r/noplasticliving lookup remained rate-limited; no community endorsement claimed."
 }
