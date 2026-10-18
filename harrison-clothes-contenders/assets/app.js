@@ -49,14 +49,16 @@ function attachGalleries(topic) {
 function attachNaturalSort(topic) {
  const grid=content.querySelector('.display-template');
  const cards=new Map([...grid.children].map(card=>[topic.products[Number(card.dataset.productIndex)],card]));
- const buttons=content.querySelectorAll('[data-sort]');
+ const buttons=content.querySelectorAll('[data-sort]');let ordering=null;
  function apply(mode) {
+  ordering?.clearPressed();
   // Move existing nodes so search, gallery position and disclosures survive.
   (mode==='merchant' ? topic.products : sortNaturalProducts(topic.products,mode)).forEach(p=>grid.append(cards.get(p)));
   buttons.forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.sort===mode)));
  }
  buttons.forEach(button=>button.addEventListener('click',()=>apply(button.dataset.sort)));
  apply(topic.defaultSort==='merchant' ? 'merchant' : 'price');
+ if(document.body.classList.contains('clothing-catalog')) ordering=CatalogOrder.attach(topic,grid,apply);
 }
 async function render() {
  const library=await load('data/library.json'); const id=new URLSearchParams(location.search).get('topic');

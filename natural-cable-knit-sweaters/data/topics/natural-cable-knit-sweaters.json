@@ -1,0 +1,903 @@
+{
+  "id": "natural-cable-knit-sweaters",
+  "layout": "natural-basics",
+  "catalog": true,
+  "title": "Natural cable-knit sweaters",
+  "summary": "Bounded first-party catalog/product review included the requested merchant list except Bottega, plus ordinary retailers and department stores. Included listings have exact S evidence, natural main fabric, current displayed price and selected-color galleries. Discovery is not exhaustive: J.Crew CV666 had verified cashmere and price but incomplete S evidence; COS and A.P.C. cable crew-necks were reviewed but not promoted as zip-neck matches. Unlisted merchants are not claimed to have no qualifying stock.",
+  "updated": "2026-10-18",
+  "recommendation": {},
+  "defaultSort": "merchant",
+  "merchantOrder": [
+    "UNIQLO",
+    "ZARA",
+    "Abercrombie",
+    "ARKET",
+    "COS",
+    "Massimo Dutti",
+    "REISS",
+    "mfpen",
+    "Les Deux",
+    "Manière De Voir",
+    "Our Legacy",
+    "Officine Générale",
+    "Studio Nicholson",
+    "LEMAIRE",
+    "MR PORTER",
+    "Sandro",
+    "A.P.C.",
+    "Norse Projects"
+  ],
+  "products": [
+    {
+      "id": "sweater-reference",
+      "url": "https://www.massimodutti.com/us/100-wool-cableknit-sweater-l01416222?pelement=63726144",
+      "category": "Reference",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "summary": "",
+      "sources": [
+        "sweater-reference"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/100-wool-cableknit-sweater-l01416222?pelement=63726144"
+      ],
+      "name": "Massimo Dutti · 100% Wool Cable-Knit Sweater",
+      "color": "Mink",
+      "unitPriceUSD": 200.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/sweater-reference-01.webp",
+      "imageAlt": "Massimo Dutti · 100% Wool Cable-Knit Sweater — Mink — photo 1",
+      "images": [
+        {
+          "src": "assets/images/sweater-reference-01.webp",
+          "alt": "Massimo Dutti · 100% Wool Cable-Knit Sweater — Mink — photo 1",
+          "source": "https://static.massimodutti.net/assets/public/1ffa/49be/d8754fca9b44/44dd39a0f0e5/01416222779-o6/01416222779-o6.jpg?ts=1791386077030"
+        },
+        {
+          "src": "assets/images/sweater-reference-02.webp",
+          "alt": "Massimo Dutti · 100% Wool Cable-Knit Sweater — Mink — photo 2",
+          "source": "https://static.massimodutti.net/assets/public/a102/0ae8/16b441169c3e/bf652789f22c/01416222779-o1/01416222779-o1.jpg?ts=1789980248290"
+        },
+        {
+          "src": "assets/images/sweater-reference-03.webp",
+          "alt": "Massimo Dutti · 100% Wool Cable-Knit Sweater — Mink — photo 3",
+          "source": "https://static.massimodutti.net/assets/public/c6fb/e58e/6a40474691d5/8bd125c3e133/01416222779-o7/01416222779-o7.jpg?ts=1791386078358"
+        },
+        {
+          "src": "assets/images/sweater-reference-04.webp",
+          "alt": "Massimo Dutti · 100% Wool Cable-Knit Sweater — Mink — photo 4",
+          "source": "https://static.massimodutti.net/assets/public/a6a8/5271/905b4791bdd8/4887ee1693fb/01416222779-o2/01416222779-o2.jpg?ts=1789980247679"
+        },
+        {
+          "src": "assets/images/sweater-reference-05.webp",
+          "alt": "Massimo Dutti · 100% Wool Cable-Knit Sweater — Mink — photo 5",
+          "source": "https://static.massimodutti.net/assets/public/c85b/0a18/0d0e4877974c/00f6a9b40644/01416222779-o8/01416222779-o8.jpg?ts=1791386078049"
+        },
+        {
+          "src": "assets/images/sweater-reference-06.webp",
+          "alt": "Massimo Dutti · 100% Wool Cable-Knit Sweater — Mink — photo 6",
+          "source": "https://static.massimodutti.net/assets/public/46a5/3237/d325482084bc/46a2a2274ff7/01416222779-o3/01416222779-o3.jpg?ts=1789980246222"
+        },
+        {
+          "src": "assets/images/sweater-reference-07.webp",
+          "alt": "Massimo Dutti · 100% Wool Cable-Knit Sweater — Mink — photo 7",
+          "source": "https://static.massimodutti.net/assets/public/2652/3212/1b8e4d6baf27/c5c3926f2268/01416222779-o4/01416222779-o4.jpg?ts=1789980247542"
+        },
+        {
+          "src": "assets/images/sweater-reference-08.webp",
+          "alt": "Massimo Dutti · 100% Wool Cable-Knit Sweater — Mink — photo 8",
+          "source": "https://static.massimodutti.net/assets/public/5326/9b2a/7742409ca1f7/36416478a16e/01416222779-o9/01416222779-o9.jpg?ts=1791386077872"
+        },
+        {
+          "src": "assets/images/sweater-reference-09.webp",
+          "alt": "Massimo Dutti · 100% Wool Cable-Knit Sweater — Mink — photo 9",
+          "source": "https://static.massimodutti.net/assets/public/8866/5325/a8204db195fd/c6d5ea102656/01416222779-o5/01416222779-o5.jpg?ts=1789980247349"
+        }
+      ],
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; non-gallery swatches, fallback assets and recommendations excluded.",
+      "materialCaveat": "Wool composition excludes elastic; trim fibers unspecified.",
+      "attribution": "Exact user URL freshly rendered; Mink, $200 and S buyable verified from selectedColor. Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Wool composition excludes elastic; trim fibers unspecified.",
+      "facts": {
+        "Fabric": "Outer Shell: 100% wool; EXCLUSIVE OF ELASTIC",
+        "Price": "$200.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "S available",
+        "Match": "Reference: Mink; relaxed cable-knit zip mock neck."
+      },
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "verdict": "Reference"
+    },
+    {
+      "id": "sweater-br",
+      "name": "Banana Republic · Cotton Cable-Knit Half-Zip Sweater",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=9067420020001&vid=1",
+      "store": "Banana Republic",
+      "brand": "Banana Republic",
+      "color": "Acorn Brown",
+      "category": "Cable zip-neck",
+      "verdict": "Cable zip-neck",
+      "summary": "",
+      "unitPriceUSD": 180,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Trims not fully specified.",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$180.00 USD; shipping/tax extra",
+        "Fit": "Men’s S",
+        "Status": "S / Regular in stock",
+        "Match": "Closest relaxed/drop-shoulder cut; warm brown, heavier cotton rather than wool."
+      },
+      "attribution": "First-party US page rendered HTTP 200. Exact color and S evidence reviewed. Closest relaxed/drop-shoulder cut; warm brown, heavier cotton rather than wool.",
+      "imageNote": "All six exposed still images; gallery slot 2 is video, excluded.",
+      "sources": [
+        "sweater-br"
+      ],
+      "sourceLinks": [
+        "https://bananarepublic.gap.com/browse/product.do?pid=906742002"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "images": [
+        {
+          "src": "assets/images/sweater-br-01.webp",
+          "alt": "Banana Republic · Cotton Cable-Knit Half-Zip Sweater — Acorn Brown — photo 1",
+          "source": "https://content.gapinc.com/b/0063/677/178/cn63677178.png?width=1440"
+        },
+        {
+          "src": "assets/images/sweater-br-02.webp",
+          "alt": "Banana Republic · Cotton Cable-Knit Half-Zip Sweater — Acorn Brown — photo 2",
+          "source": "https://content.gapinc.com/b/0063/677/161/cn63677161.png?width=1440"
+        },
+        {
+          "src": "assets/images/sweater-br-03.webp",
+          "alt": "Banana Republic · Cotton Cable-Knit Half-Zip Sweater — Acorn Brown — photo 3",
+          "source": "https://content.gapinc.com/b/0063/677/156/cn63677156.png?width=1440"
+        },
+        {
+          "src": "assets/images/sweater-br-04.webp",
+          "alt": "Banana Republic · Cotton Cable-Knit Half-Zip Sweater — Acorn Brown — photo 4",
+          "source": "https://content.gapinc.com/b/0063/758/834/cn63758834.png?width=1440"
+        },
+        {
+          "src": "assets/images/sweater-br-05.webp",
+          "alt": "Banana Republic · Cotton Cable-Knit Half-Zip Sweater — Acorn Brown — photo 5",
+          "source": "https://content.gapinc.com/b/0063/758/839/cn63758839.png?width=1440"
+        },
+        {
+          "src": "assets/images/sweater-br-06.webp",
+          "alt": "Banana Republic · Cotton Cable-Knit Half-Zip Sweater — Acorn Brown — photo 6",
+          "source": "https://content.gapinc.com/b/0063/677/217/cn63677217.png?width=1440"
+        }
+      ],
+      "image": "assets/images/sweater-br-01.webp",
+      "imageAlt": "Banana Republic · Cotton Cable-Knit Half-Zip Sweater — Acorn Brown — photo 1"
+    },
+    {
+      "id": "sweater-rl-wool",
+      "name": "Polo Ralph Lauren · Wool-Cashmere Cable-Knit Quarter-Zip",
+      "url": "https://www.ralphlauren.com/men-clothing-sweaters/cable-knit-quarter-zip-sweater/0045907375.html",
+      "store": "Ralph Lauren",
+      "brand": "Polo Ralph Lauren",
+      "color": "Andover Cream",
+      "category": "Cable zip-neck",
+      "verdict": "Cable zip-neck",
+      "summary": "",
+      "unitPriceUSD": 185,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Trims not fully specified.",
+      "facts": {
+        "Fabric": "90% wool / 10% cashmere",
+        "Price": "$185.00 USD; shipping/tax extra",
+        "Fit": "Men’s S",
+        "Status": "S selected; available for shipping; Madison Ave pickup out of stock",
+        "Match": "Cable/zip-neck match; cream, more classic fit and embroidered pony."
+      },
+      "attribution": "First-party US page rendered HTTP 200. Exact color and S evidence reviewed. Cable/zip-neck match; cream, more classic fit and embroidered pony.",
+      "imageNote": "Exposed exact-color still-image gallery; other colors and recommendations excluded.",
+      "sources": [
+        "sweater-rl-wool"
+      ],
+      "sourceLinks": [
+        "https://www.ralphlauren.com/men-clothing-sweaters/cable-knit-quarter-zip-sweater/625234.html"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "images": [
+        {
+          "src": "assets/images/sweater-rl-wool-01.webp",
+          "alt": "Polo Ralph Lauren · Wool-Cashmere Cable-Knit Quarter-Zip — Andover Cream — photo 1",
+          "source": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1450553_alternate10?$rl_4x5_pdp$"
+        },
+        {
+          "src": "assets/images/sweater-rl-wool-02.webp",
+          "alt": "Polo Ralph Lauren · Wool-Cashmere Cable-Knit Quarter-Zip — Andover Cream — photo 2",
+          "source": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1450553_lifestyle?$rl_4x5_pdp$"
+        },
+        {
+          "src": "assets/images/sweater-rl-wool-03.webp",
+          "alt": "Polo Ralph Lauren · Wool-Cashmere Cable-Knit Quarter-Zip — Andover Cream — photo 3",
+          "source": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1450553_alternate1?$rl_4x5_pdp$"
+        },
+        {
+          "src": "assets/images/sweater-rl-wool-04.webp",
+          "alt": "Polo Ralph Lauren · Wool-Cashmere Cable-Knit Quarter-Zip — Andover Cream — photo 4",
+          "source": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1450553_alternate3?$rl_4x5_pdp$"
+        },
+        {
+          "src": "assets/images/sweater-rl-wool-05.webp",
+          "alt": "Polo Ralph Lauren · Wool-Cashmere Cable-Knit Quarter-Zip — Andover Cream — photo 5",
+          "source": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1450553_alternate4?$rl_4x5_pdp$"
+        },
+        {
+          "src": "assets/images/sweater-rl-wool-06.webp",
+          "alt": "Polo Ralph Lauren · Wool-Cashmere Cable-Knit Quarter-Zip — Andover Cream — photo 6",
+          "source": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1450553_alternate5?$rl_4x5_pdp$"
+        }
+      ],
+      "image": "assets/images/sweater-rl-wool-01.webp",
+      "imageAlt": "Polo Ralph Lauren · Wool-Cashmere Cable-Knit Quarter-Zip — Andover Cream — photo 1"
+    },
+    {
+      "id": "sweater-gant",
+      "name": "GANT · Cotton Cable Knit Half-Zip Sweater",
+      "url": "https://gant.com/p/cotton-cable-knit-half-zip-sweater-faded-taupe/8050603-260?size=S&pid=7325708841094",
+      "store": "GANT",
+      "brand": "GANT",
+      "color": "Faded Taupe",
+      "category": "Cable zip-neck",
+      "verdict": "Cable zip-neck",
+      "summary": "",
+      "unitPriceUSD": 190,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Trims not fully specified.",
+      "facts": {
+        "Fabric": "100% organic cotton",
+        "Price": "$190.00 USD; shipping/tax extra",
+        "Fit": "Men’s S",
+        "Status": "S selected; only a few left",
+        "Match": "Close warm taupe and rope cables; regular fit with chest shield logo."
+      },
+      "attribution": "First-party US page rendered HTTP 200. Exact color and S evidence reviewed. Close warm taupe and rope cables; regular fit with chest shield logo.",
+      "imageNote": "Exposed exact-color still-image gallery; other colors and recommendations excluded.",
+      "sources": [
+        "sweater-gant"
+      ],
+      "sourceLinks": [
+        "https://gant.com/p/cotton-cable-knit-half-zip-sweater-faded-taupe/8050603-260"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "images": [
+        {
+          "src": "assets/images/sweater-gant-01.webp",
+          "alt": "GANT · Cotton Cable Knit Half-Zip Sweater — Faded Taupe — photo 1",
+          "source": "https://gant.com/dw/image/v2/BFLN_PRD/on/demandware.static/-/Sites-gant-master/default/dw3924f925/PhotoStudio/time__1775838908__202602-8050603-260-model-fv-1.jpg"
+        },
+        {
+          "src": "assets/images/sweater-gant-02.webp",
+          "alt": "GANT · Cotton Cable Knit Half-Zip Sweater — Faded Taupe — photo 2",
+          "source": "https://gant.com/dw/image/v2/BFLN_PRD/on/demandware.static/-/Sites-gant-master/default/dw868838b4/PhotoStudio/time__1775838910__202602-8050603-260-look-fv-1.jpg"
+        },
+        {
+          "src": "assets/images/sweater-gant-03.webp",
+          "alt": "GANT · Cotton Cable Knit Half-Zip Sweater — Faded Taupe — photo 3",
+          "source": "https://gant.com/dw/image/v2/BFLN_PRD/on/demandware.static/-/Sites-gant-master/default/dw93ad22da/PhotoStudio/time__1775838910__202602-8050603-260-crmodel-fv-1.jpg"
+        },
+        {
+          "src": "assets/images/sweater-gant-04.webp",
+          "alt": "GANT · Cotton Cable Knit Half-Zip Sweater — Faded Taupe — photo 4",
+          "source": "https://gant.com/dw/image/v2/BFLN_PRD/on/demandware.static/-/Sites-gant-master/default/dwad1cf728/PhotoStudio/time__1775838909__202602-8050603-260-model-bv-1.jpg"
+        },
+        {
+          "src": "assets/images/sweater-gant-05.webp",
+          "alt": "GANT · Cotton Cable Knit Half-Zip Sweater — Faded Taupe — photo 5",
+          "source": "https://gant.com/dw/image/v2/BFLN_PRD/on/demandware.static/-/Sites-gant-master/default/dw063edca8/PhotoStudio/time__1775721013__202602-8050603-260-flat-fv-1.jpg"
+        }
+      ],
+      "image": "assets/images/sweater-gant-01.webp",
+      "imageAlt": "GANT · Cotton Cable Knit Half-Zip Sweater — Faded Taupe — photo 1"
+    },
+    {
+      "id": "sweater-tommy",
+      "name": "Tommy Hilfiger · Cotton Cable Knit Quarter-Zip",
+      "url": "https://www.macys.com/shop/product/tommy-hilfiger-mens-long-sleeve-cable-knit-quarter-zip-sweater?ID=19106429",
+      "store": "Macy’s",
+      "brand": "Tommy Hilfiger",
+      "color": "Desert Sky",
+      "category": "Cable zip-neck",
+      "verdict": "Cable zip-neck",
+      "summary": "",
+      "unitPriceUSD": 69.99,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Trims not fully specified.",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$69.99 USD; shipping/tax extra",
+        "Fit": "Men’s S",
+        "Status": "S in stock; exact offer SKU 197735357612USA",
+        "Match": "Cable/zip-neck match; dark navy and classic fit; chest logo."
+      },
+      "attribution": "First-party US page rendered HTTP 200. Exact color and S evidence reviewed. Cable/zip-neck match; dark navy and classic fit; chest logo.",
+      "imageNote": "Exposed exact-color still-image gallery; other colors and recommendations excluded.",
+      "sources": [
+        "sweater-tommy"
+      ],
+      "sourceLinks": [
+        "https://www.macys.com/shop/product/tommy-hilfiger-mens-long-sleeve-cable-knit-quarter-zip-sweater?ID=19106429"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "Limited-time special $69.99, was $129; selected-color offer verified.",
+      "images": [
+        {
+          "src": "assets/images/sweater-tommy-01.webp",
+          "alt": "Tommy Hilfiger · Cotton Cable Knit Quarter-Zip — Desert Sky — photo 1",
+          "source": "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/33291714_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-tommy-02.webp",
+          "alt": "Tommy Hilfiger · Cotton Cable Knit Quarter-Zip — Desert Sky — photo 2",
+          "source": "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/33291717_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-tommy-03.webp",
+          "alt": "Tommy Hilfiger · Cotton Cable Knit Quarter-Zip — Desert Sky — photo 3",
+          "source": "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/33291716_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-tommy-04.webp",
+          "alt": "Tommy Hilfiger · Cotton Cable Knit Quarter-Zip — Desert Sky — photo 4",
+          "source": "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/33291715_fpx.tif?wid=1400&fmt=jpeg"
+        }
+      ],
+      "image": "assets/images/sweater-tommy-01.webp",
+      "imageAlt": "Tommy Hilfiger · Cotton Cable Knit Quarter-Zip — Desert Sky — photo 1"
+    },
+    {
+      "id": "sweater-rl-cotton",
+      "name": "Polo Ralph Lauren · Mini-Cable Cotton Quarter-Zip",
+      "url": "https://www.macys.com/shop/product/polo-ralph-lauren-mens-cable-knit-mockneck-quarter-zip-sweater?ID=26234364",
+      "store": "Macy’s",
+      "brand": "Polo Ralph Lauren",
+      "color": "Hunter Navy",
+      "category": "Cable zip-neck",
+      "verdict": "Cable zip-neck",
+      "summary": "",
+      "unitPriceUSD": 198,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Suede zipper pull; remaining trims unspecified.",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$198.00 USD; shipping/tax extra",
+        "Fit": "Men’s S",
+        "Status": "S in stock; exact offer SKU 199542740151USA",
+        "Match": "Very fine mini-cables read almost ribbed; neater fit, navy instead of Mink."
+      },
+      "attribution": "First-party US page rendered HTTP 200. Exact color and S evidence reviewed. Smaller cable texture and regular fit; navy instead of Mink.",
+      "imageNote": "Exposed exact-color still-image gallery; other colors and recommendations excluded.",
+      "sources": [
+        "sweater-rl-cotton"
+      ],
+      "sourceLinks": [
+        "https://www.macys.com/shop/product/polo-ralph-lauren-mens-cable-knit-mockneck-quarter-zip-sweater?ID=26234364"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "images": [
+        {
+          "src": "assets/images/sweater-rl-cotton-01.webp",
+          "alt": "Polo Ralph Lauren · Mini-Cable Cotton Quarter-Zip — Hunter Navy — photo 1",
+          "source": "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/39087786_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-rl-cotton-02.webp",
+          "alt": "Polo Ralph Lauren · Mini-Cable Cotton Quarter-Zip — Hunter Navy — photo 2",
+          "source": "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/39087788_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-rl-cotton-03.webp",
+          "alt": "Polo Ralph Lauren · Mini-Cable Cotton Quarter-Zip — Hunter Navy — photo 3",
+          "source": "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/39087789_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-rl-cotton-04.webp",
+          "alt": "Polo Ralph Lauren · Mini-Cable Cotton Quarter-Zip — Hunter Navy — photo 4",
+          "source": "https://slimages.macysassets.com/is/image/MCY/products/0/optimized/39087790_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-rl-cotton-05.webp",
+          "alt": "Polo Ralph Lauren · Mini-Cable Cotton Quarter-Zip — Hunter Navy — photo 5",
+          "source": "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/39087791_fpx.tif?wid=1400&fmt=jpeg"
+        }
+      ],
+      "image": "assets/images/sweater-rl-cotton-01.webp",
+      "imageAlt": "Polo Ralph Lauren · Mini-Cable Cotton Quarter-Zip — Hunter Navy — photo 1"
+    },
+    {
+      "id": "sweater-hope",
+      "name": "Hope & Henry · Cable-Knit Mock-Neck Sweater",
+      "url": "https://www.macys.com/shop/product/hope-henry-mens-hope-henry-organic-mock-neck-cable-sweater?ID=28299586",
+      "store": "Macy’s",
+      "brand": "Hope & Henry",
+      "color": "Ivory twist cable",
+      "category": "Button-neck alternative",
+      "verdict": "Button-neck alternative",
+      "summary": "",
+      "unitPriceUSD": 69.95,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Faux-suede button placket; trim fiber percentages unspecified.",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$69.95 USD; shipping/tax extra",
+        "Fit": "Men’s S",
+        "Status": "S in stock; sold/shipped by Hope & Henry",
+        "Match": "Near-match: standing collar and cables, but buttons replace zipper; ivory."
+      },
+      "attribution": "First-party US page rendered HTTP 200. Exact color and S evidence reviewed. Near-match: standing collar and cables, but buttons replace zipper; ivory.",
+      "imageNote": "Exposed exact-color still-image gallery; other colors and recommendations excluded.",
+      "sources": [
+        "sweater-hope"
+      ],
+      "sourceLinks": [
+        "https://www.macys.com/shop/product/hope-henry-mens-hope-henry-organic-mock-neck-cable-sweater?ID=28299586"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "images": [
+        {
+          "src": "assets/images/sweater-hope-01.webp",
+          "alt": "Hope & Henry · Cable-Knit Mock-Neck Sweater — Ivory twist cable — photo 1",
+          "source": "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/38978566_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-hope-02.webp",
+          "alt": "Hope & Henry · Cable-Knit Mock-Neck Sweater — Ivory twist cable — photo 2",
+          "source": "https://slimages.macysassets.com/is/image/MCY/products/3/optimized/38978563_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-hope-03.webp",
+          "alt": "Hope & Henry · Cable-Knit Mock-Neck Sweater — Ivory twist cable — photo 3",
+          "source": "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/38978564_fpx.tif?wid=1400&fmt=jpeg"
+        }
+      ],
+      "image": "assets/images/sweater-hope-01.webp",
+      "imageAlt": "Hope & Henry · Cable-Knit Mock-Neck Sweater — Ivory twist cable — photo 1"
+    },
+    {
+      "id": "sweater-reiss",
+      "name": "REISS · Howard Cashmere Half Zip Cable Knit",
+      "url": "https://www.bloomingdales.com/shop/product/reiss-howard-cashmere-half-zip-cable-knit-sweater?ID=6106494",
+      "store": "Bloomingdale’s",
+      "brand": "REISS",
+      "color": "Parchment Grey",
+      "category": "Cable zip-neck",
+      "verdict": "Cable zip-neck",
+      "summary": "",
+      "unitPriceUSD": 355,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Trim: 90% cashmere / 9% nylon / 1% elastane. Main yarn qualifies; not wholly natural.",
+      "facts": {
+        "Fabric": "Shell: 100% cashmere",
+        "Price": "$355.00 USD; shipping/tax extra",
+        "Fit": "Men’s S",
+        "Status": "S in stock; low stock; SKU 5063458985218USA",
+        "Match": "Finer cable/rib-like texture and neater fit than reference; pale Parchment Grey."
+      },
+      "attribution": "First-party US page rendered HTTP 200. Exact color and S evidence reviewed. Close cable zip silhouette; paler grey, regular fit.",
+      "imageNote": "Exposed exact-color still-image gallery; other colors and recommendations excluded.",
+      "sources": [
+        "sweater-reiss"
+      ],
+      "sourceLinks": [
+        "https://www.bloomingdales.com/shop/product/reiss-howard-cashmere-half-zip-cable-knit-sweater?ID=6106494"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "images": [
+        {
+          "src": "assets/images/sweater-reiss-01.webp",
+          "alt": "REISS · Howard Cashmere Half Zip Cable Knit — Parchment Grey — photo 1",
+          "source": "https://images.bloomingdalesassets.com/is/image/BLM/products/3/optimized/16699073_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-reiss-02.webp",
+          "alt": "REISS · Howard Cashmere Half Zip Cable Knit — Parchment Grey — photo 2",
+          "source": "https://images.bloomingdalesassets.com/is/image/BLM/products/4/optimized/16699074_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-reiss-03.webp",
+          "alt": "REISS · Howard Cashmere Half Zip Cable Knit — Parchment Grey — photo 3",
+          "source": "https://images.bloomingdalesassets.com/is/image/BLM/products/5/optimized/16699075_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-reiss-04.webp",
+          "alt": "REISS · Howard Cashmere Half Zip Cable Knit — Parchment Grey — photo 4",
+          "source": "https://images.bloomingdalesassets.com/is/image/BLM/products/6/optimized/16699076_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-reiss-05.webp",
+          "alt": "REISS · Howard Cashmere Half Zip Cable Knit — Parchment Grey — photo 5",
+          "source": "https://images.bloomingdalesassets.com/is/image/BLM/products/7/optimized/16699077_fpx.tif?wid=1400&fmt=jpeg"
+        },
+        {
+          "src": "assets/images/sweater-reiss-06.webp",
+          "alt": "REISS · Howard Cashmere Half Zip Cable Knit — Parchment Grey — photo 6",
+          "source": "https://images.bloomingdalesassets.com/is/image/BLM/products/8/optimized/16699078_fpx.tif?wid=1400&fmt=jpeg"
+        }
+      ],
+      "image": "assets/images/sweater-reiss-01.webp",
+      "imageAlt": "REISS · Howard Cashmere Half Zip Cable Knit — Parchment Grey — photo 1"
+    },
+    {
+      "id": "sweater-pure",
+      "name": "Pure Collection · Cashmere Blend Half Zip Cable Sweater",
+      "url": "https://us.purecollection.com/mens/sweaters-and-jumpers/mens-cashmere-blend-half-zip-cable-sweater-beige-7103",
+      "store": "Pure Collection",
+      "brand": "Pure Collection",
+      "color": "Oatmeal",
+      "category": "Cable zip-neck",
+      "verdict": "Cable zip-neck",
+      "summary": "",
+      "unitPriceUSD": 270,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S dispatches by Nov 6; trims unspecified.",
+      "facts": {
+        "Fabric": "70% wool / 30% cashmere",
+        "Price": "$270.00 USD; shipping/tax extra",
+        "Fit": "Men’s S",
+        "Status": "S orderable; dispatching by November 6, 2026 (not immediate stock)",
+        "Match": "Fine rope cables/zip neck; oatmeal, more fitted than reference."
+      },
+      "attribution": "First-party US page rendered HTTP 200. Exact color and S evidence reviewed. Fine rope cables/zip neck; oatmeal, more fitted than reference.",
+      "imageNote": "Exposed exact-color still-image gallery; other colors and recommendations excluded.",
+      "sources": [
+        "sweater-pure"
+      ],
+      "sourceLinks": [
+        "https://us.purecollection.com/mens/sweaters-and-jumpers/mens-cashmere-blend-half-zip-cable-sweater-beige-7103"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "images": [
+        {
+          "src": "assets/images/sweater-pure-01.webp",
+          "alt": "Pure Collection · Cashmere Blend Half Zip Cable Sweater — Oatmeal — photo 1",
+          "source": "https://content.purecollection.com/img/b/413290_mk341_oatmeal_m_44.jpg"
+        },
+        {
+          "src": "assets/images/sweater-pure-02.webp",
+          "alt": "Pure Collection · Cashmere Blend Half Zip Cable Sweater — Oatmeal — photo 2",
+          "source": "https://content.purecollection.com/img/b/413290_mk341_oatmeal_m_59.jpg"
+        },
+        {
+          "src": "assets/images/sweater-pure-03.webp",
+          "alt": "Pure Collection · Cashmere Blend Half Zip Cable Sweater — Oatmeal — photo 3",
+          "source": "https://content.purecollection.com/img/b/413290_mk341_oatmeal_m_62.jpg"
+        }
+      ],
+      "image": "assets/images/sweater-pure-01.webp",
+      "imageAlt": "Pure Collection · Cashmere Blend Half Zip Cable Sweater — Oatmeal — photo 1"
+    },
+    {
+      "id": "sweater-woolovers",
+      "name": "WoolOvers · Pure Wool Aran Cable Zip Neck",
+      "url": "https://www.woolovers.us/mens/sweaters/mens-pure-wool-aran-cable-zip-neck-blue-5134",
+      "store": "WoolOvers",
+      "brand": "WoolOvers",
+      "color": "French Navy",
+      "category": "Cable zip-neck",
+      "verdict": "Cable zip-neck",
+      "summary": "",
+      "unitPriceUSD": 115,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Leather zipper detail; other trims unspecified.",
+      "facts": {
+        "Fabric": "100% pure wool",
+        "Price": "$115.00 USD; shipping/tax extra",
+        "Fit": "Men’s S",
+        "Status": "S selected; low stock",
+        "Match": "Cable/zip match; darker navy, denser traditional Aran pattern."
+      },
+      "attribution": "First-party US page rendered HTTP 200. Exact color and S evidence reviewed. Cable/zip match; darker navy, denser traditional Aran pattern.",
+      "imageNote": "Exposed exact-color still-image gallery; other colors and recommendations excluded.",
+      "sources": [
+        "sweater-woolovers"
+      ],
+      "sourceLinks": [
+        "https://www.woolovers.us/mens/sweaters/mens-pure-wool-aran-cable-zip-neck-blue-5134"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "images": [
+        {
+          "src": "assets/images/sweater-woolovers-01.webp",
+          "alt": "WoolOvers · Pure Wool Aran Cable Zip Neck — French Navy — photo 1",
+          "source": "https://content.woolovers.com/img/747x856/15807_f18m_frenchnavy_m_19.jpg"
+        },
+        {
+          "src": "assets/images/sweater-woolovers-02.webp",
+          "alt": "WoolOvers · Pure Wool Aran Cable Zip Neck — French Navy — photo 2",
+          "source": "https://content.woolovers.com/img/747x856/15807_f18m_frenchnavy_m_40.jpg"
+        },
+        {
+          "src": "assets/images/sweater-woolovers-03.webp",
+          "alt": "WoolOvers · Pure Wool Aran Cable Zip Neck — French Navy — photo 3",
+          "source": "https://content.woolovers.com/img/747x856/15807_f18m_frenchnavy_m_49.jpg"
+        }
+      ],
+      "image": "assets/images/sweater-woolovers-01.webp",
+      "imageAlt": "WoolOvers · Pure Wool Aran Cable Zip Neck — French Navy — photo 1"
+    },
+    {
+      "id": "sweater-npeal",
+      "name": "N.Peal · Albemarle Cable Half Zip Cashmere Sweater",
+      "url": "https://us.npeal.com/products/mens-albemarle-cable-half-zip-cashmere-jumper-bark-brown-melange?variant=56463165653158",
+      "store": "N.Peal",
+      "brand": "N.Peal",
+      "color": "Bark Brown Melange",
+      "category": "Cable zip-neck",
+      "verdict": "Cable zip-neck",
+      "summary": "",
+      "unitPriceUSD": 550,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Trims not fully specified.",
+      "facts": {
+        "Fabric": "100% cashmere; 2-ply",
+        "Price": "$550.00 USD; shipping/tax extra",
+        "Fit": "Men’s S",
+        "Status": "S in stock; variant 56463165653158",
+        "Match": "Close warm brown and rope cables; contrast trims and more classic fit."
+      },
+      "attribution": "First-party US page rendered HTTP 200. Exact color and S evidence reviewed. Close warm brown and rope cables; contrast trims and more classic fit.",
+      "imageNote": "Exposed exact-color still-image gallery; other colors and recommendations excluded.",
+      "sources": [
+        "sweater-npeal"
+      ],
+      "sourceLinks": [
+        "https://us.npeal.com/products/mens-albemarle-cable-half-zip-cashmere-jumper-bark-brown-melange"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "images": [
+        {
+          "src": "assets/images/sweater-npeal-01.webp",
+          "alt": "N.Peal · Albemarle Cable Half Zip Cashmere Sweater — Bark Brown Melange — photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0525/6714/6662/files/AW26_NPG000414Y_BKM_1.jpg?v=1787574442"
+        },
+        {
+          "src": "assets/images/sweater-npeal-02.webp",
+          "alt": "N.Peal · Albemarle Cable Half Zip Cashmere Sweater — Bark Brown Melange — photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0525/6714/6662/files/AW26_NPG000414Y_BKM_2.jpg?v=1787574442"
+        },
+        {
+          "src": "assets/images/sweater-npeal-03.webp",
+          "alt": "N.Peal · Albemarle Cable Half Zip Cashmere Sweater — Bark Brown Melange — photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0525/6714/6662/files/AW26_NPG000414Y_BKM_3.jpg?v=1787574442"
+        },
+        {
+          "src": "assets/images/sweater-npeal-04.webp",
+          "alt": "N.Peal · Albemarle Cable Half Zip Cashmere Sweater — Bark Brown Melange — photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0525/6714/6662/files/AW26_NPG000414Y_BKM_4.jpg?v=1787574442"
+        },
+        {
+          "src": "assets/images/sweater-npeal-05.webp",
+          "alt": "N.Peal · Albemarle Cable Half Zip Cashmere Sweater — Bark Brown Melange — photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0525/6714/6662/files/AW26_NPG000414Y_BKM_5.jpg?v=1787574442"
+        },
+        {
+          "src": "assets/images/sweater-npeal-06.webp",
+          "alt": "N.Peal · Albemarle Cable Half Zip Cashmere Sweater — Bark Brown Melange — photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0525/6714/6662/files/AW26_NPG000414Y_BKM_6.jpg?v=1787574442"
+        }
+      ],
+      "image": "assets/images/sweater-npeal-01.webp",
+      "imageAlt": "N.Peal · Albemarle Cable Half Zip Cashmere Sweater — Bark Brown Melange — photo 1"
+    },
+    {
+      "id": "sweater-aran",
+      "name": "Aran Sweater Market · Super Soft Half Zip Aran Sweater",
+      "url": "https://www.aran.com/mens-super-soft-half-zip-aran-sweater",
+      "store": "Aran Sweater Market",
+      "brand": "Aran Sweater Market",
+      "color": "Charcoal",
+      "category": "Cable zip-neck",
+      "verdict": "Cable zip-neck",
+      "summary": "",
+      "unitPriceUSD": 179,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Leather-look zipper pull; trim fibers unspecified.",
+      "facts": {
+        "Fabric": "100% super-soft merino wool",
+        "Price": "$179.00 USD; shipping/tax extra",
+        "Fit": "Men’s S",
+        "Status": "S / Charcoal selected; available",
+        "Match": "Zip neck and wool; busier traditional Aran stitches, charcoal rather than taupe."
+      },
+      "attribution": "First-party US page rendered HTTP 200. Exact color and S evidence reviewed. Zip neck and wool; busier traditional Aran stitches, charcoal rather than taupe.",
+      "imageNote": "Exposed exact-color still-image gallery; other colors and recommendations excluded.",
+      "sources": [
+        "sweater-aran"
+      ],
+      "sourceLinks": [
+        "https://www.aran.com/mens-super-soft-half-zip-aran-sweater"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "images": [
+        {
+          "src": "assets/images/sweater-aran-01.webp",
+          "alt": "Aran Sweater Market · Super Soft Half Zip Aran Sweater — Charcoal — photo 1",
+          "source": "https://cdn11.bigcommerce.com/s-scgdirr/images/stencil/685x900/attribute_rule_images/488509578_source_1785953675.jpg"
+        },
+        {
+          "src": "assets/images/sweater-aran-02.webp",
+          "alt": "Aran Sweater Market · Super Soft Half Zip Aran Sweater — Charcoal — photo 2",
+          "source": "https://cdn11.bigcommerce.com/s-scgdirr/images/stencil/560x736/products/20980/81150/X4921-Charcoal__67806.1561025272.1280.1280__34299.1791836460.jpg?c=2"
+        }
+      ],
+      "image": "assets/images/sweater-aran-01.webp",
+      "imageAlt": "Aran Sweater Market · Super Soft Half Zip Aran Sweater — Charcoal — photo 1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "sweater-reference",
+      "title": "Massimo Dutti · 100% Wool Cable-Knit Sweater — Mink",
+      "url": "https://www.massimodutti.com/us/100-wool-cableknit-sweater-l01416222?pelement=63726144",
+      "type": "First-party product listing",
+      "note": "S available; Reference: Mink; relaxed cable-knit zip mock neck."
+    },
+    {
+      "id": "sweater-br",
+      "title": "Banana Republic · Cotton Cable-Knit Half-Zip Sweater — Acorn Brown",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=9067420020001&vid=1",
+      "type": "First-party product listing",
+      "note": "S / Regular in stock; Closest relaxed/drop-shoulder cut; warm brown, heavier cotton rather than wool."
+    },
+    {
+      "id": "sweater-rl-wool",
+      "title": "Polo Ralph Lauren · Wool-Cashmere Cable-Knit Quarter-Zip — Andover Cream",
+      "url": "https://www.ralphlauren.com/men-clothing-sweaters/cable-knit-quarter-zip-sweater/0045907375.html",
+      "type": "First-party product listing",
+      "note": "S selected; available for shipping; Madison Ave pickup out of stock; Cable/zip-neck match; cream, more classic fit and embroidered pony."
+    },
+    {
+      "id": "sweater-gant",
+      "title": "GANT · Cotton Cable Knit Half-Zip Sweater — Faded Taupe",
+      "url": "https://gant.com/p/cotton-cable-knit-half-zip-sweater-faded-taupe/8050603-260?size=S&pid=7325708841094",
+      "type": "First-party product listing",
+      "note": "S selected; only a few left; Close warm taupe and rope cables; regular fit with chest shield logo."
+    },
+    {
+      "id": "sweater-tommy",
+      "title": "Tommy Hilfiger · Cotton Cable Knit Quarter-Zip — Desert Sky",
+      "url": "https://www.macys.com/shop/product/tommy-hilfiger-mens-long-sleeve-cable-knit-quarter-zip-sweater?ID=19106429",
+      "type": "First-party product listing",
+      "note": "S in stock; exact offer SKU 197735357612USA; Cable/zip-neck match; dark navy and classic fit; chest logo."
+    },
+    {
+      "id": "sweater-rl-cotton",
+      "title": "Polo Ralph Lauren · Mini-Cable Cotton Quarter-Zip — Hunter Navy",
+      "url": "https://www.macys.com/shop/product/polo-ralph-lauren-mens-cable-knit-mockneck-quarter-zip-sweater?ID=26234364",
+      "type": "First-party product listing",
+      "note": "S in stock; exact offer SKU 199542740151USA; Smaller cable texture and regular fit; navy instead of Mink."
+    },
+    {
+      "id": "sweater-hope",
+      "title": "Hope & Henry · Cable-Knit Mock-Neck Sweater — Ivory twist cable",
+      "url": "https://www.macys.com/shop/product/hope-henry-mens-hope-henry-organic-mock-neck-cable-sweater?ID=28299586",
+      "type": "First-party product listing",
+      "note": "S in stock; sold/shipped by Hope & Henry; Near-match: standing collar and cables, but buttons replace zipper; ivory."
+    },
+    {
+      "id": "sweater-reiss",
+      "title": "REISS · Howard Cashmere Half Zip Cable Knit — Parchment Grey",
+      "url": "https://www.bloomingdales.com/shop/product/reiss-howard-cashmere-half-zip-cable-knit-sweater?ID=6106494",
+      "type": "First-party product listing",
+      "note": "S in stock; low stock; SKU 5063458985218USA; Close cable zip silhouette; paler grey, regular fit."
+    },
+    {
+      "id": "sweater-pure",
+      "title": "Pure Collection · Cashmere Blend Half Zip Cable Sweater — Oatmeal",
+      "url": "https://us.purecollection.com/mens/sweaters-and-jumpers/mens-cashmere-blend-half-zip-cable-sweater-beige-7103",
+      "type": "First-party product listing",
+      "note": "S orderable; dispatching by November 6, 2026 (not immediate stock); Fine rope cables/zip neck; oatmeal, more fitted than reference."
+    },
+    {
+      "id": "sweater-woolovers",
+      "title": "WoolOvers · Pure Wool Aran Cable Zip Neck — French Navy",
+      "url": "https://www.woolovers.us/mens/sweaters/mens-pure-wool-aran-cable-zip-neck-blue-5134",
+      "type": "First-party product listing",
+      "note": "S selected; low stock; Cable/zip match; darker navy, denser traditional Aran pattern."
+    },
+    {
+      "id": "sweater-npeal",
+      "title": "N.Peal · Albemarle Cable Half Zip Cashmere Sweater — Bark Brown Melange",
+      "url": "https://us.npeal.com/products/mens-albemarle-cable-half-zip-cashmere-jumper-bark-brown-melange?variant=56463165653158",
+      "type": "First-party product listing",
+      "note": "S in stock; variant 56463165653158; Close warm brown and rope cables; contrast trims and more classic fit."
+    },
+    {
+      "id": "sweater-aran",
+      "title": "Aran Sweater Market · Super Soft Half Zip Aran Sweater — Charcoal",
+      "url": "https://www.aran.com/mens-super-soft-half-zip-aran-sweater",
+      "type": "First-party product listing",
+      "note": "S / Charcoal selected; available; Zip neck and wool; busier traditional Aran stitches, charcoal rather than taupe."
+    }
+  ],
+  "evidenceNote": "Reference: Massimo Dutti Mink cable-knit zip mock-neck. Twelve distinct styles including the reference; no extra colorways counted. Exact S evidence and gallery scope recorded per item.",
+  "caveat": "Most alternatives have a more classic fit. Hope & Henry uses buttons, not a zip. Pure Collection S dispatches by November 6. REISS has synthetic trim; other unspecified trims are not claimed natural. Prices exclude shipping/tax unless retailer specifies otherwise."
+}

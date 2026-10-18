@@ -73,8 +73,10 @@ body.research.clothing-catalog {--ink:#162438;--muted:#536071;--dim:#536071;--ac
 .clothing-catalog .topbar {padding:8px 0;border-bottom:1px solid var(--line);}
 .clothing-catalog .brand {font:400 20px/1.2 Georgia,serif;letter-spacing:0;text-transform:none;}
 .clothing-catalog .secondary-button {font:400 13px/1.4 Arial,sans-serif;border-radius:0;background:#fff;color:var(--ink);}
-.research.clothing-catalog .natural-basics .intro {padding:20px 0 12px;}
-.research.clothing-catalog .natural-basics .intro h1 {font:400 22px/1.2 Georgia,serif;letter-spacing:0;}
+.research.clothing-catalog .natural-basics .intro {padding:32px 0 24px;}
+/* A&F supplied reference: headline data-size=40; screenshot hierarchy approximated
+   in local Georgia at 48px desktop, scaling to 34px on narrow phones. */
+.research.clothing-catalog .natural-basics .intro h1 {font:400 clamp(34px,4.5vw,48px)/1.15 Georgia,serif;letter-spacing:0;overflow-wrap:break-word;}
 .clothing-catalog .intro p {font-size:13px;line-height:1.5;color:var(--muted);margin:8px 0 0;width:auto;}
 .clothing-catalog .research-recommendation {display:none;}
 .clothing-catalog .catalog-categories {display:flex;align-items:center;gap:24px;border-bottom:1px solid var(--line);margin-bottom:16px;flex-wrap:wrap;}
@@ -87,7 +89,16 @@ body.research.clothing-catalog {--ink:#162438;--muted:#536071;--dim:#536071;--ac
 .research.clothing-catalog .natural-basics .research-sort button {border-radius:0;font-size:13px;}
 .research.clothing-catalog .natural-basics .research-sort button[aria-pressed=true] {color:var(--ink);background:#f3f4f5;border-color:var(--ink);}
 .research.clothing-catalog .natural-basics .display-template {gap:32px 16px;align-items:start;}
-.clothing-catalog .display-card {border:0;border-radius:0;background:white;box-shadow:none;}
+.clothing-catalog .display-card {border:0;border-radius:0;background:white;box-shadow:none;position:relative;}
+.clothing-catalog .reorder-handle {position:absolute;z-index:2;right:6px;top:6px;width:44px;height:44px;border:0;border-radius:50%;background:rgba(255,255,255,.88);color:var(--ink);font:24px/1 Arial,sans-serif;cursor:grab;touch-action:none;user-select:none;}
+.clothing-catalog .reorder-handle:hover,.clothing-catalog .reorder-handle:focus-visible {background:#fff;outline:2px solid var(--ink);outline-offset:1px;}
+.clothing-catalog .order-ghost {opacity:.25;outline:2px dashed var(--ink);}
+.clothing-catalog .order-chosen {outline:2px solid var(--ink);}
+.clothing-catalog .order-drag {opacity:.92;box-shadow:0 12px 28px #16243830;}
+.clothing-catalog.catalog-dragging .reorder-handle {cursor:grabbing;}
+.research.clothing-catalog .natural-basics .research-sort {flex-wrap:wrap;max-width:100%;gap:6px;}
+.clothing-catalog .order-reset {color:var(--muted);}
+@media(prefers-reduced-motion:reduce){.clothing-catalog .display-card {transition:none!important;}}
 .clothing-catalog [hidden] {display:none!important;}
 .research.clothing-catalog .portrait-wrap {aspect-ratio:8/9;background:#f5f5f3;}
 .research.clothing-catalog .portrait {object-fit:contain;}
@@ -107,4 +118,3 @@ body.research.clothing-catalog {--ink:#162438;--muted:#536071;--dim:#536071;--ac
 .clothing-catalog button:focus-visible,.clothing-catalog input:focus-visible {outline:2px solid var(--ink);outline-offset:3px;}
 .clothing-catalog::before,.clothing-catalog::after {display:none;}
 @media(max-width:600px){.clothing-catalog .shell {padding:0 16px 32px;}.clothing-catalog .catalog-categories {gap:18px;}.clothing-catalog #catalog-count {width:100%;margin:0 0 8px;}.clothing-catalog .research-search {width:100%;}}
-

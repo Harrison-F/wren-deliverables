@@ -3,7 +3,7 @@
   "layout": "natural-basics",
   "catalog": true,
   "title": "Harrison clothes contenders",
-  "summary": "16 distinct user-selected products: 13 original URLs plus three explicit additions. Original duplicate sweater link represented once. All contenders retained regardless of composition or stock.",
+  "summary": "14 user-selected products; two screenshot-selected Abercrombie items removed from this collection only.",
   "updated": "2026-10-17",
   "recommendation": {},
   "products": [
@@ -48,103 +48,6 @@
       ],
       "sourceLinks": [
         "https://www.abercrombie.com/shop/us/p/denim-button-up-shirt-63405327?categoryId=87658&faceout=life&seq=01&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=3"
-      ],
-      "verification": {
-        "price": true,
-        "composition": true,
-        "stock": true,
-        "gallery": true,
-        "checked": "2026-10-17"
-      },
-      "deal": "$50 Off $150+ or $25 Off $100 In App; US/CA app only, Oct 16–19, 2026; exclusions apply."
-    },
-    {
-      "id": "contender-03",
-      "name": "Abercrombie · 100% Merino Wool 3-Button Collared Sweater",
-      "url": "https://www.abercrombie.com/shop/us/p/100-merino-wool-3-button-collared-sweater-63845824?categoryId=87658&faceout=model&seq=03&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=17",
-      "category": "Sweater",
-      "brand": "Abercrombie & Fitch",
-      "store": "Abercrombie & Fitch",
-      "color": "Brown",
-      "verdict": "Sweater",
-      "summary": "",
-      "unitPriceUSD": 95,
-      "naturalPercent": 100,
-      "integrityRank": 100,
-      "image": "assets/images/contender-03-01.webp",
-      "imageAlt": "100% Merino Wool 3-Button Collared Sweater — Brown — retailer gallery 1",
-      "imageNote": "Complete exposed selected-color orderedImages gallery; no other colors or recommendations. 2 images exposed.",
-      "images": [
-        {
-          "src": "assets/images/contender-03-01.webp",
-          "alt": "100% Merino Wool 3-Button Collared Sweater — Brown — retailer gallery 1",
-          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6276-00816-400_prod1?policy=product-extra-large"
-        },
-        {
-          "src": "assets/images/contender-03-02.webp",
-          "alt": "100% Merino Wool 3-Button Collared Sweater — Brown — retailer gallery 2",
-          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6276-00816-400_prod2?policy=product-extra-large"
-        }
-      ],
-      "materialCaveat": "Main fabric verified; trims unspecified.",
-      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Brown; product ID 63757857. Details & Material expanded; S and Regular selected. Embedded exact variant 669031642: Available, quantity 87. Complete orderedImages gallery extracted for selected product only.",
-      "facts": {
-        "Fabric": "BODY: 100% MERINO WOOL",
-        "Price": "$95.00 USD; shipping/tax extra",
-        "Fit": "S / Regular requested",
-        "Status": "S / Regular available"
-      },
-      "sources": [
-        "contender-03"
-      ],
-      "sourceLinks": [
-        "https://www.abercrombie.com/shop/us/p/100-merino-wool-3-button-collared-sweater-63845824?categoryId=87658&faceout=model&seq=03&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=17"
-      ],
-      "verification": {
-        "price": true,
-        "composition": true,
-        "stock": true,
-        "gallery": true,
-        "checked": "2026-10-17"
-      },
-      "deal": "$50 Off $150+ or $25 Off $100 In App; US/CA app only, Oct 16–19, 2026; exclusions apply."
-    },
-    {
-      "id": "contender-04",
-      "name": "Abercrombie · 100% Cotton Corduroy Overshirt",
-      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?categoryId=12221&faceout=model&seq=03&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=17",
-      "category": "Jacket",
-      "brand": "Abercrombie & Fitch",
-      "store": "Abercrombie & Fitch",
-      "color": "Brown",
-      "verdict": "Jacket",
-      "summary": "",
-      "unitPriceUSD": 85,
-      "naturalPercent": 100,
-      "integrityRank": 100,
-      "image": "assets/images/contender-04-01.webp",
-      "imageAlt": "100% Cotton Corduroy Overshirt — Brown — retailer gallery 1",
-      "imageNote": "Complete exposed selected-color orderedImages gallery; no other colors or recommendations. 1 images exposed.",
-      "images": [
-        {
-          "src": "assets/images/contender-04-01.webp",
-          "alt": "100% Cotton Corduroy Overshirt — Brown — retailer gallery 1",
-          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6554-00492-400_prod1?policy=product-extra-large"
-        }
-      ],
-      "materialCaveat": "Main fabric verified; trims unspecified.",
-      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Brown; product ID 63766593. Details & Material expanded; S and Regular selected. Embedded exact variant 669658226: Available, quantity 78. Complete orderedImages gallery extracted for selected product only.",
-      "facts": {
-        "Fabric": "BODY: 100% COTTON",
-        "Price": "$85.00 USD; shipping/tax extra",
-        "Fit": "S / Regular requested",
-        "Status": "S / Regular available"
-      },
-      "sources": [
-        "contender-04"
-      ],
-      "sourceLinks": [
-        "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?categoryId=12221&faceout=model&seq=03&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=17"
       ],
       "verification": {
         "price": true,
@@ -1087,20 +990,6 @@
       "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Cream; product ID 63144867. Details & Material expanded; S and Regular selected. Embedded exact variant 670559727: Available, quantity 371. Complete orderedImages gallery extracted for selected product only."
     },
     {
-      "id": "contender-03",
-      "url": "https://www.abercrombie.com/shop/us/p/100-merino-wool-3-button-collared-sweater-63845824?categoryId=87658&faceout=model&seq=03&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=17",
-      "title": "100% Merino Wool 3-Button Collared Sweater — supplied listing",
-      "type": "First-party live US product",
-      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Brown; product ID 63757857. Details & Material expanded; S and Regular selected. Embedded exact variant 669031642: Available, quantity 87. Complete orderedImages gallery extracted for selected product only."
-    },
-    {
-      "id": "contender-04",
-      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?categoryId=12221&faceout=model&seq=03&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=17",
-      "title": "100% Cotton Corduroy Overshirt — supplied listing",
-      "type": "First-party live US product",
-      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave. Selected color Brown; product ID 63766593. Details & Material expanded; S and Regular selected. Embedded exact variant 669658226: Available, quantity 78. Complete orderedImages gallery extracted for selected product only."
-    },
-    {
       "id": "contender-05",
       "url": "https://www.abercrombie.com/shop/us/p/100-cotton-textural-rollneck-crew-sweater-63392331?faceout=model&seq=04&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=11",
       "title": "100% Cotton Waffle Roll Neck Crew Sweater — supplied listing",
@@ -1192,14 +1081,18 @@
       "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Supplied pelement=63150462 retained; explicit colorId=800 selects Black catentry 63150463, rather than the pelement default color. User-selected jogger retained; outside tailored-pants preference. Exact 30 × 32 not verified."
     }
   ],
-  "evidenceNote": "All 16 user-selected products retained with exact supplied URLs, verified main fabric and selected-color galleries. Merchant order is the default for this collection; optional price sorting remains available.",
+  "evidenceNote": "14 retained contenders with exact supplied URLs and selected-color galleries. Merchant order remains the default; optional price sorting available.",
   "caveat": "Previously blocked listings recovered: Abercrombie and Massimo Dutti on dedicated Mac Brave, COS US on dedicated Linux Brave. Ryker S/Black sold out; COS S/15 has two left while S/14½ is sold out. Selected pants retain color/style and exact-30 × 32 caveats. No human browser action needed.",
   "sourceCoverage": {
     "linkOccurrences": 17,
     "distinctURLs": 16,
-    "products": 16,
+    "products": 14,
     "originalExcalidrawOccurrences": 14,
-    "chatAdditions": 3
+    "chatAdditions": 3,
+    "removedProductIds": [
+      "contender-03",
+      "contender-04"
+    ]
   },
   "defaultSort": "merchant",
   "merchantOrder": [
