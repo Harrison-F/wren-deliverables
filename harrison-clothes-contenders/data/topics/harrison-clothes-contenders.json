@@ -1432,69 +1432,74 @@
     {
       "id": "contender-25",
       "name": "H&M · Relaxed-Fit Cotton Chinos",
-      "url": "https://www.nordstrom.com/s/h-and-m-relaxed-fit-cotton-chinos/9227995?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444H9YF3",
+      "url": "https://www.nordstrom.com/s/h-and-m-relaxed-fit-cotton-chinos/9227995?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444G23VY",
       "category": "Pants",
       "brand": "H&M",
       "store": "Nordstrom",
-      "color": "Dark brown",
+      "color": "Black",
       "verdict": "Pants",
       "summary": "",
       "unitPriceUSD": 39.99,
       "naturalPercent": 100,
       "integrityRank": 100,
-      "image": "assets/images/contender-25-01.webp",
-      "imageAlt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 1",
+      "image": "assets/images/contender-25-black-01.webp",
+      "imageAlt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 1",
       "imageNote": "Complete exposed selected-color gallery in retailer order; swatch and unrelated recommendations excluded.",
       "images": [
         {
-          "src": "assets/images/contender-25-01.webp",
-          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 1",
-          "source": "https://n.nordstrommedia.com/it/c97d3103-125f-4772-8582-afd1224fec90.jpeg"
+          "src": "assets/images/contender-25-black-01.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 1",
+          "source": "https://n.nordstrommedia.com/it/75ba3045-8cd2-4eef-be19-7dd1a139d4c9.jpeg"
         },
         {
-          "src": "assets/images/contender-25-02.webp",
-          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 2",
-          "source": "https://n.nordstrommedia.com/it/20eebb64-ab65-486c-a88e-1afac0812627.jpeg"
+          "src": "assets/images/contender-25-black-02.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 2",
+          "source": "https://n.nordstrommedia.com/it/9c5a75cb-49b5-4bd2-b34d-5ccd71ba62da.jpeg"
         },
         {
-          "src": "assets/images/contender-25-03.webp",
-          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 3",
-          "source": "https://n.nordstrommedia.com/it/d7b73728-5b50-4134-99f4-e9844fef5e46.jpeg"
+          "src": "assets/images/contender-25-black-03.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 3",
+          "source": "https://n.nordstrommedia.com/it/630d173d-12c2-4707-92b0-b6155cbf671a.jpeg"
         },
         {
-          "src": "assets/images/contender-25-04.webp",
-          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 4",
-          "source": "https://n.nordstrommedia.com/it/413121f4-337c-4f10-b06c-09e2a8efb2f1.jpeg"
+          "src": "assets/images/contender-25-black-04.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 4",
+          "source": "https://n.nordstrommedia.com/it/ad46d2e5-1d88-4e38-8f11-f6970b4c1246.jpeg"
         },
         {
-          "src": "assets/images/contender-25-05.webp",
-          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 5",
-          "source": "https://n.nordstrommedia.com/it/98aaf916-70ee-40ca-bb88-323d3a289adb.jpeg"
+          "src": "assets/images/contender-25-black-05.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 5",
+          "source": "https://n.nordstrommedia.com/it/dd2c0e50-c8c7-46ed-b7ec-b32836e49c98.jpeg"
         },
         {
-          "src": "assets/images/contender-25-06.webp",
-          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 6",
-          "source": "https://n.nordstrommedia.com/it/3eb82fdb-458f-4ca7-8186-d9a4221130b7.jpeg"
+          "src": "assets/images/contender-25-black-06.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 6",
+          "source": "https://n.nordstrommedia.com/it/65aeb3c4-fc8b-48a6-af5a-fe89711babdf.jpeg"
         },
         {
-          "src": "assets/images/contender-25-07.webp",
-          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 7",
-          "source": "https://n.nordstrommedia.com/it/8f6d4a94-13d0-4980-bbb9-d47a134565c6.jpeg"
+          "src": "assets/images/contender-25-black-07.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 7",
+          "source": "https://n.nordstrommedia.com/it/39572496-9ebd-4ce2-aed5-304ffc92cfb5.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-black-08.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Black — retailer gallery 8",
+          "source": "https://n.nordstrommedia.com/it/fe08f071-901f-4a24-b7b3-fdc112b5d01f.jpeg"
         }
       ],
-      "materialCaveat": "Dark Brown selected, not gray/black. Sewing-thread and trim fibers not disclosed.",
-      "attribution": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; selected coreChoiceId and visible color match. USD price, full published composition, SKU stock and visible size menu checked. All selected-color orderedShots still images retained; swatch/recommendations excluded. No 32-inch inseam measurement is published in the captured product details.",
+      "materialCaveat": "Sewing-thread and trim fibers not disclosed.",
+      "attribution": "Black swatch coreChoiceId discovered on the live Nordstrom listing, then exact black URL verified HTTP 200 in registered dedicated Mac Brave. Black W30 × Regular selected in the live size menu; USD price, 100% cotton composition and exact SKU shipping stock checked. Complete eight-image Black orderedShots gallery retained; swatch/recommendations excluded. No 32-inch inseam measurement is published in the captured product details.",
       "facts": {
         "Fabric": "Main fabric: 100% cotton",
         "Price": "$39.99 USD; shipping/tax not calculated",
         "Fit": "W30 × Regular available; Regular is not a verified 32-inch inseam.",
-        "Status": "W30 × Regular available (45 shipping stock); sold/shipped by H&M."
+        "Status": "Black W30 × Regular available (87 shipping stock); sold/shipped by H&M."
       },
       "sources": [
         "contender-25"
       ],
       "sourceLinks": [
-        "https://www.nordstrom.com/s/h-and-m-relaxed-fit-cotton-chinos/9227995?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444H9YF3"
+        "https://www.nordstrom.com/s/h-and-m-relaxed-fit-cotton-chinos/9227995?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444G23VY"
       ],
       "verification": {
         "price": true,
@@ -2695,10 +2700,10 @@
     },
     {
       "id": "contender-25",
-      "url": "https://www.nordstrom.com/s/h-and-m-relaxed-fit-cotton-chinos/9227995?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444H9YF3",
-      "title": "Relaxed-Fit Cotton Chinos — exact supplied Nordstrom listing",
+      "url": "https://www.nordstrom.com/s/h-and-m-relaxed-fit-cotton-chinos/9227995?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444G23VY",
+      "title": "Relaxed-Fit Cotton Chinos — verified Black Nordstrom listing",
       "type": "First-party live US retailer product",
-      "note": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; selected coreChoiceId and visible color match. USD price, full published composition, SKU stock and visible size menu checked. All selected-color orderedShots still images retained; swatch/recommendations excluded. No 32-inch inseam measurement is published in the captured product details."
+      "note": "Black swatch coreChoiceId discovered on the live Nordstrom listing, then exact black URL verified HTTP 200 in registered dedicated Mac Brave. Black W30 × Regular selected in the live size menu; USD price, 100% cotton composition and exact SKU shipping stock checked. Complete eight-image Black orderedShots gallery retained; swatch/recommendations excluded. No 32-inch inseam measurement is published in the captured product details."
     },
     {
       "id": "contender-26",
