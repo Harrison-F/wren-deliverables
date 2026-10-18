@@ -1503,6 +1503,746 @@
         "gallery": true,
         "checked": "2026-10-18"
       }
+    },
+    {
+      "id": "contender-26",
+      "name": "Mavi Jeans · Regular Fit Linen Button-Up Shirt",
+      "url": "https://www.nordstrom.com/s/regular-fit-linen-button-up-shirt/9031022?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GJHPW",
+      "category": "Shirt",
+      "brand": "Mavi Jeans",
+      "store": "Nordstrom",
+      "color": "BLACK IRIS",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 54.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-26-01.webp",
+      "imageAlt": "Mavi Jeans Regular Fit Linen Button-Up Shirt — BLACK IRIS — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-26-01.webp",
+          "alt": "Mavi Jeans Regular Fit Linen Button-Up Shirt — BLACK IRIS — photo 1",
+          "source": "https://n.nordstrommedia.com/it/cb134585-fc17-42df-9b3e-8e2010f404e4.jpeg"
+        },
+        {
+          "src": "assets/images/contender-26-02.webp",
+          "alt": "Mavi Jeans Regular Fit Linen Button-Up Shirt — BLACK IRIS — photo 2",
+          "source": "https://n.nordstrommedia.com/it/d7a67621-f8cd-4b35-a8ca-7bf41328a540.jpeg"
+        },
+        {
+          "src": "assets/images/contender-26-03.webp",
+          "alt": "Mavi Jeans Regular Fit Linen Button-Up Shirt — BLACK IRIS — photo 3",
+          "source": "https://n.nordstrommedia.com/it/4ab8ddc7-67ac-40c4-b59d-ec2fa2de0d73.jpeg"
+        },
+        {
+          "src": "assets/images/contender-26-04.webp",
+          "alt": "Mavi Jeans Regular Fit Linen Button-Up Shirt — BLACK IRIS — photo 4",
+          "source": "https://n.nordstrommedia.com/it/5a40e791-9ecb-479a-bb5c-2e6a63a54b72.jpeg"
+        }
+      ],
+      "materialCaveat": "Composition conflict: linen title, but specifications say cotton. Size S sold out; retained as selected. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% cotton (retailer specifications; conflicts with linen title/description)",
+        "Price": "$54.00 USD; shipping/tax not calculated",
+        "Fit": "Regular fit; long sleeves; selected color BLACK IRIS.",
+        "Status": "S sold out (0 shipping stock at check)."
+      },
+      "sources": [
+        "contender-26"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/regular-fit-linen-button-up-shirt/9031022?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GJHPW"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "Listed $54.00; regular $108.00."
+    },
+    {
+      "id": "contender-27",
+      "name": "LEISURE LAB · Cotton Lounge Crewneck",
+      "url": "https://www.nordstrom.com/s/cotton-lounge-crewneck/8242946?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=4444457DWS",
+      "category": "Sweatshirt",
+      "brand": "LEISURE LAB",
+      "store": "Nordstrom",
+      "color": "Quartz",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 85.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-27-01.webp",
+      "imageAlt": "LEISURE LAB Cotton Lounge Crewneck — Quartz — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-27-01.webp",
+          "alt": "LEISURE LAB Cotton Lounge Crewneck — Quartz — photo 1",
+          "source": "https://n.nordstrommedia.com/it/2fdb7041-36e9-4590-8de6-971e91b803e4.jpeg"
+        },
+        {
+          "src": "assets/images/contender-27-02.webp",
+          "alt": "LEISURE LAB Cotton Lounge Crewneck — Quartz — photo 2",
+          "source": "https://n.nordstrommedia.com/it/d74f89c8-94c8-4a5e-86d5-3e3064b0baa9.jpeg"
+        },
+        {
+          "src": "assets/images/contender-27-03.webp",
+          "alt": "LEISURE LAB Cotton Lounge Crewneck — Quartz — photo 3",
+          "source": "https://n.nordstrommedia.com/it/4f18409e-05bd-4cf0-a287-bcef0f38e45d.jpeg"
+        },
+        {
+          "src": "assets/images/contender-27-04.webp",
+          "alt": "LEISURE LAB Cotton Lounge Crewneck — Quartz — photo 4",
+          "source": "https://n.nordstrommedia.com/it/f8ff24e0-4391-475c-ad64-959dbabc3bbf.jpeg"
+        }
+      ],
+      "materialCaveat": "Oversized lounge crewneck, not a button-up shirt. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$85.00 USD; shipping/tax not calculated",
+        "Fit": "Oversized long-sleeve lounge crewneck; brand size 1 = S; selected color Quartz.",
+        "Status": "S available (2 shipping stock at check). Sold/shipped by Leisure Lab."
+      },
+      "sources": [
+        "contender-27"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/cotton-lounge-crewneck/8242946?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=4444457DWS"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-28",
+      "name": "Charles Tyrwhitt · Slim Fit Pure Linen Shirt",
+      "url": "https://www.nordstrom.com/s/slim-fit-pure-linen-shirt/8166383?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444444DUMM",
+      "category": "Shirt",
+      "brand": "Charles Tyrwhitt",
+      "store": "Nordstrom",
+      "color": "NAVY",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 90.3,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-28-01.webp",
+      "imageAlt": "Charles Tyrwhitt Slim Fit Pure Linen Shirt — NAVY — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-28-01.webp",
+          "alt": "Charles Tyrwhitt Slim Fit Pure Linen Shirt — NAVY — photo 1",
+          "source": "https://n.nordstrommedia.com/it/a293a6d6-9555-4c3e-9e2d-b894eabade72.jpeg"
+        },
+        {
+          "src": "assets/images/contender-28-02.webp",
+          "alt": "Charles Tyrwhitt Slim Fit Pure Linen Shirt — NAVY — photo 2",
+          "source": "https://n.nordstrommedia.com/it/ccef4f70-40ba-484d-ac3c-c7be0f810f2e.jpeg"
+        },
+        {
+          "src": "assets/images/contender-28-03.webp",
+          "alt": "Charles Tyrwhitt Slim Fit Pure Linen Shirt — NAVY — photo 3",
+          "source": "https://n.nordstrommedia.com/it/a898547c-909e-4eda-8b9e-ef083d450c61.jpeg"
+        },
+        {
+          "src": "assets/images/contender-28-04.webp",
+          "alt": "Charles Tyrwhitt Slim Fit Pure Linen Shirt — NAVY — photo 4",
+          "source": "https://n.nordstrommedia.com/it/a0dab874-14fb-4932-ae33-dbfaacb3e0e7.jpeg"
+        },
+        {
+          "src": "assets/images/contender-28-05.webp",
+          "alt": "Charles Tyrwhitt Slim Fit Pure Linen Shirt — NAVY — photo 5",
+          "source": "https://n.nordstrommedia.com/it/4666a58a-5b3b-4b18-9e7e-2523d5a38a5a.jpeg"
+        }
+      ],
+      "materialCaveat": "Numeric fiber percentage not published; pure linen is the retailer’s composition claim. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "Pure linen (retailer description; no numeric percentage published)",
+        "Price": "$90.30 USD; shipping/tax not calculated",
+        "Fit": "Slim fit; long sleeves / button cuffs; selected color NAVY.",
+        "Status": "S available (1 shipping stock at check). Sold/shipped by SoldThrough."
+      },
+      "sources": [
+        "contender-28"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/slim-fit-pure-linen-shirt/8166383?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444444DUMM"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": false,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "Listed $90.30; regular $129.00."
+    },
+    {
+      "id": "contender-29",
+      "name": "Charles Tyrwhitt · Plain Pure Linen Shirt",
+      "url": "https://www.nordstrom.com/s/plain-pure-linen-shirt/8920844?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444657KC",
+      "category": "Shirt",
+      "brand": "Charles Tyrwhitt",
+      "store": "Nordstrom",
+      "color": "Navy",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 139.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-29-01.webp",
+      "imageAlt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-29-01.webp",
+          "alt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 1",
+          "source": "https://n.nordstrommedia.com/it/115a1194-6b7f-4ce2-bc77-c44af9fb675b.jpeg"
+        },
+        {
+          "src": "assets/images/contender-29-02.webp",
+          "alt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 2",
+          "source": "https://n.nordstrommedia.com/it/0891148c-e8d5-4968-93d4-b83228d76ba2.jpeg"
+        },
+        {
+          "src": "assets/images/contender-29-03.webp",
+          "alt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 3",
+          "source": "https://n.nordstrommedia.com/it/88314f93-de24-49b8-95ca-cf7e50206339.jpeg"
+        },
+        {
+          "src": "assets/images/contender-29-04.webp",
+          "alt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 4",
+          "source": "https://n.nordstrommedia.com/it/e6610aaa-7835-4fb6-9932-0c9571c03a62.jpeg"
+        },
+        {
+          "src": "assets/images/contender-29-05.webp",
+          "alt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 5",
+          "source": "https://n.nordstrommedia.com/it/9b523f92-b8d6-4e61-92a1-de6ecdb04fa7.jpeg"
+        },
+        {
+          "src": "assets/images/contender-29-06.webp",
+          "alt": "Charles Tyrwhitt Plain Pure Linen Shirt — Navy — photo 6",
+          "source": "https://n.nordstrommedia.com/it/441c3cd4-29ef-4517-b099-3c53b77c35b0.jpeg"
+        }
+      ],
+      "materialCaveat": "Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% linen",
+        "Price": "$139.00 USD; shipping/tax not calculated",
+        "Fit": "Slim fit; long sleeves / button cuffs; selected color Navy.",
+        "Status": "S available (4 shipping stock at check). Sold/shipped by SoldThrough."
+      },
+      "sources": [
+        "contender-29"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/plain-pure-linen-shirt/8920844?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444657KC"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-30",
+      "name": "COS · Checked Cotton Jacquard Shirt",
+      "url": "https://www.nordstrom.com/s/checked-cotton-jacquard-shirt/9117564?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GVJW4",
+      "category": "Shirt",
+      "brand": "COS",
+      "store": "Nordstrom",
+      "color": "WHITE",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 110.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-30-01.webp",
+      "imageAlt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-30-01.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 1",
+          "source": "https://n.nordstrommedia.com/it/c9496b03-083d-4bd4-899a-1ff6c725a238.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-02.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 2",
+          "source": "https://n.nordstrommedia.com/it/f3b302dd-f918-4b41-b7d1-9cebd7494979.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-03.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 3",
+          "source": "https://n.nordstrommedia.com/it/1ddba1d7-c18d-4c06-9441-a5442f1d6933.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-04.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 4",
+          "source": "https://n.nordstrommedia.com/it/ee966f72-5dca-49bd-9659-837b55f23981.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-05.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 5",
+          "source": "https://n.nordstrommedia.com/it/b529e017-2b72-4226-bc51-6589135c60ae.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-06.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 6",
+          "source": "https://n.nordstrommedia.com/it/5602cf9d-aaaf-475b-bec3-36e929dece9c.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-07.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 7",
+          "source": "https://n.nordstrommedia.com/it/0599a025-3fff-4a96-baa5-fd1c471806aa.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-08.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 8",
+          "source": "https://n.nordstrommedia.com/it/410a5984-fddd-489a-848f-782b97694c20.jpeg"
+        },
+        {
+          "src": "assets/images/contender-30-09.webp",
+          "alt": "COS Checked Cotton Jacquard Shirt — WHITE — photo 9",
+          "source": "https://n.nordstrommedia.com/it/9e198fd4-7531-4cb6-bad9-e2254cca1a12.jpeg"
+        }
+      ],
+      "materialCaveat": "Composition supplemented from COS’s exact white article. Size S sold out; retained as selected. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% cotton shell (COS exact white article 1335745002)",
+        "Price": "$110.00 USD; shipping/tax not calculated",
+        "Fit": "Relaxed fit; long sleeves; selected color WHITE.",
+        "Status": "S sold out (0 shipping stock at check). Sold/shipped by COS."
+      },
+      "sources": [
+        "contender-30",
+        "contender-30-composition"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/checked-cotton-jacquard-shirt/9117564?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GVJW4",
+        "https://www.cos.com/en-ie/men/menswear/shirts/casualshirts/product/checked-cotton-jacquard-shirt-white-1335745002"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-31",
+      "name": "Marine Layer · Luxe Jersey Organic Cotton Button-Up Shirt",
+      "url": "https://www.nordstrom.com/s/marine-layer-luxe-jersey-shirt/9183662?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GYW6P",
+      "category": "Shirt",
+      "brand": "Marine Layer",
+      "store": "Nordstrom",
+      "color": "OATMEAL HEATHER",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 128.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-31-01.webp",
+      "imageAlt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-31-01.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 1",
+          "source": "https://n.nordstrommedia.com/it/2306f2e1-5b16-4668-ab30-188867aa01a1.jpeg"
+        },
+        {
+          "src": "assets/images/contender-31-02.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 2",
+          "source": "https://n.nordstrommedia.com/it/4d158443-e8a5-4b2f-9c46-e636ed70330a.jpeg"
+        },
+        {
+          "src": "assets/images/contender-31-03.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 3",
+          "source": "https://n.nordstrommedia.com/it/05dda930-08f2-4203-8442-21933aabd738.jpeg"
+        },
+        {
+          "src": "assets/images/contender-31-04.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 4",
+          "source": "https://n.nordstrommedia.com/it/af2facee-54be-45fc-9e13-d577b2a4e242.jpeg"
+        },
+        {
+          "src": "assets/images/contender-31-05.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 5",
+          "source": "https://n.nordstrommedia.com/it/0daf076b-d30a-4e63-b4c1-361991094a03.jpeg"
+        },
+        {
+          "src": "assets/images/contender-31-06.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 6",
+          "source": "https://n.nordstrommedia.com/it/3ab34d59-bb87-4909-b30b-c6dc66989f3f.jpeg"
+        },
+        {
+          "src": "assets/images/contender-31-07.webp",
+          "alt": "Marine Layer Luxe Jersey Organic Cotton Button-Up Shirt — OATMEAL HEATHER — photo 7",
+          "source": "https://n.nordstrommedia.com/it/dd0b9063-f731-44a9-9f39-92262d599af9.jpeg"
+        }
+      ],
+      "materialCaveat": "Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% organic cotton",
+        "Price": "$128.00 USD; shipping/tax not calculated",
+        "Fit": "Relaxed fit; long sleeves; selected color OATMEAL HEATHER.",
+        "Status": "S available (1 shipping stock at check)."
+      },
+      "sources": [
+        "contender-31"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/marine-layer-luxe-jersey-shirt/9183662?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GYW6P"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-32",
+      "name": "COS · Relaxed Brushed Cotton-blend Shirt",
+      "url": "https://www.nordstrom.com/s/relaxed-brushed-cotton-blend-shirt/9117257?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GVJAV",
+      "category": "Shirt",
+      "brand": "COS",
+      "store": "Nordstrom",
+      "color": "NAVY",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 129.0,
+      "naturalPercent": 49,
+      "integrityRank": 49,
+      "image": "assets/images/contender-32-01.webp",
+      "imageAlt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-32-01.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 1",
+          "source": "https://n.nordstrommedia.com/it/1513bc70-1156-47fe-ac28-3b51896f4870.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-02.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 2",
+          "source": "https://n.nordstrommedia.com/it/7cfc6ca4-4608-4ccb-ad95-13654e2e9097.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-03.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 3",
+          "source": "https://n.nordstrommedia.com/it/83859891-86d5-4b5d-be3c-e6e11a5b16fe.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-04.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 4",
+          "source": "https://n.nordstrommedia.com/it/792ac659-ab58-4dfc-ab4a-f9fd69ec0c7d.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-05.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 5",
+          "source": "https://n.nordstrommedia.com/it/1bfbe569-0a29-4a44-ba41-0adfa170f3ab.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-06.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 6",
+          "source": "https://n.nordstrommedia.com/it/ddf97a13-9194-404e-8b73-0edd0a635886.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-07.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 7",
+          "source": "https://n.nordstrommedia.com/it/cb587047-ada4-43b2-8d16-a6073c61fcec.jpeg"
+        },
+        {
+          "src": "assets/images/contender-32-08.webp",
+          "alt": "COS Relaxed Brushed Cotton-blend Shirt — NAVY — photo 8",
+          "source": "https://n.nordstrommedia.com/it/a2249441-f0f6-4441-bc84-cb44bca92063.jpeg"
+        }
+      ],
+      "materialCaveat": "Contains regenerated cellulose, not 100% natural fiber. Size S sold out; retained as selected. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "51% TENCEL™ lyocell, 49% cotton shell",
+        "Price": "$129.00 USD; shipping/tax not calculated",
+        "Fit": "Relaxed fit; long sleeves; selected color NAVY.",
+        "Status": "S sold out (0 shipping stock at check). Sold/shipped by COS."
+      },
+      "sources": [
+        "contender-32"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/relaxed-brushed-cotton-blend-shirt/9117257?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GVJAV"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-33",
+      "name": "Polo Ralph Lauren · Classic Fit Striped Oxford Shirt",
+      "url": "https://www.nordstrom.com/s/classic-fit-striped-oxford-shirt/9012956?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444655ME",
+      "category": "Shirt",
+      "brand": "Polo Ralph Lauren",
+      "store": "Nordstrom",
+      "color": "6636O SLATE/WHITE",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 130.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-33-01.webp",
+      "imageAlt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-33-01.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 1",
+          "source": "https://n.nordstrommedia.com/it/06f3334d-eda6-4498-8e57-2f6756a1f013.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-02.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 2",
+          "source": "https://n.nordstrommedia.com/it/00418b9d-221a-41ad-b14a-b73fcd50c301.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-03.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 3",
+          "source": "https://n.nordstrommedia.com/it/b9f5195a-8747-412b-b379-f91b462b3048.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-04.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 4",
+          "source": "https://n.nordstrommedia.com/it/6fad66e9-da2c-4f07-8e66-559c42451643.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-05.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 5",
+          "source": "https://n.nordstrommedia.com/it/a4068351-d096-4ba8-b5e5-f8ecad703a35.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-06.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 6",
+          "source": "https://n.nordstrommedia.com/it/3d831872-1961-412b-b66d-68fb1df4740c.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-07.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 7",
+          "source": "https://n.nordstrommedia.com/it/7da04786-1348-4880-bfeb-151ca53b8599.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-08.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 8",
+          "source": "https://n.nordstrommedia.com/it/898ea118-bc13-4099-a7a8-3cd41a9e1ded.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-09.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 9",
+          "source": "https://n.nordstrommedia.com/it/517fb803-ec14-4f1f-889d-bffffd49e158.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-10.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 10",
+          "source": "https://n.nordstrommedia.com/it/1257cd86-ee2b-4857-bd7d-2b3346422cb4.jpeg"
+        },
+        {
+          "src": "assets/images/contender-33-11.webp",
+          "alt": "Polo Ralph Lauren Classic Fit Striped Oxford Shirt — 6636O SLATE/WHITE — photo 11",
+          "source": "https://n.nordstrommedia.com/it/594ee344-8521-4243-8cdf-a5a11fa11f86.jpeg"
+        }
+      ],
+      "materialCaveat": "Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$130.00 USD; shipping/tax not calculated",
+        "Fit": "Classic fit; long sleeves; selected color 6636O SLATE/WHITE.",
+        "Status": "S available (4 shipping stock at check)."
+      },
+      "sources": [
+        "contender-33"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/classic-fit-striped-oxford-shirt/9012956?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444655ME"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-34",
+      "name": "David Donahue · Linen Check Sport Shirt",
+      "url": "https://www.nordstrom.com/s/david-donahue-linen-check-sport-shirt/8821942?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444445YX6U",
+      "category": "Shirt",
+      "brand": "David Donahue",
+      "store": "Nordstrom",
+      "color": "WHITE/ DUNE",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 131.3,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-34-01.webp",
+      "imageAlt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-34-01.webp",
+          "alt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 1",
+          "source": "https://n.nordstrommedia.com/it/b055238f-09d6-4be0-8129-ca42dc530727.jpeg"
+        },
+        {
+          "src": "assets/images/contender-34-02.webp",
+          "alt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 2",
+          "source": "https://n.nordstrommedia.com/it/cc54d691-2298-4921-b72f-e300facaa7ad.jpeg"
+        },
+        {
+          "src": "assets/images/contender-34-03.webp",
+          "alt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 3",
+          "source": "https://n.nordstrommedia.com/it/91790171-4839-4c22-822d-ebdaf1f2f1c7.jpeg"
+        },
+        {
+          "src": "assets/images/contender-34-04.webp",
+          "alt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 4",
+          "source": "https://n.nordstrommedia.com/it/96a6cf99-4122-40a1-9096-1c5cfd62f51e.jpeg"
+        },
+        {
+          "src": "assets/images/contender-34-05.webp",
+          "alt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 5",
+          "source": "https://n.nordstrommedia.com/it/d98afe5f-fc06-45d1-b388-f6191e9d33eb.jpeg"
+        },
+        {
+          "src": "assets/images/contender-34-06.webp",
+          "alt": "David Donahue Linen Check Sport Shirt — WHITE/ DUNE — photo 6",
+          "source": "https://n.nordstrommedia.com/it/7895f6c6-a2ef-4d2a-a3aa-aa3c9fb8d773.jpeg"
+        }
+      ],
+      "materialCaveat": "Size S sold out; retained as selected. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% linen",
+        "Price": "$131.30 USD; shipping/tax not calculated",
+        "Fit": "Long sleeves; selected color WHITE/ DUNE.",
+        "Status": "S sold out (0 shipping stock at check)."
+      },
+      "sources": [
+        "contender-34"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/david-donahue-linen-check-sport-shirt/8821942?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444445YX6U"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "Listed $131.30; regular $175.00."
+    },
+    {
+      "id": "contender-35",
+      "name": "Marine Layer · Pacifica Button-Up Shirt",
+      "url": "https://www.nordstrom.com/s/pacifica-button-up-shirt/8812979?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444445YL6U",
+      "category": "Shirt",
+      "brand": "Marine Layer",
+      "store": "Nordstrom",
+      "color": "INDIGO",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 138.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-35-01.webp",
+      "imageAlt": "Marine Layer Pacifica Button-Up Shirt — INDIGO — photo 1",
+      "imageNote": "Complete exact selected-color still gallery; swatches/video excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-35-01.webp",
+          "alt": "Marine Layer Pacifica Button-Up Shirt — INDIGO — photo 1",
+          "source": "https://n.nordstrommedia.com/it/0b7280b9-9055-475b-bf71-814c247e5c31.jpeg"
+        },
+        {
+          "src": "assets/images/contender-35-02.webp",
+          "alt": "Marine Layer Pacifica Button-Up Shirt — INDIGO — photo 2",
+          "source": "https://n.nordstrommedia.com/it/66654f5a-b00d-42fb-96d6-aab50b06a98f.jpeg"
+        },
+        {
+          "src": "assets/images/contender-35-03.webp",
+          "alt": "Marine Layer Pacifica Button-Up Shirt — INDIGO — photo 3",
+          "source": "https://n.nordstrommedia.com/it/04a107e7-8537-4e5c-a5d4-01a6abd390e7.jpeg"
+        },
+        {
+          "src": "assets/images/contender-35-04.webp",
+          "alt": "Marine Layer Pacifica Button-Up Shirt — INDIGO — photo 4",
+          "source": "https://n.nordstrommedia.com/it/2092ec6b-f38d-4670-bced-5de8c0e178ac.jpeg"
+        },
+        {
+          "src": "assets/images/contender-35-05.webp",
+          "alt": "Marine Layer Pacifica Button-Up Shirt — INDIGO — photo 5",
+          "source": "https://n.nordstrommedia.com/it/6b1b4b53-8deb-453e-8359-27a8c8757179.jpeg"
+        }
+      ],
+      "materialCaveat": "Composition wording conflicts; confirm the garment label. Trims/thread not fully specified.",
+      "attribution": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated.",
+      "facts": {
+        "Fabric": "100% cotton (retailer specifications; description says cotton blend)",
+        "Price": "$138.00 USD; shipping/tax not calculated",
+        "Fit": "Long sleeves; selected color INDIGO.",
+        "Status": "S available (26 shipping stock at check)."
+      },
+      "sources": [
+        "contender-35"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/pacifica-button-up-shirt/8812979?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444445YL6U"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
     }
   ],
   "sources": [
@@ -1666,6 +2406,83 @@
       "title": "Relaxed-Fit Cotton Chinos — exact supplied Nordstrom listing",
       "type": "First-party live US retailer product",
       "note": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; selected coreChoiceId and visible color match. USD price, full published composition, SKU stock and visible size menu checked. All selected-color orderedShots still images retained; swatch/recommendations excluded. No 32-inch inseam measurement is published in the captured product details."
+    },
+    {
+      "id": "contender-26",
+      "url": "https://www.nordstrom.com/s/regular-fit-linen-button-up-shirt/9031022?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GJHPW",
+      "title": "Mavi Jeans — Regular Fit Linen Button-Up Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-27",
+      "url": "https://www.nordstrom.com/s/cotton-lounge-crewneck/8242946?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=4444457DWS",
+      "title": "LEISURE LAB — Cotton Lounge Crewneck",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-28",
+      "url": "https://www.nordstrom.com/s/slim-fit-pure-linen-shirt/8166383?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444444DUMM",
+      "title": "Charles Tyrwhitt — Slim Fit Pure Linen Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-29",
+      "url": "https://www.nordstrom.com/s/plain-pure-linen-shirt/8920844?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444657KC",
+      "title": "Charles Tyrwhitt — Plain Pure Linen Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-30",
+      "url": "https://www.nordstrom.com/s/checked-cotton-jacquard-shirt/9117564?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GVJW4",
+      "title": "COS — Checked Cotton Jacquard Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-30-composition",
+      "url": "https://www.cos.com/en-ie/men/menswear/shirts/casualshirts/product/checked-cotton-jacquard-shirt-white-1335745002",
+      "title": "COS white article 1335745002 — composition",
+      "type": "First-party regional composition supplement",
+      "note": "Exact white checked cotton-jacquard shirt; matching description and 72.5cm M back length. Embedded materialComposition: shell Cotton 100%. Used for composition only, not US price/stock."
+    },
+    {
+      "id": "contender-31",
+      "url": "https://www.nordstrom.com/s/marine-layer-luxe-jersey-shirt/9183662?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GYW6P",
+      "title": "Marine Layer — Luxe Jersey Organic Cotton Button-Up Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-32",
+      "url": "https://www.nordstrom.com/s/relaxed-brushed-cotton-blend-shirt/9117257?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444GVJAV",
+      "title": "COS — Relaxed Brushed Cotton-blend Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-33",
+      "url": "https://www.nordstrom.com/s/classic-fit-striped-oxford-shirt/9012956?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=44444655ME",
+      "title": "Polo Ralph Lauren — Classic Fit Striped Oxford Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-34",
+      "url": "https://www.nordstrom.com/s/david-donahue-linen-check-sport-shirt/8821942?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444445YX6U",
+      "title": "David Donahue — Linen Check Sport Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
+    },
+    {
+      "id": "contender-35",
+      "url": "https://www.nordstrom.com/s/pacifica-button-up-shirt/8812979?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FDress+Shirts&color=444445YL6U",
+      "title": "Marine Layer — Pacifica Button-Up Shirt",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied Nordstrom URL/color token verified live in registered dedicated Mac Brave. Selected-color SKU price/availability and visible size menu captured. Full selected-color still gallery retained in orderedShots order; swatches, video and recommendations excluded. Shipping/tax not calculated."
     }
   ],
   "evidenceNote": "Exact supplied URLs and selected-color galleries. Saved browser order retains surviving items and appends new jackets; merchant order remains the no-saved-order default.",
@@ -1673,7 +2490,7 @@
   "sourceCoverage": {
     "linkOccurrences": 19,
     "distinctURLs": 18,
-    "products": 22,
+    "products": 32,
     "originalExcalidrawOccurrences": 14,
     "chatAdditions": 5,
     "removedProductIds": [
