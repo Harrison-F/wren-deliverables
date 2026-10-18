@@ -3,7 +3,7 @@
   "layout": "natural-basics",
   "catalog": true,
   "title": "Harrison clothes contenders",
-  "summary": "14 supplied link occurrences, 13 distinct URLs/products. Identical collared-sweater link appears twice and is represented once; no selected color variants merged. Tops/jackets S, dark pants 30 × 32. All contenders retained regardless of composition or stock.",
+  "summary": "16 distinct user-selected products: 13 original URLs plus three explicit additions. Original duplicate sweater link represented once. All contenders retained regardless of composition or stock.",
   "updated": "2026-10-17",
   "recommendation": {},
   "products": [
@@ -134,6 +134,346 @@
       "deal": "Advertised bundles: 2 for $61.20 each; 4 for $54.40 each. Selected S/Black sold out."
     },
     {
+      "id": "contender-16",
+      "url": "https://www.massimodutti.com/us/corduroy-jogger-fit-pants-l00186011?pelement=63150462&colorId=800",
+      "category": "Pants",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "summary": "",
+      "sources": [
+        "contender-16"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/corduroy-jogger-fit-pants-l00186011?pelement=63150462&colorId=800"
+      ],
+      "name": "Massimo Dutti · Corduroy Jogger Fit Pants",
+      "color": "Black",
+      "unitPriceUSD": 130.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-16-01.webp",
+      "imageAlt": "Corduroy Jogger Fit Pants — Black — retailer gallery 1",
+      "images": [
+        {
+          "src": "assets/images/contender-16-01.webp",
+          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 1",
+          "source": "https://static.massimodutti.net/assets/public/6c50/d442/452f4a42bcf6/049771ffc756/00186011800-o6/00186011800-o6.jpg?ts=1789726326073"
+        },
+        {
+          "src": "assets/images/contender-16-02.webp",
+          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 2",
+          "source": "https://static.massimodutti.net/assets/public/7287/1cb0/a6a941838c94/67a7cb0c2fad/00186011800-o1/00186011800-o1.jpg?ts=1790319848329"
+        },
+        {
+          "src": "assets/images/contender-16-03.webp",
+          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 3",
+          "source": "https://static.massimodutti.net/assets/public/50ed/933d/ede7484fa2c7/3997d41f689f/00186011800-o7/00186011800-o7.jpg?ts=1789726325899"
+        },
+        {
+          "src": "assets/images/contender-16-04.webp",
+          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 4",
+          "source": "https://static.massimodutti.net/assets/public/a602/cdfe/0b0e4b5994a8/a95fd2db049c/00186011800-o2/00186011800-o2.jpg?ts=1790319854754"
+        },
+        {
+          "src": "assets/images/contender-16-05.webp",
+          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 5",
+          "source": "https://static.massimodutti.net/assets/public/bcbc/52cd/c3e845e69b79/856593fe6240/00186011800-o8/00186011800-o8.jpg?ts=1789726327193"
+        },
+        {
+          "src": "assets/images/contender-16-06.webp",
+          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 6",
+          "source": "https://static.massimodutti.net/assets/public/a6c8/8c86/2e8d4a7db477/eb1c275eff07/00186011800-o3/00186011800-o3.jpg?ts=1790319851131"
+        },
+        {
+          "src": "assets/images/contender-16-07.webp",
+          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 7",
+          "source": "https://static.massimodutti.net/assets/public/fc7a/534d/1882492eaa18/76d6f81cea8a/00186011800-o4/00186011800-o4.jpg?ts=1790319854573"
+        },
+        {
+          "src": "assets/images/contender-16-08.webp",
+          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 8",
+          "source": "https://static.massimodutti.net/assets/public/58c4/8199/6277434abf60/76443baa98e1/00186011800-o9/00186011800-o9.jpg?ts=1789726326856"
+        },
+        {
+          "src": "assets/images/contender-16-09.webp",
+          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 9",
+          "source": "https://static.massimodutti.net/assets/public/1536/b09d/c65340f3bb31/e43621dcba88/00186011800-o5/00186011800-o5.jpg?ts=1790319854364"
+        }
+      ],
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; non-gallery swatches, fallback assets and recommendations excluded.",
+      "materialCaveat": "User-selected jogger retained; outside tailored-pants preference. Exact 30 × 32 not verified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Supplied pelement=63150462 retained; explicit colorId=800 selects Black catentry 63150463, rather than the pelement default color. User-selected jogger retained; outside tailored-pants preference. Exact 30 × 32 not verified.",
+      "facts": {
+        "Fabric": "Outer Shell: 100% cotton",
+        "Price": "$130.00 USD; shipping/tax extra",
+        "Fit": "Alpha sizes S–XL; no verified 30 × 32 variant",
+        "Status": "S available; exact 30 × 32 not verified"
+      },
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": false,
+        "gallery": true,
+        "checked": "2026-10-17"
+      },
+      "verdict": "Pants"
+    },
+    {
+      "id": "contender-11",
+      "name": "Massimo Dutti · 100% Wool Pants With Waist Detail",
+      "url": "https://www.massimodutti.com/us/100-wool-pants-with-waist-detail-l00187011?pelement=64340045",
+      "category": "Pants",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "color": "Brown",
+      "verdict": "Pants",
+      "summary": "",
+      "unitPriceUSD": 200.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-11-01.webp",
+      "imageAlt": "100% Wool Pants With Waist Detail — Brown — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; non-gallery swatches, fallback assets and recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-11-01.webp",
+          "alt": "100% Wool Pants With Waist Detail — Brown — retailer gallery 1",
+          "source": "https://static.massimodutti.net/assets/public/fba3/f78b/f42f4eeca2de/b09174680754/00187011700-o6/00187011700-o6.jpg?ts=1790848394777"
+        },
+        {
+          "src": "assets/images/contender-11-02.webp",
+          "alt": "100% Wool Pants With Waist Detail — Brown — retailer gallery 2",
+          "source": "https://static.massimodutti.net/assets/public/4895/1e34/3ae349c08057/07e867388186/00187011700-o1/00187011700-o1.jpg?ts=1790319851187"
+        },
+        {
+          "src": "assets/images/contender-11-03.webp",
+          "alt": "100% Wool Pants With Waist Detail — Brown — retailer gallery 3",
+          "source": "https://static.massimodutti.net/assets/public/bad3/14ac/e18c4eb79344/00b38fe2d084/00187011700-o7/00187011700-o7.jpg?ts=1790848392444"
+        },
+        {
+          "src": "assets/images/contender-11-04.webp",
+          "alt": "100% Wool Pants With Waist Detail — Brown — retailer gallery 4",
+          "source": "https://static.massimodutti.net/assets/public/96ec/ee24/7a2148babc76/1cd22a80b866/00187011700-o2/00187011700-o2.jpg?ts=1790319854668"
+        },
+        {
+          "src": "assets/images/contender-11-05.webp",
+          "alt": "100% Wool Pants With Waist Detail — Brown — retailer gallery 5",
+          "source": "https://static.massimodutti.net/assets/public/14bf/2588/14ca45a482fa/cfe48c33f322/00187011700-o8/00187011700-o8.jpg?ts=1790848393205"
+        },
+        {
+          "src": "assets/images/contender-11-06.webp",
+          "alt": "100% Wool Pants With Waist Detail — Brown — retailer gallery 6",
+          "source": "https://static.massimodutti.net/assets/public/2d99/091b/784145d9a563/88934d4ed03c/00187011700-o3/00187011700-o3.jpg?ts=1790319855668"
+        },
+        {
+          "src": "assets/images/contender-11-07.webp",
+          "alt": "100% Wool Pants With Waist Detail — Brown — retailer gallery 7",
+          "source": "https://static.massimodutti.net/assets/public/b98d/bf77/c0a34b93bcf3/f67a2c073417/00187011700-o4/00187011700-o4.jpg?ts=1790319856337"
+        },
+        {
+          "src": "assets/images/contender-11-08.webp",
+          "alt": "100% Wool Pants With Waist Detail — Brown — retailer gallery 8",
+          "source": "https://static.massimodutti.net/assets/public/7fd5/9db2/536347ebbea7/c3d493cbfd3c/00187011700-o9/00187011700-o9.jpg?ts=1790848392338"
+        },
+        {
+          "src": "assets/images/contender-11-09.webp",
+          "alt": "100% Wool Pants With Waist Detail — Brown — retailer gallery 9",
+          "source": "https://static.massimodutti.net/assets/public/4a39/2f7a/56bf483e9a32/3c376627e72a/00187011700-o5/00187011700-o5.jpg?ts=1790319856325"
+        }
+      ],
+      "materialCaveat": "Selected Brown is outside the gray-to-black pants preference. Exact 30 × 32 not verified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Selected Brown is outside the gray-to-black pants preference. Exact 30 × 32 not verified.",
+      "facts": {
+        "Fabric": "Outer Shell: 100% wool",
+        "Price": "$200.00 USD; shipping/tax extra",
+        "Fit": "Alpha sizes S–XL; no verified 30 × 32 variant",
+        "Status": "S available; exact 30 × 32 not verified"
+      },
+      "sources": [
+        "contender-11"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/100-wool-pants-with-waist-detail-l00187011?pelement=64340045"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": false,
+        "gallery": true,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-14",
+      "url": "https://www.massimodutti.com/us/doublepleated-relaxed-fit-pants-l00127008?pelement=66534132",
+      "category": "Pants",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "summary": "",
+      "sources": [
+        "contender-14"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/doublepleated-relaxed-fit-pants-l00127008?pelement=66534132"
+      ],
+      "name": "Massimo Dutti · Double-Pleated Relaxed Fit Pants",
+      "color": "Navy Blue",
+      "unitPriceUSD": 200.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-14-01.webp",
+      "imageAlt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 1",
+      "images": [
+        {
+          "src": "assets/images/contender-14-01.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 1",
+          "source": "https://static.massimodutti.net/assets/public/ac9b/a7b1/55b0487cb28d/3124192c1f4e/00127008401-o6/00127008401-o6.jpg?ts=1790582982828"
+        },
+        {
+          "src": "assets/images/contender-14-02.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 2",
+          "source": "https://static.massimodutti.net/assets/public/48d7/e61e/1eda48ebb82b/6906ce66430a/00127008401-o1/00127008401-o1.jpg?ts=1790601934258"
+        },
+        {
+          "src": "assets/images/contender-14-03.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 3",
+          "source": "https://static.massimodutti.net/assets/public/5ceb/fbd7/568a492a90b8/829bddb5faaf/00127008401-o7/00127008401-o7.jpg?ts=1790582983684"
+        },
+        {
+          "src": "assets/images/contender-14-04.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 4",
+          "source": "https://static.massimodutti.net/assets/public/449b/d690/ad41446f90ee/5dafcbc9400b/00127008401-o2/00127008401-o2.jpg?ts=1790601934657"
+        },
+        {
+          "src": "assets/images/contender-14-05.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 5",
+          "source": "https://static.massimodutti.net/assets/public/212f/5c4a/95884a3a8331/3df899460291/00127008401-o8/00127008401-o8.jpg?ts=1790582983654"
+        },
+        {
+          "src": "assets/images/contender-14-06.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 6",
+          "source": "https://static.massimodutti.net/assets/public/1b5b/5eca/a5ae4cd5b7fa/103d5081bbcb/00127008401-o3/00127008401-o3.jpg?ts=1790601934054"
+        },
+        {
+          "src": "assets/images/contender-14-07.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 7",
+          "source": "https://static.massimodutti.net/assets/public/5ce8/996b/893c43d28148/da0abc3ab0e9/00127008401-o4/00127008401-o4.jpg?ts=1790601934963"
+        },
+        {
+          "src": "assets/images/contender-14-08.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 8",
+          "source": "https://static.massimodutti.net/assets/public/5307/235a/b6184d5aa5a4/19da2e2129fa/00127008401-o9/00127008401-o9.jpg?ts=1790582983697"
+        },
+        {
+          "src": "assets/images/contender-14-09.webp",
+          "alt": "Double-Pleated Relaxed Fit Pants — Navy Blue — retailer gallery 9",
+          "source": "https://static.massimodutti.net/assets/public/fb90/8379/d52245319ca7/fb7fc2738834/00127008401-o5/00127008401-o5.jpg?ts=1790601934247"
+        }
+      ],
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; non-gallery swatches, fallback assets and recommendations excluded.",
+      "materialCaveat": "Navy Blue is outside the gray-to-black pants preference. Exact 30 × 32 not verified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Navy Blue is outside the gray-to-black pants preference. Exact 30 × 32 not verified.",
+      "facts": {
+        "Fabric": "Outer Shell: 100% wool",
+        "Price": "$200.00 USD; shipping/tax extra",
+        "Fit": "30 waist offered; listed inner-thigh length 78 cm, not a verified 32-inch inseam",
+        "Status": "30 available; exact 30 × 32 not verified"
+      },
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": false,
+        "gallery": true,
+        "checked": "2026-10-17"
+      },
+      "verdict": "Pants"
+    },
+    {
+      "id": "contender-15",
+      "url": "https://www.massimodutti.com/us/100-wool-cableknit-sweater-l01416222?pelement=63726144",
+      "category": "Sweater",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "summary": "",
+      "sources": [
+        "contender-15"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/100-wool-cableknit-sweater-l01416222?pelement=63726144"
+      ],
+      "name": "Massimo Dutti · 100% Wool Cable-Knit Sweater",
+      "color": "Mink",
+      "unitPriceUSD": 200.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-15-01.webp",
+      "imageAlt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 1",
+      "images": [
+        {
+          "src": "assets/images/contender-15-01.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 1",
+          "source": "https://static.massimodutti.net/assets/public/1ffa/49be/d8754fca9b44/44dd39a0f0e5/01416222779-o6/01416222779-o6.jpg?ts=1791386077030"
+        },
+        {
+          "src": "assets/images/contender-15-02.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 2",
+          "source": "https://static.massimodutti.net/assets/public/a102/0ae8/16b441169c3e/bf652789f22c/01416222779-o1/01416222779-o1.jpg?ts=1789980248290"
+        },
+        {
+          "src": "assets/images/contender-15-03.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 3",
+          "source": "https://static.massimodutti.net/assets/public/c6fb/e58e/6a40474691d5/8bd125c3e133/01416222779-o7/01416222779-o7.jpg?ts=1791386078358"
+        },
+        {
+          "src": "assets/images/contender-15-04.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 4",
+          "source": "https://static.massimodutti.net/assets/public/a6a8/5271/905b4791bdd8/4887ee1693fb/01416222779-o2/01416222779-o2.jpg?ts=1789980247679"
+        },
+        {
+          "src": "assets/images/contender-15-05.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 5",
+          "source": "https://static.massimodutti.net/assets/public/c85b/0a18/0d0e4877974c/00f6a9b40644/01416222779-o8/01416222779-o8.jpg?ts=1791386078049"
+        },
+        {
+          "src": "assets/images/contender-15-06.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 6",
+          "source": "https://static.massimodutti.net/assets/public/46a5/3237/d325482084bc/46a2a2274ff7/01416222779-o3/01416222779-o3.jpg?ts=1789980246222"
+        },
+        {
+          "src": "assets/images/contender-15-07.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 7",
+          "source": "https://static.massimodutti.net/assets/public/2652/3212/1b8e4d6baf27/c5c3926f2268/01416222779-o4/01416222779-o4.jpg?ts=1789980247542"
+        },
+        {
+          "src": "assets/images/contender-15-08.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 8",
+          "source": "https://static.massimodutti.net/assets/public/5326/9b2a/7742409ca1f7/36416478a16e/01416222779-o9/01416222779-o9.jpg?ts=1791386077872"
+        },
+        {
+          "src": "assets/images/contender-15-09.webp",
+          "alt": "100% Wool Cable-Knit Sweater — Mink — retailer gallery 9",
+          "source": "https://static.massimodutti.net/assets/public/8866/5325/a8204db195fd/c6d5ea102656/01416222779-o5/01416222779-o5.jpg?ts=1789980247349"
+        }
+      ],
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; non-gallery swatches, fallback assets and recommendations excluded.",
+      "materialCaveat": "Wool composition excludes elastic; trim fibers unspecified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Wool composition excludes elastic; trim fibers unspecified.",
+      "facts": {
+        "Fabric": "Outer Shell: 100% wool; EXCLUSIVE OF ELASTIC",
+        "Price": "$200.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "S available"
+      },
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      },
+      "verdict": "Sweater"
+    },
+    {
       "id": "contender-12",
       "name": "Taylor Stitch · The Ojai Jacket in Soil Corduroy",
       "url": "https://www.taylorstitch.com/products/ojai-jacket-in-soil-corduroy-2609",
@@ -209,6 +549,91 @@
       ],
       "sourceLinks": [
         "https://www.taylorstitch.com/products/ojai-jacket-in-soil-corduroy-2609"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-10",
+      "name": "Massimo Dutti · 100% Wool High Neck Down Jacket",
+      "url": "https://www.massimodutti.com/us/100-wool-high-neck-down-jacket-l03270428?pelement=64740328",
+      "category": "Jacket",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "color": "Brown Tones",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": 590.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-10-01.webp",
+      "imageAlt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; non-gallery swatches, fallback assets and recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-10-01.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 1",
+          "source": "https://static.massimodutti.net/assets/public/7d49/04be/842c44e8a794/b0554eb21ee4/03270428041-o6/03270428041-o6.jpg?ts=1790777474137"
+        },
+        {
+          "src": "assets/images/contender-10-02.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 2",
+          "source": "https://static.massimodutti.net/assets/public/c439/ea9d/ba794adca973/d10c41edf6d9/03270428041-o1/03270428041-o1.jpg?ts=1790781728545"
+        },
+        {
+          "src": "assets/images/contender-10-03.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 3",
+          "source": "https://static.massimodutti.net/assets/public/5e4b/9f46/26a5439c9296/45f2ab1d4d8a/03270428041-o7/03270428041-o7.jpg?ts=1790777474585"
+        },
+        {
+          "src": "assets/images/contender-10-04.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 4",
+          "source": "https://static.massimodutti.net/assets/public/b180/5f1c/f0334afe8cff/198447ff0b33/03270428041-o2/03270428041-o2.jpg?ts=1790781729075"
+        },
+        {
+          "src": "assets/images/contender-10-05.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 5",
+          "source": "https://static.massimodutti.net/assets/public/1354/6474/102c45b9a065/dfdf1fa6ca6e/03270428041-o8/03270428041-o8.jpg?ts=1790777474241"
+        },
+        {
+          "src": "assets/images/contender-10-06.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 6",
+          "source": "https://static.massimodutti.net/assets/public/8ac6/a8fd/f1f74c9eb067/fe8313e1e7f9/03270428041-o3/03270428041-o3.jpg?ts=1790781728228"
+        },
+        {
+          "src": "assets/images/contender-10-07.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 7",
+          "source": "https://static.massimodutti.net/assets/public/371b/bcab/387146628116/c2988d82bba4/03270428041-o4/03270428041-o4.jpg?ts=1790781728546"
+        },
+        {
+          "src": "assets/images/contender-10-08.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 8",
+          "source": "https://static.massimodutti.net/assets/public/cbf8/b504/02564298b624/f9e342cd371c/03270428041-o9/03270428041-o9.jpg?ts=1790777475169"
+        },
+        {
+          "src": "assets/images/contender-10-09.webp",
+          "alt": "100% Wool High Neck Down Jacket — Brown Tones — retailer gallery 9",
+          "source": "https://static.massimodutti.net/assets/public/088d/2100/766d4b84b3b1/5b0068ad3d01/03270428041-o5/03270428041-o5.jpg?ts=1790781728876"
+        }
+      ],
+      "materialCaveat": "100% polyamide lining; filling 80% grey duck down / 20% feather.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. 100% polyamide lining; filling 80% grey duck down / 20% feather.",
+      "facts": {
+        "Fabric": "Outer Shell: 100% wool; Lining: 100% polyamide; Filling: 80% grey duck down / 20% feather",
+        "Price": "$590.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "S available"
+      },
+      "sources": [
+        "contender-10"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/100-wool-high-neck-down-jacket-l03270428?pelement=64740328"
       ],
       "verification": {
         "price": true,
@@ -566,84 +991,6 @@
         "gallery": true,
         "checked": "2026-10-17"
       }
-    },
-    {
-      "id": "contender-10",
-      "name": "Massimo Dutti · 100% wool high neck down jacket",
-      "url": "https://www.massimodutti.com/us/100-wool-high-neck-down-jacket-l03270428?pelement=64740328",
-      "category": "Jacket",
-      "brand": "Massimo Dutti",
-      "store": "Massimo Dutti",
-      "color": "Selected URL variant retained; color name unverified",
-      "verdict": "Jacket",
-      "summary": "",
-      "unitPriceUSD": null,
-      "naturalPercent": null,
-      "integrityRank": 0,
-      "image": null,
-      "imageAlt": "",
-      "imageNote": "No verified retailer image recovered. No substitute or invented image used.",
-      "images": [],
-      "materialCaveat": "Stock / selected color unknown; natural-fabric criterion unverified.",
-      "attribution": "Direct HTTP and disposable browser returned Access Denied. Display name transcribed from the supplied URL slug; current retailer title unverified.",
-      "facts": {
-        "Fabric": "Composition unknown — title is not composition verification",
-        "Price": "Unknown",
-        "Fit": "S requested",
-        "Status": "Stock unknown — retailer access blocked"
-      },
-      "sources": [
-        "contender-10"
-      ],
-      "sourceLinks": [
-        "https://www.massimodutti.com/us/100-wool-high-neck-down-jacket-l03270428?pelement=64740328"
-      ],
-      "verification": {
-        "price": false,
-        "composition": false,
-        "stock": false,
-        "gallery": false,
-        "checked": "2026-10-17"
-      }
-    },
-    {
-      "id": "contender-11",
-      "name": "Massimo Dutti · 100% wool pants with waist detail",
-      "url": "https://www.massimodutti.com/us/100-wool-pants-with-waist-detail-l00187011?pelement=64340045",
-      "category": "Pants",
-      "brand": "Massimo Dutti",
-      "store": "Massimo Dutti",
-      "color": "Selected URL variant retained; color name unverified",
-      "verdict": "Pants",
-      "summary": "",
-      "unitPriceUSD": null,
-      "naturalPercent": null,
-      "integrityRank": 0,
-      "image": null,
-      "imageAlt": "",
-      "imageNote": "No verified retailer image recovered. No substitute or invented image used.",
-      "images": [],
-      "materialCaveat": "Stock / selected color unknown; natural-fabric criterion unverified.",
-      "attribution": "Direct HTTP and disposable browser returned Access Denied. Display name transcribed from the supplied URL slug; current retailer title unverified.",
-      "facts": {
-        "Fabric": "Composition unknown — title is not composition verification",
-        "Price": "Unknown",
-        "Fit": "30 × 32 requested; waist/inseam unverified",
-        "Status": "Stock unknown — retailer access blocked"
-      },
-      "sources": [
-        "contender-11"
-      ],
-      "sourceLinks": [
-        "https://www.massimodutti.com/us/100-wool-pants-with-waist-detail-l00187011?pelement=64340045"
-      ],
-      "verification": {
-        "price": false,
-        "composition": false,
-        "stock": false,
-        "gallery": false,
-        "checked": "2026-10-17"
-      }
     }
   ],
   "sources": [
@@ -720,16 +1067,16 @@
     {
       "id": "contender-10",
       "url": "https://www.massimodutti.com/us/100-wool-high-neck-down-jacket-l03270428?pelement=64740328",
-      "title": "100% wool high neck down jacket — supplied listing",
-      "type": "Supplied listing; US access blocked",
-      "note": "Direct HTTP and disposable browser returned Access Denied."
+      "title": "100% Wool High Neck Down Jacket — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. 100% polyamide lining; filling 80% grey duck down / 20% feather."
     },
     {
       "id": "contender-11",
       "url": "https://www.massimodutti.com/us/100-wool-pants-with-waist-detail-l00187011?pelement=64340045",
-      "title": "100% wool pants with waist detail — supplied listing",
-      "type": "Supplied listing; US access blocked",
-      "note": "Direct HTTP and disposable browser returned Access Denied."
+      "title": "100% Wool Pants With Waist Detail — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Selected Brown is outside the gray-to-black pants preference. Exact 30 × 32 not verified."
     },
     {
       "id": "contender-12",
@@ -744,13 +1091,36 @@
       "title": "100% Organic Cotton Ribbed Quarter-Zip Sweater — supplied listing",
       "type": "First-party live product",
       "note": "Live selected-color/size page and embedded variant checked: 18 available, Add to Bag enabled. Traditional retail comparison is not a sale. Main fabric meets criterion; trims unspecified."
+    },
+    {
+      "id": "contender-14",
+      "url": "https://www.massimodutti.com/us/doublepleated-relaxed-fit-pants-l00127008?pelement=66534132",
+      "title": "Double-Pleated Relaxed Fit Pants — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Navy Blue is outside the gray-to-black pants preference. Exact 30 × 32 not verified."
+    },
+    {
+      "id": "contender-15",
+      "url": "https://www.massimodutti.com/us/100-wool-cableknit-sweater-l01416222?pelement=63726144",
+      "title": "100% Wool Cable-Knit Sweater — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Wool composition excludes elastic; trim fibers unspecified."
+    },
+    {
+      "id": "contender-16",
+      "url": "https://www.massimodutti.com/us/corduroy-jogger-fit-pants-l00186011?pelement=63150462&colorId=800",
+      "title": "Corduroy Jogger Fit Pants — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Supplied pelement=63150462 retained; explicit colorId=800 selects Black catentry 63150463, rather than the pelement default color. User-selected jogger retained; outside tailored-pants preference. Exact 30 × 32 not verified."
     }
   ],
-  "evidenceNote": "All supplied shopping links retained. Unknown prices sort last. Four products have verified main-fabric composition; nine remain unknown, not excluded.",
-  "caveat": "Seven Abercrombie listings require CAPTCHA; two Massimo Dutti listings deny access. Their current titles, prices, composition, stock and galleries remain unverified. COS US price/stock unknown; exact-article Thailand composition/gallery available. Ryker S/Black is sold out. No unverified deal claims.",
+  "evidenceNote": "All supplied shopping links retained. Unknown prices sort last. Exact selected-color evidence and fit caveats shown per product.",
+  "caveat": "COS US price/stock unknown. Abercrombie recovery in progress. Ryker S/Black is sold out. Massimo Dutti pants are retained with color/style and exact-size caveats.",
   "sourceCoverage": {
-    "linkOccurrences": 14,
-    "distinctURLs": 13,
-    "products": 13
+    "linkOccurrences": 17,
+    "distinctURLs": 16,
+    "products": 16,
+    "originalExcalidrawOccurrences": 14,
+    "chatAdditions": 3
   }
 }
