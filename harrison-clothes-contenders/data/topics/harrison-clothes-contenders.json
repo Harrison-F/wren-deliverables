@@ -2608,6 +2608,89 @@
         "checked": "2026-10-18"
       },
       "deal": "Buy a 3-pack and save 10% advertised; single tee $29.90. $55 traditional retail is a comparison, not a former Quince price."
+    },
+    {
+      "id": "contender-41",
+      "name": "Banana Republic · Tailored Slim-Fit Italian Wool Ventile Suit Pant",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=868178002&vid=1&pcid=75310&cid=1118162#pdp-page-content",
+      "category": "Pants",
+      "brand": "Banana Republic",
+      "store": "Banana Republic",
+      "color": "Utility Blue",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 179.97,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-41-01.webp",
+      "imageAlt": "Tailored Slim-Fit Italian Wool Ventile Suit Pant — Utility Blue",
+      "imageNote": "All eight exposed gallery positions: seven selected-color photos and the video poster (slot 2); video linked under sources.",
+      "images": [
+        {
+          "src": "assets/images/contender-41-01.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 1",
+          "source": "https://content.gapinc.com/b/0062/067/269/cn62067269.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-41-02.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 2 (video poster)",
+          "source": "https://content.gapinc.com/b/0062/098/315/cn62098315.png?width=1209"
+        },
+        {
+          "src": "assets/images/contender-41-03.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 3",
+          "source": "https://content.gapinc.com/b/0062/067/289/cn62067289.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-41-04.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 4",
+          "source": "https://content.gapinc.com/b/0062/067/346/cn62067346.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-41-05.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 5",
+          "source": "https://content.gapinc.com/b/0062/302/096/cn62302096.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-41-06.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 6",
+          "source": "https://content.gapinc.com/b/0062/067/281/cn62067281.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-41-07.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 7",
+          "source": "https://content.gapinc.com/b/0062/302/104/cn62302104.png?width=1440"
+        },
+        {
+          "src": "assets/images/contender-41-08.webp",
+          "alt": "Utility Blue Wool Ventile Suit Pant — gallery 8",
+          "source": "https://content.gapinc.com/b/0061/938/868/cn61938868.png?width=1440"
+        }
+      ],
+      "materialCaveat": "100% wool shell; 100% cotton knee-length lining. Thread/trims unspecified. Selected Utility Blue retained; 30W × 32L unavailable; final sale.",
+      "attribution": "Dedicated Wren browser rendered exact supplied URL, Utility Blue selected. Fabric & care: shell 100% wool; lining 100% cotton, half lined to knee. $179.97 from $230, final sale no returns/exchanges. With 30W selected, 32L is crossed out/unavailable and its input aria-disabled=true: requested 30W × 32L is unavailable. Size chart lists 32L actual inseam 31.5 inches. Eight selected-color gallery positions: seven photographs plus video poster in position 2; original video source retained as evidence. User selection retained despite stock and blue-color departure from usual dark-pants preference.",
+      "facts": {
+        "Fabric": "Shell 100% wool; lining 100% cotton (to knee)",
+        "Price": "$179.97 USD, was $230; final sale; shipping/tax not calculated",
+        "Fit": "Tailored slim; mid-rise, tapered leg. Requested 30W × 32L; retailer 32L inseam measures 31.5 inches.",
+        "Status": "30W × 32L unavailable: 32L disabled after selecting 30W. User selection retained."
+      },
+      "sources": [
+        "contender-41"
+      ],
+      "sourceLinks": [
+        "https://bananarepublic.gap.com/browse/product.do?pid=868178002&vid=1&pcid=75310&cid=1118162#pdp-page-content",
+        "https://content.gapinc.com/b/0062/098/307/cn62098307.mp4"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "$179.97, reduced from $230. Final sale — no returns or exchanges."
     }
   ],
   "sources": [
@@ -2883,6 +2966,13 @@
       "title": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal / S",
       "type": "First-party live product",
       "note": "Exact supplied URL rendered HTTP 200 in dedicated Wren browser, Heather Oatmeal / S checked, In stock text and enabled Add to Bag. Variant 142961, SKU LB158300, inventory 50, atcDisabled=false. Selected-page DETAILS explicitly states Materials: 100% organic cotton and 345 gsm; no Heather Oatmeal blend exception is exposed in the details or exact variant. This is retailer-reported composition, not an independently tested fiber analysis. All five exact-color mediaList images retained; recommendations and other colors excluded."
+    },
+    {
+      "id": "contender-41",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=868178002&vid=1&pcid=75310&cid=1118162#pdp-page-content",
+      "title": "Tailored Slim-Fit Italian Wool Ventile Suit Pant — Utility Blue",
+      "type": "First-party live product",
+      "note": "Dedicated Wren browser rendered exact supplied URL, Utility Blue selected. Fabric & care: shell 100% wool; lining 100% cotton, half lined to knee. $179.97 from $230, final sale no returns/exchanges. With 30W selected, 32L is crossed out/unavailable and its input aria-disabled=true: requested 30W × 32L is unavailable. Size chart lists 32L actual inseam 31.5 inches. Eight selected-color gallery positions: seven photographs plus video poster in position 2; original video source retained as evidence. User selection retained despite stock and blue-color departure from usual dark-pants preference."
     }
   ],
   "evidenceNote": "Exact supplied URLs and selected-color galleries. Saved browser order retains surviving items and appends new jackets; merchant order remains the no-saved-order default.",
@@ -2890,7 +2980,7 @@
   "sourceCoverage": {
     "linkOccurrences": 19,
     "distinctURLs": 18,
-    "products": 37,
+    "products": 38,
     "originalExcalidrawOccurrences": 14,
     "chatAdditions": 5,
     "removedProductIds": [
