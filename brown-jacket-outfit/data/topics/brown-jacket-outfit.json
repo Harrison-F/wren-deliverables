@@ -1,0 +1,755 @@
+{
+  "id": "brown-jacket-outfit",
+  "layout": "natural-basics",
+  "catalog": true,
+  "title": "Brown jacket outfit",
+  "summary": "Brown suede or cotton jackets · charcoal cable knits · pale blue long-sleeve shirts · dark W30/L32 pants. Tops and jackets S. Reference studied directly; cream trousers intentionally replaced.",
+  "updated": "2026-10-17",
+  "recommendation": {},
+  "products": [
+    {
+      "id": "brown-07",
+      "name": "Quince · 100% Organic Cotton Oxford Shirt · Pale Blue",
+      "url": "https://www.quince.com/men/100-organic-cotton-oxford-shirt?color=pale-blue&size=s",
+      "category": "Shirt",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Pale Blue",
+      "verdict": "Shirt · Pale Blue",
+      "summary": "Affordable pale-blue long-sleeve layer; button-down collar instead of the reference spread collar.",
+      "unitPriceUSD": 42,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-07-01.webp",
+      "imageAlt": "Quince 100% Organic Cotton Oxford Shirt — Pale Blue — gallery 1",
+      "imageNote": "All 7 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-07-01.webp",
+          "alt": "Quince 100% Organic Cotton Oxford Shirt — Pale Blue — gallery 1",
+          "source": "https://images.quince.com/ert4d0bpWBkS4OxbQzGXV/c9e22b83a3b89f11096e15b529a21c92/M-WVN-26-PALBLU_01_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-07-02.webp",
+          "alt": "Quince 100% Organic Cotton Oxford Shirt — Pale Blue — gallery 2",
+          "source": "https://images.quince.com/3ysxaQdvYE3sZP4qjXN0no/19d5ca0bb0e759adc3cd629fc6b8f3cd/Jamie_Mizrahi_Editorial_02-253_49_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-07-03.webp",
+          "alt": "Quince 100% Organic Cotton Oxford Shirt — Pale Blue — gallery 3",
+          "source": "https://images.quince.com/76VaE1f9GWFu9gFVzmMPQ8/9acea127a423b8af43d7ba6242d50529/M-WVN-26-PALBLU_02_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-07-04.webp",
+          "alt": "Quince 100% Organic Cotton Oxford Shirt — Pale Blue — gallery 4",
+          "source": "https://images.quince.com/1RG3Lg3e2zUruCnhjchZ96/bb5a0edf1377950a2b9f4d4e682ec152/M-WVN-26-PALBLU_05_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-07-05.webp",
+          "alt": "Quince 100% Organic Cotton Oxford Shirt — Pale Blue — gallery 5",
+          "source": "https://images.quince.com/2OPfoXIRKEkBLAgNlLLjjm/e2baf2d983cdc00a5ad2968135497462/M-WVN-26-PALBLU_03_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-07-06.webp",
+          "alt": "Quince 100% Organic Cotton Oxford Shirt — Pale Blue — gallery 6",
+          "source": "https://images.quince.com/4S9LR9dUYptut8ZKvfocbG/58b59b498677315c340f99b3722c0808/M-WVN-26-PALBLU_04_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-07-07.webp",
+          "alt": "Quince 100% Organic Cotton Oxford Shirt — Pale Blue — gallery 7",
+          "source": "https://images.quince.com/2BnMoqHNsrK1ILbI4shaOR/adb15b51eabc235709782318a388be5e/M-WVN-26-PALBLU_06_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "Trims not fully specified.",
+      "attribution": "Affordable pale-blue long-sleeve layer; button-down collar instead of the reference spread collar.",
+      "facts": {
+        "Fabric": "100% organic cotton · main material",
+        "Price": "$42.00 USD · shipping / tax extra",
+        "Fit": "Classic shirt · S · long sleeves",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-07"
+      ]
+    },
+    {
+      "id": "brown-08",
+      "name": "Quince · Mongolian Cashmere Cable Crewneck Sweater · Charcoal",
+      "url": "https://www.quince.com/men/mongolian-cashmere-cable-crewneck-sweater?color=charcoal&size=s",
+      "category": "Sweater",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Charcoal",
+      "verdict": "Sweater · Charcoal",
+      "summary": "Closest sweater texture and color: dark charcoal allover cable knit, without a crest or contrast trim.",
+      "unitPriceUSD": 109.9,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-08-01.webp",
+      "imageAlt": "Quince Mongolian Cashmere Cable Crewneck Sweater — Charcoal — gallery 1",
+      "imageNote": "All 8 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-08-01.webp",
+          "alt": "Quince Mongolian Cashmere Cable Crewneck Sweater — Charcoal — gallery 1",
+          "source": "https://images.quince.com/76DlVlmKgoGTGvFK2LSmH8/5704dcb2e2e3dfe67c2cc8517838fb33/M-SWT-25-CHAR-44533_EDITED_1.jpg"
+        },
+        {
+          "src": "assets/images/brown-08-02.webp",
+          "alt": "Quince Mongolian Cashmere Cable Crewneck Sweater — Charcoal — gallery 2",
+          "source": "https://images.quince.com/2oWsizJqoXiZWBdsxUjtxb/05caa80b51039aca96cf7a83f6141ebc/M-SWT-25-CHAR-44533_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-08-03.webp",
+          "alt": "Quince Mongolian Cashmere Cable Crewneck Sweater — Charcoal — gallery 3",
+          "source": "https://images.quince.com/7d6WiWlcjLf5Hz922eJqdy/6f50e32713b43e367fc0bfc968b119b5/M-SWT-25-CHAR-44565_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-08-04.webp",
+          "alt": "Quince Mongolian Cashmere Cable Crewneck Sweater — Charcoal — gallery 4",
+          "source": "https://images.quince.com/iGTGH5VGRICEroP4WhWWw/0916e8121d309ac51c6c7f606fcde626/M-SWT-25-CHAR-44575_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-08-05.webp",
+          "alt": "Quince Mongolian Cashmere Cable Crewneck Sweater — Charcoal — gallery 5",
+          "source": "https://images.quince.com/6acxBskWLkMFdR9di5y4Mz/53ca816c6c7849bac39f5e173c7f676a/M-SWT-25-CHAR-44539_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-08-06.webp",
+          "alt": "Quince Mongolian Cashmere Cable Crewneck Sweater — Charcoal — gallery 6",
+          "source": "https://images.quince.com/IsPapFVAR2cbX9rDhif6g/60ad95ec63f589e2428439c72d43a6ee/M-SWT-25-CHAR-44595_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-08-07.webp",
+          "alt": "Quince Mongolian Cashmere Cable Crewneck Sweater — Charcoal — gallery 7",
+          "source": "https://images.quince.com/5ZTgEYMOxsu30FUirqvSA5/210ec1df81b975c6799bfb7b9d3235ec/M-SWT-25-CHAR-44550_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-08-08.webp",
+          "alt": "Quince Mongolian Cashmere Cable Crewneck Sweater — Charcoal — gallery 8",
+          "source": "https://images.quince.com/3sAI2bo8X8W6WOT5cY82mD/900d4a8ce19b9f5f1dd905bfe5aa5c3f/M-SWT-25-CHAR-44557_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "Trims not fully specified.",
+      "attribution": "Closest sweater texture and color: dark charcoal allover cable knit, without a crest or contrast trim.",
+      "facts": {
+        "Fabric": "100% cashmere · main material",
+        "Price": "$109.90 USD · shipping / tax extra",
+        "Fit": "Crewneck · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-08"
+      ]
+    },
+    {
+      "id": "brown-03",
+      "name": "Aran Woollen Mills · Inisheer Traditional Mens Merino Aran Sweater · Charcoal",
+      "url": "https://aranwoollenmills.com/products/inisheer-charcoal-traditional-mens-aran-sweater?variant=55311863120245&currency=USD",
+      "category": "Sweater",
+      "brand": "Aran Woollen Mills",
+      "store": "Aran Woollen Mills",
+      "color": "Charcoal",
+      "verdict": "Sweater · Charcoal",
+      "summary": "Dark cable/honeycomb knit close to the reference texture. More heritage-patterned than the minimal cashmere option; current page also labels the swatch Grey.",
+      "unitPriceUSD": 115.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-03-01.webp",
+      "imageAlt": "Aran Woollen Mills Inisheer Traditional Mens Merino Aran Sweater — Charcoal — gallery 1",
+      "imageNote": "All 7 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-03-01.webp",
+          "alt": "Aran Woollen Mills Inisheer Traditional Mens Merino Aran Sweater — Charcoal — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0641/5076/5799/files/A823_InisheerTraditionalAranSweater_Merino_070_01.png?v=1786015062"
+        },
+        {
+          "src": "assets/images/brown-03-02.webp",
+          "alt": "Aran Woollen Mills Inisheer Traditional Mens Merino Aran Sweater — Charcoal — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0641/5076/5799/files/A823_InisheerTraditionalAranSweater_Merino_070_05.png?v=1786015062"
+        },
+        {
+          "src": "assets/images/brown-03-03.webp",
+          "alt": "Aran Woollen Mills Inisheer Traditional Mens Merino Aran Sweater — Charcoal — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0641/5076/5799/files/A823_InisheerTraditionalAranSweater_Merino_070_02.png?v=1786015063"
+        },
+        {
+          "src": "assets/images/brown-03-04.webp",
+          "alt": "Aran Woollen Mills Inisheer Traditional Mens Merino Aran Sweater — Charcoal — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0641/5076/5799/files/A823_InisheerTraditionalAranSweater_Merino_070_03.png?v=1786015062"
+        },
+        {
+          "src": "assets/images/brown-03-05.webp",
+          "alt": "Aran Woollen Mills Inisheer Traditional Mens Merino Aran Sweater — Charcoal — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/0641/5076/5799/files/A823_InisheerTraditionalAranSweater_Merino_070_04.png?v=1786015062"
+        },
+        {
+          "src": "assets/images/brown-03-06.webp",
+          "alt": "Aran Woollen Mills Inisheer Traditional Mens Merino Aran Sweater — Charcoal — gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/0641/5076/5799/files/A823_InisheerTraditionalAranSweater_Merino_070_06.png?v=1786015062"
+        },
+        {
+          "src": "assets/images/brown-03-07.webp",
+          "alt": "Aran Woollen Mills Inisheer Traditional Mens Merino Aran Sweater — Charcoal — gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/0641/5076/5799/files/A823_InisheerTraditionalAranSweater_Merino_070_07.png?v=1786015062"
+        }
+      ],
+      "materialCaveat": "Trims not fully specified.",
+      "attribution": "Dark cable/honeycomb knit close to the reference texture. More heritage-patterned than the minimal cashmere option; current page also labels the swatch Grey.",
+      "facts": {
+        "Fabric": "100% merino wool · main material",
+        "Price": "$115.00 USD · shipping / tax extra",
+        "Fit": "Traditional crewneck · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-03"
+      ]
+    },
+    {
+      "id": "brown-09",
+      "name": "Quince · 100% Suede Overshirt · Dark Chestnut Brown",
+      "url": "https://www.quince.com/men/men-s-100-suede-overshirt?color=dark-chestnut-brown&size=s",
+      "category": "Jacket",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Dark Chestnut Brown",
+      "verdict": "Jacket · Dark Chestnut Brown",
+      "summary": "Closest understated suede layer: dark brown, matte suede, collar and button front. One chest pocket; lacks the reference lower flap pockets.",
+      "unitPriceUSD": 225,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-09-01.webp",
+      "imageAlt": "Quince 100% Suede Overshirt — Dark Chestnut Brown — gallery 1",
+      "imageNote": "All 12 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-09-01.webp",
+          "alt": "Quince 100% Suede Overshirt — Dark Chestnut Brown — gallery 1",
+          "source": "https://images.quince.com/7ofLOsnKwi6FpiJ9fEtBJV/74022006fdfb7011fc71ee80e7fdc7c7/Denim-Editorial-06-1737_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-09-02.webp",
+          "alt": "Quince 100% Suede Overshirt — Dark Chestnut Brown — gallery 2",
+          "source": "https://images.quince.com/2LQIJ8wxA7Be6wVyLVHRjl/90297b88a3124f72cd6e29a2667044b7/Holiday_Editorial_04_73_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-09-03.webp",
+          "alt": "Quince 100% Suede Overshirt — Dark Chestnut Brown — gallery 3",
+          "source": "https://images.quince.com/1tmqCwQloLPFk4axr19MD5/ef5b196ffb2afb57272338927a7d3100/Denim-Editorial-06-1766_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-09-04.webp",
+          "alt": "Quince 100% Suede Overshirt — Dark Chestnut Brown — gallery 4",
+          "source": "https://images.quince.com/Y1M9SDCVmIY3pZpDX2tkx/9c919f897a446bdcd60adde9b94630a7/M-JKT-77-DCHBR-02_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-09-05.webp",
+          "alt": "Quince 100% Suede Overshirt — Dark Chestnut Brown — gallery 5",
+          "source": "https://images.quince.com/6inXkwVFhpwkeWPkHXsER3/1f4c3715c18f29f13e24623ac57bad78/M-JKT-77-DCHBR-07_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-09-06.webp",
+          "alt": "Quince 100% Suede Overshirt — Dark Chestnut Brown — gallery 6",
+          "source": "https://images.quince.com/6imC8KaHEn1qNIYoy2Tsg0/aae203e4d08f5b4e1abaf4c1363b32fa/M-JKT-77-DCHBR-04_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-09-07.webp",
+          "alt": "Quince 100% Suede Overshirt — Dark Chestnut Brown — gallery 7",
+          "source": "https://images.quince.com/6zhnsL6EYbAWUnjGCO497R/242579c390017ca81c400f84844e2a65/M-JKT-77-DCHBR-05_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-09-08.webp",
+          "alt": "Quince 100% Suede Overshirt — Dark Chestnut Brown — gallery 8",
+          "source": "https://images.quince.com/4SNQmlrh5a9lpL96L3caHr/0ab3132fd9d68704d2ac45f32f5d30e2/M-JKT-77-DCHBR-06_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-09-09.webp",
+          "alt": "Quince 100% Suede Overshirt — Dark Chestnut Brown — gallery 9",
+          "source": "https://images.quince.com/45JSz4RJlwprbu8aja8QTV/43620802e79e27748b638b9da3417df9/M-JKT-77-DCHBR-03_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-09-10.webp",
+          "alt": "Quince 100% Suede Overshirt — Dark Chestnut Brown — gallery 10",
+          "source": "https://images.quince.com/3bWALxOs88r8ce42HjfCSP/73ee0d2d172a4b94daf8ec02c213b193/M-JKT-77-DCHBR-08_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-09-11.webp",
+          "alt": "Quince 100% Suede Overshirt — Dark Chestnut Brown — gallery 11",
+          "source": "https://images.quince.com/4cJfVqvaIo9IouIKc7x3WU/97df404dd7b6e20f8ce147b5d29f55da/M-JKT-77-DCHBR-09_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-09-12.webp",
+          "alt": "Quince 100% Suede Overshirt — Dark Chestnut Brown — gallery 12",
+          "source": "https://images.quince.com/6YZYQ5OMvne1SBbTciHEP4/c91da6b0c2a7b2fa3c634da18a4a236e/M-JKT-77-DCHBR-10_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "Partial lining: 100% polyester.",
+      "attribution": "Closest understated suede layer: dark brown, matte suede, collar and button front. One chest pocket; lacks the reference lower flap pockets.",
+      "facts": {
+        "Fabric": "100% goat suede leather · main material",
+        "Price": "$225.00 USD · shipping / tax extra",
+        "Fit": "Relaxed layering description / classic fit chart · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-09"
+      ]
+    },
+    {
+      "id": "brown-01",
+      "name": "Taylor Stitch · The Ojai Jacket in Soil Corduroy · Soil",
+      "url": "https://www.taylorstitch.com/products/ojai-jacket-in-soil-corduroy-2609?variant=42507581096013&currency=USD",
+      "category": "Jacket",
+      "brand": "Taylor Stitch",
+      "store": "Taylor Stitch",
+      "color": "Soil",
+      "verdict": "Jacket · Soil",
+      "summary": "Brown button-front alternative with lower pockets; visibly ribbed corduroy rather than suede, no flap pockets.",
+      "unitPriceUSD": 248.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-01-01.webp",
+      "imageAlt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — gallery 1",
+      "imageNote": "All 9 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-01-01.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/ojai-jacket-in-soil-corduroy-2609_001.jpg?v=1790611920"
+        },
+        {
+          "src": "assets/images/brown-01-02.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_002.jpg?v=1788450304"
+        },
+        {
+          "src": "assets/images/brown-01-03.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_003.jpg?v=1788450309"
+        },
+        {
+          "src": "assets/images/brown-01-04.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_004.jpg?v=1788450312"
+        },
+        {
+          "src": "assets/images/brown-01-05.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_005.jpg?v=1788450315"
+        },
+        {
+          "src": "assets/images/brown-01-06.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_006.jpg?v=1788450320"
+        },
+        {
+          "src": "assets/images/brown-01-07.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_007.jpg?v=1788450323"
+        },
+        {
+          "src": "assets/images/brown-01-08.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — gallery 8",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_008.jpg?v=1788450326"
+        },
+        {
+          "src": "assets/images/brown-01-09.webp",
+          "alt": "Taylor Stitch The Ojai Jacket in Soil Corduroy — Soil — gallery 9",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_ojai-jacket-soil-corduroy_swatch.jpg?v=1785258984"
+        }
+      ],
+      "materialCaveat": "Unspecified trims; metal ring-back buttons.",
+      "attribution": "Brown button-front alternative with lower pockets; visibly ribbed corduroy rather than suede, no flap pockets.",
+      "facts": {
+        "Fabric": "100% organic cotton corduroy · main material",
+        "Price": "$248.00 USD · shipping / tax extra",
+        "Fit": "Chore fit · S / 38",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-01"
+      ]
+    },
+    {
+      "id": "brown-04",
+      "name": "Norse Projects · Korshavn Broken Twill Chino · Black",
+      "url": "https://www.norseprojects.com/products/fyresdal-broken-twill-regular-chino-black?variant=56979674530123&currency=USD",
+      "category": "Pants",
+      "brand": "Norse Projects",
+      "store": "Norse Projects",
+      "color": "Black",
+      "verdict": "Pants · Black",
+      "summary": "Dark-pants override: clean black tailored chino, not the cream trousers in the reference.",
+      "unitPriceUSD": 250.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-04-01.webp",
+      "imageAlt": "Norse Projects Korshavn Broken Twill Chino — Black — gallery 1",
+      "imageNote": "All 5 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-04-01.webp",
+          "alt": "Norse Projects Korshavn Broken Twill Chino — Black — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N25-0488-9999-1209.jpg?v=1784536941"
+        },
+        {
+          "src": "assets/images/brown-04-02.webp",
+          "alt": "Norse Projects Korshavn Broken Twill Chino — Black — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N25-0488-9999-1213.jpg?v=1784536940"
+        },
+        {
+          "src": "assets/images/brown-04-03.webp",
+          "alt": "Norse Projects Korshavn Broken Twill Chino — Black — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N25-0488-9999-1212.jpg?v=1784536940"
+        },
+        {
+          "src": "assets/images/brown-04-04.webp",
+          "alt": "Norse Projects Korshavn Broken Twill Chino — Black — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N25-0488-9999_01_packshot.jpg?v=1784536577"
+        },
+        {
+          "src": "assets/images/brown-04-05.webp",
+          "alt": "Norse Projects Korshavn Broken Twill Chino — Black — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N25-0488-9999_02.jpg?v=1784536582"
+        }
+      ],
+      "materialCaveat": "Corozo buttons; zip and other trims unspecified.",
+      "attribution": "Dark-pants override: clean black tailored chino, not the cream trousers in the reference.",
+      "facts": {
+        "Fabric": "100% cotton · main material",
+        "Price": "$250.00 USD · shipping / tax extra",
+        "Fit": "Regular leg · W30 / L32",
+        "Status": "W30 / L32 available · US storefront"
+      },
+      "sources": [
+        "brown-04"
+      ]
+    },
+    {
+      "id": "brown-05",
+      "name": "Norse Projects · Nordmarka Broken Twill Chino · Black",
+      "url": "https://www.norseprojects.com/products/vivestad-broken-twill-wide-chino-black?variant=56979678691659&currency=USD",
+      "category": "Pants",
+      "brand": "Norse Projects",
+      "store": "Norse Projects",
+      "color": "Black",
+      "verdict": "Pants · Black",
+      "summary": "Dark-pants override: roomier black tailored chino; exact W30 / L32, no hemming assumption.",
+      "unitPriceUSD": 250.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-05-01.webp",
+      "imageAlt": "Norse Projects Nordmarka Broken Twill Chino — Black — gallery 1",
+      "imageNote": "All 5 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-05-01.webp",
+          "alt": "Norse Projects Nordmarka Broken Twill Chino — Black — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N25-04899-9999-0911.jpg?v=1784536952"
+        },
+        {
+          "src": "assets/images/brown-05-02.webp",
+          "alt": "Norse Projects Nordmarka Broken Twill Chino — Black — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N25-04899-9999-0913.jpg?v=1784536951"
+        },
+        {
+          "src": "assets/images/brown-05-03.webp",
+          "alt": "Norse Projects Nordmarka Broken Twill Chino — Black — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N25-04899-9999-0912.jpg?v=1784536953"
+        },
+        {
+          "src": "assets/images/brown-05-04.webp",
+          "alt": "Norse Projects Nordmarka Broken Twill Chino — Black — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N25-0489-9999_01_packshot.jpg?v=1784536577"
+        },
+        {
+          "src": "assets/images/brown-05-05.webp",
+          "alt": "Norse Projects Nordmarka Broken Twill Chino — Black — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N25-0489-9999_02.jpg?v=1784536576"
+        }
+      ],
+      "materialCaveat": "Corozo buttons; zip and other trims unspecified.",
+      "attribution": "Dark-pants override: roomier black tailored chino; exact W30 / L32, no hemming assumption.",
+      "facts": {
+        "Fabric": "100% cotton · main material",
+        "Price": "$250.00 USD · shipping / tax extra",
+        "Fit": "Wide leg · W30 / L32",
+        "Status": "W30 / L32 available · US storefront"
+      },
+      "sources": [
+        "brown-05"
+      ]
+    },
+    {
+      "id": "brown-06",
+      "name": "Norse Projects · Lyngkrog Regular Oxford BD Shirt · Aleutian blue",
+      "url": "https://www.norseprojects.com/products/lyngkrog-regular-oxford-bd-shirt-aleutian-blue?variant=56535324295499&currency=USD",
+      "category": "Shirt",
+      "brand": "Norse Projects",
+      "store": "Norse Projects",
+      "color": "Aleutian blue",
+      "verdict": "Shirt · Aleutian blue",
+      "summary": "Muted pale-blue long-sleeve layering shirt; button-down collar is a small departure from the reference spread collar.",
+      "unitPriceUSD": 250.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-06-01.webp",
+      "imageAlt": "Norse Projects Lyngkrog Regular Oxford BD Shirt — Aleutian blue — gallery 1",
+      "imageNote": "All 2 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-06-01.webp",
+          "alt": "Norse Projects Lyngkrog Regular Oxford BD Shirt — Aleutian blue — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N40-0906-719301packshot.jpg?v=1784708302"
+        },
+        {
+          "src": "assets/images/brown-06-02.webp",
+          "alt": "Norse Projects Lyngkrog Regular Oxford BD Shirt — Aleutian blue — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0960/6738/7723/files/N40-0906-719302.jpg?v=1784708302"
+        }
+      ],
+      "materialCaveat": "Mother-of-pearl buttons; other trims unspecified.",
+      "attribution": "Muted pale-blue long-sleeve layering shirt; button-down collar is a small departure from the reference spread collar.",
+      "facts": {
+        "Fabric": "100% organic cotton · main material",
+        "Price": "$250.00 USD · shipping / tax extra",
+        "Fit": "Regular fit · S · long sleeves",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-06"
+      ]
+    },
+    {
+      "id": "brown-02",
+      "name": "Wax London · Healey · Dark brown",
+      "url": "https://waxlondon.com/products/healey-dark-brown-corduroy-chore-jacket?variant=55588163617144&currency=USD",
+      "category": "Jacket",
+      "brand": "Wax London",
+      "store": "Wax London",
+      "color": "Dark brown",
+      "verdict": "Jacket · Dark brown",
+      "summary": "Dark brown button-front chore silhouette; textured corduroy and patch pockets instead of suede/flap pockets.",
+      "unitPriceUSD": 280.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-02-01.webp",
+      "imageAlt": "Wax London Healey — Dark brown — gallery 1",
+      "imageNote": "All 9 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-02-01.webp",
+          "alt": "Wax London Healey — Dark brown — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket.jpg?v=1787759177"
+        },
+        {
+          "src": "assets/images/brown-02-02.webp",
+          "alt": "Wax London Healey — Dark brown — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-2.jpg?v=1787759181"
+        },
+        {
+          "src": "assets/images/brown-02-03.webp",
+          "alt": "Wax London Healey — Dark brown — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-3.jpg?v=1787759185"
+        },
+        {
+          "src": "assets/images/brown-02-04.webp",
+          "alt": "Wax London Healey — Dark brown — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-4.jpg?v=1787759188"
+        },
+        {
+          "src": "assets/images/brown-02-05.webp",
+          "alt": "Wax London Healey — Dark brown — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-5.jpg?v=1787759192"
+        },
+        {
+          "src": "assets/images/brown-02-06.webp",
+          "alt": "Wax London Healey — Dark brown — gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-6.jpg?v=1787759197"
+        },
+        {
+          "src": "assets/images/brown-02-07.webp",
+          "alt": "Wax London Healey — Dark brown — gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-7.jpg?v=1787759202"
+        },
+        {
+          "src": "assets/images/brown-02-08.webp",
+          "alt": "Wax London Healey — Dark brown — gallery 8",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-8.jpg?v=1787759207"
+        },
+        {
+          "src": "assets/images/brown-02-09.webp",
+          "alt": "Wax London Healey — Dark brown — gallery 9",
+          "source": "https://cdn.shopify.com/s/files/1/0575/9575/6709/files/healey-dark-brown-corduroy-chore-jacket-9.jpg?v=1787759210"
+        }
+      ],
+      "materialCaveat": "Unlined; other trims unspecified.",
+      "attribution": "Dark brown button-front chore silhouette; textured corduroy and patch pockets instead of suede/flap pockets.",
+      "facts": {
+        "Fabric": "100% organic cotton corduroy · main material",
+        "Price": "$280.00 USD · shipping / tax extra",
+        "Fit": "Regular fit · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-02"
+      ]
+    },
+    {
+      "id": "brown-10",
+      "name": "Quince · Italian Suede Trucker Jacket · Dark Chestnut",
+      "url": "https://www.quince.com/men/suede-trucker-jacket?color=dark-chestnut&size=s",
+      "category": "Jacket",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Dark Chestnut",
+      "verdict": "Jacket · Dark Chestnut",
+      "summary": "Brown suede and flap chest pockets; shorter trucker silhouette and nickel snaps differ from the relaxed reference. Runs small: layering fit needs care.",
+      "unitPriceUSD": 300,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-10-01.webp",
+      "imageAlt": "Quince Italian Suede Trucker Jacket — Dark Chestnut — gallery 1",
+      "imageNote": "All 10 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-10-01.webp",
+          "alt": "Quince Italian Suede Trucker Jacket — Dark Chestnut — gallery 1",
+          "source": "https://images.quince.com/1w791qp1pAJmFRxPEwSxzj/f7f8268b88fb5538af50a1958f64e071/M-JKT-3-BRN_0280.jpg"
+        },
+        {
+          "src": "assets/images/brown-10-02.webp",
+          "alt": "Quince Italian Suede Trucker Jacket — Dark Chestnut — gallery 2",
+          "source": "https://images.quince.com/4QM9yAv49Sl8Kwx6k1sUi0/98159c77cbf75626d65b77b1e30a2929/M-JKT-3-BRN_0280.jpg"
+        },
+        {
+          "src": "assets/images/brown-10-03.webp",
+          "alt": "Quince Italian Suede Trucker Jacket — Dark Chestnut — gallery 3",
+          "source": "https://images.quince.com/5GZdurmrgVTjmkShfJNEuH/9b0dfd7940c11a10d9d20c0963da3e59/Suede-2.jpg"
+        },
+        {
+          "src": "assets/images/brown-10-04.webp",
+          "alt": "Quince Italian Suede Trucker Jacket — Dark Chestnut — gallery 4",
+          "source": "https://images.quince.com/2JcZlUjlnlTzYNIKgUiX2t/90164d933089cff07c703cc855d1fb55/Suede-6.jpg"
+        },
+        {
+          "src": "assets/images/brown-10-05.webp",
+          "alt": "Quince Italian Suede Trucker Jacket — Dark Chestnut — gallery 5",
+          "source": "https://images.quince.com/3cBeM9MV2JI3XlXqfwmP0F/9e155ab739e59a95b045345de9b4ed75/M-JKT-3-BRN_0362.jpg"
+        },
+        {
+          "src": "assets/images/brown-10-06.webp",
+          "alt": "Quince Italian Suede Trucker Jacket — Dark Chestnut — gallery 6",
+          "source": "https://images.quince.com/5xIoPBuSjX42ZA9WDbuhQF/b2abb2f767c2602e22cad320c8d1677f/M-JKT-3-BRN_0315.jpg"
+        },
+        {
+          "src": "assets/images/brown-10-07.webp",
+          "alt": "Quince Italian Suede Trucker Jacket — Dark Chestnut — gallery 7",
+          "source": "https://images.quince.com/1N9twU9iJuqxg8j3lBdwFL/61fed1a5a75a4f2f9346e976d1bf39e0/M-JKT-3-BRN_0356.jpg"
+        },
+        {
+          "src": "assets/images/brown-10-08.webp",
+          "alt": "Quince Italian Suede Trucker Jacket — Dark Chestnut — gallery 8",
+          "source": "https://images.quince.com/6rfgkB0Aviznk7UIQytqBx/8e51b745a84c5bdb2dd7bad2040a978d/M-JKT-3-BRN_0336.jpg"
+        },
+        {
+          "src": "assets/images/brown-10-09.webp",
+          "alt": "Quince Italian Suede Trucker Jacket — Dark Chestnut — gallery 9",
+          "source": "https://images.quince.com/4a63oJjh7vKDVQxacyxedy/d0c7fa05d8bdd97ead12c4d3e7bdee19/M-JKT-3-BRN_0295.jpg"
+        },
+        {
+          "src": "assets/images/brown-10-10.webp",
+          "alt": "Quince Italian Suede Trucker Jacket — Dark Chestnut — gallery 10",
+          "source": "https://images.quince.com/5rrIH1e5Ew02hV9cOQlvXC/8116f391bf8a8e06e1e46ec0c74d76a5/M-JKT-3-BRN_0330.jpg"
+        }
+      ],
+      "materialCaveat": "Fully lined: 100% polyester satin; leather undercollar.",
+      "attribution": "Brown suede and flap chest pockets; shorter trucker silhouette and nickel snaps differ from the relaxed reference. Runs small: layering fit needs care.",
+      "facts": {
+        "Fabric": "100% genuine Italian cow split suede leather · main material",
+        "Price": "$300.00 USD · shipping / tax extra",
+        "Fit": "Trucker cut · S · runs small",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-10"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "brown-01",
+      "url": "https://www.taylorstitch.com/products/ojai-jacket-in-soil-corduroy-2609?variant=42507581096013&currency=USD",
+      "title": "Taylor Stitch · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "US HTML HTTP 200; Shopify country US / active currency USD. Variant 42507581096013, S - 38, available=true. Current variant price $248.00. Main material 100% organic cotton corduroy. The Ojai Jacket in Soil Corduroy from Taylor Stitch 12-oz. 100% organic cotton corduroy. Single chest pocket with pen slot. Two lower patch pockets feature top and side entry. All pockets bar-tacked at stress points. Double needle felled construction throughout. Ring-back buttons with metal pin and rings. Wash cold and tumble dry low. Made in China. Brown button-front alternative with lower pockets; visibly ribbed corduroy rather than suede, no flap pockets. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-02",
+      "url": "https://waxlondon.com/products/healey-dark-brown-corduroy-chore-jacket?variant=55588163617144&currency=USD",
+      "title": "Wax London · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "US HTML HTTP 200; Shopify country US / active currency USD. Variant 55588163617144, S, available=true. Current variant price $280.00. Main material 100% organic cotton corduroy. A Wax take on a classic workwear silhouette, the Healey is crafted from 100% cotton corduroy for a soft handle with subtle texture. Cut in a regular fit and left unlined for easy layering, it’s finished with twin-stitch detailing throughout and a clean, functional design built for everyday wear. 100% cotton corduroy for a soft, textured finish Twin-stitch detailing throughout Internal patch pocket for added practicality Regular fit for comfortable everyday layering Dark brown button-front chore silhouette; textured corduroy and patch pockets instead of suede/flap pockets. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-03",
+      "url": "https://aranwoollenmills.com/products/inisheer-charcoal-traditional-mens-aran-sweater?variant=55311863120245&currency=USD",
+      "title": "Aran Woollen Mills · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "US HTML HTTP 200; Shopify country US / active currency USD. Variant 55311863120245, S, available=true. Current variant price $115.00. Main material 100% merino wool. A symbol of Ireland past and present, the Inisheer Traditional Aran Sweater is a timeless addition to your wardrobe. Made with 100% Merino wool, the quality of this authentic Irish gem cannot be rivalled, its is a true Irish hero Aran Sweater. Much like its namesake, the Inisheer Aran Sweater captures the essence of Ireland in all of its glory. With a beautiful combination of traditional Aran stitches such as honeycomb, moss and cable, this piece is inspired by the past while remaining firmly rooted in the present. Comfortable, sustainably made and thoughtfully crafted wool sweater. Model Wears: Height: 6ft 2inches Wearing: L Dark cable/honeycomb knit close to the reference texture. More heritage-patterned than the minimal cashmere option; current page also labels the swatch Grey. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-04",
+      "url": "https://www.norseprojects.com/products/fyresdal-broken-twill-regular-chino-black?variant=56979674530123&currency=USD",
+      "title": "Norse Projects · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "US HTML HTTP 200; Shopify country US / active currency USD. Variant 56979674530123, 30 / 32, available=true. Current variant price $250.00. Main material 100% cotton. A regular fitting trouser constructed from an organic cotton with a broken twill weave that is garment dyed for a rich colour while also pre-shrinking the garment to ensure a lasting, reliable fit. Featuring front slant pockets, back welt pockets, a zip fly, a French-fly with waist stay and hardwearing stitching throughout. Finished with a branded tab at the back waistband. Dark-pants override: clean black tailored chino, not the cream trousers in the reference. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-05",
+      "url": "https://www.norseprojects.com/products/vivestad-broken-twill-wide-chino-black?variant=56979678691659&currency=USD",
+      "title": "Norse Projects · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "US HTML HTTP 200; Shopify country US / active currency USD. Variant 56979678691659, 30 / 32, available=true. Current variant price $250.00. Main material 100% cotton. A wide fitting trouser constructed from an organic cotton with a broken twill weave that is garment dyed for a rich colour while also pre-shrinking the garment to ensure a lasting, reliable fit. Featuring front slant pockets, back welt pockets, a zip fly, a French-fly with waist stay and hardwearing stitching throughout. Finished with a branded tab at the back waistband. Dark-pants override: roomier black tailored chino; exact W30 / L32, no hemming assumption. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-06",
+      "url": "https://www.norseprojects.com/products/lyngkrog-regular-oxford-bd-shirt-aleutian-blue?variant=56535324295499&currency=USD",
+      "title": "Norse Projects · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "US HTML HTTP 200; Shopify country US / active currency USD. Variant 56535324295499, S, available=true. Current variant price $250.00. Main material 100% organic cotton. A regular fitting shirt, with a lean body and regular length cut from an from organic cotton Oxford cloth, washed for a broken-in, authentic feel. This shirt is finished with bias-cut back yoke, mother-of-pearl buttons, a chest pocket, a button-down collar and a branded tab at the side seam. Muted pale-blue long-sleeve layering shirt; button-down collar is a small departure from the reference spread collar. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-07",
+      "url": "https://www.quince.com/men/100-organic-cotton-oxford-shirt?color=pale-blue&size=s",
+      "title": "Quince · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "Exact Quince selected variant 85718, Pale Blue / S, activeInventory.available=50, atcDisabled=false, price $42.00. The Traditional retail comparison is not a verified sale. Made from 100% organic cotton Enzyme wash process creates an ultra-soft handfeel Slimming box pleat on back of shirt Rounded left chest pocket This material is certified by OEKO-TEX® Standard 100 (Certificate Number: SH015 125361), which ensures that no hazardous substances are present Produced in a Sedex-certified factory which aims to improve working conditions throughout the supply chain Made with care in Zhongshan, China and Vietnam Affordable pale-blue long-sleeve layer; button-down collar instead of the reference spread collar. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-08",
+      "url": "https://www.quince.com/men/mongolian-cashmere-cable-crewneck-sweater?color=charcoal&size=s",
+      "title": "Quince · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "Exact Quince selected variant 29402, Charcoal / S, activeInventory.available=50, atcDisabled=false, price $109.90. The Traditional retail comparison is not a verified sale. Crafted from 100% Grade-A Mongolian cashmere 15.8 – 16.2 micron thickness, 7 gauge, 34-36mm fiber length creates a super soft hand feel Allover cable knit detailing Produced in BSCI (Business Social Compliance Initiative) certified factories which aim to improve working conditions throughout the supply chain Cashmere is sourced from goats in Inner Mongolia. Read our Cashmere 101 guide to learn more about cashmere, its origin, and how to care for it Made with care in China Closest sweater texture and color: dark charcoal allover cable knit, without a crest or contrast trim. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-09",
+      "url": "https://www.quince.com/men/men-s-100-suede-overshirt?color=dark-chestnut-brown&size=s",
+      "title": "Quince · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "Exact Quince selected variant 99971, Dark Chestnut Brown / S, activeInventory.available=7, atcDisabled=false, price $225.00. The Traditional retail comparison is not a verified sale. Crafted from 100% goat suede leather Partially lined with 100% polyester Can be worn as a standalone jacket or midlayer One left chest pocket Two side slits Button front closure & adjustable button-closure cuffs The leather used for this jacket is biodegradable and tanned in a LWG (Leather Working Group) certified tannery; a non-profit aimed to promote sustainable business practices through low energy water usage, waste management, and the elimination of restricted substances Produced in BSCI (Business Social Compliance Initiative) certified factories, which aim to improve working conditions throughout the supply chain Suede is sourced from the Middle East and made with care in India Closest understated suede layer: dark brown, matte suede, collar and button front. One chest pocket; lacks the reference lower flap pockets. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-10",
+      "url": "https://www.quince.com/men/suede-trucker-jacket?color=dark-chestnut&size=s",
+      "title": "Quince · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "Exact Quince selected variant 13381, Dark Chestnut / S, activeInventory.available=26, atcDisabled=false, price $300.00. The Traditional retail comparison is not a verified sale. Made from 100% Genuine Italian cow split suede leather Lining: 100% poly satin (fully lined) Smooth contrast leather on underside of collar Italian press stud fastening in a brushed nickel finish 5 pockets (two chest pockets, two main entry pockets, one interior pocket) The leather used for this jacket is 100% biodegradable and tanned in a LWG (Leather Working Group) certified tannery a non-profit aimed to promote sustainable business practices through low energy & water usage, waste management, and the elimination of restricted substances Produced in BSCI (Business Social Compliance Initiative) certified factories, which aim to improve working conditions throughout the supply chain Suede is sourced from Italy and made with care in India Brown suede and flap chest pockets; shorter trucker silhouette and nickel snaps differ from the relaxed reference. Runs small: layering fit needs care. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    }
+  ],
+  "evidenceNote": "Reference-matched alternatives, not identification of the original garments. Start with Quince dark-chestnut suede overshirt + charcoal cable cashmere + pale-blue Oxford, with either black Norse chino. All selected S / W30-L32 variants verified available on US storefronts. Exact-color galleries retained.",
+  "caveat": "Natural main materials only; suede/leather accepted, synthetic lining and unspecified trims disclosed. No whole-garment plastic-free claim. No jacket exactly duplicates the reference lower flap pockets. Prices are USD before shipping/tax/import fees; stock may change. Wax Robin suede S sold out, Portuguese Flannel blue Oxford S sold out, and Buck Mason data inaccessible: excluded, not substituted with guessed availability. Quince sweater and suede jackets require gentle/specialist care; suede trucker runs small. No Bottega Veneta."
+}
