@@ -2541,6 +2541,73 @@
         "checked": "2026-10-18"
       },
       "deal": "No verified markdown; $1,498 “Traditional retail” is comparison advertising, not a former Quince price."
+    },
+    {
+      "id": "contender-40",
+      "name": "Quince · 100% Organic Cotton Heavyweight Tee",
+      "url": "https://www.quince.com/men/100-organic-cotton-heavyweight-relaxed-fit-jersey-tee?color=heather-oatmeal&gender=men",
+      "category": "T-shirts",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Heather Oatmeal",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 29.9,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-40-01.webp",
+      "imageAlt": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal",
+      "imageNote": "Complete five-image Heather Oatmeal variant mediaList gallery; other colors and recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-40-01.webp",
+          "alt": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal — photo 1",
+          "source": "https://images.quince.com/6aDiiZwXUfdrDjA1XbOhQY/94649b070daf827c341c83c64bcf3739/M-LKT-97-LIGHEAG_01_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-40-02.webp",
+          "alt": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal — photo 2",
+          "source": "https://images.quince.com/3S5NVeH7No1AMUAn57S4vS/e2793fd65fbc4ae583cf4cc66a6f2775/M-LKT-97-LIGHEAG_02_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-40-03.webp",
+          "alt": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal — photo 3",
+          "source": "https://images.quince.com/1Kwo2Eb4tDU39N4i13blbF/250d7dd1746c270ab18ac488e4cee8c0/M-LKT-97-LIGHEAG_04_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-40-04.webp",
+          "alt": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal — photo 4",
+          "source": "https://images.quince.com/7do1n7d1GDVlyAwl4jSSA7/61f660dd3f88c6c4c0d17bed691e6ae0/M-LKT-97-LIGHEAG_03_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-40-05.webp",
+          "alt": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal — photo 5",
+          "source": "https://images.quince.com/5SNLs36zRy38zvRxdPN5IQ/0fafdc48ad66ed004c4185122bc4e834/M-LKT-97-LIGHEAG_05_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "Selected Heather Oatmeal page DETAILS reports 100% organic cotton; no heather blend exception disclosed. Thread and trims unspecified; retailer claim, not independent fiber testing.",
+      "attribution": "Exact supplied URL rendered HTTP 200 in dedicated Wren browser, Heather Oatmeal / S checked, In stock text and enabled Add to Bag. Variant 142961, SKU LB158300, inventory 50, atcDisabled=false. Selected-page DETAILS explicitly states Materials: 100% organic cotton and 345 gsm; no Heather Oatmeal blend exception is exposed in the details or exact variant. This is retailer-reported composition, not an independently tested fiber analysis. All five exact-color mediaList images retained; recommendations and other colors excluded.",
+      "facts": {
+        "Fabric": "100% organic cotton per selected Heather Oatmeal DETAILS; 345 gsm",
+        "Price": "$29.90 USD; shipping/tax not calculated",
+        "Fit": "Classic fit; Heather Oatmeal / S selected. Retailer current title is Heavyweight Tee; supplied URL retains relaxed-fit wording.",
+        "Status": "Heather Oatmeal S in stock; exact variant inventory 50 at check."
+      },
+      "sources": [
+        "contender-40"
+      ],
+      "sourceLinks": [
+        "https://www.quince.com/men/100-organic-cotton-heavyweight-relaxed-fit-jersey-tee?color=heather-oatmeal&gender=men"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      },
+      "deal": "Buy a 3-pack and save 10% advertised; single tee $29.90. $55 traditional retail is a comparison, not a former Quince price."
     }
   ],
   "sources": [
@@ -2809,6 +2876,13 @@
       "title": "100% Mongolian Cashmere Double-Faced Chore Blazer — Black / S",
       "type": "First-party live product",
       "note": "Exact supplied Black URL rendered live; size S explicitly selected, Black and S checked and Add to Bag enabled with In stock text. Exact variant 101155 / SKU LB116494: inventory 10, atcDisabled=false. First-party DETAILS confirms 100% Grade-A Mongolian cashmere, unlined, genuine horn buttons. All eight exact-color variant mediaList images retained."
+    },
+    {
+      "id": "contender-40",
+      "url": "https://www.quince.com/men/100-organic-cotton-heavyweight-relaxed-fit-jersey-tee?color=heather-oatmeal&gender=men",
+      "title": "100% Organic Cotton Heavyweight Tee — Heather Oatmeal / S",
+      "type": "First-party live product",
+      "note": "Exact supplied URL rendered HTTP 200 in dedicated Wren browser, Heather Oatmeal / S checked, In stock text and enabled Add to Bag. Variant 142961, SKU LB158300, inventory 50, atcDisabled=false. Selected-page DETAILS explicitly states Materials: 100% organic cotton and 345 gsm; no Heather Oatmeal blend exception is exposed in the details or exact variant. This is retailer-reported composition, not an independently tested fiber analysis. All five exact-color mediaList images retained; recommendations and other colors excluded."
     }
   ],
   "evidenceNote": "Exact supplied URLs and selected-color galleries. Saved browser order retains surviving items and appends new jackets; merchant order remains the no-saved-order default.",
@@ -2816,7 +2890,7 @@
   "sourceCoverage": {
     "linkOccurrences": 19,
     "distinctURLs": 18,
-    "products": 36,
+    "products": 37,
     "originalExcalidrawOccurrences": 14,
     "chatAdditions": 5,
     "removedProductIds": [
