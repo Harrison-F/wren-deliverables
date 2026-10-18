@@ -3,8 +3,8 @@
   "layout": "natural-basics",
   "catalog": true,
   "title": "Harrison clothes contenders",
-  "summary": "14 user-selected products; two screenshot-selected Abercrombie items removed from this collection only.",
-  "updated": "2026-10-17",
+  "summary": "15 user-selected products; three requested removals apply to this collection only; both selected jackets retained with caveats.",
+  "updated": "2026-10-18",
   "recommendation": {},
   "products": [
     {
@@ -336,91 +336,6 @@
         "gallery": true,
         "checked": "2026-10-17"
       }
-    },
-    {
-      "id": "contender-16",
-      "url": "https://www.massimodutti.com/us/corduroy-jogger-fit-pants-l00186011?pelement=63150462&colorId=800",
-      "category": "Pants",
-      "brand": "Massimo Dutti",
-      "store": "Massimo Dutti",
-      "summary": "",
-      "sources": [
-        "contender-16"
-      ],
-      "sourceLinks": [
-        "https://www.massimodutti.com/us/corduroy-jogger-fit-pants-l00186011?pelement=63150462&colorId=800"
-      ],
-      "name": "Massimo Dutti · Corduroy Jogger Fit Pants",
-      "color": "Black",
-      "unitPriceUSD": 130.0,
-      "naturalPercent": 100,
-      "integrityRank": 100,
-      "image": "assets/images/contender-16-01.webp",
-      "imageAlt": "Corduroy Jogger Fit Pants — Black — retailer gallery 1",
-      "images": [
-        {
-          "src": "assets/images/contender-16-01.webp",
-          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 1",
-          "source": "https://static.massimodutti.net/assets/public/6c50/d442/452f4a42bcf6/049771ffc756/00186011800-o6/00186011800-o6.jpg?ts=1789726326073"
-        },
-        {
-          "src": "assets/images/contender-16-02.webp",
-          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 2",
-          "source": "https://static.massimodutti.net/assets/public/7287/1cb0/a6a941838c94/67a7cb0c2fad/00186011800-o1/00186011800-o1.jpg?ts=1790319848329"
-        },
-        {
-          "src": "assets/images/contender-16-03.webp",
-          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 3",
-          "source": "https://static.massimodutti.net/assets/public/50ed/933d/ede7484fa2c7/3997d41f689f/00186011800-o7/00186011800-o7.jpg?ts=1789726325899"
-        },
-        {
-          "src": "assets/images/contender-16-04.webp",
-          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 4",
-          "source": "https://static.massimodutti.net/assets/public/a602/cdfe/0b0e4b5994a8/a95fd2db049c/00186011800-o2/00186011800-o2.jpg?ts=1790319854754"
-        },
-        {
-          "src": "assets/images/contender-16-05.webp",
-          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 5",
-          "source": "https://static.massimodutti.net/assets/public/bcbc/52cd/c3e845e69b79/856593fe6240/00186011800-o8/00186011800-o8.jpg?ts=1789726327193"
-        },
-        {
-          "src": "assets/images/contender-16-06.webp",
-          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 6",
-          "source": "https://static.massimodutti.net/assets/public/a6c8/8c86/2e8d4a7db477/eb1c275eff07/00186011800-o3/00186011800-o3.jpg?ts=1790319851131"
-        },
-        {
-          "src": "assets/images/contender-16-07.webp",
-          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 7",
-          "source": "https://static.massimodutti.net/assets/public/fc7a/534d/1882492eaa18/76d6f81cea8a/00186011800-o4/00186011800-o4.jpg?ts=1790319854573"
-        },
-        {
-          "src": "assets/images/contender-16-08.webp",
-          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 8",
-          "source": "https://static.massimodutti.net/assets/public/58c4/8199/6277434abf60/76443baa98e1/00186011800-o9/00186011800-o9.jpg?ts=1789726326856"
-        },
-        {
-          "src": "assets/images/contender-16-09.webp",
-          "alt": "Corduroy Jogger Fit Pants — Black — retailer gallery 9",
-          "source": "https://static.massimodutti.net/assets/public/1536/b09d/c65340f3bb31/e43621dcba88/00186011800-o5/00186011800-o5.jpg?ts=1790319854364"
-        }
-      ],
-      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; non-gallery swatches, fallback assets and recommendations excluded.",
-      "materialCaveat": "User-selected jogger retained; outside tailored-pants preference. Exact 30 × 32 not verified.",
-      "attribution": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Supplied pelement=63150462 retained; explicit colorId=800 selects Black catentry 63150463, rather than the pelement default color. User-selected jogger retained; outside tailored-pants preference. Exact 30 × 32 not verified.",
-      "facts": {
-        "Fabric": "Outer Shell: 100% cotton",
-        "Price": "$130.00 USD; shipping/tax extra",
-        "Fit": "Alpha sizes S–XL; no verified 30 × 32 variant",
-        "Status": "S available; exact 30 × 32 not verified"
-      },
-      "verification": {
-        "price": true,
-        "composition": true,
-        "stock": false,
-        "gallery": true,
-        "checked": "2026-10-17"
-      },
-      "verdict": "Pants"
     },
     {
       "id": "contender-11",
@@ -972,6 +887,176 @@
         "gallery": true,
         "checked": "2026-10-17"
       }
+    },
+    {
+      "id": "contender-17",
+      "name": "Massimo Dutti · 100% Wool Total Look Bomber Jacket",
+      "url": "https://www.massimodutti.com/us/100-wool-total-look-bomber-jacket-l02619357?pelement=65076165",
+      "category": "Jacket",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "color": "Deep Blue",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": 350.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-17-01.webp",
+      "imageAlt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; other colors, swatches, fallback images and recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-17-01.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 1",
+          "source": "https://static.massimodutti.net/assets/public/6942/3c3a/f0e94e1c8546/5701519f640f/02619357462-o6/02619357462-o6.jpg?ts=1787908163885"
+        },
+        {
+          "src": "assets/images/contender-17-02.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 2",
+          "source": "https://static.massimodutti.net/assets/public/c655/ddbb/6bf642ee9725/73e8310ab072/02619357462-o1/02619357462-o1.jpg?ts=1787748357338"
+        },
+        {
+          "src": "assets/images/contender-17-03.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 3",
+          "source": "https://static.massimodutti.net/assets/public/eee0/08dd/dcf742418910/fbb838776d6b/02619357462-o7/02619357462-o7.jpg?ts=1787908163205"
+        },
+        {
+          "src": "assets/images/contender-17-04.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 4",
+          "source": "https://static.massimodutti.net/assets/public/ef9a/7b25/dfa0455aa689/0636ff6ff8bb/02619357462-o2/02619357462-o2.jpg?ts=1787748354856"
+        },
+        {
+          "src": "assets/images/contender-17-05.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 5",
+          "source": "https://static.massimodutti.net/assets/public/ef71/47bb/84a94761b73b/246f3b88e4b9/02619357462-o8/02619357462-o8.jpg?ts=1787908170126"
+        },
+        {
+          "src": "assets/images/contender-17-06.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 6",
+          "source": "https://static.massimodutti.net/assets/public/0f7d/a700/89e6479e80f0/ebe13e36069d/02619357462-o3/02619357462-o3.jpg?ts=1787748356297"
+        },
+        {
+          "src": "assets/images/contender-17-07.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 7",
+          "source": "https://static.massimodutti.net/assets/public/0681/0e8b/0a1c44e5af2b/dad9b508ed92/02619357462-o4/02619357462-o4.jpg?ts=1787748378610"
+        },
+        {
+          "src": "assets/images/contender-17-08.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 8",
+          "source": "https://static.massimodutti.net/assets/public/4a46/4f39/2be547b58743/c76e7379fc96/02619357462-o9/02619357462-o9.jpg?ts=1787908162559"
+        },
+        {
+          "src": "assets/images/contender-17-09.webp",
+          "alt": "100% Wool Total Look Bomber Jacket — Deep Blue — retailer gallery 9",
+          "source": "https://static.massimodutti.net/assets/public/f6fd/4636/d9e745588599/0e4af995ca7c/02619357462-o5/02619357462-o5.jpg?ts=1787748370686"
+        }
+      ],
+      "materialCaveat": "Deep Blue, not black/brown. Lining: 100% viscose (regenerated cellulose); elastic/trim fibers unspecified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 on registered dedicated Mac Brave. US USD price and exact selected-color composition/gallery verified. Size selector shows S available, consistent with isBuyable=true and visibilityValue=SHOW.",
+      "facts": {
+        "Fabric": "Outer Shell: 100% wool; Lining: 100% viscose",
+        "Price": "$350.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "S available"
+      },
+      "sources": [
+        "contender-17"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/100-wool-total-look-bomber-jacket-l02619357?pelement=65076165"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-18",
+      "name": "Massimo Dutti · Linen Total Look Zip-Up Jacket",
+      "url": "https://www.massimodutti.com/us/linen-total-look-zipup-jacket-l02625440?pelement=64760340",
+      "category": "Jacket",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "color": "Grey Blue",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": 320.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-18-01.webp",
+      "imageAlt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color product_page image gallery in retailer position order; other colors, swatches, fallback images and recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-18-01.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 1",
+          "source": "https://static.massimodutti.net/assets/public/13e3/7736/8d4f4e0b8d7f/50105bcfd613/02625440485-o6/02625440485-o6.jpg?ts=1786608877446"
+        },
+        {
+          "src": "assets/images/contender-18-02.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 2",
+          "source": "https://static.massimodutti.net/assets/public/47dc/5977/716c4749b2cd/24d086abadfd/02625440485-o1/02625440485-o1.jpg?ts=1786024418781"
+        },
+        {
+          "src": "assets/images/contender-18-03.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 3",
+          "source": "https://static.massimodutti.net/assets/public/509f/7b17/946f43b49f22/823de18763f6/02625440485-o7/02625440485-o7.jpg?ts=1786608877687"
+        },
+        {
+          "src": "assets/images/contender-18-04.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 4",
+          "source": "https://static.massimodutti.net/assets/public/f325/b1cb/aeaa4ba5a77d/8ca27c9c72e3/02625440485-o2/02625440485-o2.jpg?ts=1786024415051"
+        },
+        {
+          "src": "assets/images/contender-18-05.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 5",
+          "source": "https://static.massimodutti.net/assets/public/610f/5638/0bf441fe8030/f8ac1858ce32/02625440485-o8/02625440485-o8.jpg?ts=1786608877590"
+        },
+        {
+          "src": "assets/images/contender-18-06.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 6",
+          "source": "https://static.massimodutti.net/assets/public/ec3f/9869/b1b44cb7b390/94257c83c85a/02625440485-o3/02625440485-o3.jpg?ts=1786024419847"
+        },
+        {
+          "src": "assets/images/contender-18-07.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 7",
+          "source": "https://static.massimodutti.net/assets/public/73e7/fe71/f7074242831f/05fa064705c9/02625440485-o4/02625440485-o4.jpg?ts=1786024419061"
+        },
+        {
+          "src": "assets/images/contender-18-08.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 8",
+          "source": "https://static.massimodutti.net/assets/public/0fea/cc2e/dbec43e180fa/6cc5b8244e29/02625440485-o9/02625440485-o9.jpg?ts=1786608876397"
+        },
+        {
+          "src": "assets/images/contender-18-09.webp",
+          "alt": "Linen Total Look Zip-Up Jacket — Grey Blue — retailer gallery 9",
+          "source": "https://static.massimodutti.net/assets/public/c961/372a/b80b415c9793/38ef15276a79/02625440485-o5/02625440485-o5.jpg?ts=1786024418769"
+        }
+      ],
+      "materialCaveat": "Grey Blue, not black/brown. S sold out; retained as selected. Only outer-shell composition disclosed; trims unspecified.",
+      "attribution": "Exact supplied URL rendered HTTP 200 on registered dedicated Mac Brave. US USD price and exact selected-color composition/gallery verified. Size selector explicitly marks S SOLD OUT; embedded isBuyable=true conflicts, so visible sold-out state takes precedence.",
+      "facts": {
+        "Fabric": "Outer Shell: 100% linen",
+        "Price": "$320.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "S sold out"
+      },
+      "sources": [
+        "contender-18"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/linen-total-look-zipup-jacket-l02625440?pelement=64760340"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
     }
   ],
   "sources": [
@@ -1074,24 +1159,32 @@
       "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Wool composition excludes elastic; trim fibers unspecified."
     },
     {
-      "id": "contender-16",
-      "url": "https://www.massimodutti.com/us/corduroy-jogger-fit-pants-l00186011?pelement=63150462&colorId=800",
-      "title": "Corduroy Jogger Fit Pants — supplied listing",
+      "id": "contender-17",
+      "url": "https://www.massimodutti.com/us/100-wool-total-look-bomber-jacket-l02619357?pelement=65076165",
+      "title": "100% Wool Total Look Bomber Jacket — supplied listing",
       "type": "First-party live US product",
-      "note": "Exact supplied URL rendered HTTP 200 in registered dedicated Mac Brave; US USD price and selected-color composition/gallery from live page. Supplied pelement=63150462 retained; explicit colorId=800 selects Black catentry 63150463, rather than the pelement default color. User-selected jogger retained; outside tailored-pants preference. Exact 30 × 32 not verified."
+      "note": "Exact supplied URL rendered HTTP 200 on registered dedicated Mac Brave. US USD price and exact selected-color composition/gallery verified. Size selector shows S available, consistent with isBuyable=true and visibilityValue=SHOW."
+    },
+    {
+      "id": "contender-18",
+      "url": "https://www.massimodutti.com/us/linen-total-look-zipup-jacket-l02625440?pelement=64760340",
+      "title": "Linen Total Look Zip-Up Jacket — supplied listing",
+      "type": "First-party live US product",
+      "note": "Exact supplied URL rendered HTTP 200 on registered dedicated Mac Brave. US USD price and exact selected-color composition/gallery verified. Size selector explicitly marks S SOLD OUT; embedded isBuyable=true conflicts, so visible sold-out state takes precedence."
     }
   ],
-  "evidenceNote": "14 retained contenders with exact supplied URLs and selected-color galleries. Merchant order remains the default; optional price sorting available.",
-  "caveat": "Previously blocked listings recovered: Abercrombie and Massimo Dutti on dedicated Mac Brave, COS US on dedicated Linux Brave. Ryker S/Black sold out; COS S/15 has two left while S/14½ is sold out. Selected pants retain color/style and exact-30 × 32 caveats. No human browser action needed.",
+  "evidenceNote": "Exact supplied URLs and selected-color galleries. Saved browser order retains surviving items and appends new jackets; merchant order remains the no-saved-order default.",
+  "caveat": "Previously blocked listings recovered: Abercrombie and Massimo Dutti on dedicated Mac Brave, COS US on dedicated Linux Brave. Ryker S/Black sold out; COS S/15 has two left while S/14½ is sold out. Selected pants retain color/style and exact-30 × 32 caveats. No human browser action needed. New wool jacket is Deep Blue with viscose lining; linen jacket is Grey Blue and S sold out. Both retained as explicitly selected.",
   "sourceCoverage": {
-    "linkOccurrences": 17,
-    "distinctURLs": 16,
-    "products": 14,
+    "linkOccurrences": 19,
+    "distinctURLs": 18,
+    "products": 15,
     "originalExcalidrawOccurrences": 14,
-    "chatAdditions": 3,
+    "chatAdditions": 5,
     "removedProductIds": [
       "contender-03",
-      "contender-04"
+      "contender-04",
+      "contender-16"
     ]
   },
   "defaultSort": "merchant",
