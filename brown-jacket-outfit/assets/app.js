@@ -41,7 +41,7 @@ function attachGalleries(topic) {
   el.addEventListener('keydown',e=>{if(images.length>1&&['ArrowLeft','ArrowRight'].includes(e.key)){e.preventDefault();move(e.key==='ArrowRight'?1:-1);}});
   const link=el.querySelector('.product-photo-link');
   link.addEventListener('touchstart',e=>{start={x:e.touches[0].clientX,y:e.touches[0].clientY};suppressClick=false;},{passive:true});
-  link.addEventListener('touchend',e=>{if(!start||images.length<2)return;const dx=e.changedTouches[0].clientX-start.x,dy=e.changedTouches[0].clientY-start.y;if(Math.abs(dx)>45&&Math.abs(dx)>Math.abs(dy)){e.preventDefault();suppressClick=true;move(dx<0?1:-1);}start=null;},{passive:false});
+  link.addEventListener('touchend',e=>{if(!start||images.length<2)return;const dx=e.changedTouches[0].clientX-start.x,dy=e.changedTouches[0].clientY-start.y;if(Math.abs(dx)>45&&Math.abs(dx)>Math.abs(dy)){if(e.cancelable)e.preventDefault();suppressClick=true;move(dx<0?1:-1);}start=null;},{passive:false});
   link.addEventListener('click',e=>{if(suppressClick){e.preventDefault();suppressClick=false;}});
   el.querySelector('[data-image]').addEventListener('click',()=>openImage({...p,image:images[index].src,imageAlt:images[index].alt}));
  });

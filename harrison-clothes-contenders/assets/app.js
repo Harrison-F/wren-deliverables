@@ -41,7 +41,7 @@ function attachGalleries(topic) {
   el.addEventListener('keydown',e=>{if(images.length>1&&['ArrowLeft','ArrowRight'].includes(e.key)){e.preventDefault();move(e.key==='ArrowRight'?1:-1);}});
   const link=el.querySelector('.product-photo-link');
   link.addEventListener('touchstart',e=>{start={x:e.touches[0].clientX,y:e.touches[0].clientY};suppressClick=false;},{passive:true});
-  link.addEventListener('touchend',e=>{if(!start||images.length<2)return;const dx=e.changedTouches[0].clientX-start.x,dy=e.changedTouches[0].clientY-start.y;if(Math.abs(dx)>45&&Math.abs(dx)>Math.abs(dy)){e.preventDefault();suppressClick=true;move(dx<0?1:-1);}start=null;},{passive:false});
+  link.addEventListener('touchend',e=>{if(!start||images.length<2)return;const dx=e.changedTouches[0].clientX-start.x,dy=e.changedTouches[0].clientY-start.y;if(Math.abs(dx)>45&&Math.abs(dx)>Math.abs(dy)){if(e.cancelable)e.preventDefault();suppressClick=true;move(dx<0?1:-1);}start=null;},{passive:false});
   link.addEventListener('click',e=>{if(suppressClick){e.preventDefault();suppressClick=false;}});
   el.querySelector('[data-image]').addEventListener('click',()=>openImage({...p,image:images[index].src,imageAlt:images[index].alt}));
  });
@@ -64,7 +64,7 @@ async function render() {
  const library=await load('data/library.json'); const id=new URLSearchParams(location.search).get('topic');
  if(!id) {document.title='Research library';content.innerHTML=intro('Research library','Decisions, comparisons and the evidence behind them.')+search('Search topics')+`<section class="display-template" aria-label="Research topics">${library.topics.map(t=>`<article class="display-card" data-search="${esc((t.title+' '+t.summary).toLowerCase())}"><a class="portrait-wrap" href="?topic=${encodeURIComponent(t.id)}" aria-label="Open ${esc(t.title)}"><img class="portrait" src="${imageURL(t.image)}" alt="${esc(t.imageAlt)}"></a><div class="card-body"><div class="card-head"><div class="identity"><h2>${esc(t.title)}</h2></div></div><p class="bio">${esc(t.summary)}</p><div class="card-foot"><a class="secondary-button" href="?topic=${encodeURIComponent(t.id)}">View research →</a></div></div></article>`).join('')}</section><p id="no-results" class="empty" hidden>No matching topics.</p>`;attachSearch();return;}
  if(!library.topics.some(t=>t.id===id)||! /^[a-z0-9-]+$/.test(id)) throw Error('Topic not found. Choose a topic from the library.');
- const topic=await load(`data/topics/${id}.json`);document.title=topic.title+' · Research library';document.querySelector('#home-link').hidden=false;
+ const topic=await load(`data/topics/${id}.json`);document.title=topic.id==='harrison-clothes-contenders'?"Harrison's Clothes Contenders":topic.title+' · Research library';document.querySelector('#home-link').hidden=false;
  const compact=topic.layout==='natural-basics';
  content.classList.toggle('natural-basics',compact);
  const catalog=topic.id==='mens-natural-wardrobe'||topic.catalog===true;document.body.classList.toggle('clothing-catalog',catalog);
