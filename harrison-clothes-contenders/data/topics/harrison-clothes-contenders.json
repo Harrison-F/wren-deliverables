@@ -1,0 +1,756 @@
+{
+  "id": "harrison-clothes-contenders",
+  "layout": "natural-basics",
+  "catalog": true,
+  "title": "Harrison clothes contenders",
+  "summary": "14 supplied link occurrences, 13 distinct URLs/products. Identical collared-sweater link appears twice and is represented once; no selected color variants merged. Tops/jackets S, dark pants 30 × 32. All contenders retained regardless of composition or stock.",
+  "updated": "2026-10-17",
+  "recommendation": {},
+  "products": [
+    {
+      "id": "contender-13",
+      "name": "Quince · 100% Organic Cotton Ribbed Quarter-Zip Sweater",
+      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=speckled-beige&size=s",
+      "category": "Sweater",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Speckled Beige",
+      "verdict": "Sweater",
+      "summary": "",
+      "unitPriceUSD": 62,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-13-01.webp",
+      "imageAlt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 1",
+      "imageNote": "Complete exposed selected-product gallery; retailer source order, resized proportionally to WebP max 1400px. ",
+      "images": [
+        {
+          "src": "assets/images/contender-13-01.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 1",
+          "source": "https://images.quince.com/73t9KamBPwGdguFbh4z9Vg/f438babe0dd41a3b013b8a82c866d5a5/M-SWT-115-SPBGE-01_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-13-02.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 2",
+          "source": "https://images.quince.com/5zqTEDC0Hhms5YvZkeuejI/eb6c60f39cae122d3c07f4e0cc9467a3/M-SWT-115-SPBGE-02_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-13-03.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 3",
+          "source": "https://images.quince.com/1XwxS01autGZ8PvknXHUvS/79ec47d22279256e9d48a1c9879cfcb2/M-SWT-115-SPBGE-04_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-13-04.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 4",
+          "source": "https://images.quince.com/19KNN1ydwLDmqTkHfO5JoQ/1f964b71553dad51617ec1b35480b5ef/M-SWT-115-SPBGE-03_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-13-05.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 5",
+          "source": "https://images.quince.com/17PL8cXO6yu8Bm6carKcH9/3c470a32e760d8d9390d069370009bd6/M-SWT-115-SPBGE-05_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-13-06.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 6",
+          "source": "https://images.quince.com/2Hrqxpqvzlx7AzdgX85swP/bd843aac7a139e3f6644c28cf7b52ec1/M-SWT-115-SPBGE-06_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "Trims unspecified.",
+      "attribution": "Live selected-color/size page and embedded variant checked: 18 available, Add to Bag enabled. Traditional retail comparison is not a sale. Main fabric meets criterion; trims unspecified.",
+      "facts": {
+        "Fabric": "100% organic cotton",
+        "Price": "$62.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "S available"
+      },
+      "sources": [
+        "contender-13"
+      ],
+      "sourceLinks": [
+        "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=speckled-beige&size=s"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-01",
+      "name": "Ryker Clothing Co · The Forge Gym Tee (55% Hemp / 45% Organic Cotton)",
+      "url": "https://rykerclothingco.com/products/the-forge-gym-tee-45-organic-cotton-55-hemp?variant=53027686154562",
+      "category": "T-shirts",
+      "brand": "Ryker Clothing Co",
+      "store": "Ryker Clothing Co",
+      "color": "Black",
+      "verdict": "T-shirts",
+      "summary": "",
+      "unitPriceUSD": 68.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-01-01.webp",
+      "imageAlt": "The Forge Gym Tee (55% Hemp / 45% Organic Cotton) — Black — retailer gallery 1",
+      "imageNote": "Complete exposed selected-product gallery; retailer source order, resized proportionally to WebP max 1400px. Live US page and exact Shopify size variant checked. Main fabric meets natural-fiber criterion; trims not fully specified. Shared retailer gallery exposes seven slides. Retained the black tee image and two color-neutral material/brand graphics; excluded navy packshot, two blue-toned model images (ChatGPT_Image filenames), and grey-shirt brand graphic. Marketing claims are retailer claims, not independent evidence.",
+      "images": [
+        {
+          "src": "assets/images/contender-01-01.webp",
+          "alt": "The Forge Gym Tee (55% Hemp / 45% Organic Cotton) — Black — retailer gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0682/5112/4034/files/42.png?v=1778533517"
+        },
+        {
+          "src": "assets/images/contender-01-02.webp",
+          "alt": "The Forge Gym Tee (55% Hemp / 45% Organic Cotton) — Black — retailer gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0682/5112/4034/files/PDP_-_Callout_420d09f6-121c-473d-ba8a-7502c3649828.png?v=1778185024"
+        },
+        {
+          "src": "assets/images/contender-01-03.webp",
+          "alt": "The Forge Gym Tee (55% Hemp / 45% Organic Cotton) — Black — retailer gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0682/5112/4034/files/PDP-UsvsThem.png?v=1764176050"
+        }
+      ],
+      "materialCaveat": "S / Black sold out. Trims unspecified.",
+      "attribution": "Live US page and exact Shopify size variant checked. Main fabric meets natural-fiber criterion; trims not fully specified. Shared retailer gallery exposes seven slides. Retained the black tee image and two color-neutral material/brand graphics; excluded navy packshot, two blue-toned model images (ChatGPT_Image filenames), and grey-shirt brand graphic. Marketing claims are retailer claims, not independent evidence.",
+      "facts": {
+        "Fabric": "55% hemp / 45% organic cotton",
+        "Price": "$68.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "Small / Black sold out"
+      },
+      "sources": [
+        "contender-01"
+      ],
+      "sourceLinks": [
+        "https://rykerclothingco.com/products/the-forge-gym-tee-45-organic-cotton-55-hemp?variant=53027686154562"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      },
+      "deal": "Advertised bundles: 2 for $61.20 each; 4 for $54.40 each. Selected S/Black sold out."
+    },
+    {
+      "id": "contender-12",
+      "name": "Taylor Stitch · The Ojai Jacket in Soil Corduroy",
+      "url": "https://www.taylorstitch.com/products/ojai-jacket-in-soil-corduroy-2609",
+      "category": "Jacket",
+      "brand": "Taylor Stitch",
+      "store": "Taylor Stitch",
+      "color": "Soil Corduroy",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": 248.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-12-01.webp",
+      "imageAlt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 1",
+      "imageNote": "Complete exposed selected-product gallery; retailer source order, resized proportionally to WebP max 1400px. ",
+      "images": [
+        {
+          "src": "assets/images/contender-12-01.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/ojai-jacket-in-soil-corduroy-2609_001.jpg?v=1790611920"
+        },
+        {
+          "src": "assets/images/contender-12-02.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_002.jpg?v=1788450304"
+        },
+        {
+          "src": "assets/images/contender-12-03.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_003.jpg?v=1788450309"
+        },
+        {
+          "src": "assets/images/contender-12-04.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_004.jpg?v=1788450312"
+        },
+        {
+          "src": "assets/images/contender-12-05.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_005.jpg?v=1788450315"
+        },
+        {
+          "src": "assets/images/contender-12-06.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_006.jpg?v=1788450320"
+        },
+        {
+          "src": "assets/images/contender-12-07.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_007.jpg?v=1788450323"
+        },
+        {
+          "src": "assets/images/contender-12-08.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 8",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_008.jpg?v=1788450326"
+        },
+        {
+          "src": "assets/images/contender-12-09.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 9",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_ojai-jacket-soil-corduroy_swatch.jpg?v=1785258984"
+        }
+      ],
+      "materialCaveat": "Trims unspecified.",
+      "attribution": "Live US page and exact Shopify size variant checked. Main fabric meets natural-fiber criterion; trims not fully specified.",
+      "facts": {
+        "Fabric": "100% organic cotton corduroy",
+        "Price": "$248.00 USD; shipping/tax extra",
+        "Fit": "S requested",
+        "Status": "S / 38 available"
+      },
+      "sources": [
+        "contender-12"
+      ],
+      "sourceLinks": [
+        "https://www.taylorstitch.com/products/ojai-jacket-in-soil-corduroy-2609"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-02",
+      "name": "Abercrombie & Fitch · Denim Button-Up Shirt",
+      "url": "https://www.abercrombie.com/shop/us/p/denim-button-up-shirt-63405327?categoryId=87658&faceout=life&seq=01&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=3",
+      "category": "Shirt",
+      "brand": "Abercrombie & Fitch",
+      "store": "Abercrombie & Fitch",
+      "color": "Selected URL variant retained; color name unverified",
+      "verdict": "Shirt",
+      "summary": "",
+      "unitPriceUSD": null,
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "image": null,
+      "imageAlt": "",
+      "imageNote": "No verified retailer image recovered. No substitute or invented image used.",
+      "images": [],
+      "materialCaveat": "Stock / selected color unknown; natural-fabric criterion unverified.",
+      "attribution": "Direct HTTP and disposable browser blocked by CAPTCHA. Display name transcribed from the supplied URL slug; current retailer title unverified.",
+      "facts": {
+        "Fabric": "Composition unknown — title is not composition verification",
+        "Price": "Unknown",
+        "Fit": "S requested",
+        "Status": "Stock unknown — retailer access blocked"
+      },
+      "sources": [
+        "contender-02"
+      ],
+      "sourceLinks": [
+        "https://www.abercrombie.com/shop/us/p/denim-button-up-shirt-63405327?categoryId=87658&faceout=life&seq=01&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=3"
+      ],
+      "verification": {
+        "price": false,
+        "composition": false,
+        "stock": false,
+        "gallery": false,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-03",
+      "name": "Abercrombie & Fitch · 100% Merino Wool 3-Button Collared Sweater",
+      "url": "https://www.abercrombie.com/shop/us/p/100-merino-wool-3-button-collared-sweater-63845824?categoryId=87658&faceout=model&seq=03&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=17",
+      "category": "Sweater",
+      "brand": "Abercrombie & Fitch",
+      "store": "Abercrombie & Fitch",
+      "color": "Selected URL variant retained; color name unverified",
+      "verdict": "Sweater",
+      "summary": "",
+      "unitPriceUSD": null,
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "image": null,
+      "imageAlt": "",
+      "imageNote": "No verified retailer image recovered. No substitute or invented image used.",
+      "images": [],
+      "materialCaveat": "Stock / selected color unknown; natural-fabric criterion unverified.",
+      "attribution": "Direct HTTP and disposable browser blocked by CAPTCHA. Display name transcribed from the supplied URL slug; current retailer title unverified.",
+      "facts": {
+        "Fabric": "Composition unknown — title is not composition verification",
+        "Price": "Unknown",
+        "Fit": "S requested",
+        "Status": "Stock unknown — retailer access blocked"
+      },
+      "sources": [
+        "contender-03"
+      ],
+      "sourceLinks": [
+        "https://www.abercrombie.com/shop/us/p/100-merino-wool-3-button-collared-sweater-63845824?categoryId=87658&faceout=model&seq=03&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=17"
+      ],
+      "verification": {
+        "price": false,
+        "composition": false,
+        "stock": false,
+        "gallery": false,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-04",
+      "name": "Abercrombie & Fitch · 100% Cotton Corduroy Shirt Jacket",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?categoryId=12221&faceout=model&seq=03&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=17",
+      "category": "Jacket",
+      "brand": "Abercrombie & Fitch",
+      "store": "Abercrombie & Fitch",
+      "color": "Selected URL variant retained; color name unverified",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": null,
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "image": null,
+      "imageAlt": "",
+      "imageNote": "No verified retailer image recovered. No substitute or invented image used.",
+      "images": [],
+      "materialCaveat": "Stock / selected color unknown; natural-fabric criterion unverified.",
+      "attribution": "Direct HTTP and disposable browser blocked by CAPTCHA. Display name transcribed from the supplied URL slug; current retailer title unverified.",
+      "facts": {
+        "Fabric": "Composition unknown — title is not composition verification",
+        "Price": "Unknown",
+        "Fit": "S requested",
+        "Status": "Stock unknown — retailer access blocked"
+      },
+      "sources": [
+        "contender-04"
+      ],
+      "sourceLinks": [
+        "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?categoryId=12221&faceout=model&seq=03&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=17"
+      ],
+      "verification": {
+        "price": false,
+        "composition": false,
+        "stock": false,
+        "gallery": false,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-05",
+      "name": "Abercrombie & Fitch · 100% Cotton Textural Rollneck Crew Sweater",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-textural-rollneck-crew-sweater-63392331?faceout=model&seq=04&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=11",
+      "category": "Sweater",
+      "brand": "Abercrombie & Fitch",
+      "store": "Abercrombie & Fitch",
+      "color": "Selected URL variant retained; color name unverified",
+      "verdict": "Sweater",
+      "summary": "",
+      "unitPriceUSD": null,
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "image": null,
+      "imageAlt": "",
+      "imageNote": "No verified retailer image recovered. No substitute or invented image used.",
+      "images": [],
+      "materialCaveat": "Stock / selected color unknown; natural-fabric criterion unverified.",
+      "attribution": "Direct HTTP and disposable browser blocked by CAPTCHA. Display name transcribed from the supplied URL slug; current retailer title unverified.",
+      "facts": {
+        "Fabric": "Composition unknown — title is not composition verification",
+        "Price": "Unknown",
+        "Fit": "S requested",
+        "Status": "Stock unknown — retailer access blocked"
+      },
+      "sources": [
+        "contender-05"
+      ],
+      "sourceLinks": [
+        "https://www.abercrombie.com/shop/us/p/100-cotton-textural-rollneck-crew-sweater-63392331?faceout=model&seq=04&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=11"
+      ],
+      "verification": {
+        "price": false,
+        "composition": false,
+        "stock": false,
+        "gallery": false,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-06",
+      "name": "Abercrombie & Fitch · Classic Essential Tee",
+      "url": "https://www.abercrombie.com/shop/us/p/classic-essential-tee-61737319?faceout=model&seq=10&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=15",
+      "category": "T-shirts",
+      "brand": "Abercrombie & Fitch",
+      "store": "Abercrombie & Fitch",
+      "color": "Selected URL variant retained; color name unverified",
+      "verdict": "T-shirts",
+      "summary": "",
+      "unitPriceUSD": null,
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "image": null,
+      "imageAlt": "",
+      "imageNote": "No verified retailer image recovered. No substitute or invented image used.",
+      "images": [],
+      "materialCaveat": "Stock / selected color unknown; natural-fabric criterion unverified.",
+      "attribution": "Direct HTTP and disposable browser blocked by CAPTCHA. Display name transcribed from the supplied URL slug; current retailer title unverified.",
+      "facts": {
+        "Fabric": "Composition unknown — title is not composition verification",
+        "Price": "Unknown",
+        "Fit": "S requested",
+        "Status": "Stock unknown — retailer access blocked"
+      },
+      "sources": [
+        "contender-06"
+      ],
+      "sourceLinks": [
+        "https://www.abercrombie.com/shop/us/p/classic-essential-tee-61737319?faceout=model&seq=10&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=15"
+      ],
+      "verification": {
+        "price": false,
+        "composition": false,
+        "stock": false,
+        "gallery": false,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-07",
+      "name": "Abercrombie & Fitch · 100% Merino Wool Crew Sweater",
+      "url": "https://www.abercrombie.com/shop/us/p/100-merino-wool-crew-sweater-63830819?faceout=model&seq=04&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=14",
+      "category": "Sweater",
+      "brand": "Abercrombie & Fitch",
+      "store": "Abercrombie & Fitch",
+      "color": "Selected URL variant retained; color name unverified",
+      "verdict": "Sweater",
+      "summary": "",
+      "unitPriceUSD": null,
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "image": null,
+      "imageAlt": "",
+      "imageNote": "No verified retailer image recovered. No substitute or invented image used.",
+      "images": [],
+      "materialCaveat": "Stock / selected color unknown; natural-fabric criterion unverified.",
+      "attribution": "Direct HTTP and disposable browser blocked by CAPTCHA. Display name transcribed from the supplied URL slug; current retailer title unverified.",
+      "facts": {
+        "Fabric": "Composition unknown — title is not composition verification",
+        "Price": "Unknown",
+        "Fit": "S requested",
+        "Status": "Stock unknown — retailer access blocked"
+      },
+      "sources": [
+        "contender-07"
+      ],
+      "sourceLinks": [
+        "https://www.abercrombie.com/shop/us/p/100-merino-wool-crew-sweater-63830819?faceout=model&seq=04&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=14"
+      ],
+      "verification": {
+        "price": false,
+        "composition": false,
+        "stock": false,
+        "gallery": false,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-08",
+      "name": "Abercrombie & Fitch · 100% Cashmere Rib Beanie",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cashmere-rib-beanie-63842820?faceout=prod&seq=01&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=175",
+      "category": "Accessories",
+      "brand": "Abercrombie & Fitch",
+      "store": "Abercrombie & Fitch",
+      "color": "Selected URL variant retained; color name unverified",
+      "verdict": "Accessories",
+      "summary": "",
+      "unitPriceUSD": null,
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "image": null,
+      "imageAlt": "",
+      "imageNote": "No verified retailer image recovered. No substitute or invented image used.",
+      "images": [],
+      "materialCaveat": "Stock / selected color unknown; natural-fabric criterion unverified.",
+      "attribution": "Direct HTTP and disposable browser blocked by CAPTCHA. Display name transcribed from the supplied URL slug; current retailer title unverified.",
+      "facts": {
+        "Fabric": "Composition unknown — title is not composition verification",
+        "Price": "Unknown",
+        "Fit": "One-size fit unverified",
+        "Status": "Stock unknown — retailer access blocked"
+      },
+      "sources": [
+        "contender-08"
+      ],
+      "sourceLinks": [
+        "https://www.abercrombie.com/shop/us/p/100-cashmere-rib-beanie-63842820?faceout=prod&seq=01&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=175"
+      ],
+      "verification": {
+        "price": false,
+        "composition": false,
+        "stock": false,
+        "gallery": false,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-09",
+      "name": "COS · COTTON-CHAMBRAY SHIRT",
+      "url": "https://www.cos.com/en-us/men/menswear/shirts/casualshirts/product/cotton-chambray-shirt-grey-mlange-1351093001",
+      "category": "Shirt",
+      "brand": "COS",
+      "store": "COS",
+      "color": "Grey mélange",
+      "verdict": "Shirt",
+      "summary": "",
+      "unitPriceUSD": null,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-09-01.webp",
+      "imageAlt": "COTTON-CHAMBRAY SHIRT — Grey mélange — retailer gallery 1",
+      "imageNote": "Complete exposed selected-product gallery; COS Thailand exact article. retailer source order, resized proportionally to WebP max 1400px. ",
+      "images": [
+        {
+          "src": "assets/images/contender-09-01.webp",
+          "alt": "COTTON-CHAMBRAY SHIRT — Grey mélange — retailer gallery 1",
+          "source": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/231ca41c392570ecd0543040db7e9ee264318132_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-02.webp",
+          "alt": "COTTON-CHAMBRAY SHIRT — Grey mélange — retailer gallery 2",
+          "source": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/24d3dc17255554e0742863085b96bc9ed3aadb25_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-03.webp",
+          "alt": "COTTON-CHAMBRAY SHIRT — Grey mélange — retailer gallery 3",
+          "source": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/9d749b8589603533cd03918f3021392369d1ff05_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-04.webp",
+          "alt": "COTTON-CHAMBRAY SHIRT — Grey mélange — retailer gallery 4",
+          "source": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/77bebabca5d167e78cbec849c3f86a3e16ea531e_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-05.webp",
+          "alt": "COTTON-CHAMBRAY SHIRT — Grey mélange — retailer gallery 5",
+          "source": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/54a0fe521a8042624eb720e271e387274ec4642c_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-06.webp",
+          "alt": "COTTON-CHAMBRAY SHIRT — Grey mélange — retailer gallery 6",
+          "source": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/f7ca19d7491ace61fca42aa36b8e3529a844f510_xxl-1.jpg"
+        },
+        {
+          "src": "assets/images/contender-09-07.webp",
+          "alt": "COTTON-CHAMBRAY SHIRT — Grey mélange — retailer gallery 7",
+          "source": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/68d09e318ca9ee895347d9676737a0661c631cc7_xxl-1.jpg"
+        }
+      ],
+      "materialCaveat": "US price / S stock unknown.",
+      "attribution": "US listing blocked. Composition and seven-image gallery verified from COS Thailand article 1351093001; Thailand price/stock do not establish US price or S availability.",
+      "facts": {
+        "Fabric": "Shell: 100% cotton (exact-article COS Thailand listing)",
+        "Price": "Unknown",
+        "Fit": "S requested",
+        "Status": "Stock unknown — retailer access blocked"
+      },
+      "sources": [
+        "contender-09",
+        "cos-regional"
+      ],
+      "sourceLinks": [
+        "https://www.cos.com/en-us/men/menswear/shirts/casualshirts/product/cotton-chambray-shirt-grey-mlange-1351093001"
+      ],
+      "verification": {
+        "price": false,
+        "composition": true,
+        "stock": false,
+        "gallery": true,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-10",
+      "name": "Massimo Dutti · 100% wool high neck down jacket",
+      "url": "https://www.massimodutti.com/us/100-wool-high-neck-down-jacket-l03270428?pelement=64740328",
+      "category": "Jacket",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "color": "Selected URL variant retained; color name unverified",
+      "verdict": "Jacket",
+      "summary": "",
+      "unitPriceUSD": null,
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "image": null,
+      "imageAlt": "",
+      "imageNote": "No verified retailer image recovered. No substitute or invented image used.",
+      "images": [],
+      "materialCaveat": "Stock / selected color unknown; natural-fabric criterion unverified.",
+      "attribution": "Direct HTTP and disposable browser returned Access Denied. Display name transcribed from the supplied URL slug; current retailer title unverified.",
+      "facts": {
+        "Fabric": "Composition unknown — title is not composition verification",
+        "Price": "Unknown",
+        "Fit": "S requested",
+        "Status": "Stock unknown — retailer access blocked"
+      },
+      "sources": [
+        "contender-10"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/100-wool-high-neck-down-jacket-l03270428?pelement=64740328"
+      ],
+      "verification": {
+        "price": false,
+        "composition": false,
+        "stock": false,
+        "gallery": false,
+        "checked": "2026-10-17"
+      }
+    },
+    {
+      "id": "contender-11",
+      "name": "Massimo Dutti · 100% wool pants with waist detail",
+      "url": "https://www.massimodutti.com/us/100-wool-pants-with-waist-detail-l00187011?pelement=64340045",
+      "category": "Pants",
+      "brand": "Massimo Dutti",
+      "store": "Massimo Dutti",
+      "color": "Selected URL variant retained; color name unverified",
+      "verdict": "Pants",
+      "summary": "",
+      "unitPriceUSD": null,
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "image": null,
+      "imageAlt": "",
+      "imageNote": "No verified retailer image recovered. No substitute or invented image used.",
+      "images": [],
+      "materialCaveat": "Stock / selected color unknown; natural-fabric criterion unverified.",
+      "attribution": "Direct HTTP and disposable browser returned Access Denied. Display name transcribed from the supplied URL slug; current retailer title unverified.",
+      "facts": {
+        "Fabric": "Composition unknown — title is not composition verification",
+        "Price": "Unknown",
+        "Fit": "30 × 32 requested; waist/inseam unverified",
+        "Status": "Stock unknown — retailer access blocked"
+      },
+      "sources": [
+        "contender-11"
+      ],
+      "sourceLinks": [
+        "https://www.massimodutti.com/us/100-wool-pants-with-waist-detail-l00187011?pelement=64340045"
+      ],
+      "verification": {
+        "price": false,
+        "composition": false,
+        "stock": false,
+        "gallery": false,
+        "checked": "2026-10-17"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "contender-01",
+      "url": "https://rykerclothingco.com/products/the-forge-gym-tee-45-organic-cotton-55-hemp?variant=53027686154562",
+      "title": "The Forge Gym Tee (55% Hemp / 45% Organic Cotton) — supplied listing",
+      "type": "First-party live product",
+      "note": "Live US page and exact Shopify size variant checked. Main fabric meets natural-fiber criterion; trims not fully specified. Shared retailer gallery exposes seven slides. Retained the black tee image and two color-neutral material/brand graphics; excluded navy packshot, two blue-toned model images (ChatGPT_Image filenames), and grey-shirt brand graphic. Marketing claims are retailer claims, not independent evidence."
+    },
+    {
+      "id": "contender-02",
+      "url": "https://www.abercrombie.com/shop/us/p/denim-button-up-shirt-63405327?categoryId=87658&faceout=life&seq=01&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=3",
+      "title": "Denim Button-Up Shirt — supplied listing",
+      "type": "Supplied listing; US access blocked",
+      "note": "Direct HTTP and disposable browser blocked by CAPTCHA."
+    },
+    {
+      "id": "contender-03",
+      "url": "https://www.abercrombie.com/shop/us/p/100-merino-wool-3-button-collared-sweater-63845824?categoryId=87658&faceout=model&seq=03&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=17",
+      "title": "100% Merino Wool 3-Button Collared Sweater — supplied listing",
+      "type": "Supplied listing; US access blocked",
+      "note": "Direct HTTP and disposable browser blocked by CAPTCHA."
+    },
+    {
+      "id": "contender-04",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?categoryId=12221&faceout=model&seq=03&afsource=social+proofing&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=17",
+      "title": "100% Cotton Corduroy Shirt Jacket — supplied listing",
+      "type": "Supplied listing; US access blocked",
+      "note": "Direct HTTP and disposable browser blocked by CAPTCHA."
+    },
+    {
+      "id": "contender-05",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-textural-rollneck-crew-sweater-63392331?faceout=model&seq=04&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=11",
+      "title": "100% Cotton Textural Rollneck Crew Sweater — supplied listing",
+      "type": "Supplied listing; US access blocked",
+      "note": "Direct HTTP and disposable browser blocked by CAPTCHA."
+    },
+    {
+      "id": "contender-06",
+      "url": "https://www.abercrombie.com/shop/us/p/classic-essential-tee-61737319?faceout=model&seq=10&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=15",
+      "title": "Classic Essential Tee — supplied listing",
+      "type": "Supplied listing; US access blocked",
+      "note": "Direct HTTP and disposable browser blocked by CAPTCHA."
+    },
+    {
+      "id": "contender-07",
+      "url": "https://www.abercrombie.com/shop/us/p/100-merino-wool-crew-sweater-63830819?faceout=model&seq=04&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=14",
+      "title": "100% Merino Wool Crew Sweater — supplied listing",
+      "type": "Supplied listing; US access blocked",
+      "note": "Direct HTTP and disposable browser blocked by CAPTCHA."
+    },
+    {
+      "id": "contender-08",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cashmere-rib-beanie-63842820?faceout=prod&seq=01&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=175",
+      "title": "100% Cashmere Rib Beanie — supplied listing",
+      "type": "Supplied listing; US access blocked",
+      "note": "Direct HTTP and disposable browser blocked by CAPTCHA."
+    },
+    {
+      "id": "contender-09",
+      "url": "https://www.cos.com/en-us/men/menswear/shirts/casualshirts/product/cotton-chambray-shirt-grey-mlange-1351093001",
+      "title": "COTTON-CHAMBRAY SHIRT — supplied listing",
+      "type": "Supplied listing; US access blocked",
+      "note": "US listing blocked. Composition and seven-image gallery verified from COS Thailand article 1351093001; Thailand price/stock do not establish US price or S availability."
+    },
+    {
+      "id": "cos-regional",
+      "url": "https://th.cos.com/th_en/1351093001.html",
+      "title": "COS Thailand — exact article 1351093001",
+      "type": "First-party regional product",
+      "note": "US listing blocked. Composition and seven-image gallery verified from COS Thailand article 1351093001; Thailand price/stock do not establish US price or S availability."
+    },
+    {
+      "id": "contender-10",
+      "url": "https://www.massimodutti.com/us/100-wool-high-neck-down-jacket-l03270428?pelement=64740328",
+      "title": "100% wool high neck down jacket — supplied listing",
+      "type": "Supplied listing; US access blocked",
+      "note": "Direct HTTP and disposable browser returned Access Denied."
+    },
+    {
+      "id": "contender-11",
+      "url": "https://www.massimodutti.com/us/100-wool-pants-with-waist-detail-l00187011?pelement=64340045",
+      "title": "100% wool pants with waist detail — supplied listing",
+      "type": "Supplied listing; US access blocked",
+      "note": "Direct HTTP and disposable browser returned Access Denied."
+    },
+    {
+      "id": "contender-12",
+      "url": "https://www.taylorstitch.com/products/ojai-jacket-in-soil-corduroy-2609",
+      "title": "The Ojai Jacket in Soil Corduroy — supplied listing",
+      "type": "First-party live product",
+      "note": "Live US page and exact Shopify size variant checked. Main fabric meets natural-fiber criterion; trims not fully specified."
+    },
+    {
+      "id": "contender-13",
+      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=speckled-beige&size=s",
+      "title": "100% Organic Cotton Ribbed Quarter-Zip Sweater — supplied listing",
+      "type": "First-party live product",
+      "note": "Live selected-color/size page and embedded variant checked: 18 available, Add to Bag enabled. Traditional retail comparison is not a sale. Main fabric meets criterion; trims unspecified."
+    }
+  ],
+  "evidenceNote": "All supplied shopping links retained. Unknown prices sort last. Four products have verified main-fabric composition; nine remain unknown, not excluded.",
+  "caveat": "Seven Abercrombie listings require CAPTCHA; two Massimo Dutti listings deny access. Their current titles, prices, composition, stock and galleries remain unverified. COS US price/stock unknown; exact-article Thailand composition/gallery available. Ryker S/Black is sold out. No unverified deal claims.",
+  "sourceCoverage": {
+    "linkOccurrences": 14,
+    "distinctURLs": 13,
+    "products": 13
+  }
+}
