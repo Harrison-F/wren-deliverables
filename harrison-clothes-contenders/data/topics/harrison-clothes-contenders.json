@@ -1383,6 +1383,126 @@
         "gallery": true,
         "checked": "2026-10-18"
       }
+    },
+    {
+      "id": "contender-24",
+      "name": "mnml · Cinch Sweatpants",
+      "url": "https://www.nordstrom.com/s/mnml-cinch-sweatpants/9255106?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444H4DFC",
+      "category": "Pants",
+      "brand": "mnml",
+      "store": "Nordstrom",
+      "color": "OATMEAL",
+      "verdict": "Pants",
+      "summary": "",
+      "unitPriceUSD": 78,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-24-01.webp",
+      "imageAlt": "Cinch Sweatpants — OATMEAL — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color gallery in retailer order; swatch and unrelated recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-24-01.webp",
+          "alt": "Cinch Sweatpants — OATMEAL — retailer gallery 1",
+          "source": "https://n.nordstrommedia.com/it/8f78ea34-f3b6-47ab-92ca-0f80792e7a34.jpeg"
+        }
+      ],
+      "materialCaveat": "Oatmeal lounge sweatpants, retained as selected despite dark office-pants preference. Elastic and sewing-thread fibers not disclosed.",
+      "attribution": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; selected coreChoiceId and visible color match. USD price, full published composition, SKU stock and visible size menu checked. All selected-color orderedShots still images retained; swatch/recommendations excluded. No 32-inch inseam measurement is published in the captured product details.",
+      "facts": {
+        "Fabric": "Main fabric: 100% cotton",
+        "Price": "$78.00 USD; shipping/tax not calculated",
+        "Fit": "W30 maps to S in retailer fit notes; S × Regular sold out. Inseam not stated; 32-inch inseam unverified.",
+        "Status": "S sold out (0 shipping stock); M–XXL listed."
+      },
+      "sources": [
+        "contender-24"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/mnml-cinch-sweatpants/9255106?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444H4DFC"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-25",
+      "name": "H&M · Relaxed-Fit Cotton Chinos",
+      "url": "https://www.nordstrom.com/s/h-and-m-relaxed-fit-cotton-chinos/9227995?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444H9YF3",
+      "category": "Pants",
+      "brand": "H&M",
+      "store": "Nordstrom",
+      "color": "Dark brown",
+      "verdict": "Pants",
+      "summary": "",
+      "unitPriceUSD": 39.99,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-25-01.webp",
+      "imageAlt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 1",
+      "imageNote": "Complete exposed selected-color gallery in retailer order; swatch and unrelated recommendations excluded.",
+      "images": [
+        {
+          "src": "assets/images/contender-25-01.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 1",
+          "source": "https://n.nordstrommedia.com/it/c97d3103-125f-4772-8582-afd1224fec90.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-02.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 2",
+          "source": "https://n.nordstrommedia.com/it/20eebb64-ab65-486c-a88e-1afac0812627.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-03.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 3",
+          "source": "https://n.nordstrommedia.com/it/d7b73728-5b50-4134-99f4-e9844fef5e46.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-04.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 4",
+          "source": "https://n.nordstrommedia.com/it/413121f4-337c-4f10-b06c-09e2a8efb2f1.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-05.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 5",
+          "source": "https://n.nordstrommedia.com/it/98aaf916-70ee-40ca-bb88-323d3a289adb.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-06.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 6",
+          "source": "https://n.nordstrommedia.com/it/3eb82fdb-458f-4ca7-8186-d9a4221130b7.jpeg"
+        },
+        {
+          "src": "assets/images/contender-25-07.webp",
+          "alt": "Relaxed-Fit Cotton Chinos — Dark brown — retailer gallery 7",
+          "source": "https://n.nordstrommedia.com/it/8f6d4a94-13d0-4980-bbb9-d47a134565c6.jpeg"
+        }
+      ],
+      "materialCaveat": "Dark Brown selected, not gray/black. Sewing-thread and trim fibers not disclosed.",
+      "attribution": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; selected coreChoiceId and visible color match. USD price, full published composition, SKU stock and visible size menu checked. All selected-color orderedShots still images retained; swatch/recommendations excluded. No 32-inch inseam measurement is published in the captured product details.",
+      "facts": {
+        "Fabric": "Main fabric: 100% cotton",
+        "Price": "$39.99 USD; shipping/tax not calculated",
+        "Fit": "W30 × Regular available; Regular is not a verified 32-inch inseam.",
+        "Status": "W30 × Regular available (45 shipping stock); sold/shipped by H&M."
+      },
+      "sources": [
+        "contender-25"
+      ],
+      "sourceLinks": [
+        "https://www.nordstrom.com/s/h-and-m-relaxed-fit-cotton-chinos/9227995?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444H9YF3"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
     }
   ],
   "sources": [
@@ -1532,6 +1652,20 @@
       "title": "Slim Fit Cotton Shirt Jacket — exact supplied Nordstrom listing",
       "type": "First-party live US retailer product",
       "note": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; embedded coreChoiceId matches verbatim token and visible selected color. USD price, composition, exact Small SKU and visible size menu verified. Full selected-color orderedShots gallery excluding swatch; recommendations excluded."
+    },
+    {
+      "id": "contender-24",
+      "url": "https://www.nordstrom.com/s/mnml-cinch-sweatpants/9255106?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444H4DFC",
+      "title": "Cinch Sweatpants — exact supplied Nordstrom listing",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; selected coreChoiceId and visible color match. USD price, full published composition, SKU stock and visible size menu checked. All selected-color orderedShots still images retained; swatch/recommendations excluded. No 32-inch inseam measurement is published in the captured product details."
+    },
+    {
+      "id": "contender-25",
+      "url": "https://www.nordstrom.com/s/h-and-m-relaxed-fit-cotton-chinos/9227995?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FClothing%2FPants&color=44444H9YF3",
+      "title": "Relaxed-Fit Cotton Chinos — exact supplied Nordstrom listing",
+      "type": "First-party live US retailer product",
+      "note": "Exact supplied URL and color token verified HTTP 200 in registered dedicated Mac Brave; selected coreChoiceId and visible color match. USD price, full published composition, SKU stock and visible size menu checked. All selected-color orderedShots still images retained; swatch/recommendations excluded. No 32-inch inseam measurement is published in the captured product details."
     }
   ],
   "evidenceNote": "Exact supplied URLs and selected-color galleries. Saved browser order retains surviving items and appends new jackets; merchant order remains the no-saved-order default.",
@@ -1539,7 +1673,7 @@
   "sourceCoverage": {
     "linkOccurrences": 19,
     "distinctURLs": 18,
-    "products": 20,
+    "products": 22,
     "originalExcalidrawOccurrences": 14,
     "chatAdditions": 5,
     "removedProductIds": [
