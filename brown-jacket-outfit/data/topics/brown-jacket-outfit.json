@@ -2,8 +2,8 @@
   "id": "brown-jacket-outfit",
   "layout": "natural-basics",
   "catalog": true,
-  "title": "Brown jacket outfit",
-  "summary": "Brown suede or cotton jackets · charcoal cable knits · pale blue long-sleeve shirts · dark W30/L32 pants. Tops and jackets S. Reference studied directly; cream trousers intentionally replaced.",
+  "title": "Outfit inspirations",
+  "summary": "Five outfit references: brown suede + charcoal cables; ivory ribbed quarter-zip; brown textured blazer + white shirt; chocolate textured shirt; moss crewneck + white shirt. Tops/jackets S; DARK pants W30/L32 only.",
   "updated": "2026-10-17",
   "recommendation": {},
   "products": [
@@ -70,6 +70,136 @@
       },
       "sources": [
         "brown-07"
+      ]
+    },
+    {
+      "id": "brown-18",
+      "name": "Quince · Mongolian Cashmere Crewneck Sweater · Moss",
+      "url": "https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=moss&size=s",
+      "category": "Sweater",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Moss",
+      "verdict": "Sweater · Moss",
+      "summary": "Green-knit reference: muted moss cashmere over a white shirt. Fine-gauge and softly fuzzy, not cable-knit; less lofty than brushed wool.",
+      "unitPriceUSD": 59.9,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-18-01.webp",
+      "imageAlt": "Quince Mongolian Cashmere Crewneck Sweater — Moss — gallery 1",
+      "imageNote": "All 8 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-18-01.webp",
+          "alt": "Quince Mongolian Cashmere Crewneck Sweater — Moss — gallery 1",
+          "source": "https://images.quince.com/2b2NgWzTPxO0wLaPy7tSmf/28c94efc3f4f8b8777ef7e7b2cfb3835/M-HKT-2-MOSGRE-01_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-18-02.webp",
+          "alt": "Quince Mongolian Cashmere Crewneck Sweater — Moss — gallery 2",
+          "source": "https://images.quince.com/3fQlkv6Uc0ymeMhMfnHuiX/43e08afe2a9607d84934dc392f4dd2e5/Holiday_Editorial_22-25_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-18-03.webp",
+          "alt": "Quince Mongolian Cashmere Crewneck Sweater — Moss — gallery 3",
+          "source": "https://images.quince.com/1ir7v6uKqKgExzfaLnzoe1/c133ec7cf47bcd0742aa34d26ef5a671/Holiday_Editorial_22-26_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-18-04.webp",
+          "alt": "Quince Mongolian Cashmere Crewneck Sweater — Moss — gallery 4",
+          "source": "https://images.quince.com/QRlA9FSAe8BNWdToziyLr/7135bedf0c249051d5ace9a89f505a9b/M-HKT-2-MOSGRE-02_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-18-05.webp",
+          "alt": "Quince Mongolian Cashmere Crewneck Sweater — Moss — gallery 5",
+          "source": "https://images.quince.com/2bql9hEo87XwiDLHwrsElo/8d5c3c36da8172562714e8f6cea718c7/M-HKT-2-MOSGRE-04_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-18-06.webp",
+          "alt": "Quince Mongolian Cashmere Crewneck Sweater — Moss — gallery 6",
+          "source": "https://images.quince.com/6vW85A8iqMW5FswE6Dn1uM/4a2b324d81d460139421d366f07beb3e/M-HKT-2-MOSGRE-03_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-18-07.webp",
+          "alt": "Quince Mongolian Cashmere Crewneck Sweater — Moss — gallery 7",
+          "source": "https://images.quince.com/4Binph6qiMfxSNqsP7nkj0/4b1d5fbc473000294cfff2ba51d80588/M-HKT-2-MOSGRE-05_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-18-08.webp",
+          "alt": "Quince Mongolian Cashmere Crewneck Sweater — Moss — gallery 8",
+          "source": "https://images.quince.com/4fONmHdBhxWjYrYPCU8FFQ/551819976b519af47b9e8df7110282e2/M-HKT-2-MOSGRE-06_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "Trims not fully specified.",
+      "attribution": "Green-knit reference: muted moss cashmere over a white shirt. Fine-gauge and softly fuzzy, not cable-knit; less lofty than brushed wool.",
+      "facts": {
+        "Fabric": "100% cashmere · main material",
+        "Price": "$59.90 USD · shipping / tax extra",
+        "Fit": "Plain crewneck · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-18"
+      ]
+    },
+    {
+      "id": "brown-17",
+      "name": "Quince · 100% Organic Cotton Ribbed Quarter-Zip Sweater · Speckled Beige",
+      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=speckled-beige&size=s",
+      "category": "Sweater",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Speckled Beige",
+      "verdict": "Sweater · Speckled Beige",
+      "summary": "Ivory zip-knit reference: pronounced vertical ribbing, stand collar and quarter zip. Speckled Beige is warmer/flecked rather than plain ivory; cotton instead of wool.",
+      "unitPriceUSD": 62,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-17-01.webp",
+      "imageAlt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 1",
+      "imageNote": "All 6 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-17-01.webp",
+          "alt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 1",
+          "source": "https://images.quince.com/73t9KamBPwGdguFbh4z9Vg/f438babe0dd41a3b013b8a82c866d5a5/M-SWT-115-SPBGE-01_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-17-02.webp",
+          "alt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 2",
+          "source": "https://images.quince.com/5zqTEDC0Hhms5YvZkeuejI/eb6c60f39cae122d3c07f4e0cc9467a3/M-SWT-115-SPBGE-02_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-17-03.webp",
+          "alt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 3",
+          "source": "https://images.quince.com/1XwxS01autGZ8PvknXHUvS/79ec47d22279256e9d48a1c9879cfcb2/M-SWT-115-SPBGE-04_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-17-04.webp",
+          "alt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 4",
+          "source": "https://images.quince.com/19KNN1ydwLDmqTkHfO5JoQ/1f964b71553dad51617ec1b35480b5ef/M-SWT-115-SPBGE-03_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-17-05.webp",
+          "alt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 5",
+          "source": "https://images.quince.com/17PL8cXO6yu8Bm6carKcH9/3c470a32e760d8d9390d069370009bd6/M-SWT-115-SPBGE-05_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/brown-17-06.webp",
+          "alt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 6",
+          "source": "https://images.quince.com/2Hrqxpqvzlx7AzdgX85swP/bd843aac7a139e3f6644c28cf7b52ec1/M-SWT-115-SPBGE-06_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "Zip and other trims unspecified.",
+      "attribution": "Ivory zip-knit reference: pronounced vertical ribbing, stand collar and quarter zip. Speckled Beige is warmer/flecked rather than plain ivory; cotton instead of wool.",
+      "facts": {
+        "Fabric": "100% organic cotton · main material",
+        "Price": "$62.00 USD · shipping / tax extra",
+        "Fit": "Ribbed quarter-zip · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-17"
       ]
     },
     {
@@ -205,6 +335,146 @@
       },
       "sources": [
         "brown-03"
+      ]
+    },
+    {
+      "id": "brown-11",
+      "name": "Portuguese Flannel · Teca · Brown",
+      "url": "https://www.portugueseflannel.com/products/teca-brown-4?variant=54802822431043&currency=USD",
+      "category": "Shirt",
+      "brand": "Portuguese Flannel",
+      "store": "Portuguese Flannel",
+      "color": "Brown",
+      "verdict": "Shirt · Brown",
+      "summary": "Chocolate shirt reference: soft matte brown flannel appearance with a point collar. Chest pocket is a departure from the pocketless reference.",
+      "unitPriceUSD": 144.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-11-01.webp",
+      "imageAlt": "Portuguese Flannel Teca — Brown — gallery 1",
+      "imageNote": "All 5 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-11-01.webp",
+          "alt": "Portuguese Flannel Teca — Brown — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/TECA-BROWN_002_ba41b590-e6a1-4461-8e27-1d41bf5a2665.jpg?v=1789030068"
+        },
+        {
+          "src": "assets/images/brown-11-02.webp",
+          "alt": "Portuguese Flannel Teca — Brown — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/TECA-BROWN_003_2608b378-37c2-4c3f-8d17-092c6b903aeb.jpg?v=1789030069"
+        },
+        {
+          "src": "assets/images/brown-11-03.webp",
+          "alt": "Portuguese Flannel Teca — Brown — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/TECA-BROWN_004_bb32738d-ccad-4431-8658-b0cbd63500fb.jpg?v=1789030069"
+        },
+        {
+          "src": "assets/images/brown-11-04.webp",
+          "alt": "Portuguese Flannel Teca — Brown — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/TECA-BROWN_005_5dede01d-6773-4415-8497-c78c183bdcbf.jpg?v=1789030068"
+        },
+        {
+          "src": "assets/images/brown-11-05.webp",
+          "alt": "Portuguese Flannel Teca — Brown — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/TECA-BROWN_006_c32dfd4a-ed84-4681-8b50-a3ef55cdaade.jpg?v=1789030068"
+        }
+      ],
+      "materialCaveat": "Mother-of-pearl buttons; other trims unspecified.",
+      "attribution": "Chocolate shirt reference: soft matte brown flannel appearance with a point collar. Chest pocket is a departure from the pocketless reference.",
+      "facts": {
+        "Fabric": "100% cotton · main material",
+        "Price": "$144.00 USD · shipping / tax extra",
+        "Fit": "Regular shirt · S · long sleeves",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-11"
+      ]
+    },
+    {
+      "id": "brown-13",
+      "name": "Portuguese Flannel · Belavista · White",
+      "url": "https://www.portugueseflannel.com/products/belavista-off-white-10?variant=54799286600003&currency=USD",
+      "category": "Shirt",
+      "brand": "Portuguese Flannel",
+      "store": "Portuguese Flannel",
+      "color": "White",
+      "verdict": "Shirt · White",
+      "summary": "White layering shirt for the blazer and green-knit references. Button-down collar is a departure from their open point collars; Gilles is the closer collar match.",
+      "unitPriceUSD": 144.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-13-01.webp",
+      "imageAlt": "Portuguese Flannel Belavista — White — gallery 1",
+      "imageNote": "All 11 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-13-01.webp",
+          "alt": "Portuguese Flannel Belavista — White — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/BELAVISTA_WHITE_127_033.jpg?v=1790429130"
+        },
+        {
+          "src": "assets/images/brown-13-02.webp",
+          "alt": "Portuguese Flannel Belavista — White — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/BELAVISTA_WHITE_128_034.jpg?v=1790429130"
+        },
+        {
+          "src": "assets/images/brown-13-03.webp",
+          "alt": "Portuguese Flannel Belavista — White — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/BELAVISTA_WHITE_129_035.jpg?v=1790429130"
+        },
+        {
+          "src": "assets/images/brown-13-04.webp",
+          "alt": "Portuguese Flannel Belavista — White — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/BELAVISTA_WHITE_130_036.jpg?v=1790429130"
+        },
+        {
+          "src": "assets/images/brown-13-05.webp",
+          "alt": "Portuguese Flannel Belavista — White — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/BELAVISTA_WHITE_138_037.jpg?v=1790429130"
+        },
+        {
+          "src": "assets/images/brown-13-06.webp",
+          "alt": "Portuguese Flannel Belavista — White — gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/PORTUGUESE_FLANNEL_260901_1580.jpg?v=1790950545"
+        },
+        {
+          "src": "assets/images/brown-13-07.webp",
+          "alt": "Portuguese Flannel Belavista — White — gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/PORTUGUESE_FLANNEL_260901_1582.jpg?v=1790950546"
+        },
+        {
+          "src": "assets/images/brown-13-08.webp",
+          "alt": "Portuguese Flannel Belavista — White — gallery 8",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/PORTUGUESE_FLANNEL_260901_1583_9b0713d0-de1d-45b9-8301-fa21ece7e115.jpg?v=1790950546"
+        },
+        {
+          "src": "assets/images/brown-13-09.webp",
+          "alt": "Portuguese Flannel Belavista — White — gallery 9",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/PORTUGUESE_FLANNEL_260901_1586.jpg?v=1790950545"
+        },
+        {
+          "src": "assets/images/brown-13-10.webp",
+          "alt": "Portuguese Flannel Belavista — White — gallery 10",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/PORTUGUESE_FLANNEL_260901_1587.jpg?v=1790950545"
+        },
+        {
+          "src": "assets/images/brown-13-11.webp",
+          "alt": "Portuguese Flannel Belavista — White — gallery 11",
+          "source": "https://cdn.shopify.com/s/files/1/1018/6883/files/PORTUGUESE_FLANNEL_260901_1592.jpg?v=1790950545"
+        }
+      ],
+      "materialCaveat": "Mother-of-pearl buttons; other trims unspecified.",
+      "attribution": "White layering shirt for the blazer and green-knit references. Button-down collar is a departure from their open point collars; Gilles is the closer collar match.",
+      "facts": {
+        "Fabric": "100% cotton · main material",
+        "Price": "$144.00 USD · shipping / tax extra",
+        "Fit": "Regular shirt · S · long sleeves",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-13"
       ]
     },
     {
@@ -676,6 +946,186 @@
       "sources": [
         "brown-10"
       ]
+    },
+    {
+      "id": "brown-14",
+      "name": "Officine Générale · Gilles shirt · White",
+      "url": "https://us.officinegenerale.com/products/gilles-white-cotton-poplin-100-co-white?variant=57781379957119&currency=USD",
+      "category": "Shirt",
+      "brand": "Officine Générale",
+      "store": "Officine Générale",
+      "color": "White",
+      "verdict": "Shirt · White",
+      "summary": "White open-point-collar shirt for brown tailoring or the green crewneck; smooth poplin is crisper than the reference.",
+      "unitPriceUSD": 320.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-14-01.webp",
+      "imageAlt": "Officine Générale Gilles shirt — White — gallery 1",
+      "imageNote": "All 4 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-14-01.webp",
+          "alt": "Officine Générale Gilles shirt — White — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MSHI012.jpg?v=1784296143"
+        },
+        {
+          "src": "assets/images/brown-14-02.webp",
+          "alt": "Officine Générale Gilles shirt — White — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MSHI012___P4.jpg?v=1784296143"
+        },
+        {
+          "src": "assets/images/brown-14-03.webp",
+          "alt": "Officine Générale Gilles shirt — White — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MSHI012___P2.jpg?v=1784296142"
+        },
+        {
+          "src": "assets/images/brown-14-04.webp",
+          "alt": "Officine Générale Gilles shirt — White — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MSHI012___P3.jpg?v=1784296143"
+        }
+      ],
+      "materialCaveat": "Trims not fully specified.",
+      "attribution": "White open-point-collar shirt for brown tailoring or the green crewneck; smooth poplin is crisper than the reference.",
+      "facts": {
+        "Fabric": "100% organic cotton · main material",
+        "Price": "$320.00 USD · shipping / tax extra",
+        "Fit": "Regular fit · S · long sleeves",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-14"
+      ]
+    },
+    {
+      "id": "brown-12",
+      "name": "Officine Générale · Gad shirt · Coffee",
+      "url": "https://us.officinegenerale.com/products/gad-shirt-cotton-corduroy-coffee?variant=57781310325119&currency=USD",
+      "category": "Shirt",
+      "brand": "Officine Générale",
+      "store": "Officine Générale",
+      "color": "Coffee",
+      "verdict": "Shirt · Coffee",
+      "summary": "Chocolate shirt reference: coffee-brown fine corduroy, clean point collar and vintage finish; more ribbed than brushed flannel.",
+      "unitPriceUSD": 395.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-12-01.webp",
+      "imageAlt": "Officine Générale Gad shirt — Coffee — gallery 1",
+      "imageNote": "All 4 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-12-01.webp",
+          "alt": "Officine Générale Gad shirt — Coffee — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MSHI003.jpg?v=1785158212"
+        },
+        {
+          "src": "assets/images/brown-12-02.webp",
+          "alt": "Officine Générale Gad shirt — Coffee — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MSHI003___P2.jpg?v=1785158211"
+        },
+        {
+          "src": "assets/images/brown-12-03.webp",
+          "alt": "Officine Générale Gad shirt — Coffee — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MSHI003___P3.jpg?v=1785158212"
+        },
+        {
+          "src": "assets/images/brown-12-04.webp",
+          "alt": "Officine Générale Gad shirt — Coffee — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0702/1582/7761/files/W26MSHI003___P4.jpg?v=1785158212"
+        }
+      ],
+      "materialCaveat": "Trims not fully specified.",
+      "attribution": "Chocolate shirt reference: coffee-brown fine corduroy, clean point collar and vintage finish; more ribbed than brushed flannel.",
+      "facts": {
+        "Fabric": "100% cotton · main material",
+        "Price": "$395.00 USD · shipping / tax extra",
+        "Fit": "Loose fit · S · long sleeves",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-12"
+      ]
+    },
+    {
+      "id": "brown-15",
+      "name": "Studio Nicholson · Roversi Wool Jacket in Bark Melange · Bark melange",
+      "url": "https://www.studionicholson.com/products/roversi-wool-jacket-in-bark-melange?variant=57024903545207&currency=USD",
+      "category": "Jacket",
+      "brand": "Studio Nicholson",
+      "store": "Studio Nicholson",
+      "color": "Bark melange",
+      "verdict": "Jacket · Bark melange",
+      "summary": "Brown blazer references: soft, slouchy shoulders, notch lapels, two buttons and textured two-tone wool. This is melange, not a verified herringbone or microcheck replica.",
+      "unitPriceUSD": 970.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/brown-15-01.webp",
+      "imageAlt": "Studio Nicholson Roversi Wool Jacket in Bark Melange — Bark melange — gallery 1",
+      "imageNote": "All 10 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "images": [
+        {
+          "src": "assets/images/brown-15-01.webp",
+          "alt": "Studio Nicholson Roversi Wool Jacket in Bark Melange — Bark melange — gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/ROVERSISNM-1346TWOTONETAILORINGBARKMELANGE.jpg?v=1781799804"
+        },
+        {
+          "src": "assets/images/brown-15-02.webp",
+          "alt": "Studio Nicholson Roversi Wool Jacket in Bark Melange — Bark melange — gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/Untitled-1_45e380ba-50d5-4fb1-8d76-5f33ca5c6bd0.jpg?v=1786439810"
+        },
+        {
+          "src": "assets/images/brown-15-03.webp",
+          "alt": "Studio Nicholson Roversi Wool Jacket in Bark Melange — Bark melange — gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/ROVERSISNM-1346TWOTONETAILORINGBARKMELANGE4_0d074917-179a-47a7-99fd-7127670d8fe0.jpg?v=1781799804"
+        },
+        {
+          "src": "assets/images/brown-15-04.webp",
+          "alt": "Studio Nicholson Roversi Wool Jacket in Bark Melange — Bark melange — gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/ROVERSISNM-1346TWOTONETAILORINGBARKMELANGE3.jpg?v=1781799804"
+        },
+        {
+          "src": "assets/images/brown-15-05.webp",
+          "alt": "Studio Nicholson Roversi Wool Jacket in Bark Melange — Bark melange — gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/ROVERSISNM-1346TWOTONETAILORINGBARKMELANGE2.jpg?v=1781799804"
+        },
+        {
+          "src": "assets/images/brown-15-06.webp",
+          "alt": "Studio Nicholson Roversi Wool Jacket in Bark Melange — Bark melange — gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/ROVERSISNM-1346TWOTONETAILORINGBARKMELANGE5.jpg?v=1781799804"
+        },
+        {
+          "src": "assets/images/brown-15-07.webp",
+          "alt": "Studio Nicholson Roversi Wool Jacket in Bark Melange — Bark melange — gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/ROVERSISNM-1346TWOTONETAILORINGBARKMELANGE6.jpg?v=1781799804"
+        },
+        {
+          "src": "assets/images/brown-15-08.webp",
+          "alt": "Studio Nicholson Roversi Wool Jacket in Bark Melange — Bark melange — gallery 8",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/ROVERSISNM-1346TWOTONETAILORINGBARKMELANGE1.jpg?v=1781799805"
+        },
+        {
+          "src": "assets/images/brown-15-09.webp",
+          "alt": "Studio Nicholson Roversi Wool Jacket in Bark Melange — Bark melange — gallery 9",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/ROVERSISNM-1346TWOTONETAILORINGBARKMELANGE_108640-FS.jpg?v=1777287380"
+        },
+        {
+          "src": "assets/images/brown-15-10.webp",
+          "alt": "Studio Nicholson Roversi Wool Jacket in Bark Melange — Bark melange — gallery 10",
+          "source": "https://cdn.shopify.com/s/files/1/1070/4650/files/ROVERSISNM-1346TWOTONETAILORINGBARKMELANGE_108641.jpg?v=1777287381"
+        }
+      ],
+      "materialCaveat": "Body lining: 100% cotton; sleeve lining: 100% viscose (regenerated cellulose).",
+      "attribution": "Brown blazer references: soft, slouchy shoulders, notch lapels, two buttons and textured two-tone wool. This is melange, not a verified herringbone or microcheck replica.",
+      "facts": {
+        "Fabric": "100% virgin wool · main material",
+        "Price": "$970.00 USD · shipping / tax extra",
+        "Fit": "Relaxed unstructured blazer · S",
+        "Status": "S available · US storefront"
+      },
+      "sources": [
+        "brown-15"
+      ]
     }
   ],
   "sources": [
@@ -748,8 +1198,57 @@
       "title": "Quince · selected color and size",
       "type": "Live first-party product + exact variant data",
       "note": "Exact Quince selected variant 13381, Dark Chestnut / S, activeInventory.available=26, atcDisabled=false, price $300.00. The Traditional retail comparison is not a verified sale. Made from 100% Genuine Italian cow split suede leather Lining: 100% poly satin (fully lined) Smooth contrast leather on underside of collar Italian press stud fastening in a brushed nickel finish 5 pockets (two chest pockets, two main entry pockets, one interior pocket) The leather used for this jacket is 100% biodegradable and tanned in a LWG (Leather Working Group) certified tannery a non-profit aimed to promote sustainable business practices through low energy & water usage, waste management, and the elimination of restricted substances Produced in BSCI (Business Social Compliance Initiative) certified factories, which aim to improve working conditions throughout the supply chain Suede is sourced from Italy and made with care in India Brown suede and flap chest pockets; shorter trucker silhouette and nickel snaps differ from the relaxed reference. Runs small: layering fit needs care. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-11",
+      "url": "https://www.portugueseflannel.com/products/teca-brown-4?variant=54802822431043&currency=USD",
+      "title": "Portuguese Flannel · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "US HTML HTTP 200; country US / active currency USD. Exact variant 54802822431043, S, available=true, price $144.00. Main fabric 100% cotton. Shell of Mother of Pearl Buttons Composition: 100% Cotton Sizing (cm): XS S M L XL XXL Shoulders 43 45 47 49 50 53 1/2 chest 50,5 53 56 58,5 61 64 Back 72 74 76 78 80 82 Arm 62 63 64 65 67 68 Sizing (in): XS S M L XL XXL Shoulders 16,9 17,7 18,5 19,2 19,6 20,8 1/2 Chest 19,8 20,8 22 23 24 25,1 Back 28,3 29,1 29,9 30,7 31,4 32,2 Arm 24,4 24,8 25,1 25,5 26,3 26,7 Chocolate shirt reference: soft matte brown flannel appearance with a point collar. Chest pocket is a departure from the pocketless reference. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-12",
+      "url": "https://us.officinegenerale.com/products/gad-shirt-cotton-corduroy-coffee?variant=57781310325119&currency=USD",
+      "title": "Officine Générale · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "US HTML HTTP 200; country US / active currency USD. Exact variant 57781310325119, S, available=true, price $395.00. Main fabric 100% cotton. Classic collar shirt with long sleeves. Loose fit|• 100% cotton • Classic collar • Front buttoned placket • Gathered pleats at cuffs • Side slits • Straight bottom • Vintage effect • Machine washable with similar colors, 30°. • Made in Türkiye |This product sizes normally, we advise you to take your usual size. Our model measures 1m86 and wears a size S. Exists in sizes XS to XL. Chocolate shirt reference: coffee-brown fine corduroy, clean point collar and vintage finish; more ribbed than brushed flannel. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-13",
+      "url": "https://www.portugueseflannel.com/products/belavista-off-white-10?variant=54799286600003&currency=USD",
+      "title": "Portuguese Flannel · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "US HTML HTTP 200; country US / active currency USD. Exact variant 54799286600003, S, available=true, price $144.00. Main fabric 100% cotton. Shell of Mother Pearl Buttons Composition: 100% Cotton Sizing (cm): XS S M L XL XXL Shoulders 43 45 47 49 50 53 1/2 chest 50,5 53 56 58,5 61 64 Back 72 74 76 78 80 82 Arm 62 63 64 65 67 68 Sizing (in): XS S M L XL XXL Shoulders 16,9 17,7 18,5 19,2 19,6 20,8 1/2 Chest 19,8 20,8 22 23 24 25,1 Back 28,3 29,1 29,9 30,7 31,4 32,2 Arm 24,4 24,8 25,1 25,5 26,3 26,7 White layering shirt for the blazer and green-knit references. Button-down collar is a departure from their open point collars; Gilles is the closer collar match. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-14",
+      "url": "https://us.officinegenerale.com/products/gilles-white-cotton-poplin-100-co-white?variant=57781379957119&currency=USD",
+      "title": "Officine Générale · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "US HTML HTTP 200; country US / active currency USD. Exact variant 57781379957119, S, available=true, price $320.00. Main fabric 100% organic cotton. Classic collar shirt with long sleeves. Regular fit|• 100% organic cotton • Classic collar • Front buttoned placket • Gathered pleats at cuffs • Gussets on sides • Curved bottom • Western back yoke detail • Garment wash • Scarf available in the same fabric • Machine washable with similar colors, 30°. • Made in Türkiye |This product sizes normally, we advise you to take your usual size. Our model measures 1m86 and wears a size S. Exists in sizes XS to XL. White open-point-collar shirt for brown tailoring or the green crewneck; smooth poplin is crisper than the reference. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-15",
+      "url": "https://www.studionicholson.com/products/roversi-wool-jacket-in-bark-melange?variant=57024903545207&currency=USD",
+      "title": "Studio Nicholson · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "US HTML HTTP 200; country US / active currency USD. Exact variant 57024903545207, S, available=true, price $970.00. Main fabric 100% virgin wool. The Roversi jacket recalls the slouchy, unstructured tailoring of the 90s. It’s cut from our two tone tailoring fabric – noted for its texture and crisp, balanced hand and used here as it lends itself to transitional layering. Roversi is tailored with notch lapels, a Melton undercollar and welt pockets. The relaxed tailoring allows Roversi to move easily between formal and casual dressing, pairing naturally with coordinating trousers or lighter separates throughout the season. --- - Notch lapels - Welt pockets - Two-button front - Melton undercollar - Premium wool tailoring fabric - Relaxed unstructured silhouette - Wear it with the matching Fume Pant Brown blazer references: soft, slouchy shoulders, notch lapels, two buttons and textured two-tone wool. This is melange, not a verified herringbone or microcheck replica. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-17",
+      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=speckled-beige&size=s",
+      "title": "Quince · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "Exact variant 111780, Speckled Beige / S, activeInventory.available=19, atcDisabled=false; price $62.00. Traditional retail is not a sale. Made from 100% organic cotton 7-gauge knit: soft breathable cotton for all-season comfort Allover ribbed knit detailing Raglan sleeves Production plant has a Solar system and Waste Water Treatment System installed in order to reduce environmental impact Produced in BSCI (Business Social Compliance Initiative) certified factories, which aim to improve working conditions throughout the supply chain Made from Organic Content Standard (OCS) certified cotton fiber. Organic fibers aren't treated with pesticides, insecticides or herbicides, and conserve more natural resources like water. Made with care in China and India Ivory zip-knit reference: pronounced vertical ribbing, stand collar and quarter zip. Speckled Beige is warmer/flecked rather than plain ivory; cotton instead of wool. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+    },
+    {
+      "id": "brown-18",
+      "url": "https://www.quince.com/men/cashmere/cashmere-crewneck-sweater?color=moss&size=s",
+      "title": "Quince · selected color and size",
+      "type": "Live first-party product + exact variant data",
+      "note": "Exact variant 38572, Moss / S, activeInventory.available=50, atcDisabled=false; price $59.90. Traditional retail is not a sale. Crafted from 100% Grade-A Mongolian cashmere 15.8 – 16.2 micron thickness, 12 gauge, 34-36mm fiber length creates a super soft hand feel Ribbed details at neck, hem, and cuffs Produced in BSCI (Business Social Compliance Initiative) certified factories which aim to improve working conditions throughout the supply chain Cashmere is sourced from goats in Inner Mongolia. Read our Cashmere 101 guide to learn more about cashmere, its origin, and how to care for it Made with care in China and Cambodia Green-knit reference: muted moss cashmere over a white shirt. Fine-gauge and softly fuzzy, not cable-knit; less lofty than brushed wool. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
     }
   ],
-  "evidenceNote": "Reference-matched alternatives, not identification of the original garments. Start with Quince dark-chestnut suede overshirt + charcoal cable cashmere + pale-blue Oxford, with either black Norse chino. All selected S / W30-L32 variants verified available on US storefronts. Exact-color galleries retained.",
-  "caveat": "Natural main materials only; suede/leather accepted, synthetic lining and unspecified trims disclosed. No whole-garment plastic-free claim. No jacket exactly duplicates the reference lower flap pockets. Prices are USD before shipping/tax/import fees; stock may change. Wax Robin suede S sold out, Portuguese Flannel blue Oxford S sold out, and Buck Mason data inaccessible: excluded, not substituted with guessed availability. Quince sweater and suede jackets require gentle/specialist care; suede trucker runs small. No Bottega Veneta."
+  "evidenceNote": "Five references inspected directly; these are alternatives, not identification of the original garments. All main materials are natural fibers or genuine suede. All selected S and W30/L32 variants verified available in USD on US storefronts. Exact-color galleries retained. New knits, brown/white shirts and relaxed brown tailoring are included alongside the original suede outfit.",
+  "caveat": "Fit gaps: no verified in-stock pleated dark W30/L32 finalist; the two black Norse chinos are exact-size flat-front substitutes, not high-rise pleated matches. Banana Republic Blue Charcoal pleated chino W30 was disabled. Roversi provides unstructured textured brown tailoring, but not an exact microcheck/herringbone. Quarter-zip is Speckled Beige, warmer than ivory; Moss cashmere is smoother than the fuzzy olive reference. Synthetic/regenerated linings and unspecified trims are disclosed; no whole-garment plastic-free claim. Shipping/tax/import fees excluded, stock may change. No Bottega Veneta, shoes or accessories."
 }
