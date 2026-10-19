@@ -118,3 +118,7 @@ body.research.clothing-catalog {--ink:#162438;--muted:#536071;--dim:#536071;--ac
 .clothing-catalog button:focus-visible,.clothing-catalog input:focus-visible {outline:2px solid var(--ink);outline-offset:3px;}
 .clothing-catalog::before,.clothing-catalog::after {display:none;}
 @media(max-width:600px){.clothing-catalog .shell {padding:0 16px 32px;}.clothing-catalog .catalog-categories {gap:18px;}.clothing-catalog #catalog-count {width:100%;margin:0 0 8px;}.clothing-catalog .research-search {width:100%;}}
+
+.clothing-catalog .research-recommendation {display:block;}
+.clothing-catalog .research-recommendation h2 {font-size:20px;}
+.clothing-catalog .research-recommendation p {color:#536278;}
