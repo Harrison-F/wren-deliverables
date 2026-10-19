@@ -817,10 +817,15 @@
       "unitPriceUSD": 248.0,
       "naturalPercent": 100,
       "integrityRank": 100,
-      "image": "assets/images/contender-12-01.webp",
-      "imageAlt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 1",
+      "image": "assets/images/contender-12-04.webp",
+      "imageAlt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 4",
       "imageNote": "Complete exposed selected-product gallery; retailer source order, resized proportionally to WebP max 1400px. ",
       "images": [
+        {
+          "src": "assets/images/contender-12-04.webp",
+          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_004.jpg?v=1788450312"
+        },
         {
           "src": "assets/images/contender-12-01.webp",
           "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 1",
@@ -835,11 +840,6 @@
           "src": "assets/images/contender-12-03.webp",
           "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 3",
           "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_003.jpg?v=1788450309"
-        },
-        {
-          "src": "assets/images/contender-12-04.webp",
-          "alt": "The Ojai Jacket in Soil Corduroy — Soil Corduroy — retailer gallery 4",
-          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_ojai-jacket-soil-corduroy_portrait_004.jpg?v=1788450312"
         },
         {
           "src": "assets/images/contender-12-05.webp",
