@@ -144,63 +144,74 @@
     },
     {
       "id": "brown-17",
-      "name": "Quince · 100% Organic Cotton Ribbed Quarter-Zip Sweater · Speckled Beige",
-      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=speckled-beige&size=s",
+      "name": "Quince · 100% Organic Cotton Ribbed Quarter-Zip Sweater · Charcoal",
+      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=charcoal&gender=men",
       "category": "Sweater",
       "brand": "Quince",
       "store": "Quince",
-      "color": "Speckled Beige",
-      "verdict": "Sweater · Speckled Beige",
-      "summary": "Ivory zip-knit reference: pronounced vertical ribbing, stand collar and quarter zip. Speckled Beige is warmer/flecked rather than plain ivory; cotton instead of wool.",
-      "unitPriceUSD": 62,
+      "color": "Charcoal",
+      "verdict": "Sweater · Charcoal",
+      "summary": "Charcoal replacement for the previously selected beige ribbed quarter-zip.",
+      "unitPriceUSD": 62.0,
       "naturalPercent": 100,
       "integrityRank": 100,
-      "image": "assets/images/brown-17-01.webp",
-      "imageAlt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 1",
-      "imageNote": "All 6 images exposed by the selected-color first-party gallery, in source order (including any editorial/detail/size-chart slides). Other variants and recommendations excluded. Retrieved 2026-10-17; proportionally resized to WebP, maximum 1400 px.",
+      "image": "assets/images/brown-17-charcoal-01.webp",
+      "imageAlt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 1",
+      "imageNote": "Complete 6-image Charcoal selected-variant mediaList gallery in retailer order.",
       "images": [
         {
-          "src": "assets/images/brown-17-01.webp",
-          "alt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 1",
-          "source": "https://images.quince.com/73t9KamBPwGdguFbh4z9Vg/f438babe0dd41a3b013b8a82c866d5a5/M-SWT-115-SPBGE-01_EDITED.jpg"
+          "src": "assets/images/brown-17-charcoal-01.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 1",
+          "source": "https://images.quince.com/2lqvnhyrNHnGlTIDrLH8E7/65505e1e3dca286497f37141292c8517/M-SWT-115-CHA-01_EDITED.jpg"
         },
         {
-          "src": "assets/images/brown-17-02.webp",
-          "alt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 2",
-          "source": "https://images.quince.com/5zqTEDC0Hhms5YvZkeuejI/eb6c60f39cae122d3c07f4e0cc9467a3/M-SWT-115-SPBGE-02_EDITED.jpg"
+          "src": "assets/images/brown-17-charcoal-02.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 2",
+          "source": "https://images.quince.com/6Z9012yYlv1yezD7tvfkhl/7338f6e4bdf71a3f01b3bdc2814a9f12/M-SWT-115-CHA-02_EDITED.jpg"
         },
         {
-          "src": "assets/images/brown-17-03.webp",
-          "alt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 3",
-          "source": "https://images.quince.com/1XwxS01autGZ8PvknXHUvS/79ec47d22279256e9d48a1c9879cfcb2/M-SWT-115-SPBGE-04_EDITED.jpg"
+          "src": "assets/images/brown-17-charcoal-03.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 3",
+          "source": "https://images.quince.com/7EzWqL49QGON9ylYBXzPNQ/09206ddaa794a82310806154edc22cfe/M-SWT-115-CHA-04_EDITED.jpg"
         },
         {
-          "src": "assets/images/brown-17-04.webp",
-          "alt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 4",
-          "source": "https://images.quince.com/19KNN1ydwLDmqTkHfO5JoQ/1f964b71553dad51617ec1b35480b5ef/M-SWT-115-SPBGE-03_EDITED.jpg"
+          "src": "assets/images/brown-17-charcoal-04.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 4",
+          "source": "https://images.quince.com/NhMcNEBSPN8tC1GsBvcjt/2375a3b7c47940377d2bf722a8775411/M-SWT-115-CHA-03_EDITED.jpg"
         },
         {
-          "src": "assets/images/brown-17-05.webp",
-          "alt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 5",
-          "source": "https://images.quince.com/17PL8cXO6yu8Bm6carKcH9/3c470a32e760d8d9390d069370009bd6/M-SWT-115-SPBGE-05_EDITED.jpg"
+          "src": "assets/images/brown-17-charcoal-05.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 5",
+          "source": "https://images.quince.com/5gegbQzGUOpj2t5H0NZJ5J/aa4e4c52145f5d05ad5fb4c460123153/M-SWT-115-CHA-05_EDITED.jpg"
         },
         {
-          "src": "assets/images/brown-17-06.webp",
-          "alt": "Quince 100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — gallery 6",
-          "source": "https://images.quince.com/2Hrqxpqvzlx7AzdgX85swP/bd843aac7a139e3f6644c28cf7b52ec1/M-SWT-115-SPBGE-06_EDITED.jpg"
+          "src": "assets/images/brown-17-charcoal-06.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 6",
+          "source": "https://images.quince.com/4lPhH9EulMrQthWtL0h77m/a83a567bc15a22c672530d96668903d1/M-SWT-115-CHA-06_EDITED.jpg"
         }
       ],
-      "materialCaveat": "Zip and other trims unspecified.",
-      "attribution": "Ivory zip-knit reference: pronounced vertical ribbing, stand collar and quarter zip. Speckled Beige is warmer/flecked rather than plain ivory; cotton instead of wool.",
+      "materialCaveat": "Retailer-reported main fabric composition; thread and trims unspecified. Zipper materials unspecified.",
+      "attribution": "Exact selected Charcoal / S rendered HTTP 200 with enabled Add to Bag. Variant 111783, SKU LB127122; available inventory 50; atcDisabled=false. Numeric composition verified in DETAILS: 100% organic cotton. Complete 6 selected-variant mediaList images; unrelated colors/recommendations excluded. Traditional retail comparison is not a sale.",
       "facts": {
-        "Fabric": "100% organic cotton · main material",
-        "Price": "$62.00 USD · shipping / tax extra",
-        "Fit": "Ribbed quarter-zip · S",
-        "Status": "S available · US storefront"
+        "Fabric": "100% organic cotton; thread and trims unspecified",
+        "Price": "$62.00 USD; shipping/tax not calculated",
+        "Fit": "Charcoal / S selected",
+        "Status": "Charcoal S in stock; exact variant inventory 50 at check."
       },
       "sources": [
         "brown-17"
-      ]
+      ],
+      "sourceLinks": [
+        "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=charcoal&gender=men"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
     },
     {
       "id": "brown-25",
@@ -1926,10 +1937,10 @@
     },
     {
       "id": "brown-17",
-      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=speckled-beige&size=s",
-      "title": "Quince · selected color and size",
-      "type": "Live first-party product + exact variant data",
-      "note": "Exact variant 111780, Speckled Beige / S, activeInventory.available=19, atcDisabled=false; price $62.00. Traditional retail is not a sale. Made from 100% organic cotton 7-gauge knit: soft breathable cotton for all-season comfort Allover ribbed knit detailing Raglan sleeves Production plant has a Solar system and Waste Water Treatment System installed in order to reduce environmental impact Produced in BSCI (Business Social Compliance Initiative) certified factories, which aim to improve working conditions throughout the supply chain Made from Organic Content Standard (OCS) certified cotton fiber. Organic fibers aren't treated with pesticides, insecticides or herbicides, and conserve more natural resources like water. Made with care in China and India Ivory zip-knit reference: pronounced vertical ribbing, stand collar and quarter zip. Speckled Beige is warmer/flecked rather than plain ivory; cotton instead of wool. Thread, labels and other trims are not fully specified; main-material qualification only. Shipping/tax/import fees and delivery not quoted for an exact address. No checkout or purchase. Checked 2026-10-17."
+      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=charcoal&gender=men",
+      "title": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal / S",
+      "type": "First-party live product",
+      "note": "Exact selected Charcoal / S rendered HTTP 200 with enabled Add to Bag. Variant 111783, SKU LB127122; available inventory 50; atcDisabled=false. Numeric composition verified in DETAILS: 100% organic cotton. Complete 6 selected-variant mediaList images; unrelated colors/recommendations excluded. Traditional retail comparison is not a sale."
     },
     {
       "id": "brown-18",
