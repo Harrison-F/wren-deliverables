@@ -680,71 +680,72 @@
     {
       "id": "contender-13",
       "name": "Quince · 100% Organic Cotton Ribbed Quarter-Zip Sweater",
-      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=speckled-beige&size=s",
+      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=charcoal&gender=men",
       "category": "Sweater",
       "brand": "Quince",
       "store": "Quince",
-      "color": "Speckled Beige",
-      "verdict": "Sweater",
+      "color": "Charcoal",
+      "verdict": "User selection",
       "summary": "",
-      "unitPriceUSD": 62,
+      "unitPriceUSD": 62.0,
       "naturalPercent": 100,
       "integrityRank": 100,
-      "image": "assets/images/contender-13-01.webp",
-      "imageAlt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 1",
-      "imageNote": "Complete exposed selected-product gallery; retailer source order, resized proportionally to WebP max 1400px. ",
+      "image": "assets/images/contender-13-charcoal-01.webp",
+      "imageAlt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 1",
+      "imageNote": "Complete 6-image Charcoal selected-variant mediaList gallery in retailer order.",
       "images": [
         {
-          "src": "assets/images/contender-13-01.webp",
-          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 1",
-          "source": "https://images.quince.com/73t9KamBPwGdguFbh4z9Vg/f438babe0dd41a3b013b8a82c866d5a5/M-SWT-115-SPBGE-01_EDITED.jpg"
+          "src": "assets/images/contender-13-charcoal-01.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 1",
+          "source": "https://images.quince.com/2lqvnhyrNHnGlTIDrLH8E7/65505e1e3dca286497f37141292c8517/M-SWT-115-CHA-01_EDITED.jpg"
         },
         {
-          "src": "assets/images/contender-13-02.webp",
-          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 2",
-          "source": "https://images.quince.com/5zqTEDC0Hhms5YvZkeuejI/eb6c60f39cae122d3c07f4e0cc9467a3/M-SWT-115-SPBGE-02_EDITED.jpg"
+          "src": "assets/images/contender-13-charcoal-02.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 2",
+          "source": "https://images.quince.com/6Z9012yYlv1yezD7tvfkhl/7338f6e4bdf71a3f01b3bdc2814a9f12/M-SWT-115-CHA-02_EDITED.jpg"
         },
         {
-          "src": "assets/images/contender-13-03.webp",
-          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 3",
-          "source": "https://images.quince.com/1XwxS01autGZ8PvknXHUvS/79ec47d22279256e9d48a1c9879cfcb2/M-SWT-115-SPBGE-04_EDITED.jpg"
+          "src": "assets/images/contender-13-charcoal-03.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 3",
+          "source": "https://images.quince.com/7EzWqL49QGON9ylYBXzPNQ/09206ddaa794a82310806154edc22cfe/M-SWT-115-CHA-04_EDITED.jpg"
         },
         {
-          "src": "assets/images/contender-13-04.webp",
-          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 4",
-          "source": "https://images.quince.com/19KNN1ydwLDmqTkHfO5JoQ/1f964b71553dad51617ec1b35480b5ef/M-SWT-115-SPBGE-03_EDITED.jpg"
+          "src": "assets/images/contender-13-charcoal-04.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 4",
+          "source": "https://images.quince.com/NhMcNEBSPN8tC1GsBvcjt/2375a3b7c47940377d2bf722a8775411/M-SWT-115-CHA-03_EDITED.jpg"
         },
         {
-          "src": "assets/images/contender-13-05.webp",
-          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 5",
-          "source": "https://images.quince.com/17PL8cXO6yu8Bm6carKcH9/3c470a32e760d8d9390d069370009bd6/M-SWT-115-SPBGE-05_EDITED.jpg"
+          "src": "assets/images/contender-13-charcoal-05.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 5",
+          "source": "https://images.quince.com/5gegbQzGUOpj2t5H0NZJ5J/aa4e4c52145f5d05ad5fb4c460123153/M-SWT-115-CHA-05_EDITED.jpg"
         },
         {
-          "src": "assets/images/contender-13-06.webp",
-          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Speckled Beige — retailer gallery 6",
-          "source": "https://images.quince.com/2Hrqxpqvzlx7AzdgX85swP/bd843aac7a139e3f6644c28cf7b52ec1/M-SWT-115-SPBGE-06_EDITED.jpg"
+          "src": "assets/images/contender-13-charcoal-06.webp",
+          "alt": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal — photo 6",
+          "source": "https://images.quince.com/4lPhH9EulMrQthWtL0h77m/a83a567bc15a22c672530d96668903d1/M-SWT-115-CHA-06_EDITED.jpg"
         }
       ],
-      "materialCaveat": "Trims unspecified.",
-      "attribution": "Live selected-color/size page and embedded variant checked: 18 available, Add to Bag enabled. Traditional retail comparison is not a sale. Main fabric meets criterion; trims unspecified.",
+      "materialCaveat": "Retailer-reported main fabric composition; thread and trims unspecified. Zipper materials unspecified.",
+      "attribution": "Exact selected Charcoal / S rendered HTTP 200 with enabled Add to Bag. Variant 111783, SKU LB127122; available inventory 50; atcDisabled=false. Numeric composition verified in DETAILS: 100% organic cotton. Complete 6 selected-variant mediaList images; unrelated colors/recommendations excluded. Traditional retail comparison is not a sale.",
       "facts": {
-        "Fabric": "100% organic cotton",
-        "Price": "$62.00 USD; shipping/tax extra",
-        "Fit": "S requested",
-        "Status": "S available"
+        "Fabric": "100% organic cotton; thread and trims unspecified",
+        "Price": "$62.00 USD; shipping/tax not calculated",
+        "Fit": "Charcoal / S selected",
+        "Status": "Charcoal S in stock; exact variant inventory 50 at check."
       },
       "sources": [
         "contender-13"
       ],
       "sourceLinks": [
-        "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=speckled-beige&size=s"
+        "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=charcoal&gender=men"
       ],
       "verification": {
         "price": true,
         "composition": true,
+        "numericComposition": true,
         "stock": true,
         "gallery": true,
-        "checked": "2026-10-17"
+        "checked": "2026-10-18"
       }
     },
     {
@@ -2691,6 +2692,158 @@
         "checked": "2026-10-18"
       },
       "deal": "$179.97, reduced from $230. Final sale — no returns or exchanges."
+    },
+    {
+      "id": "contender-42",
+      "name": "Quince · Australian Merino Wool Cable Crewneck Sweater",
+      "url": "https://www.quince.com/men/australian-merino-wool-cable-crewneck-sweater?color=malted-toffee&gender=men",
+      "category": "Sweater",
+      "brand": "Quince",
+      "store": "Quince",
+      "color": "Malted Toffee",
+      "verdict": "User selection",
+      "summary": "",
+      "unitPriceUSD": 82.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/contender-42-malted-toffee-01.webp",
+      "imageAlt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 1",
+      "imageNote": "Complete 7-image Malted Toffee selected-variant mediaList gallery in retailer order.",
+      "images": [
+        {
+          "src": "assets/images/contender-42-malted-toffee-01.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 1",
+          "source": "https://images.quince.com/5KBYReD1jV3dXE8VsBK1G8/3fc6d252bce778ec1ab9472469f959ab/M-SWT-48-MLTTFF-01_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-42-malted-toffee-02.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 2",
+          "source": "https://images.quince.com/39mY2PZO7y7C6wbA1k0a7k/62b49d0c86adc297f2e3df585d42c242/M-SWT-48-MLTTFF-02_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-42-malted-toffee-03.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 3",
+          "source": "https://images.quince.com/1IC41OD619aopwaAz3S1HI/bc03159fc87067143ab3ab25bc397a26/M-SWT-48-MLTTFF-04_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-42-malted-toffee-04.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 4",
+          "source": "https://images.quince.com/okLHFjIfQBp6WWPwHbC4u/867875803db9328e0098cb72c6c61981/M-SWT-48-MLTTFF-03_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-42-malted-toffee-05.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 5",
+          "source": "https://images.quince.com/7anBhNdiq8yxFRRrKws1qo/03076d7779c5e09f6c82cf22cc3e77b4/M-SWT-48-MLTTFF-05_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-42-malted-toffee-06.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 6",
+          "source": "https://images.quince.com/3BuF9FM7UCwys5Y0vrejPS/ac896fd3b1cacc7a70f894f8ad640711/M-SWT-48-MLTTFF-06_EDITED.jpg"
+        },
+        {
+          "src": "assets/images/contender-42-malted-toffee-07.webp",
+          "alt": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee — photo 7",
+          "source": "https://images.quince.com/7aRIbLyziJlKyavrvp9mOM/14094673fba3511d164a0baa8dabd9b3/M-SWT-48-MLTTFF-07_EDITED.jpg"
+        }
+      ],
+      "materialCaveat": "Retailer-reported main fabric composition; thread and trims unspecified.",
+      "attribution": "Exact selected Malted Toffee / S rendered HTTP 200 with enabled Add to Bag. Variant 66261, SKU LB81600; available inventory 38; atcDisabled=false. Numeric composition verified in DETAILS: 100% Australian merino wool. Complete 7 selected-variant mediaList images; unrelated colors/recommendations excluded. Traditional retail comparison is not a sale.",
+      "facts": {
+        "Fabric": "100% Australian merino wool; thread and trims unspecified",
+        "Price": "$82.00 USD; shipping/tax not calculated",
+        "Fit": "Malted Toffee / S selected",
+        "Status": "Malted Toffee S in stock; exact variant inventory 38 at check."
+      },
+      "sources": [
+        "contender-42"
+      ],
+      "sourceLinks": [
+        "https://www.quince.com/men/australian-merino-wool-cable-crewneck-sweater?color=malted-toffee&gender=men"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "numericComposition": true,
+        "stock": true,
+        "gallery": true,
+        "checked": "2026-10-18"
+      }
+    },
+    {
+      "id": "contender-43",
+      "name": "Banana Republic · Loose Pleated Corduroy Pant",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=9066890423032&vid=1#pdp-page-content",
+      "category": "Pants",
+      "brand": "Banana Republic",
+      "store": "Banana Republic",
+      "color": "Black",
+      "verdict": "Closest available pleated cut",
+      "summary": "",
+      "unitPriceUSD": 148.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "image": "assets/images/br-pants-906689042-01.webp",
+      "imageAlt": "Loose Pleated Corduroy Pant — Black — photo 1",
+      "images": [
+        {
+          "src": "assets/images/br-pants-906689042-01.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 1",
+          "source": "https://content.gapinc.com/b/0063/231/389/cn63231389.png?width=1440"
+        },
+        {
+          "src": "assets/images/br-pants-906689042-02.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 2",
+          "source": "https://content.gapinc.com/b/0063/227/860/cn63227860.png?width=1440"
+        },
+        {
+          "src": "assets/images/br-pants-906689042-03.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 3",
+          "source": "https://content.gapinc.com/b/0063/227/875/cn63227875.png?width=1440"
+        },
+        {
+          "src": "assets/images/br-pants-906689042-04.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 4",
+          "source": "https://content.gapinc.com/b/0063/446/560/cn63446560.png?width=1440"
+        },
+        {
+          "src": "assets/images/br-pants-906689042-05.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 5",
+          "source": "https://content.gapinc.com/b/0063/227/909/cn63227909.png?width=1440"
+        },
+        {
+          "src": "assets/images/br-pants-906689042-06.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 6",
+          "source": "https://content.gapinc.com/b/0063/227/948/cn63227948.png?width=1440"
+        },
+        {
+          "src": "assets/images/br-pants-906689042-07.webp",
+          "alt": "Loose Pleated Corduroy Pant — Black — photo 7",
+          "source": "https://content.gapinc.com/b/0063/697/644/cn63697644.png?width=1440"
+        }
+      ],
+      "imageNote": "Complete exposed selected-color still gallery; retailer photography. Source links retained for every image.",
+      "materialCaveat": "Corduroy, not smooth wool. 30W / 32L label in stock, but actual inseam is 30″.",
+      "attribution": "Fresh US exact Black selected waist 30W / length 32L; both selected, enabled, aria-disabled=false; Add to Bag enabled. The retailer’s size chart explicitly says 32-inch label = 30-inch actual inseam; 34-inch label = 32-inch actual inseam, but 34L is not offered on this selected black page. No exact 30 × 32 actual-inseam match. Pleated corduroy is less formal and more textured than the reference. Complete seven exposed gallery stills, with position 2 reserved for video; all still images retained.",
+      "facts": {
+        "Fabric": "100% cotton; unlined; trims/thread unspecified",
+        "Price": "$148 USD, excluding tax and shipping",
+        "Fit": "Loose hips; straight leg; front pleats; 20″ leg opening (size 32)",
+        "Status": "Black 30W / 32L available; retailer measures 32L at 30″ inseam"
+      },
+      "sources": [
+        "contender-43"
+      ],
+      "sourceLinks": [
+        "https://bananarepublic.gap.com/browse/product.do?pid=9066890423032&vid=1#pdp-page-content"
+      ],
+      "verification": {
+        "price": true,
+        "composition": true,
+        "stock": true,
+        "gallery": true,
+        "exact30x32": false,
+        "checked": "2026-10-18"
+      }
     }
   ],
   "sources": [
@@ -2773,10 +2926,10 @@
     },
     {
       "id": "contender-13",
-      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=speckled-beige&size=s",
-      "title": "100% Organic Cotton Ribbed Quarter-Zip Sweater — supplied listing",
+      "url": "https://www.quince.com/men/mens-100-organic-cotton-ribbed-stitch-quarter-zip-sweater?color=charcoal&gender=men",
+      "title": "100% Organic Cotton Ribbed Quarter-Zip Sweater — Charcoal / S",
       "type": "First-party live product",
-      "note": "Live selected-color/size page and embedded variant checked: 18 available, Add to Bag enabled. Traditional retail comparison is not a sale. Main fabric meets criterion; trims unspecified."
+      "note": "Exact selected Charcoal / S rendered HTTP 200 with enabled Add to Bag. Variant 111783, SKU LB127122; available inventory 50; atcDisabled=false. Numeric composition verified in DETAILS: 100% organic cotton. Complete 6 selected-variant mediaList images; unrelated colors/recommendations excluded. Traditional retail comparison is not a sale."
     },
     {
       "id": "contender-14",
@@ -2973,6 +3126,20 @@
       "title": "Tailored Slim-Fit Italian Wool Ventile Suit Pant — Utility Blue",
       "type": "First-party live product",
       "note": "Dedicated Wren browser rendered exact supplied URL, Utility Blue selected. Fabric & care: shell 100% wool; lining 100% cotton, half lined to knee. $179.97 from $230, final sale no returns/exchanges. With 30W selected, 32L is crossed out/unavailable and its input aria-disabled=true: requested 30W × 32L is unavailable. Size chart lists 32L actual inseam 31.5 inches. Eight selected-color gallery positions: seven photographs plus video poster in position 2; original video source retained as evidence. User selection retained despite stock and blue-color departure from usual dark-pants preference."
+    },
+    {
+      "id": "contender-42",
+      "url": "https://www.quince.com/men/australian-merino-wool-cable-crewneck-sweater?color=malted-toffee&gender=men",
+      "title": "Australian Merino Wool Cable Crewneck Sweater — Malted Toffee / S",
+      "type": "First-party live product",
+      "note": "Exact selected Malted Toffee / S rendered HTTP 200 with enabled Add to Bag. Variant 66261, SKU LB81600; available inventory 38; atcDisabled=false. Numeric composition verified in DETAILS: 100% Australian merino wool. Complete 7 selected-variant mediaList images; unrelated colors/recommendations excluded. Traditional retail comparison is not a sale."
+    },
+    {
+      "id": "contender-43",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=9066890423032&vid=1#pdp-page-content",
+      "title": "Loose Pleated Corduroy Pant — Black 30W / 32L (30-inch actual inseam)",
+      "type": "First-party live product",
+      "note": "Fresh US exact Black selected waist 30W / length 32L; both selected, enabled, aria-disabled=false; Add to Bag enabled. The retailer’s size chart explicitly says 32-inch label = 30-inch actual inseam; 34-inch label = 32-inch actual inseam, but 34L is not offered on this selected black page. No exact 30 × 32 actual-inseam match. Pleated corduroy is less formal and more textured than the reference. Complete seven exposed gallery stills, with position 2 reserved for video; all still images retained."
     }
   ],
   "evidenceNote": "Exact supplied URLs and selected-color galleries. Saved browser order retains surviving items and appends new jackets; merchant order remains the no-saved-order default.",
@@ -2980,7 +3147,7 @@
   "sourceCoverage": {
     "linkOccurrences": 19,
     "distinctURLs": 18,
-    "products": 38,
+    "products": 40,
     "originalExcalidrawOccurrences": 14,
     "chatAdditions": 5,
     "removedProductIds": [
