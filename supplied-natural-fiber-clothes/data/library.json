@@ -3,10 +3,106 @@
     {
       "id": "supplied-natural-fiber-clothes",
       "title": "Supplied natural-fiber clothes",
-      "summary": "23 visible natural-fiber cards from supplied screenshots · blends/nylon excluded.",
+      "summary": "23 visible natural-fiber cards from supplied screenshots \u00b7 blends/nylon excluded.",
       "updated": "2026-10-19",
       "image": "assets/images/supplied-natural-17.webp",
       "imageAlt": "Relaxed pima cotton poplin shirt supplied screenshot"
+    },
+    {
+      "id": "brown-jacket-outfit",
+      "title": "Outfit inspirations",
+      "summary": "17 natural-material alternatives across five references \u00b7 S tops/jackets \u00b7 dark W30/L32 pants.",
+      "updated": "2026-10-17",
+      "image": "assets/images/brown-09-01.webp",
+      "imageAlt": "Quince dark chestnut brown genuine suede overshirt"
+    },
+    {
+      "id": "mens-natural-wardrobe",
+      "title": "Natural-fiber wardrobe",
+      "summary": "34 verified options \u00b7 dark pants 30\u00d732 \u00b7 shirts, sweaters and jackets S \u00b7 price ascending.",
+      "updated": "2026-10-17",
+      "image": "assets/images/wardrobe-05-01.webp",
+      "imageAlt": "Norse Projects long-sleeve cotton shirt in official Lead grey, photographed warm taupe"
+    },
+    {
+      "id": "natural-boxer-briefs",
+      "title": "Natural-fiber boxer briefs",
+      "summary": "Waist 30 \u00b7 black preferred \u00b7 mixed inseams",
+      "updated": "2026-10-17",
+      "image": "assets/images/natural-boxer-briefs-1-1.webp",
+      "imageAlt": "Quince Organic Cotton 6-inch Boxer Brief 3-Pack \u00b7 Black \u00b7 official photo"
+    },
+    {
+      "id": "black-natural-socks",
+      "title": "Black natural-fiber socks",
+      "summary": "US men\u2019s 10 \u00b7 crew + quarter \u00b7 black only",
+      "updated": "2026-10-17",
+      "image": "assets/images/black-natural-socks-1-1.webp",
+      "imageAlt": "Rawganique BAYRIDGE V1 99.9% Organic Cotton Socks \u00b7 Black \u00b7 official photo"
+    },
+    {
+      "id": "natural-fiber-jackets",
+      "title": "30 natural-fiber jacket options",
+      "summary": "30 black/brown natural-shell jackets, price ordered. Full galleries and material caveats.",
+      "updated": "2026-10-14",
+      "image": "assets/images/jacket-quince-black.webp",
+      "imageAlt": "Quince \u00b7 Black Harrington official product photo"
+    },
+    {
+      "id": "specialist-natural-pants",
+      "title": "Pleated pants for the office",
+      "summary": "One ready-made wool option + two custom cotton alternatives. No bootcut.",
+      "updated": "2026-10-14",
+      "image": "assets/images/hawes-black.webp",
+      "imageAlt": "Black pleated Hawes and Curtis wool trousers"
+    },
+    {
+      "id": "dark-natural-pants",
+      "title": "Dark natural-fiber pants",
+      "summary": "30\u00d732, slim preferred \u00b7 100% natural main fabric \u00b7 affordability first.",
+      "updated": "2026-10-14",
+      "image": "assets/images/pants-wrangler-black.webp",
+      "imageAlt": "Wrangler Shadow Black cotton jeans"
+    },
+    {
+      "id": "natural-fiber-socks",
+      "title": "Natural-fiber socks",
+      "summary": "High natural-fiber content, everyday value and Woolshire\u2019s upcoming socks \u00b7 NYC 10016.",
+      "updated": "2026-10-12",
+      "image": "assets/images/socks-maggies.webp",
+      "imageAlt": "Ivory Maggie\u2019s organic cotton crew socks"
+    },
+    {
+      "id": "atlanta-dry-erase",
+      "title": "Atlanta: travel whiteboards",
+      "summary": "Hampton Inn Georgia Tech \u00b7 30313 \u00b7 delivery by October 13.",
+      "updated": "2026-10-11",
+      "image": "assets/images/clingrite.webp",
+      "imageAlt": "Cling-rite Backpacker roll"
+    },
+    {
+      "id": "travel-dry-erase-walls",
+      "title": "Travel dry-erase walls",
+      "summary": "Portable writing surfaces for temporary rooms, packed between trips without starting the diagram over.",
+      "updated": "2026-10-11",
+      "image": "assets/images/magic.webp",
+      "imageAlt": "Magic Whiteboard US 25-sheet roll product photograph"
+    },
+    {
+      "id": "harrison-clothes-contenders",
+      "title": "Harrison clothes contenders",
+      "summary": "All selected clothing contenders, including blocked and sold-out listings.",
+      "updated": "2026-10-17",
+      "image": "assets/images/contender-02-01.webp",
+      "imageAlt": "Denim Button-Up Shirt \u2014 Cream \u2014 retailer gallery 1"
+    },
+    {
+      "id": "natural-cable-knit-sweaters",
+      "title": "Natural cable-knit sweaters",
+      "summary": "Natural-main-yarn cable zip-neck sweaters; reference plus eleven distinct alternatives.",
+      "updated": "2026-10-18",
+      "image": "assets/images/sweater-reference-01.webp",
+      "imageAlt": "Massimo Dutti \u00b7 100% Wool Cable-Knit Sweater \u2014 Mink \u2014 photo 1"
     }
   ]
 }
