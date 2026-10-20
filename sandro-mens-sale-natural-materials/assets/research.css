@@ -106,6 +106,41 @@ body.research.clothing-catalog {--ink:#162438;--muted:#536071;--dim:#536071;--ac
 .research.clothing-catalog .natural-basics .identity h2 {font:400 18px/1.4 Georgia,serif;letter-spacing:0;}
 .clothing-catalog .card-body>p {font-size:14px;line-height:1.5;margin:6px 0 0;color:var(--ink);}
 .clothing-catalog .card-body>.catalog-price {font-size:22px;line-height:1.35;font-family:Georgia,serif;}
+.clothing-catalog .card-body>.catalog-color {display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:4px;font-size:13px;line-height:1.4;}
+.catalog-color-options {display:inline-flex;align-items:center;gap:2px;}
+.catalog-color-option {display:grid;place-items:center;width:44px;height:44px;padding:0;border:0;border-radius:50%;background:transparent;cursor:pointer;}
+.catalog-color-option:hover {background:#f0f1f3;}
+.catalog-color-option[aria-pressed=true] .color-swatch {box-shadow:0 0 0 2px #fff,0 0 0 3px var(--ink);}
+.catalog-color-single {display:grid;place-items:center;width:44px;height:44px;}
+.color-swatch {display:inline-block;width:18px;height:18px;flex:0 0 18px;border-radius:50%;border:1px solid rgba(22,36,56,.28);box-shadow:inset 0 0 0 1px rgba(255,255,255,.32);background:#a9adb1;}
+.color-swatch[data-color-key="aluminum"] {background:#b9bcc0;}
+.color-swatch[data-color-key="beige"] {background:#cfc1a5;}
+.color-swatch[data-color-key="black"] {background:#161719;}
+.color-swatch[data-color-key="blue-sky"] {background:#8ab7d6;}
+.color-swatch[data-color-key="butter-cream"] {background:#f1dfaf;}
+.color-swatch[data-color-key="camel"] {background:#b08359;}
+.color-swatch[data-color-key="chambray"] {background:#7895a8;}
+.color-swatch[data-color-key="chocolate"] {background:#5c3a2c;}
+.color-swatch[data-color-key="dark-kaki"] {background:#4f5540;}
+.color-swatch[data-color-key="dark-sand"] {background:#b2a188;}
+.color-swatch[data-color-key="ecru"] {background:#e6ddc7;}
+.color-swatch[data-color-key="ginger-bread"] {background:#a85d38;}
+.color-swatch[data-color-key="grey-blue"] {background:linear-gradient(135deg,#9b9c9d 0 50%,#516779 50%);}
+.color-swatch[data-color-key="ivory"] {background:#f1ecdb;}
+.color-swatch[data-color-key="lime"] {background:#b3c84a;}
+.color-swatch[data-color-key="mandarin"] {background:#d46332;}
+.color-swatch[data-color-key="marine-blanc"] {background:linear-gradient(135deg,#263a55 0 50%,#f5f3ea 50%);}
+.color-swatch[data-color-key="navy-blue"] {background:#263a55;}
+.color-swatch[data-color-key="nut"] {background:#9a806a;}
+.color-swatch[data-color-key="oats"] {background:#d8cdb4;}
+.color-swatch[data-color-key="optic-white"],.color-swatch[data-color-key="white"],.color-swatch[data-color-key="vintage-white"] {background:#faf9f4;}
+.color-swatch[data-color-key="powder-pink"] {background:#dab5b7;}
+.color-swatch[data-color-key="sand"] {background:#c9b896;}
+.color-swatch[data-color-key="sky-blue"] {background:#92b8d3;}
+.color-swatch[data-color-key="tobacco-brown"] {background:#8a5839;}
+.color-swatch[data-color-key="whisky"] {background:#ad6c35;}
+.color-swatch[data-color-key="white-black"] {background:linear-gradient(135deg,#faf9f4 0 50%,#171819 50%);}
+.color-swatch[data-color-key="yellow-black"] {background:linear-gradient(135deg,#d9b92c 0 50%,#171819 50%);}
 .clothing-catalog .card-body>.catalog-material {color:var(--muted);font-size:14px;}
 .clothing-catalog .card-body>.catalog-deal {color:#9b2727;font-size:14px;}
 .research.clothing-catalog .natural-basics .gallery-controls {padding:0;border:0;gap:4px;}
