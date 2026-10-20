@@ -1,0 +1,1501 @@
+{
+  "scope": "US men\u2019s storefront pagination and exposed product collections; one lowest-price qualifying color with any-size availability per collection/name selection (or a labeled unavailable color when none is available; team/graphic names retained separately). Repeated names can occur across retailer collections; cards are not a count of distinct designs. Other natural colors are linked in Sources & evidence; only the selected color gallery is mirrored. No preferred-size or color exclusion.",
+  "snapshot": {
+    "pdpCollections": 1058,
+    "uniqueColorsReviewed": 3139,
+    "qualifyingColors": 1206,
+    "selectedNamedStyles": 626,
+    "distinctCollectionsSelected": 375,
+    "reasons": {
+      "Main fabric ambiguous or unspecified": 180,
+      "Synthetic/regenerated or non-fiber main material": 1724,
+      "Natural main fabric verified": 1206,
+      "Non-clothing category": 23,
+      "Numeric composition unresolved": 6
+    },
+    "unresolvedPages": [
+      {
+        "collectionId": "176866",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/long-sleeve-pocket-tee-49294820?categoryId=12202&faceout=prod&seq=03",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "696858",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/100-cotton-textured-flannel-63480646?categoryId=12202&faceout=model&seq=01",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "715866",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-20-tee-63703319?categoryId=12202&faceout=model&seq=30",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "718989",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/heritage-heavyweight-logo-popover-hoodie-63915841?categoryId=12202&faceout=model&seq=05",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9541992",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/classic-polished-tee-57648466?categoryId=12204&faceout=model&seq=55",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9541997",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/slim-polished-signature-icon-tee-61761356?categoryId=12204&faceout=prod&seq=10",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9602070",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/pride-pull-on-short-60725356?categoryId=12204&faceout=model&seq=02",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9602555",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/western-straight-jean-58165843?categoryId=12204&faceout=model&seq=03",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9608849",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/camp-collar-cropped-cupro-shirt-61283333?categoryId=12204&faceout=model&seq=04",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9608924",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/ypb-active-cropped-heavyweight-cotton-tank-59620903?categoryId=12204&faceout=model&seq=02",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9657878",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/relaxed-straight-jean-59885324?categoryId=12204&faceout=model&seq=03",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9658440",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/textured-icon-dont-sweat-it-polo-60450875?categoryId=12204&faceout=model&seq=09",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9659303",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/signature-icon-dont-sweat-it-polo-61537365?categoryId=12204&faceout=prod&seq=75",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9672500",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/skull-beanie-62261319?categoryId=12204&faceout=prod&seq=03",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9672583",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/wool-blend-double-breasted-coat-62252849?categoryId=12204&faceout=model&seq=03",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9672596",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/essential-baggy-cinched-sweatpant-61980849?categoryId=12204&faceout=model&seq=01",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9673115",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/poplin-pull-on-short-62788887?categoryId=12204&faceout=model&seq=01",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9673118",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/parachute-cargo-short-62788882?categoryId=12204&faceout=model&seq=01",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9682830",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/henley-sweater-63064819?categoryId=12204&faceout=model&seq=01",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9685480",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-20-tee-63064821?categoryId=12204&faceout=model&seq=68",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9685532",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/cocktail-bar-graphic-popover-hoodie-62788915?categoryId=12204&faceout=model&seq=02",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9688918",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/classic-waffle-tee-63583834?categoryId=12204&faceout=model&seq=02",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9691907",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/heritage-heavyweight-baggy-open-hem-sweatpant-62788943?categoryId=12204&faceout=model&seq=01",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9692624",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/the-a-and-f-collins-linen-blend-blazer-62522820?categoryId=12204&faceout=model&seq=02",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9696005",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/100-linen-banded-collar-popover-63826851?categoryId=12204&faceout=model&seq=01",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9696006",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/100-linen-short-sleeve-button-up-shirt-63826854?categoryId=12204&faceout=model&seq=01",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9705607",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/essential-fleece-polo-63583873?categoryId=12204&faceout=model&seq=01",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      },
+      {
+        "collectionId": "9705970",
+        "requestedUrl": "https://www.abercrombie.com/shop/us/p/herringbone-barrel-pant-63136364?categoryId=12204&faceout=model&seq=06",
+        "error": "Live product endpoint returned an empty collection; no composition verified"
+      }
+    ],
+    "unresolvedDiscoveredColors": 71,
+    "unresolvedListings": [
+      {
+        "productId": "63752361",
+        "collectionId": "718989",
+        "name": "Heritage Heavyweight Logo Popover Hoodie",
+        "url": "https://www.abercrombie.com/shop/us/p/heritage-heavyweight-logo-popover-hoodie-63915841?categoryId=12202&faceout=model&seq=05",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62005366",
+        "collectionId": "715866",
+        "name": "Premium Heavyweight 2.0 Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-20-tee-63703319?categoryId=6570709&faceout=model&seq=30",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62552339",
+        "collectionId": "696068",
+        "name": "Leather Loafers",
+        "url": "https://www.abercrombie.com/shop/us/p/leather-loafers-62825330?categoryId=12202&faceout=prod&seq=02",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "56565350",
+        "collectionId": "514003",
+        "name": "Vintage-Inspired Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/vintage-inspired-tee-52296824?categoryId=6570709&faceout=model&seq=10",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "63481503",
+        "collectionId": "696858",
+        "name": "100% Cotton Textured Flannel",
+        "url": "https://www.abercrombie.com/shop/us/p/100-cotton-textured-flannel-63480646?categoryId=6570709&faceout=model&seq=01",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "63481322",
+        "collectionId": "714402",
+        "name": "Structured Cotton-Blend Baggy Trouser",
+        "url": "https://www.abercrombie.com/shop/us/p/lyocell-cotton-baggy-trouser-63481322?categoryId=12202&faceout=model&seq=01",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "63481507",
+        "collectionId": "696735",
+        "name": "Premium Heavyweight 2.0 Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-20-tee-63481507?categoryId=6570709&faceout=model&seq=03",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "51236321",
+        "collectionId": "176866",
+        "name": "Long-Sleeve Pocket Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/long-sleeve-pocket-tee-49294820?categoryId=6570709&faceout=prod&seq=03",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62232320",
+        "collectionId": "9608865",
+        "name": "The A&F Collins Double-Breasted Linen-Blend Blazer",
+        "url": "https://www.abercrombie.com/shop/us/p/the-a-and-f-collins-tailored-double-breasted-blazer-59408891?categoryId=12204&faceout=model&seq=06",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62200831",
+        "collectionId": "9685739",
+        "name": "Vegan Suede Zip Jacket",
+        "url": "https://www.abercrombie.com/shop/us/p/vegan-suede-zip-jacket-63168341?categoryId=12204&faceout=model&seq=02",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "61812868",
+        "collectionId": "9594373",
+        "name": "YPB neoKNIT MAX Popover Hoodie",
+        "url": "https://www.abercrombie.com/shop/us/p/ypb-neoknit-max-popover-59005831?categoryId=12204&faceout=model&seq=43",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "58945888",
+        "collectionId": "9692624",
+        "name": "The A&F Collins Linen-Blend Blazer",
+        "url": "https://www.abercrombie.com/shop/us/p/the-a-and-f-collins-linen-blend-blazer-62522820?categoryId=12204&faceout=model&seq=02",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62415826",
+        "collectionId": "9660858",
+        "name": "Tailored Linen-Blend Relaxed Straight Trouser",
+        "url": "https://www.abercrombie.com/shop/us/p/tailored-linen-blend-relaxed-straight-trouser-62415826?categoryId=12204&faceout=model&seq=13",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "63334209",
+        "collectionId": "9696005",
+        "name": "100% Linen Banded Collar Popover",
+        "url": "https://www.abercrombie.com/shop/us/p/100-linen-banded-collar-popover-63826851?categoryId=12204&faceout=model&seq=01",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "63017573",
+        "collectionId": "9672562",
+        "name": "Classic Essential Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/classic-essential-tee-62524325?categoryId=12204&faceout=model&seq=15",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62671363",
+        "collectionId": "9685483",
+        "name": "Twill Shirt Jacket",
+        "url": "https://www.abercrombie.com/shop/us/p/denim-oversized-shirt-jacket-63168344?categoryId=12204&faceout=model&seq=04",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "60512833",
+        "collectionId": "9682490",
+        "name": "Essential Popover Hoodie",
+        "url": "https://www.abercrombie.com/shop/us/p/essential-popover-hoodie-61980823?categoryId=12204&faceout=model&seq=07",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "60512819",
+        "collectionId": "9592029",
+        "name": "Essential Cropped Full-Zip Hoodie",
+        "url": "https://www.abercrombie.com/shop/us/p/essential-cropped-full-zip-hoodie-59215320?categoryId=12204&faceout=model&seq=14",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "59885324",
+        "collectionId": "9657878",
+        "name": "Relaxed Straight Jean",
+        "url": "https://www.abercrombie.com/shop/us/p/relaxed-straight-jean-59885324?categoryId=12204&faceout=model&seq=03",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "63130085",
+        "collectionId": "9705891",
+        "name": "Waffle-Knit Lounge Top",
+        "url": "https://www.abercrombie.com/shop/us/p/waffle-knit-lounge-top-63583881?categoryId=12204&faceout=prod&seq=02",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "61358819",
+        "collectionId": "9644440",
+        "name": "Recycled Wool-Blend Zip Jacket",
+        "url": "https://www.abercrombie.com/shop/us/p/wool-blend-zip-jacket-62250323?categoryId=12204&faceout=model&seq=05",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62250821",
+        "collectionId": "9608829",
+        "name": "Guinness Vintage-Inspired Graphic Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/guinness-vintage-inspired-graphic-tee-62250821?categoryId=12204&faceout=model&seq=33",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62194826",
+        "collectionId": "9673115",
+        "name": "Poplin Pull-On Short",
+        "url": "https://www.abercrombie.com/shop/us/p/poplin-pull-on-short-62788887?categoryId=12204&faceout=model&seq=01",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62198832",
+        "collectionId": "9673118",
+        "name": "Parachute Cargo Short",
+        "url": "https://www.abercrombie.com/shop/us/p/parachute-cargo-short-62788882?categoryId=12204&faceout=model&seq=01",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62429830",
+        "collectionId": "9690639",
+        "name": "YPB Micro-Terry Popover",
+        "url": "https://www.abercrombie.com/shop/us/p/ypb-micro-terry-popover-62948867?categoryId=12204&faceout=model&seq=02",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62183319",
+        "collectionId": "9685480",
+        "name": "Premium Heavyweight 2.0 Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-20-tee-63064821?categoryId=12204&faceout=model&seq=68",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "61933329",
+        "collectionId": "9549189",
+        "name": "Ultra Baggy Jean",
+        "url": "https://www.abercrombie.com/shop/us/p/ultra-baggy-jean-61933329?categoryId=12204&faceout=model&seq=41",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "59198819",
+        "collectionId": "9603281",
+        "name": "Linen-Blend Pull-On Short",
+        "url": "https://www.abercrombie.com/shop/us/p/textured-pull-on-short-59801115?categoryId=12204&faceout=model&seq=10",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "61414882",
+        "collectionId": "9672583",
+        "name": "Wool-Blend Double-Breasted Coat",
+        "url": "https://www.abercrombie.com/shop/us/p/wool-blend-double-breasted-coat-62252849?categoryId=12204&faceout=model&seq=03",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "58165843",
+        "collectionId": "9602555",
+        "name": "Western Straight Jean",
+        "url": "https://www.abercrombie.com/shop/us/p/western-straight-jean-58165843?categoryId=12204&faceout=model&seq=03",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62234827",
+        "collectionId": "9691907",
+        "name": "Heritage Heavyweight Baggy Open-Hem Sweatpant",
+        "url": "https://www.abercrombie.com/shop/us/p/heritage-heavyweight-baggy-open-hem-sweatpant-62788943?categoryId=12204&faceout=model&seq=01",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "59778348",
+        "collectionId": "9602070",
+        "name": "Pull-On Short",
+        "url": "https://www.abercrombie.com/shop/us/p/pride-pull-on-short-60725356?categoryId=12204&faceout=model&seq=02",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "63129967",
+        "collectionId": "9705607",
+        "name": "Essential Fleece Polo",
+        "url": "https://www.abercrombie.com/shop/us/p/essential-fleece-polo-63583873?categoryId=12204&faceout=model&seq=01",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "58768832",
+        "collectionId": "9511064",
+        "name": "Loose Jean",
+        "url": "https://www.abercrombie.com/shop/us/p/loose-jean-58768832?categoryId=12204&faceout=model&seq=87",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "59709134",
+        "collectionId": "9608852",
+        "name": "100% Linen Button-Up Shirt",
+        "url": "https://www.abercrombie.com/shop/us/p/linen-button-up-shirt-59620897?categoryId=12204&faceout=model&seq=13",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "61140848",
+        "collectionId": "9642799",
+        "name": "Camp Collar Textured Button-Up Shirt",
+        "url": "https://www.abercrombie.com/shop/us/p/camp-collar-textured-button-up-shirt-62375362?categoryId=12204&faceout=model&seq=01",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "61419823",
+        "collectionId": "9674691",
+        "name": "Olympics Full-Zip Hoodie",
+        "url": "https://www.abercrombie.com/shop/us/p/olympics-graphic-crew-sweatshirt-62252837?categoryId=12204&faceout=model&seq=05",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "63136419",
+        "collectionId": "9686471",
+        "name": "Corduroy Overshirt",
+        "url": "https://www.abercrombie.com/shop/us/p/corduroy-overshirt-63583829?categoryId=12204&faceout=model&seq=05",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "63130112",
+        "collectionId": "9705604",
+        "name": "Essential Popover 2.0 Hoodie",
+        "url": "https://www.abercrombie.com/shop/us/p/essential-popover-20-hoodie-63583870?categoryId=12204&faceout=model&seq=12",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "63136375",
+        "collectionId": "9695040",
+        "name": "Relaxed Straight Pleated Hybrid-Waist Pant",
+        "url": "https://www.abercrombie.com/shop/us/p/relaxed-straight-pleated-menswear-pant-63136375?categoryId=12204&faceout=model&seq=03",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "63136364",
+        "collectionId": "9705970",
+        "name": "Barrel Pant",
+        "url": "https://www.abercrombie.com/shop/us/p/herringbone-barrel-pant-63136364?categoryId=12204&faceout=model&seq=06",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "59173671",
+        "collectionId": "9541992",
+        "name": "Classic Polished Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/classic-polished-tee-57648466?categoryId=12204&faceout=model&seq=55",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "55211882",
+        "collectionId": "9541992",
+        "name": "Classic Polished Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/classic-polished-tee-57648466?categoryId=12204&faceout=model&seq=13",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "59323592",
+        "collectionId": "9609076",
+        "name": "Premium Heavyweight 2.0 Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-20-tee-59408885?categoryId=12204&faceout=model&seq=30",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "54682823",
+        "collectionId": "9519631",
+        "name": "Essential Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/essential-tee-57648368?categoryId=12204&faceout=model&seq=09",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62186873",
+        "collectionId": "9685532",
+        "name": "Piano Bar Graphic Popover Hoodie",
+        "url": "https://www.abercrombie.com/shop/us/p/cocktail-bar-graphic-popover-hoodie-62788915?categoryId=12204&faceout=model&seq=02",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "58875922",
+        "collectionId": "9608924",
+        "name": "YPB Heavyweight Cotton Extended Shoulder Tank",
+        "url": "https://www.abercrombie.com/shop/us/p/ypb-active-cropped-heavyweight-cotton-tank-59620903?categoryId=12204&faceout=model&seq=02",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "58583324",
+        "collectionId": "9519631",
+        "name": "Relaxed Essential Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/essential-tee-57648368?categoryId=12204&faceout=model&seq=85",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "60707819",
+        "collectionId": "9659303",
+        "name": "Signature Icon Don't Sweat It Polo",
+        "url": "https://www.abercrombie.com/shop/us/p/signature-icon-dont-sweat-it-polo-61537365?categoryId=12204&faceout=prod&seq=75",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "59846833",
+        "collectionId": "9658440",
+        "name": "Textured Icon Don't Sweat It Polo",
+        "url": "https://www.abercrombie.com/shop/us/p/textured-icon-dont-sweat-it-polo-60450875?categoryId=12204&faceout=model&seq=09",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "63130025",
+        "collectionId": "9688918",
+        "name": "Classic Waffle Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/classic-waffle-tee-63583834?categoryId=12204&faceout=model&seq=02",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "61832861",
+        "collectionId": "9682830",
+        "name": "Henley Sweater",
+        "url": "https://www.abercrombie.com/shop/us/p/henley-sweater-63064819?categoryId=12204&faceout=model&seq=01",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "55377374",
+        "collectionId": "9514003",
+        "name": "Vintage-Inspired Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/vintage-inspired-tee-57648405?categoryId=12204&faceout=model&seq=19",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "63334210",
+        "collectionId": "9696006",
+        "name": "100% Linen Short-Sleeve Button-Up Shirt",
+        "url": "https://www.abercrombie.com/shop/us/p/100-linen-short-sleeve-button-up-shirt-63826854?categoryId=12204&faceout=model&seq=01",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "62427835",
+        "collectionId": "9691840",
+        "name": "100% Cotton 3-Button Sweater Polo",
+        "url": "https://www.abercrombie.com/shop/us/p/100-cotton-3-button-sweater-polo-63168346?categoryId=12204&faceout=model&seq=05",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "58861353",
+        "collectionId": "9608915",
+        "name": "YPB neoKNIT MAX Full-Zip Hoodie",
+        "url": "https://www.abercrombie.com/shop/us/p/ypb-neoknit-max-full-zip-hoodie-61113819?categoryId=12204&faceout=life&seq=03",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "60561864",
+        "collectionId": "9549189",
+        "name": "Ultra Baggy Jean",
+        "url": "https://www.abercrombie.com/shop/us/p/ultra-baggy-jean-60561864?categoryId=12204&faceout=model&seq=40",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "60571417",
+        "collectionId": "9519618",
+        "name": "Essential Crew Sweatshirt",
+        "url": "https://www.abercrombie.com/shop/us/p/essential-crew-sweatshirt-57648401?categoryId=12204&faceout=model&seq=60",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "61408353",
+        "collectionId": "9672596",
+        "name": "Essential Baggy Cinched Sweatpant",
+        "url": "https://www.abercrombie.com/shop/us/p/essential-baggy-cinched-sweatpant-61980849?categoryId=12204&faceout=model&seq=01",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "61005917",
+        "collectionId": "9638483",
+        "name": "Slub Flannel",
+        "url": "https://www.abercrombie.com/shop/us/p/slub-flannel-62250322?categoryId=12204&faceout=model&seq=09",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "61408415",
+        "collectionId": "9672515",
+        "name": "Textured Cardigan",
+        "url": "https://www.abercrombie.com/shop/us/p/fuzzy-cardigan-61537383?categoryId=12204&faceout=model&seq=04",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "60523846",
+        "collectionId": "9646446",
+        "name": "Random Golf Club Performance Polo",
+        "url": "https://www.abercrombie.com/shop/us/p/performance-polo-60035345?categoryId=12204&faceout=model&seq=10",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "59163571",
+        "collectionId": "9658440",
+        "name": "Textured Icon Don't Sweat It Polo",
+        "url": "https://www.abercrombie.com/shop/us/p/textured-icon-dont-sweat-it-polo-60450875?categoryId=12204&faceout=model&seq=01",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "61154351",
+        "collectionId": "9608829",
+        "name": "Modelo Vintage-Inspired Graphic Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/modelo-vintage-inspired-graphic-tee-61154351?categoryId=12204&faceout=model&seq=30",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "61408333",
+        "collectionId": "9672500",
+        "name": "Chevrolet Skull Beanie",
+        "url": "https://www.abercrombie.com/shop/us/p/skull-beanie-62261319?categoryId=12204&faceout=prod&seq=03",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "51888320",
+        "collectionId": "9461806",
+        "name": "90s Straight Jean",
+        "url": "https://www.abercrombie.com/shop/us/p/90s-straight-jeans-51888320?categoryId=12204&faceout=model&seq=37",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "59071446",
+        "collectionId": "9608849",
+        "name": "Camp Collar Cupro Shirt",
+        "url": "https://www.abercrombie.com/shop/us/p/camp-collar-cropped-cupro-shirt-61283333?categoryId=12204&faceout=model&seq=04",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "58583239",
+        "collectionId": "9519631",
+        "name": "Relaxed Essential Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/essential-tee-57648368?categoryId=12204&faceout=model&seq=82",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "57733687",
+        "collectionId": "9541992",
+        "name": "Classic Polished Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/classic-polished-tee-57648466?categoryId=12204&faceout=model&seq=28",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "60778957",
+        "collectionId": "9541997",
+        "name": "Slim Polished Signature Icon Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/slim-polished-signature-icon-tee-61761356?categoryId=12204&faceout=prod&seq=10",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      },
+      {
+        "productId": "61145879",
+        "collectionId": "9514003",
+        "name": "Vintage-Inspired Tee",
+        "url": "https://www.abercrombie.com/shop/us/p/vintage-inspired-tee-57648405?categoryId=12204&faceout=model&seq=09",
+        "reason": "Discovered color absent from returned product collection; unresolved, not assumed sold out"
+      }
+    ]
+  },
+  "catalogCards": 625,
+  "categories": {
+    "T-Shirts & Tanks": 87,
+    "Graphic Tees": 260,
+    "Shorts": 19,
+    "Accessories": 26,
+    "Jeans": 18,
+    "Sweaters": 41,
+    "Shirts": 87,
+    "Polos": 28,
+    "Hoodies & Sweatshirts": 2,
+    "Pants": 21,
+    "Coats & Jackets": 36
+  },
+  "selectedPageFailures": [
+    {
+      "url": "https://www.abercrombie.com/shop/us/p/budweiser-denim-button-up-shirt-61761363?seq=05",
+      "reason": "Exact selected-color URL not verified"
+    }
+  ],
+  "limits": "Not a promise of exhaustive worldwide or permanently current stock. Catalog changes during pagination; search-only, unpublished and undiscovered pages may exist. Main fabric only: synthetic linings, fillings, embroidery, pocket bags and unspecified trims do not qualify as whole-garment natural. Regenerated fibers and synthetic main-fabric blends excluded. Shipping and tax not included.",
+  "distinctProductNames": 524,
+  "discoveredColorsIncludingCategories": 3165,
+  "missingColorRecovery": {
+    "attempted": 71,
+    "recovered": 0,
+    "result": "Exact-URL retries returned no missing requested color; unresolved, not assumed sold out."
+  },
+  "galleryMissingCount": 21,
+  "galleryMissingImages": [
+    {
+      "src": "assets/images/af-57520914-01.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_131-4190-00229-975_life1?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_131-4190-00229-975_life1?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_131-4190-00229-975_life1?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_131-4190-00229-975_life1?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_131-4190-00229-975_life1?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-59928839-01.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_124-5219-00125-300_life1?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-5219-00125-300_life1?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-5219-00125-300_life1?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-5219-00125-300_life1?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-5219-00125-300_life1?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-58875218-01.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_124-5002-00407-100_life1?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-5002-00407-100_life1?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-5002-00407-100_life1?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-5002-00407-100_life1?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-5002-00407-100_life1?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-60575412-01.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model1?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model1?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model1?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model1?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model1?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-60575412-02.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model2?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model2?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model2?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model2?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model2?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-60575412-03.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model3?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model3?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model3?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model3?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model3?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-60575412-04.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model4?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model4?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model4?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model4?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model4?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-60575412-05.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model5?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model5?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model5?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model5?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model5?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-60575412-06.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model6?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model6?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model6?policy=product-large",
+          "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model6?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_123-5186-00530-233_model6?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-62715319-01.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_124-6464-00190-308_life1?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-6464-00190-308_life1?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-6464-00190-308_life1?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-6464-00190-308_life1?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-6464-00190-308_life1?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-59673876-01.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_125-5229-00293-207_life1?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_125-5229-00293-207_life1?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_125-5229-00293-207_life1?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_125-5229-00293-207_life1?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_125-5229-00293-207_life1?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-60575341-01.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_125-5188-00274-201_life1?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_125-5188-00274-201_life1?policy=product-extra-large",
+          "error": "HTTP Error 503: Service Unavailable"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_125-5188-00274-201_life1?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_125-5188-00274-201_life1?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_125-5188-00274-201_life1?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-62419877-01.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6052-00624-500_life1?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6052-00624-500_life1?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6052-00624-500_life1?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6052-00624-500_life1?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6052-00624-500_life1?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-62973833-02.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model1?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model1?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model1?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model1?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model1?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-62973833-03.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model2?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model2?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model2?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model2?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model2?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-62973833-04.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model3?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model3?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model3?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model3?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model3?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-62973833-05.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model4?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model4?policy=product-extra-large",
+          "error": "HTTP Error 503: Service Unavailable"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model4?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model4?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model4?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-62973833-06.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model5?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model5?policy=product-extra-large",
+          "error": "HTTP Error 503: Service Unavailable"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model5?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model5?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_120-6222-00712-908_model5?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-61830836-01.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_130-6034-00308-300_life1?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_130-6034-00308-300_life1?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_130-6034-00308-300_life1?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_130-6034-00308-300_life1?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_130-6034-00308-300_life1?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-62600350-01.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_128-6191-00312-300_life1?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_128-6191-00312-300_life1?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_128-6191-00312-300_life1?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_128-6191-00312-300_life1?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_128-6191-00312-300_life1?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    },
+    {
+      "src": "assets/images/af-62750830-01.webp",
+      "source": "https://img.abercrombie.com/is/image/anf/KIC_124-6384-00177-105_life1?policy=product-extra-large",
+      "downloaded": false,
+      "attempts": [
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-6384-00177-105_life1?policy=product-extra-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-6384-00177-105_life1?policy=product-large",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-6384-00177-105_life1?policy=product-medium",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "url": "https://img.abercrombie.com/is/image/anf/KIC_124-6384-00177-105_life1?policy=product-small",
+          "error": "HTTP Error 404: Not Found"
+        }
+      ]
+    }
+  ],
+  "categorySweep": [
+    {
+      "category": "mens-tops--1",
+      "pages": [
+        {
+          "page": 1,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-tops--1"
+        },
+        {
+          "page": 2,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-tops--1?categoryId=6570709&filtered=true&rows=90&start=90"
+        },
+        {
+          "page": 3,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-tops--1?categoryId=6570709&filtered=true&rows=90&start=180"
+        },
+        {
+          "page": 4,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-tops--1?categoryId=6570709&filtered=true&rows=90&start=270"
+        },
+        {
+          "page": 5,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-tops--1?categoryId=6570709&filtered=true&rows=90&start=360"
+        },
+        {
+          "page": 6,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-tops--1?categoryId=6570709&filtered=true&rows=90&start=450"
+        },
+        {
+          "page": 7,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-tops--1?categoryId=6570709&filtered=true&rows=90&start=540"
+        },
+        {
+          "page": 8,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-tops--1?categoryId=6570709&filtered=true&rows=90&start=630"
+        },
+        {
+          "page": 9,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-tops--1?categoryId=6570709&filtered=true&rows=90&start=720"
+        },
+        {
+          "page": 10,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-tops--1?categoryId=6570709&filtered=true&rows=90&start=810"
+        },
+        {
+          "page": 11,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-tops--1?categoryId=6570709&filtered=true&rows=90&start=900"
+        },
+        {
+          "page": 12,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-tops--1?categoryId=6570709&filtered=true&rows=90&start=990"
+        },
+        {
+          "page": 13,
+          "count": 17,
+          "url": "https://www.abercrombie.com/shop/us/mens-tops--1?categoryId=6570709&filtered=true&rows=90&start=1080"
+        }
+      ],
+      "totalPages": 13,
+      "totalProducts": 1097
+    },
+    {
+      "category": "mens-bottoms--1",
+      "pages": [
+        {
+          "page": 1,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-bottoms--1"
+        },
+        {
+          "page": 2,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-bottoms--1?categoryId=6570710&filtered=true&rows=90&start=90"
+        },
+        {
+          "page": 3,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-bottoms--1?categoryId=6570710&filtered=true&rows=90&start=180"
+        },
+        {
+          "page": 4,
+          "count": 75,
+          "url": "https://www.abercrombie.com/shop/us/mens-bottoms--1?categoryId=6570710&filtered=true&rows=90&start=270"
+        }
+      ],
+      "totalPages": 4,
+      "totalProducts": 345
+    },
+    {
+      "category": "mens-activewear",
+      "pages": [
+        {
+          "page": 1,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-activewear"
+        },
+        {
+          "page": 2,
+          "count": 58,
+          "url": "https://www.abercrombie.com/shop/us/mens-activewear?categoryId=66909816&filtered=true&rows=90&start=90"
+        }
+      ],
+      "totalPages": 2,
+      "totalProducts": 148
+    },
+    {
+      "category": "mens-sweatshirts-and-sweatpants",
+      "pages": [
+        {
+          "page": 1,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-sweatshirts-and-sweatpants"
+        },
+        {
+          "page": 2,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-sweatshirts-and-sweatpants?categoryId=639167393&filtered=true&rows=90&start=90"
+        },
+        {
+          "page": 3,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-sweatshirts-and-sweatpants?categoryId=639167393&filtered=true&rows=90&start=180"
+        },
+        {
+          "page": 4,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-sweatshirts-and-sweatpants?categoryId=639167393&filtered=true&rows=90&start=270"
+        },
+        {
+          "page": 5,
+          "count": 36,
+          "url": "https://www.abercrombie.com/shop/us/mens-sweatshirts-and-sweatpants?categoryId=639167393&filtered=true&rows=90&start=360"
+        }
+      ],
+      "totalPages": 5,
+      "totalProducts": 396
+    },
+    {
+      "category": "mens-coats-and-jackets",
+      "pages": [
+        {
+          "page": 1,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-coats-and-jackets"
+        },
+        {
+          "page": 2,
+          "count": 16,
+          "url": "https://www.abercrombie.com/shop/us/mens-coats-and-jackets?categoryId=12221&filtered=true&rows=90&start=90"
+        }
+      ],
+      "totalPages": 2,
+      "totalProducts": 106
+    },
+    {
+      "category": "mens-suits",
+      "pages": [
+        {
+          "page": 1,
+          "count": 59,
+          "url": "https://www.abercrombie.com/shop/us/mens-suits"
+        }
+      ],
+      "totalPages": 1,
+      "totalProducts": 59
+    },
+    {
+      "category": "mens-swim",
+      "pages": [
+        {
+          "page": 1,
+          "count": 17,
+          "url": "https://www.abercrombie.com/shop/us/mens-swim"
+        }
+      ],
+      "totalPages": 1,
+      "totalProducts": 17
+    },
+    {
+      "category": "mens-accessories",
+      "pages": [
+        {
+          "page": 1,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-accessories"
+        },
+        {
+          "page": 2,
+          "count": 2,
+          "url": "https://www.abercrombie.com/shop/us/mens-accessories?categoryId=13053&filtered=true&rows=90&start=90"
+        }
+      ],
+      "totalPages": 2,
+      "totalProducts": 92
+    },
+    {
+      "category": "mens-coordinated-sets",
+      "pages": [
+        {
+          "page": 1,
+          "count": 0,
+          "url": "https://www.abercrombie.com/shop/us/mens-coordinated-sets"
+        },
+        {
+          "page": 2,
+          "count": 0,
+          "url": "https://www.abercrombie.com/shop/us/mens-coordinated-sets?categoryId=64721325&filtered=true&rows=90&start=90"
+        }
+      ],
+      "totalPages": 2,
+      "totalProducts": 130
+    },
+    {
+      "category": "mens-underwear",
+      "pages": [
+        {
+          "page": 1,
+          "count": 0,
+          "url": "https://www.abercrombie.com/shop/us/mens-underwear"
+        }
+      ],
+      "totalPages": 1,
+      "totalProducts": 26
+    },
+    {
+      "category": "mens-clearance",
+      "pages": [
+        {
+          "page": 1,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance"
+        },
+        {
+          "page": 2,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=90"
+        },
+        {
+          "page": 3,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=180"
+        },
+        {
+          "page": 4,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=270"
+        },
+        {
+          "page": 5,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=360"
+        },
+        {
+          "page": 6,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=450"
+        },
+        {
+          "page": 7,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=540"
+        },
+        {
+          "page": 8,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=630"
+        },
+        {
+          "page": 9,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=720"
+        },
+        {
+          "page": 10,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=810"
+        },
+        {
+          "page": 11,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=900"
+        },
+        {
+          "page": 12,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=990"
+        },
+        {
+          "page": 13,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=1080"
+        },
+        {
+          "page": 14,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=1170"
+        },
+        {
+          "page": 15,
+          "count": 90,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=1260"
+        },
+        {
+          "page": 16,
+          "count": 70,
+          "url": "https://www.abercrombie.com/shop/us/mens-clearance?categoryId=12204&filtered=true&rows=90&start=1350"
+        }
+      ],
+      "totalPages": 16,
+      "totalProducts": 1420
+    }
+  ],
+  "rootCategoryPages": 20,
+  "rootCategoryUniqueProducts": 1744,
+  "rootAdvertisedTotal": 1746,
+  "paginationCaveat": "Root pages yielded 1,744 unique product colors versus 1,746 advertised during a changing catalog; category sweeps supplement this discovery."
+}
