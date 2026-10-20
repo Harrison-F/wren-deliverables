@@ -6,10 +6,10 @@
  "defaultSort": "price",
  "showCollectionNotes": false,
  "updated": "2026-10-19",
- "summary": "8 supplied Abercrombie links, all natural-main-fabric verified and available in your size at last check (S tops, 30 \u00d7 32 trousers, one-size cap).",
+ "summary": "13 supplied Abercrombie links, all natural-main-fabric verified and available in your size at last check (S tops, 30 \u00d7 32 trousers, one-size cap).",
  "recommendation": {},
  "evidenceNote": "Not a promise of exhaustive worldwide or permanently current stock. Catalog changes during pagination; search-only, unpublished and undiscovered pages may exist. Main fabric only: synthetic linings, fillings, embroidery, pocket bags and unspecified trims do not qualify as whole-garment natural. Regenerated fibers and synthetic main-fabric blends excluded. Shipping and tax not included.",
- "caveat": "Exact links supplied 2026-10-19; duplicate link consolidated. Size availability from 2026-10-19 verification; not a checkout guarantee.",
+ "caveat": "Exact links supplied 2026-10-19; duplicates consolidated. Size availability from 2026-10-19 verification; not a checkout guarantee.",
  "coverage": {
   "scope": "US men\u2019s storefront pagination and exposed product collections; one lowest-price qualifying color with any-size availability per collection/name selection (or a labeled unavailable color when none is available; team/graphic names retained separately). Repeated names can occur across retailer collections; cards are not a count of distinct designs. Other natural colors are linked in Sources & evidence; only the selected color gallery is mirrored. No preferred-size or color exclusion.",
   "snapshot": {
@@ -2160,6 +2160,408 @@
      "price": 80
     }
    ]
+  },
+  {
+   "id": "af-62973823",
+   "name": "Pleated Taper Trouser \u2014 Black",
+   "url": "https://www.abercrombie.com/shop/us/p/pleated-baggy-trouser-62973823?seq=01",
+   "category": "Pants",
+   "store": "Abercrombie & Fitch",
+   "brand": "Abercrombie & Fitch",
+   "color": "Black",
+   "summary": "",
+   "verdict": "100% natural main fabric",
+   "sources": [
+    "af-62973823",
+    "af-color-62973819"
+   ],
+   "sourceLinks": [
+    "https://www.abercrombie.com/shop/us/p/pleated-baggy-trouser-62973823?seq=01"
+   ],
+   "unitPriceUSD": 59.99,
+   "naturalPercent": 100,
+   "integrityRank": 100,
+   "image": "assets/images/af-62973823-01.webp",
+   "imageAlt": "Pleated Taper Trouser \u2014 Black \u2014 retailer gallery 1",
+   "images": [
+    {
+     "src": "assets/images/af-62973823-01.webp",
+     "alt": "Pleated Taper Trouser \u2014 Black \u2014 retailer gallery 1",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_130-6112-00385-900_life1?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-62973823-02.webp",
+     "alt": "Pleated Taper Trouser \u2014 Black \u2014 retailer gallery 2",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_130-6112-00385-900_life2?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-62973823-03.webp",
+     "alt": "Pleated Taper Trouser \u2014 Black \u2014 retailer gallery 3",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_130-6112-00385-900_model1?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-62973823-04.webp",
+     "alt": "Pleated Taper Trouser \u2014 Black \u2014 retailer gallery 4",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_130-6112-00385-900_model2?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-62973823-05.webp",
+     "alt": "Pleated Taper Trouser \u2014 Black \u2014 retailer gallery 5",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_130-6112-00385-900_model3?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-62973823-06.webp",
+     "alt": "Pleated Taper Trouser \u2014 Black \u2014 retailer gallery 6",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_130-6112-00385-900_model4?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-62973823-07.webp",
+     "alt": "Pleated Taper Trouser \u2014 Black \u2014 retailer gallery 7",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_130-6112-00385-900_model5?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-62973823-08.webp",
+     "alt": "Pleated Taper Trouser \u2014 Black \u2014 retailer gallery 8",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_130-6112-00385-900_prod1?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-62973823-09.webp",
+     "alt": "Pleated Taper Trouser \u2014 Black \u2014 retailer gallery 9",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_130-6112-00385-900_prod2?policy=product-extra-large"
+    }
+   ],
+   "imageNote": "Complete exposed selected-color orderedImages gallery (9 images); recommendations and other colors excluded.",
+   "materialCaveat": "Pocket Bag:100% Cotton. Other trims/thread unspecified. 30 \u00d7 32 available.",
+   "attribution": "Live US product page HTTP 200; exact color black, product ID 62973823. Numeric composition, price, size inventory and orderedImages captured from first-party product-page state. Exact preferred-size SKU price. Size availability is not a checkout guarantee.",
+   "facts": {
+    "Fit": "Retailer sizes; no fit guarantee",
+    "Fabric": "Body:100% Cotton",
+    "Color": "Black",
+    "Price": "$59.99 USD; shipping/tax extra",
+    "Status": "30 \u00d7 32 available",
+    "Construction": "Pocket Bag:100% Cotton. Other trims/thread unspecified.",
+    "Full retailer composition": "Pocket Bag:100% Cotton / Body:100% Cotton",
+    "Exact size evidence": "30 X 32: Available"
+   },
+   "verification": {
+    "price": true,
+    "composition": true,
+    "stock": true,
+    "gallery": true,
+    "checked": "2026-10-19"
+   },
+   "retailerProductId": "62973823",
+   "retailerCollectionId": "9694748",
+   "otherNaturalColors": [
+    {
+     "productId": "62973819",
+     "color": "white",
+     "url": "https://www.abercrombie.com/shop/us/p/pleated-baggy-trouser-62973819?seq=02",
+     "composition": "Pocket Bag:100% Cotton / Body:100% Cotton",
+     "price": 79.99
+    }
+   ],
+   "deal": "Was $95.00; now $59.99."
+  },
+  {
+   "id": "af-58875220",
+   "name": "Premium Heavyweight Cropped Tee \u2014 Black",
+   "url": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-cropped-tee-55001821?seq=68",
+   "category": "T-Shirts & Tanks",
+   "store": "Abercrombie & Fitch",
+   "brand": "Abercrombie & Fitch",
+   "color": "Black",
+   "summary": "",
+   "verdict": "100% natural main fabric",
+   "sources": [
+    "af-58875220",
+    "af-color-58875223",
+    "af-color-58874874",
+    "af-color-59330892",
+    "af-color-59359459",
+    "af-color-59359503",
+    "af-color-61008831",
+    "af-color-61708839"
+   ],
+   "sourceLinks": [
+    "https://www.abercrombie.com/shop/us/p/premium-heavyweight-cropped-tee-55001821?seq=68"
+   ],
+   "unitPriceUSD": 35,
+   "naturalPercent": 100,
+   "integrityRank": 100,
+   "image": "assets/images/af-58875220-01.webp",
+   "imageAlt": "Premium Heavyweight Cropped Tee \u2014 Black \u2014 retailer gallery 1",
+   "images": [
+    {
+     "src": "assets/images/af-58875220-01.webp",
+     "alt": "Premium Heavyweight Cropped Tee \u2014 Black \u2014 retailer gallery 1",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_124-5084-00406-900_model1?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-58875220-02.webp",
+     "alt": "Premium Heavyweight Cropped Tee \u2014 Black \u2014 retailer gallery 2",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_124-5084-00406-900_model2?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-58875220-03.webp",
+     "alt": "Premium Heavyweight Cropped Tee \u2014 Black \u2014 retailer gallery 3",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_124-5084-00406-900_model3?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-58875220-04.webp",
+     "alt": "Premium Heavyweight Cropped Tee \u2014 Black \u2014 retailer gallery 4",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_124-5084-00406-900_model4?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-58875220-05.webp",
+     "alt": "Premium Heavyweight Cropped Tee \u2014 Black \u2014 retailer gallery 5",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_124-5084-00406-900_model5?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-58875220-06.webp",
+     "alt": "Premium Heavyweight Cropped Tee \u2014 Black \u2014 retailer gallery 6",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_124-5084-00406-900_prod1?policy=product-extra-large"
+    }
+   ],
+   "imageNote": "Complete exposed selected-color orderedImages gallery (6 images); recommendations and other colors excluded.",
+   "materialCaveat": "Other trims/thread unspecified. S available.",
+   "attribution": "Live US product page HTTP 200; exact color black, product ID 58875220. Numeric composition, price, size inventory and orderedImages captured from first-party product-page state. Exact preferred-size SKU price. Size availability is not a checkout guarantee.",
+   "facts": {
+    "Fit": "Retailer sizes; no fit guarantee",
+    "Fabric": "Body:100% Cotton",
+    "Color": "Black",
+    "Price": "$35.00 USD; shipping/tax extra",
+    "Status": "S available",
+    "Construction": "Other trims/thread unspecified.",
+    "Full retailer composition": "Body:100% Cotton",
+    "Exact size evidence": "S X Regular: Available"
+   },
+   "verification": {
+    "price": true,
+    "composition": true,
+    "stock": true,
+    "gallery": true,
+    "checked": "2026-10-19"
+   },
+   "retailerProductId": "58875220",
+   "retailerCollectionId": "541795",
+   "otherNaturalColors": [
+    {
+     "productId": "58875223",
+     "color": "white",
+     "url": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-cropped-tee-55001821?seq=53",
+     "composition": "BODY: 100% COTTON",
+     "price": 35
+    },
+    {
+     "productId": "58874874",
+     "color": "black wash",
+     "url": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-cropped-tee-55001821?seq=67",
+     "composition": "Body:100% Cotton",
+     "price": 40
+    },
+    {
+     "productId": "59330892",
+     "color": "light gray camo",
+     "url": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-cropped-tee-55001821?seq=72",
+     "composition": "Body:100% Cotton",
+     "price": 40
+    },
+    {
+     "productId": "59359459",
+     "color": "tan duck camo",
+     "url": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-cropped-tee-55001821?seq=79",
+     "composition": "Body:100% Cotton",
+     "price": 40
+    },
+    {
+     "productId": "59359503",
+     "color": "dark duck camo",
+     "url": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-cropped-tee-55001821?seq=80",
+     "composition": "Body:100% Cotton",
+     "price": 40
+    },
+    {
+     "productId": "61008831",
+     "color": "light brown camo",
+     "url": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-cropped-tee-55001821?seq=21",
+     "composition": "Body:100% Cotton",
+     "price": 40
+    },
+    {
+     "productId": "61708839",
+     "color": "cool gray",
+     "url": "https://www.abercrombie.com/shop/us/p/premium-heavyweight-cropped-tee-55001821?seq=01",
+     "composition": "Body:100% Cotton",
+     "price": 40
+    }
+   ]
+  },
+  {
+   "id": "af-63492623",
+   "name": "3-Pack Heritage Heavyweight Tees \u2014 Storm Gray Multipack",
+   "url": "https://www.abercrombie.com/shop/us/p/3-pack-heritage-heavyweight-tees-63490640?seq=01",
+   "category": "T-Shirts & Tanks",
+   "store": "Abercrombie & Fitch",
+   "brand": "Abercrombie & Fitch",
+   "color": "Storm Gray Multipack",
+   "summary": "",
+   "verdict": "100% natural main fabric",
+   "sources": [
+    "af-63492623"
+   ],
+   "sourceLinks": [
+    "https://www.abercrombie.com/shop/us/p/3-pack-heritage-heavyweight-tees-63490640?seq=01"
+   ],
+   "unitPriceUSD": 100,
+   "naturalPercent": 100,
+   "integrityRank": 100,
+   "image": "assets/images/af-63492623-01.webp",
+   "imageAlt": "3-Pack Heritage Heavyweight Tees \u2014 Storm Gray Multipack \u2014 retailer gallery 1",
+   "images": [
+    {
+     "src": "assets/images/af-63492623-01.webp",
+     "alt": "3-Pack Heritage Heavyweight Tees \u2014 Storm Gray Multipack \u2014 retailer gallery 1",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_124-6640-00289-130_prod1?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-63492623-02.webp",
+     "alt": "3-Pack Heritage Heavyweight Tees \u2014 Storm Gray Multipack \u2014 retailer gallery 2",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_124-6640-00289-130_prod2?policy=product-extra-large"
+    }
+   ],
+   "imageNote": "Complete exposed selected-color orderedImages gallery (2 images); recommendations and other colors excluded.",
+   "materialCaveat": "Other trims/thread unspecified. S available.",
+   "attribution": "Live US product page HTTP 200; exact color storm gray multipack, product ID 63492623. Numeric composition, price, size inventory and orderedImages captured from first-party product-page state. Exact preferred-size SKU price. Size availability is not a checkout guarantee.",
+   "facts": {
+    "Fit": "Retailer sizes; no fit guarantee",
+    "Fabric": "Body: 100% Cotton",
+    "Color": "Storm Gray Multipack",
+    "Price": "$100.00 USD; shipping/tax extra",
+    "Status": "S available",
+    "Construction": "Other trims/thread unspecified.",
+    "Full retailer composition": "BODY: 100% COTTON",
+    "Exact size evidence": "S: Available"
+   },
+   "verification": {
+    "price": true,
+    "composition": true,
+    "stock": true,
+    "gallery": true,
+    "checked": "2026-10-19"
+   },
+   "retailerProductId": "63492623",
+   "retailerCollectionId": "677861",
+   "otherNaturalColors": []
+  },
+  {
+   "id": "af-63752942",
+   "name": "3-Pack Long-Sleeve Premium Heavyweight 2.0 Tees \u2014 Cool Gray Multipack",
+   "url": "https://www.abercrombie.com/shop/us/p/3-pack-premium-heavyweight-20-tees-63846819?seq=01",
+   "category": "T-Shirts & Tanks",
+   "store": "Abercrombie & Fitch",
+   "brand": "Abercrombie & Fitch",
+   "color": "Cool Gray Multipack",
+   "summary": "",
+   "verdict": "100% natural main fabric",
+   "sources": [
+    "af-63752942"
+   ],
+   "sourceLinks": [
+    "https://www.abercrombie.com/shop/us/p/3-pack-premium-heavyweight-20-tees-63846819?seq=01"
+   ],
+   "unitPriceUSD": 130,
+   "naturalPercent": 100,
+   "integrityRank": 100,
+   "image": "assets/images/af-63752942-01.webp",
+   "imageAlt": "3-Pack Long-Sleeve Premium Heavyweight 2.0 Tees \u2014 Cool Gray Multipack \u2014 retailer gallery 1",
+   "images": [
+    {
+     "src": "assets/images/af-63752942-01.webp",
+     "alt": "3-Pack Long-Sleeve Premium Heavyweight 2.0 Tees \u2014 Cool Gray Multipack \u2014 retailer gallery 1",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_124-6687-00304-208_prod1?policy=product-extra-large"
+    },
+    {
+     "src": "assets/images/af-63752942-02.webp",
+     "alt": "3-Pack Long-Sleeve Premium Heavyweight 2.0 Tees \u2014 Cool Gray Multipack \u2014 retailer gallery 2",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_124-6687-00304-208_prod2?policy=product-extra-large"
+    }
+   ],
+   "imageNote": "Complete exposed selected-color orderedImages gallery (2 images); recommendations and other colors excluded.",
+   "materialCaveat": "Other trims/thread unspecified. S available.",
+   "attribution": "Live US product page HTTP 200; exact color cool gray multipack, product ID 63752942. Numeric composition, price, size inventory and orderedImages captured from first-party product-page state. Exact preferred-size SKU price. Size availability is not a checkout guarantee.",
+   "facts": {
+    "Fit": "Retailer sizes; no fit guarantee",
+    "Fabric": "Body: 100% Cotton",
+    "Color": "Cool Gray Multipack",
+    "Price": "$130.00 USD; shipping/tax extra",
+    "Status": "S available",
+    "Construction": "Other trims/thread unspecified.",
+    "Full retailer composition": "BODY: 100% COTTON",
+    "Exact size evidence": "S: Available"
+   },
+   "verification": {
+    "price": true,
+    "composition": true,
+    "stock": true,
+    "gallery": true,
+    "checked": "2026-10-19"
+   },
+   "retailerProductId": "63752942",
+   "retailerCollectionId": "718273",
+   "otherNaturalColors": []
+  },
+  {
+   "id": "af-63766392",
+   "name": "7-Pack Premium Heavyweight 2.0 Tees \u2014 Cloud Gray Multipack",
+   "url": "https://www.abercrombie.com/shop/us/p/7-pack-premium-heavyweight-20-tees-63765371?seq=01",
+   "category": "T-Shirts & Tanks",
+   "store": "Abercrombie & Fitch",
+   "brand": "Abercrombie & Fitch",
+   "color": "Cloud Gray Multipack",
+   "summary": "",
+   "verdict": "100% natural main fabric",
+   "sources": [
+    "af-63766392"
+   ],
+   "sourceLinks": [
+    "https://www.abercrombie.com/shop/us/p/7-pack-premium-heavyweight-20-tees-63765371?seq=01"
+   ],
+   "unitPriceUSD": 200,
+   "naturalPercent": 100,
+   "integrityRank": 100,
+   "image": "assets/images/af-63766392-01.webp",
+   "imageAlt": "7-Pack Premium Heavyweight 2.0 Tees \u2014 Cloud Gray Multipack \u2014 retailer gallery 1",
+   "images": [
+    {
+     "src": "assets/images/af-63766392-01.webp",
+     "alt": "7-Pack Premium Heavyweight 2.0 Tees \u2014 Cloud Gray Multipack \u2014 retailer gallery 1",
+     "source": "https://img.abercrombie.com/is/image/anf/KIC_124-6983-00307-908_prod1?policy=product-extra-large"
+    }
+   ],
+   "imageNote": "Complete exposed selected-color orderedImages gallery (1 images); recommendations and other colors excluded.",
+   "materialCaveat": "Other trims/thread unspecified. S available.",
+   "attribution": "Live US product page HTTP 200; exact color cloud gray multipack, product ID 63766392. Numeric composition, price, size inventory and orderedImages captured from first-party product-page state. Exact preferred-size SKU price. Size availability is not a checkout guarantee.",
+   "facts": {
+    "Fit": "Retailer sizes; no fit guarantee",
+    "Fabric": "Body: 100% Cotton",
+    "Color": "Cloud Gray Multipack",
+    "Price": "$200.00 USD; shipping/tax extra",
+    "Status": "S available",
+    "Construction": "Other trims/thread unspecified.",
+    "Full retailer composition": "BODY: 100% COTTON",
+    "Exact size evidence": "S X Regular: Available"
+   },
+   "verification": {
+    "price": true,
+    "composition": true,
+    "stock": true,
+    "gallery": true,
+    "checked": "2026-10-19"
+   },
+   "retailerProductId": "63766392",
+   "retailerCollectionId": "691895",
+   "otherNaturalColors": []
   }
  ],
  "sources": [
