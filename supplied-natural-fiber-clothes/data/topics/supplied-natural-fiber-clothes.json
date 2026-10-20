@@ -1,0 +1,834 @@
+{
+  "id": "supplied-natural-fiber-clothes",
+  "layout": "natural-basics",
+  "catalog": true,
+  "title": "Supplied natural-fiber clothes",
+  "summary": "Screenshot-derived selection \u00b7 visible natural-fiber labels only \u00b7 blends/nylon/m\u00e9lange excluded.",
+  "updated": "2026-10-19",
+  "recommendation": {
+    "title": "24 qualifying visible cards",
+    "text": "Only explicit wool, cashmere, cotton, pima cotton, linen and alpaca-family labels from the supplied screenshots are included.",
+    "test": "Nylon-cotton, technical, m\u00e9lange, boucl\u00e9/blend and garbled OCR cards excluded."
+  },
+  "products": [
+    {
+      "id": "supplied-natural-17",
+      "name": "Relaxed pima cotton poplin shirt",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Shirt",
+      "color": "As shown",
+      "verdict": "Shirt \u00b7 Pima cotton poplin",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 89,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-17.webp",
+      "imageAlt": "Relaxed pima cotton poplin shirt supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-17.webp",
+          "alt": "Relaxed pima cotton poplin shirt supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Pima cotton poplin labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Pima cotton poplin",
+        "Price": "$89.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-05",
+      "name": "Camp-collar short-sleeved linen shirt",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Shirt",
+      "color": "As shown",
+      "verdict": "Shirt \u00b7 Linen",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 99,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-05.webp",
+      "imageAlt": "Camp-collar short-sleeved linen shirt supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-05.webp",
+          "alt": "Camp-collar short-sleeved linen shirt supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Linen labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Linen",
+        "Price": "$99.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-19",
+      "name": "Cotton oxford shirt",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Shirt",
+      "color": "As shown",
+      "verdict": "Shirt \u00b7 Cotton oxford",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 99,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-19.webp",
+      "imageAlt": "Cotton oxford shirt supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-19.webp",
+          "alt": "Cotton oxford shirt supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Cotton oxford labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Cotton oxford",
+        "Price": "$99.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-08",
+      "name": "Slim merino wool crew-neck sweater",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Sweater",
+      "color": "As shown",
+      "verdict": "Sweater \u00b7 Merino wool",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 99,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-08.webp",
+      "imageAlt": "Slim merino wool crew-neck sweater supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-08.webp",
+          "alt": "Slim merino wool crew-neck sweater supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Slim merino wool labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Merino wool",
+        "Price": "$99.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-20",
+      "name": "Slim merino wool henley top",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Shirt",
+      "color": "As shown",
+      "verdict": "Shirt \u00b7 Merino wool",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 99,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-20.webp",
+      "imageAlt": "Slim merino wool henley top supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-20.webp",
+          "alt": "Slim merino wool henley top supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Merino wool labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Merino wool",
+        "Price": "$99.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-02",
+      "name": "Embroidered camp-collar pima cotton shirt",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Shirt",
+      "color": "As shown",
+      "verdict": "Shirt \u00b7 Pima cotton",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 110,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-02.webp",
+      "imageAlt": "Embroidered camp-collar pima cotton shirt supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-02.webp",
+          "alt": "Embroidered camp-collar pima cotton shirt supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Pima cotton labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Pima cotton",
+        "Price": "$110.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-16",
+      "name": "Cotton-corduroy overshirt",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Overshirt",
+      "color": "As shown",
+      "verdict": "Overshirt \u00b7 Cotton corduroy",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 139,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-16.webp",
+      "imageAlt": "Cotton-corduroy overshirt supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-16.webp",
+          "alt": "Cotton-corduroy overshirt supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Cotton corduroy labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Cotton corduroy",
+        "Price": "$139.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-11",
+      "name": "Boiled wool shawl-collar jacket",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Jacket",
+      "color": "As shown",
+      "verdict": "Jacket \u00b7 Wool",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 189,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-11.webp",
+      "imageAlt": "Boiled wool shawl-collar jacket supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-11.webp",
+          "alt": "Boiled wool shawl-collar jacket supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Boiled wool labeled in supplied screenshot. Trims/lining not visible.",
+      "facts": {
+        "Fabric": "Wool",
+        "Price": "$189.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-06",
+      "name": "Double-faced wool overshirt",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Overshirt",
+      "color": "As shown",
+      "verdict": "Overshirt \u00b7 Wool",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 189,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-06.webp",
+      "imageAlt": "Double-faced wool overshirt supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-06.webp",
+          "alt": "Double-faced wool overshirt supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Wool labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Wool",
+        "Price": "$189.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-09",
+      "name": "Raw selvedge denim jacket",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Jacket",
+      "color": "As shown",
+      "verdict": "Jacket \u00b7 Cotton denim",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 229,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-09.webp",
+      "imageAlt": "Raw selvedge denim jacket supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-09.webp",
+          "alt": "Raw selvedge denim jacket supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Raw selvedge denim inferred as cotton denim from visible product class; exact composition not visible.",
+      "facts": {
+        "Fabric": "Cotton denim",
+        "Price": "$229.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-03",
+      "name": "Merino wool v-neck cardigan",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Sweater",
+      "color": "As shown",
+      "verdict": "Sweater \u00b7 Merino wool",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 249,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-03.webp",
+      "imageAlt": "Merino wool v-neck cardigan supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-03.webp",
+          "alt": "Merino wool v-neck cardigan supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "100% merino wool claimed by visible product name. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Merino wool",
+        "Price": "$249.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-21",
+      "name": "Single-breasted linen blazer",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Blazer",
+      "color": "As shown",
+      "verdict": "Blazer \u00b7 Linen",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 249,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-21.webp",
+      "imageAlt": "Single-breasted linen blazer supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-21.webp",
+          "alt": "Single-breasted linen blazer supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Linen labeled in supplied screenshot. Trims/lining not visible.",
+      "facts": {
+        "Fabric": "Linen",
+        "Price": "$249.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-23",
+      "name": "Double-faced wool mock-neck jacket",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Jacket",
+      "color": "As shown",
+      "verdict": "Jacket \u00b7 Wool",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 279,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-23.webp",
+      "imageAlt": "Double-faced wool mock-neck jacket supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-23.webp",
+          "alt": "Double-faced wool mock-neck jacket supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Wool labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Wool",
+        "Price": "$279.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-07",
+      "name": "Pure cashmere crew-neck sweater",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Sweater",
+      "color": "As shown",
+      "verdict": "Sweater \u00b7 Cashmere",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 279,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-07.webp",
+      "imageAlt": "Pure cashmere crew-neck sweater supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-07.webp",
+          "alt": "Pure cashmere crew-neck sweater supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Pure cashmere labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Cashmere",
+        "Price": "$279.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-15",
+      "name": "Pure cashmere crew-neck sweater",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Sweater",
+      "color": "As shown",
+      "verdict": "Sweater \u00b7 Cashmere",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 279,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-15.webp",
+      "imageAlt": "Pure cashmere crew-neck sweater supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-15.webp",
+          "alt": "Pure cashmere crew-neck sweater supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Pure cashmere labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Cashmere",
+        "Price": "$279.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-04",
+      "name": "Unstructured linen blazer",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Blazer",
+      "color": "As shown",
+      "verdict": "Blazer \u00b7 Linen",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 289,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-04.webp",
+      "imageAlt": "Unstructured linen blazer supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-04.webp",
+          "alt": "Unstructured linen blazer supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Linen labeled in supplied screenshot. Trims/lining not visible.",
+      "facts": {
+        "Fabric": "Linen",
+        "Price": "$289.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-10",
+      "name": "Brushed pure cashmere v-neck cardigan",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Sweater",
+      "color": "As shown",
+      "verdict": "Sweater \u00b7 Cashmere",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 329,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-10.webp",
+      "imageAlt": "Brushed pure cashmere v-neck cardigan supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-10.webp",
+          "alt": "Brushed pure cashmere v-neck cardigan supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Pure cashmere labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Cashmere",
+        "Price": "$329.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-22",
+      "name": "Brushed pure cashmere v-neck cardigan",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Sweater",
+      "color": "As shown",
+      "verdict": "Sweater \u00b7 Cashmere",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 329,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-22.webp",
+      "imageAlt": "Brushed pure cashmere v-neck cardigan supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-22.webp",
+          "alt": "Brushed pure cashmere v-neck cardigan supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Pure cashmere labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Cashmere",
+        "Price": "$329.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-13",
+      "name": "Chunky cashmere sweater",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Sweater",
+      "color": "As shown",
+      "verdict": "Sweater \u00b7 Cashmere",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 329,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-13.webp",
+      "imageAlt": "Chunky cashmere sweater supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-13.webp",
+          "alt": "Chunky cashmere sweater supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Cashmere labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Cashmere",
+        "Price": "$329.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-18",
+      "name": "Chunky cashmere sweater",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Sweater",
+      "color": "As shown",
+      "verdict": "Sweater \u00b7 Cashmere",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 329,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-18.webp",
+      "imageAlt": "Chunky cashmere sweater supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-18.webp",
+          "alt": "Chunky cashmere sweater supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Cashmere labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Cashmere",
+        "Price": "$329.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-14",
+      "name": "Two-tone brushed pure cashmere crew-neck sweater",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Sweater",
+      "color": "As shown",
+      "verdict": "Sweater \u00b7 Cashmere",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 399,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-14.webp",
+      "imageAlt": "Two-tone brushed pure cashmere crew-neck sweater supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-14.webp",
+          "alt": "Two-tone brushed pure cashmere crew-neck sweater supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Pure cashmere labeled in supplied screenshot. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Cashmere",
+        "Price": "$399.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-01",
+      "name": "Tailored wool coat",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Coat",
+      "color": "As shown",
+      "verdict": "Coat \u00b7 Wool",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": 479,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-01.webp",
+      "imageAlt": "Tailored wool coat supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-01.webp",
+          "alt": "Tailored wool coat supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "100% wool labeled in supplied screenshot. Trims/lining not visible.",
+      "facts": {
+        "Fabric": "Wool",
+        "Price": "$479.00 USD \u00b7 shipping / tax excluded",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    },
+    {
+      "id": "supplied-natural-12",
+      "name": "Relaxed wool-flannel shirt",
+      "url": "https://www.massimodutti.com/us/",
+      "brand": "Supplied screenshot",
+      "store": "User supplied",
+      "category": "Shirt",
+      "color": "As shown",
+      "verdict": "Shirt \u00b7 Wool flannel",
+      "summary": "Supplied screenshot card; exact retailer composition and trims were not re-verified.",
+      "unitPriceUSD": null,
+      "naturalPercent": 100,
+      "integrityRank": 3,
+      "image": "assets/images/supplied-natural-12.webp",
+      "imageAlt": "Relaxed wool-flannel shirt supplied screenshot",
+      "imageNote": "User-supplied screenshot used as the visible product card; not a fresh retailer gallery extraction.",
+      "images": [
+        {
+          "src": "assets/images/supplied-natural-12.webp",
+          "alt": "Relaxed wool-flannel shirt supplied screenshot",
+          "source": "user-supplied image"
+        }
+      ],
+      "materialCaveat": "Wool flannel labeled in supplied screenshot; price obscured by OCR. Trims/thread not visible.",
+      "facts": {
+        "Fabric": "Wool flannel",
+        "Price": "Price obscured",
+        "Fit": "Not visible",
+        "Status": "Screenshot label accepted; trims not verified"
+      },
+      "sources": [
+        "supplied-images",
+        "ocr"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "supplied-images",
+      "label": "User screenshots",
+      "url": "https://www.massimodutti.com/us/",
+      "note": "28 supplied screenshots processed locally with macOS OCR; duplicates collapsed."
+    },
+    {
+      "id": "ocr",
+      "label": "Local OCR",
+      "url": "https://github.com/privatenumbr/mac-ocr",
+      "note": "Apple Vision OCR used because session vision provider is unavailable."
+    }
+  ]
+}
