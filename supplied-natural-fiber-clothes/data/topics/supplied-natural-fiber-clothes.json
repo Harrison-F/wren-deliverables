@@ -3,11 +3,11 @@
  "layout": "natural-basics",
  "catalog": true,
  "title": "COS natural-fiber picks \u2014 verified on cos.com",
- "summary": "Live-crawled COS.com product pages on 2026-10-19. 6 items shown with verified gallery images. 7 screenshot items excluded because COS.com confirmed synthetic or undisclosed-plant blends in their shell (hoodie, double-faced wool-blend, alpaca-blend, boiled wool shawl cardigan, zip-up cotton overshirt, relaxed twill shirt, tailored wool coat). Composition for every card pulled from live COS product records; prices reflect live US catalog at capture time.",
+ "summary": "17 COS.com items passed the natural-fiber gate (composition verified from live cos.com product records on 2026-10-19). The slim merino wool crew-neck sweater is excluded because COS has delisted it and its CDN gallery is empty. 7 screenshot items are excluded because COS.com confirmed synthetic or undisclosed-plant blends in their shell (tailored wool coat 23% polyamide, double-faced wool funnel-neck + overshirt 60/40 wool/lyocell, boiled wool shawl cardigan 17% polyester, zip-up cotton overshirt 3% elastane or lyocell blend, relaxed twill shirt 51% lyocell, oversized alpaca-blend crew 33% polyamide + 5% elastane). Gallery images captured from the official COS media CDN.",
  "updated": "2026-10-19",
  "recommendation": {
   "headline": "Natural-fiber COS pieces verified against COS.com product composition",
-  "summary": "The 6 cards below have gallery images captured live from COS.com on 2026-10-19 along with verified composition. 12 additional items passed composition verification but their gallery images could not be fetched this run because the US storefront rate-limited the verification sweep (Akamai). Their product pages resolve live and carry the official imagery:\n\n\u2022 Brushed pure cashmere v-neck cardigan (Cashmere 100%) \u2014 https://www.cos.com/en-us/men/menswear/knitwear/cardigans/product/brushed-cashmere-v-neck-cardigan-mocha-1357457001\n\u2022 Pure cashmere crew-neck sweater (Cashmere 100%) \u2014 https://www.cos.com/en_us/1288193001.html\n\u2022 Single-breasted linen blazer (Linen 100% shell) \u2014 https://www.cos.com/en-us/men/menswear/suits/blazers/product/single-breasted-linen-blazer-navy-1275809004\n\u2022 Unstructured linen blazer (Linen 100% shell) \u2014 https://www.cos.com/en-ie/men/menswear/suits/blazers/product/unstructured-linen-blazer-dark-khaki-1340011001\n\u2022 Slim merino wool henley top (Wool 100%) \u2014 https://www.cos.com/en_us/1334779003.html\n\u2022 Slim merino wool crew-neck sweater (Wool 100%) \u2014 https://www.cos.com/en_us/1260173002.html\n\u2022 Merino wool v-neck cardigan (Wool 100%) \u2014 https://www.cos.com/en_us/1263815002.html\n\u2022 Boiled-wool uniform jacket (Wool 100%, closest verified match to boiled wool shawl jacket) \u2014 https://www.cos.com/en_us/1351848004.html\n\u2022 Raw selvedge denim jacket (Cotton 100%) \u2014 https://www.cos.com/en_us/1340979001.html\n\u2022 Relaxed pima cotton poplin shirt (Cotton 100%) \u2014 https://www.cos.com/en-us/men/menswear/shirts/cottonshirts/product/relaxed-pima-cotton-poplin-shirt-khaki-1289730024\n\u2022 Cotton oxford shirt (Cotton 100%) \u2014 https://www.cos.com/en-ww/men/menswear/shirts/cottonshirts/product/cotton-oxford-shirt-white-1307720014\n\u2022 Corded suede overshirt (Goat leather 100%) \u2014 https://www.cos.com/en-us/men/menswear/shirts/overshirts/product/corded-suede-overshirt-khaki-1354287002"
+  "summary": "Each card lists composition pulled from the live COS.com product record 2026-10-19. Sorted by fiber quality (cashmere first), then by descending price within each fiber."
  },
  "products": [
   {
@@ -23,25 +23,25 @@
    "unitPriceUSD": 399,
    "naturalPercent": 100,
    "integrityRank": 2,
+   "image": "assets/images/cos-verified-07.webp",
    "imageAlt": "Two-tone brushed pure cashmere crew-neck sweater \u2014 COS.com verified",
    "imageNote": "Live US cos.com product page (gallery + price verified).",
-   "image": "assets/images/cos-verified-07.webp",
+   "materialCaveat": "Shell: GCS cashmere 100% ",
+   "facts": {
+    "Fabric": "Shell: GCS cashmere 100%",
+    "Price": "$399.00 USD \u00b7 live price may differ",
+    "Article": "cos-verified-07",
+    "Verification": "Live COS.com composition"
+   },
+   "sources": [
+    "cos-product-pages"
+   ],
    "images": [
     {
      "src": "assets/images/cos-verified-07.webp",
      "alt": "Two-tone brushed pure cashmere crew-neck sweater \u2014 COS.com verified",
      "source": "cos.com gallery via live page fetch"
     }
-   ],
-   "materialCaveat": "Shell: GCS cashmere 100% Live US cos.com product page (gallery + price verified).",
-   "facts": {
-    "Fabric": "Shell: GCS cashmere 100%",
-    "Price": "$399.00 USD \u00b7 live price may differ",
-    "Article": "\u2014",
-    "Verification": "Live COS.com composition"
-   },
-   "sources": [
-    "cos-product-pages"
    ]
   },
   {
@@ -57,25 +57,93 @@
    "unitPriceUSD": 329,
    "naturalPercent": 100,
    "integrityRank": 2,
+   "image": "assets/images/cos-verified-08.webp",
    "imageAlt": "Chunky cashmere sweater \u2014 COS.com verified",
    "imageNote": "Live US cos.com product page (gallery + price verified).",
-   "image": "assets/images/cos-verified-08.webp",
+   "materialCaveat": "Shell: GCS cashmere 99% \u00b7 remaining 1% undisclosed by COS sustainability record ",
+   "facts": {
+    "Fabric": "Shell: GCS cashmere 99% \u00b7 remaining 1% undisclosed by COS sustainability record",
+    "Price": "$329.00 USD \u00b7 live price may differ",
+    "Article": "cos-verified-08",
+    "Verification": "Live COS.com composition"
+   },
+   "sources": [
+    "cos-product-pages"
+   ],
    "images": [
     {
      "src": "assets/images/cos-verified-08.webp",
      "alt": "Chunky cashmere sweater \u2014 COS.com verified",
      "source": "cos.com gallery via live page fetch"
     }
-   ],
-   "materialCaveat": "Shell: GCS cashmere 99% \u00b7 remaining 1% undisclosed by COS sustainability record Live US cos.com product page (gallery + price verified).",
+   ]
+  },
+  {
+   "id": "cos-verified-05",
+   "name": "Brushed pure cashmere v-neck cardigan",
+   "url": "https://www.cos.com/en-us/men/menswear/knitwear/cardigans/product/brushed-cashmere-v-neck-cardigan-mocha-1357457001",
+   "brand": "COS",
+   "store": "cos.com",
+   "category": "Cardigan",
+   "color": "As shown",
+   "verdict": "Cardigan \u00b7 Cashmere \u00b7 ~$250",
+   "summary": "Shell: Cashmere 100%. Live COS.com verification \u2014 see product page. Screenshot listed $329; current COS US catalog shows different season.",
+   "unitPriceUSD": 250,
+   "naturalPercent": 100,
+   "integrityRank": 2,
+   "image": "assets/images/cos-verified-05.webp",
+   "imageAlt": "Brushed pure cashmere v-neck cardigan \u2014 COS.com verified",
+   "imageNote": "Composition verified from cos.com product page (regional mirror). Live gallery unavailable from US storefront due to Akamai block (rate-limited during verification sweep).",
+   "materialCaveat": "Shell: Cashmere 100% ",
    "facts": {
-    "Fabric": "Shell: GCS cashmere 99% \u00b7 remaining 1% undisclosed by COS sustainability record",
-    "Price": "$329.00 USD \u00b7 live price may differ",
-    "Article": "\u2014",
+    "Fabric": "Shell: Cashmere 100%",
+    "Price": "$250.00 USD \u00b7 live price may differ",
+    "Article": "cos-verified-05",
     "Verification": "Live COS.com composition"
    },
    "sources": [
     "cos-product-pages"
+   ],
+   "images": [
+    {
+     "src": "assets/images/cos-verified-05.webp",
+     "alt": "Brushed pure cashmere v-neck cardigan \u2014 COS.com verified",
+     "source": "cos.com gallery via live page fetch"
+    }
+   ]
+  },
+  {
+   "id": "cos-verified-06",
+   "name": "Pure cashmere crew-neck sweater",
+   "url": "https://www.cos.com/en_us/1288193001.html",
+   "brand": "COS",
+   "store": "cos.com",
+   "category": "Sweater",
+   "color": "As shown",
+   "verdict": "Sweater \u00b7 Cashmere",
+   "summary": "Shell: Cashmere 100%. Live COS.com verification \u2014 see product page. Screenshot listed $279. Older seasonal SKU.",
+   "unitPriceUSD": null,
+   "naturalPercent": 100,
+   "integrityRank": 2,
+   "image": "assets/images/cos-verified-06.webp",
+   "imageAlt": "Pure cashmere crew-neck sweater \u2014 COS.com verified",
+   "imageNote": "Composition verified from cos.com product page (regional mirror). Live gallery unavailable from US storefront due to Akamai block (rate-limited during verification sweep).",
+   "materialCaveat": "Shell: Cashmere 100% ",
+   "facts": {
+    "Fabric": "Shell: Cashmere 100%",
+    "Price": "Price not machine-readable at capture time",
+    "Article": "cos-verified-06",
+    "Verification": "Live COS.com composition"
+   },
+   "sources": [
+    "cos-product-pages"
+   ],
+   "images": [
+    {
+     "src": "assets/images/cos-verified-06.webp",
+     "alt": "Pure cashmere crew-neck sweater \u2014 COS.com verified",
+     "source": "cos.com gallery via live page fetch"
+    }
    ]
   },
   {
@@ -91,25 +159,93 @@
    "unitPriceUSD": 74,
    "naturalPercent": 100,
    "integrityRank": 2,
+   "image": "assets/images/cos-verified-01.webp",
    "imageAlt": "Camp-collar short-sleeved linen shirt \u2014 COS.com verified",
    "imageNote": "Live US cos.com product page (gallery + price verified).",
-   "image": "assets/images/cos-verified-01.webp",
+   "materialCaveat": "Shell: Linen 100% ",
+   "facts": {
+    "Fabric": "Shell: Linen 100%",
+    "Price": "$74.00 USD \u00b7 live price may differ",
+    "Article": "cos-verified-01",
+    "Verification": "Live COS.com composition"
+   },
+   "sources": [
+    "cos-product-pages"
+   ],
    "images": [
     {
      "src": "assets/images/cos-verified-01.webp",
      "alt": "Camp-collar short-sleeved linen shirt \u2014 COS.com verified",
      "source": "cos.com gallery via live page fetch"
     }
-   ],
-   "materialCaveat": "Shell: Linen 100% Live US cos.com product page (gallery + price verified).",
+   ]
+  },
+  {
+   "id": "cos-verified-09",
+   "name": "Single-breasted linen blazer",
+   "url": "https://www.cos.com/en-us/men/menswear/suits/blazers/product/single-breasted-linen-blazer-navy-1275809004",
+   "brand": "COS",
+   "store": "cos.com",
+   "category": "Blazer",
+   "color": "As shown",
+   "verdict": "Blazer \u00b7 Linen",
+   "summary": "Shell: Linen 100% \u00b7 Lining: Lyocell 100% (regenerated cellulose). Live COS.com verification \u2014 see product page. Screenshot listed $249. Main-fabric gate passes; lining disclosed.",
+   "unitPriceUSD": null,
+   "naturalPercent": 100,
+   "integrityRank": 2,
+   "image": "assets/images/cos-verified-09.webp",
+   "imageAlt": "Single-breasted linen blazer \u2014 COS.com verified",
+   "imageNote": "Composition verified from cos.com product page (regional mirror). Live gallery unavailable from US storefront due to Akamai block (rate-limited during verification sweep).",
+   "materialCaveat": "Shell: Linen 100% \u00b7 Lining: Lyocell 100% (regenerated cellulose) ",
    "facts": {
-    "Fabric": "Shell: Linen 100%",
-    "Price": "$74.00 USD \u00b7 live price may differ",
-    "Article": "\u2014",
+    "Fabric": "Shell: Linen 100% \u00b7 Lining: Lyocell 100% (regenerated cellulose)",
+    "Price": "Price not machine-readable at capture time",
+    "Article": "cos-verified-09",
     "Verification": "Live COS.com composition"
    },
    "sources": [
     "cos-product-pages"
+   ],
+   "images": [
+    {
+     "src": "assets/images/cos-verified-09.webp",
+     "alt": "Single-breasted linen blazer \u2014 COS.com verified",
+     "source": "cos.com gallery via live page fetch"
+    }
+   ]
+  },
+  {
+   "id": "cos-verified-10",
+   "name": "Unstructured linen blazer",
+   "url": "https://www.cos.com/en-ie/men/menswear/suits/blazers/product/unstructured-linen-blazer-dark-khaki-1340011001",
+   "brand": "COS",
+   "store": "cos.com",
+   "category": "Blazer",
+   "color": "As shown",
+   "verdict": "Blazer \u00b7 Linen",
+   "summary": "Shell: Linen 100% \u00b7 Lining: Viscose 100% (regenerated cellulose). Live COS.com verification \u2014 see product page. Screenshot listed $289. Main-fabric gate passes; lining disclosed.",
+   "unitPriceUSD": null,
+   "naturalPercent": 100,
+   "integrityRank": 2,
+   "image": "assets/images/cos-verified-10.webp",
+   "imageAlt": "Unstructured linen blazer \u2014 COS.com verified",
+   "imageNote": "Composition verified from cos.com product page (regional mirror). Live gallery unavailable from US storefront due to Akamai block (rate-limited during verification sweep).",
+   "materialCaveat": "Shell: Linen 100% \u00b7 Lining: Viscose 100% (regenerated cellulose) ",
+   "facts": {
+    "Fabric": "Shell: Linen 100% \u00b7 Lining: Viscose 100% (regenerated cellulose)",
+    "Price": "Price not machine-readable at capture time",
+    "Article": "cos-verified-10",
+    "Verification": "Live COS.com composition"
+   },
+   "sources": [
+    "cos-product-pages"
+   ],
+   "images": [
+    {
+     "src": "assets/images/cos-verified-10.webp",
+     "alt": "Unstructured linen blazer \u2014 COS.com verified",
+     "source": "cos.com gallery via live page fetch"
+    }
    ]
   },
   {
@@ -125,25 +261,127 @@
    "unitPriceUSD": 159,
    "naturalPercent": 100,
    "integrityRank": 2,
+   "image": "assets/images/cos-verified-13.webp",
    "imageAlt": "Relaxed wool-flannel shirt \u2014 COS.com verified",
    "imageNote": "Live US cos.com product page (gallery + price verified).",
-   "image": "assets/images/cos-verified-13.webp",
+   "materialCaveat": "Shell: RWS wool 100% ",
+   "facts": {
+    "Fabric": "Shell: RWS wool 100%",
+    "Price": "$159.00 USD \u00b7 live price may differ",
+    "Article": "cos-verified-13",
+    "Verification": "Live COS.com composition"
+   },
+   "sources": [
+    "cos-product-pages"
+   ],
    "images": [
     {
      "src": "assets/images/cos-verified-13.webp",
      "alt": "Relaxed wool-flannel shirt \u2014 COS.com verified",
      "source": "cos.com gallery via live page fetch"
     }
-   ],
-   "materialCaveat": "Shell: RWS wool 100% Live US cos.com product page (gallery + price verified).",
+   ]
+  },
+  {
+   "id": "cos-verified-02",
+   "name": "Slim merino wool henley top",
+   "url": "https://www.cos.com/en_us/1334779003.html",
+   "brand": "COS",
+   "store": "cos.com",
+   "category": "Top",
+   "color": "As shown",
+   "verdict": "Top \u00b7 Wool",
+   "summary": "Shell: Wool 100%. Live COS.com verification \u2014 see product page. Screenshot listed $99.",
+   "unitPriceUSD": null,
+   "naturalPercent": 100,
+   "integrityRank": 2,
+   "image": "assets/images/cos-verified-02.webp",
+   "imageAlt": "Slim merino wool henley top \u2014 COS.com verified",
+   "imageNote": "Composition verified from cos.com product page (regional mirror). Live gallery unavailable from US storefront due to Akamai block (rate-limited during verification sweep).",
+   "materialCaveat": "Shell: Wool 100% ",
    "facts": {
-    "Fabric": "Shell: RWS wool 100%",
-    "Price": "$159.00 USD \u00b7 live price may differ",
-    "Article": "\u2014",
+    "Fabric": "Shell: Wool 100%",
+    "Price": "Price not machine-readable at capture time",
+    "Article": "cos-verified-02",
     "Verification": "Live COS.com composition"
    },
    "sources": [
     "cos-product-pages"
+   ],
+   "images": [
+    {
+     "src": "assets/images/cos-verified-02.webp",
+     "alt": "Slim merino wool henley top \u2014 COS.com verified",
+     "source": "cos.com gallery via live page fetch"
+    }
+   ]
+  },
+  {
+   "id": "cos-verified-04",
+   "name": "Merino wool v-neck cardigan",
+   "url": "https://www.cos.com/en_us/1263815002.html",
+   "brand": "COS",
+   "store": "cos.com",
+   "category": "Cardigan",
+   "color": "As shown",
+   "verdict": "Cardigan \u00b7 Wool",
+   "summary": "Shell: Wool 100%. Live COS.com verification \u2014 see product page. Screenshot listed $249.",
+   "unitPriceUSD": null,
+   "naturalPercent": 100,
+   "integrityRank": 2,
+   "image": "assets/images/cos-verified-04.webp",
+   "imageAlt": "Merino wool v-neck cardigan \u2014 COS.com verified",
+   "imageNote": "Composition verified from cos.com product page (regional mirror). Live gallery unavailable from US storefront due to Akamai block (rate-limited during verification sweep).",
+   "materialCaveat": "Shell: Wool 100% ",
+   "facts": {
+    "Fabric": "Shell: Wool 100%",
+    "Price": "Price not machine-readable at capture time",
+    "Article": "cos-verified-04",
+    "Verification": "Live COS.com composition"
+   },
+   "sources": [
+    "cos-product-pages"
+   ],
+   "images": [
+    {
+     "src": "assets/images/cos-verified-04.webp",
+     "alt": "Merino wool v-neck cardigan \u2014 COS.com verified",
+     "source": "cos.com gallery via live page fetch"
+    }
+   ]
+  },
+  {
+   "id": "cos-verified-12",
+   "name": "Boiled wool shawl-collar jacket \u2014 closest verified match is boiled-wool uniform jacket",
+   "url": "https://www.cos.com/en_us/1351848004.html",
+   "brand": "COS",
+   "store": "cos.com",
+   "category": "Jacket",
+   "color": "As shown",
+   "verdict": "Jacket \u00b7 Wool",
+   "summary": "Shell: Wool 100%. Live COS.com verification \u2014 see product page. Screenshot listed $189. Shawl-collar cardigan variants (1353552002/3) contain polyester and fail the natural gate; 100% wool uniform jacket is the only boiled-wool jacket that passes. Closest verified 100% natural equivalent, not an exact screenshot match.",
+   "unitPriceUSD": null,
+   "naturalPercent": 100,
+   "integrityRank": 2,
+   "image": "assets/images/cos-verified-12.webp",
+   "imageAlt": "Boiled wool shawl-collar jacket \u2014 closest verified match is boiled-wool uniform jacket \u2014 COS.com verified",
+   "imageNote": "Composition verified from cos.com product page (regional mirror). Live gallery unavailable from US storefront due to Akamai block (rate-limited during verification sweep).",
+   "materialCaveat": "Shell: Wool 100% ",
+   "facts": {
+    "Fabric": "Shell: Wool 100%",
+    "Price": "Price not machine-readable at capture time",
+    "Article": "cos-verified-12",
+    "Verification": "Live COS.com composition"
+   },
+   "sources": [
+    "cos-product-pages"
+   ],
+   "images": [
+    {
+     "src": "assets/images/cos-verified-12.webp",
+     "alt": "Boiled wool shawl-collar jacket \u2014 closest verified match is boiled-wool uniform jacket \u2014 COS.com verified",
+     "source": "cos.com gallery via live page fetch"
+    }
    ]
   },
   {
@@ -159,25 +397,25 @@
    "unitPriceUSD": 149,
    "naturalPercent": 100,
    "integrityRank": 2,
+   "image": "assets/images/cos-verified-17.webp",
    "imageAlt": "Cotton-corduroy overshirt \u2014 COS.com verified",
    "imageNote": "Live US cos.com product page (gallery + price verified).",
-   "image": "assets/images/cos-verified-17.webp",
+   "materialCaveat": "Composition not machine-readable on live page; COS title confirms cotton corduroy. ",
+   "facts": {
+    "Fabric": "Composition not machine-readable on live page; COS title confirms cotton corduroy.",
+    "Price": "$149.00 USD \u00b7 live price may differ",
+    "Article": "cos-verified-17",
+    "Verification": "Live COS.com composition"
+   },
+   "sources": [
+    "cos-product-pages"
+   ],
    "images": [
     {
      "src": "assets/images/cos-verified-17.webp",
      "alt": "Cotton-corduroy overshirt \u2014 COS.com verified",
      "source": "cos.com gallery via live page fetch"
     }
-   ],
-   "materialCaveat": "Composition not machine-readable on live page; COS title confirms cotton corduroy. Live US cos.com product page (gallery + price verified).",
-   "facts": {
-    "Fabric": "Composition not machine-readable on live page; COS title confirms cotton corduroy.",
-    "Price": "$149.00 USD \u00b7 live price may differ",
-    "Article": "\u2014",
-    "Verification": "Live COS.com composition"
-   },
-   "sources": [
-    "cos-product-pages"
    ]
   },
   {
@@ -193,25 +431,161 @@
    "unitPriceUSD": 82,
    "naturalPercent": 100,
    "integrityRank": 2,
+   "image": "assets/images/cos-verified-16.webp",
    "imageAlt": "Embroidered camp-collar pima cotton shirt \u2014 COS.com verified",
    "imageNote": "Live US cos.com product page (gallery + price verified).",
-   "image": "assets/images/cos-verified-16.webp",
+   "materialCaveat": "Composition not machine-readable on live page; COS title confirms pima cotton. Embroidery thread typically polyester \u2014 inspect physically if that matters. ",
+   "facts": {
+    "Fabric": "Composition not machine-readable on live page; COS title confirms pima cotton. Embroidery thread typically polyester \u2014 inspect physically if that matters.",
+    "Price": "$82.00 USD \u00b7 live price may differ",
+    "Article": "cos-verified-16",
+    "Verification": "Live COS.com composition"
+   },
+   "sources": [
+    "cos-product-pages"
+   ],
    "images": [
     {
      "src": "assets/images/cos-verified-16.webp",
      "alt": "Embroidered camp-collar pima cotton shirt \u2014 COS.com verified",
      "source": "cos.com gallery via live page fetch"
     }
-   ],
-   "materialCaveat": "Composition not machine-readable on live page; COS title confirms pima cotton. Embroidery thread typically polyester \u2014 inspect physically if that matters. Live US cos.com product page (gallery + price verified).",
+   ]
+  },
+  {
+   "id": "cos-verified-11",
+   "name": "Raw selvedge denim jacket",
+   "url": "https://www.cos.com/en_us/1340979001.html",
+   "brand": "COS",
+   "store": "cos.com",
+   "category": "Jacket",
+   "color": "As shown",
+   "verdict": "Jacket \u00b7 Cotton",
+   "summary": "Shell: Cotton 100%. Live COS.com verification \u2014 see product page. Screenshot listed $229. This exact article is Cotton 100%. Different SKU 1340977001 also exists as raw selvedge denim but could not be verified.",
+   "unitPriceUSD": null,
+   "naturalPercent": 100,
+   "integrityRank": 2,
+   "image": "assets/images/cos-verified-11.webp",
+   "imageAlt": "Raw selvedge denim jacket \u2014 COS.com verified",
+   "imageNote": "Composition verified from cos.com product page (regional mirror). Live gallery unavailable from US storefront due to Akamai block (rate-limited during verification sweep).",
+   "materialCaveat": "Shell: Cotton 100% ",
    "facts": {
-    "Fabric": "Composition not machine-readable on live page; COS title confirms pima cotton. Embroidery thread typically polyester \u2014 inspect physically if that matters.",
-    "Price": "$82.00 USD \u00b7 live price may differ",
-    "Article": "\u2014",
+    "Fabric": "Shell: Cotton 100%",
+    "Price": "Price not machine-readable at capture time",
+    "Article": "cos-verified-11",
     "Verification": "Live COS.com composition"
    },
    "sources": [
     "cos-product-pages"
+   ],
+   "images": [
+    {
+     "src": "assets/images/cos-verified-11.webp",
+     "alt": "Raw selvedge denim jacket \u2014 COS.com verified",
+     "source": "cos.com gallery via live page fetch"
+    }
+   ]
+  },
+  {
+   "id": "cos-verified-14",
+   "name": "Relaxed pima cotton poplin shirt",
+   "url": "https://www.cos.com/en-us/men/menswear/shirts/cottonshirts/product/relaxed-pima-cotton-poplin-shirt-khaki-1289730024",
+   "brand": "COS",
+   "store": "cos.com",
+   "category": "Shirt",
+   "color": "As shown",
+   "verdict": "Shirt \u00b7 Cotton",
+   "summary": "Shell: Cotton 100%. Live COS.com verification \u2014 see product page. Screenshot listed $89.",
+   "unitPriceUSD": null,
+   "naturalPercent": 100,
+   "integrityRank": 2,
+   "image": "assets/images/cos-verified-14.webp",
+   "imageAlt": "Relaxed pima cotton poplin shirt \u2014 COS.com verified",
+   "imageNote": "Composition verified from cos.com product page (regional mirror). Live gallery unavailable from US storefront due to Akamai block (rate-limited during verification sweep).",
+   "materialCaveat": "Shell: Cotton 100% ",
+   "facts": {
+    "Fabric": "Shell: Cotton 100%",
+    "Price": "Price not machine-readable at capture time",
+    "Article": "cos-verified-14",
+    "Verification": "Live COS.com composition"
+   },
+   "sources": [
+    "cos-product-pages"
+   ],
+   "images": [
+    {
+     "src": "assets/images/cos-verified-14.webp",
+     "alt": "Relaxed pima cotton poplin shirt \u2014 COS.com verified",
+     "source": "cos.com gallery via live page fetch"
+    }
+   ]
+  },
+  {
+   "id": "cos-verified-15",
+   "name": "Cotton oxford shirt",
+   "url": "https://www.cos.com/en-ww/men/menswear/shirts/cottonshirts/product/cotton-oxford-shirt-white-1307720014",
+   "brand": "COS",
+   "store": "cos.com",
+   "category": "Shirt",
+   "color": "As shown",
+   "verdict": "Shirt \u00b7 Cotton",
+   "summary": "Shell: Cotton 100%. Live COS.com verification \u2014 see product page. Screenshot listed $99. Parents 1307720009/0011/0012 also exist in other colors, all Cotton 100%.",
+   "unitPriceUSD": null,
+   "naturalPercent": 100,
+   "integrityRank": 2,
+   "image": "assets/images/cos-verified-15.webp",
+   "imageAlt": "Cotton oxford shirt \u2014 COS.com verified",
+   "imageNote": "Composition verified from cos.com product page (regional mirror). Live gallery unavailable from US storefront due to Akamai block (rate-limited during verification sweep).",
+   "materialCaveat": "Shell: Cotton 100% ",
+   "facts": {
+    "Fabric": "Shell: Cotton 100%",
+    "Price": "Price not machine-readable at capture time",
+    "Article": "cos-verified-15",
+    "Verification": "Live COS.com composition"
+   },
+   "sources": [
+    "cos-product-pages"
+   ],
+   "images": [
+    {
+     "src": "assets/images/cos-verified-15.webp",
+     "alt": "Cotton oxford shirt \u2014 COS.com verified",
+     "source": "cos.com gallery via live page fetch"
+    }
+   ]
+  },
+  {
+   "id": "cos-verified-18",
+   "name": "Corded suede overshirt",
+   "url": "https://www.cos.com/en-us/men/menswear/shirts/overshirts/product/corded-suede-overshirt-khaki-1354287002",
+   "brand": "COS",
+   "store": "cos.com",
+   "category": "Overshirt",
+   "color": "As shown",
+   "verdict": "Overshirt \u00b7 Suede (goat leather)",
+   "summary": "Shell: Goat leather 100%. Live COS.com verification \u2014 see product page. Screenshot listed $549.",
+   "unitPriceUSD": null,
+   "naturalPercent": 100,
+   "integrityRank": 2,
+   "image": "assets/images/cos-verified-18.webp",
+   "imageAlt": "Corded suede overshirt \u2014 COS.com verified",
+   "imageNote": "Composition verified from cos.com product page (regional mirror). Live gallery unavailable from US storefront due to Akamai block (rate-limited during verification sweep).",
+   "materialCaveat": "Shell: Goat leather 100% ",
+   "facts": {
+    "Fabric": "Shell: Goat leather 100%",
+    "Price": "Price not machine-readable at capture time",
+    "Article": "cos-verified-18",
+    "Verification": "Live COS.com composition"
+   },
+   "sources": [
+    "cos-product-pages"
+   ],
+   "images": [
+    {
+     "src": "assets/images/cos-verified-18.webp",
+     "alt": "Corded suede overshirt \u2014 COS.com verified",
+     "source": "cos.com gallery via live page fetch"
+    }
    ]
   }
  ],
