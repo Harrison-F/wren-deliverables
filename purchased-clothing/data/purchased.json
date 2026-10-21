@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T02:06:26Z",
+  "generated_at": "2026-10-21T02:18:16Z",
   "refresh_interval_hours": 6,
-  "order_count": 4,
+  "order_count": 3,
   "items": [
     {
       "item_name": "Textured knit sweater",
@@ -93,21 +93,6 @@
       "date_basis": "Confirmation email date",
       "category": "Clothing",
       "image_url": "assets/purchased/3744500341f3e7c85047.webp"
-    },
-    {
-      "item_name": "Nose Pad Kit Add On - Black",
-      "merchant": "ROKA",
-      "quantity": 1,
-      "variant": "Black",
-      "size": null,
-      "color": null,
-      "price_text": "$5.00",
-      "price_basis": "Email label: Total; unit/line basis unclear",
-      "currency": null,
-      "ordered_at": "2026-10-17",
-      "date_basis": "Order date in confirmation",
-      "category": "Accessories",
-      "image_url": "assets/purchased/7420597b376b6c1545c7.webp"
     }
   ]
 }
