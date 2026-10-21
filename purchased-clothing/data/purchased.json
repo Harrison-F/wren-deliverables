@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T23:53:51Z",
+  "generated_at": "2026-10-21T02:06:26Z",
   "refresh_interval_hours": 6,
-  "order_count": 5,
+  "order_count": 4,
   "items": [
     {
       "item_name": "Textured knit sweater",
@@ -32,7 +32,7 @@
       "ordered_at": "2026-10-20",
       "date_basis": "Order date in confirmation",
       "category": "Clothing",
-      "image_url": "assets/purchased/19e7a588d991887f3a8d.webp"
+      "image_url": "assets/purchased/d3045ad1402315d2aadf.webp"
     },
     {
       "item_name": "Classic Essential Tee",
@@ -47,7 +47,7 @@
       "ordered_at": "2026-10-20",
       "date_basis": "Order date in confirmation",
       "category": "Clothing",
-      "image_url": "assets/purchased/20739cc385bfca24d078.webp"
+      "image_url": "assets/purchased/ec5c52219a36ff666b8f.webp"
     },
     {
       "item_name": "Classic Essential Tee",
@@ -62,7 +62,7 @@
       "ordered_at": "2026-10-20",
       "date_basis": "Order date in confirmation",
       "category": "Clothing",
-      "image_url": "assets/purchased/de93b60a56a7d203bedf.webp"
+      "image_url": "assets/purchased/36ce9c624cb991bc051c.webp"
     },
     {
       "item_name": "100% Merino Wool Crew Sweater",
@@ -77,7 +77,7 @@
       "ordered_at": "2026-10-20",
       "date_basis": "Order date in confirmation",
       "category": "Clothing",
-      "image_url": "assets/purchased/404b726ef5776bf4ada0.webp"
+      "image_url": "assets/purchased/50f6141c097d8413f3a6.webp"
     },
     {
       "item_name": "Double-pleated relaxed fit pants",
@@ -93,36 +93,6 @@
       "date_basis": "Confirmation email date",
       "category": "Clothing",
       "image_url": "assets/purchased/3744500341f3e7c85047.webp"
-    },
-    {
-      "item_name": "The Titan 100% Merino Wool Boxer Brief - 8 Pack",
-      "merchant": "Ryker Clothing Co",
-      "quantity": 1,
-      "variant": "Medium / Black",
-      "size": null,
-      "color": null,
-      "price_text": "$294.40",
-      "price_basis": "Line price before order-level discounts",
-      "currency": "USD",
-      "ordered_at": "2026-10-17",
-      "date_basis": "Confirmation email date",
-      "category": "Clothing",
-      "image_url": "assets/purchased/a8a13ceb89214feca081.webp"
-    },
-    {
-      "item_name": "Rory 1.0 Wind Down\u2122 (Non-prescription) - Matte Black Frame - Wind Down\u2122 Lens / Small (49)",
-      "merchant": "ROKA",
-      "quantity": 2,
-      "variant": "Matte Black Frame - Wind Down\u2122 Lens / Small (49)",
-      "size": null,
-      "color": null,
-      "price_text": "$125.00",
-      "price_basis": "Email label: Total; unit/line basis unclear",
-      "currency": null,
-      "ordered_at": "2026-10-17",
-      "date_basis": "Order date in confirmation",
-      "category": "Accessories",
-      "image_url": "assets/purchased/8f6cef63e4bf32fc01c3.webp"
     },
     {
       "item_name": "Nose Pad Kit Add On - Black",
