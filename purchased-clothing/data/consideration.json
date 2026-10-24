@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "item_name": "Newport Chino Pants in Walnut",
+      "merchant": "Kiel James Patrick",
+      "product_url": "https://kieljamespatrick.com/products/newport-chino-pants-in-brown",
+      "category": "Clothing",
+      "color": "Walnut",
+      "size": null,
+      "price_text": "$118",
+      "currency": "USD",
+      "material": "100% cotton",
+      "fit": "Relaxed fit \u00b7 Straight leg",
+      "verified_at": "2026-10-24T05:34:08Z",
+      "gallery_basis": "All 6 images in the exact Walnut product gallery, verified against the rendered retailer page. Includes lifestyle photos.",
+      "images": [
+        "assets/consideration/ec3a5d9e63910b7923a4.webp",
+        "assets/consideration/bcb5a322651ca3382974.webp",
+        "assets/consideration/6a1662dffde6f90ed666.webp",
+        "assets/consideration/27c32bab34fa974ea78b.webp",
+        "assets/consideration/b79479d27dbb39908178.webp",
+        "assets/consideration/bc920e1b60fc00dac15e.webp"
+      ]
+    }
+  ]
+}
