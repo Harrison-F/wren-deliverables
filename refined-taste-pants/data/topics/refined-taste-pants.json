@@ -1,0 +1,523 @@
+{
+  "id": "refined-taste-pants",
+  "title": "Refined-taste black trousers",
+  "summary": "",
+  "updated": "2026-10-24",
+  "layout": "natural-basics",
+  "catalog": true,
+  "showCollectionNotes": false,
+  "recommendation": {},
+  "products": [
+    {
+      "id": "refined-md",
+      "name": "Double-Pleat Cotton Pants",
+      "store": "Massimo Dutti",
+      "brand": "Massimo Dutti",
+      "url": "https://www.massimodutti.com/us/pants-with-double-pleats-100-cotton-l00189005?pelement=67149013",
+      "color": "Black",
+      "unitPriceUSD": 130.0,
+      "naturalPercent": 100,
+      "integrityRank": 0,
+      "summary": "",
+      "verdict": "Not qualified",
+      "category": "Unresolved",
+      "merchantLane": "core",
+      "matchClass": "unresolved",
+      "materialCaveat": "Lining and fit unverified. Size30 measures 78cm inner leg; not verified 32in.",
+      "facts": {
+        "Fabric": "100% cotton shell",
+        "Size": "30 label; 78cm inner leg (about30.7in)",
+        "Availability": "Size30 SHOW in page data; UI stock unconfirmed",
+        "Eligibility": "Not a qualified match",
+        "Fit": "unknown; 30 label; 78cm inner leg (about30.7in)",
+        "Status": "Size30 SHOW in page data; UI stock unconfirmed"
+      },
+      "images": [
+        {
+          "src": "assets/images/refined-md-1.webp",
+          "alt": "Double-Pleat Cotton Pants — retailer black gallery 1",
+          "sourceURL": "https://static.massimodutti.net/assets/public/9fba/c6a8/fd7c4da8861f/3c6318bfcde6/00189005800-o6/00189005800-o6.jpg?ts=1791282309116"
+        },
+        {
+          "src": "assets/images/refined-md-2.webp",
+          "alt": "Double-Pleat Cotton Pants — retailer black gallery 2",
+          "sourceURL": "https://static.massimodutti.net/assets/public/dc5d/eda9/83394bbfb6d3/be5e4628cf70/00189005800-o1/00189005800-o1.jpg?ts=1790781755270"
+        },
+        {
+          "src": "assets/images/refined-md-3.webp",
+          "alt": "Double-Pleat Cotton Pants — retailer black gallery 3",
+          "sourceURL": "https://static.massimodutti.net/assets/public/b367/6d16/cc9b4f29b93e/9bae96bc8940/00189005800-o7/00189005800-o7.jpg?ts=1791282309723"
+        },
+        {
+          "src": "assets/images/refined-md-4.webp",
+          "alt": "Double-Pleat Cotton Pants — retailer black gallery 4",
+          "sourceURL": "https://static.massimodutti.net/assets/public/7f29/493f/61144ba69273/0bdaa9eb36f3/00189005800-o2/00189005800-o2.jpg?ts=1790781755895"
+        },
+        {
+          "src": "assets/images/refined-md-5.webp",
+          "alt": "Double-Pleat Cotton Pants — retailer black gallery 5",
+          "sourceURL": "https://static.massimodutti.net/assets/public/414a/577b/03214f67b9e0/b31015af3c09/00189005800-o8/00189005800-o8.jpg?ts=1791282309848"
+        },
+        {
+          "src": "assets/images/refined-md-6.webp",
+          "alt": "Double-Pleat Cotton Pants — retailer black gallery 6",
+          "sourceURL": "https://static.massimodutti.net/assets/public/1c7d/7811/a4fc43f3b9af/daa137eabac6/00189005800-o3/00189005800-o3.jpg?ts=1790781754574"
+        },
+        {
+          "src": "assets/images/refined-md-7.webp",
+          "alt": "Double-Pleat Cotton Pants — retailer black gallery 7",
+          "sourceURL": "https://static.massimodutti.net/assets/public/ce89/6450/bceb4d8ea399/e49092572bf1/00189005800-o4/00189005800-o4.jpg?ts=1790781755409"
+        },
+        {
+          "src": "assets/images/refined-md-8.webp",
+          "alt": "Double-Pleat Cotton Pants — retailer black gallery 8",
+          "sourceURL": "https://static.massimodutti.net/assets/public/7e8a/6b08/d33744a59859/f085d32aeba0/00189005800-o9/00189005800-o9.jpg?ts=1791282311077"
+        },
+        {
+          "src": "assets/images/refined-md-9.webp",
+          "alt": "Double-Pleat Cotton Pants — retailer black gallery 9",
+          "sourceURL": "https://static.massimodutti.net/assets/public/8f36/27b0/a4d448a3aa3b/86aa1a99c553/00189005800-o5/00189005800-o5.jpg?ts=1790781755113"
+        }
+      ],
+      "imageNote": "Exact black product gallery; first-party images. No independent garment testing.",
+      "sources": [
+        "refined-md-source"
+      ],
+      "attribution": "Core merchant; manufacturer claims, not independently tested.",
+      "image": "assets/images/refined-md-1.webp",
+      "imageAlt": "Double-Pleat Cotton Pants — retailer black gallery 1"
+    },
+    {
+      "id": "refined-yitai",
+      "name": "All Season Wool Trousers",
+      "store": "Yitai",
+      "brand": "Yitai",
+      "url": "https://www.yitai.la/products/all-season-wool-trousers-black",
+      "color": "Black",
+      "unitPriceUSD": 148,
+      "naturalPercent": 100,
+      "integrityRank": 0,
+      "summary": "",
+      "verdict": "Not qualified",
+      "category": "Unresolved",
+      "merchantLane": "core",
+      "matchClass": "unresolved",
+      "materialCaveat": "Curtain waistband composition unverified. Preorder, not in stock.",
+      "facts": {
+        "Fabric": "100% wool; cotton pocket lining",
+        "Size": "30 / Standard32in",
+        "Availability": "Estimated shipping October30,2026; not a guarantee",
+        "Eligibility": "Not a qualified match",
+        "Fit": "straight; 30 / Standard32in",
+        "Status": "Estimated shipping October30,2026; not a guarantee"
+      },
+      "images": [
+        {
+          "src": "assets/images/refined-yitai-1.webp",
+          "alt": "All Season Wool Trousers — retailer black gallery 1",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame15_26dae734-f475-4b7b-b3f5-09fd59746fc8.png?v=1785931969"
+        },
+        {
+          "src": "assets/images/refined-yitai-2.webp",
+          "alt": "All Season Wool Trousers — retailer black gallery 2",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame16_afaed84c-bb44-47ec-95a0-7a395339c68a.png?v=1785931969"
+        },
+        {
+          "src": "assets/images/refined-yitai-3.webp",
+          "alt": "All Season Wool Trousers — retailer black gallery 3",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame19_b1af8bfe-0b74-4429-9b01-2231c3ac3371.png?v=1785931969"
+        },
+        {
+          "src": "assets/images/refined-yitai-4.webp",
+          "alt": "All Season Wool Trousers — retailer black gallery 4",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame20_2cda9f00-7c53-4513-a85a-67c6abb517cb.png?v=1785931970"
+        },
+        {
+          "src": "assets/images/refined-yitai-5.webp",
+          "alt": "All Season Wool Trousers — retailer black gallery 5",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame21_e70fedc2-9c22-4565-ae0a-0faa70c17c20.png?v=1785931970"
+        },
+        {
+          "src": "assets/images/refined-yitai-6.webp",
+          "alt": "All Season Wool Trousers — retailer black gallery 6",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame22_b4c76bc4-ee7d-4e0a-a66c-eef784e47b59.png?v=1785931969"
+        }
+      ],
+      "imageNote": "Exact black product gallery; first-party images. No independent garment testing.",
+      "sources": [
+        "refined-yitai-source"
+      ],
+      "attribution": "Core merchant; manufacturer claims, not independently tested.",
+      "image": "assets/images/refined-yitai-1.webp",
+      "imageAlt": "All Season Wool Trousers — retailer black gallery 1"
+    },
+    {
+      "id": "refined-hc",
+      "name": "Regular Fit Twill Pleated Pants",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "url": "https://www.hawesandcurtis.com/black-twill-pleated-trousers-trprjs25-a01",
+      "color": "Black",
+      "unitPriceUSD": 160,
+      "naturalPercent": 100,
+      "integrityRank": 0,
+      "summary": "",
+      "verdict": "Not qualified",
+      "category": "Unresolved",
+      "merchantLane": "core",
+      "matchClass": "unresolved",
+      "materialCaveat": "Lining unverified. Unfinished36in requires hemming; not a qualified sizing near match.",
+      "facts": {
+        "Fabric": "100% wool shell",
+        "Size": "30 offered; unfinished36in",
+        "Availability": "Exact30 stock not confirmed",
+        "Eligibility": "Not a qualified match",
+        "Fit": "regular; 30 offered; unfinished36in",
+        "Status": "Exact30 stock not confirmed"
+      },
+      "images": [
+        {
+          "src": "assets/images/refined-hc-1.webp",
+          "alt": "Regular Fit Twill Pleated Pants — retailer black gallery 1",
+          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211852-800px-1040px.jpg"
+        },
+        {
+          "src": "assets/images/refined-hc-2.webp",
+          "alt": "Regular Fit Twill Pleated Pants — retailer black gallery 2",
+          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211855-800px-1040px.jpg"
+        },
+        {
+          "src": "assets/images/refined-hc-3.webp",
+          "alt": "Regular Fit Twill Pleated Pants — retailer black gallery 3",
+          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211854-800px-1040px.jpg"
+        },
+        {
+          "src": "assets/images/refined-hc-4.webp",
+          "alt": "Regular Fit Twill Pleated Pants — retailer black gallery 4",
+          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211853-800px-1040px.jpg"
+        }
+      ],
+      "imageNote": "Exact black product gallery; first-party images. No independent garment testing.",
+      "sources": [
+        "refined-hc-source"
+      ],
+      "attribution": "Core merchant; manufacturer claims, not independently tested.",
+      "image": "assets/images/refined-hc-1.webp",
+      "imageAlt": "Regular Fit Twill Pleated Pants — retailer black gallery 1"
+    },
+    {
+      "id": "refined-asket",
+      "name": "The Linen Trousers",
+      "store": "ASKET",
+      "brand": "ASKET",
+      "url": "https://www.asket.com/en-us/mens-linen-trousers-black",
+      "color": "Black",
+      "unitPriceUSD": 230,
+      "naturalPercent": 100,
+      "integrityRank": 0,
+      "summary": "",
+      "verdict": "Not qualified",
+      "category": "Availability near matches",
+      "merchantLane": "core",
+      "matchClass": "unresolved",
+      "materialCaveat": "W30/L32 unavailable. Thread and other trims not fully specified.",
+      "facts": {
+        "Fabric": "100% linen; pocket lining100% organic cotton",
+        "Size": "W30 / L32",
+        "Availability": "Notify Me — Available Spring2027",
+        "Eligibility": "Not a qualified match",
+        "Fit": "straight; W30 / L32",
+        "Status": "Notify Me — Available Spring2027"
+      },
+      "images": [
+        {
+          "src": "assets/images/refined-asket-1.webp",
+          "alt": "The Linen Trousers — retailer black gallery 1",
+          "sourceURL": "https://images.asket.com/products/images/456_LI4-MQ-BLA-slideshow_1-original.jpg?auto=format&q=80&w=1280"
+        },
+        {
+          "src": "assets/images/refined-asket-2.webp",
+          "alt": "The Linen Trousers — retailer black gallery 2",
+          "sourceURL": "https://images.asket.com/products/images/456_LI4-MQ-BLA-slideshow_2-original.jpg"
+        },
+        {
+          "src": "assets/images/refined-asket-3.webp",
+          "alt": "The Linen Trousers — retailer black gallery 3",
+          "sourceURL": "https://images.asket.com/products/images/456_LI4-MQ-BLA-slideshow_3-original.jpg"
+        },
+        {
+          "src": "assets/images/refined-asket-4.webp",
+          "alt": "The Linen Trousers — retailer black gallery 4",
+          "sourceURL": "https://images.asket.com/products/images/456_LI4-MQ-BLA-slideshow_4-original.jpg"
+        },
+        {
+          "src": "assets/images/refined-asket-5.webp",
+          "alt": "The Linen Trousers — retailer black gallery 5",
+          "sourceURL": "https://images.asket.com/products/images/456_LI4-MQ-BLA-slideshow_5-original.jpg"
+        },
+        {
+          "src": "assets/images/refined-asket-6.webp",
+          "alt": "The Linen Trousers — retailer black gallery 6",
+          "sourceURL": "https://images.asket.com/products/images/456_LI4-MQ-BLA-thumbnail_1-original.jpg"
+        }
+      ],
+      "imageNote": "Exact black product gallery; first-party images. No independent garment testing.",
+      "sources": [
+        "refined-asket-source"
+      ],
+      "attribution": "Core merchant; manufacturer claims, not independently tested.",
+      "image": "assets/images/refined-asket-1.webp",
+      "imageAlt": "The Linen Trousers — retailer black gallery 1"
+    },
+    {
+      "id": "refined-percival",
+      "name": "Straight Leg Twill Trousers",
+      "store": "Percival",
+      "brand": "Percival",
+      "url": "https://www.percivalclo.com/products/straight-leg-trouser-twill-black",
+      "color": "Black",
+      "unitPriceUSD": null,
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "summary": "",
+      "verdict": "Not qualified",
+      "category": "Unresolved",
+      "merchantLane": "related",
+      "matchClass": "unresolved",
+      "materialCaveat": "Lining, US price/eligibility and size unverified. UK listing £65, not USD65.",
+      "facts": {
+        "Fabric": "Cotton; percentage not stated",
+        "Size": "W30 / inseam unverified",
+        "Availability": "Not confirmed for US30×32",
+        "Eligibility": "Not a qualified match",
+        "Fit": "straight; W30 / inseam unverified",
+        "Status": "Not confirmed for US30×32"
+      },
+      "images": [
+        {
+          "src": "assets/images/refined-percival-1.webp",
+          "alt": "Straight Leg Twill Trousers — retailer black gallery 1",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR_92e6a301-4c3f-4ae1-9600-f8884f255054.jpg?v=1766070512"
+        },
+        {
+          "src": "assets/images/refined-percival-2.webp",
+          "alt": "Straight Leg Twill Trousers — retailer black gallery 2",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR3_3773e577-0c1e-4261-bf97-39bf23287ead.jpg?v=1766070516"
+        },
+        {
+          "src": "assets/images/refined-percival-3.webp",
+          "alt": "Straight Leg Twill Trousers — retailer black gallery 3",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR2_fe513473-de43-406e-902e-31a7e19ebcdd.jpg?v=1766070513"
+        },
+        {
+          "src": "assets/images/refined-percival-4.webp",
+          "alt": "Straight Leg Twill Trousers — retailer black gallery 4",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/1479/8488/files/PERCIVAL_MENSWEAR4_9bb53aa7-c60d-4a05-add2-7ad26a2344c4.jpg?v=1766070515"
+        }
+      ],
+      "imageNote": "Exact black product gallery; first-party images. No independent garment testing.",
+      "sources": [
+        "refined-percival-source"
+      ],
+      "attribution": "Related brand recommended by Luke Chamberlain; see Related brands evidence. This exact product is not an editorial recommendation.",
+      "image": "assets/images/refined-percival-1.webp",
+      "imageAlt": "Straight Leg Twill Trousers — retailer black gallery 1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "refined-md-source",
+      "title": "Massimo Dutti — exact product",
+      "url": "https://www.massimodutti.com/us/pants-with-double-pleats-100-cotton-l00189005?pelement=67149013",
+      "accessed": "2026-10-24",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-24. Exact black gallery; material and size limitations shown on card."
+    },
+    {
+      "id": "refined-yitai-source",
+      "title": "Yitai — exact product",
+      "url": "https://www.yitai.la/products/all-season-wool-trousers-black",
+      "accessed": "2026-10-24",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-24. Exact black gallery; material and size limitations shown on card."
+    },
+    {
+      "id": "refined-hc-source",
+      "title": "Hawes & Curtis — exact product",
+      "url": "https://www.hawesandcurtis.com/black-twill-pleated-trousers-trprjs25-a01",
+      "accessed": "2026-10-24",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-24. Exact black gallery; material and size limitations shown on card."
+    },
+    {
+      "id": "refined-asket-source",
+      "title": "ASKET — exact product",
+      "url": "https://www.asket.com/en-us/mens-linen-trousers-black",
+      "accessed": "2026-10-24",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-24. Exact black gallery; material and size limitations shown on card."
+    },
+    {
+      "id": "refined-percival-source",
+      "title": "Percival — exact product",
+      "url": "https://www.percivalclo.com/products/straight-leg-trouser-twill-black",
+      "accessed": "2026-10-24",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-24. Exact black gallery; material and size limitations shown on card."
+    }
+  ],
+  "refinedResearch": {
+    "qualified": 0,
+    "sizingNear": 0,
+    "scope": "Bounded review of22 core merchants plus2 source-backed related brands. Access failures and unreviewed pagination are gaps, not proof of no stock.",
+    "criteria": "Black dress pants · 30×32 · ≤$240 · regular/straight/relaxed · natural main fabric AND lining",
+    "relationships": [
+      {
+        "person": "Peter Bevan",
+        "role": "British Vogue fashion contributor; recurring fashion bylines",
+        "profile": "https://www.vogue.co.uk/profile/peter-bevan",
+        "date": "2026-09-09",
+        "url": "https://www.vogue.co.uk/article/best-mens-clothing-brands",
+        "overlap": [
+          "COS",
+          "ARKET",
+          "ASKET"
+        ],
+        "brand": "Sunspel",
+        "relationship": "Editorial recommendation, not personal-use evidence",
+        "commercial": "Shopping article with retailer links; specific sponsorship/affiliate relationship not stated in captured text.",
+        "quote": "Sunspel: the label also delivers on minimal knitwear, denim, tailoring and outerwear.",
+        "finding": "Black boiled-wool tailored trousers checked: $415, over budget; size30 Notify Me. No qualifying product in the bounded review."
+      },
+      {
+        "person": "Luke Chamberlain",
+        "role": "Men’s Health UK ecommerce editor",
+        "profile": "https://www.menshealth.com/uk/author/260765/luke-chamberlain/",
+        "date": "2023-06-30",
+        "url": "https://www.menshealth.com/uk/style/a44395059/best-menswear-brands/",
+        "overlap": [
+          "ARKET",
+          "COS",
+          "ASKET"
+        ],
+        "brand": "Percival",
+        "relationship": "Editorial recommendation, not personal-use evidence",
+        "commercial": "Article explicitly discloses commissions on some purchased links. Historical recommendation; not current stock evidence.",
+        "quote": "Percival: stylish knitwear, breathable linen and elevated essentials for the modern man.",
+        "finding": "Three catalog pages reviewed. Straight Leg Twill is unresolved; synthetic/regenerated alternatives retained privately, not displayed."
+      }
+    ],
+    "coverage": [
+      {
+        "merchant": "SCRT",
+        "note": "Rendered trousers listing plus Odessa and Travis product pages reviewed. Odessa $270, wide bootcut; Travis $309; Triple Pleat Cotton listed $247. No pagination completeness claim. Other black work/cargo styles not fully reviewed.",
+        "url": "https://scrt.onl"
+      },
+      {
+        "merchant": "Industry of All Nations",
+        "note": "Rendered pants-jeans-shorts catalog. Drawstring/chino/denim leads; individual black tailored variants and lining not yet reviewed.",
+        "url": "https://industryofallnations.com/"
+      },
+      {
+        "merchant": "Yitai",
+        "note": "All Season Wool Trousers Black $148, 100% wool, straight, cotton pocket lining; 30 Standard preorder estimated Oct30. Other lining/curtain waistband unverified.",
+        "url": "https://www.yitai.la/"
+      },
+      {
+        "merchant": "Sandro",
+        "note": "Exact sale SHPPA01057_16 is BEIGE,99% wool1% elastane; polyester trouser lining. Rejected. Sale pagination not exhaustive.",
+        "url": "https://us.sandro-paris.com/"
+      },
+      {
+        "merchant": "Abercrombie",
+        "note": "Exact Collins linen-blend seq08 inspected: Oatmeal;12% lyocell body and polyester/viscose pocket bags. Rejected; other black styles remain incompletely reviewed.",
+        "url": "https://www.abercrombie.com"
+      },
+      {
+        "merchant": "Helmut Lang",
+        "note": "Rendered pants category with many regular prices above budget. Sale lane and exact black product composition not complete.",
+        "url": "https://www.helmutlang.com/"
+      },
+      {
+        "merchant": "Études",
+        "note": "Correct /collections/trousers captured; pages2 and3 remain. Primarily cargo/jeans shown; no full style review.",
+        "url": "https://www.etudes-studio.com/"
+      },
+      {
+        "merchant": "SSENSE",
+        "note": "HTTP and registered Wren browser 403/security challenge; no product absence inference.",
+        "url": "https://www.ssense.com/"
+      },
+      {
+        "merchant": "Carhartt / Carhartt WIP",
+        "note": "Both official Carhartt category and WIP category rendered. WIP Master rejected polyester/cotton; Sid rejected stretch blend and slim; Newel denim not dress trousers, lining unknown. Other styles incomplete.",
+        "url": "https://www.carhartt.com/"
+      },
+      {
+        "merchant": "Saks Fifth Avenue",
+        "note": "HTTP and registered Wren browser 403; no product absence inference.",
+        "url": "https://www.saksfifthavenue.com/"
+      },
+      {
+        "merchant": "PRM",
+        "note": "HTTP403 maintenance/deny then browser ERR_ABORTED; unresolved access, no product absence inference.",
+        "url": "https://prm.com/"
+      },
+      {
+        "merchant": "The Frankie Shop",
+        "note": "Mens bottoms and Theury Black rendered. Theury $120 unlined but97% polyester3% elastane. Further pages/styles incomplete.",
+        "url": "https://thefrankieshop.com/"
+      },
+      {
+        "merchant": "Yohji Yamamoto",
+        "note": "Correct mens pants collection rendered; wool gabardine and other silhouettes found, exact under-budget variants not checked.",
+        "url": "https://theshopyohjiyamamoto.com/"
+      },
+      {
+        "merchant": "ASKET",
+        "note": "Three exact black product pages reviewed. Regular Chino2% elastane rejected. Regular Twill100% cotton plus cotton pocket lining is casual workwear. Linen100% linen plus cotton pocket lining $230: selected W30/L32 opens Notify me Spring2027, out of stock.",
+        "url": "https://www.asket.com/"
+      },
+      {
+        "merchant": "COS",
+        "note": "HTTP403, registered Wren US route returns200 patience page; no real catalog. Remote authorized route not attempted; no availability inference.",
+        "url": "https://www.cos.com/"
+      },
+      {
+        "merchant": "ARKET",
+        "note": "Old route redirects worldwide Argentina/English landing, not valid US mens trousers inventory; regional shopping eligibility incomplete.",
+        "url": "https://www.arket.com/"
+      },
+      {
+        "merchant": "A.P.C.",
+        "note": "Exact black Ricky COHTF-H08027 inspected at $385: over budget. No entire-sale-catalog absence claim.",
+        "url": "https://www.apc-us.com/"
+      },
+      {
+        "merchant": "Massimo Dutti",
+        "note": "Exact black double-pleat cotton $130: lining unknown, fit unstated; size30 embedded inner leg78cm, waist83cm, SHOW. UI size confirmation unsuccessful; not an exact30×32 match.",
+        "url": "https://www.massimodutti.com/"
+      },
+      {
+        "merchant": "Hawes & Curtis",
+        "note": "Two exact black styles reviewed: Classic has polyester lining; Regular Pleated wool has unknown lining, unfinished36in and unconfirmed30 stock. Neither qualifies.",
+        "url": "https://www.hawesandcurtis.com/"
+      },
+      {
+        "merchant": "Arc’teryx",
+        "note": "Rendered pants category but exact garment composition not reviewed; technical category cannot alone prove all products synthetic.",
+        "url": "https://arcteryx.com/"
+      },
+      {
+        "merchant": "lululemon",
+        "note": "Old route404; recovered /c/men-trousers/n146jr rendered and links saved. Exact composition/black variants not reviewed, page2 not complete.",
+        "url": "https://shop.lululemon.com/"
+      },
+      {
+        "merchant": "Rains",
+        "note": "US rain-pants category rendered via redirect from supplied US route, source AU homepage retained in merchant provenance. Exact composition not yet checked; waterproof branding not fiber proof.",
+        "url": "https://www.au.rains.com/"
+      }
+    ]
+  }
+}
