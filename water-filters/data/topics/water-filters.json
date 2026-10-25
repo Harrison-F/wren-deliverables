@@ -1,0 +1,603 @@
+{
+  "id": "water-filters",
+  "layout": "natural-basics",
+  "catalog": true,
+  "title": "Water filters",
+  "summary": "",
+  "updated": "2026-10-24",
+  "defaultSort": "price",
+  "showCollectionNotes": false,
+  "recommendation": {
+    "title": "Provisional: Waterdrop C2SL",
+    "text": "Practical no-plumbing option with a glass pitcher. Advertised $159.99 coupon price; $215.98 with annual spare, or $255.98 without coupon. Shipping and coupon are not checkout-verified.",
+    "test": "NYC · $300 first-year target including filters + shipping. No candidate has verified fluoride-specific certification or a confirmed delivered first-year total. Prices below are base unit prices; scenarios are on each card."
+  },
+  "products": [
+    {
+      "id": "apec-roes50",
+      "name": "APEC ROES-50",
+      "url": "https://www.apecwater.com/products/roes-50",
+      "brand": "APEC",
+      "store": "APEC",
+      "category": "Under-sink",
+      "summary": "",
+      "verdict": "Installation alternative",
+      "unitPriceUSD": 230.99,
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "$280.94 unit + two prefilter sets (month 6 and anniversary). Installation/fittings extra and unknown. Under-sink tank RO; installation required; no electricity. No fluoride-specific certification or delivered-budget verification.",
+      "facts": {
+        "Fabric": "TFC membrane, sediment and carbon stages, plastic filter housings/tubing; faucet and pressure tank. Complete polymer/liner/seal composition unverified. Metal exterior tank does not establish metal-only water contact.",
+        "Price": "230.99 USD base unit; shipping/tax unknown",
+        "Fit": "Under-sink tank RO; installation required; no electricity",
+        "Status": "Live add-to-cart page; exact address delivery not checked"
+      },
+      "verification": {
+        "price": true,
+        "gallery": false
+      },
+      "image": "assets/images/water-apec-roes50.webp",
+      "imageAlt": "APEC ROES-50 — manufacturer hero image",
+      "images": [
+        {
+          "src": "assets/images/water-apec-roes50.webp",
+          "alt": "APEC ROES-50 — manufacturer hero image",
+          "source": "https://www.apecwater.com/cdn/shop/files/ROES-50_1MainProductImage.jpg?v=1778636784&width=2048"
+        }
+      ],
+      "imageNote": "Hero-only capture from exact manufacturer page; not a complete gallery. https://www.apecwater.com/cdn/shop/files/ROES-50_1MainProductImage.jpg?v=1778636784&width=2048",
+      "sources": [
+        "src-e0b1b65cfa76d1cb",
+        "src-99e928809696b8ed",
+        "src-c560317ccc8b6726",
+        "src-60499a3b571e018a",
+        "src-f21eae559f9bc661",
+        "src-44502af73ca44d07"
+      ],
+      "attribution": "Installation alternative. Manufacturer lists fluoride removal, but WQA live listing certifies TDS only under 58; fluoride not a listed reduction claim. Certification scope: {\"issuer\": \"WQA\", \"standard\": \"NSF/ANSI 58\", \"exact_model\": \"ROES-50\", \"listing_url\": \"https://find.wqa.org/find-products/ctl/detail/mid/1054/cid/apec_water_systems/sid/5/keyword/roes-50\", \"reduction_claims\": [\"TDS\"], \"additional_standard\": \"NSF/ANSI/CAN 372 verified in live WQA search; lead content, not fluoride\", \"independently_verified\": true} Replacement: {\"url\": \"https://www.apecwater.com/products/apec-bundle-of-2-essence-replacement-filter-set-es\", \"pack\": \"Two Essence stage 1–3 prefilter sets\", \"schedule\": \"Stages 1–3 every 6–12 months; city-water membrane every 2–4 years; stage 5 together with membrane.\", \"available\": true, \"price_usd\": 49.95} Provisional under $300 before tax/shipping; plumber or extra fittings can exceed cap and are not included. Shipping: Official shipping policy allows free shipping to contiguous 48 states, but exact order eligibility/NYC quote not checked. Tax: Tax is additional; no address-level checkout quote. No tax-inclusive budget promise. Returns: 30 days from invoice; RMA required, received within 15 days of RMA; buyer return shipping unless defect/error. Unused unopened full product refund excluding shipping; unused missing/damaged parts 15–45% restocking. Used-system terms not captured completely. Community: Exact ROES-50 owner reports adequate drinking/cooking supply for three and installation-dependent drain noise; anecdote, not performance test. Health-book full text unavailable in this research pass; podcast evidence is not a book. Retailer low-star review coverage incomplete. No independent fluoride-specific certification or delivered first-year budget verified. Hero-only images; full galleries not captured.",
+      "budgetVerified": false,
+      "firstYearPretaxUSD": null,
+      "firstYearTotalUSD": null
+    },
+    {
+      "id": "bluevua-ropot-lite",
+      "name": "Bluevua RO100ROPOT-LITE (non-UV)",
+      "url": "https://bluevua.com/products/ropot-lite-countertop-reverse-osmosis-water-system",
+      "brand": "Bluevua",
+      "store": "Bluevua",
+      "category": "Powered countertop",
+      "summary": "",
+      "verdict": "Tight / over cap",
+      "unitPriceUSD": 349,
+      "naturalPercent": null,
+      "integrityRank": 1,
+      "materialCaveat": "$295.74 unit + mineral pair only if advertised $261.75 checkout promotion works; $375.64 including annual main filter. Regular unit alone $349. Powered refill countertop RO with glass carafe; no plumbing. No fluoride-specific certification or delivered-budget verification.",
+      "facts": {
+        "Fabric": "Plastic raw-water tank and internal filter components remain; full wetted polymer list unverified. 40 oz borosilicate glass carafe",
+        "Price": "349 USD base unit; shipping/tax unknown",
+        "Fit": "Powered refill countertop RO with glass carafe; no plumbing",
+        "Status": "Live add-to-cart page; exact address delivery not checked"
+      },
+      "verification": {
+        "price": true,
+        "gallery": false
+      },
+      "image": "assets/images/water-bluevua-ropot-lite.webp",
+      "imageAlt": "Bluevua RO100ROPOT-LITE (non-UV) — manufacturer hero image",
+      "images": [
+        {
+          "src": "assets/images/water-bluevua-ropot-lite.webp",
+          "alt": "Bluevua RO100ROPOT-LITE (non-UV) — manufacturer hero image",
+          "source": "https://cdn.shopify.com/s/files/1/0687/3402/5956/files/P_ROPOT-Lite_Blue_Hydrogen.png?v=1771945714"
+        }
+      ],
+      "imageNote": "Hero-only capture from exact manufacturer page; not a complete gallery. https://cdn.shopify.com/s/files/1/0687/3402/5956/files/P_ROPOT-Lite_Blue_Hydrogen.png?v=1771945714",
+      "sources": [
+        "src-8d0e01450b5da8a8",
+        "src-570883b881053521",
+        "src-081aedcc2eef8b4b",
+        "src-d77de7d7128353d1",
+        "src-a2dbf64c116a672a",
+        "src-8882ae2575569baa"
+      ],
+      "attribution": "Tight / over cap. Manufacturer-hosted SGS report: fluoride 5.669 mg/L challenge to 0.009 mg/L, 99.84%, at startup of operating life. Useful third-party test, NOT full-life certified fluoride claim. Certification scope: {\"issuer\": \"WQA\", \"standard\": \"NSF/ANSI 58\", \"exact_model\": \"RO100ROPOT-LITE\", \"listing_url\": \"https://find.wqa.org/find-products/ctl/detail/mid/1054/cid/bluevua_inc/sid/5/keyword/bluevua\", \"reduction_claims\": [\"Cadmium\", \"Lead\", \"TDS\", \"Trivalent Chromium\"], \"fluoride_in_scope\": false, \"additional_standard\": \"372 lead content in live WQA search\", \"independently_verified\": true} Replacement: {\"mineral_url\": \"https://bluevua.com/products/bluevua-dual-pack-remineralization-filters-for-ro100ropot-lite-and-ro100ropot-liteuv\", \"main_schedule\": \"One year per official catalog\", \"main_filter_url\": \"https://bluevua.com/collections/shop-all\", \"mineral_schedule\": \"Two filters advertised as a full year; implies six-month changes.\", \"main_filter_price_usd\": 79.9, \"mineral_dual_pack_price_usd\": 33.99} Conditional $295.74 goods if discounted checkout works and anniversary main filter excluded; only $4.26 headroom before tax. $375.64 with annual main filter purchased too, so fails conservative spare-inclusive budget. Shipping: Official site advertises free every order; policy standard 5–10 business days, NY tax at checkout. No destination quote. Tax: Tax is additional; no address-level checkout quote. No tax-inclusive budget promise. Returns: 30 days delivery, direct purchases; pre-paid label after approval, refund after inspection. Shipping deductions mentioned for delivery disputes separately. 1-year warranty. Community: Unspecified Bluevua sediment anecdote cannot be attributed to this exact model. No long-term exact-model review sample established. Health-book full text unavailable in this research pass; podcast evidence is not a book. Retailer low-star review coverage incomplete. No independent fluoride-specific certification or delivered first-year budget verified. Hero-only images; full galleries not captured.",
+      "budgetVerified": false,
+      "firstYearPretaxUSD": null,
+      "firstYearTotalUSD": null
+    },
+    {
+      "id": "british-berkefeld-ultra-fluoride",
+      "name": "British Berkefeld 6L stainless gravity system + two Ultra Fluoride 8B76 elements",
+      "url": "https://doulton.com/products/british-berkefeld-stainless-steel-gravity-system-ultra-fluoride",
+      "brand": "British Berkefeld",
+      "store": "British Berkefeld",
+      "category": "Gravity",
+      "summary": "",
+      "verdict": "US sourcing / budget unresolved",
+      "unitPriceUSD": null,
+      "naturalPercent": null,
+      "integrityRank": 1,
+      "materialCaveat": "US first-year total unknown. UK exact 6L offer £205.95; replacement pair £81.95 every 6 months. US $255 base lead is NOT verified fluoride-complete. Manual fill gravity stainless steel reservoir; no install/electricity. No fluoride-specific certification or delivered-budget verification.",
+      "facts": {
+        "Fabric": "Stainless steel; ceramic filter shells Standard gravity tap, filter mounts/seals not fully characterized; optional steel tap exists. Not proven entirely plastic-free.",
+        "Price": "Unknown",
+        "Fit": "Manual fill gravity stainless steel reservoir; no install/electricity",
+        "Status": "UK exact variant verified live; US exact fluoride-system variant not verified."
+      },
+      "verification": {
+        "price": false,
+        "gallery": false
+      },
+      "image": "assets/images/water-british-berkefeld-ultra-fluoride.webp",
+      "imageAlt": "British Berkefeld 6L stainless gravity system + two Ultra Fluoride 8B76 elements — manufacturer hero image",
+      "images": [
+        {
+          "src": "assets/images/water-british-berkefeld-ultra-fluoride.webp",
+          "alt": "British Berkefeld 6L stainless gravity system + two Ultra Fluoride 8B76 elements — manufacturer hero image",
+          "source": "https://doulton.com/cdn/shop/files/6L_Gravity_System_Main_position_1.webp?v=1790602142"
+        }
+      ],
+      "imageNote": "Hero-only capture from exact manufacturer page; not a complete gallery. https://doulton.com/cdn/shop/files/6L_Gravity_System_Main_position_1.webp?v=1790602142",
+      "sources": [
+        "src-c5d0cc3bc7dcaafc",
+        "src-cfacf4e634fdf160",
+        "src-4cc29865f3c61910",
+        "src-aa68aab297be6aa9"
+      ],
+      "attribution": "US sourcing / budget unresolved. Manufacturer says up to 98.9% reduction, explicitly tested in house at nominal 1 ppm. Claims 1,950 litres at 1 ppm before replacement. Cannot substitute Ultra Sterasyl certification or combine Sterasyl and Ultra Fluoride elements. Certification scope: {\"independent_status\": \"No exact Ultra Fluoride fluoride certification verified.\", \"misleading_scope_risk\": \"US merchant homepage broad NSF claims footer identifies SS2 Ultra Sterasyl and particulate/turbidity/cysts/microplastics plus lead content—not Ultra Fluoride fluoride performance.\"} Replacement: {\"schedule\": \"Manufacturer recommends every 6 months.\", \"uk_two_pack_gbp\": 81.95, \"us_exact_filter_page_status\": 403, \"us_merchant_homepage_two_pack_usd\": 140} Not established. US merchant homepage Duchess base $255 is not verified Ultra Fluoride variant; $140 replacement pair alone makes low first-year cost implausible. Do not present $255 as fluoride-complete budget option. Shipping: UK page free >£25 applies to UK/local market, not established US delivery. US merchant homepage advertises free contiguous-US orders >$99; exact variant blocked. Tax: Tax is additional; no address-level checkout quote. No tax-inclusive budget promise. Returns: UK manufacturer 14-day return banner; US exact return terms unverified. Community: Community likes stainless storage but notes plastic candle bases; no consensus or exact-cartridge fluoride proof. Health-book full text unavailable in this research pass; podcast evidence is not a book. Retailer low-star review coverage incomplete. No independent fluoride-specific certification or delivered first-year budget verified. Hero-only images; full galleries not captured.",
+      "budgetVerified": false,
+      "firstYearPretaxUSD": null,
+      "firstYearTotalUSD": null
+    },
+    {
+      "id": "clearly-filtered-pitcher",
+      "name": "Clearly Filtered Filtered Water Pitcher",
+      "url": "https://clearlyfiltered.com/products/clean-water-pitcher",
+      "brand": "Clearly Filtered",
+      "store": "Clearly Filtered",
+      "category": "Gravity",
+      "summary": "",
+      "verdict": "Plastic / replacement-sensitive",
+      "unitPriceUSD": 110,
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "$240 at 4-month changes (two $65 replacements); $290 at 3-month changes (three-pack); $435 at 2-month changes (five singles). Manual fill gravity pitcher; no electricity or installation. No fluoride-specific certification or delivered-budget verification.",
+      "facts": {
+        "Fabric": "Proprietary filter media/housing; complete materials not disclosed. Manufacturer: BPA/BPS-free, phthalate-free medical-grade Tritan plastic. This is plastic, not glass; safety marketing is not proof of no migration.",
+        "Price": "110 USD base unit; shipping/tax unknown",
+        "Fit": "Manual fill gravity pitcher; no electricity or installation",
+        "Status": "Live add-to-cart page; exact address delivery not checked"
+      },
+      "verification": {
+        "price": true,
+        "gallery": false
+      },
+      "image": "assets/images/water-clearly-filtered-pitcher.webp",
+      "imageAlt": "Clearly Filtered Filtered Water Pitcher — manufacturer hero image",
+      "images": [
+        {
+          "src": "assets/images/water-clearly-filtered-pitcher.webp",
+          "alt": "Clearly Filtered Filtered Water Pitcher — manufacturer hero image",
+          "source": "https://clearlyfiltered.com/cdn/shop/files/NSF_Pitcher_6d406ff4-1622-448d-bcff-55fbd7da4eb8.png?v=1778681174"
+        }
+      ],
+      "imageNote": "Hero-only capture from exact manufacturer page; not a complete gallery. https://clearlyfiltered.com/cdn/shop/files/NSF_Pitcher_6d406ff4-1622-448d-bcff-55fbd7da4eb8.png?v=1778681174",
+      "sources": [
+        "src-61b17cedc2c063c6",
+        "src-34a51a93d665a335",
+        "src-ad8c48f2626d8425",
+        "src-57cbf1bf25e3fa8f",
+        "src-1b9c2e61821dc777",
+        "src-f0e51bad5d75a48e",
+        "src-83343477e06a431a",
+        "src-dc65e0fc797c2b10"
+      ],
+      "attribution": "Plastic / replacement-sensitive. Manufacturer claims fluoride targeting/reduction and independent laboratory testing. Exact fluoride report/percentage not retrieved here. Certification scope: {\"fluoride\": \"Neither claimed listed certification scope is fluoride. Other laboratory testing is not the same as NSF fluoride certification.\", \"independent_status\": \"NSF directory blocked by network; not independently verified.\", \"brand_page_explicit_scope\": [\"NSF/ANSI 42 chlorine taste/odor\", \"NSF/ANSI 372 lead-free materials\"]} Replacement: {\"urls\": [\"https://clearlyfiltered.com/products/clean-water-pitcher-replacement-filter\", \"https://clearlyfiltered.com/products/pitcher-filter-3-pack\"], \"schedule\": \"1 person 4–6 months; 2 people 3–4 months; 3+ people 2–3 months; earlier for hard/high-contaminant water.\", \"capacity_gallons\": 100, \"single_price_usd\": 65, \"three_pack_price_usd\": 180} One-person $240 goods plausible; two-person $290 goods leaves only $10 for shipping before tax, so not confirmed budget fit. Larger use exceeds budget. No subscription assumed. Shipping: Autoship orders free US shipping; one-time shipping order-total dependent. Rate table not extractable; unknown. Dispatch 1–3 business days + delivery 5–10 business days. Tax: Tax is additional; no address-level checkout quote. No tax-inclusive budget promise. Returns: 30 days after purchase; shipping nonrefundable, proof of purchase required, direct purchases only; used filters not eligible. Limited lifetime product warranty, not filter-life guarantee. Community: Mixed owner reports: premature slow flow, leaking, mold/support complaints, alongside satisfied year-plus use. Self-reported, not failure rates. Huberman transcript directly names Clearly Filtered at 99:09; his contemporaneous no-affiliation statement is not current certification. Health-book full text unavailable in this research pass; podcast evidence is not a book. Retailer low-star review coverage incomplete. No independent fluoride-specific certification or delivered first-year budget verified. Hero-only images; full galleries not captured.",
+      "budgetVerified": false,
+      "firstYearPretaxUSD": null,
+      "firstYearTotalUSD": null
+    },
+    {
+      "id": "dreo-112",
+      "name": "DREO RO Water Filter 112 (White or Gray)",
+      "url": "https://www.dreo.com/products/ro-water-filter-112",
+      "brand": "Dreo",
+      "store": "Dreo",
+      "category": "Powered countertop",
+      "summary": "",
+      "verdict": "Glass upgrade option",
+      "unitPriceUSD": 169.99,
+      "naturalPercent": null,
+      "integrityRank": 1,
+      "materialCaveat": "$219.98 unit + spare bundle; $249.97 with glass. $257.97 including advertised accessory shipping, NOT a checkout quote. Powered refill countertop RO; no plumbing. No fluoride-specific certification or delivered-budget verification.",
+      "facts": {
+        "Fabric": "Standard pitcher plastic per historical lead; current textual page does not specify polymer. Compatible borosilicate glass pitcher independently live-verified at $29.99. Raw tank, filter housing, membrane and internal pathways not fully specified; NOT plastic-free.",
+        "Price": "169.99 USD base unit; shipping/tax unknown",
+        "Fit": "Powered refill countertop RO; no plumbing",
+        "Status": "Live add-to-cart page; exact address delivery not checked"
+      },
+      "verification": {
+        "price": true,
+        "gallery": false
+      },
+      "image": "assets/images/water-dreo-112.webp",
+      "imageAlt": "DREO RO Water Filter 112 (White or Gray) — manufacturer hero image",
+      "images": [
+        {
+          "src": "assets/images/water-dreo-112.webp",
+          "alt": "DREO RO Water Filter 112 (White or Gray) — manufacturer hero image",
+          "source": "https://www.dreo.com/cdn/shop/files/1_e0446927-dfd1-4ab2-8473-5f1575c90cbc.png?v=1770111227&width=2048"
+        }
+      ],
+      "imageNote": "Hero-only capture from exact manufacturer page; not a complete gallery. https://www.dreo.com/cdn/shop/files/1_e0446927-dfd1-4ab2-8473-5f1575c90cbc.png?v=1770111227&width=2048",
+      "sources": [
+        "src-9de39121667b9ff6",
+        "src-76f0ae232c6333b8",
+        "src-f45dc5398591c397",
+        "src-770dec50a2fd50dd",
+        "src-753ac2fd0f207be1"
+      ],
+      "attribution": "Glass upgrade option. No exact current fluoride percentage or contaminant-specific independent listing verified. Broad 99.99% contaminants marketing must not be restated as a fluoride result. Certification scope: {\"NSF\": \"Direct directory inaccessible; no verified listing.\", \"WQA_exact_search\": \"No result for Dreo; not proof of no certification anywhere.\"} Replacement: {\"schedule\": \"Historical lead 6–12 months; not confirmed in current extracted manufacturer text. Budget one replacement conservatively; volume-dependent life remains unknown.\", \"product_url\": \"https://www.dreo.com/products/ro-water-filter-112-113-114-115-replacement-filter\", \"double_available\": true, \"single_available\": false, \"single_price_usd\": 49.99, \"better_bundle_url\": \"https://www.dreo.com/products/ro-water-filter-112-with-replacement-filter\", \"double_pack_price_usd\": 79.99, \"unit_plus_one_spare_usd\": 219.98} Provisional under $300 before tax; exact replacement interval still a gap. Shipping: Unit advertises free US shipping, 3–7 business days. Glass accessory explicitly adds $8 per accessory type. Do not assume loose replacements ship free. Tax: Tax is additional; no address-level checkout quote. No tax-inclusive budget promise. Returns: 30 days undamaged; buyer pays non-defective return shipping; refund after inspection. 12-month defects/workmanship warranty. Community: No usable exact-model long-term owner evidence retrieved. Single $49.99 spare unavailable; buyable bundle/two-pack matters. Health-book full text unavailable in this research pass; podcast evidence is not a book. Retailer low-star review coverage incomplete. No independent fluoride-specific certification or delivered first-year budget verified. Hero-only images; full galleries not captured.",
+      "budgetVerified": false,
+      "firstYearPretaxUSD": null,
+      "firstYearTotalUSD": null
+    },
+    {
+      "id": "ispring-rcc7",
+      "name": "iSpring RCC7 75 GPD, brushed nickel faucet",
+      "url": "https://www.ispringfilter.com/products/5-stage-essence-ro-water-filtration-system-ispring-rcc7-5-stage-residential-under-sink-reverse-osmosis-water-filter-system-wqa-certified-75-gpd",
+      "brand": "iSpring",
+      "store": "iSpring",
+      "category": "Under-sink",
+      "summary": "",
+      "verdict": "Installation alternative",
+      "unitPriceUSD": 229.99,
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "$267.98 unit + one F4 pack at month 6; $305.97 with a second at anniversary. Installation extra and unknown. Under-sink tank RO; installation required. No fluoride-specific certification or delivered-budget verification.",
+      "facts": {
+        "Fabric": "Transparent first filter housing, food-grade tubing, RO membrane, carbon stages, storage tank and lead-free faucet. Complete plastics, tank bladder, and seals not disclosed.",
+        "Price": "229.99 USD base unit; shipping/tax unknown",
+        "Fit": "Under-sink tank RO; installation required",
+        "Status": "Live add-to-cart page; exact address delivery not checked"
+      },
+      "verification": {
+        "price": true,
+        "gallery": false
+      },
+      "image": "assets/images/water-ispring-rcc7.webp",
+      "imageAlt": "iSpring RCC7 75 GPD, brushed nickel faucet — manufacturer hero image",
+      "images": [
+        {
+          "src": "assets/images/water-ispring-rcc7.webp",
+          "alt": "iSpring RCC7 75 GPD, brushed nickel faucet — manufacturer hero image",
+          "source": "https://www.ispringfilter.com/cdn/shop/files/1.jpg?v=1780992054"
+        }
+      ],
+      "imageNote": "Hero-only capture from exact manufacturer page; not a complete gallery. https://www.ispringfilter.com/cdn/shop/files/1.jpg?v=1780992054",
+      "sources": [
+        "src-aa0e26c3fc9e69dd",
+        "src-3eaafd53471d44fd",
+        "src-9ecacdc4ac46790f",
+        "src-5d0048dfb5a28c3a"
+      ],
+      "attribution": "Installation alternative. Brand FAQ claims up to 99% fluoride reduction and explicitly describes NSF/ANSI 58 certification as TDS reduction. Independent NSF directory unavailable, so exact certification status/scope not independently confirmed. Certification scope: {\"brand_claim\": \"NSF/ANSI 58 full-system, TDS reduction\", \"independent_status\": \"Unverified: NSF network unreachable, WQA RCC7 query returned no rows (not the claimed NSF issuer).\"} Replacement: {\"url\": \"https://www.ispringfilter.com/products/ispring-f4-4-pk-ro-filter-replacement-kit-for-5-stage-reverse-osmosis-white-4-piece\", \"pack\": \"F4 four-cartridge prefilter + postcarbon pack\", \"schedule\": \"FP15, FG15, FC15, FT15 every 6–12 months; MC7 membrane 2–3 years.\", \"available\": true, \"price_usd\": 37.99} $267.98 goods for first 12 months; $305.97 if buying a second six-month pack at anniversary. Installation costs extra/unknown. Shipping: Official policy says all contiguous-48 orders free shipping, delivery 2–5 business days after dispatch; not an address-tested quote. Tax: Tax is additional; no address-level checkout quote. No tax-inclusive budget promise. Returns: 30 days purchase; unopened unused full refund. Open unused nondefective 15% restocking; used nondefective not eligible under stated conditions. Buyer pays return shipping except confirmed defects. Community: No exact-model owner reliability sample established in this pass. Health-book full text unavailable in this research pass; podcast evidence is not a book. Retailer low-star review coverage incomplete. No independent fluoride-specific certification or delivered first-year budget verified. Hero-only images; full galleries not captured.",
+      "budgetVerified": false,
+      "firstYearPretaxUSD": null,
+      "firstYearTotalUSD": null
+    },
+    {
+      "id": "waterdrop-c2sl",
+      "name": "Waterdrop WD-C2SL with glass pitcher",
+      "url": "https://www.waterdropfilter.com/products/countertop-mineral-reverse-osmosis-system-c2sl",
+      "brand": "Waterdrop",
+      "store": "Waterdrop",
+      "category": "Powered countertop",
+      "summary": "",
+      "verdict": "Provisional practical pick",
+      "unitPriceUSD": 199.99,
+      "naturalPercent": null,
+      "integrityRank": 1,
+      "materialCaveat": "$159.99 with advertised WDC2SL code; $215.98 with annual spare. No-code unit + spare $255.98. Coupon not checkout-tested. Powered refill countertop mineral RO; no plumbing. No fluoride-specific certification or delivered-budget verification.",
+      "facts": {
+        "Fabric": "Glass pitcher Complete tank, lid, filter housing, membrane and internal-tubing materials not disclosed in inspected text; not plastic-free.",
+        "Price": "199.99 USD base unit; shipping/tax unknown",
+        "Fit": "Powered refill countertop mineral RO; no plumbing",
+        "Status": "Live add-to-cart page; exact address delivery not checked"
+      },
+      "verification": {
+        "price": true,
+        "gallery": false
+      },
+      "image": "assets/images/water-waterdrop-c2sl.webp",
+      "imageAlt": "Waterdrop WD-C2SL with glass pitcher — manufacturer hero image",
+      "images": [
+        {
+          "src": "assets/images/water-waterdrop-c2sl.webp",
+          "alt": "Waterdrop WD-C2SL with glass pitcher — manufacturer hero image",
+          "source": "https://www.waterdropfilter.com/cdn/shop/files/ui-wd-c2sl-product-vis.png?v=1781515821"
+        }
+      ],
+      "imageNote": "Hero-only capture from exact manufacturer page; not a complete gallery. https://www.waterdropfilter.com/cdn/shop/files/ui-wd-c2sl-product-vis.png?v=1781515821",
+      "sources": [
+        "src-ee44d8f589116ab1",
+        "src-30aef53b3605a879",
+        "src-7c4e1e7622737d6a",
+        "src-8ae456be71334887",
+        "src-20d1420341ff2207"
+      ],
+      "attribution": "Provisional practical pick. Brand FAQ says fluoride reduction; SGS testing limited to 10 unit volumes, actual performance varies. No extracted numeric fluoride percentage. Certification scope: {\"NSF\": \"Directory unreachable.\", \"WQA_exact_search\": \"C2SL returned no rows.\", \"historical_372_claim\": \"Not independently confirmed. Even if established, 372 concerns lead content, not fluoride reduction.\", \"current_product_comparison\": \"C2SL certification column is a dash; M6SL adjacent column has NSF/ANSI 58 & 372. Do not transpose M6SL certification onto C2SL.\"} Replacement: {\"sku\": \"C2RFL\", \"schedule\": \"12 months / 528 gallons; actual life depends on water/use\", \"available\": true, \"price_usd\": 55.99, \"product_url\": \"https://www.waterdropfilter.com/products/waterdrop-c2rfl-filter-replacement-for-waterdrop-c2sl-ro-system\"} Provisional under $300 even at undiscounted unit + spare, before tax and unconfirmed checkout shipping. Shipping: Product policy advertises economy free in US, 4–8 business days; standard $5.99 or free over $200. No NYC ZIP checkout performed. Tax: Tax is additional; no address-level checkout quote. No tax-inclusive budget promise. Returns: Product promises 30-day returns and 1-year warranty. Detailed fees/used-filter eligibility not successfully recovered; do not call free return shipping confirmed. Community: Older K19 complaints are not C2SL evidence. No long-term exact C2SL owner sample established. Health-book full text unavailable in this research pass; podcast evidence is not a book. Retailer low-star review coverage incomplete. No independent fluoride-specific certification or delivered first-year budget verified. Hero-only images; full galleries not captured.",
+      "budgetVerified": false,
+      "firstYearPretaxUSD": null,
+      "firstYearTotalUSD": null
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-e0b1b65cfa76d1cb",
+      "url": "https://www.apecwater.com/products/roes-50",
+      "title": "Product page",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-99e928809696b8ed",
+      "url": "https://www.apecwater.com/products/apec-bundle-of-2-essence-replacement-filter-set-es",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-c560317ccc8b6726",
+      "url": "https://cdn.shopify.com/s/files/1/0674/1304/9597/files/ROES-50-V7.3.pdf?v=1765914531",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-60499a3b571e018a",
+      "url": "https://find.wqa.org/find-products/ctl/detail/mid/1054/cid/apec_water_systems/sid/5/keyword/roes-50",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-f21eae559f9bc661",
+      "url": "https://www.apecwater.com/pages/shipping",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-44502af73ca44d07",
+      "url": "https://www.reddit.com/r/WaterTreatment/comments/16dka2x/apec_roes50_vs_roes100/",
+      "title": "Replacement / policy / evidence source",
+      "type": "Community / podcast",
+      "note": "Historical/community source; reviewed October 24, 2026. Exact observation time unavailable."
+    },
+    {
+      "id": "src-8d0e01450b5da8a8",
+      "url": "https://bluevua.com/products/ropot-lite-countertop-reverse-osmosis-water-system",
+      "title": "Product page",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-570883b881053521",
+      "url": "https://find.wqa.org/find-products/ctl/detail/mid/1054/cid/bluevua_inc/sid/5/keyword/bluevua",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-081aedcc2eef8b4b",
+      "url": "https://cdn.shopify.com/s/files/1/0687/3402/5956/files/Bluevua_WQA_Gold_Seal_Certificate_Oct_2025.pdf?v=1760589307",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-d77de7d7128353d1",
+      "url": "https://cdn.shopify.com/s/files/1/0687/3402/5956/files/ROPOT-Lite_SGS_Total_colifoms_Escherichia_coli_bacteriophage_MS2_Lead_Pb_Arsenic_As_ColorTurbidity_Fluoride_Dissociate_chlorine_residue_Reduction_Test_Results.PDF?v=1717054723",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-a2dbf64c116a672a",
+      "url": "https://bluevua.com/products/bluevua-dual-pack-remineralization-filters-for-ro100ropot-lite-and-ro100ropot-liteuv",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-8882ae2575569baa",
+      "url": "https://bluevua.com/pages/shipping-returns-policy",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-c5d0cc3bc7dcaafc",
+      "url": "https://doulton.com/products/british-berkefeld-stainless-steel-gravity-system-ultra-fluoride",
+      "title": "Product page",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-cfacf4e634fdf160",
+      "url": "https://doulton.com/products/ultra-fluoride-8b76-for-british-berkefeld-stainless-steel-gravity-system",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-4cc29865f3c61910",
+      "url": "https://www.britishwaterfilter.com/",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-aa68aab297be6aa9",
+      "url": "https://www.reddit.com/r/PlasticFreeLiving/comments/1lva2h4/i_feel_like_the_doulton_british_berkefeld_or_ro/",
+      "title": "Replacement / policy / evidence source",
+      "type": "Community / podcast",
+      "note": "Historical/community source; reviewed October 24, 2026. Exact observation time unavailable."
+    },
+    {
+      "id": "src-61b17cedc2c063c6",
+      "url": "https://clearlyfiltered.com/products/clean-water-pitcher",
+      "title": "Product page",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-34a51a93d665a335",
+      "url": "https://clearlyfiltered.com/products/clean-water-pitcher-replacement-filter",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-ad8c48f2626d8425",
+      "url": "https://clearlyfiltered.com/products/pitcher-filter-3-pack",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-57cbf1bf25e3fa8f",
+      "url": "https://clearlyfiltered.com/pages/shipping-information",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-1b9c2e61821dc777",
+      "url": "https://clearlyfiltered.com/pages/return-warranty-policy",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-f0e51bad5d75a48e",
+      "url": "https://www.reddit.com/r/WaterTreatment/comments/11b0r8i/debunking_clearlyfiltered/",
+      "title": "Replacement / policy / evidence source",
+      "type": "Community / podcast",
+      "note": "Historical/community source; reviewed October 24, 2026. Exact observation time unavailable."
+    },
+    {
+      "id": "src-83343477e06a431a",
+      "url": "https://x.com/theNOBSdentist/status/1625135786407370752",
+      "title": "Replacement / policy / evidence source",
+      "type": "Community / podcast",
+      "note": "Historical/community source; reviewed October 24, 2026. Exact observation time unavailable."
+    },
+    {
+      "id": "src-dc65e0fc797c2b10",
+      "url": "https://www.youtube.com/watch?v=at37Y8rKDlA&t=5949s",
+      "title": "Replacement / policy / evidence source",
+      "type": "Community / podcast",
+      "note": "Historical/community source; reviewed October 24, 2026. Exact observation time unavailable."
+    },
+    {
+      "id": "src-9de39121667b9ff6",
+      "url": "https://www.dreo.com/products/ro-water-filter-112",
+      "title": "Product page",
+      "type": "Community / podcast",
+      "note": "Historical/community source; reviewed October 24, 2026. Exact observation time unavailable."
+    },
+    {
+      "id": "src-76f0ae232c6333b8",
+      "url": "https://www.dreo.com/products/ro-water-filter-112-113-114-115-replacement-filter",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-f45dc5398591c397",
+      "url": "https://www.dreo.com/products/autofill-glass-pitcher",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-770dec50a2fd50dd",
+      "url": "https://www.dreo.com/products/ro-water-filter-112-with-replacement-filter",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-753ac2fd0f207be1",
+      "url": "https://www.dreo.com/policies/shipping-policy",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-aa0e26c3fc9e69dd",
+      "url": "https://www.ispringfilter.com/products/5-stage-essence-ro-water-filtration-system-ispring-rcc7-5-stage-residential-under-sink-reverse-osmosis-water-filter-system-wqa-certified-75-gpd",
+      "title": "Product page",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-3eaafd53471d44fd",
+      "url": "https://www.ispringfilter.com/products/ispring-f4-4-pk-ro-filter-replacement-kit-for-5-stage-reverse-osmosis-white-4-piece",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-9ecacdc4ac46790f",
+      "url": "https://www.ispringfilter.com/policies/shipping-policy",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-5d0048dfb5a28c3a",
+      "url": "https://www.ispringfilter.com/policies/refund-policy",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-ee44d8f589116ab1",
+      "url": "https://www.waterdropfilter.com/products/countertop-mineral-reverse-osmosis-system-c2sl",
+      "title": "Product page",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-30aef53b3605a879",
+      "url": "https://www.waterdropfilter.com/products/waterdrop-c2rfl-filter-replacement-for-waterdrop-c2sl-ro-system",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-7c4e1e7622737d6a",
+      "url": "https://www.waterdropfilter.com/pages/nsf",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-8ae456be71334887",
+      "url": "https://cdn.shopify.com/s/files/1/0078/6156/7570/files/WD-C2SL-User-Manual.pdf?v=1785908470",
+      "title": "Replacement / policy / evidence source",
+      "type": "Manufacturer or certifier",
+      "note": "Observed 2026-10-25 01:55:45.074653+00:00"
+    },
+    {
+      "id": "src-20d1420341ff2207",
+      "url": "https://www.reddit.com/r/WaterTreatment/comments/15ikvms/what_are_your_thoughts_on_water_drop_k19_vs/",
+      "title": "Replacement / policy / evidence source",
+      "type": "Community / podcast",
+      "note": "Historical/community source; reviewed October 24, 2026. Exact observation time unavailable."
+    }
+  ]
+}
