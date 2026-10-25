@@ -1,3 +1,11 @@
+/* Private clinical topic opt-in; all other topics retain their reviewed styles. */
+body.clinical-catalog .research-recommendation {display:block;max-width:1050px;border-left-color:#9b2727;}
+body.clinical-catalog .research-recommendation p {color:var(--ink);font-size:15px;line-height:1.5;}
+body.clinical-catalog .research-recommendation h2 {font-size:25px;}
+body.clinical-catalog .card-body>.clinical-status {font-weight:700;font-size:14px;}
+body.clinical-catalog .card-body>.clinical-caution {color:#852b27;font-size:14px;}
+body.clinical-catalog .display-card,body.clinical-catalog .card-body {min-width:0;overflow-wrap:anywhere;}
+
 .research .missing-product-image {display:flex;align-items:center;justify-content:center;flex-direction:column;height:100%;padding:24px;text-align:center;box-sizing:border-box;}
 .research .display-template {grid-template-columns:repeat(2,minmax(0,1fr));}
 @media(max-width:600px){.research .display-template {grid-template-columns:minmax(0,1fr);}}

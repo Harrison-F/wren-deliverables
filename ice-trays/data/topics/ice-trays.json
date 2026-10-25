@@ -5,7 +5,9 @@
   "title": "Non-plastic ice trays",
   "summary": "",
   "updated": "2026-10-24",
-  "defaultSort": "price",
+  "defaultSort": "curated",
+  "defaultOrderProductIds": ["onyx-ice001", "captain-cranberry", "ecozoi-standard", "rsvp-ice18"],
+  "recommendationOrderNote": "Reviewed top pick first; remaining alternatives retain source order, not a proven best-to-worst ranking.",
   "showCollectionNotes": false,
   "recommendation": {
     "title": "Pick: Onyx ICE001",

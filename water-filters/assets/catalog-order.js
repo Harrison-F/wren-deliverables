@@ -13,7 +13,7 @@ var CatalogOrder = (() => {
   const status=document.createElement('span');status.className='sr-only';status.setAttribute('role','status');grid.before(status);
   const bar=document.querySelector('.research-sort');
   const manualButton=document.createElement('button');manualButton.type='button';manualButton.dataset.sort='manual';manualButton.textContent='My order';manualButton.title='Saved in this browser only';manualButton.setAttribute('aria-pressed','false');
-  const reset=document.createElement('button');reset.type='button';reset.className='order-reset';reset.textContent='Reset order';reset.title=topic.defaultSort==='curated'?'Clear this browser’s saved order and restore shared Checkpoint 1 default order':'Clear this browser’s saved order and restore the default';bar.append(manualButton,reset);
+  const reset=document.createElement('button');reset.type='button';reset.className='order-reset';reset.textContent='Reset order';reset.title=topic.defaultSort==='curated'?'Clear this browser’s saved order and restore reviewed top-recommendation order':'Clear this browser’s saved order and restore the default';bar.append(manualButton,reset);
   function ordered(){return [...grid.children].filter(el=>el.dataset.productId).map(el=>el.dataset.productId);}
   function setPressed(){bar.querySelectorAll('[data-sort]').forEach(b=>b.setAttribute('aria-pressed',String(b===manualButton)));}
   function arrange(order){order.forEach(id=>grid.append(nodes.get(id)));updateHandles();}

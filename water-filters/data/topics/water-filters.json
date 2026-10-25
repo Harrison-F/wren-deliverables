@@ -5,7 +5,9 @@
   "title": "Water filters",
   "summary": "",
   "updated": "2026-10-24",
-  "defaultSort": "price",
+  "defaultSort": "curated",
+  "defaultOrderProductIds": ["waterdrop-c2sl", "apec-roes50", "bluevua-ropot-lite", "british-berkefeld-ultra-fluoride", "clearly-filtered-pitcher", "dreo-112", "ispring-rcc7"],
+  "recommendationOrderNote": "Reviewed top pick first; remaining alternatives retain source order, not a proven best-to-worst ranking.",
   "showCollectionNotes": false,
   "recommendation": {
     "title": "Provisional: Waterdrop C2SL",

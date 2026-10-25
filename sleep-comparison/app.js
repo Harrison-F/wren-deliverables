@@ -29,9 +29,24 @@ document.getElementById('back-top').addEventListener('click',e=>{e.preventDefaul
 setTab(location.hash.slice(1),false);
 fetch('data.json?v=3').then(response=>{if(!response.ok)throw new Error('Comparison data unavailable');return response.json();}).then(data=>{
  if(data.mattresses.length!==4 || data.bedding.length!==4) throw new Error('Incomplete comparison');
- document.getElementById('mattress-grid').innerHTML=data.mattresses.map(card).join('');
- document.getElementById('bedding-grid').innerHTML=data.bedding.map(card).join('');
- document.getElementById('accessory-grid').innerHTML=data.accessories.map(card).join('');
+ const groups = {mattresses:'mattress-grid', bedding:'bedding-grid', accessories:'accessory-grid'};
+ for (const [group, gridId] of Object.entries(groups)) {
+  const grid = document.getElementById(gridId);
+  const controls = document.createElement('div');
+  controls.style.cssText='display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:12px 0';
+  controls.innerHTML = `<label>Sort ${esc(group)} <select aria-label="Sort ${esc(group)}" style="min-height:44px;max-width:100%;font:inherit"><option value="recommendation">Top recommendation</option><option value="price">Price: low to high</option></select></label>`;
+  grid.before(controls);
+  const render = () => {
+   const items = [...data[group]];
+   const ids = data.defaultOrderProductIds[group];
+   if(controls.querySelector('select').value==='price') items.sort((a,b)=>(a.price_usd ?? Infinity)-(b.price_usd ?? Infinity));
+   else items.sort((a,b)=>ids.indexOf(a.id)-ids.indexOf(b.id));
+   grid.innerHTML = items.map(card).join('');
+  };
+  controls.querySelector('select').addEventListener('change',render);
+  render();
+ }
+ const note=document.createElement('p');note.textContent=data.ordering_note;note.style.cssText='line-height:1.6;margin:16px 0';document.querySelector('.tabs').after(note);
  if(data.mattress_summary)document.getElementById('mattress-summary').textContent=data.mattress_summary;
  if(data.bedding_summary)document.getElementById('bedding-summary').textContent=data.bedding_summary;
  document.getElementById('context-content').innerHTML=(data.context || []).map(p=>`<p>${esc(p)}</p>`).join('');
