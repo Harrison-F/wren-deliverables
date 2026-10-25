@@ -2,7 +2,7 @@
   "id": "refined-taste-pants",
   "title": "Refined-taste black trousers",
   "summary": "",
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "layout": "natural-basics",
   "catalog": true,
   "showCollectionNotes": false,
@@ -268,6 +268,67 @@
       "attribution": "Core merchant; manufacturer claims, not independently tested.",
       "image": "assets/images/refined-asket-1.webp",
       "imageAlt": "The Linen Trousers — retailer black gallery 1"
+    },
+    {
+      "attribution": "Core merchant; first-party composition, US price and size-chart evidence.",
+      "brand": "Études",
+      "color": "Black",
+      "facts": {
+        "Availability": "EU44 / Black in stock on US storefront",
+        "Deal": "$99 sale; displayed original $492",
+        "Eligibility": "Sizing near match, not verified30×32",
+        "Fabric": "100% cotton",
+        "Fit": "Regular fit; medium rise; EU44/XS chart waist approximately30in",
+        "Size": "EU44 / XS; 38cm flat waist ≈29.9in around; 107.5cm total length, not inseam",
+        "Status": "In stock; inseam unpublished"
+      },
+      "id": "refined-etudes-regular-chino-black",
+      "image": "assets/images/refined-etudes-regular-chino-black-1.webp",
+      "imageAlt": "Études Regular Chino Pant Black — retailer gallery 1",
+      "imageNote": "Complete five-image exact-black retailer gallery. No independent garment testing.",
+      "images": [
+        {
+          "alt": "Études Regular Chino Pant Black — retailer gallery 1",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/0936/6338/files/H24MMTRO460-96.jpg?v=1725634087",
+          "src": "assets/images/refined-etudes-regular-chino-black-1.webp"
+        },
+        {
+          "alt": "Études Regular Chino Pant Black — retailer gallery 2",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/0936/6338/files/H24MMTRO460-96_REGULAR_CHINO_PANT_BLACK_2.jpg?v=1744878701",
+          "src": "assets/images/refined-etudes-regular-chino-black-2.webp"
+        },
+        {
+          "alt": "Études Regular Chino Pant Black — retailer gallery 3",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/0936/6338/files/H24MMTRO460-96_REGULAR_CHINO_PANT_BLACK_1.jpg?v=1744878701",
+          "src": "assets/images/refined-etudes-regular-chino-black-3.webp"
+        },
+        {
+          "alt": "Études Regular Chino Pant Black — retailer gallery 4",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/0936/6338/files/H24MMTRO460-96_REGULAR_CHINO_PANT_BLACK_4.jpg?v=1725634082",
+          "src": "assets/images/refined-etudes-regular-chino-black-4.webp"
+        },
+        {
+          "alt": "Études Regular Chino Pant Black — retailer gallery 5",
+          "sourceURL": "https://cdn.shopify.com/s/files/1/0936/6338/files/H24MMTRO460-96_REGULAR_CHINO_PANT_BLACK_3.jpg?v=1725634082",
+          "src": "assets/images/refined-etudes-regular-chino-black-5.webp"
+        }
+      ],
+      "integrityRank": 0,
+      "materialCaveat": "EU44 / XS: 38cm flat waist ≈29.9in around; total length107.5cm, inseam unpublished. Not exact30×32.",
+      "name": "Regular Chino Pant Black",
+      "naturalPercent": 100,
+      "store": "Études",
+      "summary": "",
+      "url": "https://www.etudes-studio.com/products/regular-chino-pant-black",
+      "verdict": "Sizing near match",
+      "unitPriceUSD": 99,
+      "matchClass": "near",
+      "merchantLane": "core",
+      "category": "Sizing near matches",
+      "sources": [
+        "5ebae3def78d8a6ff41671f0",
+        "8c3e9f4c5a0688834d4fb920"
+      ]
     }
   ],
   "sources": [
@@ -302,12 +363,28 @@
       "accessed": "2026-10-24",
       "type": "First-party product page",
       "note": "Observed 2026-10-24. Exact black gallery; material and size limitations shown on card."
+    },
+    {
+      "id": "5ebae3def78d8a6ff41671f0",
+      "title": "REGULAR CHINO PANT BLACK — retailer evidence",
+      "url": "https://www.etudes-studio.com/products/regular-chino-pant-black.js",
+      "accessed": "2026-10-25",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-25. Exact black gallery; material and size limitations shown on card."
+    },
+    {
+      "id": "8c3e9f4c5a0688834d4fb920",
+      "title": "REGULAR CHINO PANT BLACK — retailer evidence",
+      "url": "https://www.etudes-studio.com/products/regular-chino-pant-black",
+      "accessed": "2026-10-25",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-25. Exact black gallery; material and size limitations shown on card."
     }
   ],
   "refinedResearch": {
     "qualified": 0,
-    "sizingNear": 0,
-    "scope": "All 22 core merchants attempted: 17 partial reviews, 4 access-blocked, 1 unresolved regional route. No merchant has documented exhaustive catalog coverage.",
+    "sizingNear": 1,
+    "scope": "Catalog review remains in progress. Yitai has documented accessible-snapshot completion; other merchants retain explicit coverage gaps. Feed counts and native-search pagination do not alone establish complete review.",
     "criteria": "Black dress pants · 30×32 · ≤$240 · regular/straight/relaxed · verified natural main fabric · no disclosed synthetic lining",
     "relationships": [
       {
@@ -384,7 +461,7 @@
       },
       {
         "merchant": "Études",
-        "note": "Correct /collections/trousers captured; pages2 and3 remain. Primarily cargo/jeans shown; no full style review.",
+        "note": "Complete567-product feed captured; trousers category3 pages and native trousers5/pants9 pages traversed. Thirteen exact black suit/chino/short candidates inspected: most suit fabrics contain polyester; Casual Pant has conflicting100%cotton description versus99%cotton1%elastane care label. Regular Chino Black added as US$99 sizing-near, EU44 approx30in waist, inseam unpublished. Remaining nonblack/color and suits-category reconciliation pending.",
         "url": "https://www.etudes-studio.com/",
         "coverageStatus": "partial review"
       },
