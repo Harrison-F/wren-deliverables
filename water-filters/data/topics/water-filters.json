@@ -10,7 +10,7 @@
   "recommendation": {
     "title": "Provisional: Waterdrop C2SL",
     "text": "Practical no-plumbing option with a glass pitcher. Advertised $159.99 coupon price; $215.98 with annual spare, or $255.98 without coupon. Shipping and coupon are not checkout-verified.",
-    "test": "NYC · $300 first-year target including filters + shipping. No candidate has verified fluoride-specific certification or a confirmed delivered first-year total. Prices below are base unit prices; scenarios are on each card."
+    "test": "NYC 10016 · $300 first-year target including filters + shipping. No candidate has verified fluoride-specific certification or a confirmed delivered first-year total. Prices below are base unit prices; scenarios are on each card."
   },
   "products": [
     {
@@ -25,7 +25,7 @@
       "unitPriceUSD": 230.99,
       "naturalPercent": null,
       "integrityRank": 0,
-      "materialCaveat": "$280.94 unit + two prefilter sets (month 6 and anniversary). Installation/fittings extra and unknown. Under-sink tank RO; installation required; no electricity. No fluoride-specific certification or delivered-budget verification.",
+      "materialCaveat": "Installation alternative. $280.94 unit + two prefilter sets (month 6 and anniversary). Installation/fittings extra and unknown. Under-sink tank RO; installation required; no electricity. No fluoride-specific certification or delivered-budget verification.",
       "facts": {
         "Fabric": "TFC membrane, sediment and carbon stages, plastic filter housings/tubing; faucet and pressure tank. Complete polymer/liner/seal composition unverified. Metal exterior tank does not establish metal-only water contact.",
         "Price": "230.99 USD base unit; shipping/tax unknown",
@@ -71,7 +71,7 @@
       "unitPriceUSD": 349,
       "naturalPercent": null,
       "integrityRank": 1,
-      "materialCaveat": "$295.74 unit + mineral pair only if advertised $261.75 checkout promotion works; $375.64 including annual main filter. Regular unit alone $349. Powered refill countertop RO with glass carafe; no plumbing. No fluoride-specific certification or delivered-budget verification.",
+      "materialCaveat": "Tight / over cap. $295.74 unit + mineral pair only if advertised $261.75 checkout promotion works; $375.64 including annual main filter. Regular unit alone $349. Powered refill countertop RO with glass carafe; no plumbing. No fluoride-specific certification or delivered-budget verification.",
       "facts": {
         "Fabric": "Plastic raw-water tank and internal filter components remain; full wetted polymer list unverified. 40 oz borosilicate glass carafe",
         "Price": "349 USD base unit; shipping/tax unknown",
@@ -117,7 +117,7 @@
       "unitPriceUSD": null,
       "naturalPercent": null,
       "integrityRank": 1,
-      "materialCaveat": "US first-year total unknown. UK exact 6L offer £205.95; replacement pair £81.95 every 6 months. US $255 base lead is NOT verified fluoride-complete. Manual fill gravity stainless steel reservoir; no install/electricity. No fluoride-specific certification or delivered-budget verification.",
+      "materialCaveat": "US sourcing / budget unresolved. US first-year total unknown. UK exact 6L offer £205.95; replacement pair £81.95 every 6 months. US $255 base lead is NOT verified fluoride-complete. Manual fill gravity stainless steel reservoir; no install/electricity. No fluoride-specific certification or delivered-budget verification.",
       "facts": {
         "Fabric": "Stainless steel; ceramic filter shells Standard gravity tap, filter mounts/seals not fully characterized; optional steel tap exists. Not proven entirely plastic-free.",
         "Price": "Unknown",
@@ -161,7 +161,7 @@
       "unitPriceUSD": 110,
       "naturalPercent": null,
       "integrityRank": 0,
-      "materialCaveat": "$240 at 4-month changes (two $65 replacements); $290 at 3-month changes (three-pack); $435 at 2-month changes (five singles). Manual fill gravity pitcher; no electricity or installation. No fluoride-specific certification or delivered-budget verification.",
+      "materialCaveat": "Plastic / replacement-sensitive. $240 at 4-month changes (two $65 replacements); $290 at 3-month changes (three-pack); $435 at 2-month changes (five singles). Manual fill gravity pitcher; no electricity or installation. No fluoride-specific certification or delivered-budget verification.",
       "facts": {
         "Fabric": "Proprietary filter media/housing; complete materials not disclosed. Manufacturer: BPA/BPS-free, phthalate-free medical-grade Tritan plastic. This is plastic, not glass; safety marketing is not proof of no migration.",
         "Price": "110 USD base unit; shipping/tax unknown",
@@ -209,7 +209,7 @@
       "unitPriceUSD": 169.99,
       "naturalPercent": null,
       "integrityRank": 1,
-      "materialCaveat": "$219.98 unit + spare bundle; $249.97 with glass. $257.97 including advertised accessory shipping, NOT a checkout quote. Powered refill countertop RO; no plumbing. No fluoride-specific certification or delivered-budget verification.",
+      "materialCaveat": "Glass upgrade option. $219.98 unit + spare bundle; $249.97 with glass. $257.97 including advertised accessory shipping, NOT a checkout quote. Powered refill countertop RO; no plumbing. No fluoride-specific certification or delivered-budget verification.",
       "facts": {
         "Fabric": "Standard pitcher plastic per historical lead; current textual page does not specify polymer. Compatible borosilicate glass pitcher independently live-verified at $29.99. Raw tank, filter housing, membrane and internal pathways not fully specified; NOT plastic-free.",
         "Price": "169.99 USD base unit; shipping/tax unknown",
@@ -254,7 +254,7 @@
       "unitPriceUSD": 229.99,
       "naturalPercent": null,
       "integrityRank": 0,
-      "materialCaveat": "$267.98 unit + one F4 pack at month 6; $305.97 with a second at anniversary. Installation extra and unknown. Under-sink tank RO; installation required. No fluoride-specific certification or delivered-budget verification.",
+      "materialCaveat": "Installation alternative. $267.98 unit + one F4 pack at month 6; $305.97 with a second at anniversary. Installation extra and unknown. Under-sink tank RO; installation required. No fluoride-specific certification or delivered-budget verification.",
       "facts": {
         "Fabric": "Transparent first filter housing, food-grade tubing, RO membrane, carbon stages, storage tank and lead-free faucet. Complete plastics, tank bladder, and seals not disclosed.",
         "Price": "229.99 USD base unit; shipping/tax unknown",
@@ -298,7 +298,7 @@
       "unitPriceUSD": 199.99,
       "naturalPercent": null,
       "integrityRank": 1,
-      "materialCaveat": "$159.99 with advertised WDC2SL code; $215.98 with annual spare. No-code unit + spare $255.98. Coupon not checkout-tested. Powered refill countertop mineral RO; no plumbing. No fluoride-specific certification or delivered-budget verification.",
+      "materialCaveat": "Provisional practical pick. $159.99 with advertised WDC2SL code; $215.98 with annual spare. No-code unit + spare $255.98. Coupon not checkout-tested. Powered refill countertop mineral RO; no plumbing. No fluoride-specific certification or delivered-budget verification.",
       "facts": {
         "Fabric": "Glass pitcher Complete tank, lid, filter housing, membrane and internal-tubing materials not disclosed in inspected text; not plastic-free.",
         "Price": "199.99 USD base unit; shipping/tax unknown",
