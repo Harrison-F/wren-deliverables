@@ -474,7 +474,7 @@
   "refinedResearch": {
     "qualified": 0,
     "sizingNear": 3,
-    "scope": "Review remains in progress: one core merchant has documented accessible-snapshot completion; nineteen have partial reviews, SSENSE remains access-blocked, and ARKET US eligibility is unresolved. Three sizing-near options; no verified in-stock exact30×32.",
+    "scope": "Review remains in progress: 3 core merchants have documented accessible-snapshot completion; 17 have partial reviews, SSENSE remains access-blocked, and ARKET US eligibility is unresolved. Three sizing-near options; no verified in-stock exact30×32.",
     "criteria": "Black dress pants · 30×32 · ≤$240 · regular/straight/relaxed · verified natural main fabric · no disclosed synthetic lining",
     "relationships": [
       {
@@ -515,15 +515,15 @@
     "coverage": [
       {
         "merchant": "SCRT",
-        "note": "Full369-product feed; trousers category1 page and native search trousers1/pants2 distinct page numbers traversed;11 black feed leads privately reviewed. Selected US cotton Triple Pleat is $247, above $240. Remaining fit and exact composition reconciliation, including Perfecto, not complete.",
+        "note": "Full369-product feed and category/native-search pagination captured. Three former price gaps closed on exact US/USD pages:Perfecto$255, Triple Pleat Wool$409, Travis Pinstripe$309; Cotton Triple Pleat previously$247. All exceed$240. Nonblack/category and cargo/track-style reconciliation remains; no whole-merchant completion claim.",
         "url": "https://scrt.onl",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Industry of All Nations",
-        "note": "Full151-product feed; pants category1 page; native trousers3/pants5 distinct page numbers traversed. Iron4/Iron8 dye-color and exact dress-fit/material/stock review remains; zero black-keyword hits is not absence proof.",
+        "note": "Accessible snapshot reviewed:151-product feed, pants category and native trousers/pants searches reconciled. All22 long-bottom styles/color options screened. Iron4 Chino30 is sold out, chart inseam31in; Ponya waist30=S has29.5in plain/30.5in corduroy inseams and casual drawstring construction. Other styles nonblack, childrenswear or lounge/workwear. No exact30×32 dress match.",
         "url": "https://industryofallnations.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete"
       },
       {
         "merchant": "Yitai",
@@ -581,13 +581,13 @@
       },
       {
         "merchant": "The Frankie Shop",
-        "note": "Full2900-product feed; mens-bottoms4 distinct page numbers; native trousers67/pants92 distinct page numbers traversed.91 black feed leads privately reviewed; Brya/Marfa/Milena/Villeron explicitly womenswear. Remaining gender/fit/color reconciliation not complete.",
+        "note": "Full2900-product feed; mens-bottoms4 pages and native-search traversal retained. All23 black mens-category trouser entries reviewed:22 material/price exclusions; Stephen Pleated Denim$140 is100% cotton/unlined but dress-formality and exact30×32 not verified, private only. Remaining feed gender/nonblack-color reconciliation open.",
         "url": "https://thefrankieshop.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Yohji Yamamoto",
-        "note": "Full9540-product feed to empty page,1345 trouser-regex candidates; lower-price subset and five exact products inspected. Remaining black color variants/gender/fit/current USD stock review substantial; no full-catalog completion claim.",
+        "note": "Full9540-product feed retained; all27 available trousers priced<=240 in1345 trouser-regex entries reviewed. Excluded lounge/jersey, slim, shorts, non-natural or cargo-sarouel styles; cotton random-tuck has23–25.5in inseams and womens tag; MIDIN has27in(M)/29in(L), black versions sold out. Exact US pages confirm USD. Remaining category/native-search reconciliation and price changes still open.",
         "url": "https://theshopyohjiyamamoto.com/",
         "coverageStatus": "partial review"
       },
@@ -641,9 +641,9 @@
       },
       {
         "merchant": "Rains",
-        "note": "Full288-product US feed;22 trouser-regex entries,11 exact mens styles reviewed. Nine disclose synthetic main; Heavy Woven Straight organic cotton black $250 over budget; Wide organic cotton Asphalt $250 over budget/nonblack. Category2 distinct page numbers plus search pages1–6 captured; final search reconciliation remains.",
+        "note": "Accessible US snapshot reviewed:288-product feed, mens-bottoms2 pages and both native searches pages1–6 reconciled. All11 mens trouser styles have exact exclusions:9 disclose synthetic main; organic-cotton Heavy Woven Straight black and Wide Asphalt each$250, over budget, with PU coating disclosed. No qualifying option.",
         "url": "https://www.au.rains.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete"
       }
     ]
   }
