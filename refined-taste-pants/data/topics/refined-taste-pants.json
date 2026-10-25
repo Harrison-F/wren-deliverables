@@ -752,7 +752,7 @@
         "merchant": "Abercrombie",
         "url": "https://www.abercrombie.com",
         "coverageStatus": "partial review",
-        "note": "Corrected category previously captured at about90 displayed positions; exact Collins Oatmeal excluded. Remaining black styles, dynamic pagination and native-search review still incomplete."
+        "note": "Saved category terminal pages1/2 and2/2 expose118 unique product URLs (90+28);15 exact black PDP captures retained. Natural barrel/baggy cuts outside brief; remaining reviewed black blends synthetic/regenerated. Native search is unfiltered2258 results/page1of48, not a completed menswear search. Reconcile collection/color mappings and clearance/native scope; do not call15 complete catalog."
       },
       {
         "merchant": "Helmut Lang",
@@ -764,31 +764,31 @@
         "merchant": "Études",
         "url": "https://www.etudes-studio.com/",
         "coverageStatus": "partial review",
-        "note": "Full567-product feed; trousers category3 distinct pages, native trousers5/pants9 traversed;35 black feed leads privately reviewed. US Regular Chino Black $99 added as EU44 sizing-near. Chino Zip and Casual details inspected; conflicting cotton/elastane claim retained privately. Suiting/color reconciliation remains."
+        "note": "Full567 feed and native/category walks retained. Fresh black Chino Zip$197100%cotton explicitly wide leg with four side zip pockets: retained privately for dress-formality/width and waist/inseam uncertainty, not promoted. Bumper$84 still missing composition and target42/44 unavailable. Prior published Regular Chino preserved. No repeated feed crawl."
       },
       {
         "merchant": "SSENSE",
         "url": "https://www.ssense.com/",
-        "coverageStatus": "access blocked",
-        "note": "Sale pants alternative and prior category attempted by HTTP and registered headed browser; security-verification page persists. No absence claim; accessible catalog not recovered."
+        "coverageStatus": "partial review",
+        "note": "Access recovered;330 unique native black-trouser results and42 exact PDPs reviewed. Added two price-ascending trouser-category pages (120 each,$54–196/$197–300) plus parent pants first120;528 unique exposed records reconciled, no additional <=$240 black candidate beyond reviewed42. FOG cotton pleat-front$157 XS=US30 selected,2 left;chart32.25in. Fit/style corroboration remains unresolved: official manufacturer link redirects home, regional link404; search snippet alone not promoted. Parent pants category beyond first120 remains unclosed."
       },
       {
         "merchant": "Carhartt / Carhartt WIP",
         "url": "https://www.carhartt.com/",
-        "coverageStatus": "partial review",
-        "note": "Both official categories captured; WIP Master/Sid synthetic and Newel denim reviewed previously. Carhartt feed route unavailable; further rendered category capture saved. Remaining styles/search/pagination still open."
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible snapshots reconciled: Carhartt category77/77 over4 API pages and native134/134 over6 pages,148 unique styles partitioned. WIP native199/199 over5 pages covers all163 saved category links. Black Brady exact style/color matches PRM synthetic pocket lining; Master/Sid/Craft/Atoka/Floyde synthetic; utility/denim/lounge excluded. Evan30 chart29.5in, Landon cord30 chart30.7in, Brandon cord all28.3in: too short, not sizing-near. No new qualified dress pants."
       },
       {
         "merchant": "Saks Fifth Avenue",
         "url": "https://www.saksfifthavenue.com/",
         "coverageStatus": "partial review",
-        "note": "Registered headed search/category now renders, replacing prior total access block. Large catalog filtering, pagination and exact black natural-fiber candidates still require review."
+        "note": "Black <=$240 category now fully enumerated51/51 via actual24+24+3 grid responses, terminal no-next. Saved exact records reconciled; several page shells fail while product payload remains readable. Reiss black linen only34 offered; Onia100%lyocell excluded. Polo$131.25 black30x32 selected1left is explicitly utility silhouette, not silently included as dress. Salinger100%cotton has blackUI versus stale initial-color payload; exact stock requires UI confirmation. Redvanly Kent exact page fails; broader native/sale reconciliation and remaining exact-color checks remain open."
       },
       {
         "merchant": "PRM",
         "url": "https://prm.com/",
         "coverageStatus": "partial review",
-        "note": "US black filter successfully applied through Colour > black > Accept:314 advertised. All4 linked pages scrolled to bottom:80+80+80+64=304 unique exact product links;10-listing count discrepancy unresolved,not exhaustive.53 plausible non-sport black<=260 exact leads probed:HTTP403;51 recovered headed,2 navigation timeouts(Icecream50683,Champion50919). Numeric main/lining reviewed,synthetic pockets exclude Brady/Newel/Simple/Aaron despite natural shell. Fred Perry T2301.198$189.90 regular straight100%cotton,size30 selected/Add to cart enabled promoted as inseam-unspecified near;102 dye is same style retained privately. Norse Aros98%cotton2%elastane excluded. Lacoste100%cottonS available but waist mapping/inseam unresolved; HoldenI036501 onlyXL available. Price filter Accept stayed disabled:do not claim price filtering succeeded. Remaining:10 missing listing reconciliation,native search,remaining natural-candidate exact sizing/formality and two timed-out pages."
+        "note": "Recovered both timed-out PDPs: Champion50919 explicitly polyester excluded; Icecream50683 cotton but target size/inseam unresolved. Accepted-black category304 exposed links versus314 advertised remains10-item residual; attempted native route404, not a zero-result search. Prior exact pocket-lining exclusions and public Fred Perry198 preserved; no duplicate102 card."
       },
       {
         "merchant": "The Frankie Shop",
@@ -830,7 +830,7 @@
         "merchant": "Massimo Dutti",
         "url": "https://www.massimodutti.com/",
         "coverageStatus": "partial review",
-        "note": "Exact black cotton $130 retains78cm inner-leg/83cm waist discrepancy. Rendered size30 stock and regular fit not resolved; additional category/search/pagination review remains."
+        "note": "Reconciled all10 selected black-category payloads:5 synthetic/regenerated main or lining,3 jogger fits,1 navy selected despite black category,1 double-pleat cotton00189005800 with78cm inseam. Linen00167017800 explicitly65%polyester35%cotton lining and size30 SOLD_OUT; wool02886387 also synthetic lining. No new match. Unfiltered category contains only20 product payloads in captured hydration; do not claim full native/category closure."
       },
       {
         "merchant": "Hawes & Curtis",
