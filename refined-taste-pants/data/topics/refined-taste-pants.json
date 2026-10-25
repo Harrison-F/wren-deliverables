@@ -152,58 +152,58 @@
       "imageAlt": "All Season Wool Trousers — retailer black gallery 1"
     },
     {
-      "id": "refined-hc",
-      "name": "Regular Fit Twill Pleated Pants",
-      "store": "Hawes & Curtis",
+      "attribution": "Core merchant; manufacturer claims, not independently tested.",
       "brand": "Hawes & Curtis",
-      "url": "https://www.hawesandcurtis.com/black-twill-pleated-trousers-trprjs25-a01",
       "color": "Black",
-      "unitPriceUSD": 160,
-      "naturalPercent": 100,
-      "integrityRank": 0,
-      "summary": "",
-      "verdict": "Not qualified",
-      "category": "Unresolved",
-      "merchantLane": "core",
-      "matchClass": "unresolved",
-      "materialCaveat": "Unfinished36in requires hemming; exact waist30 stock not confirmed.",
       "facts": {
+        "Availability": "Waist30 / unfinished36in selected; Add to bag enabled",
+        "Eligibility": "Sizing near match — alteration required",
         "Fabric": "100% wool shell",
-        "Size": "30 offered; unfinished36in",
-        "Availability": "Exact30 stock not confirmed",
-        "Eligibility": "Not a qualified match",
-        "Fit": "regular; 30 offered; unfinished36in",
-        "Status": "Exact30 stock not confirmed"
+        "Fit": "Regular fit; pleated; waist30",
+        "Size": "Waist30; unfinished36in leg",
+        "Status": "In stock; requires hemming"
       },
+      "id": "refined-hc",
+      "image": "assets/images/refined-hc-1.webp",
+      "imageAlt": "Regular Fit Twill Pleated Pants — retailer black gallery 1",
+      "imageNote": "Exact black product gallery; first-party images. No independent garment testing.",
       "images": [
         {
-          "src": "assets/images/refined-hc-1.webp",
           "alt": "Regular Fit Twill Pleated Pants — retailer black gallery 1",
-          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211852-800px-1040px.jpg"
+          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211852-800px-1040px.jpg",
+          "src": "assets/images/refined-hc-1.webp"
         },
         {
-          "src": "assets/images/refined-hc-2.webp",
           "alt": "Regular Fit Twill Pleated Pants — retailer black gallery 2",
-          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211855-800px-1040px.jpg"
+          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211855-800px-1040px.jpg",
+          "src": "assets/images/refined-hc-2.webp"
         },
         {
-          "src": "assets/images/refined-hc-3.webp",
           "alt": "Regular Fit Twill Pleated Pants — retailer black gallery 3",
-          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211854-800px-1040px.jpg"
+          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211854-800px-1040px.jpg",
+          "src": "assets/images/refined-hc-3.webp"
         },
         {
-          "src": "assets/images/refined-hc-4.webp",
           "alt": "Regular Fit Twill Pleated Pants — retailer black gallery 4",
-          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211853-800px-1040px.jpg"
+          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS25-A01-211853-800px-1040px.jpg",
+          "src": "assets/images/refined-hc-4.webp"
         }
       ],
-      "imageNote": "Exact black product gallery; first-party images. No independent garment testing.",
+      "integrityRank": 0,
+      "materialCaveat": "Waist30 in stock; unfinished36in requires hemming to32in.",
+      "name": "Regular Fit Twill Pleated Pants",
+      "naturalPercent": 100,
+      "store": "Hawes & Curtis",
+      "summary": "",
+      "url": "https://www.hawesandcurtis.com/black-twill-pleated-trousers-trprjs25-a01",
+      "verdict": "Sizing near match",
+      "unitPriceUSD": 160,
+      "matchClass": "near",
+      "merchantLane": "core",
+      "category": "Sizing near matches",
       "sources": [
-        "refined-hc-source"
-      ],
-      "attribution": "Core merchant; manufacturer claims, not independently tested.",
-      "image": "assets/images/refined-hc-1.webp",
-      "imageAlt": "Regular Fit Twill Pleated Pants — retailer black gallery 1"
+        "03e3cbe17151b3e8e92990fb"
+      ]
     },
     {
       "id": "refined-asket",
@@ -329,6 +329,72 @@
         "5ebae3def78d8a6ff41671f0",
         "8c3e9f4c5a0688834d4fb920"
       ]
+    },
+    {
+      "attribution": "Core merchant; exact US product and selected-size evidence.",
+      "brand": "COS",
+      "color": "Black",
+      "facts": {
+        "Availability": "30R selected; last item; Add to bag enabled",
+        "Deal": "$169",
+        "Eligibility": "Sizing near match — exact inseam unverified",
+        "Fabric": "100% RWS wool; pocket lining100% cotton; excluding trims",
+        "Fit": "Regular fit; tapered leg; cummerbund waistband",
+        "Size": "30R; exact30R inseam unpublished; size32R measures31.50in",
+        "Status": "In stock; not verified30×32"
+      },
+      "id": "refined-cos-cummerbund-wool-black",
+      "image": "assets/images/refined-cos-cummerbund-wool-black-1.webp",
+      "imageAlt": "COS black cummerbund-waist wool trousers — gallery 1",
+      "imageNote": "Six exact-black official gallery images.",
+      "images": [
+        {
+          "alt": "COS black cummerbund-waist wool trousers — gallery 1",
+          "sourceURL": "https://media.cos.com/assets/001/e8/da/e8da16f88445cdd9c89d36db92c20ddf5f861da7_xxl-1.jpg",
+          "src": "assets/images/refined-cos-cummerbund-wool-black-1.webp"
+        },
+        {
+          "alt": "COS black cummerbund-waist wool trousers — gallery 2",
+          "sourceURL": "https://media.cos.com/assets/001/66/9a/669a8379041f7ac6d87607a2b0a78c37cd2f7218_xxl-1.jpg",
+          "src": "assets/images/refined-cos-cummerbund-wool-black-2.webp"
+        },
+        {
+          "alt": "COS black cummerbund-waist wool trousers — gallery 3",
+          "sourceURL": "https://media.cos.com/assets/001/4f/d7/4fd7605d90c3135372f98273b9983d474afbfe6f_xxl-1.jpg",
+          "src": "assets/images/refined-cos-cummerbund-wool-black-3.webp"
+        },
+        {
+          "alt": "COS black cummerbund-waist wool trousers — gallery 4",
+          "sourceURL": "https://media.cos.com/assets/001/7a/db/7adb710fdf72e888de97465524830d9efaec3de1_xxl-1.jpg",
+          "src": "assets/images/refined-cos-cummerbund-wool-black-4.webp"
+        },
+        {
+          "alt": "COS black cummerbund-waist wool trousers — gallery 5",
+          "sourceURL": "https://media.cos.com/assets/001/9c/01/9c010650885d1010a6317e18fe2b9ccb62c0354d_xxl-1.jpg",
+          "src": "assets/images/refined-cos-cummerbund-wool-black-5.webp"
+        },
+        {
+          "alt": "COS black cummerbund-waist wool trousers — gallery 6",
+          "sourceURL": "https://media.cos.com/assets/001/5a/c4/5ac47ca627c89939525fc428a9a5cce5921e1181_xxl-1.jpg",
+          "src": "assets/images/refined-cos-cummerbund-wool-black-6.webp"
+        }
+      ],
+      "integrityRank": 0,
+      "materialCaveat": "30R in stock; exact inseam unpublished. Retailer measures31.50in only for size32R, not30R.",
+      "name": "Cummerbund-waist Wool Tapered Pants",
+      "naturalPercent": 100,
+      "store": "COS",
+      "summary": "",
+      "url": "https://www.cos.com/en-us/men/menswear/trousers/regular-fit/taperedleg/product/cummerbund-waist-wool-tapered-trousers-black-1309593001",
+      "verdict": "Sizing near match",
+      "unitPriceUSD": 169,
+      "matchClass": "near",
+      "merchantLane": "core",
+      "category": "Sizing near matches",
+      "sources": [
+        "48d0d1e900383f703dc4dab5",
+        "744357a4291a6ca56bea90ed"
+      ]
     }
   ],
   "sources": [
@@ -379,12 +445,36 @@
       "accessed": "2026-10-25",
       "type": "First-party product page",
       "note": "Observed 2026-10-25. Exact black gallery; material and size limitations shown on card."
+    },
+    {
+      "id": "03e3cbe17151b3e8e92990fb",
+      "title": "Regular Fit Black Twill Pleated Pants — retailer evidence",
+      "url": "https://www.hawesandcurtis.com/black-twill-pleated-trousers-trprjs25-a01",
+      "accessed": "2026-10-25",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-25. Exact black gallery; material and size limitations shown on card."
+    },
+    {
+      "id": "48d0d1e900383f703dc4dab5",
+      "title": "CUMMERBUND-WAIST WOOL TAPERED PANTS — retailer evidence",
+      "url": "https://www.cos.com/en-us/men/menswear/trousers/regular-fit/taperedleg/product/cummerbund-waist-wool-tapered-trousers-black-1309593001",
+      "accessed": "2026-10-25",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-25. Exact black gallery; material and size limitations shown on card."
+    },
+    {
+      "id": "744357a4291a6ca56bea90ed",
+      "title": "CUMMERBUND-WAIST WOOL TAPERED PANTS — retailer evidence",
+      "url": "https://www.cos.com/en-us/men/menswear/trousers/regular-fit/taperedleg/product/cummerbund-waist-wool-tapered-trousers-black-1309593001",
+      "accessed": "2026-10-25",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-25. Exact black gallery; material and size limitations shown on card."
     }
   ],
   "refinedResearch": {
     "qualified": 0,
-    "sizingNear": 1,
-    "scope": "Catalog review remains in progress. Yitai has documented accessible-snapshot completion; other merchants retain explicit coverage gaps. Feed counts and native-search pagination do not alone establish complete review.",
+    "sizingNear": 3,
+    "scope": "Review remains in progress: one core merchant has documented accessible-snapshot completion; nineteen have partial reviews, SSENSE remains access-blocked, and ARKET US eligibility is unresolved. Three sizing-near options; no verified in-stock exact30×32.",
     "criteria": "Black dress pants · 30×32 · ≤$240 · regular/straight/relaxed · verified natural main fabric · no disclosed synthetic lining",
     "relationships": [
       {
@@ -425,133 +515,133 @@
     "coverage": [
       {
         "merchant": "SCRT",
-        "note": "Rendered trousers listing plus Odessa and Travis product pages reviewed. Odessa $270, wide bootcut; Travis $309; Triple Pleat Cotton listed $247. No pagination completeness claim. Other black work/cargo styles not fully reviewed.",
+        "note": "Full369-product feed; trousers category1 page and native search trousers1/pants2 distinct page numbers traversed;11 black feed leads privately reviewed. Selected US cotton Triple Pleat is $247, above $240. Remaining fit and exact composition reconciliation, including Perfecto, not complete.",
         "url": "https://scrt.onl",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Industry of All Nations",
-        "note": "Rendered pants-jeans-shorts catalog. Drawstring/chino/denim leads; individual black tailored variants not yet reviewed.",
+        "note": "Full151-product feed; pants category1 page; native trousers3/pants5 distinct page numbers traversed. Iron4/Iron8 dye-color and exact dress-fit/material/stock review remains; zero black-keyword hits is not absence proof.",
         "url": "https://industryofallnations.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Yitai",
-        "note": "All Season Wool Trousers Black $148, 100% wool, straight, cotton pocket lining; 30 Standard preorder estimated Oct30.",
+        "note": "Accessible snapshot completed previously:82-product feed, pants category2 pages/18 listings, native trousers search2 pages/52 hits. Sole black wool dress option remains preorder, not in-stock qualified.",
         "url": "https://www.yitai.la/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete"
       },
       {
         "merchant": "Sandro",
-        "note": "Exact sale SHPPA01057_16 is BEIGE,99% wool1% elastane; polyester trouser lining. Rejected. Sale pagination not exhaustive.",
+        "note": "Sale expanded to69/69 products via sz100; five newly read exact black sale styles fail disclosed main fibers or synthetic lining. Full-price/category native-search reconciliation and remaining sale styles still require review.",
         "url": "https://us.sandro-paris.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Abercrombie",
-        "note": "Exact Collins linen-blend seq08 inspected: Oatmeal;12% lyocell body and polyester/viscose pocket bags. Rejected; other black styles remain incompletely reviewed.",
+        "note": "Corrected category previously captured at about90 displayed positions; exact Collins Oatmeal excluded. Remaining black styles, dynamic pagination and native-search review still incomplete.",
         "url": "https://www.abercrombie.com",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Helmut Lang",
-        "note": "Rendered pants category with many regular prices above budget. Sale lane and exact black product composition not complete.",
+        "note": "Native pants search106 items; additional start/size pages captured plus two exact black Wardrobe trousers. Double Pleat $448 is over budget. HTTP detail routes blocked but registered headed browser works; full sale/gender reconciliation remains.",
         "url": "https://www.helmutlang.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Études",
-        "note": "Complete567-product feed captured; trousers category3 pages and native trousers5/pants9 pages traversed. Thirteen exact black suit/chino/short candidates inspected: most suit fabrics contain polyester; Casual Pant has conflicting100%cotton description versus99%cotton1%elastane care label. Regular Chino Black added as US$99 sizing-near, EU44 approx30in waist, inseam unpublished. Remaining nonblack/color and suits-category reconciliation pending.",
+        "note": "Full567-product feed; trousers category3 distinct pages, native trousers5/pants9 traversed;35 black feed leads privately reviewed. US Regular Chino Black $99 added as EU44 sizing-near. Chino Zip and Casual details inspected; conflicting cotton/elastane claim retained privately. Suiting/color reconciliation remains.",
         "url": "https://www.etudes-studio.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "SSENSE",
-        "note": "HTTP and registered Wren browser 403/security challenge; no product absence inference.",
+        "note": "Sale pants alternative and prior category attempted by HTTP and registered headed browser; security-verification page persists. No absence claim; accessible catalog not recovered.",
         "url": "https://www.ssense.com/",
         "coverageStatus": "access blocked"
       },
       {
         "merchant": "Carhartt / Carhartt WIP",
-        "note": "Both official Carhartt category and WIP category rendered. WIP Master rejected polyester/cotton; Sid rejected stretch blend and slim; Newel denim not dress trousers. Other styles incomplete.",
+        "note": "Both official categories captured; WIP Master/Sid synthetic and Newel denim reviewed previously. Carhartt feed route unavailable; further rendered category capture saved. Remaining styles/search/pagination still open.",
         "url": "https://www.carhartt.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Saks Fifth Avenue",
-        "note": "HTTP and registered Wren browser 403; no product absence inference.",
+        "note": "Registered headed search/category now renders, replacing prior total access block. Large catalog filtering, pagination and exact black natural-fiber candidates still require review.",
         "url": "https://www.saksfifthavenue.com/",
-        "coverageStatus": "access blocked"
+        "coverageStatus": "partial review"
       },
       {
         "merchant": "PRM",
-        "note": "HTTP403 maintenance/deny then browser ERR_ABORTED; unresolved access, no product absence inference.",
+        "note": "Registered headed category recovered:896 listed products, filter controls captured. Exact black natural-fiber filtering, pagination and candidate review remain; no longer a total access block.",
         "url": "https://prm.com/",
-        "coverageStatus": "access blocked"
+        "coverageStatus": "partial review"
       },
       {
         "merchant": "The Frankie Shop",
-        "note": "Mens bottoms and Theury Black rendered. Theury $120 unlined but97% polyester3% elastane. Further pages/styles incomplete.",
+        "note": "Full2900-product feed; mens-bottoms4 distinct page numbers; native trousers67/pants92 distinct page numbers traversed.91 black feed leads privately reviewed; Brya/Marfa/Milena/Villeron explicitly womenswear. Remaining gender/fit/color reconciliation not complete.",
         "url": "https://thefrankieshop.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Yohji Yamamoto",
-        "note": "Correct mens pants collection rendered; wool gabardine and other silhouettes found, exact under-budget variants not checked.",
+        "note": "Full9540-product feed to empty page,1345 trouser-regex candidates; lower-price subset and five exact products inspected. Remaining black color variants/gender/fit/current USD stock review substantial; no full-catalog completion claim.",
         "url": "https://theshopyohjiyamamoto.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "ASKET",
-        "note": "Three exact black product pages reviewed. Regular Chino2% elastane rejected. Regular Twill100% cotton plus cotton pocket lining is casual workwear. Linen100% linen plus cotton pocket lining $230: selected W30/L32 opens Notify me Spring2027, out of stock.",
+        "note": "Three original black styles reviewed plus Loose Twill Chino and native-search route captured. Linen W30L32 unavailable; Regular stretch excluded. Workwear-formality and complete category/search reconciliation remain.",
         "url": "https://www.asket.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "COS",
-        "note": "HTTP403, registered Wren US route returns200 patience page; no real catalog. Remote authorized route not attempted; no availability inference.",
+        "note": "US category recovered and pages1–3 yield139 unique product links including recommendations; not a catalog total. Thirteen exact black trouser compositions parsed. Regular-fit Cummerbund Wool $169,30R selected/last item, added sizing-near;32R sample inseam31.50in is not30R inseam. Search route ignored q; true native search and remaining wide cuts unresolved.",
         "url": "https://www.cos.com/",
-        "coverageStatus": "access blocked"
+        "coverageStatus": "partial review"
       },
       {
         "merchant": "ARKET",
-        "note": "Old route redirects worldwide Argentina/English landing, not valid US mens trousers inventory; regional shopping eligibility incomplete.",
+        "note": "Shipping/help alternative still redirects to Argentina/English worldwide route. US eligibility unresolved; do not substitute overseas inventory.",
         "url": "https://www.arket.com/",
         "coverageStatus": "regional route unresolved"
       },
       {
         "merchant": "A.P.C.",
-        "note": "Exact black Ricky COHTF-H08027 inspected at $385: over budget. No entire-sale-catalog absence claim.",
+        "note": "Full812-product feed; category1 page; native trousers3/pants6 distinct page numbers traversed. Seven black candidate exact pages captured; listed350–520 USD on US feed. Gender, sale and non-keyword color reconciliation remain.",
         "url": "https://www.apc-us.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Massimo Dutti",
-        "note": "Exact black double-pleat cotton $130: fit unstated; size30 embedded inner leg78cm, waist83cm, SHOW. UI size confirmation unsuccessful; not an exact30×32 match.",
+        "note": "Exact black cotton $130 retains78cm inner-leg/83cm waist discrepancy. Rendered size30 stock and regular fit not resolved; additional category/search/pagination review remains.",
         "url": "https://www.massimodutti.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Hawes & Curtis",
-        "note": "Two exact black styles reviewed: Classic has polyester lining; Regular Pleated wool has unfinished36in and unconfirmed30 stock. Neither qualifies.",
+        "note": "Black Pleated $160: waist30 selected, unfinished36in selected, Add to bag enabled; promoted to sizing-near, hemming required. Classic black synthetic lining excluded. Remaining black category/native-search completeness not established.",
         "url": "https://www.hawesandcurtis.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Arc’teryx",
-        "note": "Rendered pants category but exact garment composition not reviewed; technical category cannot alone prove all products synthetic.",
+        "note": "Eleven exact current pants/joggers inspected; disclosed synthetic main fabrics exclude all eleven, including cotton-named Cronin/Kragg. Remaining full category/search reconciliation required; no brand-based exclusion.",
         "url": "https://arcteryx.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "lululemon",
-        "note": "Old route404; recovered /c/men-trousers/n146jr rendered and links saved. Exact composition/black variants not reviewed, page2 not complete.",
+        "note": "Recovered pants category plus page2 rendered. Exact style compositions, remaining pagination and native-search reconciliation still incomplete.",
         "url": "https://shop.lululemon.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Rains",
-        "note": "US rain-pants category rendered via redirect from supplied US route, source AU homepage retained in merchant provenance. Exact composition not yet checked; waterproof branding not fiber proof.",
+        "note": "Full288-product US feed;22 trouser-regex entries,11 exact mens styles reviewed. Nine disclose synthetic main; Heavy Woven Straight organic cotton black $250 over budget; Wide organic cotton Asphalt $250 over budget/nonblack. Category2 distinct page numbers plus search pages1–6 captured; final search reconciliation remains.",
         "url": "https://www.au.rains.com/",
         "coverageStatus": "partial review"
       }
