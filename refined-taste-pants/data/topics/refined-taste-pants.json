@@ -685,7 +685,7 @@
   "refinedResearch": {
     "qualified": 1,
     "sizingNear": 5,
-    "scope": "Research continues: one verified nominal30×32 match and five sizing-near options. Remaining merchant coverage and exact evidence gaps are retained privately.",
+    "scope": "Accessible catalog-snapshot review complete:21 core merchants reviewed;ARKET is US-ineligible. Both related-brand catalogs reviewed.1 exact nominal30×32 and5 sizing-near options;9 cards total. Product-fit/disclosure uncertainties remain, not qualified matches. lululemon advertised103 but returned101;two unnamed records unresolved. Massimo native count varied80→50;50 exposed men records reviewed,not80. Snapshot coverage is not all-internet coverage or guaranteed product absence.",
     "criteria": "Black dress pants · 30×32 · ≤$240 · regular/straight/relaxed · verified natural main fabric · no disclosed synthetic lining",
     "relationships": [
       {
@@ -720,7 +720,7 @@
         "relationship": "Editorial recommendation, not personal-use evidence",
         "commercial": "Article explicitly discloses commissions on some purchased links. Historical recommendation; not current stock evidence.",
         "quote": "Percival: stylish knitwear, breathable linen and elevated essentials for the modern man.",
-        "finding": "US/USD exact selections verified:Straight/Wide cotton chinos$160,W30S Add to bag,W30R Notify me. No verified32in length; Straight is close through waist/thigh and chart78cm does not separateS/R lengths. Remaining catalog/fit reconciliation open."
+        "finding": "Accessible snapshot reviewed:910-product feed through empty page5;98 bottom-regex entries and18 black leads reconciled with category3 pages/native saved surfaces. US$160 straight and wide cotton chinos30S available/30R Notify. Wide chartS74cm/R79cm is known short. Straight W30 chart78cm does not distinguishS/R; uncertain length is permitted as sizing-near, but close-through-waist/thigh fit suitability is not established for the requested regular/relaxed silhouette. Remains an unresolved product judgment, not an unwalked catalog or stock-absence claim. No new qualified card."
       }
     ],
     "coverage": [
@@ -751,8 +751,8 @@
       {
         "merchant": "Abercrombie",
         "url": "https://www.abercrombie.com",
-        "coverageStatus": "partial review",
-        "note": "Saved category terminal pages1/2 and2/2 expose118 unique product URLs (90+28);15 exact black PDP captures retained. Natural barrel/baggy cuts outside brief; remaining reviewed black blends synthetic/regenerated. Native search is unfiltered2258 results/page1of48, not a completed menswear search. Reconcile collection/color mappings and clearance/native scope; do not call15 complete catalog."
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible snapshot reviewed:118 unique main-category listings (90+28) and94 filtered Pants clearance listings (90+4),212 unique listing URLs in the combined saved scopes. Terminal clearance page2/2 verified. All exposed black swatch families reconciled to saved exact-color materials and exclusions; newly verified Go-To58945398 is100%polyester. Pleated Taper62973823 is100%cotton but explicitly wide/cropped ankle silhouette, not silently promoted. No unresolved exposed catalog page; snapshots are not internet-wide absence proof."
       },
       {
         "merchant": "Helmut Lang",
@@ -763,14 +763,14 @@
       {
         "merchant": "Études",
         "url": "https://www.etudes-studio.com/",
-        "coverageStatus": "partial review",
-        "note": "Full567 feed and native/category walks retained. Fresh black Chino Zip$197100%cotton explicitly wide leg with four side zip pockets: retained privately for dress-formality/width and waist/inseam uncertainty, not promoted. Bumper$84 still missing composition and target42/44 unavailable. Prior published Regular Chino preserved. No repeated feed crawl."
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible catalog snapshot reviewed:567-product feed (terminal empty page4),135 bottom entries/all color options; category and both native walks map entirely to feed.35 black candidates partitioned. Previously unresolved Nocturne/Corner/Surface are denim;Watcher shorts;Forum cargo. Existing Regular Chino near preserved. Bumper42/44 unavailable and numeric composition absent in feed and repeated exact pages. Black Chino Zip$197 has regular-fit wording but explicitly wide legs/four side zip pockets;44 chart flat waist38.43cm/outer length115.01cm does not establish inseam. Its excessive-width/dress-formality judgment remains a precise visual-review blocker (vision tool400 unsupported model), not an unwalked catalog or inferred exclusion. No new card."
       },
       {
         "merchant": "SSENSE",
         "url": "https://www.ssense.com/",
-        "coverageStatus": "partial review",
-        "note": "Access recovered;330 unique native black-trouser results and42 exact PDPs reviewed. Added two price-ascending trouser-category pages (120 each,$54–196/$197–300) plus parent pants first120;528 unique exposed records reconciled, no additional <=$240 black candidate beyond reviewed42. FOG cotton pleat-front$157 XS=US30 selected,2 left;chart32.25in. Fit/style corroboration remains unresolved: official manufacturer link redirects home, regional link404; search snippet alone not promoted. Parent pants category beyond first120 remains unclosed."
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible budget-relevant snapshot closed: native330 results, trousers price-sorted pages1–2, parent pants price-sorted pages1–5 reconciled; parent page3 ends$241 and page4 starts$242, establishing budget boundary. 806 unique exposed records partitioned;42 exact PDPs already reviewed. No new qualifying candidate. FOG XS=US30,$157,32.25in remains fit-unresolved because exact retailer has no regular/straight/relaxed fit wording; manufacturer endorsement is not required. No inaccessible catalog gap inside the demonstrated budget boundary."
       },
       {
         "merchant": "Carhartt / Carhartt WIP",
@@ -781,14 +781,14 @@
       {
         "merchant": "Saks Fifth Avenue",
         "url": "https://www.saksfifthavenue.com/",
-        "coverageStatus": "partial review",
-        "note": "Black <=$240 category now fully enumerated51/51 via actual24+24+3 grid responses, terminal no-next. Saved exact records reconciled; several page shells fail while product payload remains readable. Reiss black linen only34 offered; Onia100%lyocell excluded. Polo$131.25 black30x32 selected1left is explicitly utility silhouette, not silently included as dress. Salinger100%cotton has blackUI versus stale initial-color payload; exact stock requires UI confirmation. Redvanly Kent exact page fails; broader native/sale reconciliation and remaining exact-color checks remain open."
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible black/budget snapshot reviewed:51/51 parent-pants category;31/31 sale subset;126/126 mens native black-pants results through terminal offset120. All75 native-only records are jeans/denim outside dress brief. Exact saved material/fit payloads partitioned; Kent recovered90%nylon10%spandex. Salinger black30x32 shows Notify Me after actual color selection, not transferable stale New Stone stock. Polo reverse-sateen remains utility exclusion. Hudson Foldout wide-leg cotton/cashmere remains fit/formality-unresolved, not promoted. No unwalked identified catalog page in these scopes; product fit ambiguity is not stock absence."
       },
       {
         "merchant": "PRM",
         "url": "https://prm.com/",
-        "coverageStatus": "partial review",
-        "note": "Recovered both timed-out PDPs: Champion50919 explicitly polyester excluded; Icecream50683 cotton but target size/inseam unresolved. Accepted-black category304 exposed links versus314 advertised remains10-item residual; attempted native route404, not a zero-result search. Prior exact pocket-lining exclusions and public Fred Perry198 preserved; no duplicate102 card."
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Recovered category hydration resolves former10-item gap:80+80+80+74=314/314 unique black records, not304 DOM links. Native black-trousers search walked9pages to terminal4 slots:644 slots/641unique (duplicates), all records partitioned. Seven newly targeted exact PDPs: five Alpha cargo/joggers excluded, North Face nylon excluded, Gramicci Gadget XS-only retains size/formality uncertainty. Native-only Eagle Bend is cargo with70%polyester pocket lining; Double Knee/Brandon are utility/denim. Existing Fred Perry198 preserved; no duplicate102 or new card. No unnamed category count residual remains."
       },
       {
         "merchant": "The Frankie Shop",
@@ -829,8 +829,8 @@
       {
         "merchant": "Massimo Dutti",
         "url": "https://www.massimodutti.com/",
-        "coverageStatus": "partial review",
-        "note": "Reconciled all10 selected black-category payloads:5 synthetic/regenerated main or lining,3 jogger fits,1 navy selected despite black category,1 double-pleat cotton00189005800 with78cm inseam. Linen00167017800 explicitly65%polyester35%cotton lining and size30 SOLD_OUT; wool02886387 also synthetic lining. No new match. Unfiltered category contains only20 product payloads in captured hydration; do not claim full native/category closure."
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible category126/126 IDs and all recovered native payloads reviewed. Native headline changed80 to50; actual men payloads40+10=50 unique, plus40 women-context products, not80 reviewed men. All exposed IDs mapped;15 exact black color references partitioned. Ten synthetic-main/lining exclusions, jogger/barrel/shorts exclusions, and cotton00189005800 known78cm inseam/fit unresolved. No new qualified card. Count instability is retained; this is not proof of absent unreturned search records."
       },
       {
         "merchant": "Hawes & Curtis",
