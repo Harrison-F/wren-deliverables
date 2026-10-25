@@ -395,6 +395,71 @@
         "48d0d1e900383f703dc4dab5",
         "744357a4291a6ca56bea90ed"
       ]
+    },
+    {
+      "id": "refined-asket-archive-linen-black",
+      "name": "The Linen Trousers v1.0 — Archive",
+      "store": "ASKET",
+      "brand": "ASKET",
+      "url": "https://www.asket.com/en-us/archive-linen-trousers-archive-black",
+      "color": "Black",
+      "unitPriceUSD": 140,
+      "naturalPercent": 100,
+      "integrityRank": 0,
+      "summary": "",
+      "verdict": "Qualified 30 × 32",
+      "category": "Exact 30 × 32",
+      "merchantLane": "core",
+      "matchClass": "eligible",
+      "materialCaveat": "W30/L32 in stock. Manufacturer chart:81cm inseam; nominal32in.",
+      "facts": {
+        "Fabric": "100% linen; pocket lining100% organic cotton",
+        "Size": "W30 / L32; chart81cm inseam",
+        "Availability": "W30 and L32 selected; Add to cart enabled",
+        "Eligibility": "Qualified nominal30×32",
+        "Fit": "Regular fit; straight-cut leg",
+        "Status": "In stock",
+        "Deals": "Archive price$140 (was$200)"
+      },
+      "images": [
+        {
+          "src": "assets/images/refined-asket-archive-linen-black-1.webp",
+          "alt": "Archive Linen Trousers — retailer black gallery 1",
+          "sourceURL": "https://images.asket.com/products/images/465_LI3-AK-BLA-slideshow_1-original.jpg"
+        },
+        {
+          "src": "assets/images/refined-asket-archive-linen-black-2.webp",
+          "alt": "Archive Linen Trousers — retailer black gallery 2",
+          "sourceURL": "https://images.asket.com/products/images/465_LI3-AK-BLA-slideshow_3-original.jpg"
+        },
+        {
+          "src": "assets/images/refined-asket-archive-linen-black-3.webp",
+          "alt": "Archive Linen Trousers — retailer black gallery 3",
+          "sourceURL": "https://images.asket.com/products/images/465_LI3-AK-BLA-slideshow_2-original.jpg"
+        },
+        {
+          "src": "assets/images/refined-asket-archive-linen-black-4.webp",
+          "alt": "Archive Linen Trousers — retailer black gallery 4",
+          "sourceURL": "https://images.asket.com/products/images/465_LI3-AK-BLA-slideshow_4-original.jpg"
+        },
+        {
+          "src": "assets/images/refined-asket-archive-linen-black-5.webp",
+          "alt": "Archive Linen Trousers — retailer black gallery 5",
+          "sourceURL": "https://images.asket.com/products/images/465_LI3-AK-BLA-slideshow_5-original.jpg"
+        },
+        {
+          "src": "assets/images/refined-asket-archive-linen-black-6.webp",
+          "alt": "Archive Linen Trousers — retailer black gallery 6",
+          "sourceURL": "https://images.asket.com/products/images/465_LI3-AK-BLA-thumbnail-original.jpg"
+        }
+      ],
+      "image": "assets/images/refined-asket-archive-linen-black-1.webp",
+      "imageAlt": "Archive Linen Trousers — retailer black gallery 1",
+      "imageNote": "All six exact black gallery images exposed on product page. Manufacturer claims; no independent garment testing.",
+      "sources": [
+        "refined-asket-archive-linen-black-source"
+      ],
+      "attribution": "Core merchant; manufacturer claims, not independently tested."
     }
   ],
   "sources": [
@@ -469,12 +534,20 @@
       "accessed": "2026-10-25",
       "type": "First-party product page",
       "note": "Observed 2026-10-25. Exact black gallery; material and size limitations shown on card."
+    },
+    {
+      "id": "refined-asket-archive-linen-black-source",
+      "title": "ASKET — archive black linen trousers, selected W30/L32",
+      "url": "https://www.asket.com/en-us/archive-linen-trousers-archive-black",
+      "accessed": "2026-10-25",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-25. Exact black gallery; material and size limitations shown on card."
     }
   ],
   "refinedResearch": {
-    "qualified": 0,
+    "qualified": 1,
     "sizingNear": 3,
-    "scope": "Review remains in progress: 6 core merchants have documented accessible-snapshot completion; 14 have partial reviews, SSENSE remains access-blocked, and ARKET explicitly does not ship to the United States. Sunspel accessible snapshot complete; Percival remains partial. Three sizing-near options; no verified in-stock exact30×32.",
+    "scope": "Research remains incomplete:8 accessible core snapshots complete,12 partial,SSENSE access-blocked,ARKET US-ineligible. One verified nominal30×32 match and three sizing-near options. ASKET archive linen$140 W30/L32 in stock; chart81cm. Sunspel complete;Percival partial.",
     "criteria": "Black dress pants · 30×32 · ≤$240 · regular/straight/relaxed · verified natural main fabric · no disclosed synthetic lining",
     "relationships": [
       {
@@ -509,7 +582,7 @@
         "relationship": "Editorial recommendation, not personal-use evidence",
         "commercial": "Article explicitly discloses commissions on some purchased links. Historical recommendation; not current stock evidence.",
         "quote": "Percival: stylish knitwear, breathable linen and elevated essentials for the modern man.",
-        "finding": "Three catalog pages reviewed. Straight Leg Twill remains private: main-fabric percentage, US price/eligibility and sizing not verified."
+        "finding": "US/USD exact selections verified:Straight/Wide cotton chinos$160,W30S Add to bag,W30R Notify me. No verified32in length; Straight is close through waist/thigh and chart78cm does not separateS/R lengths. Remaining catalog/fit reconciliation open."
       }
     ],
     "coverage": [
@@ -593,9 +666,9 @@
       },
       {
         "merchant": "ASKET",
-        "note": "Three original black styles reviewed plus Loose Twill Chino and native-search route captured. Linen W30L32 unavailable; Regular stretch excluded. Workwear-formality and complete category/search reconciliation remain.",
+        "note": "Accessible dress-trouser snapshot complete:category26 color listings,page2 repeats full collection; actual native search uses?s=,not?q=. Clicked all8 trousers pages(92 results) and3 pants pages(35),verified Showing ranges through92/92 and35/35. Black archive Linen v1.0 newly verified$140,W30/L32 selected,Add to cart enabled,100% linen/cotton pocket lining; chart81cm,regular straight. Archive Chino Details98%cotton2%elastane despite contradictory intro; current stretch/slim chinos excluded; Twill chinos are casual workwear,jeans/shorts not dress trousers; wool nonblack/$320. Current linenW30L32 still unavailable,not confused with archive.",
         "url": "https://www.asket.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete"
       },
       {
         "merchant": "COS",
@@ -623,15 +696,15 @@
       },
       {
         "merchant": "Hawes & Curtis",
-        "note": "Black Pleated $160: waist30 selected, unfinished36in selected, Add to bag enabled; promoted to sizing-near, hemming required. Classic black synthetic lining excluded. Remaining black category/native-search completeness not established.",
+        "note": "Black category19 listings reconciled with native black pants search36 results; extra black slim tapered excluded by fit and wide-leg TLPRLL21 explicitly womenswear. New TRPRJS19 wool drawstring$160 W30/unfinished36 selected/Add to bag enabled; explicit fit remains unverified,not promoted. Linen WBPDK500$110100%linen straight32 length butW30 disabled/out-of-stock; Tailored TRPRAA01$220 W30 out-of-stock. Existing Regular Pleated near retained; Classic synthetic lining excluded. Remaining gap:TRPRJS19 fit and exact regular cotton-stretch fiber percentages/native trousers reconciliation.",
         "url": "https://www.hawesandcurtis.com/",
         "coverageStatus": "partial review"
       },
       {
         "merchant": "Arc’teryx",
-        "note": "Eleven exact current pants/joggers inspected; disclosed synthetic main fabrics exclude all eleven, including cotton-named Cronin/Kragg. Remaining full category/search reconciliation required; no brand-based exclusion.",
+        "note": "Accessible current US snapshot complete:20 mens pants listings plus all16 Veilance bottoms(13 pants/3 shorts),and88/88 native pants-search cards loaded by scrolling. All eligible-price mens nonbase-layer pants reconcile to prior11 exact synthetic-main reviews. Other mens trousers exceed$240 (Veilance cheapest pants$275); remaining cheap search results are shorts/base layers,women or false positives. No natural-main black dress match. Completion scoped to current US site,not historical outlet/resale stock.",
         "url": "https://arcteryx.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete"
       },
       {
         "merchant": "lululemon",
