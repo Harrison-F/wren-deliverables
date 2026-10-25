@@ -1,0 +1,430 @@
+{
+  "id": "ice-trays",
+  "layout": "natural-basics",
+  "catalog": true,
+  "title": "Non-plastic ice trays",
+  "summary": "",
+  "updated": "2026-10-24",
+  "defaultSort": "price",
+  "showCollectionNotes": false,
+  "recommendation": {
+    "title": "Pick: Onyx ICE001",
+    "text": "A simple 18/8 steel tray: $36 + $6.86 ZIP-quoted shipping, before tax. Captain Cranberry is cheaper at $29.90 shipped before tax, but direct purchases are final sale.",
+    "test": "Three retail choices + RSVP wholesale reference. All use lever release: let ice loosen before pulling. No silicone substitutions; no budget assumed. Coatings and included lids are not fully documented."
+  },
+  "products": [
+    {
+      "id": "captain-cranberry",
+      "name": "Captain Cranberry \u2014 18-cube tray",
+      "url": "https://cranberrycookware.com/products/stainless-steel-ice-cube-tray-with-lever-11-18-cubes",
+      "brand": "Captain Cranberry",
+      "store": "Captain Cranberry",
+      "category": "Available",
+      "summary": "",
+      "verdict": "Available",
+      "unitPriceUSD": 29.9,
+      "naturalPercent": null,
+      "integrityRank": 1,
+      "materialCaveat": "Budget alternative; $29.90 with ZIP shipping, before tax. Final sale. Coating chemistry not separately disclosed.",
+      "facts": {
+        "Fabric": "304 stainless steel per brand\u2019s Amazon listing; plastic- and silicone-free claim.",
+        "Status": "Available",
+        "Price": "$29.90 item; tax unknown"
+      },
+      "image": "assets/images/ice-trays-captain-cranberry-01.webp",
+      "imageAlt": "Captain Cranberry \u00b7 18-cube tray \u2014 official gallery image 1",
+      "images": [
+        {
+          "src": "assets/images/ice-trays-captain-cranberry-01.webp",
+          "alt": "Captain Cranberry \u00b7 18-cube tray \u2014 official gallery image 1",
+          "source": "https://cdn.shopify.com/s/files/1/0721/9747/2291/files/listing-01_f94a1509-1a48-4078-abcf-b16aac72b9bc.jpg?v=1784619604"
+        },
+        {
+          "src": "assets/images/ice-trays-captain-cranberry-02.webp",
+          "alt": "Captain Cranberry \u00b7 18-cube tray \u2014 official gallery image 2",
+          "source": "https://cdn.shopify.com/s/files/1/0721/9747/2291/files/listing-02_a6602cb3-7092-4a4b-a349-faff765fb693.jpg?v=1784619604"
+        },
+        {
+          "src": "assets/images/ice-trays-captain-cranberry-03.webp",
+          "alt": "Captain Cranberry \u00b7 18-cube tray \u2014 official gallery image 3",
+          "source": "https://cdn.shopify.com/s/files/1/0721/9747/2291/files/listing-03_9bf497a5-5cb7-4a99-9e36-d0d70fe1dc58.jpg?v=1784619605"
+        },
+        {
+          "src": "assets/images/ice-trays-captain-cranberry-04.webp",
+          "alt": "Captain Cranberry \u00b7 18-cube tray \u2014 official gallery image 4",
+          "source": "https://cdn.shopify.com/s/files/1/0721/9747/2291/files/listing-04_a4431b8f-0c07-479f-bb8b-63d3c73a9679.jpg?v=1784619604"
+        },
+        {
+          "src": "assets/images/ice-trays-captain-cranberry-05.webp",
+          "alt": "Captain Cranberry \u00b7 18-cube tray \u2014 official gallery image 5",
+          "source": "https://cdn.shopify.com/s/files/1/0721/9747/2291/files/listing-05_07b682bd-4120-4340-b450-cd70c32fdff0.jpg?v=1784619604"
+        },
+        {
+          "src": "assets/images/ice-trays-captain-cranberry-06.webp",
+          "alt": "Captain Cranberry \u00b7 18-cube tray \u2014 official gallery image 6",
+          "source": "https://cdn.shopify.com/s/files/1/0721/9747/2291/files/listing-06_9d317522-53e1-4dee-81ff-879623d27f59.jpg?v=1784619605"
+        }
+      ],
+      "imageNote": "Complete exact-product Shopify image array; includes retailer marketing graphics. Not independently verified product photography. Vision unavailable; see evidence.",
+      "sources": [
+        "captain-cranberry",
+        "community-release",
+        "community-bending",
+        "community-budget",
+        "captain-amazon",
+        "captain-returns"
+      ],
+      "attribution": "Brand page and exact variant available; anonymous cart accepted. Brand-direct returns are final sale except defects. ZIP 10016 cart quote: free standard shipping; no delivery date or tax quote. Ships from Dallas, processing 1\u20133 business days by policy. Brand-owned Amazon listing B0F3NDC9CF displays $19.90 in the frequently-bought-together panel, but main offer says add to cart to see details; do not treat that as a confirmed checkout price. Amazon listing states 304 steel, plastic-free and silicone-free, and trays do not stack evenly. Manufacturer does not separately specify coating chemistry or an included lid. Brand-hosted reviews describe hard release, sharp edges and thin dividers; some reference a two-tray rack, so reviews are not a clean single-SKU sample. Repeated Reddit praise comes from the same commenter across threads, not independent consensus. Coverage: three r/PlasticFreeLiving thread feeds read, including actual release/bending/budget comments; anonymous feeds have incomplete nesting and no scores. No measured freeze-speed test or confirmed leak-rate evidence. Native Grok/X bounded pass across ten trusted seeds found no exact tray endorsement; no inference from general anti-plastic posts. Previously inaccessible books remain unreviewed; no unrelated corpus search. No health, zero-microplastic or toxicity guarantee is made. Image files were downloaded and decoded; visual inspection failed because configured vision model is unsupported, so unseen coatings/lids cannot be ruled out from photos.",
+      "verification": {
+        "price": true,
+        "gallery": true
+      }
+    },
+    {
+      "id": "onyx-ice001",
+      "name": "Onyx ICE001 \u2014 18-cube tray",
+      "url": "https://www.pinkmoongoods.com/products/ice-cube-tray-stainless-steel",
+      "brand": "Pink Moon Goods",
+      "store": "Pink Moon Goods",
+      "category": "Available",
+      "summary": "",
+      "verdict": "Available",
+      "unitPriceUSD": 36.0,
+      "naturalPercent": null,
+      "integrityRank": 1,
+      "materialCaveat": "Best-supported simple pick; $42.86 with ZIP shipping, before tax. No separate lid documented.",
+      "facts": {
+        "Fabric": "18/8 stainless steel two-part tray / divider-lever system, per Onyx.",
+        "Status": "Available",
+        "Price": "$36.00 item; tax unknown"
+      },
+      "image": "assets/images/ice-trays-onyx-ice001-01.webp",
+      "imageAlt": "Onyx ICE001 \u00b7 18-cube tray \u2014 official gallery image 1",
+      "images": [
+        {
+          "src": "assets/images/ice-trays-onyx-ice001-01.webp",
+          "alt": "Onyx ICE001 \u00b7 18-cube tray \u2014 official gallery image 1",
+          "source": "https://cdn.shopify.com/s/files/1/0463/6154/2817/files/OnyxStainlessSteelIceTray.jpg?v=1781898575"
+        },
+        {
+          "src": "assets/images/ice-trays-onyx-ice001-02.webp",
+          "alt": "Onyx ICE001 \u00b7 18-cube tray \u2014 official gallery image 2",
+          "source": "https://cdn.shopify.com/s/files/1/0463/6154/2817/files/OnyxIceTrayStainlessSteel.jpg?v=1781898575"
+        }
+      ],
+      "imageNote": "Complete exact-product Shopify image array; includes retailer marketing graphics. Not independently verified product photography. Vision unavailable; see evidence.",
+      "sources": [
+        "onyx-ice001",
+        "community-release",
+        "community-bending",
+        "community-budget",
+        "onyx-maker",
+        "onyx-amazon",
+        "plasticproof",
+        "pink-returns",
+        "pink-shipping"
+      ],
+      "attribution": "Pink Moon exact SKU ICE001, UPC 705105583204, available variant at $36. Onyx manufacturer describes an 18/8 stainless two-part system, not a lid bundle. Pink Moon gives inside dimensions 10 \u00d7 4 \u00d7 1 inches; Amazon gives overall 11.25 \u00d7 5 \u00d7 2 inches. No included lid established; do not assume the removable divider is a lid. Plasticproof is an affiliate research page, NOT a retailer or independent materials test; its no-coating claim is not repeated in the manufacturer specification. No component-level finish declaration obtained. Pink Moon ZIP 10016 anonymous cart: Ground Advantage $6.86; quoted carrier date October 28 is not a guaranteed delivery promise and may omit shop handling. Store policy processing 2\u20133 business days. Tax unknown. Returns unused/unopened only: email within 7 days, ship back within 30, buyer pays return postage; no cancellations. Amazon B0027V9OR0 is the SAME Onyx ICE001, not a separate design; $39.95 appears in its bundle panel, main offer price gated. One retrieved Reddit owner explicitly likes Onyx lever release. No long-term mechanical test obtained. Coverage: three r/PlasticFreeLiving thread feeds read, including actual release/bending/budget comments; anonymous feeds have incomplete nesting and no scores. No measured freeze-speed test or confirmed leak-rate evidence. Native Grok/X bounded pass across ten trusted seeds found no exact tray endorsement; no inference from general anti-plastic posts. Previously inaccessible books remain unreviewed; no unrelated corpus search. No health, zero-microplastic or toxicity guarantee is made. Image files were downloaded and decoded; visual inspection failed because configured vision model is unsupported, so unseen coatings/lids cannot be ruled out from photos.",
+      "verification": {
+        "price": true,
+        "gallery": true
+      }
+    },
+    {
+      "id": "ecozoi-standard",
+      "name": "Ecozoi \u2014 18-cube tray",
+      "url": "https://ecozoi.com/products/ecozoi-eco-safe-stainless-steel-ice-cube-tray-with-easy-release-handle",
+      "brand": "Ecozoi",
+      "store": "Ecozoi",
+      "category": "Available",
+      "summary": "",
+      "verdict": "Available",
+      "unitPriceUSD": 45.45,
+      "naturalPercent": null,
+      "integrityRank": 2,
+      "materialCaveat": "Stronger explicit component claim; $45.45 with ZIP shipping, before tax. No lid documented.",
+      "facts": {
+        "Fabric": "304 stainless steel; maker explicitly includes structure and release mechanism in plastic-free claim.",
+        "Status": "Available",
+        "Price": "$45.45 item; tax unknown"
+      },
+      "image": "assets/images/ice-trays-ecozoi-standard-01.webp",
+      "imageAlt": "Ecozoi \u00b7 18-cube tray \u2014 official gallery image 1",
+      "images": [
+        {
+          "src": "assets/images/ice-trays-ecozoi-standard-01.webp",
+          "alt": "Ecozoi \u00b7 18-cube tray \u2014 official gallery image 1",
+          "source": "https://cdn.shopify.com/s/files/1/2289/9201/products/Ecozoi_Stainless_Steel_Ice_Cube_Tray_with_Easy_Release_Handle.jpg?v=1614183110"
+        },
+        {
+          "src": "assets/images/ice-trays-ecozoi-standard-02.webp",
+          "alt": "Ecozoi \u00b7 18-cube tray \u2014 official gallery image 2",
+          "source": "https://cdn.shopify.com/s/files/1/2289/9201/files/AMAZON_PDP_IMAGES.jpg?v=1789444203"
+        },
+        {
+          "src": "assets/images/ice-trays-ecozoi-standard-03.webp",
+          "alt": "Ecozoi \u00b7 18-cube tray \u2014 official gallery image 3",
+          "source": "https://cdn.shopify.com/s/files/1/2289/9201/files/AMAZON_PDP_IMAGES_NEW.jpg?v=1789444209"
+        },
+        {
+          "src": "assets/images/ice-trays-ecozoi-standard-04.webp",
+          "alt": "Ecozoi \u00b7 18-cube tray \u2014 official gallery image 4",
+          "source": "https://cdn.shopify.com/s/files/1/2289/9201/files/DIMENSIONS_IMAGE.jpg?v=1789444334"
+        },
+        {
+          "src": "assets/images/ice-trays-ecozoi-standard-05.webp",
+          "alt": "Ecozoi \u00b7 18-cube tray \u2014 official gallery image 5",
+          "source": "https://cdn.shopify.com/s/files/1/2289/9201/files/LIFESTYLE_IMAGE_dbeaaa47-7705-4238-838d-f97f35d9054e.jpg?v=1789444334"
+        },
+        {
+          "src": "assets/images/ice-trays-ecozoi-standard-06.webp",
+          "alt": "Ecozoi \u00b7 18-cube tray \u2014 official gallery image 6",
+          "source": "https://cdn.shopify.com/s/files/1/2289/9201/files/HOW_TO_USE_IMAGE_bc05ff17-5424-408e-9d59-e37d486e5a3e.jpg?v=1789444244"
+        },
+        {
+          "src": "assets/images/ice-trays-ecozoi-standard-07.webp",
+          "alt": "Ecozoi \u00b7 18-cube tray \u2014 official gallery image 7",
+          "source": "https://cdn.shopify.com/s/files/1/2289/9201/files/COMPARISON_IMAGE_798b3265-6466-49bc-8b16-09bd71735315.jpg?v=1789444245"
+        },
+        {
+          "src": "assets/images/ice-trays-ecozoi-standard-08.webp",
+          "alt": "Ecozoi \u00b7 18-cube tray \u2014 official gallery image 8",
+          "source": "https://cdn.shopify.com/s/files/1/2289/9201/files/QUALITY_ASSURANCE_6638f0df-f739-48c9-b607-cdc04795bf75.jpg?v=1789444245"
+        },
+        {
+          "src": "assets/images/ice-trays-ecozoi-standard-09.webp",
+          "alt": "Ecozoi \u00b7 18-cube tray \u2014 official gallery image 9",
+          "source": "https://cdn.shopify.com/s/files/1/2289/9201/files/USER_EXPERIENCE.jpg?v=1789444243"
+        },
+        {
+          "src": "assets/images/ice-trays-ecozoi-standard-10.webp",
+          "alt": "Ecozoi \u00b7 18-cube tray \u2014 official gallery image 10",
+          "source": "https://cdn.shopify.com/s/files/1/2289/9201/files/MULTI-USE_IMAGE.jpg?v=1789444245"
+        },
+        {
+          "src": "assets/images/ice-trays-ecozoi-standard-11.webp",
+          "alt": "Ecozoi \u00b7 18-cube tray \u2014 official gallery image 11",
+          "source": "https://cdn.shopify.com/s/files/1/2289/9201/files/Ice_Cube_Trays_Image_2.png?v=1783663948"
+        },
+        {
+          "src": "assets/images/ice-trays-ecozoi-standard-12.webp",
+          "alt": "Ecozoi \u00b7 18-cube tray \u2014 official gallery image 12",
+          "source": "https://cdn.shopify.com/s/files/1/2289/9201/files/Ice_Cube_Trays_Image_1.png?v=1783663948"
+        }
+      ],
+      "imageNote": "Complete exact-product Shopify image array; includes retailer marketing graphics. Not independently verified product photography. Vision unavailable; see evidence.",
+      "sources": [
+        "ecozoi-standard",
+        "community-release",
+        "community-bending",
+        "community-budget",
+        "ecozoi-two",
+        "ecozoi-round"
+      ],
+      "attribution": "Exact variant NW-G5QG-LPZ4 available, $45.45 sale from $51.45. Manufacturer FAQ says structure and release mechanism are 100% plastic-free. Coatings not separately specified on this exact standard tray; do not borrow the no-coating FAQ from the different small-round model. No included lid documented. Manufacturer instructs standing 5\u20136 minutes before release; don\u2019t force a frozen lever. ZIP 10016 anonymous cart quoted $0 Standard; no delivery date. Policy 3\u20135 business days, contiguous US only. Page advertises 30-day free returns, but also says free returns if selected; warranty copy conflicts between 2-year banner and 1-year extended registration text. Confirm claim eligibility rather than assuming unconditional coverage. Brand-hosted pooled reviews include ice crushing, unstable rack and breakage within two months; these cannot all be assigned to this exact tray. Divider/handle and spare tray currently sold out. Two-pack with rack is $61.45 total / $30.73 per tray before any unquoted shipping/tax; same standard lever design, not a new product architecture. Small-round four-pack is $41.45 but variant unavailable despite misleading in-stock banner. Silicone clear-ice mold excluded. Coverage: three r/PlasticFreeLiving thread feeds read, including actual release/bending/budget comments; anonymous feeds have incomplete nesting and no scores. No measured freeze-speed test or confirmed leak-rate evidence. Native Grok/X bounded pass across ten trusted seeds found no exact tray endorsement; no inference from general anti-plastic posts. Previously inaccessible books remain unreviewed; no unrelated corpus search. No health, zero-microplastic or toxicity guarantee is made. Image files were downloaded and decoded; visual inspection failed because configured vision model is unsupported, so unseen coatings/lids cannot be ruled out from photos.",
+      "verification": {
+        "price": true,
+        "gallery": true
+      }
+    },
+    {
+      "id": "rsvp-ice18",
+      "name": "RSVP Endurance ICE-18 \u2014 reference",
+      "url": "https://rsvp-intl.com/products/wholesale-wine-glass-set-of-2",
+      "brand": "RSVP International",
+      "store": "RSVP International",
+      "category": "Wholesale only",
+      "summary": "",
+      "verdict": "Wholesale only",
+      "unitPriceUSD": null,
+      "naturalPercent": null,
+      "integrityRank": 1,
+      "materialCaveat": "Retail price/stock not verified. $16.50 is wholesale, NOT a consumer offer.",
+      "facts": {
+        "Fabric": "Heavy-duty polished 18/8 stainless steel, 18 cubes, lever release.",
+        "Status": "Wholesale only",
+        "Price": "Unknown retail price"
+      },
+      "image": "assets/images/ice-trays-rsvp-ice18-01.webp",
+      "imageAlt": "RSVP Endurance ICE-18 \u00b7 reference \u2014 official gallery image 1",
+      "images": [
+        {
+          "src": "assets/images/ice-trays-rsvp-ice18-01.webp",
+          "alt": "RSVP Endurance ICE-18 \u00b7 reference \u2014 official gallery image 1",
+          "source": "https://cdn.shopify.com/s/files/1/0550/1399/8784/products/053796107798_01.jpg?v=1664836645"
+        },
+        {
+          "src": "assets/images/ice-trays-rsvp-ice18-02.webp",
+          "alt": "RSVP Endurance ICE-18 \u00b7 reference \u2014 official gallery image 2",
+          "source": "https://cdn.shopify.com/s/files/1/0550/1399/8784/files/053796107798_03.jpg?v=1767681968"
+        },
+        {
+          "src": "assets/images/ice-trays-rsvp-ice18-03.webp",
+          "alt": "RSVP Endurance ICE-18 \u00b7 reference \u2014 official gallery image 3",
+          "source": "https://cdn.shopify.com/s/files/1/0550/1399/8784/files/053796107798_03_2.jpg?v=1767681968"
+        },
+        {
+          "src": "assets/images/ice-trays-rsvp-ice18-04.webp",
+          "alt": "RSVP Endurance ICE-18 \u00b7 reference \u2014 official gallery image 4",
+          "source": "https://cdn.shopify.com/s/files/1/0550/1399/8784/files/053796107798_30.jpg?v=1767681968"
+        },
+        {
+          "src": "assets/images/ice-trays-rsvp-ice18-05.webp",
+          "alt": "RSVP Endurance ICE-18 \u00b7 reference \u2014 official gallery image 5",
+          "source": "https://cdn.shopify.com/s/files/1/0550/1399/8784/files/053796107798_31.jpg?v=1767681968"
+        },
+        {
+          "src": "assets/images/ice-trays-rsvp-ice18-06.webp",
+          "alt": "RSVP Endurance ICE-18 \u00b7 reference \u2014 official gallery image 6",
+          "source": "https://cdn.shopify.com/s/files/1/0550/1399/8784/files/053796107798_33.jpg?v=1767681969"
+        },
+        {
+          "src": "assets/images/ice-trays-rsvp-ice18-07.webp",
+          "alt": "RSVP Endurance ICE-18 \u00b7 reference \u2014 official gallery image 7",
+          "source": "https://cdn.shopify.com/s/files/1/0550/1399/8784/files/053796107798_34.jpg?v=1767681968"
+        },
+        {
+          "src": "assets/images/ice-trays-rsvp-ice18-08.webp",
+          "alt": "RSVP Endurance ICE-18 \u00b7 reference \u2014 official gallery image 8",
+          "source": "https://cdn.shopify.com/s/files/1/0550/1399/8784/files/053796107798_32.jpg?v=1767681968"
+        }
+      ],
+      "imageNote": "Complete exact-product Shopify image array; includes retailer marketing graphics. Not independently verified product photography. Vision unavailable; see evidence.",
+      "sources": [
+        "rsvp-ice18",
+        "community-release",
+        "community-bending",
+        "community-budget",
+        "vermont"
+      ],
+      "attribution": "Official live URL has a misleading legacy wine-glass handle but title, SKU ICE-18 and UPC 053796107798 establish the ice tray. Dimensions 11.19 \u00d7 4.75 \u00d7 1.25 inches, dishwasher safe. Wholesale $16.50 listing requires login, pack size 6 and $250 minimum; excluded from consumer affordability ranking. No included lid or comprehensive coating declaration obtained. A Reddit comment names RSVP, not a detailed use report. Everything Kitchens discovery was 403; Amazon search 503. Vermont Country Store item 70462 is a live $34.95 18/8 18-cube lever tray alternative, but manufacturer/OEM identity, shipping and exact inventory not established; do not count it as a proven fourth independent design. All named brands here use similar lever architecture; independent factories/designs are not established. Coverage: three r/PlasticFreeLiving thread feeds read, including actual release/bending/budget comments; anonymous feeds have incomplete nesting and no scores. No measured freeze-speed test or confirmed leak-rate evidence. Native Grok/X bounded pass across ten trusted seeds found no exact tray endorsement; no inference from general anti-plastic posts. Previously inaccessible books remain unreviewed; no unrelated corpus search. No health, zero-microplastic or toxicity guarantee is made. Image files were downloaded and decoded; visual inspection failed because configured vision model is unsupported, so unseen coatings/lids cannot be ruled out from photos.",
+      "verification": {
+        "price": false,
+        "gallery": true
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "captain-cranberry",
+      "url": "https://cranberrycookware.com/products/stainless-steel-ice-cube-tray-with-lever-11-18-cubes",
+      "title": "Captain Cranberry \u00b7 18-cube tray",
+      "note": "Live HTTP 200; checked October 24, 2026",
+      "type": "First-party product / retailer"
+    },
+    {
+      "id": "onyx-ice001",
+      "url": "https://www.pinkmoongoods.com/products/ice-cube-tray-stainless-steel",
+      "title": "Onyx ICE001 \u00b7 18-cube tray",
+      "note": "Live HTTP 200; checked October 24, 2026",
+      "type": "First-party product / retailer"
+    },
+    {
+      "id": "ecozoi-standard",
+      "url": "https://ecozoi.com/products/ecozoi-eco-safe-stainless-steel-ice-cube-tray-with-easy-release-handle",
+      "title": "Ecozoi \u00b7 18-cube tray",
+      "note": "Live HTTP 200; checked October 24, 2026",
+      "type": "First-party product / retailer"
+    },
+    {
+      "id": "rsvp-ice18",
+      "url": "https://rsvp-intl.com/products/wholesale-wine-glass-set-of-2",
+      "title": "RSVP Endurance ICE-18 \u00b7 reference",
+      "note": "Live HTTP 200; checked October 24, 2026",
+      "type": "First-party product / retailer"
+    },
+    {
+      "id": "community-release",
+      "url": "https://www.reddit.com/r/PlasticFreeLiving/comments/1uq7nz8/which_ice_tray/",
+      "title": "Owner release experiences",
+      "note": "Onyx positive use; Ecozoi needs thaw before lever; comments read, anecdotes only.",
+      "type": "Community comments"
+    },
+    {
+      "id": "community-bending",
+      "url": "https://www.reddit.com/r/PlasticFreeLiving/comments/1sdgrp1/suggestions_for_stainless_steel_ice_cube_trays/",
+      "title": "Bending and alternative brands",
+      "note": "Original post reports unnamed lever bending; Ecozoi no-lever claim cannot be assigned to standard lever model.",
+      "type": "Community comments"
+    },
+    {
+      "id": "community-budget",
+      "url": "https://www.reddit.com/r/PlasticFreeLiving/comments/1rfga2h/stainless_steel_ice_cube_trays/",
+      "title": "Budget and long-term follow-up",
+      "note": "Canadian prices not converted into US offers; mixed sample with repeated Captain Cranberry commenter.",
+      "type": "Community comments"
+    },
+    {
+      "id": "onyx-maker",
+      "url": "https://www.onyxcontainers.com/ice-cube-tray/49-ice-cube-trays.html",
+      "title": "Onyx manufacturer specification",
+      "note": "",
+      "type": "First-party product / retailer"
+    },
+    {
+      "id": "plasticproof",
+      "url": "https://getplasticproof.com/products/onyx-stainless-ice-cube-tray",
+      "title": "Plasticproof affiliate lead",
+      "note": "",
+      "type": "First-party product / retailer"
+    },
+    {
+      "id": "onyx-amazon",
+      "url": "https://www.amazon.com/dp/B0027V9OR0",
+      "title": "Same Onyx ICE001 at Amazon",
+      "note": "",
+      "type": "First-party product / retailer"
+    },
+    {
+      "id": "captain-amazon",
+      "url": "https://www.amazon.com/dp/B0F3NDC9CF",
+      "title": "Captain Cranberry brand-owned Amazon listing",
+      "note": "",
+      "type": "First-party product / retailer"
+    },
+    {
+      "id": "captain-returns",
+      "url": "https://cranberrycookware.com/policies/refund-policy",
+      "title": "Captain Cranberry final-sale policy",
+      "note": "",
+      "type": "First-party product / retailer"
+    },
+    {
+      "id": "pink-returns",
+      "url": "https://www.pinkmoongoods.com/policies/refund-policy",
+      "title": "Pink Moon returns",
+      "note": "",
+      "type": "First-party product / retailer"
+    },
+    {
+      "id": "pink-shipping",
+      "url": "https://www.pinkmoongoods.com/policies/shipping-policy",
+      "title": "Pink Moon shipping",
+      "note": "",
+      "type": "First-party product / retailer"
+    },
+    {
+      "id": "vermont",
+      "url": "https://www.vermontcountrystore.com/stainless-steel-ice-cube-tray/product/70462",
+      "title": "Unattributed retailer alternative",
+      "note": "",
+      "type": "First-party product / retailer"
+    },
+    {
+      "id": "ecozoi-two",
+      "url": "https://ecozoi.com/products/ecozoi-stainless-steel-ice-cube-trays-2-pack-with-easy-release-handle-and-stand",
+      "title": "Ecozoi same-design two-pack",
+      "note": "",
+      "type": "First-party product / retailer"
+    },
+    {
+      "id": "ecozoi-round",
+      "url": "https://ecozoi.com/products/stainless-steel-ice-cube-trays-4-pack-72-small-round-ice-cubes",
+      "title": "Different small-round design \u2014 sold out",
+      "note": "",
+      "type": "First-party product / retailer"
+    }
+  ],
+  "evidenceNote": "Coverage: three r/PlasticFreeLiving thread feeds read, including actual release/bending/budget comments; anonymous feeds have incomplete nesting and no scores. No measured freeze-speed test or confirmed leak-rate evidence. Native Grok/X bounded pass across ten trusted seeds found no exact tray endorsement; no inference from general anti-plastic posts. Previously inaccessible books remain unreviewed; no unrelated corpus search. No health, zero-microplastic or toxicity guarantee is made. Image files were downloaded and decoded; visual inspection failed because configured vision model is unsupported, so unseen coatings/lids cannot be ruled out from photos.",
+  "caveat": "Coverage: three r/PlasticFreeLiving thread feeds read, including actual release/bending/budget comments; anonymous feeds have incomplete nesting and no scores. No measured freeze-speed test or confirmed leak-rate evidence. Native Grok/X bounded pass across ten trusted seeds found no exact tray endorsement; no inference from general anti-plastic posts. Previously inaccessible books remain unreviewed; no unrelated corpus search. No health, zero-microplastic or toxicity guarantee is made. Image files were downloaded and decoded; visual inspection failed because configured vision model is unsupported, so unseen coatings/lids cannot be ruled out from photos."
+}
