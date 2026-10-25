@@ -460,6 +460,65 @@
         "refined-asket-archive-linen-black-source"
       ],
       "attribution": "Core merchant; manufacturer claims, not independently tested."
+    },
+    {
+      "id": "refined-prm-fred-perry-t2301-black",
+      "name": "Cotton Trousers T2301",
+      "store": "PRM · Fred Perry",
+      "brand": "Fred Perry",
+      "url": "https://prm.com/us/p/fred-perry-trousers-cotton-men-s-black-regular-waist-t2301-99630",
+      "color": "Black · 198",
+      "unitPriceUSD": 189.9,
+      "naturalPercent": 100,
+      "integrityRank": 0,
+      "summary": "",
+      "verdict": "Sizing near match",
+      "category": "Sizing near matches",
+      "merchantLane": "core",
+      "matchClass": "near",
+      "materialCaveat": "Waist30 in stock; inseam unspecified.",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Size": "Waist30 selected; inseam unspecified",
+        "Availability": "Size30 selected; Add to cart enabled",
+        "Eligibility": "Sizing near match — length unverified",
+        "Fit": "Regular fit; straight leg",
+        "Status": "In stock"
+      },
+      "images": [
+        {
+          "src": "assets/images/refined-prm-fred-perry-t2301-black-1.webp",
+          "alt": "Fred Perry T2301.198 black — retailer gallery 1",
+          "sourceURL": "https://img2.ans-media.com/i/1400x2100/AW26-SPMZNW-99X_F1.avif?v=1792492608"
+        },
+        {
+          "src": "assets/images/refined-prm-fred-perry-t2301-black-2.webp",
+          "alt": "Fred Perry T2301.198 black — retailer gallery 2",
+          "sourceURL": "https://img2.ans-media.com/i/1400x2100/AW26-SPMZNW-99X_F2.avif?v=1792492756"
+        },
+        {
+          "src": "assets/images/refined-prm-fred-perry-t2301-black-3.webp",
+          "alt": "Fred Perry T2301.198 black — retailer gallery 3",
+          "sourceURL": "https://img2.ans-media.com/i/1400x2100/AW26-SPMZNW-99X_F3.avif?v=1792492756"
+        },
+        {
+          "src": "assets/images/refined-prm-fred-perry-t2301-black-4.webp",
+          "alt": "Fred Perry T2301.198 black — retailer gallery 4",
+          "sourceURL": "https://img2.ans-media.com/i/1400x2100/AW26-SPMZNW-99X_F4.avif?v=1792492608"
+        },
+        {
+          "src": "assets/images/refined-prm-fred-perry-t2301-black-5.webp",
+          "alt": "Fred Perry T2301.198 black — retailer gallery 5",
+          "sourceURL": "https://img2.ans-media.com/i/1400x2100/AW26-SPMZNW-99X_F5.avif?v=1792492756"
+        }
+      ],
+      "image": "assets/images/refined-prm-fred-perry-t2301-black-1.webp",
+      "imageAlt": "Fred Perry T2301.198 black — retailer gallery 1",
+      "imageNote": "All five exposed exact T2301.198 black product-gallery images. Sample-size32 outer leg105cm does not establish size30 inseam.",
+      "sources": [
+        "refined-prm-fred-perry-t2301-black-source"
+      ],
+      "attribution": "Core retailer; manufacturer and retailer claims, not independently tested."
     }
   ],
   "sources": [
@@ -542,12 +601,20 @@
       "accessed": "2026-10-25",
       "type": "First-party product page",
       "note": "Observed 2026-10-25. Exact black gallery; material and size limitations shown on card."
+    },
+    {
+      "id": "refined-prm-fred-perry-t2301-black-source",
+      "title": "PRM — Fred Perry T2301.198 black, selected waist30",
+      "url": "https://prm.com/us/p/fred-perry-trousers-cotton-men-s-black-regular-waist-t2301-99630",
+      "accessed": "2026-10-25",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-25. Exact black gallery; material and size limitations shown on card."
     }
   ],
   "refinedResearch": {
     "qualified": 1,
-    "sizingNear": 3,
-    "scope": "Research remains incomplete:8 accessible core snapshots complete,12 partial,SSENSE access-blocked,ARKET US-ineligible. One verified nominal30×32 match and three sizing-near options. ASKET archive linen$140 W30/L32 in stock; chart81cm. Sunspel complete;Percival partial.",
+    "sizingNear": 4,
+    "scope": "Research remains incomplete:8 accessible core snapshots complete,12 partial,SSENSE access-blocked,ARKET US-ineligible. One verified nominal30×32 match and four sizing-near options. PRM Fred Perry waist30 is available; inseam unspecified. Sunspel complete;Percival partial.",
     "criteria": "Black dress pants · 30×32 · ≤$240 · regular/straight/relaxed · verified natural main fabric · no disclosed synthetic lining",
     "relationships": [
       {
@@ -648,7 +715,7 @@
       },
       {
         "merchant": "PRM",
-        "note": "Registered headed category recovered:896 listed products, filter controls captured. Exact black natural-fiber filtering, pagination and candidate review remain; no longer a total access block.",
+        "note": "US black filter successfully applied through Colour > black > Accept:314 advertised. All4 linked pages scrolled to bottom:80+80+80+64=304 unique exact product links;10-listing count discrepancy unresolved,not exhaustive.53 plausible non-sport black<=260 exact leads probed:HTTP403;51 recovered headed,2 navigation timeouts(Icecream50683,Champion50919). Numeric main/lining reviewed,synthetic pockets exclude Brady/Newel/Simple/Aaron despite natural shell. Fred Perry T2301.198$189.90 regular straight100%cotton,size30 selected/Add to cart enabled promoted as inseam-unspecified near;102 dye is same style retained privately. Norse Aros98%cotton2%elastane excluded. Lacoste100%cottonS available but waist mapping/inseam unresolved; HoldenI036501 onlyXL available. Price filter Accept stayed disabled:do not claim price filtering succeeded. Remaining:10 missing listing reconciliation,native search,remaining natural-candidate exact sizing/formality and two timed-out pages.",
         "url": "https://prm.com/",
         "coverageStatus": "partial review"
       },
@@ -696,7 +763,7 @@
       },
       {
         "merchant": "Hawes & Curtis",
-        "note": "Black category19 listings reconciled with native black pants search36 results; extra black slim tapered excluded by fit and wide-leg TLPRLL21 explicitly womenswear. New TRPRJS19 wool drawstring$160 W30/unfinished36 selected/Add to bag enabled; explicit fit remains unverified,not promoted. Linen WBPDK500$110100%linen straight32 length butW30 disabled/out-of-stock; Tailored TRPRAA01$220 W30 out-of-stock. Existing Regular Pleated near retained; Classic synthetic lining excluded. Remaining gap:TRPRJS19 fit and exact regular cotton-stretch fiber percentages/native trousers reconciliation.",
+        "note": "Black category19 and native black pants/trousers36 results reconciled. Exact regular black chinos WBPDF00297%cotton3%spandex and WBPDK00498%cotton2%elastane excluded. Linen W30 unavailable,Tailored W30 unavailable,Classic explicit polyester lining,slim/overbudget/womens entries partitioned. Existing Regular Pleated near retained. Remaining narrow gap:TRPRJS19 wool drawstring W30 unfinished36 purchasable but no explicit regular/straight/relaxed fit proof; relaxed dressing is not a fit classification.",
         "url": "https://www.hawesandcurtis.com/",
         "coverageStatus": "partial review"
       },
