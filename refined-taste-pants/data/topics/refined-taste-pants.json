@@ -474,7 +474,7 @@
   "refinedResearch": {
     "qualified": 0,
     "sizingNear": 3,
-    "scope": "Review remains in progress: 3 core merchants have documented accessible-snapshot completion; 17 have partial reviews, SSENSE remains access-blocked, and ARKET US eligibility is unresolved. Three sizing-near options; no verified in-stock exact30×32.",
+    "scope": "Review remains in progress: 6 core merchants have documented accessible-snapshot completion; 14 have partial reviews, SSENSE remains access-blocked, and ARKET explicitly does not ship to the United States. Sunspel accessible snapshot complete; Percival remains partial. Three sizing-near options; no verified in-stock exact30×32.",
     "criteria": "Black dress pants · 30×32 · ≤$240 · regular/straight/relaxed · verified natural main fabric · no disclosed synthetic lining",
     "relationships": [
       {
@@ -492,7 +492,7 @@
         "relationship": "Editorial recommendation, not personal-use evidence",
         "commercial": "Shopping article with retailer links; specific sponsorship/affiliate relationship not stated in captured text.",
         "quote": "Sunspel: the label also delivers on minimal knitwear, denim, tailoring and outerwear.",
-        "finding": "Black boiled-wool tailored trousers checked: $415, over budget; size30 Notify Me. No qualifying product in the bounded review."
+        "finding": "Accessible US snapshot complete:1038-product feed and native trousers/pants searches reconciled. Recovered dynamic mens-trousers category using public category feed:48 products,page2 empty,no new handles. All73 bottom-regex entries/color options reviewed. Black Cotton Drill$245 and Boiled Wool$415 over budget; remaining black entries lounge/sweatpants or womenswear. No qualifying option."
       },
       {
         "person": "Luke Chamberlain",
@@ -515,9 +515,9 @@
     "coverage": [
       {
         "merchant": "SCRT",
-        "note": "Full369-product feed and category/native-search pagination captured. Three former price gaps closed on exact US/USD pages:Perfecto$255, Triple Pleat Wool$409, Travis Pinstripe$309; Cotton Triple Pleat previously$247. All exceed$240. Nonblack/category and cargo/track-style reconciliation remains; no whole-merchant completion claim.",
+        "note": "Accessible snapshot complete:369-product feed reconciled with trousers category and native trousers/pants searches through page2. All27 bottom-regex entries reviewed including false positives. Four tailored US prices exceed$240; remaining black styles are explicitly bootcut/flared, balloon military cargo or sweatpants; other colors excluded. No qualifying black dress trousers.",
         "url": "https://scrt.onl",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete"
       },
       {
         "merchant": "Industry of All Nations",
@@ -581,9 +581,9 @@
       },
       {
         "merchant": "The Frankie Shop",
-        "note": "Full2900-product feed; mens-bottoms4 pages and native-search traversal retained. All23 black mens-category trouser entries reviewed:22 material/price exclusions; Stephen Pleated Denim$140 is100% cotton/unlined but exact S/M inseam30in and L30.25in, not32in. No qualifying option in this subset. Remaining feed gender/nonblack-color reconciliation open.",
+        "note": "Accessible snapshot complete:2900-product feed reconciled to mens-bottoms pages1–4 and saved native searches. All516 bottom-regex entries partitioned by explicit gender tags and category membership. Prior23 black mens entries remain excluded. Four additional black jeans/joggers reviewed: Sahil S waist31.5/inseam28.75in and Trafal S waist31.5/inseam30.75in; other two over budget or synthetic. Nine extra unisex Tekla items are pyjamas/over$240. Chard Khaki has stale black tag but explicit khaki balloon-cargo description. Remaining mens colors nonblack; image filenames excluded from handle reconciliation.",
         "url": "https://thefrankieshop.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete"
       },
       {
         "merchant": "Yohji Yamamoto",
@@ -605,15 +605,15 @@
       },
       {
         "merchant": "ARKET",
-        "note": "Shipping/help alternative still redirects to Argentina/English worldwide route. US eligibility unresolved; do not substitute overseas inventory.",
+        "note": "US eligibility resolved:official worldwide storefront location selector explicitly lists United States — Not available. Argentina/USD worldwide pricing is not US inventory. No US-purchasable direct-store option; overseas inventory not claimed exhaustively reviewed.",
         "url": "https://www.arket.com/",
-        "coverageStatus": "regional route unresolved"
+        "coverageStatus": "US shipping unavailable"
       },
       {
         "merchant": "A.P.C.",
-        "note": "Full812-product feed; category1 page; native trousers3/pants6 distinct page numbers traversed. Seven black candidate exact pages captured; listed350–520 USD on US feed. Gender, sale and non-keyword color reconciliation remain.",
+        "note": "Accessible snapshot complete:812-product US feed, mens pants category and native trousers/pants searches through pages3/6 reconciled. All85 bottom-regex entries reviewed with exact color options; black candidates exceed$240 except Achille stonewashed jeans$167.50, all sizes including30 sold out. No qualifying black dress trousers.",
         "url": "https://www.apc-us.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete"
       },
       {
         "merchant": "Massimo Dutti",
