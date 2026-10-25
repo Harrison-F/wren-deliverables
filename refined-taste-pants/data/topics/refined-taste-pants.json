@@ -519,6 +519,61 @@
         "refined-prm-fred-perry-t2301-black-source"
       ],
       "attribution": "Core retailer; manufacturer and retailer claims, not independently tested."
+    },
+    {
+      "id": "refined-hc-drawstring-black",
+      "name": "Twill Pleated Drawstring Pants",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "url": "https://www.hawesandcurtis.com/black-twill-pleated-drawstring-pants-trprjs19-a01",
+      "color": "Black",
+      "unitPriceUSD": 160,
+      "naturalPercent": 100,
+      "integrityRank": 0,
+      "summary": "",
+      "verdict": "Sizing near match",
+      "category": "Sizing near matches",
+      "merchantLane": "core",
+      "matchClass": "near",
+      "materialCaveat": "Waist30; unfinished36in requires hemming. Elasticated waistband.",
+      "facts": {
+        "Fabric": "100% wool; elasticated waistband",
+        "Size": "Waist30 / unfinished36in; hem to32in",
+        "Availability": "30 and unfinished36 selected; Add to bag enabled",
+        "Eligibility": "Sizing near match — hemming required",
+        "Fit": "Regular fit; exact TRPRJS19-A01 UK product title",
+        "Status": "In stock"
+      },
+      "images": [
+        {
+          "src": "assets/images/refined-hc-drawstring-black-1.webp",
+          "alt": "Black twill pleated drawstring pants — retailer gallery 1",
+          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS19-A01-210379-800px-1040px.jpg"
+        },
+        {
+          "src": "assets/images/refined-hc-drawstring-black-2.webp",
+          "alt": "Black twill pleated drawstring pants — retailer gallery 2",
+          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS19-A01-210380-800px-1040px.jpg"
+        },
+        {
+          "src": "assets/images/refined-hc-drawstring-black-3.webp",
+          "alt": "Black twill pleated drawstring pants — retailer gallery 3",
+          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS19-A01-210381-800px-1040px.jpg"
+        },
+        {
+          "src": "assets/images/refined-hc-drawstring-black-4.webp",
+          "alt": "Black twill pleated drawstring pants — retailer gallery 4",
+          "sourceURL": "https://images.hawesandcurtis.com/tr:q-80/TR/TRPRJS19-A01-211782-800px-1040px.jpg"
+        }
+      ],
+      "image": "assets/images/refined-hc-drawstring-black-1.webp",
+      "imageAlt": "Black twill pleated drawstring pants — retailer gallery 1",
+      "imageNote": "All four exact black gallery images exposed on the US product page. Manufacturer claims; no independent garment testing.",
+      "sources": [
+        "refined-hc-drawstring-black-us",
+        "refined-hc-drawstring-black-fit"
+      ],
+      "attribution": "Core merchant; US price and size availability. Same exact style/color UK listing verifies regular fit."
     }
   ],
   "sources": [
@@ -609,12 +664,28 @@
       "accessed": "2026-10-25",
       "type": "First-party product page",
       "note": "Observed 2026-10-25. Exact black gallery; material and size limitations shown on card."
+    },
+    {
+      "id": "refined-hc-drawstring-black-us",
+      "title": "Hawes & Curtis — black TRPRJS19-A01, selected US waist30 / unfinished36",
+      "url": "https://www.hawesandcurtis.com/black-twill-pleated-drawstring-pants-trprjs19-a01",
+      "accessed": "2026-10-25",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-25. Exact style/color evidence; material and size limitations shown on card."
+    },
+    {
+      "id": "refined-hc-drawstring-black-fit",
+      "title": "Hawes & Curtis UK — exact TRPRJS19-A01 regular-fit title",
+      "url": "https://www.hawesandcurtis.co.uk/black-drawstring-twill-trousers-trprjs19-a01",
+      "accessed": "2026-10-25",
+      "type": "First-party product page",
+      "note": "Observed 2026-10-25. Exact style/color evidence; material and size limitations shown on card."
     }
   ],
   "refinedResearch": {
     "qualified": 1,
-    "sizingNear": 4,
-    "scope": "Research remains incomplete:8 accessible core snapshots complete,12 partial,SSENSE access-blocked,ARKET US-ineligible. One verified nominal30×32 match and four sizing-near options. PRM Fred Perry waist30 is available; inseam unspecified. Sunspel complete;Percival partial.",
+    "sizingNear": 5,
+    "scope": "Research continues: one verified nominal30×32 match and five sizing-near options. Remaining merchant coverage and exact evidence gaps are retained privately.",
     "criteria": "Black dress pants · 30×32 · ≤$240 · regular/straight/relaxed · verified natural main fabric · no disclosed synthetic lining",
     "relationships": [
       {
@@ -655,135 +726,135 @@
     "coverage": [
       {
         "merchant": "SCRT",
-        "note": "Accessible snapshot complete:369-product feed reconciled with trousers category and native trousers/pants searches through page2. All27 bottom-regex entries reviewed including false positives. Four tailored US prices exceed$240; remaining black styles are explicitly bootcut/flared, balloon military cargo or sweatpants; other colors excluded. No qualifying black dress trousers.",
         "url": "https://scrt.onl",
-        "coverageStatus": "accessible snapshot complete"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible snapshot complete:369-product feed reconciled with trousers category and native trousers/pants searches through page2. All27 bottom-regex entries reviewed including false positives. Four tailored US prices exceed$240; remaining black styles are explicitly bootcut/flared, balloon military cargo or sweatpants; other colors excluded. No qualifying black dress trousers."
       },
       {
         "merchant": "Industry of All Nations",
-        "note": "Accessible snapshot reviewed:151-product feed, pants category and native trousers/pants searches reconciled. All22 long-bottom styles/color options screened. Iron4 Chino30 is sold out, chart inseam31in; Ponya waist30=S has29.5in plain/30.5in corduroy inseams and casual drawstring construction. Other styles nonblack, childrenswear or lounge/workwear. No exact30×32 dress match.",
         "url": "https://industryofallnations.com/",
-        "coverageStatus": "accessible snapshot complete"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible snapshot reviewed:151-product feed, pants category and native trousers/pants searches reconciled. All22 long-bottom styles/color options screened. Iron4 Chino30 is sold out, chart inseam31in; Ponya waist30=S has29.5in plain/30.5in corduroy inseams and casual drawstring construction. Other styles nonblack, childrenswear or lounge/workwear. No exact30×32 dress match."
       },
       {
         "merchant": "Yitai",
-        "note": "Accessible snapshot completed previously:82-product feed, pants category2 pages/18 listings, native trousers search2 pages/52 hits. Sole black wool dress option remains preorder, not in-stock qualified.",
         "url": "https://www.yitai.la/",
-        "coverageStatus": "accessible snapshot complete"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible snapshot completed previously:82-product feed, pants category2 pages/18 listings, native trousers search2 pages/52 hits. Sole black wool dress option remains preorder, not in-stock qualified."
       },
       {
         "merchant": "Sandro",
-        "note": "Sale expanded to69/69 products via sz100; five newly read exact black sale styles fail disclosed main fibers or synthetic lining. Full-price/category native-search reconciliation and remaining sale styles still require review.",
         "url": "https://us.sandro-paris.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "69 sale /100 category /133 native search listings reconciled. Five within-budget black dress-trouser styles have exact non-natural main composition. Black01144 is$390, not the$234 of Dark sand; black00609 is$410, not$123 of Thunderstorm Blue. Source-dated captures reconciled in closure6-catalog-reconciliation.json; no new product fetch or stock claim."
       },
       {
         "merchant": "Abercrombie",
-        "note": "Corrected category previously captured at about90 displayed positions; exact Collins Oatmeal excluded. Remaining black styles, dynamic pagination and native-search review still incomplete.",
         "url": "https://www.abercrombie.com",
-        "coverageStatus": "partial review"
+        "coverageStatus": "partial review",
+        "note": "Corrected category previously captured at about90 displayed positions; exact Collins Oatmeal excluded. Remaining black styles, dynamic pagination and native-search review still incomplete."
       },
       {
         "merchant": "Helmut Lang",
-        "note": "Native pants search106 items; additional start/size pages captured plus two exact black Wardrobe trousers. Double Pleat $448 is over budget. HTTP detail routes blocked but registered headed browser works; full sale/gender reconciliation remains.",
         "url": "https://www.helmutlang.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "48 mens category,95 mens sale,106 mixed native search tiles reconciled, no remaining load-more. Only budget mens black bottom is sweatpants or shorts. Cheap Twill Cargo belongs to womens-pants metadata. Nonblack dress styles have no within-budget black swatches. Source-dated captures reconciled in closure6-catalog-reconciliation.json; no new product fetch or stock claim."
       },
       {
         "merchant": "Études",
-        "note": "Full567-product feed; trousers category3 distinct pages, native trousers5/pants9 traversed;35 black feed leads privately reviewed. US Regular Chino Black $99 added as EU44 sizing-near. Chino Zip and Casual details inspected; conflicting cotton/elastane claim retained privately. Suiting/color reconciliation remains.",
         "url": "https://www.etudes-studio.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "partial review",
+        "note": "Full567-product feed; trousers category3 distinct pages, native trousers5/pants9 traversed;35 black feed leads privately reviewed. US Regular Chino Black $99 added as EU44 sizing-near. Chino Zip and Casual details inspected; conflicting cotton/elastane claim retained privately. Suiting/color reconciliation remains."
       },
       {
         "merchant": "SSENSE",
-        "note": "Sale pants alternative and prior category attempted by HTTP and registered headed browser; security-verification page persists. No absence claim; accessible catalog not recovered.",
         "url": "https://www.ssense.com/",
-        "coverageStatus": "access blocked"
+        "coverageStatus": "access blocked",
+        "note": "Sale pants alternative and prior category attempted by HTTP and registered headed browser; security-verification page persists. No absence claim; accessible catalog not recovered."
       },
       {
         "merchant": "Carhartt / Carhartt WIP",
-        "note": "Both official categories captured; WIP Master/Sid synthetic and Newel denim reviewed previously. Carhartt feed route unavailable; further rendered category capture saved. Remaining styles/search/pagination still open.",
         "url": "https://www.carhartt.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "partial review",
+        "note": "Both official categories captured; WIP Master/Sid synthetic and Newel denim reviewed previously. Carhartt feed route unavailable; further rendered category capture saved. Remaining styles/search/pagination still open."
       },
       {
         "merchant": "Saks Fifth Avenue",
-        "note": "Registered headed search/category now renders, replacing prior total access block. Large catalog filtering, pagination and exact black natural-fiber candidates still require review.",
         "url": "https://www.saksfifthavenue.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "partial review",
+        "note": "Registered headed search/category now renders, replacing prior total access block. Large catalog filtering, pagination and exact black natural-fiber candidates still require review."
       },
       {
         "merchant": "PRM",
-        "note": "US black filter successfully applied through Colour > black > Accept:314 advertised. All4 linked pages scrolled to bottom:80+80+80+64=304 unique exact product links;10-listing count discrepancy unresolved,not exhaustive.53 plausible non-sport black<=260 exact leads probed:HTTP403;51 recovered headed,2 navigation timeouts(Icecream50683,Champion50919). Numeric main/lining reviewed,synthetic pockets exclude Brady/Newel/Simple/Aaron despite natural shell. Fred Perry T2301.198$189.90 regular straight100%cotton,size30 selected/Add to cart enabled promoted as inseam-unspecified near;102 dye is same style retained privately. Norse Aros98%cotton2%elastane excluded. Lacoste100%cottonS available but waist mapping/inseam unresolved; HoldenI036501 onlyXL available. Price filter Accept stayed disabled:do not claim price filtering succeeded. Remaining:10 missing listing reconciliation,native search,remaining natural-candidate exact sizing/formality and two timed-out pages.",
         "url": "https://prm.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "partial review",
+        "note": "US black filter successfully applied through Colour > black > Accept:314 advertised. All4 linked pages scrolled to bottom:80+80+80+64=304 unique exact product links;10-listing count discrepancy unresolved,not exhaustive.53 plausible non-sport black<=260 exact leads probed:HTTP403;51 recovered headed,2 navigation timeouts(Icecream50683,Champion50919). Numeric main/lining reviewed,synthetic pockets exclude Brady/Newel/Simple/Aaron despite natural shell. Fred Perry T2301.198$189.90 regular straight100%cotton,size30 selected/Add to cart enabled promoted as inseam-unspecified near;102 dye is same style retained privately. Norse Aros98%cotton2%elastane excluded. Lacoste100%cottonS available but waist mapping/inseam unresolved; HoldenI036501 onlyXL available. Price filter Accept stayed disabled:do not claim price filtering succeeded. Remaining:10 missing listing reconciliation,native search,remaining natural-candidate exact sizing/formality and two timed-out pages."
       },
       {
         "merchant": "The Frankie Shop",
-        "note": "Accessible snapshot complete:2900-product feed reconciled to mens-bottoms pages1–4 and saved native searches. All516 bottom-regex entries partitioned by explicit gender tags and category membership. Prior23 black mens entries remain excluded. Four additional black jeans/joggers reviewed: Sahil S waist31.5/inseam28.75in and Trafal S waist31.5/inseam30.75in; other two over budget or synthetic. Nine extra unisex Tekla items are pyjamas/over$240. Chard Khaki has stale black tag but explicit khaki balloon-cargo description. Remaining mens colors nonblack; image filenames excluded from handle reconciliation.",
         "url": "https://thefrankieshop.com/",
-        "coverageStatus": "accessible snapshot complete"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible snapshot complete:2900-product feed reconciled to mens-bottoms pages1–4 and saved native searches. All516 bottom-regex entries partitioned by explicit gender tags and category membership. Prior23 black mens entries remain excluded. Four additional black jeans/joggers reviewed: Sahil S waist31.5/inseam28.75in and Trafal S waist31.5/inseam30.75in; other two over budget or synthetic. Nine extra unisex Tekla items are pyjamas/over$240. Chard Khaki has stale black tag but explicit khaki balloon-cargo description. Remaining mens colors nonblack; image filenames excluded from handle reconciliation."
       },
       {
         "merchant": "Yohji Yamamoto",
-        "note": "Full9540-product feed retained; all27 available trousers priced<=240 in1345 trouser-regex entries reviewed. Excluded lounge/jersey, slim, shorts, non-natural or cargo-sarouel styles; cotton random-tuck has23–25.5in inseams and womens tag; MIDIN has27in(M)/29in(L), black versions sold out. Exact US pages confirm USD. Remaining category/native-search reconciliation and price changes still open.",
         "url": "https://theshopyohjiyamamoto.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible snapshot complete: saved9540 feed reconciled with15 category pages565 card slots/567 linked color handles and42 pages each native pants/trousers search.1290 unique surface handles all map to feed; all budget boundaries screened,27 previous reviews retained and17 additional budget false positives excluded. Multiple colors per card and duplicate unnumbered/page1 routes are separately counted; no global unique total inferred from facet1000."
       },
       {
         "merchant": "ASKET",
-        "note": "Accessible dress-trouser snapshot complete:category26 color listings,page2 repeats full collection; actual native search uses?s=,not?q=. Clicked all8 trousers pages(92 results) and3 pants pages(35),verified Showing ranges through92/92 and35/35. Black archive Linen v1.0 newly verified$140,W30/L32 selected,Add to cart enabled,100% linen/cotton pocket lining; chart81cm,regular straight. Archive Chino Details98%cotton2%elastane despite contradictory intro; current stretch/slim chinos excluded; Twill chinos are casual workwear,jeans/shorts not dress trousers; wool nonblack/$320. Current linenW30L32 still unavailable,not confused with archive.",
         "url": "https://www.asket.com/",
-        "coverageStatus": "accessible snapshot complete"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible dress-trouser snapshot complete:category26 color listings,page2 repeats full collection; actual native search uses?s=,not?q=. Clicked all8 trousers pages(92 results) and3 pants pages(35),verified Showing ranges through92/92 and35/35. Black archive Linen v1.0 newly verified$140,W30/L32 selected,Add to cart enabled,100% linen/cotton pocket lining; chart81cm,regular straight. Archive Chino Details98%cotton2%elastane despite contradictory intro; current stretch/slim chinos excluded; Twill chinos are casual workwear,jeans/shorts not dress trousers; wool nonblack/$320. Current linenW30L32 still unavailable,not confused with archive."
       },
       {
         "merchant": "COS",
-        "note": "US category recovered and pages1–3 yield139 unique product links including recommendations; not a catalog total. Thirteen exact black trouser compositions parsed. Regular-fit Cummerbund Wool $169,30R selected/last item, added sizing-near;32R sample inseam31.50in is not30R inseam. Search route ignored q; true native search and remaining wide cuts unresolved.",
         "url": "https://www.cos.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible snapshot complete: authoritative category139/139 (48+48+43), black-trousers105 and black-pants73 reconciled. Black sibling swatches mapped; additional1294676004 all sizes stock0 and73.2–76.7cm inseams. Prior24 exact reviews retained; no additional qualifying item."
       },
       {
         "merchant": "ARKET",
-        "note": "US eligibility resolved:official worldwide storefront location selector explicitly lists United States — Not available. Argentina/USD worldwide pricing is not US inventory. No US-purchasable direct-store option; overseas inventory not claimed exhaustively reviewed.",
         "url": "https://www.arket.com/",
-        "coverageStatus": "US shipping unavailable"
+        "coverageStatus": "US shipping unavailable",
+        "note": "US eligibility resolved:official worldwide storefront location selector explicitly lists United States — Not available. Argentina/USD worldwide pricing is not US inventory. No US-purchasable direct-store option; overseas inventory not claimed exhaustively reviewed."
       },
       {
         "merchant": "A.P.C.",
-        "note": "Accessible snapshot complete:812-product US feed, mens pants category and native trousers/pants searches through pages3/6 reconciled. All85 bottom-regex entries reviewed with exact color options; black candidates exceed$240 except Achille stonewashed jeans$167.50, all sizes including30 sold out. No qualifying black dress trousers.",
         "url": "https://www.apc-us.com/",
-        "coverageStatus": "accessible snapshot complete"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible snapshot complete:812-product US feed, mens pants category and native trousers/pants searches through pages3/6 reconciled. All85 bottom-regex entries reviewed with exact color options; black candidates exceed$240 except Achille stonewashed jeans$167.50, all sizes including30 sold out. No qualifying black dress trousers."
       },
       {
         "merchant": "Massimo Dutti",
-        "note": "Exact black cotton $130 retains78cm inner-leg/83cm waist discrepancy. Rendered size30 stock and regular fit not resolved; additional category/search/pagination review remains.",
         "url": "https://www.massimodutti.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "partial review",
+        "note": "Exact black cotton $130 retains78cm inner-leg/83cm waist discrepancy. Rendered size30 stock and regular fit not resolved; additional category/search/pagination review remains."
       },
       {
         "merchant": "Hawes & Curtis",
-        "note": "Black category19 and native black pants/trousers36 results reconciled. Exact regular black chinos WBPDF00297%cotton3%spandex and WBPDK00498%cotton2%elastane excluded. Linen W30 unavailable,Tailored W30 unavailable,Classic explicit polyester lining,slim/overbudget/womens entries partitioned. Existing Regular Pleated near retained. Remaining narrow gap:TRPRJS19 wool drawstring W30 unfinished36 purchasable but no explicit regular/straight/relaxed fit proof; relaxed dressing is not a fit classification.",
         "url": "https://www.hawesandcurtis.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible snapshot complete: prior19 black category and36 native search results reconciled. RemainingTRPRJS19-A01 fit established by exact UK official Regular Fit title, not relaxed-dressing prose. Fresh US W30/unfinished36 selected/Add to bag enabled,$160,100% wool. Added as hemming-required sizing-near with four exact black images; UK$125 was not assigned to US variant."
       },
       {
         "merchant": "Arc’teryx",
-        "note": "Accessible current US snapshot complete:20 mens pants listings plus all16 Veilance bottoms(13 pants/3 shorts),and88/88 native pants-search cards loaded by scrolling. All eligible-price mens nonbase-layer pants reconcile to prior11 exact synthetic-main reviews. Other mens trousers exceed$240 (Veilance cheapest pants$275); remaining cheap search results are shorts/base layers,women or false positives. No natural-main black dress match. Completion scoped to current US site,not historical outlet/resale stock.",
         "url": "https://arcteryx.com/",
-        "coverageStatus": "accessible snapshot complete"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible current US snapshot complete:20 mens pants listings plus all16 Veilance bottoms(13 pants/3 shorts),and88/88 native pants-search cards loaded by scrolling. All eligible-price mens nonbase-layer pants reconcile to prior11 exact synthetic-main reviews. Other mens trousers exceed$240 (Veilance cheapest pants$275); remaining cheap search results are shorts/base layers,women or false positives. No natural-main black dress match. Completion scoped to current US site,not historical outlet/resale stock."
       },
       {
         "merchant": "lululemon",
-        "note": "Recovered pants category plus page2 rendered. Exact style compositions, remaining pagination and native-search reconciliation still incomplete.",
         "url": "https://shop.lululemon.com/",
-        "coverageStatus": "partial review"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible snapshot complete WITH RESIDUAL BOUND: category64/64 and101 native-search records partitioned. Native server advertises103 but returns20+20+20+20+20+1, terminal no-next. Independent price-low sort exposes the same101. The two unreturned records cannot be named or ruled out.27 exact black composition payloads reviewed; all synthetic body/pocket lining. Do not claim103 reviewed."
       },
       {
         "merchant": "Rains",
-        "note": "Accessible US snapshot reviewed:288-product feed, mens-bottoms2 pages and both native searches pages1–6 reconciled. All11 mens trouser styles have exact exclusions:9 disclose synthetic main; organic-cotton Heavy Woven Straight black and Wide Asphalt each$250, over budget, with PU coating disclosed. No qualifying option.",
         "url": "https://www.au.rains.com/",
-        "coverageStatus": "accessible snapshot complete"
+        "coverageStatus": "accessible snapshot complete",
+        "note": "Accessible US snapshot reviewed:288-product feed, mens-bottoms2 pages and both native searches pages1–6 reconciled. All11 mens trouser styles have exact exclusions:9 disclose synthetic main; organic-cotton Heavy Woven Straight black and Wide Asphalt each$250, over budget, with PU coating disclosed. No qualifying option."
       }
     ]
   }
