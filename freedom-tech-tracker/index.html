@@ -1,0 +1,1358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Freedom Tech funnel</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@800&family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,600;12..96,800&display=swap" rel="stylesheet">
+<!--
+  FREEDOM TECH FUNNEL TRACKER
+
+  DATA. One file, two homes:
+    - Hosted on claude.ai: the artifact's shared database. Everyone with the link sees the same funnel.
+    - Anywhere else (e.g. Finite Sites): this browser's localStorage under "ftfunnel:v1". Each browser has
+      its own copy; nothing syncs. First visit seeds DEFAULT_PEOPLE (bump SEED_KEY to reseed everyone).
+  Both use the same document shapes below, so agents and imports work the same way in either.
+
+  people/<any-id>            One person.
+    name      string  required  First name.
+    sub       string  required  Where they are. A step id (see funnel/config), or "kpi" once their story is decided.
+                                Step labels, stage ids and stage titles are also accepted and resolved to a step.
+    outcome   string  optional  Only when sub is "kpi": "published" (default) or "not_published".
+    tag       string  optional  "bitcoin" | "ai" | "other".
+    notes     string  optional  Free text.
+    photo     string  optional  Image URL from the page's asset store ("/_blob/<id>").
+    createdAt number  optional  Milliseconds since epoch. Defaults to the first history entry.
+    history   array   optional  [{sub, outcome?, at}] in time order. Defaults to [{sub, at: createdAt}].
+    kpiAt     number  optional  When they reached the KPI. Defaults to the last history entry.
+
+  events/<any-id>            Optional log used by "Play history": {type: "add"|"move"|"remove", personId, name, to?, from?, outcome?, at}.
+                             People without events replay from their own history.
+
+  funnel/config              {stages: [{id, title, columns, subs: [{id, label}]}], notes: [{text, from}]}
+  funnel/readme              Plain-language version of this note for agents reading the database.
+
+  Minimal agent write to add someone:  people/<new-id> = {"name": "Leila", "sub": "engage"}
+-->
+<style>
+  /* Dark by intent (matches the Freedom Tech KPI deck), so every theme maps to the same palette. */
+  :root {
+    color-scheme: dark;
+    --bg: #1E1A3C; --panel: #26214B; --panel-2: #2F2960;
+    --line: rgba(255, 255, 255, 0.14);
+    --text: #F2EFFF; --soft: #DCD7F2; --muted: #B3ABDB; --ink: #1B1630;
+    --coral: #FF9466; --gold: #F4C653; --teal: #5CCBAE; --blue: #6FA8F0; --lav: #C9B8F5;
+    --focus: #FFFFFF;
+    --avatar: 46px; --person: 66px;
+  }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { color-scheme: dark; --bg: #1E1A3C; --panel: #26214B; --text: #F2EFFF; } }
+  :root[data-theme="dark"] { color-scheme: dark; --bg: #1E1A3C; --panel: #26214B; --text: #F2EFFF; }
+  :root { box-sizing: border-box; padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
+  html { scroll-padding-top: env(safe-area-inset-top, 0px); -webkit-text-size-adjust: 100%; }
+  *, *::before, *::after { box-sizing: border-box; }
+  [hidden] { display: none !important; }
+  body { margin: 0; background: var(--bg); color: var(--text); font-family: "Bricolage Grotesque", system-ui, -apple-system, "Segoe UI", sans-serif; -webkit-font-smoothing: antialiased; }
+  button, input, select, textarea { font: inherit; color: inherit; }
+  :focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+  /* ---------- Header ---------- */
+  .top { position: relative; z-index: 30; display: flex; align-items: center; justify-content: space-between; gap: 14px 16px; flex-wrap: wrap; padding: 22px clamp(16px, 3vw, 36px) 16px; border-bottom: 1px solid var(--line); }
+  .brand { display: flex; align-items: center; gap: 14px; }
+  .brand i { width: 20px; height: 20px; border: 4px solid var(--blue); flex: none; }
+  .brand h1 { margin: 0; font-family: "Barlow Condensed", "Arial Narrow", sans-serif; font-weight: 800; font-size: 32px; letter-spacing: 0.01em; text-transform: uppercase; line-height: 1; }
+  .chips { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .chip { padding: 7px 12px; border-radius: 999px; background: var(--panel); color: var(--soft); font-size: 14px; font-weight: 500; } .year-chip select { background: none; border: 0; color: var(--text); font: inherit; font-weight: 700; padding: 0 2px; } .year-chip select option { color: #222; }
+  .chip b { color: var(--text); font-weight: 700; }
+  .btn { border: 0; border-radius: 10px; padding: 10px 16px; min-height: 44px; cursor: pointer; background: var(--blue); color: var(--ink); font-weight: 700; font-size: 15px; }
+  .btn.ghost { background: transparent; color: var(--soft); border: 1.5px solid var(--line); }
+  .btn.danger { background: transparent; color: #FFB4A0; border: 1.5px solid rgba(255, 148, 102, 0.4); }
+  .btn:disabled { opacity: 0.5; cursor: default; }
+
+  /* ---------- Layout ---------- */
+  .layout { padding: 24px clamp(16px, 3vw, 36px) 40px; max-width: 1100px; margin: 0 auto; }
+  .banner { font-size: 14px; line-height: 1.45; color: var(--soft); background: var(--panel-2); border-radius: 12px; padding: 12px 14px; margin: 0 0 14px; }
+
+  /* ---------- Ask Claude ---------- */
+  .ask { display: flex; gap: 10px; align-items: stretch; }
+  .ask input { flex: 1; min-width: 0; background: var(--panel); border: 1.5px solid var(--line); border-radius: 12px; padding: 12px 16px; font-size: 16px; color: var(--text); }
+  .ask input::placeholder { color: var(--muted); }
+  .status { min-height: 22px; margin: 10px 2px 0; color: var(--soft); font-size: 14.5px; line-height: 1.45; }
+
+  /* ---------- Playback bar ---------- */
+  .player { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; margin-top: 14px; background: var(--panel-2); border-radius: 14px; padding: 12px 16px; display: flex; align-items: center; gap: 10px 14px; flex-wrap: wrap; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25); }
+  .player .when { font-weight: 800; font-size: 15px; white-space: nowrap; }
+  .player .what { flex: 1; min-width: 160px; color: var(--soft); font-size: 15px; }
+  .player progress { width: 140px; height: 8px; accent-color: var(--blue); }
+
+  /* ---------- Funnel ---------- */
+  .stage { position: relative; max-width: 940px; margin: 4px auto 0; padding: 52px 56px 0; }
+  .stage-fit { position: relative; }
+  .stage-fit.zoomed { overflow: hidden; }
+  .stage-fit.zoomed .stage { transform-origin: top center; transform: scale(var(--z, 1)); }
+  .fab-row { position: sticky; top: calc(10px + env(safe-area-inset-top, 0px)); z-index: 30; height: 40px; margin-top: 10px; display: flex; justify-content: flex-end; pointer-events: none; }
+  .fab { pointer-events: auto; flex: none; width: 40px; height: 40px; border-radius: 50%; border: 0; padding: 0; background: var(--blue); color: var(--ink); display: flex; align-items: center; justify-content: center; cursor: pointer; box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35), 0 0 0 4px rgba(111, 168, 240, 0.16); }
+  .fab svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; }
+  .fab[aria-pressed="true"] { background: var(--soft); }
+  .player { padding: 12px 84px 12px 16px; }
+  .funnel { position: relative; z-index: 2; display: flex; flex-direction: column; align-items: center; gap: 8px; }
+  .tier { width: var(--w); background: var(--c); color: var(--ink); clip-path: polygon(0 0, 100% 0, calc(100% - var(--d)) 100%, var(--d) 100%); padding: 18px var(--pad) 24px; display: flex; flex-direction: column; }
+  .tier h3 { margin: 0 0 10px; text-align: center; font-size: clamp(30px, 3.2vw, 42px); font-weight: 800; letter-spacing: -0.01em; line-height: 1.05; text-transform: uppercase; }
+  .lanes { display: grid; gap: 10px; flex: 1; grid-auto-rows: 1fr; }
+  .lane-ico { position: absolute; z-index: 0; right: -26px; bottom: -30px; width: 132px; height: 132px; fill: none; stroke: var(--ink); stroke-width: 1.4; stroke-linecap: round; stroke-linejoin: round; opacity: 0.15; pointer-events: none; }
+  .lanes.odd-last > .lane:last-child { grid-column: 1 / -1; }
+  .lane { position: relative; overflow: hidden; isolation: isolate; display: flex; flex-direction: column; border-radius: 14px; padding: 8px 8px 10px; min-height: 100px; background: rgba(27, 22, 48, 0.06); border: 1.5px solid transparent; transition: background 0.15s, border-color 0.15s; }
+  .lanes.cols-3 .lane-head, .lanes.cols-4 .lane-head { font-size: 15.5px; font-weight: 700; letter-spacing: -0.01em; }
+  .lanes.cols-3 .lane, .lanes.cols-4 .lane { padding-left: 7px; padding-right: 6px; }
+  .lane.over { background: rgba(27, 22, 48, 0.2); border: 1.5px dashed rgba(27, 22, 48, 0.55); }
+  .lane-head { position: relative; font-size: 14px; font-weight: 600; line-height: 1.25; margin: 2px 2px 8px; padding-right: 16px; overflow-wrap: break-word; }
+  .lane-head::before { content: ""; display: inline-block; vertical-align: -1px; width: 11px; height: 11px; margin-right: 7px; border: 2.5px solid var(--dot); box-sizing: border-box; }
+  .lane-head em { position: absolute; right: 0; top: 0; font-style: normal; font-weight: 700; opacity: 0.65; }
+  .lane-head, .people { position: relative; z-index: 1; }
+  .lane-head::before { content: ""; flex: none; width: 11px; height: 11px; margin-top: 2px; border: 2.5px solid var(--dot); }
+  .lane-head span { flex: 1; }
+  .lane-head em { font-style: normal; font-weight: 700; opacity: 0.65; }
+  .people { flex: 1; display: flex; flex-wrap: wrap; justify-content: center; align-content: center; gap: 6px 4px; }
+  .empty-lane { width: 100%; text-align: center; font-size: 13px; opacity: 0.55; padding: 8px 0 4px; }
+
+  .person { width: var(--person); display: flex; flex-direction: column; align-items: center; gap: 4px; background: none; border: 0; padding: 2px; cursor: grab; touch-action: pan-y; -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; color: var(--ink); border-radius: 10px; }
+  .person:active { cursor: grabbing; }
+  .av { position: relative; flex: none; }
+  .avatar { width: var(--avatar); height: var(--avatar); border-radius: 50%; overflow: hidden; border: 3px solid #FFFFFF; background: var(--panel-2); color: #FFFFFF; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 16px; letter-spacing: 0.02em; box-shadow: 0 2px 6px rgba(27, 22, 48, 0.3); }
+  .avatar img { width: 100%; height: 100%; object-fit: cover; display: block; -webkit-user-drag: none; }
+  .tag { position: absolute; right: -5px; bottom: -3px; min-width: 20px; height: 20px; padding: 0 4px; border-radius: 99px; border: 2px solid #FFFFFF; background: var(--tc); color: var(--ink); font-size: 10px; font-weight: 800; display: flex; align-items: center; justify-content: center; line-height: 1; }
+  .person .year-tag { font-size: 11px; font-weight: 700; color: var(--muted); letter-spacing: 0.04em; }
+  .name { max-width: var(--person); font-size: 13.5px; font-weight: 600; line-height: 1.25; white-space: normal; overflow-wrap: break-word; hyphens: none; text-align: center; }
+  .person.just-moved .avatar { box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.85); }
+  .person.armed .avatar { box-shadow: 0 0 0 4px var(--blue); }
+  .drag-ghost { position: fixed; z-index: 50; pointer-events: none; transform: translate(-50%, -50%) scale(1.1); color: var(--text); }
+  .dragging-src { opacity: 0.3; }
+
+  /* ---------- KPI orbit ---------- */
+.icon-btn { width: 44px; height: 44px; flex: none; border-radius: 12px; border: 1.5px solid var(--line); background: transparent; color: var(--soft); display: inline-flex; align-items: center; justify-content: center; cursor: pointer; padding: 0; }
+  .icon-btn svg { width: 18px; height: 18px; fill: currentColor; stroke: currentColor; stroke-width: 2; stroke-linejoin: round; margin-left: 2px; }
+  .icon-btn:hover { color: var(--text); border-color: var(--muted); }
+  .icon-btn:disabled { opacity: 0.5; cursor: default; }
+  .kpi-wrap { position: relative; z-index: 2; display: flex; flex-direction: column; align-items: center; margin-top: 28px; }
+  .kpi-label { font-size: 38px; font-weight: 800; letter-spacing: -0.03em; line-height: 1.05; margin-bottom: 12px; text-align: center; text-wrap: balance; }
+  .kpi { position: relative; width: min(340px, 84vw); aspect-ratio: 1; border-radius: 50%; background: radial-gradient(circle at 50% 46%, #45408F 0%, #36307A 34%, #2C2763 64%, #252050 100%); border: 1.5px solid rgba(111, 168, 240, 0.4); box-shadow: 0 0 0 8px rgba(111, 168, 240, 0.08), 0 0 60px 6px rgba(111, 168, 240, 0.2); }
+  .core b { font-size: clamp(48px, 15vw, 68px); line-height: 1; font-weight: 800; letter-spacing: -0.04em; }
+  .kpi-caption { margin: 16px 0 0; font-size: 14px; font-weight: 500; color: var(--muted); opacity: 0.7; text-align: center; line-height: 1.4; }
+    .kpi.over { outline: 2px dashed var(--muted); outline-offset: 2px; }
+  .orbit-guide { position: absolute; border: 1.5px dashed rgba(179, 171, 219, 0.45); border-radius: 50%; pointer-events: none; }
+  /* Each ring turns as a whole; each face turns back the same amount, so faces stay upright and on the ring. */
+  .spin { position: absolute; inset: 0; pointer-events: none; animation: orbit var(--dur) linear infinite; animation-direction: var(--dir); }
+  .oface { position: absolute; pointer-events: auto; border-radius: 50%; overflow: hidden; padding: 0; margin: 0; border: 2px solid var(--bg); background: var(--panel-2); color: #FFFFFF; font-weight: 800; display: flex; align-items: center; justify-content: center; cursor: pointer; touch-action: pan-y; -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; animation: orbit var(--dur) linear infinite; animation-direction: var(--cdir); }
+  .oface img { width: 100%; height: 100%; object-fit: cover; display: block; -webkit-user-drag: none; }
+  .oface.np { filter: grayscale(1); opacity: 0.5; }
+  .oface.newest { border-color: #FFFFFF; box-shadow: 0 0 0 3px rgba(111, 168, 240, 0.55); z-index: 2; }
+  .kpi:hover .spin, .kpi:hover .oface, .kpi:focus-within .spin, .kpi:focus-within .oface, .kpi.paused .spin, .kpi.paused .oface { animation-play-state: paused; }
+  @keyframes orbit { to { rotate: 360deg; } }
+  .core { position: absolute; left: 30%; top: 30%; width: 40%; height: 40%; border-radius: 50%; background: #FFFFFF; color: var(--ink); border: 6px solid var(--blue); box-shadow: 0 0 40px 6px rgba(111, 168, 240, 0.3); display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; z-index: 3; pointer-events: none; }
+  .core b { font-size: clamp(34px, 11vw, 48px); line-height: 0.9; font-weight: 800; letter-spacing: -0.03em; }
+  .kpi-sub { margin-top: 6px; min-height: 20px; font-size: 14px; color: var(--muted); text-align: center; line-height: 1.4; }
+
+  /* Loop from the KPI back into Events; its bottom edge is aligned to the orbit's center in code. */
+  .loop { position: absolute; z-index: 1; left: 50%; right: 16px; top: 22px; bottom: 202px; border: 2px solid var(--muted); border-left: 0; border-radius: 0 36px 36px 0; pointer-events: none; }
+  .loop-label { position: absolute; top: 0; right: 10%; transform: translateY(-55%); background: var(--bg); padding: 0 10px; color: var(--muted); font-size: 16px; font-weight: 700; white-space: nowrap; }
+  .drop { position: absolute; z-index: 1; left: calc(50% - 1px); top: 22px; height: 20px; border-left: 2px solid var(--muted); pointer-events: none; }
+  .drop::after { content: ""; position: absolute; left: -7px; bottom: -8px; border: 6px solid transparent; border-top: 9px solid var(--muted); }
+
+  /* ---------- Person sheet ---------- */
+  .modal-bg { position: fixed; inset: 0; z-index: 40; background: rgba(10, 8, 26, 0.6); display: flex; align-items: center; justify-content: center; padding: 20px; }
+  .modal { width: min(480px, 100%); max-height: 100%; overflow: auto; overscroll-behavior: contain; background: var(--panel); border-radius: 18px; padding: 24px; }
+  .modal h2 { margin: 0 0 16px; font-family: "Barlow Condensed", "Arial Narrow", sans-serif; font-weight: 800; font-size: 28px; text-transform: uppercase; }
+  .field { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; min-width: 0; }
+  .field > label, .field > .lbl { font-size: 14px; color: var(--muted); font-weight: 500; }
+  .field input[type="text"], .field select, .field textarea { width: 100%; background: var(--bg); border: 1.5px solid var(--line); border-radius: 10px; padding: 11px 12px; font-size: 16px; color: var(--text); }
+  .field textarea { min-height: 96px; resize: vertical; line-height: 1.45; }
+  .photo-row { display: flex; align-items: center; gap: 14px; }
+  .photo-row .avatar { flex: none; width: 64px; height: 64px; font-size: 22px; border-color: var(--line); }
+  .file-btn { position: relative; display: inline-flex; align-items: center; }
+  .file-btn input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+  .seg { display: flex; gap: 8px; flex-wrap: wrap; }
+  .seg button { border: 1.5px solid var(--line); background: transparent; color: var(--soft); border-radius: 99px; padding: 8px 14px; min-height: 40px; cursor: pointer; font-weight: 600; font-size: 14.5px; }
+  .seg button[aria-pressed="true"] { background: var(--tc, var(--soft)); border-color: transparent; color: var(--ink); }
+  .row { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 8px; }
+  .row .spacer { flex: 1; }
+  .history { margin: 0 0 4px; padding: 0; list-style: none; font-size: 14px; color: var(--soft); line-height: 1.45; border-left: 2px solid var(--line); }
+  .history li { padding: 0 0 8px 14px; position: relative; }
+  .history li::before { content: ""; position: absolute; left: -6px; top: 5px; width: 10px; height: 10px; border-radius: 50%; background: var(--muted); }
+  .history time { display: block; color: var(--muted); font-size: 12.5px; }
+
+  /* ---------- Tablet ---------- */
+  /* ---------- Overview (the default, zoomed-out view) ----------
+     A fixed-width canvas scaled to fit the screen, so the funnel keeps its exclamation-mark proportions
+     on any screen. Equal-height stages keep one straight slope; type is sized to stay readable once scaled. */
+  @media all {   /* overview rules apply on every screen size, phones included */
+    body.overview { --avatar: 58px; --person: 104px; }
+    /* "+N more" in a crowded step: same footprint as a face */
+    body.overview .more-chip { width: calc(var(--avatar) + 4px); display: flex; flex-direction: column; align-items: center; gap: 5px; background: none; border: 0; padding: 2px; color: var(--ink); cursor: zoom-in; font: inherit; }
+    body.overview .more-dot { width: var(--avatar); height: var(--avatar); border-radius: 50%; display: flex; align-items: center; justify-content: center; background: rgba(27, 22, 48, 0.16); border: 3px solid rgba(27, 22, 48, 0.35); font-size: 21px; font-weight: 800; }
+    body.overview .more-chip .name { font-size: 19px; font-weight: 600; opacity: 0.75; max-width: none; }
+    body.overview .banner { margin-left: 56px; }   /* clear of the zoom button */
+    body.overview .more-chip:hover .more-dot { background: rgba(27, 22, 48, 0.26); }
+    body.overview .layout { max-width: 1640px; padding-top: 10px; padding-bottom: 12px; }
+    body.overview .top { padding-top: 12px; padding-bottom: 10px; }   /* a slimmer header leaves more height for the funnel */
+    body.overview .brand h1 { font-size: 28px; }
+    body.overview .stage { max-width: none; padding: 40px 72px 0; }
+    body.overview .stage-fit.zoomed .stage { left: 50%; margin-left: 0; margin-right: 0; transform: translateX(-50%) scale(var(--z, 1)); }
+    body.overview .loop { right: 30px; }
+    body.overview .fab-row { height: 0; margin-top: 6px; justify-content: flex-start; }   /* top-left: the loop arrow owns the right side */
+    body.overview .funnel { gap: 7px; }
+    body.overview .tier { padding: 12px calc(var(--pad) * 0.8) 16px; }
+    body.overview .tier { min-height: 200px; }
+    body.overview .tier h3 { font-size: 38px; margin-bottom: 8px; }
+    body.overview .lanes { gap: 10px; }
+    body.overview .lane { min-height: 0; padding: 9px 11px 11px; border-radius: 16px; }
+    /* count follows the label inline, so narrow lanes get the full width for words */
+    body.overview .lane-head { font-size: 26px; line-height: 1.2; margin-bottom: 8px; padding-right: 0; }
+    body.overview .lanes.cols-3 .lane-head { font-size: 24px; letter-spacing: 0; }
+    body.overview .lane-head::before { width: 14px; height: 14px; margin-right: 8px; border-width: 3px; }
+    body.overview .lane-head em { position: static; margin-left: 6px; }
+    body.overview .people { gap: 6px 8px; }
+    body.overview .person { gap: 4px; }
+    body.overview .avatar { border-width: 3px; font-size: 17px; }
+    body.overview .tag { min-width: 22px; height: 22px; font-size: 11px; }
+    body.overview .person .name { font-size: 21px; line-height: 1.15; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: var(--person); }   /* one line; the full name is in the person's details */
+    body.overview .person .year-tag { font-size: 18px; }
+    body.overview .empty-lane { font-size: 21px; }
+    body.overview .lane-ico { width: 132px; height: 132px; right: -26px; bottom: -30px; }
+    body.overview .loop-label { font-size: 23px; }
+    /* KPI: the dot stays centered under the funnel; its title and caption sit to the left */
+    body.overview .kpi-wrap { display: grid; grid-template-columns: 1fr auto 1fr; column-gap: 36px; align-items: center; margin-top: 14px; }
+    body.overview .kpi-label { grid-column: 1; grid-row: 1; align-self: end; justify-self: end; text-align: right; font-size: 46px; margin: 0; }
+    body.overview .kpi-caption { grid-column: 1; grid-row: 2; align-self: start; justify-self: end; text-align: right; font-size: 23px; margin: 10px 0 0; opacity: 0.85; }
+    body.overview .kpi { grid-column: 2; grid-row: 1 / span 2; width: 300px; }
+    body.overview .kpi-sub { grid-column: 2; grid-row: 3; font-size: 22px; min-height: 0; }
+  }
+
+  @media (max-width: 860px) {
+    .stage { padding: 48px 28px 0; }
+    .tier h3 { font-size: 22px; }
+    .lane-head { font-size: 13px; }
+  }
+  /* ---------- Phone ---------- */
+  @media (max-width: 560px) {
+    :root { --avatar: 40px; --person: 56px; }
+    .top { padding: 16px 14px 12px; }
+    .brand h1 { font-size: 26px; }
+    .chips { width: 100%; }
+    .chips .btn { flex: 1; }
+    .layout { padding: 14px 12px 32px; }
+    .ask { flex-direction: column; }
+    .stage { padding: 44px 16px 0; margin-top: 4px; }
+    .lane-ico { width: 96px; height: 96px; right: -18px; bottom: -22px; }
+    .kpi-label { font-size: 28px; }
+    .kpi-caption { font-size: 13px; }
+    .top { padding: 16px 14px 12px; position: relative; }
+    .brand { padding-right: 52px; }
+    #playBtn { position: absolute; top: 12px; right: 14px; }
+    .chips .btn { flex: 1; white-space: nowrap; }
+    .tier { padding-top: 12px; padding-bottom: 14px; }
+    .tier h3 { font-size: 21px; margin-bottom: 8px; }
+    .lanes { gap: 6px; }
+    .lane { min-height: 84px; padding: 6px 4px 8px; border-radius: 10px; }
+    .lane-head { font-size: 12px; margin: 1px 2px 6px; padding-right: 13px; }
+    .lane-head::before { width: 9px; height: 9px; border-width: 2px; margin-right: 5px; }
+    .person .name { font-size: 11.5px; }
+    .avatar { font-size: 14px; border-width: 2.5px; }
+    .tag { min-width: 18px; height: 18px; font-size: 9px; }
+    .loop { right: 4px; border-radius: 0 24px 24px 0; }
+    .loop-label { display: none; }
+    .kpi-label { font-size: 32px; }
+      .modal-bg { align-items: flex-end; padding: 0; }
+    .modal { width: 100%; max-height: 92vh; border-radius: 20px 20px 0 0; padding: 20px 18px calc(18px + env(safe-area-inset-bottom, 0px)); }
+    .row { display: grid; grid-template-columns: 1fr 1fr; }
+    .row .spacer { display: none; }
+    .row #saveBtn { grid-column: 1 / -1; }
+  }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+  /* ---------- Expand a step: see everyone in it ---------- */
+  .lane-head { position: relative; padding-right: 44px; }
+  /* Count: a grey badge on the right, just left of the expand button, so it doesn't read as part of the title */
+  .lane-head em { position: absolute; z-index: 2; top: -4px; right: 0; min-width: 28px; height: 28px; padding: 0 8px; border-radius: 8px; display: flex; align-items: center; justify-content: center; background: #ECEBF0; color: #55526A; border: 1.5px solid #C4C2CE; font-style: normal; font-size: 14px; font-weight: 800; line-height: 1; opacity: 1; margin: 0; box-sizing: border-box; }
+  .lane-head em:empty { display: none; }
+  .tier { position: relative; }
+  /* Section expand: top-right of each stage, level with its title, kept inside the slanted edge */
+  .stage-expand { position: absolute; z-index: 3; top: 6px; right: calc(var(--d) * 0.35 + 6px); width: 32px; height: 32px; border-radius: 9px; border: 0; padding: 0; background: rgba(27, 22, 48, 0.12); color: var(--ink); display: flex; align-items: center; justify-content: center; cursor: pointer; opacity: 0.85; }
+  .stage-expand:hover, .stage-expand:focus-visible { opacity: 1; background: rgba(27, 22, 48, 0.22); }
+  .stage-expand svg, .lp-close svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+  .lane-panel-bg { position: fixed; inset: 0; z-index: 38; background: rgba(10, 8, 26, 0.6); display: flex; align-items: center; justify-content: center; padding: 20px; }
+  .lane-panel { width: min(780px, 100%); max-height: 86vh; overflow: auto; overscroll-behavior: contain; background: var(--panel); border-radius: 18px; border-top: 6px solid var(--c, var(--blue)); padding: 20px 22px 24px; }
+  .lp-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; position: sticky; top: -20px; z-index: 2; background: var(--panel); margin: -20px -22px 0; padding: 20px 22px 12px; border-bottom: 1px solid var(--line); }   /* stays visible while scrolling a long section */
+  .lp-group { scroll-margin-top: 110px; }
+  .lp-stage { margin: 0 0 4px; font-size: 14px; font-weight: 700; color: var(--c, var(--muted)); }
+  .lp-head h2 { margin: 0; font-family: "Barlow Condensed", "Arial Narrow", sans-serif; font-weight: 800; font-size: 30px; line-height: 1; text-transform: uppercase; }
+  .lp-count { margin: 6px 0 0; color: var(--muted); font-size: 14px; }
+  .lp-close { flex: none; width: 40px; height: 40px; border-radius: 10px; border: 1.5px solid var(--line); background: transparent; color: var(--soft); display: flex; align-items: center; justify-content: center; cursor: pointer; }
+  .lp-close svg { width: 18px; height: 18px; }
+  .lp-people { margin-top: 8px; }
+  .lp-group { padding-top: 14px; scroll-margin-top: 10px; }
+  .lp-group + .lp-group { border-top: 1px solid var(--line); margin-top: 14px; }
+  .lp-sub { margin: 0 0 10px; display: flex; align-items: center; gap: 10px; font-size: 17px; font-weight: 700; }
+  .lp-sub em { font-style: normal; min-width: 26px; height: 26px; padding: 0 7px; border-radius: 7px; display: inline-flex; align-items: center; justify-content: center; background: #ECEBF0; color: #55526A; border: 1.5px solid #C4C2CE; font-size: 13px; font-weight: 800; }
+  .lp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 16px 10px; }
+  .lp-person { display: flex; flex-direction: column; align-items: center; gap: 6px; background: none; border: 0; padding: 6px 4px; border-radius: 12px; cursor: pointer; color: var(--text); }
+  .lp-person:hover { background: rgba(255, 255, 255, 0.06); }
+  .lp-person .avatar { width: 64px; height: 64px; font-size: 21px; }
+  .lp-person .name { max-width: 100%; font-size: 14px; font-weight: 600; line-height: 1.25; white-space: normal; text-align: center; color: var(--text); }
+  .lp-person .year-tag { font-size: 12px; color: var(--muted); font-weight: 700; }
+  .lp-empty { color: var(--muted); font-size: 15px; margin: 18px 0 0; }
+  @media all {   /* overview rules apply on every screen size, phones included */
+    body.overview .lane-head { padding-right: 60px; }
+    body.overview .lanes.cols-3 .lane-head { font-size: 21px; padding-right: 52px; overflow-wrap: normal; }   /* keep long words like "infrastructure" whole */
+    body.overview .lanes.cols-3 .lane-head em { min-width: 38px; height: 38px; font-size: 19px; }
+    body.overview .lane-head em { position: absolute; margin: 0; top: -3px; right: 0; min-width: 42px; height: 42px; border-radius: 12px; font-size: 21px; padding: 0 10px; }
+    body.overview .stage-expand { top: 6px; width: 46px; height: 46px; border-radius: 12px; }
+    body.overview .stage-expand svg { width: 24px; height: 24px; }
+  }
+  @media (max-width: 560px) {
+    .lane-head { padding-right: 34px; }
+    .lane-head em { top: -3px; right: 0; min-width: 26px; height: 26px; font-size: 12.5px; padding: 0 6px; }
+    .stage-expand { top: 6px; width: 30px; height: 30px; }
+    .lane-panel-bg { align-items: flex-end; padding: 0; }
+    .lane-panel { width: 100%; max-height: 88vh; border-radius: 20px 20px 0 0; padding: 18px 16px calc(20px + env(safe-area-inset-bottom, 0px)); }
+    .lp-head { margin: -18px -16px 0; padding: 18px 16px 10px; top: -18px; }
+    .lp-grid { grid-template-columns: repeat(auto-fill, minmax(84px, 1fr)); }
+    .lp-person .avatar { width: 56px; height: 56px; }
+  }
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="brand"><i aria-hidden="true"></i><h1>Freedom Tech funnel</h1></div>
+  <div class="chips">
+    <span class="chip"><b id="countPeople">0</b> people</span>
+    <span class="chip"><b id="countKpi">0</b> stories published</span>
+    <label class="chip year-chip" for="yearSel">Year
+      <select id="yearSel" aria-label="Filter by year"><option value="0">All</option></select>
+    </label>
+    <button class="btn" id="addBtn" type="button">Add person</button>
+    <button class="icon-btn" id="playBtn" type="button" aria-label="Play history" title="Play history"><svg viewBox="0 0 24 24" aria-hidden="true"><polygon points="6 3 20 12 6 21 6 3" /></svg></button>
+  </div>
+</header>
+
+<div class="layout">
+
+  <main>
+    <div class="fab-row"><button class="fab" id="zoomBtn" type="button" aria-pressed="false" aria-label="Zoom out to see the whole funnel" title="Zoom out"></button></div>
+
+    <p class="banner" id="banner" hidden></p>
+
+    <div class="player" id="player" hidden>
+      <span class="when" id="pWhen"></span>
+      <span class="what" id="pWhat" aria-live="polite"></span>
+      <progress id="pProg" max="1" value="0"></progress>
+      <button class="btn ghost" id="stopBtn" type="button">Stop</button>
+    </div>
+
+    <div class="stage-fit" id="stageFit">
+    <div class="stage" id="stage">
+      <div class="loop" id="loop" aria-hidden="true"><span class="loop-label">Showcase success stories at events</span></div>
+      <div class="drop" aria-hidden="true"></div>
+      <div class="funnel" id="funnel"></div>
+      <div class="kpi-wrap">
+        <div class="kpi-label">Activist<br>Success Stories</div>
+        <div class="kpi" id="kpi" data-sub="kpi" aria-label="Main KPI: success stories collected and published"></div>
+        <p class="kpi-caption">Success stories of activists<br>using freedom tech</p>
+        <div class="kpi-sub" id="kpiSub"></div>
+      </div>
+    </div>
+    </div>
+  </main>
+</div>
+
+<!-- Everyone in one section (stage), grouped by step; opened from a section's expand button or a "+N more" circle -->
+<div class="lane-panel-bg" id="lanePanelBg" hidden>
+  <div class="lane-panel" role="dialog" aria-modal="true" aria-labelledby="lpTitle">
+    <div class="lp-head">
+      <div><p class="lp-stage" id="lpStage"></p><h2 id="lpTitle"></h2><p class="lp-count" id="lpCount"></p></div>
+      <button class="lp-close" id="lpClose" type="button" aria-label="Close"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6 6 18" /><path d="m6 6 12 12" /></svg></button>
+    </div>
+    <div class="lp-people" id="lpPeople"></div>
+  </div>
+</div>
+
+<div class="modal-bg" id="modalBg" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <h2 id="modalTitle">Add person</h2>
+    <div class="field"><label for="fName">First name</label><input id="fName" type="text" autocomplete="off" maxlength="40"></div>
+    <div class="field" id="photoField">
+      <span class="lbl">Headshot</span>
+      <div class="photo-row">
+        <div class="avatar" id="fPreview"></div>
+        <label class="btn ghost file-btn">Upload headshot<input id="fPhoto" type="file" accept="image/*"></label>
+      </div>
+    </div>
+    <div class="field"><span class="lbl" id="tagLbl">Tag</span><div class="seg" id="fTag" role="group" aria-labelledby="tagLbl"></div></div>
+    <div class="field"><label for="fStep">Step</label><select id="fStep"></select></div>
+    <div class="field"><label for="fNotes">Notes</label><textarea id="fNotes" maxlength="4000"></textarea></div>
+    <div class="field"><label for="fDesc">Description</label><textarea id="fDesc" maxlength="2000" placeholder="One paragraph: what they did and the tangible impact (evidence-based)"></textarea></div>
+    <div class="field"><label for="fYear">Year (when the impact happened)</label><input id="fYear" type="text" inputmode="numeric" maxlength="4" placeholder="e.g. 2024"></div>
+    <div class="field" id="histField"><span class="lbl">Timeline</span><ul class="history" id="fHistory"></ul></div>
+    <div class="row">
+      <button class="btn" id="saveBtn" type="button">Save</button>
+      <button class="btn ghost" id="nextBtn" type="button">Move to next step</button>
+      <button class="btn ghost" id="replayBtn" type="button">Replay path</button>
+      <span class="spacer"></span>
+      <button class="btn danger" id="delBtn" type="button">Remove</button>
+      <button class="btn ghost" id="cancelBtn" type="button">Close</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(async () => {
+  "use strict";
+
+  /* =========================================================================
+     1. CONSTANTS
+     ========================================================================= */
+  const KPI = "kpi";                                   // the Main KPI is a destination, not a step
+  const OUTCOMES = { published: "Published", not_published: "Not published" };
+  const TAGS = [
+    { id: "bitcoin", label: "Bitcoin", short: "₿", color: "#F4C653" },
+    { id: "ai", label: "AI", short: "AI", color: "#FF9466" },
+    { id: "other", label: "Other", short: "•", color: "#C9B8F5" },
+  ];
+  const PALETTE = [
+    { color: "#FF9466", dot: "#A5401A" }, { color: "#F4C653", dot: "#8F6500" },
+    { color: "#5CCBAE", dot: "#136B55" }, { color: "#6FA8F0", dot: "#1C4F94" }, { color: "#E3A6F2", dot: "#7A3C8F" },
+  ];
+  // Background icon for each step (Lucide, ISC license). Add a key here and set sub.icon to use a new one.
+  const STEP_ICONS = {
+    engage: "<path d=\"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2\" /> <circle cx=\"9\" cy=\"7\" r=\"4\" /> <path d=\"M22 21v-2a4 4 0 0 0-3-3.87\" /> <path d=\"M16 3.13a4 4 0 0 1 0 7.75\" />",
+    build: "<path d=\"m18 16 4-4-4-4\" /> <path d=\"m6 8-4 4 4 4\" /> <path d=\"m14.5 4-5 16\" />",
+    followup: "<path d=\"M7.9 20A9 9 0 1 0 4 16.1L2 22Z\" /> <path d=\"m10 15-3-3 3-3\" /> <path d=\"M7 12h7a2 2 0 0 1 2 2v1\" />",
+    teach: "<path d=\"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z\" /> <path d=\"M22 10v6\" /> <path d=\"M6 12.5V16a6 3 0 0 0 12 0v-3.5\" />",
+    friction: "<path d=\"m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3\" /> <path d=\"M12 9v4\" /> <path d=\"M12 17h.01\" />",
+    fund: "<path d=\"M11 15h2a2 2 0 1 0 0-4h-3c-.6 0-1.1.2-1.4.6L3 17\" /> <path d=\"m7 21 1.6-1.4c.3-.4.8-.6 1.4-.6h4c1.1 0 2.1-.4 2.8-1.2l4.6-4.4a2 2 0 0 0-2.75-2.91l-4.2 3.9\" /> <path d=\"m2 16 6 6\" /> <circle cx=\"16\" cy=\"9\" r=\"2.9\" /> <circle cx=\"6\" cy=\"5\" r=\"3\" />",
+    infra: "<rect width=\"20\" height=\"8\" x=\"2\" y=\"2\" rx=\"2\" ry=\"2\" /> <rect width=\"20\" height=\"8\" x=\"2\" y=\"14\" rx=\"2\" ry=\"2\" /> <line x1=\"6\" x2=\"6.01\" y1=\"6\" y2=\"6\" /> <line x1=\"6\" x2=\"6.01\" y1=\"18\" y2=\"18\" />",
+    collect: "<path d=\"M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z\" /> <path d=\"M19 10v2a7 7 0 0 1-14 0v-2\" /> <line x1=\"12\" x2=\"12\" y1=\"19\" y2=\"22\" />",
+    publish: "<path d=\"m3 11 18-5v12L3 14v-3z\" /> <path d=\"M11.6 16.8a3 3 0 1 1-5.8-1.6\" />",
+    mvp: "<path d=\"M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z\" /> <path d=\"m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z\" /> <path d=\"M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0\" /> <path d=\"M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5\" />",
+    deploy: "<rect x=\"16\" y=\"16\" width=\"6\" height=\"6\" rx=\"1\" /> <rect x=\"2\" y=\"16\" width=\"6\" height=\"6\" rx=\"1\" /> <rect x=\"9\" y=\"2\" width=\"6\" height=\"6\" rx=\"1\" /> <path d=\"M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3\" /> <path d=\"M12 12V8\" />",
+  };
+  const ORBIT_RINGS = [                                // radius and face size are % of the orbit box
+    { r: 30, cap: 8, d: 14, dur: "90s", dir: "normal" },
+    { r: 45, cap: 14, d: 10.5, dur: "140s", dir: "reverse" },
+  ];
+  const LONG_PRESS_MS = 320;                           // touch: hold this long to pick someone up
+  const DEFAULT_CONFIG = {
+    stages: [
+      { id: "events", title: "Events", columns: 2, subs: [{ id: "engage", label: "Engage activists" }, { id: "build", label: "Build tools live" }] },
+      { id: "education", title: "Education", columns: 1, subs: [{ id: "followup", label: "Follow up with activists after events" }, { id: "teach", label: "Teach activists freedom tech tools" }] },
+      { id: "impact", title: "Make an Impact", columns: 2, subs: [{ id: "mvp", label: "Build MVP" }, { id: "deploy", label: "Help Deploy to Network" }] },
+      { id: "grants", title: "Grants", columns: 3, subs: [{ id: "friction", label: "Collect activists’ points of friction" }, { id: "fund", label: "Fund tools for activists" }, { id: "infra", label: "Fund deep freedom tech infrastructure" }] },
+      { id: "content", title: "Content", color: "#B3A4F2", dot: "#5B45A8", columns: 2, subs: [{ id: "collect", label: "Collect success stories" }, { id: "publish", label: "Publish success stories" }] },
+    ],
+    notes: [{ text: "Showcase success", from: "Events" }, { text: "Build community", from: "Events" }],
+  };
+
+  /* =========================================================================
+     2. STATE + SMALL HELPERS
+     ========================================================================= */
+  const state = { config: DEFAULT_CONFIG, people: [], events: [], db: null, assets: null, sample: null, play: null, yearFilter: 0 };
+  const $ = (id) => document.getElementById(id);
+  const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const isPhone = () => matchMedia("(max-width: 560px)").matches;
+  const isNarrow = () => matchMedia("(max-width: 860px)").matches;
+  const PLAYBACK_MS = 5000;   // "Play history" runs this long in total, however many events
+  const uid = (prefix = "p") => prefix + Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
+  const initials = (name) => (name || "?").trim().split(/\s+/).map((w) => w[0]).join("").slice(0, 2).toUpperCase();
+  const tagById = (id) => TAGS.find((t) => t.id === id);
+  const fmtTime = (t) => new Date(t).toLocaleString(undefined, { month: "short", day: "numeric", year: "numeric", hour: "numeric", minute: "2-digit" });
+  const isRealTime = (t) => t > 1e11;                  // older sample data used small step numbers
+  const visiblePeople = () => {
+    const list = state.play ? state.play.people : state.people;
+    return state.yearFilter ? list.filter((p) => p.year === state.yearFilter) : list;   // the header's Year filter
+  };
+  const el = (tag, props = {}, ...children) => { const n = Object.assign(document.createElement(tag), props); n.append(...children.filter(Boolean)); return n; };
+
+  /* =========================================================================
+     3. STEPS: lookup and forgiving resolution (so agents can say "Grants" or "Engage activists")
+     ========================================================================= */
+  const allSubs = () => state.config.stages.flatMap((stage, i) => stage.subs.map((sub) => ({ ...sub, stage, stageIndex: i })));
+  const subById = (id) => allSubs().find((s) => s.id === id);
+  const firstSub = () => allSubs()[0]?.id || null;
+  const isValidPlace = (id) => id === KPI || !!subById(id);
+  const placeName = (sub, outcome) => (sub === KPI ? `Main KPI (${OUTCOMES[outcome] || "Published"})` : subById(sub)?.label || "a removed step");
+
+  /** Turn any reasonable reference into a step id or "kpi". Returns null if nothing matches. */
+  function resolvePlace(value) {
+    if (value == null) return null;
+    const raw = String(value).trim();
+    if (isValidPlace(raw)) return raw;
+    const v = raw.toLowerCase().replace(/[’']/g, "'");
+    if (["kpi", "main kpi", "published", "done"].includes(v)) return KPI;
+    const subs = allSubs();
+    const byLabel = subs.find((s) => s.label.toLowerCase().replace(/[’']/g, "'") === v) || subs.find((s) => s.label.toLowerCase().includes(v));
+    if (byLabel) return byLabel.id;
+    const stage = state.config.stages.find((s) => s.id.toLowerCase() === v || s.title.toLowerCase() === v);
+    return stage?.subs[0]?.id || null;
+  }
+
+  /* =========================================================================
+     4. NORMALIZE what comes from the database (hand-written or agent-written docs welcome)
+     ========================================================================= */
+  function normalizeConfig(c) {
+    if (!c || !Array.isArray(c.stages) || !c.stages.length) return DEFAULT_CONFIG;
+    const stages = c.stages.map((s, i) => ({
+      id: String(s.id || "stage" + i), title: String(s.title || "Stage"), color: s.color, dot: s.dot,
+      columns: Math.max(1, Math.min(4, Number(s.columns) || (Array.isArray(s.subs) ? s.subs.length : 1) || 1)),
+      subs: Array.isArray(s.subs) ? s.subs.map((x, j) => ({ id: String(x.id || `${s.id}_${j}`), label: String(x.label || "Step"), icon: x.icon ? String(x.icon) : null })) : [],
+    }));
+    const notes = Array.isArray(c.notes) ? c.notes.map((n) => (typeof n === "string" ? { text: n } : { text: String(n.text || ""), from: n.from ? String(n.from) : "" })) : [];
+    return { stages, notes };
+  }
+
+  function normalizePerson(id, d = {}) {
+    const sub = resolvePlace(d.sub) || firstSub();
+    const history = Array.isArray(d.history) ? d.history.filter((h) => h && h.sub).map((h) => ({ sub: resolvePlace(h.sub) || h.sub, outcome: h.outcome || null, at: Number(h.at) || 0 })) : [];
+    const createdAt = Number(d.createdAt) || history[0]?.at || 0;
+    if (!history.length) history.push({ sub, at: createdAt });
+    const person = {
+      id, sub, history, createdAt,
+      name: String(d.name || "").trim().slice(0, 40) || "Someone",
+      tag: tagById(d.tag) ? d.tag : "",
+      notes: String(d.notes || ""),
+      description: String(d.description || ""),
+      year: Number(d.year) || null,
+      photo: typeof d.photo === "string" ? d.photo : "",
+    };
+    if (sub === KPI) {
+      person.outcome = d.outcome === "not_published" ? "not_published" : "published";
+      person.kpiAt = Number(d.kpiAt) || history[history.length - 1].at || createdAt;
+    }
+    return person;
+  }
+  const colorsFor = (stage, i) => ({ color: stage.color || PALETTE[i % PALETTE.length].color, dot: stage.dot || PALETTE[i % PALETTE.length].dot });
+
+  /* =========================================================================
+     5. DATA API: the only place that changes people. UI and window.funnel use it.
+        Off claude.ai: state.db is a localStorage-backed shim with the same
+        doc().set/update/delete + collection().onSnapshot shape the artifact
+        database used, so nothing else in the app changes.
+     ========================================================================= */
+  function report(e) {
+    const code = e && e.code;
+    showBanner(code === "not_granted" || code === "revoked" ? "You can view this funnel but not change it." : "That change didn’t save. Please try again.");
+  }
+  function localStore() {
+    const KEY = "ftfunnel:v1";
+    const listeners = new Set();
+    const read = () => { try { return JSON.parse(localStorage.getItem(KEY) || "{}"); } catch { return {}; } };
+    const write = (data) => { try { localStorage.setItem(KEY, JSON.stringify(data)); } catch {} listeners.forEach((fn) => fn()); };
+    return {
+      doc(path) {
+        return {
+          set(value) { const d = read(); d[path] = value; write(d); return Promise.resolve(); },
+          update(patch) {
+            const d = read();
+            if (!(path in d)) return Promise.reject(Object.assign(new Error("missing"), { code: "not_found" }));
+            d[path] = { ...d[path], ...patch }; write(d); return Promise.resolve();
+          },
+          delete() { const d = read(); delete d[path]; write(d); return Promise.resolve(); },
+        };
+      },
+      collection(name) {
+        const prefix = name.endsWith("/") ? name : name + "/";
+        return {
+          onSnapshot(cb) {
+            const emit = () => {
+              const d = read();
+              const docs = Object.keys(d).filter((k) => k.startsWith(prefix)).map((k) => ({ id: k.slice(prefix.length), data: () => d[k], exists: true }));
+              cb({ docs, exists: docs.length > 0 });
+            };
+            listeners.add(emit); emit();
+            return () => listeners.delete(emit);
+          },
+        };
+      },
+    };
+  }
+  async function write(op) { try { await op(state.db); } catch (e) { report(e); } }
+  async function logEvent(ev) {
+    const e = { at: Date.now(), ...ev };
+    state.events.push({ id: uid("e"), ...e });
+    await write((db) => db.doc("events/" + uid("e")).set(e));
+  }
+  const findPerson = (id) => state.people.find((x) => x.id === id);
+
+  /** Add someone. `sub` may be a step id, a step label, a stage id or title, or "kpi". */
+  async function addPerson({ name, sub, outcome, photo, tag, notes } = {}) {
+    const place = resolvePlace(sub) || firstSub();
+    const now = Date.now();
+    const id = uid();
+    const doc = { name, sub: place, photo, tag, notes, createdAt: now, history: [{ sub: place, at: now }] };
+    if (place === KPI) { doc.outcome = outcome; doc.kpiAt = now; doc.history[0].outcome = outcome === "not_published" ? "not_published" : "published"; }
+    const person = normalizePerson(id, doc);
+    state.people.push(person); highlight = id; render();
+    const { id: _omit, ...saved } = person;
+    await write((db) => db.doc("people/" + id).set(saved));
+    await logEvent({ type: "add", personId: id, name: person.name, to: place, outcome: person.outcome || null });
+    return id;
+  }
+
+  /** Move someone to a step or to the KPI (with an outcome). Returns false if nothing changed. */
+  async function movePerson(id, sub, outcome) {
+    const p = findPerson(id);
+    const place = resolvePlace(sub);
+    if (!p || !place) return false;
+    const out = place === KPI ? (outcome || p.outcome || "published") : null;
+    if (p.sub === place && (place !== KPI || p.outcome === out)) return false;
+    const from = p.sub, now = Date.now();
+    p.sub = place;
+    p.history = [...p.history, { sub: place, outcome: out, at: now }].slice(-60);
+    const patch = { sub: place, history: p.history };
+    if (place === KPI) { p.outcome = out; p.kpiAt = now; Object.assign(patch, { outcome: out, kpiAt: now }); }
+    highlight = id; render();
+    await write((db) => db.doc("people/" + id).update(patch));
+    await logEvent({ type: "move", personId: id, name: p.name, from, to: place, outcome: out });
+    return true;
+  }
+
+  /** Change name, tag, notes or photo. */
+  async function updatePerson(id, patch) {
+    const p = findPerson(id); if (!p) return false;
+    const clean = {};
+    if (patch.name !== undefined) clean.name = String(patch.name).trim().slice(0, 40) || p.name;
+    if (patch.tag !== undefined) clean.tag = tagById(patch.tag) ? patch.tag : "";
+    if (patch.notes !== undefined) clean.notes = String(patch.notes);
+    if (patch.photo !== undefined) clean.photo = String(patch.photo);
+    Object.assign(p, clean); render();
+    await write((db) => db.doc("people/" + id).update(clean));
+    return true;
+  }
+
+  /** Remove someone. Their history stays in the event log for playback. */
+  async function removePerson(id) {
+    const p = findPerson(id); if (!p) return false;
+    state.people = state.people.filter((x) => x.id !== id); render();
+    await write((db) => db.doc("people/" + id).delete());
+    await logEvent({ type: "remove", personId: id, name: p.name, from: p.sub });
+    return true;
+  }
+
+  async function saveConfig(cfg) {
+    state.config = normalizeConfig(cfg); render();
+    await write((db) => db.doc("funnel/config").set(JSON.parse(JSON.stringify(state.config))));
+  }
+
+  // Handy for agents driving the page in a browser, and for debugging.
+  window.funnel = Object.freeze({
+    addPerson, movePerson, updatePerson, removePerson,
+    steps: () => [...allSubs().map((s) => ({ id: s.id, label: s.label, stage: s.stage.title })), { id: KPI, label: "Main KPI", stage: "Main KPI" }],
+    people: () => state.people.map((p) => ({ id: p.id, name: p.name, sub: p.sub, outcome: p.outcome || null, tag: p.tag || null })),
+  });
+
+  /* =========================================================================
+     6. RENDER
+     ========================================================================= */
+  let highlight = null;
+
+  function avatarEl(person, cls = "avatar") {
+    const a = el("div", { className: cls });
+    if (person.photo) a.append(el("img", { src: person.photo, alt: "", loading: "lazy", draggable: false }));
+    else a.textContent = initials(person.name);
+    return a;
+  }
+  function tagEl(tagId) {
+    const t = tagById(tagId); if (!t) return null;
+    const s = el("span", { className: "tag", title: t.label, textContent: t.short });
+    s.style.setProperty("--tc", t.color);
+    return s;
+  }
+  function personEl(p) {
+    const b = el("button", { type: "button", className: "person" });
+    b.dataset.id = p.id;
+    b.setAttribute("aria-label", `${p.name}, open details`);
+    b.append(el("span", { className: "av" }, avatarEl(p), tagEl(p.tag)), el("span", { className: "name", textContent: p.name }));
+    if (p.year) b.append(el("span", { className: "year-tag", textContent: String(p.year) }));
+    return b;
+  }
+
+  function renderFunnel(people) {
+    const { stages } = state.config;
+    const funnel = $("funnel"); funnel.textContent = "";
+    const bottom = overviewMode() ? 40 : isPhone() ? 66 : isNarrow() ? 54 : 40;   // bottom width of the funnel, % of the top
+    const step = (100 - bottom) / Math.max(stages.length, 1);
+    const bySub = new Map();
+    const fallback = firstSub();
+    people.filter((p) => p.sub !== KPI).forEach((p) => {
+      const key = subById(p.sub) ? p.sub : fallback;
+      (bySub.get(key) || bySub.set(key, []).get(key)).push(p);
+    });
+
+    stages.forEach((stage, i) => {
+      const w = 100 - i * step;
+      const { color, dot } = colorsFor(stage, i);
+      const tier = el("section", { className: "tier" }, el("h3", { textContent: stage.title }));
+      Object.entries({ "--w": w + "%", "--c": color, "--dot": dot, "--d": (step / (2 * w)) * 100 + "%", "--pad": `calc(${step / 2}% + ${isPhone() ? 8 : 12}px)` })
+        .forEach(([k, v]) => tier.style.setProperty(k, v));
+
+      // Phones show at most two lanes per row; a lone last lane spans the row.
+      const overview = overviewMode();                  // overview: all of a stage's steps side by side, to keep tiers short
+      const cols = overview ? Math.min(Math.max(stage.subs.length, 1), 3) : Math.min(stage.columns, Math.max(stage.subs.length, 1), isPhone() ? 2 : 4);
+      const lanes = el("div", { className: `lanes cols-${cols}` + (cols === 2 && stage.subs.length % 2 === 1 ? " odd-last" : "") });
+      lanes.style.gridTemplateColumns = `repeat(${cols}, minmax(0, 1fr))`;
+
+      stage.subs.forEach((sub) => {
+        const list = (bySub.get(sub.id) || []).sort((a, b) => a.createdAt - b.createdAt);
+        const lane = el("div", { className: "lane" });
+        lane.dataset.sub = sub.id;
+        const icon = STEP_ICONS[sub.icon || sub.id];
+        if (icon) {
+          const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+          svg.setAttribute("viewBox", "0 0 24 24"); svg.setAttribute("class", "lane-ico"); svg.setAttribute("aria-hidden", "true");
+          svg.innerHTML = icon;   // trusted: comes from STEP_ICONS, never from stored data
+          lane.append(svg);
+        }
+        lane.append(
+          el("div", { className: "lane-head" }, el("span", { textContent: sub.label }), el("em", { textContent: list.length || "" })),
+          el("div", { className: "people" }, ...(list.length ? list.map(personEl) : [el("div", { className: "empty-lane", textContent: "No one here yet" })])),
+        );
+        lanes.append(lane);
+      });
+      if (!stage.subs.length) lanes.append(el("div", { className: "empty-lane", textContent: "No steps in this stage" }));
+      tier.append(lanes);
+      const total = stage.subs.reduce((n, sub) => n + (bySub.get(sub.id) || []).length, 0);
+      if (total) {
+        const expand = el("button", { type: "button", className: "stage-expand", title: `See everyone in ${stage.title}` });
+        expand.innerHTML = EXPAND_ICON;
+        expand.setAttribute("aria-label", `See all ${total} in ${stage.title}`);
+        expand.addEventListener("click", () => openStagePanel(stage.id));
+        tier.append(expand);
+      }
+      funnel.append(tier);
+    });
+
+    // Equal tier heights make the sides run as one continuous slope (skipped on phones).
+    const tiers = [...funnel.children];
+    tiers.forEach((t) => (t.style.height = ""));
+    if (overviewMode()) { limitFaces(funnel); fitSlope(tiers, bottom); }
+    else if (!isPhone()) {
+      const tallest = Math.max(0, ...tiers.map((t) => t.offsetHeight));
+      tiers.forEach((t) => (t.style.height = tallest + "px"));
+    }
+    placeStageButtons(tiers);
+  }
+
+  /**
+   * Tuck each section's expand button into the top-right corner of its own stage. The stage's right edge
+   * slants inward going down, so the button sits just inside that slant at the height of the button's
+   * lower corner: as close to the corner as it can get while staying inside the colored shape.
+   */
+  function placeStageButtons(tiers) {
+    tiers.forEach((t) => {
+      const btn = t.querySelector(".stage-expand");
+      if (!btn) return;
+      const slant = t.offsetWidth * (parseFloat(t.style.getPropertyValue("--d")) || 0) / 100;   // inset at the stage's bottom
+      const lowest = btn.offsetTop + btn.offsetHeight;                                         // button's lowest point
+      const inset = t.offsetHeight ? slant * (lowest / t.offsetHeight) : 0;
+      btn.style.right = Math.ceil(inset + btn.offsetTop * 0.75) + "px";   // same breathing room from the edge as from the top
+    });
+  }
+
+  /**
+   * Overview: stages keep their own heights (with a comfortable minimum), and each stage's width comes from
+   * where it sits vertically, so the sides still run in one straight line from Events down to Content.
+   * Two passes, because a narrower stage can re-wrap its text and change height slightly.
+   */
+  function fitSlope(tiers, bottom) {
+    const gap = parseFloat(getComputedStyle($("funnel")).rowGap) || 0;
+    for (let pass = 0; pass < 2; pass++) {
+      const heights = tiers.map((t) => t.offsetHeight);
+      const total = heights.reduce((a, h) => a + h, 0) + gap * (tiers.length - 1);
+      let y = 0;
+      tiers.forEach((t, i) => {
+        const wTop = 100 - (100 - bottom) * (y / total);
+        const wBot = 100 - (100 - bottom) * ((y + heights[i]) / total);
+        const inset = (wTop - wBot) / 2;                // % of the funnel width on each side
+        t.style.setProperty("--w", wTop + "%");
+        t.style.setProperty("--d", (inset / wTop) * 100 + "%");
+        t.style.setProperty("--pad", `calc(${inset}% + 12px)`);
+        y += heights[i] + gap;
+      });
+    }
+  }
+
+  /**
+   * Overview: each step shows as many faces as fit in OVERVIEW_ROWS rows. The rest collapse into a "+N"
+   * circle the same size as a face, which zooms in to the full view. Faces never shrink to make room.
+   */
+  const OVERVIEW_ROWS = 1;
+  function limitFaces(root) {
+    root.querySelectorAll(".lane").forEach((lane) => {
+      const box = lane.querySelector(".people");
+      const faces = [...box.querySelectorAll(".person")];
+      if (!faces.length) return;
+      const gap = parseFloat(getComputedStyle(box).columnGap) || 0;
+      const room = box.clientWidth * OVERVIEW_ROWS;      // rows laid end to end
+      const faceW = faces[0].offsetWidth + gap, chipW = parseFloat(getComputedStyle(document.body).getPropertyValue("--avatar")) + 4 + gap;
+      if (faces.length * faceW - gap <= room) return;    // everyone fits
+      const keep = Math.max(1, Math.floor((room - chipW + gap) / faceW)), hidden = faces.length - keep;
+      faces.slice(keep).forEach((f) => f.remove());
+      const label = lane.querySelector(".lane-head span")?.textContent || "this step";
+      const more = el("button", { type: "button", className: "more-chip", title: "See everyone in this step" },
+        el("span", { className: "more-dot", textContent: "+" + hidden }), el("span", { className: "name", textContent: "more" }));
+      more.setAttribute("aria-label", `${hidden} more people in ${label}. See everyone.`);
+      more.addEventListener("click", () => openStagePanel(subById(lane.dataset.sub)?.stage.id, lane.dataset.sub));
+      box.append(more);
+    });
+  }
+
+  function renderKpi(people) {
+    const done = people.filter((p) => p.sub === KPI).sort((a, b) => (b.kpiAt || 0) - (a.kpiAt || 0));
+    const published = done.filter((p) => p.outcome !== "not_published");
+    const box = $("kpi"); box.textContent = "";
+    const boxPx = box.offsetWidth || 340;
+    let shown = 0;
+
+    ORBIT_RINGS.forEach((ring, ri) => {
+      const guide = el("div", { className: "orbit-guide" });
+      Object.assign(guide.style, { left: 50 - ring.r + "%", top: 50 - ring.r + "%", width: ring.r * 2 + "%", height: ring.r * 2 + "%" });
+      const spin = el("div", { className: "spin" });
+      spin.style.setProperty("--dur", ring.dur); spin.style.setProperty("--dir", ring.dir);
+      const take = done.slice(shown, shown + ring.cap);
+      const slots = ri === 0 ? Math.min(ring.cap, Math.max(take.length, 5)) : ring.cap;
+      take.forEach((p, i) => {
+        const a = -Math.PI / 2 + (i / slots) * 2 * Math.PI;
+        const x = 50 + ring.r * Math.cos(a), y = 50 + ring.r * Math.sin(a);
+        const f = el("button", { type: "button", title: p.name, className: "oface" + (p.outcome === "not_published" ? " np" : "") + (shown + i === 0 ? " newest" : "") });
+        f.dataset.id = p.id;
+        f.setAttribute("aria-label", `${p.name}, ${OUTCOMES[p.outcome] || "Published"}, open details`);
+        // Placed by its top-left corner (no translate), so turning in place keeps it on the ring.
+        Object.assign(f.style, { left: x - ring.d / 2 + "%", top: y - ring.d / 2 + "%", width: ring.d + "%", height: ring.d + "%", fontSize: Math.round((boxPx * ring.d) / 100 / 2.8) + "px" });
+        f.style.setProperty("--dur", ring.dur); f.style.setProperty("--cdir", ring.dir === "normal" ? "reverse" : "normal");
+        if (p.photo) f.append(el("img", { src: p.photo, alt: "", draggable: false })); else f.textContent = initials(p.name);
+        spin.append(f);
+      });
+      shown += take.length;
+      box.append(guide, spin);
+    });
+    box.append(el("div", { className: "core" }, el("b", { textContent: published.length })));
+
+    const hidden = done.length - shown, faded = done.length - published.length;
+    $("kpiSub").textContent = [hidden > 0 ? `+${hidden} more not shown` : "", faded ? `${faded} decided not to publish (faded)` : ""].filter(Boolean).join(" · ");
+    $("countKpi").textContent = published.length;
+  }
+
+  /** Keep the loop's bottom edge on the orbit's center, however tall the text under it wraps. */
+  const ZOOM_ICONS = {
+    out: '<circle cx="11" cy="11" r="8" /><line x1="21" x2="16.65" y1="21" y2="16.65" /><line x1="8" x2="14" y1="11" y2="11" />',
+    in: '<circle cx="11" cy="11" r="8" /><line x1="21" x2="16.65" y1="21" y2="16.65" /><line x1="11" x2="11" y1="8" y2="14" /><line x1="8" x2="14" y1="11" y2="11" />',
+  };
+  function setZoomIcon(zoomedOut) {
+    const b = document.getElementById("zoomBtn");
+    b.innerHTML = `<svg viewBox="0 0 24 24" aria-hidden="true">${zoomedOut ? ZOOM_ICONS.in : ZOOM_ICONS.out}</svg>`;
+    b.setAttribute("aria-pressed", String(zoomedOut));
+    b.setAttribute("aria-label", zoomedOut ? "Zoom back in" : "Zoom out to see the whole funnel");
+    b.title = zoomedOut ? "Zoom in" : "Zoom out";
+  }
+
+  // The overview is laid out on a fixed-width canvas, then scaled to fit the screen, so the funnel keeps its
+  // exclamation-mark proportions on any screen instead of stretching to fill the width.
+  const OVERVIEW_WIDTH = 1400;
+  function sizeCanvas() { $("stage").style.width = overviewMode() ? OVERVIEW_WIDTH + "px" : ""; }
+  const overviewMode = () => zoomed;
+  // Wider screens open zoomed out (the overview); phones open at full size, where the layout is already readable.
+  // RULE: the page opens zoomed out on every device, and the zoomed-out view always fits the whole funnel
+  // and KPI on screen (no minimum scale). The zoom button switches to the full-size, scrollable view.
+  let zoomed = true, zoom = 1;
+  function fitStage() {
+    const fit = $("stageFit"), stage = $("stage");
+    if (!zoomed) { zoom = 1; fit.classList.remove("zoomed"); fit.style.height = ""; fit.style.removeProperty("--z"); return; }
+    const margin = parseFloat(getComputedStyle(stage).marginTop) || 0;   // the top margin isn't scaled
+    const natural = stage.offsetHeight;                   // layout size, unaffected by the scale
+    const startsAt = Math.min(fit.getBoundingClientRect().top + window.scrollY, 200);   // header and controls above the stage
+    const room = window.innerHeight - startsAt - 16 - margin;
+    zoom = Math.min(1, room / natural, fit.clientWidth / stage.offsetWidth);   // never larger than the screen allows
+    fit.classList.add("zoomed");
+    fit.style.setProperty("--z", zoom);
+    fit.style.height = Math.ceil(margin + natural * zoom + 4) + "px";
+  }
+  function setZoom(on) {
+    zoomed = on;
+    document.body.classList.toggle("overview", on);
+    setZoomIcon(on);
+    render();
+    const top = $("stageFit").getBoundingClientRect().top + window.scrollY - 12;
+    window.scrollTo({ top: on ? 0 : Math.max(0, top - 200), behavior: reduceMotion ? "auto" : "smooth" });
+  }
+
+  function alignLoop() {
+    const stage = $("stage").getBoundingClientRect(), k = $("kpi").getBoundingClientRect();
+    if (stage.height) $("loop").style.bottom = Math.round((stage.bottom - (k.top + k.height / 2)) / zoom) + "px";
+  }
+
+  function animateMoves(before) {
+    if (reduceMotion) return;
+    document.querySelectorAll("[data-id]").forEach((node) => {
+      const prev = before.get(node.dataset.id), now = node.getBoundingClientRect();
+      if (!prev) { if (before.size) node.animate([{ transform: "scale(0.4)", opacity: 0 }, { transform: "scale(1)", opacity: 1 }], { duration: 380, easing: "cubic-bezier(.2,.8,.2,1)" }); return; }
+      const dx = (prev.left - now.left) / zoom, dy = (prev.top - now.top) / zoom;
+      if (Math.abs(dx) < 1 && Math.abs(dy) < 1) return;
+      node.animate([{ transform: `translate(${dx}px, ${dy}px)` }, { transform: "translate(0, 0)" }], { duration: state.play ? Math.max(40, state.play.stepMs * 0.9) : 750, easing: "cubic-bezier(.22,.9,.24,1)" });
+    });
+  }
+
+  /* ---------- Section panel: everyone in one stage, grouped by step ---------- */
+  const EXPAND_ICON = '<svg viewBox="0 0 24 24" aria-hidden="true"><polyline points="15 3 21 3 21 9" /><polyline points="9 21 3 21 3 15" /><line x1="21" x2="14" y1="3" y2="10" /><line x1="3" x2="10" y1="21" y2="14" /></svg>';
+  let openStage = null;
+  function openStagePanel(stageId, focusSub) {
+    if (!stageId) return;
+    openStage = stageId;
+    renderStagePanel();
+    $("lanePanelBg").hidden = false;
+    const group = focusSub && document.querySelector(`.lp-group[data-sub="${CSS.escape(focusSub)}"]`);
+    if (group) group.scrollIntoView({ block: "start" });   // from a "+N more" circle: start at that step
+    setTimeout(() => $("lpClose").focus({ preventScroll: true }), 30);
+  }
+  function closeStagePanel() { openStage = null; $("lanePanelBg").hidden = true; }
+  function renderStagePanel() {
+    if (!openStage) return;
+    const i = state.config.stages.findIndex((s) => s.id === openStage);
+    if (i < 0) { closeStagePanel(); return; }
+    const stage = state.config.stages[i];
+    const visible = visiblePeople();
+    const total = visible.filter((p) => stage.subs.some((sub) => sub.id === p.sub)).length;
+    const panel = $("lanePanelBg").querySelector(".lane-panel");
+    panel.style.setProperty("--c", colorsFor(stage, i).color);
+    $("lpStage").textContent = "Section";
+    $("lpTitle").textContent = stage.title;
+    $("lpCount").textContent = total === 1 ? "1 person" : `${total} people`;
+    const box = $("lpPeople"); box.textContent = "";
+    stage.subs.forEach((sub) => {
+      const list = visible.filter((p) => p.sub === sub.id).sort((a, b) => a.createdAt - b.createdAt);
+      const group = el("section", { className: "lp-group" });
+      group.dataset.sub = sub.id;
+      group.append(el("h3", { className: "lp-sub" }, el("span", { textContent: sub.label }), el("em", { textContent: String(list.length) })));
+      const grid = el("div", { className: "lp-grid" });
+      if (!list.length) grid.append(el("p", { className: "lp-empty", textContent: "No one here yet." }));
+      list.forEach((p) => {
+        const b = el("button", { type: "button", className: "lp-person" },
+          el("span", { className: "av" }, avatarEl(p), tagEl(p.tag)), el("span", { className: "name", textContent: p.name }),
+          p.year ? el("span", { className: "year-tag", textContent: String(p.year) }) : null);
+        b.setAttribute("aria-label", `${p.name}, open details`);
+        b.addEventListener("click", () => openSheet(p.id));   // the person sheet opens on top of this panel
+        grid.append(b);
+      });
+      group.append(grid);
+      box.append(group);
+    });
+  }
+  $("lpClose").addEventListener("click", closeStagePanel);
+  $("lanePanelBg").addEventListener("click", (e) => { if (e.target === $("lanePanelBg")) closeStagePanel(); });
+
+  function render() {
+    if (typeof syncYearSel === "function") syncYearSel();
+    const before = new Map();
+    document.querySelectorAll("[data-id]").forEach((node) => before.set(node.dataset.id, node.getBoundingClientRect()));
+    const people = visiblePeople();
+    sizeCanvas();
+    renderFunnel(people);
+    renderKpi(people);
+    $("countPeople").textContent = people.length;
+    const zoomBefore = zoom;
+    alignLoop();
+    fitStage();
+    if (zoom === zoomBefore) animateMoves(before);
+    renderStagePanel();                                  // keep an open section panel in sync with changes
+    if (highlight) {
+      const node = document.querySelector(`.person[data-id="${CSS.escape(highlight)}"]`);
+      if (node) { node.classList.add("just-moved"); setTimeout(() => node.classList.remove("just-moved"), 1400); }
+      highlight = null;
+    }
+  }
+
+  /* =========================================================================
+     7. DRAG: mouse drags right away; touch needs a short press-and-hold so the page still scrolls
+     ========================================================================= */
+  let drag = null;
+  const dropTargetAt = (x, y) => document.elementFromPoint(x, y)?.closest(".lane, .kpi");
+
+  function startDrag(e) {
+    drag.moving = true;
+    const p = findPerson(drag.id);
+    drag.ghost = p ? personEl(p) : drag.node.cloneNode(true);
+    drag.ghost.removeAttribute("data-id");
+    drag.ghost.classList.add("drag-ghost");
+    document.body.append(drag.ghost);
+    drag.node.classList.add("dragging-src");
+    $("kpi").classList.add("paused");
+    moveGhost(e.clientX, e.clientY);
+    if (navigator.vibrate) navigator.vibrate(10);
+  }
+  function moveGhost(x, y) {
+    drag.ghost.style.left = x + "px"; drag.ghost.style.top = y + "px";
+    const target = dropTargetAt(x, y);
+    if (drag.over && drag.over !== target) drag.over.classList.remove("over");
+    if (target) target.classList.add("over");
+    drag.over = target;
+  }
+  function endDrag() {
+    if (!drag) return null;
+    const d = drag; drag = null;
+    clearTimeout(d.timer);
+    d.node.classList.remove("armed", "dragging-src");
+    if (d.over) d.over.classList.remove("over");
+    if (d.ghost) d.ghost.remove();
+    $("kpi").classList.remove("paused");
+    return d;
+  }
+
+  document.addEventListener("pointerdown", (e) => {
+    const node = e.target.closest(".person[data-id], .oface[data-id]");
+    if (!node || (e.pointerType === "mouse" && e.button !== 0) || state.play) return;
+    drag = { id: node.dataset.id, node, x: e.clientX, y: e.clientY, touch: e.pointerType !== "mouse", moving: false, ghost: null, over: null, timer: null };
+    if (drag.touch) {
+      drag.timer = setTimeout(() => { if (drag && !drag.moving) { node.classList.add("armed"); startDrag({ clientX: drag.x, clientY: drag.y }); } }, LONG_PRESS_MS);
+    } else {
+      node.setPointerCapture(e.pointerId);
+    }
+  });
+  document.addEventListener("pointermove", (e) => {
+    if (!drag) return;
+    if (drag.moving) { moveGhost(e.clientX, e.clientY); return; }
+    const far = Math.hypot(e.clientX - drag.x, e.clientY - drag.y) > 8;
+    if (!far) return;
+    if (drag.touch) endDrag();                         // finger moved before the hold finished: it's a scroll
+    else startDrag(e);
+  });
+  // Taps open the sheet on "click" (not pointerup) so the synthesized click can't land on the sheet's buttons.
+  let suppressClick = false;
+  document.addEventListener("pointerup", () => {
+    const d = endDrag(); if (!d || !d.moving) return;
+    suppressClick = true; setTimeout(() => (suppressClick = false), 0);
+    if (d.over) movePerson(d.id, d.over.dataset.sub);
+  });
+  document.addEventListener("click", (e) => {
+    const node = e.target.closest(".person[data-id], .oface[data-id]");
+    if (!node || suppressClick || state.play) return;
+    openSheet(node.dataset.id);
+  });
+  document.addEventListener("pointercancel", () => { if (drag && !drag.moving) endDrag(); });
+  // While dragging on touch, stop the page from scrolling under the finger.
+  document.addEventListener("touchmove", (e) => { if (drag && drag.moving) e.preventDefault(); }, { passive: false });
+  document.addEventListener("contextmenu", (e) => { if (e.target.closest(".person, .oface")) e.preventDefault(); });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !$("modalBg").hidden) closeSheet();
+    else if (e.key === "Escape" && openStage) closeStagePanel();
+  });
+
+  /* =========================================================================
+     8. PERSON SHEET (add / edit)
+     ========================================================================= */
+  let editing = null, pendingPhoto = null, pendingTag = "";
+
+  function fillSteps(selected, outcome) {
+    const sel = $("fStep"); sel.textContent = "";
+    state.config.stages.forEach((s) => sel.append(el("optgroup", { label: s.title }, ...s.subs.map((sub) => el("option", { value: sub.id, textContent: sub.label })))));
+    sel.append(el("optgroup", { label: "Main KPI" }, ...Object.entries(OUTCOMES).map(([k, v]) => el("option", { value: `${KPI}:${k}`, textContent: v }))));
+    sel.value = selected === KPI ? `${KPI}:${outcome || "published"}` : selected;
+  }
+  function fillTags() {
+    const seg = $("fTag"); seg.textContent = "";
+    [...TAGS, { id: "", label: "None", color: "" }].forEach((t) => {
+      const b = el("button", { type: "button", textContent: t.label });
+      if (t.color) b.style.setProperty("--tc", t.color);
+      b.setAttribute("aria-pressed", String(pendingTag === t.id));
+      b.addEventListener("click", () => { pendingTag = t.id; fillTags(); });
+      seg.append(b);
+    });
+  }
+  function setPreview(p) { $("fPreview").replaceWith(Object.assign(avatarEl(p), { id: "fPreview" })); }
+  function personTimeline(p) {
+    const logged = state.events.filter((e) => e.personId === p.id).sort((a, b) => a.at - b.at);
+    return logged.length ? logged : p.history.map((h, i) => ({ type: i ? "move" : "add", to: h.sub, outcome: h.outcome, at: h.at }));
+  }
+
+  function openSheet(id) {
+    editing = id ? findPerson(id) : null;
+    pendingPhoto = null; pendingTag = editing?.tag || "";
+    $("modalTitle").textContent = editing ? editing.name : "Add person";
+    $("fName").value = editing?.name || "";
+    $("fNotes").value = editing?.notes || "";
+    $("fDesc").value = editing?.description || "";
+    $("fYear").value = editing?.year || "";
+    $("fPhoto").value = "";
+    fillSteps(editing ? editing.sub : firstSub(), editing?.outcome);
+    fillTags(); setPreview(editing || { name: "" });
+    $("photoField").hidden = !state.assets && !!state.db;
+    ["nextBtn", "replayBtn", "delBtn", "histField"].forEach((b) => ($(b).hidden = !editing));
+    const hist = $("fHistory"); hist.textContent = "";
+    if (editing) personTimeline(editing).forEach((e) => {
+      const li = el("li", { textContent: `${e.type === "add" ? "Added to" : "Moved to"} ${placeName(e.to, e.outcome)}` });
+      if (isRealTime(e.at)) li.append(el("time", { dateTime: new Date(e.at).toISOString(), textContent: fmtTime(e.at) }));
+      hist.append(li);
+    });
+    $("modalBg").hidden = false;
+    if (!isPhone()) setTimeout(() => $("fName").focus(), 30);  // phones: don't pop the keyboard over the sheet
+  }
+  function closeSheet() { $("modalBg").hidden = true; editing = null; }
+
+  $("fPhoto").addEventListener("change", async () => {
+    const file = $("fPhoto").files[0]; if (!file) return;
+    if (state.assets) {
+      setStatus("Uploading headshot…");
+      try { pendingPhoto = (await state.assets.upload(file)).url; setStatus(""); }
+      catch (e) { setStatus(e && e.code === "too_large" ? "That image is too large." : "The headshot didn’t upload."); return; }
+    } else if (file.size <= 300 * 1024) {
+      pendingPhoto = await new Promise((res) => { const fr = new FileReader(); fr.onload = () => res(fr.result); fr.readAsDataURL(file); });
+    } else {
+      setStatus("That image is too large for standalone storage (max 300 KB).");
+      return;
+    }
+    setPreview({ name: $("fName").value, photo: pendingPhoto });
+  });
+  $("saveBtn").addEventListener("click", async () => {
+    const name = $("fName").value.trim(); if (!name) { $("fName").focus(); return; }
+    const [sub, outcome] = $("fStep").value.split(":");
+    const yv = parseInt($("fYear").value, 10);
+    const fields = { name, notes: $("fNotes").value, description: $("fDesc").value, year: Number.isFinite(yv) && yv > 1990 && yv < 2100 ? yv : null, tag: pendingTag };
+    if (pendingPhoto) fields.photo = pendingPhoto;
+    const id = editing?.id; closeSheet();
+    if (id) { await updatePerson(id, fields); await movePerson(id, sub, outcome); }
+    else await addPerson({ ...fields, sub, outcome });
+  });
+  $("nextBtn").addEventListener("click", () => {
+    if (!editing) return;
+    const subs = allSubs(), i = subs.findIndex((s) => s.id === editing.sub), id = editing.id;
+    closeSheet();
+    if (i >= 0) movePerson(id, subs[i + 1] ? subs[i + 1].id : KPI, "published");
+  });
+  $("replayBtn").addEventListener("click", () => { if (editing) { const id = editing.id; closeSheet(); playHistory(id); } });
+  $("delBtn").addEventListener("click", () => { if (editing && confirm(`Remove ${editing.name} from the funnel? Their history is kept.`)) { const id = editing.id; closeSheet(); removePerson(id); } });
+  $("cancelBtn").addEventListener("click", closeSheet);
+  $("modalBg").addEventListener("click", (e) => { if (e.target === $("modalBg")) closeSheet(); });
+  $("addBtn").addEventListener("click", () => openSheet(null));
+
+  /* Year filter: populate options from the rows' years, filter on change. */
+  function syncYearSel() {
+    const sel = $("yearSel");
+    const years = [...new Set(state.people.map((p) => p.year).filter(Boolean))].sort((a, b) => b - a);
+    const cur = state.yearFilter;
+    sel.textContent = "";
+    sel.append(el("option", { value: "0", textContent: "All" }));
+    years.forEach((y) => sel.append(el("option", { value: String(y), textContent: String(y) })));
+    sel.value = String(cur);
+    sel.disabled = years.length === 0;
+  }
+  $("yearSel").addEventListener("change", () => {
+    state.yearFilter = parseInt($("yearSel").value, 10) || 0;
+    if (!state.play) render();
+  });
+
+  /* =========================================================================
+     9. PLAYBACK: rebuild the funnel event by event
+     ========================================================================= */
+  function timeline(onlyId) {
+    let evs = [...state.events];
+    const logged = new Set(evs.map((e) => e.personId));
+    state.people.forEach((p) => {                      // people without logged events replay from their own history
+      if (!logged.has(p.id)) p.history.forEach((h, i) => evs.push({ type: i ? "move" : "add", personId: p.id, name: p.name, to: h.sub, outcome: h.outcome, at: h.at }));
+    });
+    if (onlyId) evs = evs.filter((e) => e.personId === onlyId);
+    return evs.sort((a, b) => a.at - b.at);
+  }
+  async function playHistory(onlyId) {
+    if (state.play) return;
+    const evs = timeline(onlyId);
+    if (!evs.length) { setStatus("There’s no history to play yet."); return; }
+    const token = {};
+    const stepMs = PLAYBACK_MS / evs.length;
+    state.play = { people: [], token, stepMs };
+    $("player").hidden = false; $("playBtn").disabled = true; $("addBtn").disabled = true; $("pProg").max = evs.length;
+    render();
+    for (let i = 0; i < evs.length; i++) {
+      if (state.play?.token !== token) return;
+      const e = evs[i];
+      const live = findPerson(e.personId);
+      const cur = state.play.people.find((p) => p.id === e.personId);
+      if (e.type === "remove") state.play.people = state.play.people.filter((p) => p.id !== e.personId);
+      else if (cur) { cur.sub = e.to; if (e.to === KPI) { cur.outcome = e.outcome || "published"; cur.kpiAt = e.at; } }
+      else state.play.people.push(normalizePerson(e.personId, { name: e.name || live?.name, photo: live?.photo, tag: live?.tag, sub: e.to, outcome: e.outcome, kpiAt: e.at, createdAt: e.at }));
+      const verb = e.type === "remove" ? "left the funnel" : e.type === "add" ? `joined ${placeName(e.to, e.outcome)}` : `moved to ${placeName(e.to, e.outcome)}`;
+      $("pWhen").textContent = isRealTime(e.at) ? fmtTime(e.at) : `Step ${i + 1}`;
+      $("pWhat").textContent = `${e.name || live?.name || "Someone"} ${verb}`;
+      $("pProg").value = i + 1;
+      highlight = e.personId; render();
+      await new Promise((r) => setTimeout(r, stepMs));
+    }
+    await new Promise((r) => setTimeout(r, 600));
+    if (state.play?.token === token) stopPlay();
+  }
+  function stopPlay() { state.play = null; $("player").hidden = true; $("playBtn").disabled = false; $("addBtn").disabled = false; render(); }
+  $("playBtn").addEventListener("click", () => playHistory());
+  $("zoomBtn").addEventListener("click", () => setZoom(!zoomed));
+  setZoomIcon(zoomed);   // wider screens start zoomed out
+  document.body.classList.toggle("overview", zoomed);
+  $("stopBtn").addEventListener("click", stopPlay);
+
+  /* =========================================================================
+     10. STATUS MESSAGES
+     ========================================================================= */
+  function showBanner(msg) { const b = $("banner"); b.textContent = msg || ""; b.hidden = !msg; }
+  function setStatus(msg) { showBanner(msg); }   // short messages share the banner (there is no separate status line)
+
+  /* Default roster: the funnel's starting people (first visit only — edits stay local). */
+  const DEFAULT_PEOPLE = [
+  {
+    "name": "Sample Person A",
+    "sub": "kpi",
+    "tag": "bitcoin",
+    "notes": "Sample note — structure only.",
+    "description": "Sample description: one paragraph showing where the tangible-impact text sits on the card and in the detail sheet.",
+    "createdAt": "2026-10-24",
+    "year": 2021,
+    "photo": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+    "outcome": "published",
+    "history": [
+      {
+        "sub": "events",
+        "at": 1723200000000
+      },
+      {
+        "sub": "build",
+        "at": 1725700000000
+      },
+      {
+        "sub": "kpi",
+        "at": 1728300000000,
+        "outcome": "published"
+      }
+    ]
+  },
+  {
+    "name": "Sample Person B",
+    "sub": "kpi",
+    "tag": "ai",
+    "notes": "Sample note — structure only.",
+    "description": "Sample description: one paragraph showing where the tangible-impact text sits on the card and in the detail sheet.",
+    "createdAt": "2026-10-24",
+    "year": 2026,
+    "outcome": "not_published"
+  },
+  {
+    "name": "Sample Person C",
+    "sub": "teach",
+    "tag": "ai",
+    "notes": "Sample note — structure only.",
+    "description": "Sample description: one paragraph showing where the tangible-impact text sits on the card and in the detail sheet.",
+    "createdAt": "2026-10-24",
+    "year": 2024,
+    "photo": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+  },
+  {
+    "name": "Sample Org D",
+    "sub": "fund",
+    "tag": "bitcoin",
+    "notes": "Sample note — structure only.",
+    "description": "Sample description: one paragraph showing where the tangible-impact text sits on the card and in the detail sheet.",
+    "createdAt": "2026-10-24",
+    "year": 2025
+  }
+];
+
+  /* =========================================================================
+     11. START
+         On claude.ai the artifact's shared database is used; anywhere else (Finite, a downloaded copy)
+         this browser's localStorage is used, seeded with DEFAULT_PEOPLE on first visit.
+     ========================================================================= */
+  let resizeTimer;
+  window.addEventListener("resize", () => { clearTimeout(resizeTimer); resizeTimer = setTimeout(render, 150); });
+  const sharedDb = window.claude && window.claude.use ? await window.claude.use("db").catch(() => null) : null;
+  if (sharedDb) {
+    state.db = sharedDb;
+    state.assets = await window.claude.use("assets").catch(() => null);
+    sharedDb.doc("funnel/config").onSnapshot((snap) => {
+      state.config = snap.exists ? normalizeConfig(snap.data()) : DEFAULT_CONFIG;
+      state.people = state.people.map((p) => normalizePerson(p.id, p));   // re-resolve steps against the new config
+      if (!state.play) render();
+    }, () => showBanner("The funnel couldn’t load. Refresh to try again."));
+    sharedDb.collection("people").onSnapshot((snap) => {
+      state.people = snap.docs.map((d) => normalizePerson(d.id, d.data()));
+      if (!state.play) render();
+    }, () => showBanner("People couldn’t load. Refresh to try again."));
+    sharedDb.collection("events").onSnapshot((snap) => { state.events = snap.docs.map((d) => ({ id: d.id, ...d.data() })); }, () => {});
+    render();
+    return;
+  }
+  state.db = localStore();
+  let dbConfigUnsub = null, dbPeopleUnsub = null, dbEventsUnsub = null;
+  const applyConfig = (snap) => {
+    const cfgDoc = snap && snap.docs ? snap.docs.find((d) => d.id === "config") : null;
+    state.config = cfgDoc ? normalizeConfig(cfgDoc.data()) : DEFAULT_CONFIG;
+    state.people = state.people.map((p) => normalizePerson(p.id, p));   // re-resolve steps against the new config
+    if (!state.play) render();
+  };
+  const applyPeople = (snap) => {
+    state.people = snap.docs.map((d) => normalizePerson(d.id, d.data()));
+    if (!state.play) render();
+  };
+  const applyEvents = (snap) => { state.events = snap.docs.map((d) => ({ id: d.id, ...d.data() })); };
+  const SEED_KEY = "ftfunnel:seeded:design";   // bump resets every browser to the current default roster
+  if (!localStorage.getItem(SEED_KEY)) {
+    localStorage.removeItem("ftfunnel:v1");   // drop the previous local copy on a version bump
+    try { await state.db.doc("funnel/config").set(DEFAULT_CONFIG); } catch {}
+    for (const p of DEFAULT_PEOPLE) {
+      const id = uid("s");
+      await write((db) => db.doc("people/" + id).set(p));
+    }
+    try { localStorage.setItem(SEED_KEY, "1"); } catch {}
+  }
+  // One-time migration: insert the "impact" stage for visitors whose stored config predates it.
+  try {
+    await new Promise((resolve) => {
+      const unsub = state.db.collection("funnel/").onSnapshot((snap) => {
+        try {
+          const cfgDoc = snap.docs.find((d) => d.id === "config");
+          if (cfgDoc) {
+            const stored = cfgDoc.data();
+            const hasImpact = Array.isArray(stored.stages) && stored.stages.some((s) => s && s.id === "impact");
+            const grantsIdx = Array.isArray(stored.stages) ? stored.stages.findIndex((s) => s && s.id === "grants") : -1;
+            if (!hasImpact && grantsIdx >= 0) {
+              const impact = DEFAULT_CONFIG.stages.find((s) => s.id === "impact");
+              stored.stages.splice(grantsIdx, 0, JSON.parse(JSON.stringify(impact)));
+              state.db.doc("funnel/config").set(stored);
+            }
+          }
+        } catch {}
+        resolve();
+      });
+      setTimeout(resolve, 250);   // never block startup on the migration
+      setTimeout(() => { try { unsub(); } catch {} }, 500);
+    });
+  } catch {}
+  // One-time photo enrichment: backfill headshots into existing visitors' rows
+  // (rows created before photos shipped keep their data but lack images).
+  try {
+    await new Promise((resolve) => {
+      const unsub = state.db.collection("people/").onSnapshot((snap) => {
+        try {
+          const defaults = new Map(DEFAULT_PEOPLE.filter((p) => p.photo).map((p) => [String(p.name).trim(), p.photo]));
+          snap.docs.forEach((d) => {
+            const data = d.data();
+            const nm = String((data && data.name) || "").trim();
+            if (data && !data.photo && defaults.has(nm)) {
+              state.db.doc("people/" + d.id).update({ photo: defaults.get(nm) });
+            }
+          });
+        } catch {}
+        resolve();
+      });
+      setTimeout(resolve, 250);   // never block startup on the backfill
+      setTimeout(() => { try { unsub(); } catch {} }, 500);
+    });
+  } catch {}
+  dbConfigUnsub = state.db.collection("funnel/").onSnapshot(applyConfig);
+  dbPeopleUnsub = state.db.collection("people").onSnapshot(applyPeople);
+  dbEventsUnsub = state.db.collection("events").onSnapshot(applyEvents);
+  render();
+})();
+</script>
+</body>
+</html>
