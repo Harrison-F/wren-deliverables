@@ -1,0 +1,251 @@
+{
+  "id": "red-bulb-lamps",
+  "title": "Red-bulb lamps",
+  "summary": "",
+  "updated": "2026-10-26",
+  "layout": "natural-basics",
+  "catalog": true,
+  "showCollectionNotes": true,
+  "recommendation": {
+    "title": "Two routes for the Zoo Med RS-50",
+    "text": "Cheap clamp: Fluker\u2019s 5.5-inch dimmer model. Real brass: Industrial Light Electric is a conditional lead, not a confirmed pairing.",
+    "test": "Beser\u00b7Win B08RBJCJZR: 25W / LED listing; do not use with a 50W heat bulb without a qualifying fixture label."
+  },
+  "caveat": "No hands-on pairing tests. Secure hot fixtures, follow bulb/fixture clearances, keep away from bedding and skin, and switch off before sleep.",
+  "evidenceNote": "Prices exclude shipping and tax. Brass base needs a separate incandescent-rated dimmer; Leviton TBL03 black is $18.07. Two other brass designs excluded because their maker warns against high-heat bulbs. Product evidence below.",
+  "products": [
+    {
+      "id": "brass-task",
+      "name": "Brass Task Lamp",
+      "store": "Industrial Light Electric",
+      "url": "https://www.industriallightelectric.com/products/brass-task-lamp?variant=35188655047",
+      "unitPriceUSD": 167,
+      "priceLabel": "$167.00",
+      "category": "Real brass",
+      "clinicalCard": true,
+      "composition": "Raw brass base; white ceramic socket; fabric-covered electrical cord. Not an all-brass lamp.",
+      "verdict": "Conditional candidate \u00b7 external dimmer needed",
+      "summary": "Open ceramic socket; reflector-bulb suitability not confirmed.",
+      "facts": {
+        "Rating": "60W maximum; E26/E27 per maker FAQ",
+        "Dimensions": "5 in diameter \u00d7 4.25 in tall, excluding bulb",
+        "Availability": "No Bulb variant available; lead time unverified",
+        "Pairing": "No explicit RS-50 approval or thermal/clearance test",
+        "Cost": "Add dimmer; shipping and tax unknown"
+      },
+      "images": [
+        {
+          "src": "assets/images/brass-task-0.webp",
+          "alt": "Brass Task Lamp \u2014 retailer photo",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0222/2732/products/IMG_6729.jpg?v=1481998733"
+        },
+        {
+          "src": "assets/images/brass-task-1.webp",
+          "alt": "Brass Task Lamp \u2014 retailer photo",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0222/2732/products/IMG_6732.jpg?v=1481998747"
+        },
+        {
+          "src": "assets/images/brass-task-2.webp",
+          "alt": "Brass Task Lamp \u2014 retailer photo",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0222/2732/products/IMG_6752.jpg?v=1481998758"
+        },
+        {
+          "src": "assets/images/brass-task-3.webp",
+          "alt": "Brass Task Lamp \u2014 retailer photo",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0222/2732/products/IMG_6710.jpg?v=1481998770"
+        },
+        {
+          "src": "assets/images/brass-task-4.webp",
+          "alt": "Brass Task Lamp \u2014 retailer photo",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0222/2732/products/IMG_6758.jpg?v=1481998784"
+        }
+      ],
+      "image": "assets/images/brass-task-0.webp",
+      "imageAlt": "Brass Task Lamp \u2014 retailer photo",
+      "imageNote": "Complete single-product gallery",
+      "sources": [
+        "brass-task"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": 0
+    },
+    {
+      "id": "flukers-basic-55",
+      "name": "Fluker's Deluxe Ceramic Clamp Lamp with Switch Black 5.5-in",
+      "store": "Kwik Pets",
+      "url": "https://www.kwikpets.com/products/flukers-deluxe-ceramic-clamp-lamp-with-switch-black-5-5-in?variant=54165015363875",
+      "unitPriceUSD": 18.57,
+      "priceLabel": "$18.57",
+      "category": "Cheap clamp lamps",
+      "clinicalCard": true,
+      "composition": "Metal reflector \u00b7 ceramic socket",
+      "verdict": "External dimmer required",
+      "summary": "Less economical once a dimmer is added.",
+      "facts": {
+        "Rating": "75W actual incandescent maximum",
+        "Size": "5.5 in reflector",
+        "Availability": "Available for purchase: exact Shopify variant available=true; JSON-LD InStock; enabled Add to cart. Quantity selector offers 1, higher quantities marked out of stock.",
+        "Compatibility": "50 W incandescent load is within documented 75 W rating; obey fixture/bulb mounting and clearance instructions.",
+        "Limitations": "Do not read the unconditional hidden Sold out badge in raw HTML as stock state; variant API, JSON-LD and enabled product submit agree available.",
+        "Cost": "Shipping and tax unknown"
+      },
+      "images": [
+        {
+          "src": "assets/images/flukers-basic-55-0.webp",
+          "alt": "Fluker's Deluxe Ceramic Clamp Lamp with Switch Black 5.5-in \u2014 retailer photo",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/2229/1767/files/medium_8fdad2ed-7026-4eb1-8993-ba69a6ee3700.jpg?v=1753084623"
+        },
+        {
+          "src": "assets/images/flukers-basic-55-1.webp",
+          "alt": "Fluker's Deluxe Ceramic Clamp Lamp with Switch Black 5.5-in \u2014 retailer photo",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/2229/1767/files/medium_c25bf219-32ef-4c17-b9f2-767226e58256.jpg?v=1753084623"
+        }
+      ],
+      "image": "assets/images/flukers-basic-55-0.webp",
+      "imageAlt": "Fluker's Deluxe Ceramic Clamp Lamp with Switch Black 5.5-in \u2014 retailer photo",
+      "imageNote": "Both images from exact single-variant product gallery.",
+      "sources": [
+        "flukers-basic-55"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": 0
+    },
+    {
+      "id": "flukers-dimmer-55",
+      "name": "Fluker\u2019s Clamp Lamp with Dimmer Dome \u2014 5.5 inch (75 W)",
+      "store": "DBDPet",
+      "url": "https://www.dbdpet.com/products/flukers-clamp-lamp-with-dimmer-dome?variant=37614433403047",
+      "unitPriceUSD": 18.0,
+      "priceLabel": "$18.00",
+      "category": "Cheap clamp lamps",
+      "clinicalCard": true,
+      "composition": "Metal reflector \u00b7 ceramic socket",
+      "verdict": "Built-in dimmer",
+      "summary": "Best budget choice.",
+      "facts": {
+        "Rating": "75W actual incandescent maximum",
+        "Size": "5.5 in reflector",
+        "Availability": "Exact variant 37614433403047 available=true; Add to cart on live page.",
+        "Compatibility": "50 W incandescent load is within documented 75 W rating; obey fixture/bulb mounting and clearance instructions.",
+        "Limitations": "Shopify inventory_management=null: purchasable status, not verified on-hand count.",
+        "Cost": "Shipping and tax unknown"
+      },
+      "images": [
+        {
+          "src": "assets/images/flukers-dimmer-55-0.webp",
+          "alt": "Fluker\u2019s Clamp Lamp with Dimmer Dome \u2014 5.5 inch (75 W) \u2014 retailer photo",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0309/8843/5594/products/Untitleddesign-2020-12-15T142122.184.png?v=1608060176"
+        }
+      ],
+      "image": "assets/images/flukers-dimmer-55-0.webp",
+      "imageAlt": "Fluker\u2019s Clamp Lamp with Dimmer Dome \u2014 5.5 inch (75 W) \u2014 retailer photo",
+      "imageNote": "Retailer exposes one shared product image for 5.5 and 8.5 sizes; not variant-specific.",
+      "sources": [
+        "flukers-dimmer-55"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": 0
+    },
+    {
+      "id": "zoo-med-lf13",
+      "name": "Zoo Med Professional Series Dimmable Clamp Lamp LF-13 \u2014 8.5 inch",
+      "store": "Josh\u2019s Frogs",
+      "url": "https://joshsfrogs.com/sp/zoo-med-professional-series-dimmable-clamp-lamp-8-5-inch-zmlf13",
+      "unitPriceUSD": 24.09,
+      "priceLabel": "$24.09",
+      "category": "Cheap clamp lamps",
+      "clinicalCard": true,
+      "composition": "Metal reflector \u00b7 ceramic socket",
+      "verdict": "Built-in dimmer",
+      "summary": "Larger same-brand option.",
+      "facts": {
+        "Rating": "150W actual incandescent maximum",
+        "Size": "8.5 in reflector",
+        "Availability": "Quantity Available: 36; Add to Cart - $24.09",
+        "Compatibility": "50 W incandescent heat lamp is within documented 150 W rating.",
+        "Limitations": "Retailer paragraph incorrectly says 200 W; use manufacturer 150 W and retailer own LF-13 150 W model line.; Manufacturer FAQ says LF-13 no longer approved for ceramic heat emitters despite old packaging/retailer text. This does not preclude the requested incandescent RS-50.",
+        "Cost": "Shipping and tax unknown"
+      },
+      "images": [
+        {
+          "src": "assets/images/zoo-med-lf13-0.webp",
+          "alt": "Zoo Med Professional Series Dimmable Clamp Lamp LF-13 \u2014 8.5 inch \u2014 retailer photo",
+          "sourceUrl": "https://joshsfrogs.com/media/image/zoo_med_dimmable_clamp_lamp_josh_s_frogs-940284d1.jpg"
+        }
+      ],
+      "image": "assets/images/zoo-med-lf13-0.webp",
+      "imageAlt": "Zoo Med Professional Series Dimmable Clamp Lamp LF-13 \u2014 8.5 inch \u2014 retailer photo",
+      "imageNote": "Exact retailer og:image.",
+      "sources": [
+        "zoo-med-lf13"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": 0
+    }
+  ],
+  "sources": [
+    {
+      "id": "brass-task",
+      "title": "Brass Task Lamp",
+      "url": "https://www.industriallightelectric.com/products/brass-task-lamp?variant=35188655047",
+      "type": "Manufacturer / retailer listing",
+      "note": "Complete single-product gallery {\"Rating\": \"60W maximum; E26/E27 per maker FAQ\", \"Dimensions\": \"5 in diameter \\u00d7 4.25 in tall, excluding bulb\", \"Availability\": \"No Bulb variant available; lead time unverified\", \"Pairing\": \"No explicit RS-50 approval or thermal/clearance test\", \"Cost\": \"Add dimmer; shipping and tax unknown\"}"
+    },
+    {
+      "id": "flukers-basic-55",
+      "title": "Fluker's Deluxe Ceramic Clamp Lamp with Switch Black 5.5-in",
+      "url": "https://www.kwikpets.com/products/flukers-deluxe-ceramic-clamp-lamp-with-switch-black-5-5-in?variant=54165015363875",
+      "type": "Manufacturer / retailer listing",
+      "note": "Both images from exact single-variant product gallery. {\"Rating\": \"75W actual incandescent maximum\", \"Size\": \"5.5 in reflector\", \"Availability\": \"Available for purchase: exact Shopify variant available=true; JSON-LD InStock; enabled Add to cart. Quantity selector offers 1, higher quantities marked out of stock.\", \"Compatibility\": \"50 W incandescent load is within documented 75 W rating; obey fixture/bulb mounting and clearance instructions.\", \"Limitations\": \"Do not read the unconditional hidden Sold out badge in raw HTML as stock state; variant API, JSON-LD and enabled product submit agree available.\", \"Cost\": \"Shipping and tax unknown\"}"
+    },
+    {
+      "id": "flukers-dimmer-55",
+      "title": "Fluker\u2019s Clamp Lamp with Dimmer Dome \u2014 5.5 inch (75 W)",
+      "url": "https://www.dbdpet.com/products/flukers-clamp-lamp-with-dimmer-dome?variant=37614433403047",
+      "type": "Manufacturer / retailer listing",
+      "note": "Retailer exposes one shared product image for 5.5 and 8.5 sizes; not variant-specific. {\"Rating\": \"75W actual incandescent maximum\", \"Size\": \"5.5 in reflector\", \"Availability\": \"Exact variant 37614433403047 available=true; Add to cart on live page.\", \"Compatibility\": \"50 W incandescent load is within documented 75 W rating; obey fixture/bulb mounting and clearance instructions.\", \"Limitations\": \"Shopify inventory_management=null: purchasable status, not verified on-hand count.\", \"Cost\": \"Shipping and tax unknown\"}"
+    },
+    {
+      "id": "zoo-med-lf13",
+      "title": "Zoo Med Professional Series Dimmable Clamp Lamp LF-13 \u2014 8.5 inch",
+      "url": "https://joshsfrogs.com/sp/zoo-med-professional-series-dimmable-clamp-lamp-8-5-inch-zmlf13",
+      "type": "Manufacturer / retailer listing",
+      "note": "Exact retailer og:image. {\"Rating\": \"150W actual incandescent maximum\", \"Size\": \"8.5 in reflector\", \"Availability\": \"Quantity Available: 36; Add to Cart - $24.09\", \"Compatibility\": \"50 W incandescent heat lamp is within documented 150 W rating.\", \"Limitations\": \"Retailer paragraph incorrectly says 200 W; use manufacturer 150 W and retailer own LF-13 150 W model line.; Manufacturer FAQ says LF-13 no longer approved for ceramic heat emitters despite old packaging/retailer text. This does not preclude the requested incandescent RS-50.\", \"Cost\": \"Shipping and tax unknown\"}"
+    },
+    {
+      "id": "brass-holds",
+      "title": "Why other real-brass designs were not shortlisted",
+      "url": "https://www.onefortythree.com/pages/faq",
+      "type": "Maker FAQ",
+      "note": "Maker advises avoiding other high-heat bulbs. Its brass pendant and swing lamp are not recommended here for RS-50 despite nominal 75W incandescent ratings."
+    },
+    {
+      "id": "existing-clamp",
+      "title": "Beser\u00b7Win B08RBJCJZR compatibility check",
+      "url": "https://www.amazon.com/dp/B08RBJCJZR",
+      "type": "Retailer listing",
+      "note": "Current listing says Wattage 25 watts and recommends LED bulbs no greater than 25W. No 50W incandescent approval established. Ceramic socket alone is insufficient; do not rely on dimming to compensate."
+    },
+    {
+      "id": "dimmer",
+      "title": "Leviton TBL03 plug-in dimmer \u2014 black $18.07",
+      "url": "https://store.leviton.com/products/universal-tabletop-slide-control-lamp-dimmer-300-watt-incandescent-150-watt-led-cfl-tbl03-1l?variant=18216845763",
+      "type": "Manufacturer store",
+      "note": "120V AC, 300W incandescent maximum. Available. Needed only for plain on/off bases; do not stack with built-in dimmers. Shipping/tax unknown."
+    },
+    {
+      "id": "fluker-rating",
+      "title": "Fluker dimmer fixture ratings",
+      "url": "https://flukerfarms.com/reptile-clamp-lamp-with-dimmer/",
+      "type": "Manufacturer",
+      "note": "5.5 inch rated75W; ceramic socket for incandescent bulbs."
+    },
+    {
+      "id": "zoo-rating",
+      "title": "Zoo Med LF13 ratings",
+      "url": "https://zoomed.com/professional-series-dimmable-clamp-lamp/",
+      "type": "Manufacturer",
+      "note": "150W maximum. Not approved for ceramic heat emitters; requested RS-50 is incandescent."
+    }
+  ]
+}
