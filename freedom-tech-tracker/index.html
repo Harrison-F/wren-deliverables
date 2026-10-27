@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Freedom Tech funnel</title>
+<link rel="icon" href="data:,">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@800&family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,600;12..96,800&display=swap" rel="stylesheet">
@@ -278,28 +279,7 @@
   /* Section expand: top-right of each stage, level with its title, kept inside the slanted edge */
   .stage-expand { position: absolute; z-index: 3; top: 6px; right: calc(var(--d) * 0.35 + 6px); width: 32px; height: 32px; border-radius: 9px; border: 0; padding: 0; background: rgba(27, 22, 48, 0.12); color: var(--ink); display: flex; align-items: center; justify-content: center; cursor: pointer; opacity: 0.85; }
   .stage-expand:hover, .stage-expand:focus-visible { opacity: 1; background: rgba(27, 22, 48, 0.22); }
-  .stage-expand svg, .lp-close svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
-  .lane-panel-bg { position: fixed; inset: 0; z-index: 38; background: rgba(10, 8, 26, 0.6); display: flex; align-items: center; justify-content: center; padding: 20px; }
-  .lane-panel { width: min(780px, 100%); max-height: 86vh; overflow: auto; overscroll-behavior: contain; background: var(--panel); border-radius: 18px; border-top: 6px solid var(--c, var(--blue)); padding: 20px 22px 24px; }
-  .lp-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; position: sticky; top: -20px; z-index: 2; background: var(--panel); margin: -20px -22px 0; padding: 20px 22px 12px; border-bottom: 1px solid var(--line); }   /* stays visible while scrolling a long section */
-  .lp-group { scroll-margin-top: 110px; }
-  .lp-stage { margin: 0 0 4px; font-size: 14px; font-weight: 700; color: var(--c, var(--muted)); }
-  .lp-head h2 { margin: 0; font-family: "Barlow Condensed", "Arial Narrow", sans-serif; font-weight: 800; font-size: 30px; line-height: 1; text-transform: uppercase; }
-  .lp-count { margin: 6px 0 0; color: var(--muted); font-size: 14px; }
-  .lp-close { flex: none; width: 40px; height: 40px; border-radius: 10px; border: 1.5px solid var(--line); background: transparent; color: var(--soft); display: flex; align-items: center; justify-content: center; cursor: pointer; }
-  .lp-close svg { width: 18px; height: 18px; }
-  .lp-people { margin-top: 8px; }
-  .lp-group { padding-top: 14px; scroll-margin-top: 10px; }
-  .lp-group + .lp-group { border-top: 1px solid var(--line); margin-top: 14px; }
-  .lp-sub { margin: 0 0 10px; display: flex; align-items: center; gap: 10px; font-size: 17px; font-weight: 700; }
-  .lp-sub em { font-style: normal; min-width: 26px; height: 26px; padding: 0 7px; border-radius: 7px; display: inline-flex; align-items: center; justify-content: center; background: #ECEBF0; color: #55526A; border: 1.5px solid #C4C2CE; font-size: 13px; font-weight: 800; }
-  .lp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 16px 10px; }
-  .lp-person { display: flex; flex-direction: column; align-items: center; gap: 6px; background: none; border: 0; padding: 6px 4px; border-radius: 12px; cursor: pointer; color: var(--text); }
-  .lp-person:hover { background: rgba(255, 255, 255, 0.06); }
-  .lp-person .avatar { width: 64px; height: 64px; font-size: 21px; }
-  .lp-person .name { max-width: 100%; font-size: 14px; font-weight: 600; line-height: 1.25; white-space: normal; text-align: center; color: var(--text); }
-  .lp-person .year-tag { font-size: 12px; color: var(--muted); font-weight: 700; }
-  .lp-empty { color: var(--muted); font-size: 15px; margin: 18px 0 0; }
+  .stage-expand svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
   @media all {   /* overview rules apply on every screen size, phones included */
     body.overview .lane-head { padding-right: 60px; }
     body.overview .lanes.cols-3 .lane-head { font-size: 21px; padding-right: 52px; overflow-wrap: normal; }   /* keep long words like "infrastructure" whole */
@@ -312,12 +292,22 @@
     .lane-head { padding-right: 34px; }
     .lane-head em { top: -3px; right: 0; min-width: 26px; height: 26px; font-size: 12.5px; padding: 0 6px; }
     .stage-expand { top: 6px; width: 30px; height: 30px; }
-    .lane-panel-bg { align-items: flex-end; padding: 0; }
-    .lane-panel { width: 100%; max-height: 88vh; border-radius: 20px 20px 0 0; padding: 18px 16px calc(20px + env(safe-area-inset-bottom, 0px)); }
-    .lp-head { margin: -18px -16px 0; padding: 18px 16px 10px; top: -18px; }
-    .lp-grid { grid-template-columns: repeat(auto-fill, minmax(84px, 1fr)); }
-    .lp-person .avatar { width: 56px; height: 56px; }
+
   }
+  /* Compact identity stays readable; only the description/details scroll. */
+  #modalBg { padding: max(12px, env(safe-area-inset-top)) 12px max(12px, env(safe-area-inset-bottom)); align-items: center; }
+  #modalBg .modal { width: min(520px, 100%); max-height: calc(100dvh - 24px); display: flex; flex-direction: column; overflow: hidden; border-radius: 18px; padding: 22px; }
+  .person-heading { display: flex; align-items: center; gap: 16px; flex: none; }
+  .person-heading h2 { text-wrap: balance; flex: 1; min-width: 0; overflow-wrap: anywhere; margin: 0; font-size: 28px; }
+  #cardPhoto .avatar { width: 64px; height: 64px; }
+  #cardClose { font-size: 26px; }
+  #cardDescription { font-size: 16px; line-height: 1.6; white-space: pre-wrap; overflow-wrap: anywhere; overflow: auto; min-height: 0; max-height: 40dvh; margin: 20px 0 12px; flex: 0 1 auto; }
+  #personDetails { min-height: 44px; overflow: auto; }
+  #personDetails summary { cursor: pointer; padding: 12px 0; min-height: 44px; color: var(--soft); font-weight: 600; position: sticky; top: 0; background: var(--panel); z-index: 2; }
+  .person-fields { padding-top: 12px; }
+  #personDetails[open] { flex: 1 1 auto; }
+  .modal:has(#personDetails[open]) #cardDescription { max-height: 18dvh; flex-shrink: 0; }
+  @media (max-height: 480px) { #modalBg .modal { padding: 14px; } #cardPhoto .avatar { width: 44px; height: 44px; } #cardDescription { margin: 10px 0; } }
 </style>
 </head>
 <body>
@@ -364,20 +354,11 @@
   </main>
 </div>
 
-<!-- Everyone in one section (stage), grouped by step; opened from a section's expand button or a "+N more" circle -->
-<div class="lane-panel-bg" id="lanePanelBg" hidden>
-  <div class="lane-panel" role="dialog" aria-modal="true" aria-labelledby="lpTitle">
-    <div class="lp-head">
-      <div><p class="lp-stage" id="lpStage"></p><h2 id="lpTitle"></h2><p class="lp-count" id="lpCount"></p></div>
-      <button class="lp-close" id="lpClose" type="button" aria-label="Close"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 6 6 18" /><path d="m6 6 12 12" /></svg></button>
-    </div>
-    <div class="lp-people" id="lpPeople"></div>
-  </div>
-</div>
-
 <div class="modal-bg" id="modalBg" hidden>
   <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
-    <h2 id="modalTitle">Add person</h2>
+    <div class="person-heading"><div id="cardPhoto"></div><h2 id="modalTitle">Add person</h2><button class="icon-btn" id="cardClose" type="button" aria-label="Close person card">×</button></div>
+    <p id="cardDescription" tabindex="0"></p>
+    <details id="personDetails"><summary>More details</summary><div class="person-fields">
     <div class="field"><label for="fName">First name</label><input id="fName" type="text" autocomplete="off" maxlength="40"></div>
     <div class="field" id="photoField">
       <span class="lbl">Headshot</span>
@@ -399,7 +380,7 @@
       <span class="spacer"></span>
       <button class="btn danger" id="delBtn" type="button">Remove</button>
       <button class="btn ghost" id="cancelBtn" type="button">Close</button>
-    </div>
+    </div></div></details>
   </div>
 </div>
 
@@ -582,11 +563,11 @@
   const findPerson = (id) => state.people.find((x) => x.id === id);
 
   /** Add someone. `sub` may be a step id, a step label, a stage id or title, or "kpi". */
-  async function addPerson({ name, sub, outcome, photo, tag, notes } = {}) {
+  async function addPerson({ name, sub, outcome, photo, tag, notes, description, year } = {}) {
     const place = resolvePlace(sub) || firstSub();
     const now = Date.now();
     const id = uid();
-    const doc = { name, sub: place, photo, tag, notes, createdAt: now, history: [{ sub: place, at: now }] };
+    const doc = { name, sub: place, photo, tag, notes, description, year, createdAt: now, history: [{ sub: place, at: now }] };
     if (place === KPI) { doc.outcome = outcome; doc.kpiAt = now; doc.history[0].outcome = outcome === "not_published" ? "not_published" : "published"; }
     const person = normalizePerson(id, doc);
     state.people.push(person); highlight = id; render();
@@ -621,6 +602,8 @@
     if (patch.name !== undefined) clean.name = String(patch.name).trim().slice(0, 40) || p.name;
     if (patch.tag !== undefined) clean.tag = tagById(patch.tag) ? patch.tag : "";
     if (patch.notes !== undefined) clean.notes = String(patch.notes);
+    if (patch.description !== undefined) clean.description = String(patch.description);
+    if (patch.year !== undefined) clean.year = Number(patch.year) || null;
     if (patch.photo !== undefined) clean.photo = String(patch.photo);
     Object.assign(p, clean); render();
     await write((db) => db.doc("people/" + id).update(clean));
@@ -690,6 +673,7 @@
       const w = 100 - i * step;
       const { color, dot } = colorsFor(stage, i);
       const tier = el("section", { className: "tier" }, el("h3", { textContent: stage.title }));
+      tier.dataset.stage = stage.id;
       Object.entries({ "--w": w + "%", "--c": color, "--dot": dot, "--d": (step / (2 * w)) * 100 + "%", "--pad": `calc(${step / 2}% + ${isPhone() ? 8 : 12}px)` })
         .forEach(([k, v]) => tier.style.setProperty(k, v));
 
@@ -722,7 +706,11 @@
       if (total) {
         const expand = el("button", { type: "button", className: "stage-expand", title: `See everyone in ${stage.title}` });
         expand.innerHTML = EXPAND_ICON;
-        expand.setAttribute("aria-label", `See all ${total} in ${stage.title}`);
+        const expanded = expandedStages.has(stage.id);
+        expand.setAttribute("aria-expanded", String(expanded));
+        expand.setAttribute("aria-label", expanded ? `Collapse ${stage.title}` : `See all ${total} in ${stage.title}`);
+        expand.title = expanded ? `Collapse ${stage.title}` : `See everyone in ${stage.title}`;
+        if (expanded) expand.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14" /></svg>';
         expand.addEventListener("click", () => openStagePanel(stage.id));
         tier.append(expand);
       }
@@ -733,10 +721,18 @@
     const tiers = [...funnel.children];
     tiers.forEach((t) => (t.style.height = ""));
     if (overviewMode()) { limitFaces(funnel); fitSlope(tiers, bottom); }
-    else if (!isPhone()) {
-      const tallest = Math.max(0, ...tiers.map((t) => t.offsetHeight));
-      tiers.forEach((t) => (t.style.height = tallest + "px"));
-    }
+    expansionGrowth = 0;
+    tiers.forEach((tier) => {
+      const compactHeight = tier.offsetHeight;
+      if (expandedStages.has(tier.dataset.stage)) {
+        tier.classList.add("expanded");
+        tier.querySelectorAll(".lane").forEach((lane) => {
+          const list = (bySub.get(lane.dataset.sub) || []).sort((a, b) => a.createdAt - b.createdAt);
+          lane.querySelector(".people").replaceChildren(...(list.length ? list.map(personEl) : [el("div", { className: "empty-lane", textContent: "No one here yet" })]));
+        });
+        expansionGrowth += tier.offsetHeight - compactHeight;
+      }
+    });
     placeStageButtons(tiers);
   }
 
@@ -869,7 +865,7 @@
     const natural = stage.offsetHeight;                   // layout size, unaffected by the scale
     const startsAt = Math.min(fit.getBoundingClientRect().top + window.scrollY, 200);   // header and controls above the stage
     const room = window.innerHeight - startsAt - 16 - margin;
-    zoom = Math.min(1, room / natural, fit.clientWidth / stage.offsetWidth);   // never larger than the screen allows
+    zoom = Math.min(1, room / Math.max(1, natural - expansionGrowth), fit.clientWidth / stage.offsetWidth);   // never larger than the screen allows
     fit.classList.add("zoomed");
     fit.style.setProperty("--z", zoom);
     fit.style.height = Math.ceil(margin + natural * zoom + 4) + "px";
@@ -901,51 +897,15 @@
 
   /* ---------- Section panel: everyone in one stage, grouped by step ---------- */
   const EXPAND_ICON = '<svg viewBox="0 0 24 24" aria-hidden="true"><polyline points="15 3 21 3 21 9" /><polyline points="9 21 3 21 3 15" /><line x1="21" x2="14" y1="3" y2="10" /><line x1="3" x2="10" y1="21" y2="14" /></svg>';
-  let openStage = null;
-  function openStagePanel(stageId, focusSub) {
+  const expandedStages = new Set();
+  let expansionGrowth = 0;
+  function openStagePanel(stageId) {
     if (!stageId) return;
-    openStage = stageId;
-    renderStagePanel();
-    $("lanePanelBg").hidden = false;
-    const group = focusSub && document.querySelector(`.lp-group[data-sub="${CSS.escape(focusSub)}"]`);
-    if (group) group.scrollIntoView({ block: "start" });   // from a "+N more" circle: start at that step
-    setTimeout(() => $("lpClose").focus({ preventScroll: true }), 30);
+    if (expandedStages.has(stageId)) expandedStages.delete(stageId);
+    else expandedStages.add(stageId);
+    render();
+    document.querySelector(`[data-stage="${CSS.escape(stageId)}"] .stage-expand`)?.focus({ preventScroll: true });
   }
-  function closeStagePanel() { openStage = null; $("lanePanelBg").hidden = true; }
-  function renderStagePanel() {
-    if (!openStage) return;
-    const i = state.config.stages.findIndex((s) => s.id === openStage);
-    if (i < 0) { closeStagePanel(); return; }
-    const stage = state.config.stages[i];
-    const visible = visiblePeople();
-    const total = visible.filter((p) => stage.subs.some((sub) => sub.id === p.sub)).length;
-    const panel = $("lanePanelBg").querySelector(".lane-panel");
-    panel.style.setProperty("--c", colorsFor(stage, i).color);
-    $("lpStage").textContent = "Section";
-    $("lpTitle").textContent = stage.title;
-    $("lpCount").textContent = total === 1 ? "1 person" : `${total} people`;
-    const box = $("lpPeople"); box.textContent = "";
-    stage.subs.forEach((sub) => {
-      const list = visible.filter((p) => p.sub === sub.id).sort((a, b) => a.createdAt - b.createdAt);
-      const group = el("section", { className: "lp-group" });
-      group.dataset.sub = sub.id;
-      group.append(el("h3", { className: "lp-sub" }, el("span", { textContent: sub.label }), el("em", { textContent: String(list.length) })));
-      const grid = el("div", { className: "lp-grid" });
-      if (!list.length) grid.append(el("p", { className: "lp-empty", textContent: "No one here yet." }));
-      list.forEach((p) => {
-        const b = el("button", { type: "button", className: "lp-person" },
-          el("span", { className: "av" }, avatarEl(p), tagEl(p.tag)), el("span", { className: "name", textContent: p.name }),
-          p.year ? el("span", { className: "year-tag", textContent: String(p.year) }) : null);
-        b.setAttribute("aria-label", `${p.name}, open details`);
-        b.addEventListener("click", () => openSheet(p.id));   // the person sheet opens on top of this panel
-        grid.append(b);
-      });
-      group.append(grid);
-      box.append(group);
-    });
-  }
-  $("lpClose").addEventListener("click", closeStagePanel);
-  $("lanePanelBg").addEventListener("click", (e) => { if (e.target === $("lanePanelBg")) closeStagePanel(); });
 
   function render() {
     if (typeof syncYearSel === "function") syncYearSel();
@@ -957,10 +917,10 @@
     renderKpi(people);
     $("countPeople").textContent = people.length;
     const zoomBefore = zoom;
-    alignLoop();
     fitStage();
+    alignLoop();
     if (zoom === zoomBefore) animateMoves(before);
-    renderStagePanel();                                  // keep an open section panel in sync with changes
+
     if (highlight) {
       const node = document.querySelector(`.person[data-id="${CSS.escape(highlight)}"]`);
       if (node) { node.classList.add("just-moved"); setTimeout(() => node.classList.remove("just-moved"), 1400); }
@@ -1040,7 +1000,7 @@
   document.addEventListener("contextmenu", (e) => { if (e.target.closest(".person, .oface")) e.preventDefault(); });
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape" && !$("modalBg").hidden) closeSheet();
-    else if (e.key === "Escape" && openStage) closeStagePanel();
+
   });
 
   /* =========================================================================
@@ -1089,10 +1049,25 @@
       if (isRealTime(e.at)) li.append(el("time", { dateTime: new Date(e.at).toISOString(), textContent: fmtTime(e.at) }));
       hist.append(li);
     });
+    $("cardPhoto").replaceChildren(avatarEl(editing || { name: "" }));
+    $("cardDescription").textContent = editing ? (editing.description || "No description yet.") : "Add a person to the funnel.";
+    $("personDetails").open = !editing;
+    sheetReturnFocus = document.activeElement;
     $("modalBg").hidden = false;
-    if (!isPhone()) setTimeout(() => $("fName").focus(), 30);  // phones: don't pop the keyboard over the sheet
+    document.body.style.overflow = "hidden";
+    $("modalBg").querySelector(".modal").scrollTop = 0;
+    $("cardClose").focus({ preventScroll: true });
   }
-  function closeSheet() { $("modalBg").hidden = true; editing = null; }
+  let sheetReturnFocus = null;
+  function closeSheet() { $("modalBg").hidden = true; editing = null; document.body.style.overflow = ""; sheetReturnFocus?.focus({ preventScroll: true }); }
+  $("cardClose").addEventListener("click", closeSheet);
+  $("modalBg").addEventListener("keydown", (e) => {
+    if (e.key !== "Tab") return;
+    const controls = [...$("modalBg").querySelectorAll('button, input, select, textarea, summary, [tabindex="0"]')].filter(n => n.getClientRects().length);
+    const first = controls[0], last = controls.at(-1);
+    if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+    else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+  });
 
   $("fPhoto").addEventListener("change", async () => {
     const file = $("fPhoto").files[0]; if (!file) return;
