@@ -28,9 +28,9 @@ function considerationCard(i) {
   }
   const title=element('h2');title.append(productLink(i.product_url,i.item_name));
   card.append(element('p','merchant',i.merchant),title,element('p','variant',`${i.color} · ${i.size||'Size not selected'}`));
-  card.append(element('p','price',`${i.price_text} ${i.currency}`),element('p','variant',i.material),element('p','variant',i.fit));
+  card.append(element('p','variant',i.material),element('p','variant',i.fit));
   const details=element('details','receipt-details');details.append(element('summary','','Product details'));
-  details.append(element('p','','In consideration — not purchased.'),element('p','','Retailer price checked '+date(i.verified_at?.slice(0,10))+'. Shipping and tax not included.'),element('p','',i.gallery_basis));
+  details.append(element('p','','In consideration — not purchased.'),element('p','',i.gallery_basis));
   card.append(details);return card;
 }
 function selectView(next) {
@@ -39,7 +39,7 @@ function selectView(next) {
   for(const b of document.querySelectorAll('[data-filter]'))b.setAttribute('aria-pressed',String(b.dataset.filter==='All'));
   gallery.setAttribute('aria-labelledby','tab-'+view);
   document.querySelector('h1').textContent=view==='purchased'?'Purchased':'In consideration';
-  document.querySelector('footer').textContent=view==='purchased'?purchaseFooter:'Saved for consideration, not purchased. Prices and materials are from the retailer; size is not selected unless specified.';
+  document.querySelector('footer').textContent=view==='purchased'?purchaseFooter:'Saved for consideration, not purchased. Materials are from the retailer; size is not selected unless specified.';
   document.querySelector('#refreshed').textContent=view==='purchased'?purchaseChecked:'';
   render();
 }
@@ -83,9 +83,9 @@ function render(filter='All') {
     card.append(photo,element('p','merchant',i.merchant||'Merchant unknown'),element('h2','',i.item_name));
     const variant=i.variant||[i.color,i.size?`Size ${i.size}`:null].filter(Boolean).join(' · ')||'Variant not specified';
     card.append(element('p','variant',variant));
-    const price=element('div','price-row');price.append(element('span','price',i.price_text||'Price unknown'),element('span','quantity',i.quantity===null?'Qty unknown':`Qty ${i.quantity}`));card.append(price,element('p','purchased-date',date(i.ordered_at)));
+    const price=element('div','price-row');price.append(element('span','quantity',i.quantity===null?'Qty unknown':`Qty ${i.quantity}`));card.append(price,element('p','purchased-date',date(i.ordered_at)));
     const details=element('details','receipt-details');details.append(element('summary','', 'Receipt details'));
-    for(const [label,value] of [['Price',i.price_basis],['Currency',i.currency||'Not specified in confirmation'],['Date',i.date_basis],['Source','Authenticated forwarded order confirmation'],['Image','Exact image paired with this receipt line']]){
+    for(const [label,value] of [['Date',i.date_basis],['Source','Authenticated forwarded order confirmation'],['Image','Exact image paired with this receipt line']]){
       const p=element('p');p.append(element('strong','',label+': '),document.createTextNode(value||'Unknown'));details.append(p);
     }
     for(const note of i.notes||[])details.append(element('p','',note));
