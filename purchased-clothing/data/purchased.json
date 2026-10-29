@@ -1,9 +1,39 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T23:48:07Z",
+  "generated_at": "2026-10-29T03:45:15Z",
   "refresh_interval_hours": 6,
-  "order_count": 4,
+  "order_count": 5,
   "items": [
+    {
+      "item_name": "CUMMERBUND-WAIST WOOL TAPERED PANTS",
+      "merchant": "COS Customer Service",
+      "quantity": 1,
+      "variant": null,
+      "size": "30R",
+      "color": "Black",
+      "price_text": "143.65 USD",
+      "price_basis": "Email-listed item price",
+      "currency": "USD",
+      "ordered_at": "2026-10-25",
+      "date_basis": "Confirmation email date",
+      "category": "Clothing",
+      "image_url": "assets/purchased/536280286a13958844bf.webp"
+    },
+    {
+      "item_name": "COTTON REGULAR-FIT STRAIGHT-LEG CHINOS",
+      "merchant": "COS Customer Service",
+      "quantity": 1,
+      "variant": null,
+      "size": "30R",
+      "color": "Black",
+      "price_text": "84.15 USD",
+      "price_basis": "Email-listed item price",
+      "currency": "USD",
+      "ordered_at": "2026-10-25",
+      "date_basis": "Confirmation email date",
+      "category": "Clothing",
+      "image_url": "assets/purchased/e029e0dbdff00b6c8f53.webp"
+    },
     {
       "item_name": "Primary Vessel T-Shirt - White",
       "merchant": "SCRT\u00ae",
