@@ -1,0 +1,439 @@
+{
+  "id": "kettle-options",
+  "title": "Low-plastic water kettles",
+  "layout": "natural-basics",
+  "catalog": true,
+  "updated": "2026-10-28",
+  "defaultSort": "price",
+  "showCollectionNotes": false,
+  "recommendation": {
+    "title": "Glass for no plastic. Steel for durability.",
+    "text": "Trendglas is the clearest whole-kettle match; COSORI is the $39.99 budget candidate, with its lid/steam seal still unresolved.",
+    "test": ""
+  },
+  "summary": "Five US listings, price ascending. Construction evidence is not a safety ranking. Prices exclude unquoted shipping/tax.",
+  "evidenceNote": "Checked 2026-10-28 (US listings). Item price only; shipping and tax not quoted at checkout. No purchase or physical teardown. Material claims are not proof of zero migration or a health benefit.",
+  "caveat": "No electric option is verified plastic-free as an entire appliance. Silicone is a separate polymer compromise, not the same claim as an ordinary-plastic-free water path. No shortlisted item has a fully verified small-silicone-only inventory; unknown seals stay unknown.",
+  "products": [
+    {
+      "id": "kettle-cosori",
+      "name": "COSORI Double-Wall Stainless Steel Kettle",
+      "url": "https://cosori.com/products/double-wall-stainless-steel-electric-kettle",
+      "store": "COSORI US",
+      "brand": "COSORI",
+      "category": "Electric",
+      "color": "Black",
+      "colorKey": "black",
+      "unitPriceUSD": 39.99,
+      "naturalPercent": null,
+      "integrityRank": 1,
+      "summary": "Lowest verified item price. No temperature control. No model-specific long-term failure rate established; owner reports favor the steel lid, but hidden steam-contact parts remain unresolved.",
+      "verdict": "Budget candidate · lid/steam seal unresolved; exterior plastic.",
+      "materialCaveat": "Budget candidate · lid/steam seal unresolved; exterior plastic.",
+      "images": [
+        {
+          "src": "assets/images/kettle-cosori-01.webp",
+          "alt": "COSORI kettle — manufacturer gallery photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0742/6572/3189/products/01.00_WA1_1121CDK-SE151-KUS_01.png?v=1762457661"
+        },
+        {
+          "src": "assets/images/kettle-cosori-02.webp",
+          "alt": "COSORI kettle — manufacturer gallery photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0742/6572/3189/products/01.00_WA1_1121CDK-SE151-KUS_03.png?v=1683049180"
+        },
+        {
+          "src": "assets/images/kettle-cosori-03.webp",
+          "alt": "COSORI kettle — manufacturer gallery photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0742/6572/3189/products/01.00_WA1_1121CDK-SE151-KUS_02.png?v=1683049180"
+        },
+        {
+          "src": "assets/images/kettle-cosori-04.webp",
+          "alt": "COSORI kettle — manufacturer gallery photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0742/6572/3189/products/01.00_WA1_1121CDK-SE151-KUS_04.png?v=1683049180"
+        },
+        {
+          "src": "assets/images/kettle-cosori-05.webp",
+          "alt": "COSORI kettle — manufacturer gallery photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0742/6572/3189/products/01.00_WA1_1121CDK-SE151-KUS_05.png?v=1683049180"
+        },
+        {
+          "src": "assets/images/kettle-cosori-06.webp",
+          "alt": "COSORI kettle — manufacturer gallery photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0742/6572/3189/products/01.00_WA1_1121CDK-SE151-KUS_06.jpg?v=1683049180"
+        },
+        {
+          "src": "assets/images/kettle-cosori-07.webp",
+          "alt": "COSORI kettle — manufacturer gallery photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0742/6572/3189/products/01.00_WA1_1121CDK-SE151-KUS_07.jpg?v=1683049180"
+        }
+      ],
+      "image": "assets/images/kettle-cosori-01.webp",
+      "imageAlt": "COSORI kettle — manufacturer gallery photo 1",
+      "imageNote": "Complete exposed exact-selection gallery downloaded and decoded; source URLs retained. COSORI transparent-water slide is an illustrative cutaway, not a glass variant.",
+      "facts": {
+        "Fabric": "Stainless chamber + inner lid; 304 reported, not re-confirmed by brand.",
+        "Fit": "1.5 L reported · boil-only electric · US listing, not stovetop.",
+        "Status": "In stock / available to order on live US product page; shipping/tax unquoted."
+      },
+      "attribution": "Current brand page and seven images identify CDK-SE151-KUS. Steel-looking chamber and lid underside; the brand page does not enumerate every seal, hinge/steam channel or coating. Secondary guide reports steel spout/filter, seamless 304 chamber and concealed heater. Not certified plastic-free water/steam path or entire kettle. No nonstick coating advertised; complete coating declaration not found. Wide hinged opening; descale and rinse, do not immerse electrical base. Lowest verified item price. No temperature control. No model-specific long-term failure rate established; owner reports favor the steel lid, but hidden steam-contact parts remain unresolved. 30-day authorized returns; two-year limited warranty advertised. Checked 2026-10-28 (US listings). Item price only; shipping and tax not quoted at checkout. No purchase or physical teardown. Material claims are not proof of zero migration or a health benefit.",
+      "sources": [
+        "kettle-cosori",
+        "kettle-cosori-policy",
+        "kettle-cosori-guide",
+        "kettle-community",
+        "kettle-recall"
+      ]
+    },
+    {
+      "id": "kettle-ascot",
+      "name": "ASCOT K1 Stainless Electric Kettle",
+      "url": "https://ascot-home.com/products/ascot-electric-kettle-stainless-steel-tea-kettle-1-6lk1-silver",
+      "store": "ASCOT US",
+      "brand": "ASCOT",
+      "category": "Electric",
+      "color": "Silver",
+      "colorKey": "not-stated",
+      "unitPriceUSD": 59.99,
+      "naturalPercent": null,
+      "integrityRank": 2,
+      "summary": "Sale price $59.99 versus listed $99.99, no coupon required. Independent model-specific negative review coverage was inconclusive; a one-review brand rating is weak durability evidence. Warranty wording conflicts across pages.",
+      "verdict": "Lower-cost 304 option · silicone/seal inventory undisclosed.",
+      "materialCaveat": "Lower-cost 304 option · silicone/seal inventory undisclosed.",
+      "images": [
+        {
+          "src": "assets/images/kettle-ascot-01.webp",
+          "alt": "ASCOT kettle — manufacturer gallery photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0628/2703/6857/files/1_f5c221fb-f170-4436-8c0f-1f5c0038d002.jpg?v=1691719591"
+        },
+        {
+          "src": "assets/images/kettle-ascot-02.webp",
+          "alt": "ASCOT kettle — manufacturer gallery photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0628/2703/6857/files/7.jpg?v=1691719894"
+        },
+        {
+          "src": "assets/images/kettle-ascot-03.webp",
+          "alt": "ASCOT kettle — manufacturer gallery photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0628/2703/6857/files/2_b2a15483-9d4c-48c5-b81a-6e40c569b24b.jpg?v=1691719894"
+        },
+        {
+          "src": "assets/images/kettle-ascot-04.webp",
+          "alt": "ASCOT kettle — manufacturer gallery photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0628/2703/6857/files/3_399b4463-cde4-4d12-9cc1-cd7d0edad3ee.jpg?v=1691719894"
+        },
+        {
+          "src": "assets/images/kettle-ascot-05.webp",
+          "alt": "ASCOT kettle — manufacturer gallery photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0628/2703/6857/files/4_03744c2c-825d-48bb-873d-c2838f49f171.jpg?v=1691719894"
+        },
+        {
+          "src": "assets/images/kettle-ascot-06.webp",
+          "alt": "ASCOT kettle — manufacturer gallery photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0628/2703/6857/files/5.jpg?v=1691719894"
+        },
+        {
+          "src": "assets/images/kettle-ascot-07.webp",
+          "alt": "ASCOT kettle — manufacturer gallery photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0628/2703/6857/files/3_aa074036-8b68-4c69-890d-144c1cfee171.jpg?v=1691719590"
+        }
+      ],
+      "image": "assets/images/kettle-ascot-01.webp",
+      "imageAlt": "ASCOT kettle — manufacturer gallery photo 1",
+      "imageNote": "Complete exposed exact-selection gallery downloaded and decoded; source URLs retained. ",
+      "facts": {
+        "Fabric": "304 stainless body; steel inner lid and filter (brand claim).",
+        "Fit": "Title: 1.5 L · text: 1.6 L (conflict) · 1500 W electric.",
+        "Status": "In stock / available to order on live US product page; shipping/tax unquoted."
+      },
+      "attribution": "Exact K1-Silver listing advertises 304 stainless and no plastic touching boiling water, including lid; filter explicitly food-grade stainless. Spout metal shown. No itemized seal/steam-channel BOM or explicit silicone-free declaration; exterior handle/base are not an all-metal promise. No nonstick coating advertised; full coating declaration absent. Retain title capacity rather than assuming 1.6 L. Removable lid and metal filter simplify access; hand-clean chamber, keep base dry. Sale price $59.99 versus listed $99.99, no coupon required. Independent model-specific negative review coverage was inconclusive; a one-review brand rating is weak durability evidence. Warranty wording conflicts across pages. 14-day unused returns at buyer cost; register/confirm two-year warranty. Checked 2026-10-28 (US listings). Item price only; shipping and tax not quoted at checkout. No purchase or physical teardown. Material claims are not proof of zero migration or a health benefit.",
+      "sources": [
+        "kettle-ascot",
+        "kettle-ascot-policy",
+        "kettle-ascot-shipping",
+        "kettle-recall"
+      ]
+    },
+    {
+      "id": "kettle-hario",
+      "name": "Hario V60 Buono 1.2 L Silver",
+      "url": "https://www.hario-usa.com/products/v60-buono-drip-kettle",
+      "store": "Hario USA",
+      "brand": "Hario",
+      "category": "Stovetop",
+      "color": "Silver",
+      "colorKey": "not-stated",
+      "unitPriceUSD": 65,
+      "naturalPercent": null,
+      "integrityRank": 2,
+      "summary": "No auto shutoff or whistle advertised. Manual warns about hot handles and corrosion with standing water. The ten brand reviews show no negative ratings; not proof of long-term reliability.",
+      "verdict": "Durable stovetop candidate · exact alloy/seals not disclosed.",
+      "materialCaveat": "Durable stovetop candidate · exact alloy/seals not disclosed.",
+      "images": [
+        {
+          "src": "assets/images/kettle-hario-01.webp",
+          "alt": "HARIO kettle — manufacturer gallery photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0308/4763/1493/files/VKB-120-HSV.jpg?v=1755532223"
+        },
+        {
+          "src": "assets/images/kettle-hario-02.webp",
+          "alt": "HARIO kettle — manufacturer gallery photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0308/4763/1493/files/IMG_6718.jpg?v=1755532223"
+        },
+        {
+          "src": "assets/images/kettle-hario-03.webp",
+          "alt": "HARIO kettle — manufacturer gallery photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0308/4763/1493/products/IMG_1535_DNG_eefebe21-2cc9-4629-90ad-af57a4e94db0.jpg?v=1755532223"
+        },
+        {
+          "src": "assets/images/kettle-hario-04.webp",
+          "alt": "HARIO kettle — manufacturer gallery photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0308/4763/1493/products/VKB-HSVALT.jpg?v=1755532223"
+        }
+      ],
+      "image": "assets/images/kettle-hario-01.webp",
+      "imageAlt": "HARIO kettle — manufacturer gallery photo 1",
+      "imageNote": "Complete exposed exact-selection gallery downloaded and decoded; source URLs retained. Hario gallery includes a three-size family photograph; only the 1.2 L listing is selected.",
+      "facts": {
+        "Fabric": "Stainless body and lid; phenol-resin handle and knob.",
+        "Fit": "0.8 L practical / 1.2 L full · gas, electric/radiant, induction per linked family manual.",
+        "Status": "In stock / available to order on live US product page; shipping/tax unquoted."
+      },
+      "attribution": "Brand explicitly lists stainless body/lid and phenol-resin handle/lid knob. Spout is metal in official gallery; no separate filter shown. Alloy (304/316), lid-fastener contact and every seal are not specified. No nonstick coating advertised; do not infer a fully documented uncoated BOM or whole-kettle plastic-free status. Removable lid; narrow gooseneck is harder to scrub than a broad spout. Wash, rinse and dry; water only, not long-term storage. No auto shutoff or whistle advertised. Manual warns about hot handles and corrosion with standing water. The ten brand reviews show no negative ratings; not proof of long-term reliability. 30-day returns with buyer postage; used/damaged 15% fee; 90-day defect warranty. Checked 2026-10-28 (US listings). Item price only; shipping and tax not quoted at checkout. No purchase or physical teardown. Material claims are not proof of zero migration or a health benefit.",
+      "sources": [
+        "kettle-hario",
+        "kettle-hario-policy",
+        "kettle-hario-manual",
+        "kettle-recall"
+      ]
+    },
+    {
+      "id": "kettle-glass",
+      "name": "Trendglas JENA Glass Water Kettle",
+      "url": "https://www.bostongeneralstore.com/products/water-kettle",
+      "store": "Boston General Store",
+      "brand": "Trendglas",
+      "category": "Stovetop",
+      "color": "Clear",
+      "colorKey": "not-stated",
+      "unitPriceUSD": 68,
+      "naturalPercent": null,
+      "integrityRank": 4,
+      "summary": "Not a loud whistler; no auto shutoff. Customer reports include hot handle depending on burner placement and breakage after countertop impact. These are anecdotes, not failure rates. Fragility is the main cost/durability compromise.",
+      "verdict": "Best whole-kettle no-plastic fit · fragile; not induction.",
+      "materialCaveat": "Best whole-kettle no-plastic fit · fragile; not induction.",
+      "images": [
+        {
+          "src": "assets/images/kettle-glass-01.webp",
+          "alt": "GLASS kettle — manufacturer gallery photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0211/7300/products/glass-water-kettle-boston-general-store-4452094.jpg?v=1760390290"
+        },
+        {
+          "src": "assets/images/kettle-glass-02.webp",
+          "alt": "GLASS kettle — manufacturer gallery photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0211/7300/files/glass-water-kettle-boston-general-store-3644100.jpg?v=1760390290"
+        },
+        {
+          "src": "assets/images/kettle-glass-03.webp",
+          "alt": "GLASS kettle — manufacturer gallery photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0211/7300/files/glass-water-kettle-boston-general-store-9368256.jpg?v=1760390290"
+        },
+        {
+          "src": "assets/images/kettle-glass-04.webp",
+          "alt": "GLASS kettle — manufacturer gallery photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0211/7300/files/glass-water-kettle-boston-general-store-8304518.jpg?v=1760390290"
+        }
+      ],
+      "image": "assets/images/kettle-glass-01.webp",
+      "imageAlt": "GLASS kettle — manufacturer gallery photo 1",
+      "imageNote": "Complete exposed exact-selection gallery downloaded and decoded; source URLs retained. ",
+      "facts": {
+        "Fabric": "Heat-rated borosilicate glass body, handle, spout and lid.",
+        "Fit": "1.75 L · gas, electric, ceramic/glass cooktops · not induction.",
+        "Status": "In stock / available to order on live US product page; shipping/tax unquoted."
+      },
+      "attribution": "Retailer specifies lead-free borosilicate glass and stove use; exact gallery shows glass lid/knob, handle, spout and body with no filter or seal shown. Strongest whole-kettle no-plastic construction match here, based on retailer specification and photos, not a laboratory audit. No interior coating listed; external safety print is permanent. Not claiming zero chemical exposure. 3-inch opening; hand washing recommended, vinegar/warm water for deposits. Secure loose lid with mitt/towel when pouring; no boil-dry or thermal-shock abuse. Not a loud whistler; no auto shutoff. Customer reports include hot handle depending on burner placement and breakage after countertop impact. These are anecdotes, not failure rates. Fragility is the main cost/durability compromise. 30-day unused returns; buyer postage. Separate product warranty unverified; replacement lid available. Checked 2026-10-28 (US listings). Item price only; shipping and tax not quoted at checkout. No purchase or physical teardown. Material claims are not proof of zero migration or a health benefit.",
+      "sources": [
+        "kettle-glass",
+        "kettle-glass-policy",
+        "kettle-recall"
+      ]
+    },
+    {
+      "id": "kettle-saki",
+      "name": "SAKI Luna Electric Kettle Pro",
+      "url": "https://sakiproducts.com/products/luna-precision-electric-kettle?Color=Matte+Black",
+      "store": "SAKI US",
+      "brand": "SAKI",
+      "category": "Electric",
+      "color": "Matte Black",
+      "colorKey": "black",
+      "unitPriceUSD": 169.95,
+      "naturalPercent": null,
+      "integrityRank": 3,
+      "summary": "Costs far more than boil-only choices. Page reviews report a temperature-stuck glitch and exterior finish chipping with support follow-up; reviews can span earlier Luna generations, so not Pro-specific failure-rate proof. Older community silicone reports are not assumed to describe the current Pro revision.",
+      "verdict": "Strongest electric declaration · premium, not whole-device plastic-free.",
+      "materialCaveat": "Strongest electric declaration · premium, not whole-device plastic-free.",
+      "images": [
+        {
+          "src": "assets/images/kettle-saki-01.webp",
+          "alt": "SAKI kettle — manufacturer gallery photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0022/1393/7252/files/Luna_12_D_1024x1024_crop_center.png.webp?v=1760098889"
+        },
+        {
+          "src": "assets/images/kettle-saki-02.webp",
+          "alt": "SAKI kettle — manufacturer gallery photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0022/1393/7252/files/Luna_16_D2B_1024x1024_crop_center.png.webp?v=1760098889"
+        },
+        {
+          "src": "assets/images/kettle-saki-03.webp",
+          "alt": "SAKI kettle — manufacturer gallery photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0022/1393/7252/files/Luna_14_D_1024x1024_crop_center.png.webp?v=1760098889"
+        },
+        {
+          "src": "assets/images/kettle-saki-04.webp",
+          "alt": "SAKI kettle — manufacturer gallery photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0022/1393/7252/files/Luna_15_D_1024x1024_crop_center.png.webp?v=1760098889"
+        },
+        {
+          "src": "assets/images/kettle-saki-05.webp",
+          "alt": "SAKI kettle — manufacturer gallery photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0022/1393/7252/files/Luna_Kettle_Siyah_1024x1024_crop_center.png.webp?v=1760098889"
+        },
+        {
+          "src": "assets/images/kettle-saki-06.webp",
+          "alt": "SAKI kettle — manufacturer gallery photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0022/1393/7252/files/Saki_Luna_Black_430x_02646603-1e0e-40ba-b484-3d46c4484561_1024x1024_crop_center.webp?v=1763821294"
+        }
+      ],
+      "image": "assets/images/kettle-saki-01.webp",
+      "imageAlt": "SAKI kettle — manufacturer gallery photo 1",
+      "imageNote": "Complete exposed exact-selection gallery downloaded and decoded; source URLs retained. SAKI: six Matte Black gallery images; other colors excluded.",
+      "facts": {
+        "Fabric": "304 steel water AND steam path; no silicone/glue (brand claim).",
+        "Fit": "1.75 L · 110–120 V / 1500 W / 60 Hz · 6 presets / 1-degree control (brand specs).",
+        "Status": "In stock / available to order on live US product page; shipping/tax unquoted."
+      },
+      "attribution": "Current Pro-specific manufacturer declaration covers chamber, underside of lid, spout, gauge and base, including steam: 304 steel with no plastic/silicone/gasket/glue. Laser-welded joints. No internal coating in the stated steel path; colored exterior finish remains. This is not a plastic-free electrical appliance claim. Removable lid; descale, rinse and keep electrical base dry. Use water only; boil other liquids in separate cookware. Costs far more than boil-only choices. Page reviews report a temperature-stuck glitch and exterior finish chipping with support follow-up; reviews can span earlier Luna generations, so not Pro-specific failure-rate proof. Older community silicone reports are not assumed to describe the current Pro revision. Two-year warranty advertised. Refund return fee $15, possible $25 missing-package fee; 30 days from purchase. Checked 2026-10-28 (US listings). Item price only; shipping and tax not quoted at checkout. No purchase or physical teardown. Material claims are not proof of zero migration or a health benefit.",
+      "sources": [
+        "kettle-saki",
+        "kettle-saki-material",
+        "kettle-saki-policy",
+        "kettle-community",
+        "kettle-recall"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "kettle-recall",
+      "url": "https://www.cpsc.gov/Recalls/2026/ZWILLING-JA-Henckels-Aktiengesellschaft-Recalls-Electric-Water-Kettles-Due-to-Risk-of-Serious-Injury-Due-to-Burn-Hazard",
+      "title": "CPSC: excluded ZWILLING ENFINIGY recall",
+      "type": "Regulator / bounded screening",
+      "note": "May 14, 2026 recall covers named ENFINIGY 1.5 L and Pro models for handle separation/burn risk. Not one of these five. Bounded brand/model web searches found no matching notice for these candidates; this was not a complete recall-database audit and is not safety certification."
+    },
+    {
+      "id": "kettle-community",
+      "url": "https://www.reddit.com/r/PlasticFreeLiving/comments/1qsyhb0/update_i_finally_found_the_definitive_plasticfree/",
+      "title": "Community budget lane: owner disagreements",
+      "type": "Community reports, unverified / limited feed",
+      "note": "Read public feed and 60-comment request. Owners specifically recommend the COSORI double-wall as the affordable steel-lid model, contradicting broad brand-level warnings. Secura users report pour-path plastic, leaking and a rust spot; not promoted. Older SAKI comments discuss a silicone lid seal, but do not establish construction of the current Luna Pro. Anonymous anecdotes, not migration tests; the thread makes unsupported broad safety claims which are not adopted here."
+    },
+    {
+      "id": "kettle-cosori-policy",
+      "url": "https://cosori.com/pages/returns-cosori",
+      "title": "COSORI returns",
+      "type": "First-party product / policy",
+      "note": "30 days from delivery for direct purchases, original condition/packaging and proof of purchase; RMA required. Approved returns receive prepaid label. Product page advertises two-year limited warranty; detailed exclusions not audited."
+    },
+    {
+      "id": "kettle-cosori-guide",
+      "url": "https://plasticfree.guide/products/cosori-double-wall-stainless/",
+      "title": "COSORI part-by-part secondary evidence",
+      "type": "Secondary material research; not independent lab testing",
+      "note": "Affiliate-supported guide identifies CDK-SE151-KUS: 1.5 L, seamless 304 chamber, steel inner lid/spout/filter and concealed element. BUT it explicitly calls the lid seal undisclosed while its FAQ overstates silicone-free construction. We retain the uncertainty, not the FAQ claim. Current brand page only says stainless steel; 304 is secondary evidence in this review."
+    },
+    {
+      "id": "kettle-cosori",
+      "url": "https://cosori.com/products/double-wall-stainless-steel-electric-kettle",
+      "title": "COSORI Double-Wall Stainless Steel Kettle",
+      "type": "First-party product / policy",
+      "note": "Current brand page and seven images identify CDK-SE151-KUS. Steel-looking chamber and lid underside; the brand page does not enumerate every seal, hinge/steam channel or coating. Secondary guide reports steel spout/filter, seamless 304 chamber and concealed heater. Not certified plastic-free water/steam path or entire kettle. No nonstick coating advertised; complete coating declaration not found. Wide hinged opening; descale and rinse, do not immerse electrical base. Lowest verified item price. No temperature control. No model-specific long-term failure rate established; owner reports favor the steel lid, but hidden steam-contact parts remain unresolved. Checked 2026-10-28 (US listings). Item price only; shipping and tax not quoted at checkout. No purchase or physical teardown. Material claims are not proof of zero migration or a health benefit."
+    },
+    {
+      "id": "kettle-ascot-policy",
+      "url": "https://ascot-home.com/policies/refund-policy",
+      "title": "ASCOT returns / warranty conflict",
+      "type": "First-party product / policy",
+      "note": "14-day cancellation window; return unused in original packaging, buyer pays return cost. Policy says one-year guarantee / two years with registration; product page says two-year replacement. Treat two-year coverage as requiring registration/confirmation, not an unconditional promise."
+    },
+    {
+      "id": "kettle-ascot-shipping",
+      "url": "https://ascot-home.com/policies/shipping-policy",
+      "title": "ASCOT US shipping policy",
+      "type": "First-party product / policy",
+      "note": "Ships within USA. Policy advertises free standard shipping for orders $49.99+ and 2–5 working days to mainland US; no destination checkout quote, so actual shipping/tax/arrival remain unverified."
+    },
+    {
+      "id": "kettle-ascot",
+      "url": "https://ascot-home.com/products/ascot-electric-kettle-stainless-steel-tea-kettle-1-6lk1-silver",
+      "title": "ASCOT K1 Stainless Electric Kettle",
+      "type": "First-party product / policy",
+      "note": "Exact K1-Silver listing advertises 304 stainless and no plastic touching boiling water, including lid; filter explicitly food-grade stainless. Spout metal shown. No itemized seal/steam-channel BOM or explicit silicone-free declaration; exterior handle/base are not an all-metal promise. No nonstick coating advertised; full coating declaration absent. Retain title capacity rather than assuming 1.6 L. Removable lid and metal filter simplify access; hand-clean chamber, keep base dry. Sale price $59.99 versus listed $99.99, no coupon required. Independent model-specific negative review coverage was inconclusive; a one-review brand rating is weak durability evidence. Warranty wording conflicts across pages. Checked 2026-10-28 (US listings). Item price only; shipping and tax not quoted at checkout. No purchase or physical teardown. Material claims are not proof of zero migration or a health benefit."
+    },
+    {
+      "id": "kettle-hario-policy",
+      "url": "https://www.hario-usa.com/policies/refund-policy",
+      "title": "Hario USA returns / warranty",
+      "type": "First-party product / policy",
+      "note": "30-day returns; return postage deducted or customer arranged. Used/damaged returns charged 15% restocking. Non-electric items: 90-day manufacturing-defect warranty from authorized US sellers; customer pays claim shipping, wear/negligence excluded."
+    },
+    {
+      "id": "kettle-hario-manual",
+      "url": "https://www.hario.com/product/VKBR-120-HSV.pdf",
+      "title": "Hario linked Buono manual",
+      "type": "First-party product / policy",
+      "note": "US VKB-120HSV product links this VKBR-120-HSV family manual. Scanned PDF read by OCR: gas, induction, electric/radiant; practical 0.8 L / full 1.2 L. Water only; dry after use, no chlorine bleach, do not heat empty. Manual warns long water storage can cause rust/holes; handle/knob can become hot. The manual revision differs from the listing SKU, so check your supplied manual and induction minimum-pan size."
+    },
+    {
+      "id": "kettle-hario",
+      "url": "https://www.hario-usa.com/products/v60-buono-drip-kettle",
+      "title": "Hario V60 Buono 1.2 L Silver",
+      "type": "First-party product / policy",
+      "note": "Brand explicitly lists stainless body/lid and phenol-resin handle/lid knob. Spout is metal in official gallery; no separate filter shown. Alloy (304/316), lid-fastener contact and every seal are not specified. No nonstick coating advertised; do not infer a fully documented uncoated BOM or whole-kettle plastic-free status. Removable lid; narrow gooseneck is harder to scrub than a broad spout. Wash, rinse and dry; water only, not long-term storage. No auto shutoff or whistle advertised. Manual warns about hot handles and corrosion with standing water. The ten brand reviews show no negative ratings; not proof of long-term reliability. Checked 2026-10-28 (US listings). Item price only; shipping and tax not quoted at checkout. No purchase or physical teardown. Material claims are not proof of zero migration or a health benefit."
+    },
+    {
+      "id": "kettle-glass-policy",
+      "url": "https://www.bostongeneralstore.com/pages/shipping-policy",
+      "title": "Boston General Store shipping / returns",
+      "type": "First-party product / policy",
+      "note": "US retailer; 3–5 business-day processing plus transit. $68 kettle alone is below $75 free-economy threshold. Returns within 30 days of fulfillment, unused/sellable original packaging; buyer pays unwanted-return postage, original shipping nonrefundable. Separate kettle warranty not found. Defect claims reviewed; replacement glass lid is sold separately."
+    },
+    {
+      "id": "kettle-glass",
+      "url": "https://www.bostongeneralstore.com/products/water-kettle",
+      "title": "Trendglas JENA Glass Water Kettle",
+      "type": "First-party product / policy",
+      "note": "Retailer specifies lead-free borosilicate glass and stove use; exact gallery shows glass lid/knob, handle, spout and body with no filter or seal shown. Strongest whole-kettle no-plastic construction match here, based on retailer specification and photos, not a laboratory audit. No interior coating listed; external safety print is permanent. Not claiming zero chemical exposure. 3-inch opening; hand washing recommended, vinegar/warm water for deposits. Secure loose lid with mitt/towel when pouring; no boil-dry or thermal-shock abuse. Not a loud whistler; no auto shutoff. Customer reports include hot handle depending on burner placement and breakage after countertop impact. These are anecdotes, not failure rates. Fragility is the main cost/durability compromise. Checked 2026-10-28 (US listings). Item price only; shipping and tax not quoted at checkout. No purchase or physical teardown. Material claims are not proof of zero migration or a health benefit."
+    },
+    {
+      "id": "kettle-saki-material",
+      "url": "https://sakiproducts.com/pages/luna-kettle",
+      "title": "SAKI Luna Pro materials declaration",
+      "type": "First-party product / policy",
+      "note": "Current Luna page explicitly lists 304 chamber, lid, spout and gauge; no plastic, silicone, gasket or glue anywhere water or steam reaches; laser-welded base/spout. Manufacturer declaration, not our teardown. Exterior handle, electrical base and wiring are not covered by this water-path claim. Brand lab-test marketing was not independently audited; no zero-leaching claim adopted."
+    },
+    {
+      "id": "kettle-saki-policy",
+      "url": "https://sakiproducts.com/policies/refund-policy",
+      "title": "SAKI returns",
+      "type": "First-party product / policy",
+      "note": "30 days from original purchase; initiate AND ship within window. Original packaging/accessories and supplied label required. Individual electric products: $15 return-shipping/restocking fee for refund; eligible store-credit returns waive shipping fee. Missing packaging can add $25. US-only eligibility; product page advertises two-year warranty."
+    },
+    {
+      "id": "kettle-saki",
+      "url": "https://sakiproducts.com/products/luna-precision-electric-kettle?Color=Matte+Black",
+      "title": "SAKI Luna Electric Kettle Pro",
+      "type": "First-party product / policy",
+      "note": "Current Pro-specific manufacturer declaration covers chamber, underside of lid, spout, gauge and base, including steam: 304 steel with no plastic/silicone/gasket/glue. Laser-welded joints. No internal coating in the stated steel path; colored exterior finish remains. This is not a plastic-free electrical appliance claim. Removable lid; descale, rinse and keep electrical base dry. Use water only; boil other liquids in separate cookware. Costs far more than boil-only choices. Page reviews report a temperature-stuck glitch and exterior finish chipping with support follow-up; reviews can span earlier Luna generations, so not Pro-specific failure-rate proof. Older community silicone reports are not assumed to describe the current Pro revision. Checked 2026-10-28 (US listings). Item price only; shipping and tax not quoted at checkout. No purchase or physical teardown. Material claims are not proof of zero migration or a health benefit."
+    }
+  ]
+}
