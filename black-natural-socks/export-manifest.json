@@ -1,5 +1,5 @@
 {
-  "assets/app.js": "0a11a0451f1bef5042a826616fa32c2624b5d6fb56510a7385682cdae1b359db",
+  "assets/app.js": "4f66316a5ceca0d006df9ad5340ce3085607ecf16c5ab9361dca4b9f54a6fba7",
   "assets/catalog-order.js": "fe94abd220e8e12a322d003919a33c778ff013fb9d029a34dd95477487d5016c",
   "assets/catalog-removal.css": "27d8d6551ffac1565059dcac8cd1afba13593728efa723cc6b89dd7bf25609a4",
   "assets/catalog-removal.js": "8ae60c6e20f517472fb761a362ff19fde6d9b41d9c5376c5a378c79038e35fe7",
@@ -12,6 +12,12 @@
   "assets/clothing-favicon/tshirt-white.png": "03ff5d1a8920c67b0f4555decadc85d516de711229b98ab8fef562698bc37922",
   "assets/clothing-favicon/tshirt.ico": "b7ca739f32ea85207f8cae8a99cc0316898d90478fd9b6dec7cd3db2d5e5bf21",
   "assets/display-template.css": "87a76f840de67f1362f973c71401317376df3a4e2a1b6973c30d2f85ca98aabc",
+  "assets/images/amazon-dryer-b004qjmv8u-1.webp": "34e76f4fc7dda016285d221180214b02720cee8bd2a468e4959767b698ec6b46",
+  "assets/images/amazon-dryer-b01hqni9n8-1.webp": "894725cfec899443aa7670e0431479ea51d08bb4be2a7d84d1888733b2103a08",
+  "assets/images/amazon-dryer-b0744mn2sg-1.webp": "e1c845096d8de27163fc47964b31c29a60c7d34681ce3643af55f8fa74563420",
+  "assets/images/amazon-dryer-b0744mn2sg-2.webp": "05c434a67519c5e0a9f180b4e7474b1a14eb39cad8ac1fbc7b60d972c0cca83e",
+  "assets/images/amazon-dryer-b0744mn2sg-3.webp": "54edc701dd17ad7306744f787209d8f8f423d9e19a0660bf295351727b997dfa",
+  "assets/images/amazon-dryer-b0744mn2sg-4.webp": "7701cf481ed83b895af9f99b9246b74fe0f8aeb7a6f24728091b32660af1d613",
   "assets/images/black-natural-socks-1-1.webp": "7deb25cac47dd59a7d321ec5aa942894086792a29db49f31c404a85acc6c67ef",
   "assets/images/black-natural-socks-10-1.webp": "c3e09558af1114c27eb207c7b30bfd36657cf9ef5f61a482aaedfed645d22620",
   "assets/images/black-natural-socks-10-2.webp": "edbce953dc9083f43d50b9b3a84aa05f4f76639692a38bedaac3db15e11cb59c",
@@ -70,6 +76,6 @@
   "assets/sortable-LICENSE.txt": "199071e94a4d6ba6f634acd6020842efc55161b9fb639a432c50da687781219d",
   "assets/styles.css": "3e38fda94a7e5ad74ad09ea65ae5dab6efe5416b397ef058859607f1b1cb50c2",
   "data/library.json": "55428698a654e506a3e0f4606646daa0bf4a8c94ad118982076d546f6b8b64c8",
-  "data/topics/black-natural-socks.json": "089ae884ee6f8a8538191fc721e6d4f486084b5897a2a2cb42a69e691b35660e",
+  "data/topics/black-natural-socks.json": "5348e5df52db2016556826732397e0beb209715a3cb6a0d413dd5cee08e050be",
   "index.html": "4da15491212c5055c3aaa1bd81c8af719373cc8c16d582d1033b1b0c96deddcc"
 }

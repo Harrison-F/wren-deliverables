@@ -8,11 +8,22 @@
   "updated": "2026-11-02",
   "defaultSort": "price",
   "evidenceNote": "Integrity ranks documented natural construction first, then body-only claims, then synthetic blends; natural percentage breaks ties. It is not a hands-on quality score. Percentages usually describe fabric, not total garment mass. Natural rubber is disclosed separately. Manufacturer certifications were not independently registry-validated.",
+  "collectionTabs": [
+    {
+      "id": "all",
+      "label": "All research"
+    },
+    {
+      "id": "amazon-dryer",
+      "label": "Amazon · dryer-safe"
+    }
+  ],
   "recommendation": {
     "test": "",
     "text": "",
     "title": ""
   },
+  "defaultCollection": "all",
   "showCollectionNotes": false,
   "sources": [
     {
@@ -613,6 +624,54 @@
       "type": "First-party / seller verification",
       "title": "Current exact variant · Nov 2",
       "verifiedAt": "2026-11-02T16:35:31.427405+00:00"
+    },
+    {
+      "id": "amazon-dryer-b01hqni9n8-listing",
+      "url": "https://www.amazon.com/dp/B01HQNI9N8",
+      "note": "Machine Wash Warm, Tumble Dry Low is generally recommended for easy washing and maintenance. Spandex is a thin band at the top, not elastic-free. Sewing thread not separately specified. Manufacturer calls fit loose and generous, like mittens for feet; consider sizing down for snugger fit. Not a secure athletic fit. Selected Amazon color is Black; photo has a navy/charcoal cast. No contrasting panels. Allergy is the product name, not a verified medical or health benefit.",
+      "type": "Seller listing",
+      "title": "Exact Amazon offer / care",
+      "verifiedAt": "2026-11-02T20:15:55.970032+00:00"
+    },
+    {
+      "id": "amazon-dryer-b01hqni9n8-care",
+      "url": "https://maggiesorganics.com/organic-cotton-socks-allergy-crew/",
+      "note": "Machine wash warm, medium dry Use low dryer heat. Follow the label on delivered stock.",
+      "type": "Manufacturer",
+      "title": "Manufacturer care evidence",
+      "verifiedAt": "2026-11-02T20:15:55.970032+00:00"
+    },
+    {
+      "id": "amazon-dryer-b0744mn2sg-listing",
+      "url": "https://www.amazon.com/dp/B0744MN2SG",
+      "note": "Machine Wash Warm, Tumble Dry Low is recommended for easy maintenance. Amazon description includes alternate legacy blend wording: 98% organic cotton/1% nylon/1% spandex, or 92% organic cotton/6.4% nylon/1.6% spandex. Exact bullets and current manufacturer say 98%; label on received stock should settle this conflict. Sewing thread and elastic placement are not separately specified. Amazon listing in stock does not contradict manufacturer-store sold-out status; sellers have separate inventory.",
+      "type": "Seller listing",
+      "title": "Exact Amazon offer / care",
+      "verifiedAt": "2026-11-02T20:15:55.970032+00:00"
+    },
+    {
+      "id": "amazon-dryer-b0744mn2sg-care",
+      "url": "https://maggiesorganics.com/organic-cotton-socks-classic-crew/",
+      "note": "Machine wash warm, medium dry Use low dryer heat. Follow the label on delivered stock.",
+      "type": "Manufacturer",
+      "title": "Manufacturer care evidence",
+      "verifiedAt": "2026-11-02T20:15:55.970032+00:00"
+    },
+    {
+      "id": "amazon-dryer-b004qjmv8u-listing",
+      "url": "https://www.amazon.com/dp/B004QJMV8U",
+      "note": "Tumble dry or lay flat to air dry (Use normal cycle setting, set dryer to lowest heat) Care Instructions link is in exact F1055 product content; linked manufacturer policy explicitly permits lowest-heat tumble drying. The separate Icon Sock exception does not apply to F1055. Composition conflict: current manufacturer 91% versus Amazon 92%; use conservative 91% for ranking, not an assertion of the delivered lot. Black with a small gray/white sole logo; no large contrasting toe/heel panels. Manufacturer additionally says wash before first wear, inside out, warm max 120 F / 50 C, no bleach/fabric softener, not with abrasive fabrics.",
+      "type": "Seller listing",
+      "title": "Exact Amazon offer / care",
+      "verifiedAt": "2026-11-02T20:15:55.970032+00:00"
+    },
+    {
+      "id": "amazon-dryer-b004qjmv8u-care",
+      "url": "https://www.wigwam.com/pages/care-instructions",
+      "note": "Tumble dry or lay flat to air dry (Use normal cycle setting, set dryer to lowest heat) Use low dryer heat. Follow the label on delivered stock.",
+      "type": "Manufacturer",
+      "title": "Manufacturer care evidence",
+      "verifiedAt": "2026-11-02T20:15:55.970032+00:00"
     }
   ],
   "products": [
@@ -1759,6 +1818,156 @@
       "unitPriceUSD": 15.0,
       "integrityRank": 1,
       "materialCaveat": "Historical price/stock · Oct 17; not rechecked · exceeds low-synthetic preference",
+      "naturalPercent": 91
+    },
+    {
+      "id": "amazon-dryer-b01hqni9n8",
+      "url": "https://www.amazon.com/dp/B01HQNI9N8",
+      "care": "Machine Wash Warm, Tumble Dry Low is generally recommended for easy washing and maintenance.",
+      "name": "Maggie's Organics Allergy Cotton Crew",
+      "color": "Black",
+      "facts": {
+        "Fit": "Amazon exact listing: men 10–13; manufacturer general chart historically 8–12. US10 included, but deliberately loose special fit.",
+        "Price": "$13.00 / 1 pairs",
+        "Fabric": "99.8% organic cotton, 0.2% spandex",
+        "Status": "In stock · checked Nov 2"
+      },
+      "image": "assets/images/amazon-dryer-b01hqni9n8-1.webp",
+      "store": "Amazon · BIGFLY",
+      "images": [
+        {
+          "alt": "Maggie's Organics Allergy Cotton Crew · Black · Amazon listing image",
+          "src": "assets/images/amazon-dryer-b01hqni9n8-1.webp",
+          "sourceUrl": "https://m.media-amazon.com/images/I/71Ml3hAYf9L._AC_SL1280_.jpg"
+        }
+      ],
+      "taxUSD": null,
+      "sources": [
+        "amazon-dryer-b01hqni9n8-listing",
+        "amazon-dryer-b01hqni9n8-care"
+      ],
+      "summary": "",
+      "verdict": "Tumble dry low",
+      "category": "Amazon offers",
+      "colorKey": "black",
+      "imageAlt": "Maggie's Organics Allergy Cotton Crew · Black · Amazon listing image",
+      "imageNote": "All images in selected-ASIN initial colorImages array; first image visually inspected. Gallery may contain explanatory graphics.",
+      "priceLabel": "$13.00 / pair",
+      "verifiedAt": "2026-11-02T20:15:55.970032+00:00",
+      "attribution": "Selected for Amazon availability and documented dryer care, not an influencer endorsement. Low heat is required; not unrestricted commercial drying. Shipping/tax unquoted.",
+      "shippingUSD": null,
+      "unitPriceUSD": 13.0,
+      "collectionIds": [
+        "amazon-dryer"
+      ],
+      "integrityRank": 99.8,
+      "dryerQualified": true,
+      "materialCaveat": "Tumble dry low · $13.00/1 pair(s) · Loose fit; consider sizing down.",
+      "naturalPercent": 99.8
+    },
+    {
+      "id": "amazon-dryer-b0744mn2sg",
+      "url": "https://www.amazon.com/dp/B0744MN2SG",
+      "care": "Machine Wash Warm, Tumble Dry Low is recommended for easy maintenance.",
+      "name": "Maggie's Organics Classic Cotton Crew",
+      "color": "Black",
+      "facts": {
+        "Fit": "8–12 explicitly in exact Amazon bullets",
+        "Price": "$32.00 / 3 pairs",
+        "Fabric": "98% organic cotton, 1% nylon, 1% spandex (current manufacturer); Amazon bullets confirm 98% organic cotton.",
+        "Status": "In stock · checked Nov 2"
+      },
+      "image": "assets/images/amazon-dryer-b0744mn2sg-1.webp",
+      "store": "Amazon · BIGFLY",
+      "images": [
+        {
+          "alt": "Maggie's Organics Classic Cotton Crew · Black · Amazon listing image",
+          "src": "assets/images/amazon-dryer-b0744mn2sg-1.webp",
+          "sourceUrl": "https://m.media-amazon.com/images/I/61I0lxu4j3L._AC_SL1000_.jpg"
+        },
+        {
+          "alt": "Maggie's Organics Classic Cotton Crew · Black · Amazon listing image",
+          "src": "assets/images/amazon-dryer-b0744mn2sg-2.webp",
+          "sourceUrl": "https://m.media-amazon.com/images/I/91RtoE-3gDL._AC_SL1500_.jpg"
+        },
+        {
+          "alt": "Maggie's Organics Classic Cotton Crew · Black · Amazon listing image",
+          "src": "assets/images/amazon-dryer-b0744mn2sg-3.webp",
+          "sourceUrl": "https://m.media-amazon.com/images/I/91elGI568LL._AC_SL1500_.jpg"
+        },
+        {
+          "alt": "Maggie's Organics Classic Cotton Crew · Black · Amazon listing image",
+          "src": "assets/images/amazon-dryer-b0744mn2sg-4.webp",
+          "sourceUrl": "https://m.media-amazon.com/images/I/51rVgpACb3L._AC_SL1000_.jpg"
+        }
+      ],
+      "taxUSD": null,
+      "sources": [
+        "amazon-dryer-b0744mn2sg-listing",
+        "amazon-dryer-b0744mn2sg-care"
+      ],
+      "summary": "",
+      "verdict": "Tumble dry low",
+      "category": "Amazon offers",
+      "colorKey": "black",
+      "imageAlt": "Maggie's Organics Classic Cotton Crew · Black · Amazon listing image",
+      "imageNote": "All images in selected-ASIN initial colorImages array; first image visually inspected. Gallery may contain explanatory graphics.",
+      "priceLabel": "$10.67 / pair",
+      "verifiedAt": "2026-11-02T20:15:55.970032+00:00",
+      "attribution": "Selected for Amazon availability and documented dryer care, not an influencer endorsement. Low heat is required; not unrestricted commercial drying. Shipping/tax unquoted.",
+      "shippingUSD": null,
+      "unitPriceUSD": 10.666666666666666,
+      "collectionIds": [
+        "amazon-dryer"
+      ],
+      "integrityRank": 98,
+      "dryerQualified": true,
+      "materialCaveat": "Tumble dry low · $32.00/3 pair(s) · 98% current formula; Amazon also lists legacy 92% blend.",
+      "naturalPercent": 98
+    },
+    {
+      "id": "amazon-dryer-b004qjmv8u",
+      "url": "https://www.amazon.com/dp/B004QJMV8U",
+      "care": "Tumble dry or lay flat to air dry (Use normal cycle setting, set dryer to lowest heat)",
+      "name": "Wigwam King Cotton Crew F1055",
+      "color": "Black",
+      "facts": {
+        "Fit": "Manufacturer LG: men 9–12",
+        "Price": "$14.99 / 1 pairs",
+        "Fabric": "Current manufacturer: 91% ring-spun cotton, 7% stretch nylon, 1% stretch polyester (logo), 1% spandex. Amazon older listing: 92% cotton, 7% stretch nylon, 1% elastic (rubber).",
+        "Status": "In stock · checked Nov 2"
+      },
+      "image": "assets/images/amazon-dryer-b004qjmv8u-1.webp",
+      "store": "Amazon · GoBros",
+      "images": [
+        {
+          "alt": "Wigwam King Cotton Crew F1055 · Black · Amazon listing image",
+          "src": "assets/images/amazon-dryer-b004qjmv8u-1.webp",
+          "sourceUrl": "https://m.media-amazon.com/images/I/81wiboWa-fL._AC_SL1500_.jpg"
+        }
+      ],
+      "taxUSD": null,
+      "sources": [
+        "amazon-dryer-b004qjmv8u-listing",
+        "amazon-dryer-b004qjmv8u-care"
+      ],
+      "summary": "",
+      "verdict": "Tumble dry low",
+      "category": "Amazon offers",
+      "colorKey": "black",
+      "imageAlt": "Wigwam King Cotton Crew F1055 · Black · Amazon listing image",
+      "imageNote": "All images in selected-ASIN initial colorImages array; first image visually inspected. Gallery may contain explanatory graphics.",
+      "priceLabel": "$14.99 / pair",
+      "verifiedAt": "2026-11-02T20:15:55.970032+00:00",
+      "attribution": "Selected for Amazon availability and documented dryer care, not an influencer endorsement. Low heat is required; not unrestricted commercial drying. Shipping/tax unquoted.",
+      "shippingUSD": null,
+      "unitPriceUSD": 14.99,
+      "collectionIds": [
+        "amazon-dryer"
+      ],
+      "integrityRank": 91,
+      "dryerQualified": true,
+      "materialCaveat": "Tumble dry low · $14.99/1 pair(s) · 91% current formula; Amazon lists older 92% blend. Small contrasting sole logo.",
       "naturalPercent": 91
     }
   ]
