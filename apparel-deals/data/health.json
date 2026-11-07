@@ -1,144 +1,167 @@
 {
-  "checkedAt": "2026-11-07T22:47:21.961286+00:00",
+  "checkedAt": "2026-11-07T23:02:51.308072+00:00",
   "summary": "Year-round monitor. Site discovery twice daily; newsletter review hourly. Qualified refresh every four hours in November. Coverage remains partial; blocked or unreviewed merchants are not zero-result claims.",
   "coverage": [
     {
       "merchant": "SCRT",
       "status": "Bounded feed retrieved; exact sale candidates still require US/size/material review",
       "newsletter": "existing_newsletter_verified",
-      "source": "https://scrt.onl"
+      "source": "https://scrt.onl",
+      "newsletter_detail": "Recent marketing newsletters received in Wren inbox; not merely order receipts"
     },
     {
       "merchant": "Industry of All Nations",
       "status": "Bounded feed retrieved; exact sale candidates still require US/size/material review",
       "newsletter": "existing_newsletter_verified",
-      "source": "https://industryofallnations.com/"
+      "source": "https://industryofallnations.com/",
+      "newsletter_detail": "Recent marketing newsletters received in Wren inbox; not merely order receipts"
     },
     {
       "merchant": "Yitai",
       "status": "6 exact variants reviewed; remaining catalog not reviewed",
       "newsletter": "submitted_pending_verification",
-      "source": "https://www.yitai.la/"
+      "source": "https://www.yitai.la/",
+      "newsletter_detail": "Submission attempted; no unambiguous success or confirmation readback. Do not resubmit blindly."
     },
     {
       "merchant": "Sandro",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
       "newsletter": "submitted_pending_verification",
-      "source": "https://us.sandro-paris.com/"
+      "source": "https://us.sandro-paris.com/",
+      "newsletter_detail": "Visible control absent: REGISTER"
     },
     {
       "merchant": "Abercrombie",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
-      "newsletter": "not_submitted",
-      "source": "https://www.abercrombie.com"
+      "newsletter": "site_acknowledged",
+      "source": "https://www.abercrombie.com",
+      "newsletter_detail": "Thanks! You’re officially on our email list."
     },
     {
       "merchant": "Helmut Lang",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
       "newsletter": "not_submitted",
-      "source": "https://www.helmutlang.com/"
+      "source": "https://www.helmutlang.com/",
+      "newsletter_detail": "Locator.check: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name*=CheckboxMen]\").visible\n    - locator resolved to <input value=\"true\" type=\"checkbox\" id=\"gender-men_footer\" class=\"input-checkbox custom-check"
     },
     {
       "merchant": "Études",
       "status": "Bounded feed retrieved; exact sale candidates still require US/size/material review",
       "newsletter": "submitted_pending_verification",
-      "source": "https://www.etudes-studio.com/"
+      "source": "https://www.etudes-studio.com/",
+      "newsletter_detail": "Submission attempted; no unambiguous success or confirmation readback. Do not resubmit blindly."
     },
     {
       "merchant": "SSENSE",
       "status": "HTTP 403; rendered homepage blocked",
       "newsletter": "not_submitted",
-      "source": "https://www.ssense.com/"
+      "source": "https://www.ssense.com/",
+      "newsletter_detail": "Rendered homepage has no reviewed standalone newsletter form; interactive recovery still needed"
     },
     {
       "merchant": "Carhartt",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
       "newsletter": "not_submitted",
-      "source": "https://www.carhartt.com/"
+      "source": "https://www.carhartt.com/",
+      "newsletter_detail": "Visible control absent: SUBMIT"
     },
     {
       "merchant": "Carhartt WIP",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
-      "newsletter": "not_submitted",
-      "source": "https://www.carhartt.com/"
+      "newsletter": "newsletter_receipt_verified",
+      "source": "https://us.carhartt-wip.com/",
+      "newsletter_detail": "Welcome/discount newsletter received after authorized signup/confirmation"
     },
     {
       "merchant": "Saks Fifth Avenue",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
       "newsletter": "submitted_pending_verification",
-      "source": "https://www.saksfifthavenue.com/"
+      "source": "https://www.saksfifthavenue.com/",
+      "newsletter_detail": "Submission attempted; no unambiguous success or confirmation readback. Do not resubmit blindly."
     },
     {
       "merchant": "PRM",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
-      "newsletter": "site_acknowledged",
-      "source": "https://prm.com/"
+      "newsletter": "newsletter_receipt_verified",
+      "source": "https://prm.com/",
+      "newsletter_detail": "Welcome/discount newsletter received after authorized signup/confirmation"
     },
     {
       "merchant": "The Frankie Shop",
       "status": "Bounded feed retrieved; exact sale candidates still require US/size/material review",
       "newsletter": "not_submitted",
-      "source": "https://thefrankieshop.com/"
+      "source": "https://thefrankieshop.com/",
+      "newsletter_detail": "Visible control absent: JOIN OUR MAILINGLIST_"
     },
     {
       "merchant": "Yohji Yamamoto",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
-      "newsletter": "not_submitted",
-      "source": "https://theshopyohjiyamamoto.com/"
+      "newsletter": "submitted_pending_verification",
+      "source": "https://theshopyohjiyamamoto.com/",
+      "newsletter_detail": "Submitted; readback pending"
     },
     {
       "merchant": "ASKET",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
       "newsletter": "not_submitted",
-      "source": "https://www.asket.com/"
+      "source": "https://www.asket.com/",
+      "newsletter_detail": "Visible control absent: Men"
     },
     {
       "merchant": "COS",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
-      "newsletter": "not_submitted",
-      "source": "https://www.cos.com/"
+      "newsletter": "submitted_pending_verification",
+      "source": "https://www.cos.com/",
+      "newsletter_detail": "Submitted; readback pending"
     },
     {
       "merchant": "ARKET",
       "status": "Worldwide selector; US shipping not established (prior US unavailable); not qualified",
       "newsletter": "not_submitted",
-      "source": "https://www.arket.com/"
+      "source": "https://www.arket.com/",
+      "newsletter_detail": "Locator.click: Timeout 1000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"button\", name=\"Only required cookies\", exact=True)\n    - locator resolved to <button class=\"accept-button\">Only required cookies</button>\n  - attemptin"
     },
     {
       "merchant": "A.P.C.",
       "status": "Bounded feed retrieved; exact sale candidates still require US/size/material review",
       "newsletter": "not_submitted",
-      "source": "https://www.apc-us.com/"
+      "source": "https://www.apc-us.com/",
+      "newsletter_detail": "Locator.click: Timeout 2000ms exceeded.\nCall log:\n  - waiting for locator(\"label[for=newsletter-signup-interest-men-site-footer]\")\n    - locator resolved to <label for=\"newsletter-signup-interest-men-site-footer\" class=\"checkbox-i"
     },
     {
       "merchant": "Massimo Dutti",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
-      "newsletter": "not_submitted",
-      "source": "https://www.massimodutti.com/"
+      "newsletter": "newsletter_receipt_verified",
+      "source": "https://www.massimodutti.com/",
+      "newsletter_detail": "Welcome/discount newsletter received after authorized signup/confirmation"
     },
     {
       "merchant": "Hawes & Curtis",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
       "newsletter": "submitted_pending_verification",
-      "source": "https://www.hawesandcurtis.com/"
+      "source": "https://www.hawesandcurtis.com/",
+      "newsletter_detail": "Submission attempted; no unambiguous success or confirmation readback. Do not resubmit blindly."
     },
     {
       "merchant": "Arc’teryx",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
       "newsletter": "not_submitted",
-      "source": "https://arcteryx.com/"
+      "source": "https://arcteryx.com/",
+      "newsletter_detail": "Locator.check: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#GDPRCheck\")\n    - locator resolved to <input id=\"GDPRCheck\" class=\"xxpljw1\" type=\"checkbox\" name=\"GDPRCheck\"/>\n  - attempting click action\n    2 × waitin"
     },
     {
       "merchant": "lululemon",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
       "newsletter": "not_submitted",
-      "source": "https://shop.lululemon.com/"
+      "source": "https://shop.lululemon.com/",
+      "newsletter_detail": "Email signup routes to account/profile; no account creation authorized in this newsletter operation"
     },
     {
       "merchant": "Rains",
       "status": "Homepage reached; apparel-sale inventory not reviewed",
       "newsletter": "not_submitted",
-      "source": "https://www.au.rains.com/"
+      "source": "https://www.us.rains.com/",
+      "newsletter_detail": "Popup consent and possible SMS step needs reviewed controls before submission"
     }
   ]
 }
