@@ -1,0 +1,702 @@
+{
+  "id": "usb-c-earbuds",
+  "title": "USB-C earbuds & cord organizers",
+  "layout": "natural-basics",
+  "catalog": true,
+  "defaultSort": "price",
+  "showCollectionNotes": false,
+  "summary": "",
+  "updated": "2026-11-06",
+  "recommendation": {
+    "title": "Sound first: QUARK 2 + Cableyoyo",
+    "text": "About $26.98 with green, $27.10 with dark grey, before shipping/tax. Manual winding\u2014not automatic retraction. Fonus is the closest all-in-one, but its sound quality is unproven.",
+    "test": "Amazon dates are signed-out advertised offers, checked Nov 6 for NYC\u2014not confirmed for your account. No earbud\u2013organizer pairing has been physically tested."
+  },
+  "products": [
+    {
+      "id": "fonus",
+      "name": "Fonus USB-C retractable earbuds",
+      "url": "https://www.amazon.com/dp/B0H51BLSC3",
+      "category": "Built-in retraction",
+      "store": "Amazon",
+      "brand": "Fonus",
+      "unitPriceUSD": 24.99,
+      "priceLabel": "$24.99",
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "color": "Black",
+      "verdict": "Closest exact match; sound unproven",
+      "summary": "",
+      "facts": {
+        "Fabric": "Built-in pull-to-retract; sound unproven",
+        "Delivery": "Advertised Prime Nov 9; non-Prime Nov 12 free on $35 eligible order. Not account-confirmed.",
+        "Evidence": "Black in-ear buds; ABS reel; microphone; pull both ends together. No independent acoustic or durability testing found. Universal USB-C claim is seller wording, not device-specific proof. In stock; sold by FONUS Direct, ships Amazon.",
+        "Pairing": "No physical pairing or handset test. Keep inline remote and Y-split outside tight windings."
+      },
+      "materialCaveat": "Prime Nov 9 advertised (conditional)",
+      "attribution": "Black in-ear buds; ABS reel; microphone; pull both ends together. No independent acoustic or durability testing found. Universal USB-C claim is seller wording, not device-specific proof. In stock; sold by FONUS Direct, ships Amazon. Advertised Prime Nov 9; non-Prime Nov 12 free on $35 eligible order. Not account-confirmed.",
+      "sources": [
+        "fonus-source"
+      ],
+      "sourceLinks": [
+        "https://www.amazon.com/dp/B0H51BLSC3"
+      ],
+      "image": "assets/images/earbuds-fonus-01.webp",
+      "imageAlt": "Fonus USB-C retractable earbuds \u2014 image 1",
+      "images": [
+        {
+          "src": "assets/images/earbuds-fonus-01.webp",
+          "alt": "Fonus USB-C retractable earbuds \u2014 image 1",
+          "source": "https://m.media-amazon.com/images/I/51qNOjIml9L._AC_SL1150_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-fonus-02.webp",
+          "alt": "Fonus USB-C retractable earbuds \u2014 image 2",
+          "source": "https://m.media-amazon.com/images/I/51FVdR-PC-L._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-fonus-03.webp",
+          "alt": "Fonus USB-C retractable earbuds \u2014 image 3",
+          "source": "https://m.media-amazon.com/images/I/41ruOxNJB7L._AC_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-fonus-04.webp",
+          "alt": "Fonus USB-C retractable earbuds \u2014 image 4",
+          "source": "https://m.media-amazon.com/images/I/51EIt9cYlyL._AC_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-fonus-05.webp",
+          "alt": "Fonus USB-C retractable earbuds \u2014 image 5",
+          "source": "https://m.media-amazon.com/images/I/51XA6d5OecL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-fonus-06.webp",
+          "alt": "Fonus USB-C retractable earbuds \u2014 image 6",
+          "source": "https://m.media-amazon.com/images/I/71cCIg3+pML._AC_SL1425_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-fonus-07.webp",
+          "alt": "Fonus USB-C retractable earbuds \u2014 image 7",
+          "source": "https://m.media-amazon.com/images/I/51TsH78p4zL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-fonus-08.webp",
+          "alt": "Fonus USB-C retractable earbuds \u2014 image 8",
+          "source": "https://m.media-amazon.com/images/I/61ZIiiqrQKL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-fonus-09.webp",
+          "alt": "Fonus USB-C retractable earbuds \u2014 image 9",
+          "source": "https://m.media-amazon.com/images/I/61VYh8ewbkL._AC_SL1412_.jpg"
+        }
+      ],
+      "imageNote": "Retailer product imagery. Black in-ear buds; ABS reel; microphone; pull both ends together. No independent acoustic or durability testing found. Universal USB-C claim is seller wording, not device-specific proof. In stock; sold by FONUS Direct, ships Amazon."
+    },
+    {
+      "id": "sony",
+      "name": "Sony IER-EX15C \u2014 Black",
+      "url": "https://www.amazon.com/dp/B0FMLMGPN9",
+      "category": "Earbuds for separate organizer",
+      "store": "Amazon",
+      "brand": "Sony",
+      "unitPriceUSD": 18,
+      "priceLabel": "$18.00",
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "color": "Black",
+      "verdict": "Fast-shipping branded option",
+      "summary": "",
+      "facts": {
+        "Fabric": "USB-C + silicone tips; needs organizer",
+        "Delivery": "Advertised Prime overnight 7\u201311 AM on eligible orders; non-Prime Nov 11 free on $35 eligible order. Not account-confirmed.",
+        "Evidence": "USB-C wired, silicone tips, microphone and volume controls. Serrated cord; NOT retractable alone. Manufacturer claims balanced sound; no independent measurement verified. Needs separate organizer. In stock; new unit sold and shipped by Amazon.com.",
+        "Pairing": "No physical pairing or handset test. Keep inline remote and Y-split outside tight windings."
+      },
+      "materialCaveat": "Prime overnight advertised (conditional)",
+      "attribution": "USB-C wired, silicone tips, microphone and volume controls. Serrated cord; NOT retractable alone. Manufacturer claims balanced sound; no independent measurement verified. Needs separate organizer. In stock; new unit sold and shipped by Amazon.com. Advertised Prime overnight 7\u201311 AM on eligible orders; non-Prime Nov 11 free on $35 eligible order. Not account-confirmed.",
+      "sources": [
+        "sony-source"
+      ],
+      "sourceLinks": [
+        "https://www.amazon.com/dp/B0FMLMGPN9"
+      ],
+      "image": "assets/images/earbuds-sony-01.webp",
+      "imageAlt": "Sony IER-EX15C \u00b7 Black \u2014 image 1",
+      "images": [
+        {
+          "src": "assets/images/earbuds-sony-01.webp",
+          "alt": "Sony IER-EX15C \u00b7 Black \u2014 image 1",
+          "source": "https://m.media-amazon.com/images/I/51NS1EA4clL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-sony-02.webp",
+          "alt": "Sony IER-EX15C \u00b7 Black \u2014 image 2",
+          "source": "https://m.media-amazon.com/images/I/712XZGCSROL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-sony-03.webp",
+          "alt": "Sony IER-EX15C \u00b7 Black \u2014 image 3",
+          "source": "https://m.media-amazon.com/images/I/714qNeoTEYL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-sony-04.webp",
+          "alt": "Sony IER-EX15C \u00b7 Black \u2014 image 4",
+          "source": "https://m.media-amazon.com/images/I/71Am7reYjyL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-sony-05.webp",
+          "alt": "Sony IER-EX15C \u00b7 Black \u2014 image 5",
+          "source": "https://m.media-amazon.com/images/I/61t5EjHG5JL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-sony-06.webp",
+          "alt": "Sony IER-EX15C \u00b7 Black \u2014 image 6",
+          "source": "https://m.media-amazon.com/images/I/71IOTwt-9oL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-sony-07.webp",
+          "alt": "Sony IER-EX15C \u00b7 Black \u2014 image 7",
+          "source": "https://m.media-amazon.com/images/I/716L34spXcL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-sony-08.webp",
+          "alt": "Sony IER-EX15C \u00b7 Black \u2014 image 8",
+          "source": "https://m.media-amazon.com/images/I/51N59AtnqcL._AC_SL1500_.jpg"
+        }
+      ],
+      "imageNote": "Retailer product imagery. USB-C wired, silicone tips, microphone and volume controls. Serrated cord; NOT retractable alone. Manufacturer claims balanced sound; no independent measurement verified. Needs separate organizer. In stock; new unit sold and shipped by Amazon.com."
+    },
+    {
+      "id": "ukcoco",
+      "name": "UKCOCO automatic cord reels \u2014 4-pack",
+      "url": "https://www.amazon.com/dp/B07JF2ZSC9",
+      "category": "Separate organizers",
+      "store": "Amazon",
+      "brand": "UKCOCO",
+      "unitPriceUSD": 19.19,
+      "priceLabel": "$19.19 / 4-pack",
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "color": "Mixed",
+      "verdict": "True automatic winding; experimental pairing",
+      "summary": "",
+      "facts": {
+        "Fabric": "Automatic reel; bulk/fit unverified",
+        "Delivery": "Advertised free Nov 24\u2013Dec 1; too slow for a fast-delivery pick. Tax unknown.",
+        "Evidence": "Fold cable into hook and pull to store, per seller. Thick/long cables may not fit. Inline remote and Y-split clearance with these earbuds is NOT verified. Mixed colors; generic plastic appearance. No earbuds included. In stock, usually dispatches in 4\u20135 days; QSHUFANG seller/shipper.",
+        "Pairing": "No physical pairing or handset test. Keep inline remote and Y-split outside tight windings."
+      },
+      "materialCaveat": "Organizer only; earbuds not included. Nov 24\u2013Dec 1 advertised; slow (conditional)",
+      "attribution": "Fold cable into hook and pull to store, per seller. Thick/long cables may not fit. Inline remote and Y-split clearance with these earbuds is NOT verified. Mixed colors; generic plastic appearance. No earbuds included. In stock, usually dispatches in 4\u20135 days; QSHUFANG seller/shipper. Advertised free Nov 24\u2013Dec 1; too slow for a fast-delivery pick. Tax unknown.",
+      "sources": [
+        "ukcoco-source"
+      ],
+      "sourceLinks": [
+        "https://www.amazon.com/dp/B07JF2ZSC9"
+      ],
+      "image": "assets/images/earbuds-ukcoco-01.webp",
+      "imageAlt": "UKCOCO automatic cord reels \u00b7 4-pack \u2014 image 1",
+      "images": [
+        {
+          "src": "assets/images/earbuds-ukcoco-01.webp",
+          "alt": "UKCOCO automatic cord reels \u00b7 4-pack \u2014 image 1",
+          "source": "https://m.media-amazon.com/images/I/61+tj4asZuL._AC_SL1280_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-ukcoco-02.webp",
+          "alt": "UKCOCO automatic cord reels \u00b7 4-pack \u2014 image 2",
+          "source": "https://m.media-amazon.com/images/I/41WuRsHrJML._AC_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-ukcoco-03.webp",
+          "alt": "UKCOCO automatic cord reels \u00b7 4-pack \u2014 image 3",
+          "source": "https://m.media-amazon.com/images/I/61Y-NRmGruL._AC_SL1280_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-ukcoco-04.webp",
+          "alt": "UKCOCO automatic cord reels \u00b7 4-pack \u2014 image 4",
+          "source": "https://m.media-amazon.com/images/I/71Kg+R7nWNL._AC_SL1280_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-ukcoco-05.webp",
+          "alt": "UKCOCO automatic cord reels \u00b7 4-pack \u2014 image 5",
+          "source": "https://m.media-amazon.com/images/I/61-bLaNsAoL._AC_SL1280_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-ukcoco-06.webp",
+          "alt": "UKCOCO automatic cord reels \u00b7 4-pack \u2014 image 6",
+          "source": "https://m.media-amazon.com/images/I/71bicLo3WXL._AC_SL1280_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-ukcoco-07.webp",
+          "alt": "UKCOCO automatic cord reels \u00b7 4-pack \u2014 image 7",
+          "source": "https://m.media-amazon.com/images/I/71SkEAdq3NL._AC_SL1280_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-ukcoco-08.webp",
+          "alt": "UKCOCO automatic cord reels \u00b7 4-pack \u2014 image 8",
+          "source": "https://m.media-amazon.com/images/I/61e9WtgFzgL._AC_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-ukcoco-09.webp",
+          "alt": "UKCOCO automatic cord reels \u00b7 4-pack \u2014 image 9",
+          "source": "https://m.media-amazon.com/images/I/61BOBn0cZ3L._AC_.jpg"
+        }
+      ],
+      "imageNote": "Retailer product imagery. Fold cable into hook and pull to store, per seller. Thick/long cables may not fit. Inline remote and Y-split clearance with these earbuds is NOT verified. Mixed colors; generic plastic appearance. No earbuds included. In stock, usually dispatches in 4\u20135 days; QSHUFANG seller/shipper."
+    },
+    {
+      "id": "cableyoyo-grey",
+      "name": "Bluelounge Cableyoyo \u2014 Dark grey",
+      "url": "https://www.amazon.com/dp/B01979RAWK",
+      "category": "Manual organizers",
+      "store": "Amazon",
+      "brand": "Bluelounge",
+      "unitPriceUSD": 7.11,
+      "priceLabel": "$7.11",
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "color": "Dark grey",
+      "verdict": "Best-looking spool; slower delivery",
+      "summary": "",
+      "facts": {
+        "Fabric": "Manual spool \u00b7 2.75 in diameter",
+        "Delivery": "Advertised Nov 13; free on $35 eligible order. Conditional signed-out estimate; not account-confirmed. Shipping/tax total unknown.",
+        "Evidence": "Manual winding, NOT automatic. Silicone spool with magnetic center; 2.75-inch diameter. Six remaining. Electriduct Inc, fulfilled Amazon. Gallery includes retailer cross-color demonstration images.",
+        "Pairing": "No physical pairing or handset test. Keep inline remote and Y-split outside tight windings."
+      },
+      "materialCaveat": "Organizer only; earbuds not included. Nov 13 advertised (conditional)",
+      "attribution": "Manual winding, NOT automatic. Silicone spool with magnetic center; 2.75-inch diameter. Six remaining. Electriduct Inc, fulfilled Amazon. Gallery includes retailer cross-color demonstration images. Advertised Nov 13; free on $35 eligible order. Conditional signed-out estimate; not account-confirmed. Shipping/tax total unknown.",
+      "sources": [
+        "cableyoyo-grey-source"
+      ],
+      "sourceLinks": [
+        "https://www.amazon.com/dp/B01979RAWK"
+      ],
+      "image": "assets/images/earbuds-cableyoyo-grey-01.webp",
+      "imageAlt": "Bluelounge Cableyoyo \u2014 Dark grey \u2014 image 1",
+      "images": [
+        {
+          "src": "assets/images/earbuds-cableyoyo-grey-01.webp",
+          "alt": "Bluelounge Cableyoyo \u2014 Dark grey \u2014 image 1",
+          "source": "https://m.media-amazon.com/images/I/71+l50xqHkL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-cableyoyo-grey-02.webp",
+          "alt": "Bluelounge Cableyoyo \u2014 Dark grey \u2014 image 2",
+          "source": "https://m.media-amazon.com/images/I/71BgpaCF3HL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-cableyoyo-grey-03.webp",
+          "alt": "Bluelounge Cableyoyo \u2014 Dark grey \u2014 image 3",
+          "source": "https://m.media-amazon.com/images/I/81JwqavZpHL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-cableyoyo-grey-04.webp",
+          "alt": "Bluelounge Cableyoyo \u2014 Dark grey \u2014 image 4",
+          "source": "https://m.media-amazon.com/images/I/81Tz4G+xoHL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-cableyoyo-grey-05.webp",
+          "alt": "Bluelounge Cableyoyo \u2014 Dark grey \u2014 image 5",
+          "source": "https://m.media-amazon.com/images/I/71CiGiERQ4L._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-cableyoyo-grey-06.webp",
+          "alt": "Bluelounge Cableyoyo \u2014 Dark grey \u2014 image 6",
+          "source": "https://m.media-amazon.com/images/I/71E6b2WHWqL._AC_SL1500_.jpg"
+        }
+      ],
+      "imageNote": "Retailer product imagery. Manual winding, NOT automatic. Silicone spool with magnetic center; 2.75-inch diameter. Six remaining. Electriduct Inc, fulfilled Amazon. Gallery includes retailer cross-color demonstration images."
+    },
+    {
+      "id": "cableyoyo-green",
+      "name": "Bluelounge Cableyoyo \u2014 Green",
+      "url": "https://www.amazon.com/dp/B0197A0QG6",
+      "category": "Manual organizers",
+      "store": "Amazon",
+      "brand": "Bluelounge",
+      "unitPriceUSD": 6.99,
+      "priceLabel": "$6.99",
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "color": "Green",
+      "verdict": "Faster color option",
+      "summary": "",
+      "facts": {
+        "Fabric": "Manual spool \u00b7 2.75 in diameter",
+        "Delivery": "Advertised Prime Nov 8; non-Prime Nov 11 free on $35 eligible order. Conditional signed-out estimate; not account-confirmed. Shipping/tax total unknown.",
+        "Evidence": "Manual winding, NOT automatic. Silicone spool with magnetic center; 2.75-inch diameter. In stock, Electriduct Inc, fulfilled Amazon. Gallery includes retailer cross-color demonstration images.",
+        "Pairing": "No physical pairing or handset test. Keep inline remote and Y-split outside tight windings."
+      },
+      "materialCaveat": "Organizer only; earbuds not included. Prime Nov 8 advertised (conditional)",
+      "attribution": "Manual winding, NOT automatic. Silicone spool with magnetic center; 2.75-inch diameter. In stock, Electriduct Inc, fulfilled Amazon. Gallery includes retailer cross-color demonstration images. Advertised Prime Nov 8; non-Prime Nov 11 free on $35 eligible order. Conditional signed-out estimate; not account-confirmed. Shipping/tax total unknown.",
+      "sources": [
+        "cableyoyo-green-source"
+      ],
+      "sourceLinks": [
+        "https://www.amazon.com/dp/B0197A0QG6"
+      ],
+      "image": "assets/images/earbuds-cableyoyo-green-01.webp",
+      "imageAlt": "Bluelounge Cableyoyo \u2014 Green \u2014 image 1",
+      "images": [
+        {
+          "src": "assets/images/earbuds-cableyoyo-green-01.webp",
+          "alt": "Bluelounge Cableyoyo \u2014 Green \u2014 image 1",
+          "source": "https://m.media-amazon.com/images/I/71Z2dokiEKL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-cableyoyo-green-02.webp",
+          "alt": "Bluelounge Cableyoyo \u2014 Green \u2014 image 2",
+          "source": "https://m.media-amazon.com/images/I/41gYKfoQ67L._AC_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-cableyoyo-green-03.webp",
+          "alt": "Bluelounge Cableyoyo \u2014 Green \u2014 image 3",
+          "source": "https://m.media-amazon.com/images/I/71BgpaCF3HL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-cableyoyo-green-04.webp",
+          "alt": "Bluelounge Cableyoyo \u2014 Green \u2014 image 4",
+          "source": "https://m.media-amazon.com/images/I/81JwqavZpHL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-cableyoyo-green-05.webp",
+          "alt": "Bluelounge Cableyoyo \u2014 Green \u2014 image 5",
+          "source": "https://m.media-amazon.com/images/I/81Tz4G+xoHL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-cableyoyo-green-06.webp",
+          "alt": "Bluelounge Cableyoyo \u2014 Green \u2014 image 6",
+          "source": "https://m.media-amazon.com/images/I/71CiGiERQ4L._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-cableyoyo-green-07.webp",
+          "alt": "Bluelounge Cableyoyo \u2014 Green \u2014 image 7",
+          "source": "https://m.media-amazon.com/images/I/71E6b2WHWqL._AC_SL1500_.jpg"
+        }
+      ],
+      "imageNote": "Retailer product imagery. Manual winding, NOT automatic. Silicone spool with magnetic center; 2.75-inch diameter. In stock, Electriduct Inc, fulfilled Amazon. Gallery includes retailer cross-color demonstration images."
+    },
+    {
+      "id": "apple",
+      "name": "Apple EarPods USB-C",
+      "url": "https://www.amazon.com/dp/B0DCH8VDXF",
+      "category": "Earbuds for separate organizer",
+      "store": "Amazon",
+      "brand": "Apple",
+      "unitPriceUSD": 19,
+      "priceLabel": "$19.00",
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "color": "White",
+      "verdict": "Simple open-fit option",
+      "summary": "",
+      "facts": {
+        "Fabric": "Open-fit USB-C; needs organizer",
+        "Delivery": "Advertised Prime overnight 7\u201311 AM on eligible orders; non-Prime Nov 11 free on $35 eligible order. Conditional signed-out estimate; not account-confirmed. Shipping/tax total unknown.",
+        "Evidence": "NOT retractable alone. White open-fit earbuds; microphone/remote. SoundGuys testing found weak bass, little isolation and fit inconsistency. Phone compatibility varies. In stock, sold and shipped Amazon.com.",
+        "Pairing": "No physical pairing or handset test. Keep inline remote and Y-split outside tight windings."
+      },
+      "materialCaveat": "Prime overnight advertised (conditional)",
+      "attribution": "NOT retractable alone. White open-fit earbuds; microphone/remote. SoundGuys testing found weak bass, little isolation and fit inconsistency. Phone compatibility varies. In stock, sold and shipped Amazon.com. Advertised Prime overnight 7\u201311 AM on eligible orders; non-Prime Nov 11 free on $35 eligible order. Conditional signed-out estimate; not account-confirmed. Shipping/tax total unknown.",
+      "sources": [
+        "apple-source",
+        "apple-review"
+      ],
+      "sourceLinks": [
+        "https://www.amazon.com/dp/B0DCH8VDXF"
+      ],
+      "image": "assets/images/earbuds-apple-01.webp",
+      "imageAlt": "Apple EarPods USB-C \u2014 image 1",
+      "images": [
+        {
+          "src": "assets/images/earbuds-apple-01.webp",
+          "alt": "Apple EarPods USB-C \u2014 image 1",
+          "source": "https://m.media-amazon.com/images/I/513OSdW4elL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-apple-02.webp",
+          "alt": "Apple EarPods USB-C \u2014 image 2",
+          "source": "https://m.media-amazon.com/images/I/51hCzg4ZW0L._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-apple-03.webp",
+          "alt": "Apple EarPods USB-C \u2014 image 3",
+          "source": "https://m.media-amazon.com/images/I/51P4BxC-GTL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-apple-04.webp",
+          "alt": "Apple EarPods USB-C \u2014 image 4",
+          "source": "https://m.media-amazon.com/images/I/51mL0eHVIpL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-apple-05.webp",
+          "alt": "Apple EarPods USB-C \u2014 image 5",
+          "source": "https://m.media-amazon.com/images/I/51-AyUL-c2L._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-apple-06.webp",
+          "alt": "Apple EarPods USB-C \u2014 image 6",
+          "source": "https://m.media-amazon.com/images/I/41fDQoz5ZZL._AC_SL1500_.jpg"
+        }
+      ],
+      "imageNote": "Retailer product imagery. NOT retractable alone. White open-fit earbuds; microphone/remote. SoundGuys testing found weak bass, little isolation and fit inconsistency. Phone compatibility varies. In stock, sold and shipped Amazon.com."
+    },
+    {
+      "id": "quark2",
+      "name": "MOONDROP QUARK 2 USB-C",
+      "url": "https://www.amazon.com/dp/B0DBLQ4DBD",
+      "category": "Earbuds for separate organizer",
+      "store": "Amazon",
+      "brand": "MOONDROP",
+      "unitPriceUSD": 19.99,
+      "priceLabel": "$19.99",
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "color": "Clear",
+      "verdict": "Best sound-evidence pick",
+      "summary": "",
+      "facts": {
+        "Fabric": "Sealed USB-C DSP; needs organizer",
+        "Delivery": "Advertised Prime Nov 8; non-Prime Nov 11 free on $35 eligible order. Conditional signed-out estimate; not account-confirmed. Shipping/tax total unknown.",
+        "Evidence": "NOT retractable alone. Small clear housings, USB-C DSP, microphone/remote. Pragmatic Audio measurements track Harman closely with low distortion; fit/seal issues, rolled-off treble and muffled microphone noted. Reviewer received a sample. In stock; LEAUDIO, fulfilled Amazon.",
+        "Pairing": "No physical pairing or handset test. Keep inline remote and Y-split outside tight windings."
+      },
+      "materialCaveat": "Prime Nov 8 advertised (conditional)",
+      "attribution": "NOT retractable alone. Small clear housings, USB-C DSP, microphone/remote. Pragmatic Audio measurements track Harman closely with low distortion; fit/seal issues, rolled-off treble and muffled microphone noted. Reviewer received a sample. In stock; LEAUDIO, fulfilled Amazon. Advertised Prime Nov 8; non-Prime Nov 11 free on $35 eligible order. Conditional signed-out estimate; not account-confirmed. Shipping/tax total unknown.",
+      "sources": [
+        "quark2-source",
+        "quark-review"
+      ],
+      "sourceLinks": [
+        "https://www.amazon.com/dp/B0DBLQ4DBD"
+      ],
+      "image": "assets/images/earbuds-quark2-01.webp",
+      "imageAlt": "MOONDROP QUARK 2 USB-C \u2014 image 1",
+      "images": [
+        {
+          "src": "assets/images/earbuds-quark2-01.webp",
+          "alt": "MOONDROP QUARK 2 USB-C \u2014 image 1",
+          "source": "https://m.media-amazon.com/images/I/51qp0FvYpDL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-quark2-02.webp",
+          "alt": "MOONDROP QUARK 2 USB-C \u2014 image 2",
+          "source": "https://m.media-amazon.com/images/I/41eWQNTIDDL._AC_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-quark2-03.webp",
+          "alt": "MOONDROP QUARK 2 USB-C \u2014 image 3",
+          "source": "https://m.media-amazon.com/images/I/61zFWBcuyTL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-quark2-04.webp",
+          "alt": "MOONDROP QUARK 2 USB-C \u2014 image 4",
+          "source": "https://m.media-amazon.com/images/I/611wQdIkaCL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-quark2-05.webp",
+          "alt": "MOONDROP QUARK 2 USB-C \u2014 image 5",
+          "source": "https://m.media-amazon.com/images/I/61KiJ4KZjrL._AC_SL1500_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-quark2-06.webp",
+          "alt": "MOONDROP QUARK 2 USB-C \u2014 image 6",
+          "source": "https://m.media-amazon.com/images/I/51gA0gD7PHL._AC_SL1289_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-quark2-07.webp",
+          "alt": "MOONDROP QUARK 2 USB-C \u2014 image 7",
+          "source": "https://m.media-amazon.com/images/I/514Y-CvYuIL._AC_.jpg"
+        },
+        {
+          "src": "assets/images/earbuds-quark2-08.webp",
+          "alt": "MOONDROP QUARK 2 USB-C \u2014 image 8",
+          "source": "https://m.media-amazon.com/images/I/614ITHYgp8L._AC_SL1303_.jpg"
+        }
+      ],
+      "imageNote": "Retailer product imagery. NOT retractable alone. Small clear housings, USB-C DSP, microphone/remote. Pragmatic Audio measurements track Harman closely with low distortion; fit/seal issues, rolled-off treble and muffled microphone noted. Reviewer received a sample. In stock; LEAUDIO, fulfilled Amazon."
+    },
+    {
+      "id": "bobino-cord-wrap-s",
+      "name": "Bobino Cord Wrap S \u2013 Charcoal Black",
+      "url": "https://www.mybobino.com/products/cord-wrap-small?variant=42469606490359",
+      "category": "Manual organizers",
+      "store": "Bobino",
+      "brand": "Bobino",
+      "unitPriceUSD": 5.29,
+      "priceLabel": "$5.29",
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "color": "Charcoal",
+      "verdict": "Smallest flat wrap",
+      "summary": "",
+      "facts": {
+        "Fabric": "Manual wrap \u00b7 5.5 \u00d7 3.5 \u00d7 0.3 cm",
+        "Delivery": "Arrival and shipping charge not destination-verified. Conflicting site copy: header free US shipping over $10; product section says over $40 and average 2\u20135 business days. Checkout quote required.",
+        "Evidence": "MANUAL WRAP; no spring, no automatic retraction. 3.5 \u00d7 5.5 \u00d7 0.3 cm (manufacturer). Very thin, small separate wrap designed for earbuds; may also shorten excess cord during use. Exact black variant featured image only. Full family gallery retained separately; other-color photos excluded. Complete selected-color gallery not proven.",
+        "Pairing": "No physical pairing or handset test. Keep inline remote and Y-split outside tight windings."
+      },
+      "materialCaveat": "Organizer only; earbuds not included. Delivery quote unverified (conditional)",
+      "attribution": "MANUAL WRAP; no spring, no automatic retraction. 3.5 \u00d7 5.5 \u00d7 0.3 cm (manufacturer). Very thin, small separate wrap designed for earbuds; may also shorten excess cord during use. Exact black variant featured image only. Full family gallery retained separately; other-color photos excluded. Complete selected-color gallery not proven. Arrival and shipping charge not destination-verified. Conflicting site copy: header free US shipping over $10; product section says over $40 and average 2\u20135 business days. Checkout quote required.",
+      "sources": [
+        "bobino-cord-wrap-s-source"
+      ],
+      "sourceLinks": [
+        "https://www.mybobino.com/products/cord-wrap-small?variant=42469606490359"
+      ],
+      "image": "assets/images/earbuds-bobino-cord-wrap-s-01.webp",
+      "imageAlt": "Bobino Cord Wrap S \u2013 Charcoal Black \u2014 image 1",
+      "images": [
+        {
+          "src": "assets/images/earbuds-bobino-cord-wrap-s-01.webp",
+          "alt": "Bobino Cord Wrap S \u2013 Charcoal Black \u2014 image 1",
+          "source": "https://cdn.shopify.com/s/files/1/0628/8755/9415/products/small3.jpg?v=1649929021"
+        }
+      ],
+      "imageNote": "Retailer product imagery. MANUAL WRAP; no spring, no automatic retraction. 3.5 \u00d7 5.5 \u00d7 0.3 cm (manufacturer). Very thin, small separate wrap designed for earbuds; may also shorten excess cord during use. Exact black variant featured image only. Full family gallery retained separately; other-color photos excluded. Complete selected-color gallery not proven."
+    },
+    {
+      "id": "fuse-side-winder-mini",
+      "name": "FUSE Side Winder Mini \u2013 White, 1-pack",
+      "url": "https://fusereel.com/products/side-winder-mini-max-headphone-and-cable-winders?variant=30234862747737",
+      "category": "Manual organizers",
+      "store": "Fuse Reels",
+      "brand": "FUSE",
+      "unitPriceUSD": 5.99,
+      "priceLabel": "$5.99",
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "color": "White",
+      "verdict": "Tiny open spool",
+      "summary": "",
+      "facts": {
+        "Fabric": "Manual spool \u00b7 compact open design",
+        "Delivery": "Arrival and shipping charge not destination-verified. Free US shipping over $50 advertised; single-item shipping calculated at checkout, unknown.",
+        "Evidence": "MANUAL WIND around open donut spool; not spring-loaded. Independent MacRumors review describes a little over one inch wide; exact current manufacturer dimensions not extracted (page uses image-based dimensions).. Small open reel with cable-holding notches; inexpensive but must be wound by hand. Three clearly filename-identified white Mini images; mixed-size/color lifestyle shots and multipacks excluded. Full family gallery retained separately; complete selected-variant gallery not proven.",
+        "Pairing": "No physical pairing or handset test. Keep inline remote and Y-split outside tight windings."
+      },
+      "materialCaveat": "Organizer only; earbuds not included. Delivery quote unverified (conditional)",
+      "attribution": "MANUAL WIND around open donut spool; not spring-loaded. Independent MacRumors review describes a little over one inch wide; exact current manufacturer dimensions not extracted (page uses image-based dimensions).. Small open reel with cable-holding notches; inexpensive but must be wound by hand. Three clearly filename-identified white Mini images; mixed-size/color lifestyle shots and multipacks excluded. Full family gallery retained separately; complete selected-variant gallery not proven. Arrival and shipping charge not destination-verified. Free US shipping over $50 advertised; single-item shipping calculated at checkout, unknown.",
+      "sources": [
+        "fuse-side-winder-mini-source"
+      ],
+      "sourceLinks": [
+        "https://fusereel.com/products/side-winder-mini-max-headphone-and-cable-winders?variant=30234862747737"
+      ],
+      "image": "assets/images/earbuds-fuse-side-winder-mini-01.webp",
+      "imageAlt": "FUSE Side Winder Mini \u2013 White, 1-pack \u2014 image 1",
+      "images": [
+        {
+          "src": "assets/images/earbuds-fuse-side-winder-mini-01.webp",
+          "alt": "FUSE Side Winder Mini \u2013 White, 1-pack \u2014 image 1",
+          "source": "https://cdn.shopify.com/s/files/1/1837/9519/products/SWM-WHTAPPL.png?v=1571331133"
+        },
+        {
+          "src": "assets/images/earbuds-fuse-side-winder-mini-02.webp",
+          "alt": "FUSE Side Winder Mini \u2013 White, 1-pack \u2014 image 2",
+          "source": "https://cdn.shopify.com/s/files/1/1837/9519/products/SWM_WHT_Unwind_Photo.png?v=1574556445"
+        },
+        {
+          "src": "assets/images/earbuds-fuse-side-winder-mini-03.webp",
+          "alt": "FUSE Side Winder Mini \u2013 White, 1-pack \u2014 image 3",
+          "source": "https://cdn.shopify.com/s/files/1/1837/9519/products/SWM_Wound_Photo.png?v=1574556450"
+        }
+      ],
+      "imageNote": "Retailer product imagery. MANUAL WIND around open donut spool; not spring-loaded. Independent MacRumors review describes a little over one inch wide; exact current manufacturer dimensions not extracted (page uses image-based dimensions).. Small open reel with cable-holding notches; inexpensive but must be wound by hand. Three clearly filename-identified white Mini images; mixed-size/color lifestyle shots and multipacks excluded. Full family gallery retained separately; complete selected-variant gallery not proven."
+    }
+  ],
+  "sources": [
+    {
+      "id": "fonus-source",
+      "title": "Fonus USB-C retractable earbuds",
+      "url": "https://www.amazon.com/dp/B0H51BLSC3",
+      "publisher": "Amazon",
+      "accessed": "2026-11-06",
+      "note": "Black in-ear buds; ABS reel; microphone; pull both ends together. No independent acoustic or durability testing found. Universal USB-C claim is seller wording, not device-specific proof. In stock; sold by FONUS Direct, ships Amazon. Advertised Prime Nov 9; non-Prime Nov 12 free on $35 eligible order. Not account-confirmed."
+    },
+    {
+      "id": "sony-source",
+      "title": "Sony IER-EX15C \u00b7 Black",
+      "url": "https://www.amazon.com/dp/B0FMLMGPN9",
+      "publisher": "Amazon",
+      "accessed": "2026-11-06",
+      "note": "USB-C wired, silicone tips, microphone and volume controls. Serrated cord; NOT retractable alone. Manufacturer claims balanced sound; no independent measurement verified. Needs separate organizer. In stock; new unit sold and shipped by Amazon.com. Advertised Prime overnight 7\u201311 AM on eligible orders; non-Prime Nov 11 free on $35 eligible order. Not account-confirmed."
+    },
+    {
+      "id": "ukcoco-source",
+      "title": "UKCOCO automatic cord reels \u00b7 4-pack",
+      "url": "https://www.amazon.com/dp/B07JF2ZSC9",
+      "publisher": "Amazon",
+      "accessed": "2026-11-06",
+      "note": "Fold cable into hook and pull to store, per seller. Thick/long cables may not fit. Inline remote and Y-split clearance with these earbuds is NOT verified. Mixed colors; generic plastic appearance. No earbuds included. In stock, usually dispatches in 4\u20135 days; QSHUFANG seller/shipper. Advertised free Nov 24\u2013Dec 1; too slow for a fast-delivery pick. Tax unknown."
+    },
+    {
+      "id": "cableyoyo-grey-source",
+      "title": "Bluelounge Cableyoyo \u2014 Dark grey",
+      "url": "https://www.amazon.com/dp/B01979RAWK",
+      "publisher": "Amazon",
+      "accessed": "2026-11-06",
+      "note": "Manual winding, NOT automatic. Silicone spool with magnetic center; 2.75-inch diameter. Six remaining. Electriduct Inc, fulfilled Amazon. Gallery includes retailer cross-color demonstration images. Advertised Nov 13; free on $35 eligible order. Conditional signed-out estimate; not account-confirmed. Shipping/tax total unknown."
+    },
+    {
+      "id": "cableyoyo-green-source",
+      "title": "Bluelounge Cableyoyo \u2014 Green",
+      "url": "https://www.amazon.com/dp/B0197A0QG6",
+      "publisher": "Amazon",
+      "accessed": "2026-11-06",
+      "note": "Manual winding, NOT automatic. Silicone spool with magnetic center; 2.75-inch diameter. In stock, Electriduct Inc, fulfilled Amazon. Gallery includes retailer cross-color demonstration images. Advertised Prime Nov 8; non-Prime Nov 11 free on $35 eligible order. Conditional signed-out estimate; not account-confirmed. Shipping/tax total unknown."
+    },
+    {
+      "id": "apple-source",
+      "title": "Apple EarPods USB-C",
+      "url": "https://www.amazon.com/dp/B0DCH8VDXF",
+      "publisher": "Amazon",
+      "accessed": "2026-11-06",
+      "note": "NOT retractable alone. White open-fit earbuds; microphone/remote. SoundGuys testing found weak bass, little isolation and fit inconsistency. Phone compatibility varies. In stock, sold and shipped Amazon.com. Advertised Prime overnight 7\u201311 AM on eligible orders; non-Prime Nov 11 free on $35 eligible order. Conditional signed-out estimate; not account-confirmed. Shipping/tax total unknown."
+    },
+    {
+      "id": "quark2-source",
+      "title": "MOONDROP QUARK 2 USB-C",
+      "url": "https://www.amazon.com/dp/B0DBLQ4DBD",
+      "publisher": "Amazon",
+      "accessed": "2026-11-06",
+      "note": "NOT retractable alone. Small clear housings, USB-C DSP, microphone/remote. Pragmatic Audio measurements track Harman closely with low distortion; fit/seal issues, rolled-off treble and muffled microphone noted. Reviewer received a sample. In stock; LEAUDIO, fulfilled Amazon. Advertised Prime Nov 8; non-Prime Nov 11 free on $35 eligible order. Conditional signed-out estimate; not account-confirmed. Shipping/tax total unknown."
+    },
+    {
+      "id": "bobino-cord-wrap-s-source",
+      "title": "Bobino Cord Wrap S \u2013 Charcoal Black",
+      "url": "https://www.mybobino.com/products/cord-wrap-small?variant=42469606490359",
+      "publisher": "Bobino",
+      "accessed": "2026-11-06",
+      "note": "MANUAL WRAP; no spring, no automatic retraction. 3.5 \u00d7 5.5 \u00d7 0.3 cm (manufacturer). Very thin, small separate wrap designed for earbuds; may also shorten excess cord during use. Exact black variant featured image only. Full family gallery retained separately; other-color photos excluded. Complete selected-color gallery not proven. Arrival and shipping charge not destination-verified. Conflicting site copy: header free US shipping over $10; product section says over $40 and average 2\u20135 business days. Checkout quote required."
+    },
+    {
+      "id": "fuse-side-winder-mini-source",
+      "title": "FUSE Side Winder Mini \u2013 White, 1-pack",
+      "url": "https://fusereel.com/products/side-winder-mini-max-headphone-and-cable-winders?variant=30234862747737",
+      "publisher": "Fuse Reels",
+      "accessed": "2026-11-06",
+      "note": "MANUAL WIND around open donut spool; not spring-loaded. Independent MacRumors review describes a little over one inch wide; exact current manufacturer dimensions not extracted (page uses image-based dimensions).. Small open reel with cable-holding notches; inexpensive but must be wound by hand. Three clearly filename-identified white Mini images; mixed-size/color lifestyle shots and multipacks excluded. Full family gallery retained separately; complete selected-variant gallery not proven. Arrival and shipping charge not destination-verified. Free US shipping over $50 advertised; single-item shipping calculated at checkout, unknown."
+    },
+    {
+      "id": "quark-review",
+      "title": "Independent listening & measurements",
+      "url": "https://www.pragmaticaudio.com/reviews/2024/08/moondrop-quark2-review/",
+      "publisher": "Pragmatic Audio",
+      "accessed": "2026-11-06",
+      "note": "Reviewed acoustic evidence; not our own physical test."
+    },
+    {
+      "id": "apple-review",
+      "title": "Independent listening & measurements",
+      "url": "https://www.soundguys.com/apple-earpods-usb-c-review-105861/",
+      "publisher": "SoundGuys",
+      "accessed": "2026-11-06",
+      "note": "Reviewed acoustic evidence; not our own physical test."
+    }
+  ],
+  "caveat": "No premium built-in retractable USB-C model with convincing sound evidence found in this bounded search.",
+  "evidenceNote": "Prices are item or minimum pack costs. Independent tests are linked; seller claims are not lab results."
+}
