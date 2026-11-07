@@ -1,26 +1,26 @@
 {
-  "checkedAt": "2026-11-07T23:28:59.587800+00:00",
+  "checkedAt": "2026-11-07T23:37:47.333647+00:00",
   "summary": "Year-round monitor. Site discovery twice daily; newsletter review hourly. Qualified refresh every four hours in November. Coverage remains partial; blocked or unreviewed merchants are not zero-result claims.",
   "coverage": [
     {
       "merchant": "SCRT",
       "status": "Initial native sale grid (118 advertised items) and first 250 feed products; exact-size US/material review incomplete; later pages unreviewed",
-      "newsletter": "existing_newsletter_verified"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Industry of All Nations",
       "status": "Native archive listing and 151-product feed inspected; natural-cotton S sale leads retained privately; exact selected stock/gallery audit incomplete",
-      "newsletter": "existing_newsletter_verified"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Yitai",
       "status": "Native first 16/76 shop-all grid and 78-product feed; 6 registered exact variants freshly reverified; remaining sale leads unreviewed",
-      "newsletter": "newsletter_receipt_verified"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Sandro",
       "status": "Initial 32/287 sale grid; 2 exact S cotton variants verified, full galleries captured and appended; remaining pagination unreviewed",
-      "newsletter": "submitted_pending_verification"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Abercrombie",
@@ -30,92 +30,92 @@
     {
       "merchant": "Helmut Lang",
       "status": "Catalog blocked; no inventory conclusions; Native men's sale route attempted; no product inventory reviewed",
-      "newsletter": "not_submitted"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Études",
       "status": "Guessed sale category 404; homepage recovery found no sale link; first 250 feed products expose sale leads, exact US/S checks incomplete",
-      "newsletter": "submitted_pending_verification"
+      "newsletter": "submitted_pending_confirmation"
     },
     {
       "merchant": "SSENSE",
       "status": "Catalog blocked; no inventory conclusions; US men's sale route attempted; no product inventory reviewed",
-      "newsletter": "not_submitted"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Carhartt",
       "status": "Native men's initial sale grid reviewed; two inspected products rejected for synthetic main fabric; {\"retailer_mens_total\": 108, \"unique_product_urls_in_initial_main_dom\": 27, \"count_caveat\": \"DOM link count includes all product links in main, not asserted to equal 27 audited grid cards\", \"exact_product_pages_reviewed\": 2, \"pagination\": \"No See 24 More follow-up\"}",
-      "newsletter": "not_submitted"
+      "newsletter": "blocked_failed"
     },
     {
       "merchant": "Carhartt WIP",
       "status": "Native US men-sale category rendered empty with unrelated recommendations; feed 404; category validity and broader sale inventory unresolved",
-      "newsletter": "newsletter_receipt_verified"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Saks Fifth Avenue",
       "status": "Catalog blocked; no inventory conclusions; Native men's sale route attempted; no product inventory reviewed",
-      "newsletter": "submitted_pending_verification"
+      "newsletter": "submitted_pending_confirmation"
     },
     {
       "merchant": "PRM",
       "status": "Catalog blocked; no inventory conclusions; US men's sale route attempted; no product inventory reviewed",
-      "newsletter": "newsletter_receipt_verified"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "The Frankie Shop",
       "status": "Native mens-sale page explicitly says sale is over; first 250 feed products have no matching markdown S/W30 leads; remaining catalog/conditional offers unreviewed",
-      "newsletter": "not_submitted"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Yohji Yamamoto",
       "status": "Bounded Ground Y catalog page/feed reviewed, no actual markdowns in the first 50 feed products; not all brands or all catalogs; {\"collection\": \"Ground Y only\", \"feed_page\": 1, \"feed_limit\": 50, \"products_inspected_for_price_and_variant_fields\": 50, \"markdown_products_in_bounded_feed\": 0, \"exact_product_detail_pages_reviewed\": 0, \"sale_navigation\": \"No sale/outlet text or href links found in this rendered collection DOM\"}",
-      "newsletter": "submitted_pending_verification"
+      "newsletter": "submitted_pending_confirmation"
     },
     {
       "merchant": "ASKET",
       "status": "promising_sale_leads_size_unresolved; Men's collection landing page and men's archive native HTML reviewed; four exact archive color/product pages inspected for sale, material, US locale and shipping. Two also captured as rendered pages. Size-selection attempted on all four, not completed. No full inventory or other-color audit.",
-      "newsletter": "not_submitted"
+      "newsletter": "blocked_failed"
     },
     {
       "merchant": "COS",
       "status": "blocked_not_zero_inventory; One native US men's sale route attempted via HTTP and isolated Chromium; no products rendered.",
-      "newsletter": "newsletter_receipt_verified"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "ARKET",
       "status": "blocked_us_eligibility_unresolved; One native men's sale route attempted via HTTP and isolated Chromium; no products rendered.",
-      "newsletter": "not_submitted"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "A.P.C.",
       "status": "Guessed men-sale category 404; homepage sale-text recovery reached terms-of-sale, not a catalog; first 250 feed products no matching markdown leads; native sale/catalog gap remains",
-      "newsletter": "not_submitted"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Massimo Dutti",
       "status": "empty_http_then_browser_blocked; One candidate US men's special-prices route attempted. Route identity not confirmed because HTTP body was empty and browser blocked.",
-      "newsletter": "newsletter_receipt_verified"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Hawes & Curtis",
       "status": "sale_leads_size_unresolved; Initial guessed sale URL 404; recovered current sale routes from isolated-rendered homepage navigation. Reviewed first knitwear-sale page only (page 2/Next visible). Two exact non-polo sweaters opened in fresh isolated browsers. Small selection attempted but cookie overlay intercepted clicks.",
-      "newsletter": "submitted_pending_verification"
+      "newsletter": "submitted_pending_confirmation"
     },
     {
       "merchant": "Arc’teryx",
       "status": "one_material_rejection_rest_unreviewed; Native men's outlet first HTML batch inspected; heading reports 108 items but only initial exposed product cards reviewed. One exact Ionia merino shirt product inspected.",
-      "newsletter": "not_submitted"
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "lululemon",
       "status": "blocked_not_zero_inventory; Native men's We Made Too Much route attempted via HTTP and isolated Chromium.",
-      "newsletter": "not_submitted"
+      "newsletter": "blocked_failed"
     },
     {
       "merchant": "Rains",
       "status": "bounded_regular_price_catalog_no_confirmed_sale; Guessed sale collection returned404; recovered native men's T-shirts collection from navigation. Reviewed exposed category cards only; no exact products opened because no markdown visible.",
-      "newsletter": "not_submitted"
+      "newsletter": "inbox_confirmed"
     }
   ]
 }
