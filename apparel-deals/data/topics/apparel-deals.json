@@ -1,0 +1,468 @@
+{
+  "id": "apparel-deals",
+  "title": "Refined Apparel Deals",
+  "layout": "natural-basics",
+  "catalog": true,
+  "defaultSort": "price",
+  "defaultCollection": "qualified",
+  "collectionTabs": [
+    {
+      "id": "qualified",
+      "label": "Qualified deals"
+    },
+    {
+      "id": "near",
+      "label": "Sizing near matches"
+    }
+  ],
+  "summary": "",
+  "updated": "2026-11-07T22:36:03.248688+00:00",
+  "recommendation": {},
+  "showCollectionNotes": true,
+  "caveat": "Under $200 before shipping/tax. Tops S; trousers W30 × L32. Natural main fabric only; declared synthetic linings excluded. Final sale and conditional discounts flagged. Prices and stock can change.",
+  "evidenceNote": "Bounded coverage, not comprehensive: SCRT: Bounded feed retrieved; exact sale candidates still require US/size/material review; Industry of All Nations: Bounded feed retrieved; exact sale candidates still require US/size/material review; Yitai: 6 exact variants reviewed; remaining catalog not reviewed; Sandro: Homepage reached; apparel-sale inventory not reviewed; Abercrombie: Homepage reached; apparel-sale inventory not reviewed; Helmut Lang: Homepage reached; apparel-sale inventory not reviewed; Études: Bounded feed retrieved; exact sale candidates still require US/size/material review; SSENSE: HTTP 403; rendered homepage blocked; Carhartt: Homepage reached; apparel-sale inventory not reviewed; Carhartt WIP: Homepage reached; apparel-sale inventory not reviewed; Saks Fifth Avenue: Homepage reached; apparel-sale inventory not reviewed; PRM: Homepage reached; apparel-sale inventory not reviewed; The Frankie Shop: Bounded feed retrieved; exact sale candidates still require US/size/material review; Yohji Yamamoto: Homepage reached; apparel-sale inventory not reviewed; ASKET: Homepage reached; apparel-sale inventory not reviewed; COS: Homepage reached; apparel-sale inventory not reviewed; ARKET: Worldwide selector; US shipping not established (prior US unavailable); not qualified; A.P.C.: Bounded feed retrieved; exact sale candidates still require US/size/material review; Massimo Dutti: Homepage reached; apparel-sale inventory not reviewed; Hawes & Curtis: Homepage reached; apparel-sale inventory not reviewed; Arc’teryx: Homepage reached; apparel-sale inventory not reviewed; lululemon: Homepage reached; apparel-sale inventory not reviewed; Rains: Homepage reached; apparel-sale inventory not reviewed",
+  "products": [
+    {
+      "brand": "Yitai",
+      "category": "Sweater",
+      "color": "Ecru",
+      "deal": "$70 (was $100) · Returns: store credit only within 14 days",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$70 before shipping/tax",
+        "Returns": "14-day store-credit returns",
+        "Size": "S",
+        "Stock": "In stock; immediate shipping"
+      },
+      "id": "deal-yitai-47941452464358",
+      "image": "assets/images/deal-yitai-waffle-henley-ecru-1.webp",
+      "imageAlt": "Waffle Henley - Ecru — retailer photo 1",
+      "imageNote": "Exact product gallery from retailer.",
+      "images": [
+        {
+          "alt": "Waffle Henley - Ecru — retailer photo 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/WaffleHenley_Ecru_74272b46-1c26-4709-9884-a1145b2aac68.jpg?v=1785000411",
+          "src": "assets/images/deal-yitai-waffle-henley-ecru-1.webp"
+        },
+        {
+          "alt": "Waffle Henley - Ecru — retailer photo 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/WaffleHenley_Ecru-1_7bf02677-494a-4248-b0b2-e9e0b4a8b05f.jpg?v=1784908918",
+          "src": "assets/images/deal-yitai-waffle-henley-ecru-2.webp"
+        },
+        {
+          "alt": "Waffle Henley - Ecru — retailer photo 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/WaffleHenley_Ecru.jpg?v=1784831183",
+          "src": "assets/images/deal-yitai-waffle-henley-ecru-3.webp"
+        },
+        {
+          "alt": "Waffle Henley - Ecru — retailer photo 4",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/WaffleHenley_Ecru-3.jpg?v=1784831183",
+          "src": "assets/images/deal-yitai-waffle-henley-ecru-4.webp"
+        },
+        {
+          "alt": "Waffle Henley - Ecru — retailer photo 5",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/WaffleHenley_Ecru-4.jpg?v=1784831183",
+          "src": "assets/images/deal-yitai-waffle-henley-ecru-5.webp"
+        },
+        {
+          "alt": "Waffle Henley - Ecru — retailer photo 6",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/WaffleHenley_Ecru-2.jpg?v=1784831183",
+          "src": "assets/images/deal-yitai-waffle-henley-ecru-6.webp"
+        },
+        {
+          "alt": "Waffle Henley - Ecru — retailer photo 7",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/WaffleHenley_Ecru-5.jpg?v=1784831183",
+          "src": "assets/images/deal-yitai-waffle-henley-ecru-7.webp"
+        }
+      ],
+      "integrityRank": 100,
+      "materialCaveat": "Mother-of-pearl buttons; other trims not specified.",
+      "name": "Waffle Henley - Ecru",
+      "naturalPercent": 100,
+      "store": "Yitai",
+      "summary": "",
+      "url": "https://www.yitai.la/products/waffle-henley-ecru?variant=47941452464358",
+      "verdict": "Verified deal",
+      "unitPriceUSD": 70.0,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-07T22:35:51.771528+00:00",
+      "addedAt": "2026-11-07T22:33:14.906685+00:00",
+      "sources": [
+        "deal-yitai-47941452464358"
+      ]
+    },
+    {
+      "brand": "Yitai",
+      "category": "Jeans",
+      "color": "Light Wash",
+      "deal": "$130 (was $160) · Returns: store credit only within 14 days",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$130 before shipping/tax",
+        "Returns": "14-day store-credit returns",
+        "Size": "30x32",
+        "Stock": "In stock; immediate shipping"
+      },
+      "id": "deal-yitai-48374349070566",
+      "image": "assets/images/deal-yitai-light-wash-slub-selvedge-straight-leg-denim-1.webp",
+      "imageAlt": "Light Wash Slub Selvedge Denim — retailer photo 1",
+      "imageNote": "Exact product gallery from retailer.",
+      "images": [
+        {
+          "alt": "Light Wash Slub Selvedge Denim — retailer photo 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame166_63eca747-d67b-485d-8115-dee1d03c7115.png?v=1789629037",
+          "src": "assets/images/deal-yitai-light-wash-slub-selvedge-straight-leg-denim-1.webp"
+        },
+        {
+          "alt": "Light Wash Slub Selvedge Denim — retailer photo 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame168_8fba473a-6843-465e-8f09-bae01eed4cd0.png?v=1789629037",
+          "src": "assets/images/deal-yitai-light-wash-slub-selvedge-straight-leg-denim-2.webp"
+        },
+        {
+          "alt": "Light Wash Slub Selvedge Denim — retailer photo 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame170_2764946f-0df5-4b20-a94d-e85c36b55160.png?v=1789629037",
+          "src": "assets/images/deal-yitai-light-wash-slub-selvedge-straight-leg-denim-3.webp"
+        },
+        {
+          "alt": "Light Wash Slub Selvedge Denim — retailer photo 4",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame172_8aa4c980-a26d-4d82-ac1a-2c03e753af48.png?v=1789629037",
+          "src": "assets/images/deal-yitai-light-wash-slub-selvedge-straight-leg-denim-4.webp"
+        },
+        {
+          "alt": "Light Wash Slub Selvedge Denim — retailer photo 5",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame_178.png?v=1789629768",
+          "src": "assets/images/deal-yitai-light-wash-slub-selvedge-straight-leg-denim-5.webp"
+        },
+        {
+          "alt": "Light Wash Slub Selvedge Denim — retailer photo 6",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame_177.png?v=1789684231",
+          "src": "assets/images/deal-yitai-light-wash-slub-selvedge-straight-leg-denim-6.webp"
+        }
+      ],
+      "integrityRank": 100,
+      "materialCaveat": "Hardware and other trims not fully specified.",
+      "name": "Light Wash Slub Selvedge Denim",
+      "naturalPercent": 100,
+      "store": "Yitai",
+      "summary": "",
+      "url": "https://www.yitai.la/products/light-wash-slub-selvedge-straight-leg-denim?variant=48374349070566",
+      "verdict": "Verified deal",
+      "unitPriceUSD": 130.0,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-07T22:35:49.456173+00:00",
+      "addedAt": "2026-11-07T22:33:07.133365+00:00",
+      "sources": [
+        "deal-yitai-48374349070566"
+      ]
+    },
+    {
+      "brand": "Yitai",
+      "category": "Sweater",
+      "color": "Multicolor",
+      "deal": "$100 (was $160) · Final sale; no returns or exchanges",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$100 before shipping/tax",
+        "Returns": "Final sale",
+        "Size": "S",
+        "Stock": "In stock; immediate shipping"
+      },
+      "id": "deal-yitai-46875803975910",
+      "image": "assets/images/deal-yitai-water-lilies-sweater-1.webp",
+      "imageAlt": "Water Lilies Sweater — retailer photo 1",
+      "imageNote": "Exact product gallery from retailer.",
+      "images": [
+        {
+          "alt": "Water Lilies Sweater — retailer photo 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame1_ecb66239-1b5a-4aa7-9695-ee4a34ca805e.png?v=1776382209",
+          "src": "assets/images/deal-yitai-water-lilies-sweater-1.webp"
+        },
+        {
+          "alt": "Water Lilies Sweater — retailer photo 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2_cd341b07-95f9-4d02-a9b9-861324d29ae2.png?v=1776382209",
+          "src": "assets/images/deal-yitai-water-lilies-sweater-2.webp"
+        },
+        {
+          "alt": "Water Lilies Sweater — retailer photo 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame3_1392a8a2-72dd-44dc-bced-1791068bedee.png?v=1776382209",
+          "src": "assets/images/deal-yitai-water-lilies-sweater-3.webp"
+        },
+        {
+          "alt": "Water Lilies Sweater — retailer photo 4",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame4_4d6568b5-1712-4288-b638-d17bb40b8b21.png?v=1776382209",
+          "src": "assets/images/deal-yitai-water-lilies-sweater-4.webp"
+        },
+        {
+          "alt": "Water Lilies Sweater — retailer photo 5",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame5.png?v=1776382209",
+          "src": "assets/images/deal-yitai-water-lilies-sweater-5.webp"
+        },
+        {
+          "alt": "Water Lilies Sweater — retailer photo 6",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame6_592be591-6c7d-40df-bdda-a1b315e03280.png?v=1776382209",
+          "src": "assets/images/deal-yitai-water-lilies-sweater-6.webp"
+        },
+        {
+          "alt": "Water Lilies Sweater — retailer photo 7",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame8.png?v=1776382209",
+          "src": "assets/images/deal-yitai-water-lilies-sweater-7.webp"
+        }
+      ],
+      "integrityRank": 100,
+      "materialCaveat": "Embroidery/ribbed trims not separately specified.",
+      "name": "Water Lilies Sweater",
+      "naturalPercent": 100,
+      "store": "Yitai",
+      "summary": "",
+      "url": "https://www.yitai.la/products/water-lilies-sweater?variant=46875803975910",
+      "verdict": "Verified deal",
+      "unitPriceUSD": 100.0,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-07T22:35:54.208337+00:00",
+      "addedAt": "2026-11-07T22:33:22.394577+00:00",
+      "sources": [
+        "deal-yitai-46875803975910"
+      ]
+    },
+    {
+      "brand": "Yitai",
+      "category": "Sweater",
+      "color": "Multicolor",
+      "deal": "$100 (was $160) · Final sale; no returns or exchanges",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$100 before shipping/tax",
+        "Returns": "Final sale",
+        "Size": "S",
+        "Stock": "In stock; immediate shipping"
+      },
+      "id": "deal-yitai-46875837530342",
+      "image": "assets/images/deal-yitai-golden-gate-embroidery-sweater-1.webp",
+      "imageAlt": "Golden Gate Embroidery Sweater — retailer photo 1",
+      "imageNote": "Exact product gallery from retailer.",
+      "images": [
+        {
+          "alt": "Golden Gate Embroidery Sweater — retailer photo 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330195.jpg?v=1768099830",
+          "src": "assets/images/deal-yitai-golden-gate-embroidery-sweater-1.webp"
+        },
+        {
+          "alt": "Golden Gate Embroidery Sweater — retailer photo 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330198.jpg?v=1768586271",
+          "src": "assets/images/deal-yitai-golden-gate-embroidery-sweater-2.webp"
+        },
+        {
+          "alt": "Golden Gate Embroidery Sweater — retailer photo 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330197.jpg?v=1768586271",
+          "src": "assets/images/deal-yitai-golden-gate-embroidery-sweater-3.webp"
+        },
+        {
+          "alt": "Golden Gate Embroidery Sweater — retailer photo 4",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330199.jpg?v=1768586271",
+          "src": "assets/images/deal-yitai-golden-gate-embroidery-sweater-4.webp"
+        },
+        {
+          "alt": "Golden Gate Embroidery Sweater — retailer photo 5",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330196.jpg?v=1768100079",
+          "src": "assets/images/deal-yitai-golden-gate-embroidery-sweater-5.webp"
+        }
+      ],
+      "integrityRank": 100,
+      "materialCaveat": "Embroidery/ribbed trims not separately specified.",
+      "name": "Golden Gate Embroidery Sweater",
+      "naturalPercent": 100,
+      "store": "Yitai",
+      "summary": "",
+      "url": "https://www.yitai.la/products/golden-gate-embroidery-sweater?variant=46875837530342",
+      "verdict": "Verified deal",
+      "unitPriceUSD": 100.0,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-07T22:36:02.603721+00:00",
+      "addedAt": "2026-11-07T22:33:38.408017+00:00",
+      "sources": [
+        "deal-yitai-46875837530342"
+      ]
+    },
+    {
+      "brand": "Yitai",
+      "category": "Sweater",
+      "color": "Multicolor",
+      "deal": "$100 (was $160) · Final sale; no returns or exchanges",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$100 before shipping/tax",
+        "Returns": "Final sale",
+        "Size": "S",
+        "Stock": "In stock; immediate shipping"
+      },
+      "id": "deal-yitai-46875779399910",
+      "image": "assets/images/deal-yitai-tokyo-embroidery-sweater-1.webp",
+      "imageAlt": "Tokyo Embroidery Sweater — retailer photo 1",
+      "imageNote": "Exact product gallery from retailer.",
+      "images": [
+        {
+          "alt": "Tokyo Embroidery Sweater — retailer photo 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330186.jpg?v=1768099663",
+          "src": "assets/images/deal-yitai-tokyo-embroidery-sweater-1.webp"
+        },
+        {
+          "alt": "Tokyo Embroidery Sweater — retailer photo 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330188.jpg?v=1768099683",
+          "src": "assets/images/deal-yitai-tokyo-embroidery-sweater-2.webp"
+        },
+        {
+          "alt": "Tokyo Embroidery Sweater — retailer photo 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330189.jpg?v=1768099683",
+          "src": "assets/images/deal-yitai-tokyo-embroidery-sweater-3.webp"
+        },
+        {
+          "alt": "Tokyo Embroidery Sweater — retailer photo 4",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330190.jpg?v=1768099683",
+          "src": "assets/images/deal-yitai-tokyo-embroidery-sweater-4.webp"
+        },
+        {
+          "alt": "Tokyo Embroidery Sweater — retailer photo 5",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330187.jpg?v=1768099683",
+          "src": "assets/images/deal-yitai-tokyo-embroidery-sweater-5.webp"
+        }
+      ],
+      "integrityRank": 100,
+      "materialCaveat": "Embroidery/ribbed trims not separately specified.",
+      "name": "Tokyo Embroidery Sweater",
+      "naturalPercent": 100,
+      "store": "Yitai",
+      "summary": "",
+      "url": "https://www.yitai.la/products/tokyo-embroidery-sweater?variant=46875779399910",
+      "verdict": "Verified deal",
+      "unitPriceUSD": 100.0,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-07T22:35:56.928618+00:00",
+      "addedAt": "2026-11-07T22:33:28.853712+00:00",
+      "sources": [
+        "deal-yitai-46875779399910"
+      ]
+    },
+    {
+      "brand": "Yitai",
+      "category": "Sweater",
+      "color": "Multicolor",
+      "deal": "$100 (was $160) · Final sale; no returns or exchanges",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Price": "$100 before shipping/tax",
+        "Returns": "Final sale",
+        "Size": "S",
+        "Stock": "In stock; immediate shipping"
+      },
+      "id": "deal-yitai-46431973867750",
+      "image": "assets/images/deal-yitai-mexico-city-sweater-1.webp",
+      "imageAlt": "Mexico City Sweater — retailer photo 1",
+      "imageNote": "Exact product gallery from retailer.",
+      "images": [
+        {
+          "alt": "Mexico City Sweater — retailer photo 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330191.jpg?v=1768099858",
+          "src": "assets/images/deal-yitai-mexico-city-sweater-1.webp"
+        },
+        {
+          "alt": "Mexico City Sweater — retailer photo 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330194.jpg?v=1768099873",
+          "src": "assets/images/deal-yitai-mexico-city-sweater-2.webp"
+        },
+        {
+          "alt": "Mexico City Sweater — retailer photo 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330193.jpg?v=1768099873",
+          "src": "assets/images/deal-yitai-mexico-city-sweater-3.webp"
+        },
+        {
+          "alt": "Mexico City Sweater — retailer photo 4",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1788/3057/files/Frame2131330192.jpg?v=1768099873",
+          "src": "assets/images/deal-yitai-mexico-city-sweater-4.webp"
+        }
+      ],
+      "integrityRank": 100,
+      "materialCaveat": "Embroidery/ribbed trims not separately specified.",
+      "name": "Mexico City Sweater",
+      "naturalPercent": 100,
+      "store": "Yitai",
+      "summary": "",
+      "url": "https://www.yitai.la/products/mexico-city-sweater?variant=46431973867750",
+      "verdict": "Verified deal",
+      "unitPriceUSD": 100.0,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-07T22:35:59.630420+00:00",
+      "addedAt": "2026-11-07T22:33:34.468072+00:00",
+      "sources": [
+        "deal-yitai-46431973867750"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "deal-yitai-47941452464358",
+      "title": "Waffle Henley - Ecru — selected retailer variant",
+      "url": "https://www.yitai.la/products/waffle-henley-ecru?variant=47941452464358",
+      "type": "First-party retailer",
+      "accessed": "2026-11-07",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    },
+    {
+      "id": "deal-yitai-48374349070566",
+      "title": "Light Wash Slub Selvedge Denim — selected retailer variant",
+      "url": "https://www.yitai.la/products/light-wash-slub-selvedge-straight-leg-denim?variant=48374349070566",
+      "type": "First-party retailer",
+      "accessed": "2026-11-07",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    },
+    {
+      "id": "deal-yitai-46875803975910",
+      "title": "Water Lilies Sweater — selected retailer variant",
+      "url": "https://www.yitai.la/products/water-lilies-sweater?variant=46875803975910",
+      "type": "First-party retailer",
+      "accessed": "2026-11-07",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    },
+    {
+      "id": "deal-yitai-46875837530342",
+      "title": "Golden Gate Embroidery Sweater — selected retailer variant",
+      "url": "https://www.yitai.la/products/golden-gate-embroidery-sweater?variant=46875837530342",
+      "type": "First-party retailer",
+      "accessed": "2026-11-07",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    },
+    {
+      "id": "deal-yitai-46875779399910",
+      "title": "Tokyo Embroidery Sweater — selected retailer variant",
+      "url": "https://www.yitai.la/products/tokyo-embroidery-sweater?variant=46875779399910",
+      "type": "First-party retailer",
+      "accessed": "2026-11-07",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    },
+    {
+      "id": "deal-yitai-46431973867750",
+      "title": "Mexico City Sweater — selected retailer variant",
+      "url": "https://www.yitai.la/products/mexico-city-sweater?variant=46431973867750",
+      "type": "First-party retailer",
+      "accessed": "2026-11-07",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    }
+  ]
+}

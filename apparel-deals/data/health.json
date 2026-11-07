@@ -1,0 +1,144 @@
+{
+  "checkedAt": "2026-11-07T22:36:03.312704+00:00",
+  "summary": "Year-round monitor. Site discovery twice daily; newsletter review hourly. Qualified refresh every four hours in November. Coverage remains partial; blocked or unreviewed merchants are not zero-result claims.",
+  "coverage": [
+    {
+      "merchant": "SCRT",
+      "status": "Bounded feed retrieved; exact sale candidates still require US/size/material review",
+      "newsletter": "existing_newsletter_verified",
+      "source": "https://scrt.onl"
+    },
+    {
+      "merchant": "Industry of All Nations",
+      "status": "Bounded feed retrieved; exact sale candidates still require US/size/material review",
+      "newsletter": "existing_newsletter_verified",
+      "source": "https://industryofallnations.com/"
+    },
+    {
+      "merchant": "Yitai",
+      "status": "6 exact variants reviewed; remaining catalog not reviewed",
+      "newsletter": "submitted_pending_verification",
+      "source": "https://www.yitai.la/"
+    },
+    {
+      "merchant": "Sandro",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "submitted_pending_verification",
+      "source": "https://us.sandro-paris.com/"
+    },
+    {
+      "merchant": "Abercrombie",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "not_submitted",
+      "source": "https://www.abercrombie.com"
+    },
+    {
+      "merchant": "Helmut Lang",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "not_submitted",
+      "source": "https://www.helmutlang.com/"
+    },
+    {
+      "merchant": "Études",
+      "status": "Bounded feed retrieved; exact sale candidates still require US/size/material review",
+      "newsletter": "submitted_pending_verification",
+      "source": "https://www.etudes-studio.com/"
+    },
+    {
+      "merchant": "SSENSE",
+      "status": "HTTP 403; rendered homepage blocked",
+      "newsletter": "not_submitted",
+      "source": "https://www.ssense.com/"
+    },
+    {
+      "merchant": "Carhartt",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "not_submitted",
+      "source": "https://www.carhartt.com/"
+    },
+    {
+      "merchant": "Carhartt WIP",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "not_submitted",
+      "source": "https://www.carhartt.com/"
+    },
+    {
+      "merchant": "Saks Fifth Avenue",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "submitted_pending_verification",
+      "source": "https://www.saksfifthavenue.com/"
+    },
+    {
+      "merchant": "PRM",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "site_acknowledged",
+      "source": "https://prm.com/"
+    },
+    {
+      "merchant": "The Frankie Shop",
+      "status": "Bounded feed retrieved; exact sale candidates still require US/size/material review",
+      "newsletter": "not_submitted",
+      "source": "https://thefrankieshop.com/"
+    },
+    {
+      "merchant": "Yohji Yamamoto",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "not_submitted",
+      "source": "https://theshopyohjiyamamoto.com/"
+    },
+    {
+      "merchant": "ASKET",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "not_submitted",
+      "source": "https://www.asket.com/"
+    },
+    {
+      "merchant": "COS",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "not_submitted",
+      "source": "https://www.cos.com/"
+    },
+    {
+      "merchant": "ARKET",
+      "status": "Worldwide selector; US shipping not established (prior US unavailable); not qualified",
+      "newsletter": "not_submitted",
+      "source": "https://www.arket.com/"
+    },
+    {
+      "merchant": "A.P.C.",
+      "status": "Bounded feed retrieved; exact sale candidates still require US/size/material review",
+      "newsletter": "not_submitted",
+      "source": "https://www.apc-us.com/"
+    },
+    {
+      "merchant": "Massimo Dutti",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "not_submitted",
+      "source": "https://www.massimodutti.com/"
+    },
+    {
+      "merchant": "Hawes & Curtis",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "submitted_pending_verification",
+      "source": "https://www.hawesandcurtis.com/"
+    },
+    {
+      "merchant": "Arc’teryx",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "not_submitted",
+      "source": "https://arcteryx.com/"
+    },
+    {
+      "merchant": "lululemon",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "not_submitted",
+      "source": "https://shop.lululemon.com/"
+    },
+    {
+      "merchant": "Rains",
+      "status": "Homepage reached; apparel-sale inventory not reviewed",
+      "newsletter": "not_submitted",
+      "source": "https://www.au.rains.com/"
+    }
+  ]
+}
