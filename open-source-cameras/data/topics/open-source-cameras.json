@@ -1,0 +1,287 @@
+{
+  "id": "open-source-cameras",
+  "title": "Published-design film cameras",
+  "summary": "Easy shooting first. Two ready-made instant configurations and one simple 120-film DIY project. Lowest verified complete-camera prices first; unknown build totals last.",
+  "updated": "2026-11-07",
+  "layout": "natural-basics",
+  "catalog": true,
+  "cameraCatalog": true,
+  "defaultSort": "price",
+  "recommendation": {},
+  "products": [
+    {
+      "id": "bfc-original",
+      "name": "SX-70 Original + OpenSX70",
+      "store": "Brooklyn Film Camera",
+      "url": "https://brooklynfilmcamera.com/products/polaroid-sx-70-original-black?variant=46790072533164",
+      "category": "Instant film",
+      "unitPriceUSD": 540,
+      "priceLabel": "US$540 · assembled, lens included",
+      "priceBasis": "Current US storefront camera price; excludes film, shipping and tax.",
+      "shooting": "Easy · turn the focus wheel, then press the shutter. Exposure and film ejection are automatic.",
+      "build": "None when bought assembled. DIY board installation is expert repair work.",
+      "openness": "Partial · published replacement electronics; proprietary donor camera. Exact BFC V2 revision not independently matched.",
+      "film": "Polaroid SX-70 or 600 · not i-Type",
+      "availability": "Available in the verified configuration",
+      "verdict": "Ready to shoot after loading film",
+      "summary": "",
+      "deal": "No verified discount",
+      "image": "assets/images/camera-bfc-original-1.webp",
+      "imageAlt": "SX-70 Original + OpenSX70 — chrome / black leather; retailer view 1",
+      "images": [
+        {
+          "src": "assets/images/camera-bfc-original-1.webp",
+          "alt": "SX-70 Original + OpenSX70 — chrome / black leather; retailer view 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0575/8638/5068/files/Polaroid_SX70_Chrome_Black.png?v=1784154263"
+        },
+        {
+          "src": "assets/images/camera-bfc-original-2.webp",
+          "alt": "SX-70 Original + OpenSX70 — chrome / black leather; retailer view 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0575/8638/5068/files/Polaroid_SX70_Chrome_Black_2.png?v=1784175789"
+        },
+        {
+          "src": "assets/images/camera-bfc-original-3.webp",
+          "alt": "SX-70 Original + OpenSX70 — chrome / black leather; retailer view 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0575/8638/5068/files/Polaroid_SX70_Chrome_Black_1.png?v=1784167107"
+        },
+        {
+          "src": "assets/images/camera-bfc-original-9.webp",
+          "alt": "SX-70 Original + OpenSX70 — chrome / black leather; retailer view 9",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0575/8638/5068/files/Polaroid_SX70_Original_2.png?v=1784149267"
+        }
+      ],
+      "imageNote": "Brooklyn Film Camera photographs. Selected-color views only; alternate colors and promotional graphics omitted. Sonar side view does not show the button. No generated imagery.",
+      "facts": {
+        "Shooting": "Easy · turn the focus wheel, then press the shutter. Exposure and film ejection are automatic.",
+        "Build effort": "None for this assembled offer; expert-level DIY conversion.",
+        "Included": "Restored donor, installed OpenSX70 board and 116mm f/8 lens. Six-month warranty. Optional flash not included.",
+        "Availability": "Exact variant available on the US/USD storefront. No purchase or delivery quote requested.",
+        "Running costs": "BFC guide lists SX-70 color film at $26.99 per 8 shots (about $3.37/photo). Film develops itself; no lab fee. Film price is the guide’s quote, not a checked-out order.",
+        "Limits": "Use bright light; f/8 lens. Donor mechanics and optics are not open designs. BFC V2 production files were not independently located; upstream schematics are verified."
+      },
+      "attribution": "Published upstream files + seller-claimed OpenSX70 installation; not a fully open camera.",
+      "sources": [
+        "bfc-original",
+        "bfc-guide",
+        "sx-files",
+        "sx-use"
+      ]
+    },
+    {
+      "id": "bfc-sonar",
+      "name": "SX-70 Sonar + OpenSX70",
+      "store": "Brooklyn Film Camera",
+      "url": "https://brooklynfilmcamera.com/products/polaroid-sx-70-sonar-black?variant=41181529276588",
+      "category": "Instant film",
+      "unitPriceUSD": 665,
+      "priceLabel": "US$665 · assembled, lens included",
+      "priceBasis": "Current US storefront camera price; excludes film, shipping and tax.",
+      "shooting": "Easiest · autofocus, automatic exposure and ejection. Switch to manual focus when shooting through glass.",
+      "build": "None when bought assembled. DIY board installation is expert repair work.",
+      "openness": "Partial · published replacement electronics; proprietary donor camera. Exact BFC V2 revision not independently matched.",
+      "film": "Polaroid SX-70 or 600 · not i-Type",
+      "availability": "Available in the verified configuration",
+      "verdict": "Ready to shoot after loading film",
+      "summary": "",
+      "deal": "No verified discount",
+      "image": "assets/images/camera-bfc-sonar-8.webp",
+      "imageAlt": "SX-70 Sonar + OpenSX70 — chrome / black leather, red-button selection; retailer view 8",
+      "images": [
+        {
+          "src": "assets/images/camera-bfc-sonar-8.webp",
+          "alt": "SX-70 Sonar + OpenSX70 — chrome / black leather, red-button selection; retailer view 8",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0575/8638/5068/files/Polaroid_SX-70_Sonar_Chrome_Black.png?v=1792778817"
+        },
+        {
+          "src": "assets/images/camera-bfc-sonar-6.webp",
+          "alt": "SX-70 Sonar + OpenSX70 — chrome / black leather, red-button selection; retailer view 6",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0575/8638/5068/products/Polaroid_SX-70_Sonar_Black_03_90981102-e492-4fe7-94d5-f42564cfa31e.jpg?v=1647456700"
+        }
+      ],
+      "imageNote": "Brooklyn Film Camera photographs. Selected-color views only; alternate colors and promotional graphics omitted. Sonar side view does not show the button. No generated imagery.",
+      "facts": {
+        "Shooting": "Easiest · autofocus, automatic exposure and ejection. Switch to manual focus when shooting through glass.",
+        "Build effort": "None for this assembled offer; expert-level DIY conversion.",
+        "Included": "Restored donor, installed OpenSX70 board and 116mm f/8 lens. Six-month warranty. Optional flash not included.",
+        "Availability": "Exact variant available on the US/USD storefront. No purchase or delivery quote requested.",
+        "Running costs": "BFC guide lists SX-70 color film at $26.99 per 8 shots (about $3.37/photo). Film develops itself; no lab fee. Film price is the guide’s quote, not a checked-out order.",
+        "Limits": "Use bright light; f/8 lens. Donor mechanics and optics are not open designs. BFC V2 production files were not independently located; upstream schematics are verified."
+      },
+      "attribution": "Published upstream files + seller-claimed OpenSX70 installation; not a fully open camera.",
+      "sources": [
+        "bfc-sonar",
+        "bfc-guide",
+        "sx-files",
+        "sx-use"
+      ]
+    },
+    {
+      "id": "pioneer",
+      "name": "Pioneer",
+      "store": "Mark Hiltz · DIY project",
+      "url": "https://drive.google.com/drive/folders/1HPYxniFw3XWP9GWbdEW4byyxlQdUplFb",
+      "category": "Conventional film",
+      "unitPriceUSD": null,
+      "priceLabel": "Complete build cost unknown",
+      "priceBasis": "Free design files ≠ a free camera. Lens, printing, magnets, fasteners and light seals extra; no verified kit or assembled offer.",
+      "shooting": "Simple daylight shooting · estimate distance, turn the lens, flick the shutter; wind by the red frame window.",
+      "build": "DIY only verified · print, glue, fit magnets and light seals, then test focus and leaks.",
+      "openness": "Published body + shutter + winding parts and build guide. Bought glass lens and commodity hardware.",
+      "film": "120 roll film · 6×6 square photographs",
+      "availability": "Files available; no assembled or kit offer verified",
+      "verdict": "Simple controls, but not automatic exposure",
+      "summary": "",
+      "deal": "No verified assembled-camera deal",
+      "image": "assets/images/camera-pioneer-photo.webp",
+      "imageAlt": "Physical Pioneer 3D-printed film camera with lens and winding knobs",
+      "images": [
+        {
+          "src": "assets/images/camera-pioneer-photo.webp",
+          "alt": "Physical Pioneer 3D-printed film camera with lens and winding knobs",
+          "sourceUrl": "https://hackaday.com/wp-content/uploads/2025/02/pioneer-camera-featured.jpg"
+        }
+      ],
+      "imageNote": "Physical project photograph from Hackaday’s 2025 release report. One verified camera photograph; no product-store gallery. No generated imagery.",
+      "facts": {
+        "Shooting": "Simple box-camera workflow once properly built. Scale/estimated-distance focus, fixed-style magnetic shutter, manual advance using the red window. Not autofocus or metered auto exposure; suitable light and film choice still matter.",
+        "Build effort": "Substantial hands-on assembly: print body and mechanism, epoxy lens/magnets, make light seals and fit winding parts. Verify shutter, focus and light-tightness before fresh film.",
+        "Required parts": "Creator’s current guide specifies Thorlabs LA1134 60mm lens, magnets, screws/nuts, foam, elastic and adhesives. No priced complete BOM or current ready-made offer verified.",
+        "Running costs": "Buy 120 film and pay for development/scans (or process it yourself). Current combined film + lab cost not verified; do not assume cheaper per shot than 35mm.",
+        "Evidence limit": "The creator’s 2023 shooting report used an older 65mm lens. Released 2025 build uses 60mm; do not transfer that prototype’s exact shutter speed or aperture as a calibrated specification.",
+        "Why included": "A simple real film design with released body AND shutter files, not a pinhole or a manual large-format system. Easy controls do not mean easy assembly or exposure in any light."
+      },
+      "attribution": "Design files and guide verified; ease judgment is based on controls, not hands-on testing.",
+      "sources": [
+        "pioneer-files",
+        "pioneer-guide",
+        "pioneer-story",
+        "pioneer-update"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bfc-guide",
+      "title": "BFC: what its installed OpenSX70 board does",
+      "url": "https://brooklynfilmcamera.com/blogs/guides/opensx70-what-it-is-and-why-every-sx-70-we-sell-has-one",
+      "type": "First-party source",
+      "note": "Every SX-70 sold now includes a replacement board. Automatic exposure; Sonar autofocus. Six-month warranty. BFC’s supplied revision is not independently matched to an upstream CAD revision.",
+      "accessed": "2026-11-07"
+    },
+    {
+      "id": "sx-files",
+      "title": "openSX70: released PCB schematics and board layouts",
+      "url": "https://github.com/openSX70/openSX70-PCB/tree/master/CURRENT",
+      "type": "First-party source",
+      "note": "Inspected .sch/.brd files, including MEROE and Sonar designs. These are replacement electronics, not plans for the proprietary Polaroid body, optics or film mechanism.",
+      "accessed": "2026-11-07"
+    },
+    {
+      "id": "sx-use",
+      "title": "openSX70: operating modes",
+      "url": "https://github.com/openSX70/openSX70-Arduino-main/wiki/openSX70-Feature-Overview-and-Guide",
+      "type": "First-party source",
+      "note": "Documents automatic exposure with no dongle, and A100/A600 modes. This newer guide supersedes the 2018 experimental manual that lacked auto exposure.",
+      "accessed": "2026-11-07"
+    },
+    {
+      "id": "pioneer-files",
+      "title": "Pioneer: released camera parts",
+      "url": "https://drive.google.com/drive/folders/1AaA7P9hn_lVoP9x223HH03M5KXzHND5_",
+      "type": "First-party source",
+      "note": "Verified 16 STL listings, including body, shutter blade/block and lens barrel. Downloaded and checked the binary bottom-body STL, not just an announcement.",
+      "accessed": "2026-11-07"
+    },
+    {
+      "id": "pioneer-guide",
+      "title": "Pioneer: creator’s parts list and build guide",
+      "url": "https://docs.google.com/document/d/1h_saau3nZSRm7ZZ_lUzXm2Tu1kNPLZ__q81J6M7dE1Y/edit",
+      "type": "First-party source",
+      "note": "Current guide specifies a Thorlabs LA1134 60mm singlet, magnetic shutter, rotating focus barrel, hand winding and red-window frame reading. Printing, epoxy, magnets, foam light seals and calibration are builder work.",
+      "accessed": "2026-11-07"
+    },
+    {
+      "id": "pioneer-story",
+      "title": "Pioneer predecessor: creator’s shooting report",
+      "url": "https://emulsive.org/articles/5-frames/5-frames-of-ilford-hp5-plus-on-my-3d-printed-camera-120-format-ei-400-custom-shutter-and-surplus-meniscus-65mm-f-10-lens-by-mark-hiltz",
+      "type": "First-party source",
+      "note": "Creator shot two rolls of HP5 Plus. Simple magnetic shutter; older 65mm prototype lens is NOT the 60mm lens specified by the released build.",
+      "accessed": "2026-11-07"
+    },
+    {
+      "id": "pioneer-update",
+      "title": "Pioneer: released design and project photograph",
+      "url": "https://hackaday.com/2025/02/13/a-3d-printed-camera-you-can-now-download-shutter-and-all/",
+      "type": "Secondary release report",
+      "note": "2025 release report and photograph of the physical camera. Not a current assembled-camera offer.",
+      "accessed": "2026-11-07"
+    },
+    {
+      "id": "bfc-original",
+      "title": "SX-70 Original + OpenSX70 — exact purchasable configuration",
+      "url": "https://brooklynfilmcamera.com/products/polaroid-sx-70-original-black?variant=46790072533164",
+      "type": "First-party source",
+      "note": "Rendered US storefront and variant JSON: USD, available; installed board and lens included. Shipping/tax not priced at checkout. Other browser session showed a higher Sonar price; $665 is the fresh US/USD exact-variant quote, not a guaranteed checkout total.",
+      "accessed": "2026-11-07"
+    },
+    {
+      "id": "bfc-sonar",
+      "title": "SX-70 Sonar + OpenSX70 — exact purchasable configuration",
+      "url": "https://brooklynfilmcamera.com/products/polaroid-sx-70-sonar-black?variant=41181529276588",
+      "type": "First-party source",
+      "note": "Rendered US storefront and variant JSON: USD, available; installed board and lens included. Shipping/tax not priced at checkout. Other browser session showed a higher Sonar price; $665 is the fresh US/USD exact-variant quote, not a guaranteed checkout total.",
+      "accessed": "2026-11-07"
+    }
+  ],
+  "historicalReferences": [
+    {
+      "name": "EZCam",
+      "url": "https://github.com/eddyzow/ezcam",
+      "price": "Current complete cost unknown; historical 2025 BOM $108.05",
+      "note": "Instax Mini; released six STL parts, wiring and servo firmware. The $108.05 included a 20-shot film pack but excluded filament and salvaged items. The shutter stays open while the button is held: no automatic exposure timing. Creator reports most results were not great. Retained as a prototype reference, not an easy-shoot recommendation.",
+      "links": [
+        [
+          "Shutter firmware",
+          "https://github.com/eddyzow/EZCam/blob/main/firmware/ezcam/ezcam.ino"
+        ],
+        [
+          "Build journal",
+          "https://github.com/eddyzow/EZCam/blob/main/JOURNAL.md"
+        ]
+      ]
+    },
+    {
+      "name": "Pathfinder + LomoGraflok",
+      "url": "https://cornelissen.me/writing/ph/110conversion.html",
+      "price": "Complete cost unknown · donor + back + printed parts",
+      "note": "Instax Wide; published adapter files, not a complete open camera. Requires drilling rivets and recalibrating focus/rangefinder during conversion. Shooting still needs manual focus, exposure and shutter handling. Excluded for shooting workflow, independently of build difficulty.",
+      "links": []
+    },
+    {
+      "name": "IDENTIDEM MRF2",
+      "url": "https://identidem.design/products/identidem-design-mrf2-black-and-brick-red",
+      "price": "£500 assembled body only · complete cost unknown",
+      "note": "Current GB/GBP offer, both red/green grip variants available; replaces the earlier £700 figure. Separate localized browser showed US$681, not an exchange-rate estimate. Required Mamiya Press lens costs extra. Repo’s roughly $300 DIY estimate also does not include the taking lens, labor, shipping or tax. 120 and 35mm panoramas. Body CAD, print files, PCBs and firmware are public; lens is proprietary. LiDAR guides manual focus and the meter SUGGESTS shutter speed: this is not autofocus or automatic exposure. Excluded from easy-shoot shortlist.",
+      "links": [
+        [
+          "Published hardware",
+          "https://github.com/acornelissen/IDENTIDEM.design-MRF2"
+        ],
+        [
+          "User manual",
+          "https://github.com/acornelissen/IDENTIDEM.design-MRF2/blob/main/Documentation/user-manual/USER_MANUAL.md"
+        ]
+      ]
+    },
+    {
+      "name": "PolaPi-Zero",
+      "url": "https://github.com/pierre-muth/polapi-zero",
+      "price": "Current complete cost unknown",
+      "note": "Earlier search result only. Raspberry Pi digital capture and thermal receipt-paper printing, not chemical instant film. Published software/drawings do not make it a film camera.",
+      "links": []
+    }
+  ],
+  "evidenceNote": "“Open” here means useful hardware files or build plans are published, regardless of license. Partial designs are labeled. This is a bounded verified shortlist, not an exhaustive survey. No cheap assembled conventional-film camera passed both the published-design and easy-shoot gates in this review.",
+  "caveat": "No easy 35mm option was verified: Chromium still lists rewind jams, electrical noise and unfinished auto exposure; OpenCamera lacks repeatable frame advance; Alpha35 has only a README. Manual medium/large-format designs and pinholes were not added just to fill the grid. Pioneer is 120 film, not 35mm. Prices exclude shipping, tax and film unless explicitly stated.",
+  "showCollectionNotes": true
+}
