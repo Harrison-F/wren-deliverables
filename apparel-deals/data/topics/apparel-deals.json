@@ -16,7 +16,7 @@
     }
   ],
   "summary": "",
-  "updated": "2026-11-08T01:15:29.246684+00:00",
+  "updated": "2026-11-08T03:53:07.931770+00:00",
   "recommendation": {},
   "showCollectionNotes": true,
   "caveat": "Under $200 before shipping/tax. Tops S; trousers W30 × L32. Natural main fabric only; declared synthetic linings excluded. Final sale and conditional discounts flagged. Prices and stock can change.",
@@ -26,13 +26,14 @@
       "brand": "Sandro",
       "category": "Sweaters",
       "color": "Dark kaki.",
-      "deal": "$94.5 (was $315) · Final sale; no returns or exchanges",
+      "deal": "$94.5 (merchant compare-at $315) · Final sale; no returns or exchanges",
       "facts": {
         "Fabric": "100% cotton",
         "Price": "$94.5 before shipping/tax",
         "Returns": "Final sale; no returns, exchanges or store credit",
         "Size": "S",
-        "Stock": "In stock"
+        "Stock": "In stock",
+        "First observed": "$94.5 on 2026-11-07 (our observation, not MSRP)"
       },
       "id": "deal-sandro-3607172051532",
       "image": "assets/images/deal-sandro-shptr00627-h183-1.webp",
@@ -83,8 +84,28 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-07T23:36:07.066398+00:00",
+      "checkedAt": "2026-11-08T03:53:00.439672+00:00",
       "addedAt": "2026-11-07T23:15:33.169251+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-07T23:15:33.169251+00:00",
+          "priceUSD": 94.5
+        },
+        {
+          "observedAt": "2026-11-07T23:28:40.390113+00:00",
+          "priceUSD": 94.5
+        },
+        {
+          "observedAt": "2026-11-07T23:36:07.066398+00:00",
+          "priceUSD": 94.5
+        },
+        {
+          "observedAt": "2026-11-08T03:53:00.439672+00:00",
+          "priceUSD": 94.5
+        }
+      ],
+      "firstObservedPriceUSD": 94.5,
+      "merchantCompareAtUSD": 315.0,
       "sources": [
         "deal-sandro-3607172051532"
       ]
@@ -93,13 +114,14 @@
       "brand": "Hawes & Curtis",
       "category": "Sweaters",
       "color": "Sky Blue",
-      "deal": "$59 (was $139) · No code required",
+      "deal": "$59 (merchant compare-at $139) · No code required",
       "facts": {
         "Fabric": "100% Merino wool",
         "Price": "$59 before shipping/tax",
         "Returns": "Exact-item final-sale status not stated; return eligibility/fees unverified",
         "Size": "S",
-        "Stock": "In stock"
+        "Stock": "In stock",
+        "First observed": "$59 on 2026-11-08 (our observation, not MSRP)"
       },
       "id": "deal-hawes-245989",
       "image": "assets/images/deal-hawes-jwpwh003-b56-01-14f9707c51f3.webp",
@@ -150,8 +172,20 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T00:42:19.199262+00:00",
+      "checkedAt": "2026-11-08T03:53:07.092911+00:00",
       "addedAt": "2026-11-08T00:42:19.199262+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-08T00:42:19.199262+00:00",
+          "priceUSD": 59
+        },
+        {
+          "observedAt": "2026-11-08T03:53:07.092911+00:00",
+          "priceUSD": 59
+        }
+      ],
+      "firstObservedPriceUSD": 59,
+      "merchantCompareAtUSD": 139,
       "sources": [
         "deal-hawes-245989"
       ]
@@ -160,13 +194,14 @@
       "brand": "Yitai",
       "category": "Sweater",
       "color": "Ecru",
-      "deal": "$70 (was $100) · Returns: store credit only within 14 days",
+      "deal": "$70 (merchant compare-at $100) · Returns: store credit only within 14 days",
       "facts": {
         "Fabric": "100% cotton",
         "Price": "$70 before shipping/tax",
         "Returns": "14-day store-credit returns",
         "Size": "S",
-        "Stock": "In stock; immediate shipping"
+        "Stock": "In stock; immediate shipping",
+        "First observed": "$70 on 2026-11-07 (our observation, not MSRP)"
       },
       "id": "deal-yitai-47941452464358",
       "image": "assets/images/deal-yitai-waffle-henley-ecru-1.webp",
@@ -222,8 +257,44 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T01:15:19.313353+00:00",
+      "checkedAt": "2026-11-08T03:52:43.059879+00:00",
       "addedAt": "2026-11-07T22:33:14.906685+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-07T22:33:14.906685+00:00",
+          "priceUSD": 70.0
+        },
+        {
+          "observedAt": "2026-11-07T22:34:41.096974+00:00",
+          "priceUSD": 70.0
+        },
+        {
+          "observedAt": "2026-11-07T22:35:51.771528+00:00",
+          "priceUSD": 70.0
+        },
+        {
+          "observedAt": "2026-11-07T22:47:07.783241+00:00",
+          "priceUSD": 70.0
+        },
+        {
+          "observedAt": "2026-11-07T23:02:39.513260+00:00",
+          "priceUSD": 70.0
+        },
+        {
+          "observedAt": "2026-11-07T23:24:51.159938+00:00",
+          "priceUSD": 70.0
+        },
+        {
+          "observedAt": "2026-11-08T01:15:19.313353+00:00",
+          "priceUSD": 70.0
+        },
+        {
+          "observedAt": "2026-11-08T03:52:43.059879+00:00",
+          "priceUSD": 70.0
+        }
+      ],
+      "firstObservedPriceUSD": 70.0,
+      "merchantCompareAtUSD": 100.0,
       "sources": [
         "deal-yitai-47941452464358"
       ]
@@ -232,13 +303,14 @@
       "brand": "Yitai",
       "category": "Jeans",
       "color": "Light Wash",
-      "deal": "$130 (was $160) · Returns: store credit only within 14 days",
+      "deal": "$130 (merchant compare-at $160) · Returns: store credit only within 14 days",
       "facts": {
         "Fabric": "100% cotton",
         "Price": "$130 before shipping/tax",
         "Returns": "14-day store-credit returns",
         "Size": "30x32",
-        "Stock": "In stock; immediate shipping"
+        "Stock": "In stock; immediate shipping",
+        "First observed": "$130 on 2026-11-07 (our observation, not MSRP)"
       },
       "id": "deal-yitai-48374349070566",
       "image": "assets/images/deal-yitai-light-wash-slub-selvedge-straight-leg-denim-1.webp",
@@ -289,8 +361,44 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T01:15:17.020200+00:00",
+      "checkedAt": "2026-11-08T03:52:40.824063+00:00",
       "addedAt": "2026-11-07T22:33:07.133365+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-07T22:33:07.133365+00:00",
+          "priceUSD": 130.0
+        },
+        {
+          "observedAt": "2026-11-07T22:34:38.953983+00:00",
+          "priceUSD": 130.0
+        },
+        {
+          "observedAt": "2026-11-07T22:35:49.456173+00:00",
+          "priceUSD": 130.0
+        },
+        {
+          "observedAt": "2026-11-07T22:47:04.532913+00:00",
+          "priceUSD": 130.0
+        },
+        {
+          "observedAt": "2026-11-07T23:02:37.197412+00:00",
+          "priceUSD": 130.0
+        },
+        {
+          "observedAt": "2026-11-07T23:24:48.908157+00:00",
+          "priceUSD": 130.0
+        },
+        {
+          "observedAt": "2026-11-08T01:15:17.020200+00:00",
+          "priceUSD": 130.0
+        },
+        {
+          "observedAt": "2026-11-08T03:52:40.824063+00:00",
+          "priceUSD": 130.0
+        }
+      ],
+      "firstObservedPriceUSD": 130.0,
+      "merchantCompareAtUSD": 160.0,
       "sources": [
         "deal-yitai-48374349070566"
       ]
@@ -299,13 +407,14 @@
       "brand": "Yitai",
       "category": "Sweater",
       "color": "Multicolor",
-      "deal": "$100 (was $160) · Final sale; no returns or exchanges",
+      "deal": "$100 (merchant compare-at $160) · Final sale; no returns or exchanges",
       "facts": {
         "Fabric": "100% cotton",
         "Price": "$100 before shipping/tax",
         "Returns": "Final sale",
         "Size": "S",
-        "Stock": "In stock; immediate shipping"
+        "Stock": "In stock; immediate shipping",
+        "First observed": "$100 on 2026-11-07 (our observation, not MSRP)"
       },
       "id": "deal-yitai-46875803975910",
       "image": "assets/images/deal-yitai-water-lilies-sweater-1.webp",
@@ -361,8 +470,44 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T01:15:21.526477+00:00",
+      "checkedAt": "2026-11-08T03:52:45.270029+00:00",
       "addedAt": "2026-11-07T22:33:22.394577+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-07T22:33:22.394577+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T22:34:43.253172+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T22:35:54.208337+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T22:47:11.114154+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T23:02:41.861593+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T23:24:53.315847+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T01:15:21.526477+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T03:52:45.270029+00:00",
+          "priceUSD": 100.0
+        }
+      ],
+      "firstObservedPriceUSD": 100.0,
+      "merchantCompareAtUSD": 160.0,
       "sources": [
         "deal-yitai-46875803975910"
       ]
@@ -371,13 +516,14 @@
       "brand": "Yitai",
       "category": "Sweater",
       "color": "Multicolor",
-      "deal": "$100 (was $160) · Final sale; no returns or exchanges",
+      "deal": "$100 (merchant compare-at $160) · Final sale; no returns or exchanges",
       "facts": {
         "Fabric": "100% cotton",
         "Price": "$100 before shipping/tax",
         "Returns": "Final sale",
         "Size": "S",
-        "Stock": "In stock; immediate shipping"
+        "Stock": "In stock; immediate shipping",
+        "First observed": "$100 on 2026-11-07 (our observation, not MSRP)"
       },
       "id": "deal-yitai-46875837530342",
       "image": "assets/images/deal-yitai-golden-gate-embroidery-sweater-1.webp",
@@ -423,8 +569,44 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T01:15:28.233884+00:00",
+      "checkedAt": "2026-11-08T03:52:51.814037+00:00",
       "addedAt": "2026-11-07T22:33:38.408017+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-07T22:33:38.408017+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T22:34:50.581530+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T22:36:02.603721+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T22:47:20.052208+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T23:02:49.698687+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T23:24:59.616587+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T01:15:28.233884+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T03:52:51.814037+00:00",
+          "priceUSD": 100.0
+        }
+      ],
+      "firstObservedPriceUSD": 100.0,
+      "merchantCompareAtUSD": 160.0,
       "sources": [
         "deal-yitai-46875837530342"
       ]
@@ -433,13 +615,14 @@
       "brand": "Yitai",
       "category": "Sweater",
       "color": "Multicolor",
-      "deal": "$100 (was $160) · Final sale; no returns or exchanges",
+      "deal": "$100 (merchant compare-at $160) · Final sale; no returns or exchanges",
       "facts": {
         "Fabric": "100% cotton",
         "Price": "$100 before shipping/tax",
         "Returns": "Final sale",
         "Size": "S",
-        "Stock": "In stock; immediate shipping"
+        "Stock": "In stock; immediate shipping",
+        "First observed": "$100 on 2026-11-07 (our observation, not MSRP)"
       },
       "id": "deal-yitai-46875779399910",
       "image": "assets/images/deal-yitai-tokyo-embroidery-sweater-1.webp",
@@ -485,8 +668,44 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T01:15:23.934234+00:00",
+      "checkedAt": "2026-11-08T03:52:47.444464+00:00",
       "addedAt": "2026-11-07T22:33:28.853712+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-07T22:33:28.853712+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T22:34:45.556943+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T22:35:56.928618+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T22:47:14.188857+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T23:02:44.346982+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T23:24:55.393562+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T01:15:23.934234+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T03:52:47.444464+00:00",
+          "priceUSD": 100.0
+        }
+      ],
+      "firstObservedPriceUSD": 100.0,
+      "merchantCompareAtUSD": 160.0,
       "sources": [
         "deal-yitai-46875779399910"
       ]
@@ -495,13 +714,14 @@
       "brand": "Sandro",
       "category": "T-shirts",
       "color": "Optic White",
-      "deal": "$55.5 (was $185) · Final sale; no returns or exchanges",
+      "deal": "$55.5 (merchant compare-at $185) · Final sale; no returns or exchanges",
       "facts": {
         "Fabric": "100% cotton",
         "Price": "$55.5 before shipping/tax",
         "Returns": "Final sale; no returns, exchanges or store credit",
         "Size": "S",
-        "Stock": "In stock"
+        "Stock": "In stock",
+        "First observed": "$55.5 on 2026-11-07 (our observation, not MSRP)"
       },
       "id": "deal-sandro-3607172069285",
       "image": "assets/images/deal-sandro-shpts01634-a432-1.webp",
@@ -552,8 +772,28 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-07T23:36:03.980010+00:00",
+      "checkedAt": "2026-11-08T03:52:56.860491+00:00",
       "addedAt": "2026-11-07T23:15:28.478055+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-07T23:15:28.478055+00:00",
+          "priceUSD": 55.5
+        },
+        {
+          "observedAt": "2026-11-07T23:28:36.684900+00:00",
+          "priceUSD": 55.5
+        },
+        {
+          "observedAt": "2026-11-07T23:36:03.980010+00:00",
+          "priceUSD": 55.5
+        },
+        {
+          "observedAt": "2026-11-08T03:52:56.860491+00:00",
+          "priceUSD": 55.5
+        }
+      ],
+      "firstObservedPriceUSD": 55.5,
+      "merchantCompareAtUSD": 185.0,
       "sources": [
         "deal-sandro-3607172069285"
       ]
@@ -562,13 +802,14 @@
       "brand": "Yitai",
       "category": "Sweater",
       "color": "Multicolor",
-      "deal": "$100 (was $160) · Final sale; no returns or exchanges",
+      "deal": "$100 (merchant compare-at $160) · Final sale; no returns or exchanges",
       "facts": {
         "Fabric": "100% cotton",
         "Price": "$100 before shipping/tax",
         "Returns": "Final sale",
         "Size": "S",
-        "Stock": "In stock; immediate shipping"
+        "Stock": "In stock; immediate shipping",
+        "First observed": "$100 on 2026-11-07 (our observation, not MSRP)"
       },
       "id": "deal-yitai-46431973867750",
       "image": "assets/images/deal-yitai-mexico-city-sweater-1.webp",
@@ -609,8 +850,44 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T01:15:26.107121+00:00",
+      "checkedAt": "2026-11-08T03:52:49.626333+00:00",
       "addedAt": "2026-11-07T22:33:34.468072+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-07T22:33:34.468072+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T22:34:47.851655+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T22:35:59.630420+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T22:47:17.163565+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T23:02:46.867310+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-07T23:24:57.515684+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T01:15:26.107121+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T03:52:49.626333+00:00",
+          "priceUSD": 100.0
+        }
+      ],
+      "firstObservedPriceUSD": 100.0,
+      "merchantCompareAtUSD": 160.0,
       "sources": [
         "deal-yitai-46431973867750"
       ]
@@ -622,7 +899,7 @@
       "title": "Textured knit sweater — selected retailer variant",
       "url": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_H183.html",
       "type": "First-party retailer",
-      "accessed": "2026-11-07",
+      "accessed": "2026-11-08",
       "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
     },
     {
@@ -678,7 +955,7 @@
       "title": "Wave print cotton T-shirt — selected retailer variant",
       "url": "https://us.sandro-paris.com/en/p/wave-print-cotton-t-shirt/SHPTS01634_A432.html",
       "type": "First-party retailer",
-      "accessed": "2026-11-07",
+      "accessed": "2026-11-08",
       "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
     },
     {
