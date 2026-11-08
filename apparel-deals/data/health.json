@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-07T23:37:47.333647+00:00",
+  "checkedAt": "2026-11-08T00:44:12.791069+00:00",
   "summary": "Year-round monitor. Site discovery twice daily; newsletter review hourly. Qualified refresh every four hours in November. Coverage remains partial; blocked or unreviewed merchants are not zero-result claims.",
   "coverage": [
     {
@@ -54,8 +54,8 @@
     },
     {
       "merchant": "Saks Fifth Avenue",
-      "status": "Catalog blocked; no inventory conclusions; Native men's sale route attempted; no product inventory reviewed",
-      "newsletter": "submitted_pending_confirmation"
+      "status": "Welcome 15% offer reviewed; exclusions and sale category blocked by DataDome/403; dedicated CDP recovery timed out. No exact variants verified.",
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "PRM",
@@ -99,8 +99,8 @@
     },
     {
       "merchant": "Hawes & Curtis",
-      "status": "sale_leads_size_unresolved; Initial guessed sale URL 404; recovered current sale routes from isolated-rendered homepage navigation. Reviewed first knitwear-sale page only (page 2/Next visible). Two exact non-polo sweaters opened in fresh isolated browsers. Small selection attempted but cookie overlay intercepted clicks.",
-      "newsletter": "submitted_pending_confirmation"
+      "status": "Merino category page 1 and four exact inventory records checked; one Small blue merino sale sweater verified and imported with all six photos. Other pages/categories and welcome-code eligibility unreviewed.",
+      "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Arc’teryx",

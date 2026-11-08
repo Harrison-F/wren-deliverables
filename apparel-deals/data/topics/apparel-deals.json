@@ -16,11 +16,11 @@
     }
   ],
   "summary": "",
-  "updated": "2026-11-07T23:37:47.270020+00:00",
+  "updated": "2026-11-08T00:44:12.711826+00:00",
   "recommendation": {},
   "showCollectionNotes": true,
   "caveat": "Under $200 before shipping/tax. Tops S; trousers W30 × L32. Natural main fabric only; declared synthetic linings excluded. Final sale and conditional discounts flagged. Prices and stock can change.",
-  "evidenceNote": "Bounded coverage, not comprehensive: SCRT: Initial native sale grid (118 advertised items) and first 250 feed products; exact-size US/material review incomplete; later pages unreviewed; Industry of All Nations: Native archive listing and 151-product feed inspected; natural-cotton S sale leads retained privately; exact selected stock/gallery audit incomplete; Yitai: Native first 16/76 shop-all grid and 78-product feed; 6 registered exact variants freshly reverified; remaining sale leads unreviewed; Sandro: Initial 32/287 sale grid; 2 exact S cotton variants verified, full galleries captured and appended; remaining pagination unreviewed; Abercrombie: Catalog blocked; no inventory conclusions; Native men's clearance route attempted; no product inventory reviewed; Helmut Lang: Catalog blocked; no inventory conclusions; Native men's sale route attempted; no product inventory reviewed; Études: Guessed sale category 404; homepage recovery found no sale link; first 250 feed products expose sale leads, exact US/S checks incomplete; SSENSE: Catalog blocked; no inventory conclusions; US men's sale route attempted; no product inventory reviewed; Carhartt: Native men's initial sale grid reviewed; two inspected products rejected for synthetic main fabric; {\"retailer_mens_total\": 108, \"unique_product_urls_in_initial_main_dom\": 27, \"count_caveat\": \"DOM link count includes all product links in main, not asserted to equal 27 audited grid cards\", \"exact_product_pages_reviewed\": 2, \"pagination\": \"No See 24 More follow-up\"}; Carhartt WIP: Native US men-sale category rendered empty with unrelated recommendations; feed 404; category validity and broader sale inventory unresolved; Saks Fifth Avenue: Catalog blocked; no inventory conclusions; Native men's sale route attempted; no product inventory reviewed; PRM: Catalog blocked; no inventory conclusions; US men's sale route attempted; no product inventory reviewed; The Frankie Shop: Native mens-sale page explicitly says sale is over; first 250 feed products have no matching markdown S/W30 leads; remaining catalog/conditional offers unreviewed; Yohji Yamamoto: Bounded Ground Y catalog page/feed reviewed, no actual markdowns in the first 50 feed products; not all brands or all catalogs; {\"collection\": \"Ground Y only\", \"feed_page\": 1, \"feed_limit\": 50, \"products_inspected_for_price_and_variant_fields\": 50, \"markdown_products_in_bounded_feed\": 0, \"exact_product_detail_pages_reviewed\": 0, \"sale_navigation\": \"No sale/outlet text or href links found in this rendered collection DOM\"}; ASKET: promising_sale_leads_size_unresolved; Men's collection landing page and men's archive native HTML reviewed; four exact archive color/product pages inspected for sale, material, US locale and shipping. Two also captured as rendered pages. Size-selection attempted on all four, not completed. No full inventory or other-color audit.; COS: blocked_not_zero_inventory; One native US men's sale route attempted via HTTP and isolated Chromium; no products rendered.; ARKET: blocked_us_eligibility_unresolved; One native men's sale route attempted via HTTP and isolated Chromium; no products rendered.; A.P.C.: Guessed men-sale category 404; homepage sale-text recovery reached terms-of-sale, not a catalog; first 250 feed products no matching markdown leads; native sale/catalog gap remains; Massimo Dutti: empty_http_then_browser_blocked; One candidate US men's special-prices route attempted. Route identity not confirmed because HTTP body was empty and browser blocked.; Hawes & Curtis: sale_leads_size_unresolved; Initial guessed sale URL 404; recovered current sale routes from isolated-rendered homepage navigation. Reviewed first knitwear-sale page only (page 2/Next visible). Two exact non-polo sweaters opened in fresh isolated browsers. Small selection attempted but cookie overlay intercepted clicks.; Arc’teryx: one_material_rejection_rest_unreviewed; Native men's outlet first HTML batch inspected; heading reports 108 items but only initial exposed product cards reviewed. One exact Ionia merino shirt product inspected.; lululemon: blocked_not_zero_inventory; Native men's We Made Too Much route attempted via HTTP and isolated Chromium.; Rains: bounded_regular_price_catalog_no_confirmed_sale; Guessed sale collection returned404; recovered native men's T-shirts collection from navigation. Reviewed exposed category cards only; no exact products opened because no markdown visible.",
+  "evidenceNote": "Bounded coverage, not comprehensive: SCRT: Initial native sale grid (118 advertised items) and first 250 feed products; exact-size US/material review incomplete; later pages unreviewed; Industry of All Nations: Native archive listing and 151-product feed inspected; natural-cotton S sale leads retained privately; exact selected stock/gallery audit incomplete; Yitai: Native first 16/76 shop-all grid and 78-product feed; 6 registered exact variants freshly reverified; remaining sale leads unreviewed; Sandro: Initial 32/287 sale grid; 2 exact S cotton variants verified, full galleries captured and appended; remaining pagination unreviewed; Abercrombie: Catalog blocked; no inventory conclusions; Native men's clearance route attempted; no product inventory reviewed; Helmut Lang: Catalog blocked; no inventory conclusions; Native men's sale route attempted; no product inventory reviewed; Études: Guessed sale category 404; homepage recovery found no sale link; first 250 feed products expose sale leads, exact US/S checks incomplete; SSENSE: Catalog blocked; no inventory conclusions; US men's sale route attempted; no product inventory reviewed; Carhartt: Native men's initial sale grid reviewed; two inspected products rejected for synthetic main fabric; {\"retailer_mens_total\": 108, \"unique_product_urls_in_initial_main_dom\": 27, \"count_caveat\": \"DOM link count includes all product links in main, not asserted to equal 27 audited grid cards\", \"exact_product_pages_reviewed\": 2, \"pagination\": \"No See 24 More follow-up\"}; Carhartt WIP: Native US men-sale category rendered empty with unrelated recommendations; feed 404; category validity and broader sale inventory unresolved; Saks Fifth Avenue: Welcome 15% offer reviewed; exclusions and sale category blocked by DataDome/403; dedicated CDP recovery timed out. No exact variants verified.; PRM: Catalog blocked; no inventory conclusions; US men's sale route attempted; no product inventory reviewed; The Frankie Shop: Native mens-sale page explicitly says sale is over; first 250 feed products have no matching markdown S/W30 leads; remaining catalog/conditional offers unreviewed; Yohji Yamamoto: Bounded Ground Y catalog page/feed reviewed, no actual markdowns in the first 50 feed products; not all brands or all catalogs; {\"collection\": \"Ground Y only\", \"feed_page\": 1, \"feed_limit\": 50, \"products_inspected_for_price_and_variant_fields\": 50, \"markdown_products_in_bounded_feed\": 0, \"exact_product_detail_pages_reviewed\": 0, \"sale_navigation\": \"No sale/outlet text or href links found in this rendered collection DOM\"}; ASKET: promising_sale_leads_size_unresolved; Men's collection landing page and men's archive native HTML reviewed; four exact archive color/product pages inspected for sale, material, US locale and shipping. Two also captured as rendered pages. Size-selection attempted on all four, not completed. No full inventory or other-color audit.; COS: blocked_not_zero_inventory; One native US men's sale route attempted via HTTP and isolated Chromium; no products rendered.; ARKET: blocked_us_eligibility_unresolved; One native men's sale route attempted via HTTP and isolated Chromium; no products rendered.; A.P.C.: Guessed men-sale category 404; homepage sale-text recovery reached terms-of-sale, not a catalog; first 250 feed products no matching markdown leads; native sale/catalog gap remains; Massimo Dutti: empty_http_then_browser_blocked; One candidate US men's special-prices route attempted. Route identity not confirmed because HTTP body was empty and browser blocked.; Hawes & Curtis: Merino category page 1 and four exact inventory records checked; one Small blue merino sale sweater verified and imported with all six photos. Other pages/categories and welcome-code eligibility unreviewed.; Arc’teryx: one_material_rejection_rest_unreviewed; Native men's outlet first HTML batch inspected; heading reports 108 items but only initial exposed product cards reviewed. One exact Ionia merino shirt product inspected.; lululemon: blocked_not_zero_inventory; Native men's We Made Too Much route attempted via HTTP and isolated Chromium.; Rains: bounded_regular_price_catalog_no_confirmed_sale; Guessed sale collection returned404; recovered native men's T-shirts collection from navigation. Reviewed exposed category cards only; no exact products opened because no markdown visible.",
   "products": [
     {
       "brand": "Sandro",
@@ -87,6 +87,73 @@
       "addedAt": "2026-11-07T23:15:33.169251+00:00",
       "sources": [
         "deal-sandro-3607172051532"
+      ]
+    },
+    {
+      "brand": "Hawes & Curtis",
+      "category": "Sweaters",
+      "color": "Sky Blue",
+      "deal": "$59 (was $139) · No code required",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Price": "$59 before shipping/tax",
+        "Returns": "Exact-item final-sale status not stated; return eligibility/fees unverified",
+        "Size": "S",
+        "Stock": "In stock"
+      },
+      "id": "deal-hawes-245989",
+      "image": "assets/images/deal-hawes-jwpwh003-b56-01-14f9707c51f3.webp",
+      "imageAlt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 1",
+      "imageNote": "Complete six-image exact-color retailer gallery.",
+      "images": [
+        {
+          "alt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 1",
+          "sourceUrl": "https://images.hawesandcurtis.com/tr:q-80/JW/JWPWH003-B56-205759-800px-1040px.jpg",
+          "src": "assets/images/deal-hawes-jwpwh003-b56-01-14f9707c51f3.webp"
+        },
+        {
+          "alt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 2",
+          "sourceUrl": "https://images.hawesandcurtis.com/tr:q-80/JW/JWPWH003-B56-205760-800px-1040px.jpg",
+          "src": "assets/images/deal-hawes-jwpwh003-b56-02-18a9cff1e129.webp"
+        },
+        {
+          "alt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 3",
+          "sourceUrl": "https://images.hawesandcurtis.com/tr:q-80/JW/JWPWH003-B56-205761-800px-1040px.jpg",
+          "src": "assets/images/deal-hawes-jwpwh003-b56-03-6afd07d2719a.webp"
+        },
+        {
+          "alt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 4",
+          "sourceUrl": "https://images.hawesandcurtis.com/tr:q-80/JW/JWPWH003-B56-205762-800px-1040px.jpg",
+          "src": "assets/images/deal-hawes-jwpwh003-b56-04-d263ed34d4da.webp"
+        },
+        {
+          "alt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 5",
+          "sourceUrl": "https://images.hawesandcurtis.com/tr:q-80/JW/JWPWH003-B56-205764-800px-1040px.jpg",
+          "src": "assets/images/deal-hawes-jwpwh003-b56-05-e5120b7b8c1a.webp"
+        },
+        {
+          "alt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 6",
+          "sourceUrl": "https://images.hawesandcurtis.com/tr:q-80/JW/JWPWH003-B56-205763-800px-1040px.jpg",
+          "src": "assets/images/deal-hawes-jwpwh003-b56-06-69e8add90035.webp"
+        }
+      ],
+      "integrityRank": 100,
+      "materialCaveat": "Separate trim/thread fiber breakdown not disclosed.",
+      "name": "Sky Blue V-Neck Sweater - Machine Washable",
+      "naturalPercent": 100,
+      "store": "Hawes & Curtis",
+      "summary": "",
+      "url": "https://www.hawesandcurtis.com/sky-blue-v-neck-sweater-machine-washable-jwpwh003-b56",
+      "verdict": "Verified deal",
+      "unitPriceUSD": 59,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-08T00:42:19.199262+00:00",
+      "addedAt": "2026-11-08T00:42:19.199262+00:00",
+      "sources": [
+        "deal-hawes-245989"
       ]
     },
     {
@@ -556,6 +623,14 @@
       "url": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_H183.html",
       "type": "First-party retailer",
       "accessed": "2026-11-07",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    },
+    {
+      "id": "deal-hawes-245989",
+      "title": "Sky Blue V-Neck Sweater - Machine Washable — selected retailer variant",
+      "url": "https://www.hawesandcurtis.com/sky-blue-v-neck-sweater-machine-washable-jwpwh003-b56",
+      "type": "First-party retailer",
+      "accessed": "2026-11-08",
       "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
     },
     {
