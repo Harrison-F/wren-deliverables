@@ -16,7 +16,7 @@
     }
   ],
   "summary": "",
-  "updated": "2026-11-08T09:25:35.387393+00:00",
+  "updated": "2026-11-08T09:38:54.150425+00:00",
   "recommendation": {},
   "showCollectionNotes": true,
   "caveat": "Under $200 before shipping/tax. Tops S; trousers W30 × L32. Natural main fabric only; declared synthetic linings excluded. Final sale and conditional discounts flagged. Prices and stock can change.",
@@ -84,7 +84,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T09:23:56.170925+00:00",
+      "checkedAt": "2026-11-08T09:38:47.965581+00:00",
       "addedAt": "2026-11-07T23:15:33.169251+00:00",
       "observedPriceHistory": [
         {
@@ -162,6 +162,10 @@
         {
           "observedAt": "2026-11-08T09:23:56.170925+00:00",
           "priceUSD": 94.5
+        },
+        {
+          "observedAt": "2026-11-08T09:38:47.965581+00:00",
+          "priceUSD": 94.5
         }
       ],
       "firstObservedPriceUSD": 94.5,
@@ -232,7 +236,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T09:24:02.528706+00:00",
+      "checkedAt": "2026-11-08T09:38:53.704044+00:00",
       "addedAt": "2026-11-08T00:42:19.199262+00:00",
       "observedPriceHistory": [
         {
@@ -297,6 +301,10 @@
         },
         {
           "observedAt": "2026-11-08T09:24:02.528706+00:00",
+          "priceUSD": 59
+        },
+        {
+          "observedAt": "2026-11-08T09:38:53.704044+00:00",
           "priceUSD": 59
         }
       ],
@@ -373,7 +381,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T09:23:40.524434+00:00",
+      "checkedAt": "2026-11-08T09:38:32.812238+00:00",
       "addedAt": "2026-11-07T22:33:14.906685+00:00",
       "observedPriceHistory": [
         {
@@ -467,6 +475,10 @@
         {
           "observedAt": "2026-11-08T09:23:40.524434+00:00",
           "priceUSD": 70.0
+        },
+        {
+          "observedAt": "2026-11-08T09:38:32.812238+00:00",
+          "priceUSD": 70.0
         }
       ],
       "firstObservedPriceUSD": 70.0,
@@ -537,7 +549,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T09:23:38.361432+00:00",
+      "checkedAt": "2026-11-08T09:38:30.441037+00:00",
       "addedAt": "2026-11-07T22:33:07.133365+00:00",
       "observedPriceHistory": [
         {
@@ -631,6 +643,10 @@
         {
           "observedAt": "2026-11-08T09:23:38.361432+00:00",
           "priceUSD": 130.0
+        },
+        {
+          "observedAt": "2026-11-08T09:38:30.441037+00:00",
+          "priceUSD": 130.0
         }
       ],
       "firstObservedPriceUSD": 130.0,
@@ -706,7 +722,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T09:23:42.633531+00:00",
+      "checkedAt": "2026-11-08T09:38:35.003773+00:00",
       "addedAt": "2026-11-07T22:33:22.394577+00:00",
       "observedPriceHistory": [
         {
@@ -800,6 +816,10 @@
         {
           "observedAt": "2026-11-08T09:23:42.633531+00:00",
           "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T09:38:35.003773+00:00",
+          "priceUSD": 100.0
         }
       ],
       "firstObservedPriceUSD": 100.0,
@@ -865,7 +885,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T09:23:49.146953+00:00",
+      "checkedAt": "2026-11-08T09:38:41.470597+00:00",
       "addedAt": "2026-11-07T22:33:38.408017+00:00",
       "observedPriceHistory": [
         {
@@ -959,6 +979,10 @@
         {
           "observedAt": "2026-11-08T09:23:49.146953+00:00",
           "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T09:38:41.470597+00:00",
+          "priceUSD": 100.0
         }
       ],
       "firstObservedPriceUSD": 100.0,
@@ -1024,7 +1048,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T09:23:44.688097+00:00",
+      "checkedAt": "2026-11-08T09:38:37.121982+00:00",
       "addedAt": "2026-11-07T22:33:28.853712+00:00",
       "observedPriceHistory": [
         {
@@ -1118,6 +1142,10 @@
         {
           "observedAt": "2026-11-08T09:23:44.688097+00:00",
           "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T09:38:37.121982+00:00",
+          "priceUSD": 100.0
         }
       ],
       "firstObservedPriceUSD": 100.0,
@@ -1188,7 +1216,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T09:23:53.342466+00:00",
+      "checkedAt": "2026-11-08T09:38:45.488992+00:00",
       "addedAt": "2026-11-07T23:15:28.478055+00:00",
       "observedPriceHistory": [
         {
@@ -1266,6 +1294,10 @@
         {
           "observedAt": "2026-11-08T09:23:53.342466+00:00",
           "priceUSD": 55.5
+        },
+        {
+          "observedAt": "2026-11-08T09:38:45.488992+00:00",
+          "priceUSD": 55.5
         }
       ],
       "firstObservedPriceUSD": 55.5,
@@ -1326,7 +1358,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T09:23:46.784905+00:00",
+      "checkedAt": "2026-11-08T09:38:39.298851+00:00",
       "addedAt": "2026-11-07T22:33:34.468072+00:00",
       "observedPriceHistory": [
         {
@@ -1419,6 +1451,10 @@
         },
         {
           "observedAt": "2026-11-08T09:23:46.784905+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T09:38:39.298851+00:00",
           "priceUSD": 100.0
         }
       ],
