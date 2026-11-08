@@ -1,25 +1,25 @@
 {
-  "checkedAt": "2026-11-08T18:42:19.262636+00:00",
+  "checkedAt": "2026-11-08T18:55:25.091980+00:00",
   "summary": "Year-round script-first monitor. Resumable feed/sitemap/sale discovery twice daily; only changed products trigger agent review. Exact reviewed Yitai, Sandro and Hawes refresh every four hours in November. Coverage partial; HTTP extraction is never qualification. First-observed prices are our history; compare-at prices are merchant claims.",
   "coverage": [
     {
       "merchant": "SCRT",
-      "status": "Initial native sale grid (118 advertised items) and first 250 feed products; exact-size US/material review incomplete; later pages unreviewed; HTTP observed; 452 unqualified variant observations",
+      "status": "Initial native sale grid (118 advertised items) and first 250 feed products; exact-size US/material review incomplete; later pages unreviewed; HTTP observed; 453 unqualified variant observations",
       "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Industry of All Nations",
-      "status": "Native archive listing and 151-product feed inspected; natural-cotton S sale leads retained privately; exact selected stock/gallery audit incomplete; HTTP observed; 2222 unqualified variant observations",
+      "status": "Native archive listing and 151-product feed inspected; natural-cotton S sale leads retained privately; exact selected stock/gallery audit incomplete; HTTP observed; 2243 unqualified variant observations",
       "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Yitai",
-      "status": "Native first 16/76 shop-all grid and 78-product feed; 6 registered exact variants freshly reverified; remaining sale leads unreviewed; HTTP error / browser review queued; 589 unqualified variant observations",
+      "status": "Native first 16/76 shop-all grid and 78-product feed; 6 registered exact variants freshly reverified; remaining sale leads unreviewed; HTTP observed; 590 unqualified variant observations",
       "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Sandro",
-      "status": "Initial 32/287 sale grid; 2 exact S cotton variants verified, full galleries captured and appended; remaining pagination unreviewed; HTTP observed; 29 unqualified variant observations",
+      "status": "Initial 32/287 sale grid; 2 exact S cotton variants verified, full galleries captured and appended; remaining pagination unreviewed; HTTP observed; 30 unqualified variant observations",
       "newsletter": "inbox_confirmed"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "merchant": "Études",
-      "status": "Guessed sale category 404; homepage recovery found no sale link; first 250 feed products expose sale leads, exact US/S checks incomplete; HTTP observed; 3075 unqualified variant observations",
+      "status": "Guessed sale category 404; homepage recovery found no sale link; first 250 feed products expose sale leads, exact US/S checks incomplete; HTTP observed; 3076 unqualified variant observations",
       "newsletter": "submitted_pending_confirmation"
     },
     {
@@ -64,17 +64,17 @@
     },
     {
       "merchant": "The Frankie Shop",
-      "status": "Native mens-sale page explicitly says sale is over; first 250 feed products have no matching markdown S/W30 leads; remaining catalog/conditional offers unreviewed; HTTP observed; 346 unqualified variant observations",
+      "status": "Native mens-sale page explicitly says sale is over; first 250 feed products have no matching markdown S/W30 leads; remaining catalog/conditional offers unreviewed; HTTP observed; 347 unqualified variant observations",
       "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Yohji Yamamoto",
-      "status": "Bounded Ground Y catalog page/feed reviewed, no actual markdowns in the first 50 feed products; not all brands or all catalogs; {\"collection\": \"Ground Y only\", \"feed_page\": 1, \"feed_limit\": 50, \"products_inspected_for_price_and_variant_fields\": 50, \"markdown_products_in_bounded_feed\": 0, \"exact_product_detail_pages_reviewed\": 0, \"sale_navigation\": \"No sale/outlet text or href links found in this rendered collection DOM\"}; HTTP observed; 25 unqualified variant observations",
+      "status": "Bounded Ground Y catalog page/feed reviewed, no actual markdowns in the first 50 feed products; not all brands or all catalogs; {\"collection\": \"Ground Y only\", \"feed_page\": 1, \"feed_limit\": 50, \"products_inspected_for_price_and_variant_fields\": 50, \"markdown_products_in_bounded_feed\": 0, \"exact_product_detail_pages_reviewed\": 0, \"sale_navigation\": \"No sale/outlet text or href links found in this rendered collection DOM\"}; HTTP observed; 26 unqualified variant observations",
       "newsletter": "submitted_pending_confirmation"
     },
     {
       "merchant": "ASKET",
-      "status": "promising_sale_leads_size_unresolved; Men's collection landing page and men's archive native HTML reviewed; four exact archive color/product pages inspected for sale, material, US locale and shipping. Two also captured as rendered pages. Size-selection attempted on all four, not completed. No full inventory or other-color audit.; HTTP observed; 55 unqualified variant observations",
+      "status": "promising_sale_leads_size_unresolved; Men's collection landing page and men's archive native HTML reviewed; four exact archive color/product pages inspected for sale, material, US locale and shipping. Two also captured as rendered pages. Size-selection attempted on all four, not completed. No full inventory or other-color audit.; HTTP observed; 56 unqualified variant observations",
       "newsletter": "blocked_failed"
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "merchant": "Arc’teryx",
-      "status": "one_material_rejection_rest_unreviewed; Native men's outlet first HTML batch inspected; heading reports 108 items but only initial exposed product cards reviewed. One exact Ionia merino shirt product inspected.; HTTP observed; 0 unqualified variant observations",
+      "status": "one_material_rejection_rest_unreviewed; Native men's outlet first HTML batch inspected; heading reports 108 items but only initial exposed product cards reviewed. One exact Ionia merino shirt product inspected.; HTTP error / browser review queued; 0 unqualified variant observations",
       "newsletter": "inbox_confirmed"
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "merchant": "Rains",
-      "status": "bounded_regular_price_catalog_no_confirmed_sale; Guessed sale collection returned404; recovered native men's T-shirts collection from navigation. Reviewed exposed category cards only; no exact products opened because no markdown visible.; HTTP observed; 45 unqualified variant observations",
+      "status": "bounded_regular_price_catalog_no_confirmed_sale; Guessed sale collection returned404; recovered native men's T-shirts collection from navigation. Reviewed exposed category cards only; no exact products opened because no markdown visible.; HTTP observed; 47 unqualified variant observations",
       "newsletter": "inbox_confirmed"
     }
   ]
