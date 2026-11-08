@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-08T18:08:38.656150+00:00",
+  "checkedAt": "2026-11-08T18:10:49.343550+00:00",
   "summary": "Year-round script-first monitor. Resumable feed/sitemap/sale discovery twice daily; only changed products trigger agent review. Exact reviewed Yitai, Sandro and Hawes refresh every four hours in November. Coverage partial; HTTP extraction is never qualification. First-observed prices are our history; compare-at prices are merchant claims.",
   "coverage": [
     {
