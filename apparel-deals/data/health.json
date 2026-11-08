@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-08T08:25:17.855508+00:00",
+  "checkedAt": "2026-11-08T08:39:32.010058+00:00",
   "summary": "Year-round script-first monitor. Resumable feed/sitemap/sale discovery twice daily; only changed products trigger agent review. Exact reviewed Yitai, Sandro and Hawes refresh every four hours in November. Coverage partial; HTTP extraction is never qualification. First-observed prices are our history; compare-at prices are merchant claims.",
   "coverage": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "merchant": "Industry of All Nations",
-      "status": "Native archive listing and 151-product feed inspected; natural-cotton S sale leads retained privately; exact selected stock/gallery audit incomplete; HTTP observed; 1116 unqualified variant observations",
+      "status": "Native archive listing and 151-product feed inspected; natural-cotton S sale leads retained privately; exact selected stock/gallery audit incomplete; HTTP observed; 1117 unqualified variant observations",
       "newsletter": "inbox_confirmed"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "merchant": "Études",
-      "status": "Guessed sale category 404; homepage recovery found no sale link; first 250 feed products expose sale leads, exact US/S checks incomplete; HTTP observed; 549 unqualified variant observations",
+      "status": "Guessed sale category 404; homepage recovery found no sale link; first 250 feed products expose sale leads, exact US/S checks incomplete; HTTP observed; 550 unqualified variant observations",
       "newsletter": "submitted_pending_confirmation"
     },
     {
@@ -64,17 +64,17 @@
     },
     {
       "merchant": "The Frankie Shop",
-      "status": "Native mens-sale page explicitly says sale is over; first 250 feed products have no matching markdown S/W30 leads; remaining catalog/conditional offers unreviewed; HTTP observed; 309 unqualified variant observations",
+      "status": "Native mens-sale page explicitly says sale is over; first 250 feed products have no matching markdown S/W30 leads; remaining catalog/conditional offers unreviewed; HTTP observed; 311 unqualified variant observations",
       "newsletter": "inbox_confirmed"
     },
     {
       "merchant": "Yohji Yamamoto",
-      "status": "Bounded Ground Y catalog page/feed reviewed, no actual markdowns in the first 50 feed products; not all brands or all catalogs; {\"collection\": \"Ground Y only\", \"feed_page\": 1, \"feed_limit\": 50, \"products_inspected_for_price_and_variant_fields\": 50, \"markdown_products_in_bounded_feed\": 0, \"exact_product_detail_pages_reviewed\": 0, \"sale_navigation\": \"No sale/outlet text or href links found in this rendered collection DOM\"}; HTTP observed; 3 unqualified variant observations",
+      "status": "Bounded Ground Y catalog page/feed reviewed, no actual markdowns in the first 50 feed products; not all brands or all catalogs; {\"collection\": \"Ground Y only\", \"feed_page\": 1, \"feed_limit\": 50, \"products_inspected_for_price_and_variant_fields\": 50, \"markdown_products_in_bounded_feed\": 0, \"exact_product_detail_pages_reviewed\": 0, \"sale_navigation\": \"No sale/outlet text or href links found in this rendered collection DOM\"}; HTTP observed; 4 unqualified variant observations",
       "newsletter": "submitted_pending_confirmation"
     },
     {
       "merchant": "ASKET",
-      "status": "promising_sale_leads_size_unresolved; Men's collection landing page and men's archive native HTML reviewed; four exact archive color/product pages inspected for sale, material, US locale and shipping. Two also captured as rendered pages. Size-selection attempted on all four, not completed. No full inventory or other-color audit.; HTTP observed; 19 unqualified variant observations",
+      "status": "promising_sale_leads_size_unresolved; Men's collection landing page and men's archive native HTML reviewed; four exact archive color/product pages inspected for sale, material, US locale and shipping. Two also captured as rendered pages. Size-selection attempted on all four, not completed. No full inventory or other-color audit.; HTTP observed; 21 unqualified variant observations",
       "newsletter": "blocked_failed"
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "merchant": "Rains",
-      "status": "bounded_regular_price_catalog_no_confirmed_sale; Guessed sale collection returned404; recovered native men's T-shirts collection from navigation. Reviewed exposed category cards only; no exact products opened because no markdown visible.; HTTP observed; 5 unqualified variant observations",
+      "status": "bounded_regular_price_catalog_no_confirmed_sale; Guessed sale collection returned404; recovered native men's T-shirts collection from navigation. Reviewed exposed category cards only; no exact products opened because no markdown visible.; HTTP observed; 7 unqualified variant observations",
       "newsletter": "inbox_confirmed"
     }
   ]
