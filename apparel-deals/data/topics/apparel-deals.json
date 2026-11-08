@@ -16,7 +16,7 @@
     }
   ],
   "summary": "",
-  "updated": "2026-11-08T03:59:24.778003+00:00",
+  "updated": "2026-11-08T05:16:09.997401+00:00",
   "recommendation": {},
   "showCollectionNotes": true,
   "caveat": "Under $200 before shipping/tax. Tops S; trousers W30 × L32. Natural main fabric only; declared synthetic linings excluded. Final sale and conditional discounts flagged. Prices and stock can change.",
@@ -84,7 +84,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T03:53:00.439672+00:00",
+      "checkedAt": "2026-11-08T05:15:34.496645+00:00",
       "addedAt": "2026-11-07T23:15:33.169251+00:00",
       "observedPriceHistory": [
         {
@@ -102,92 +102,16 @@
         {
           "observedAt": "2026-11-08T03:53:00.439672+00:00",
           "priceUSD": 94.5
+        },
+        {
+          "observedAt": "2026-11-08T05:15:34.496645+00:00",
+          "priceUSD": 94.5
         }
       ],
       "firstObservedPriceUSD": 94.5,
       "merchantCompareAtUSD": 315.0,
       "sources": [
         "deal-sandro-3607172051532"
-      ]
-    },
-    {
-      "brand": "Hawes & Curtis",
-      "category": "Sweaters",
-      "color": "Sky Blue",
-      "deal": "$59 (merchant compare-at $139) · No code required · First observed $59 (2026-11-08)",
-      "facts": {
-        "Fabric": "100% Merino wool",
-        "Price": "$59 before shipping/tax",
-        "Returns": "Exact-item final-sale status not stated; return eligibility/fees unverified",
-        "Size": "S",
-        "Stock": "In stock",
-        "First observed": "$59 on 2026-11-08 (our observation, not MSRP)"
-      },
-      "id": "deal-hawes-245989",
-      "image": "assets/images/deal-hawes-jwpwh003-b56-01-14f9707c51f3.webp",
-      "imageAlt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 1",
-      "imageNote": "Complete six-image exact-color retailer gallery.",
-      "images": [
-        {
-          "alt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 1",
-          "sourceUrl": "https://images.hawesandcurtis.com/tr:q-80/JW/JWPWH003-B56-205759-800px-1040px.jpg",
-          "src": "assets/images/deal-hawes-jwpwh003-b56-01-14f9707c51f3.webp"
-        },
-        {
-          "alt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 2",
-          "sourceUrl": "https://images.hawesandcurtis.com/tr:q-80/JW/JWPWH003-B56-205760-800px-1040px.jpg",
-          "src": "assets/images/deal-hawes-jwpwh003-b56-02-18a9cff1e129.webp"
-        },
-        {
-          "alt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 3",
-          "sourceUrl": "https://images.hawesandcurtis.com/tr:q-80/JW/JWPWH003-B56-205761-800px-1040px.jpg",
-          "src": "assets/images/deal-hawes-jwpwh003-b56-03-6afd07d2719a.webp"
-        },
-        {
-          "alt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 4",
-          "sourceUrl": "https://images.hawesandcurtis.com/tr:q-80/JW/JWPWH003-B56-205762-800px-1040px.jpg",
-          "src": "assets/images/deal-hawes-jwpwh003-b56-04-d263ed34d4da.webp"
-        },
-        {
-          "alt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 5",
-          "sourceUrl": "https://images.hawesandcurtis.com/tr:q-80/JW/JWPWH003-B56-205764-800px-1040px.jpg",
-          "src": "assets/images/deal-hawes-jwpwh003-b56-05-e5120b7b8c1a.webp"
-        },
-        {
-          "alt": "Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — retailer photo 6",
-          "sourceUrl": "https://images.hawesandcurtis.com/tr:q-80/JW/JWPWH003-B56-205763-800px-1040px.jpg",
-          "src": "assets/images/deal-hawes-jwpwh003-b56-06-69e8add90035.webp"
-        }
-      ],
-      "integrityRank": 100,
-      "materialCaveat": "Separate trim/thread fiber breakdown not disclosed.",
-      "name": "Sky Blue V-Neck Sweater - Machine Washable",
-      "naturalPercent": 100,
-      "store": "Hawes & Curtis",
-      "summary": "",
-      "url": "https://www.hawesandcurtis.com/sky-blue-v-neck-sweater-machine-washable-jwpwh003-b56",
-      "verdict": "Verified deal",
-      "unitPriceUSD": 59,
-      "matchClass": "eligible",
-      "collectionIds": [
-        "qualified"
-      ],
-      "checkedAt": "2026-11-08T03:53:07.092911+00:00",
-      "addedAt": "2026-11-08T00:42:19.199262+00:00",
-      "observedPriceHistory": [
-        {
-          "observedAt": "2026-11-08T00:42:19.199262+00:00",
-          "priceUSD": 59
-        },
-        {
-          "observedAt": "2026-11-08T03:53:07.092911+00:00",
-          "priceUSD": 59
-        }
-      ],
-      "firstObservedPriceUSD": 59,
-      "merchantCompareAtUSD": 139,
-      "sources": [
-        "deal-hawes-245989"
       ]
     },
     {
@@ -257,7 +181,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T03:52:43.059879+00:00",
+      "checkedAt": "2026-11-08T05:15:12.823402+00:00",
       "addedAt": "2026-11-07T22:33:14.906685+00:00",
       "observedPriceHistory": [
         {
@@ -290,6 +214,10 @@
         },
         {
           "observedAt": "2026-11-08T03:52:43.059879+00:00",
+          "priceUSD": 70.0
+        },
+        {
+          "observedAt": "2026-11-08T05:15:12.823402+00:00",
           "priceUSD": 70.0
         }
       ],
@@ -361,7 +289,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T03:52:40.824063+00:00",
+      "checkedAt": "2026-11-08T05:15:10.871476+00:00",
       "addedAt": "2026-11-07T22:33:07.133365+00:00",
       "observedPriceHistory": [
         {
@@ -394,6 +322,10 @@
         },
         {
           "observedAt": "2026-11-08T03:52:40.824063+00:00",
+          "priceUSD": 130.0
+        },
+        {
+          "observedAt": "2026-11-08T05:15:10.871476+00:00",
           "priceUSD": 130.0
         }
       ],
@@ -470,7 +402,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T03:52:45.270029+00:00",
+      "checkedAt": "2026-11-08T05:15:14.892696+00:00",
       "addedAt": "2026-11-07T22:33:22.394577+00:00",
       "observedPriceHistory": [
         {
@@ -503,6 +435,10 @@
         },
         {
           "observedAt": "2026-11-08T03:52:45.270029+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T05:15:14.892696+00:00",
           "priceUSD": 100.0
         }
       ],
@@ -569,7 +505,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T03:52:51.814037+00:00",
+      "checkedAt": "2026-11-08T05:15:21.658538+00:00",
       "addedAt": "2026-11-07T22:33:38.408017+00:00",
       "observedPriceHistory": [
         {
@@ -602,6 +538,10 @@
         },
         {
           "observedAt": "2026-11-08T03:52:51.814037+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T05:15:21.658538+00:00",
           "priceUSD": 100.0
         }
       ],
@@ -668,7 +608,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T03:52:47.444464+00:00",
+      "checkedAt": "2026-11-08T05:15:17.026203+00:00",
       "addedAt": "2026-11-07T22:33:28.853712+00:00",
       "observedPriceHistory": [
         {
@@ -701,6 +641,10 @@
         },
         {
           "observedAt": "2026-11-08T03:52:47.444464+00:00",
+          "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T05:15:17.026203+00:00",
           "priceUSD": 100.0
         }
       ],
@@ -772,7 +716,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T03:52:56.860491+00:00",
+      "checkedAt": "2026-11-08T05:15:28.929949+00:00",
       "addedAt": "2026-11-07T23:15:28.478055+00:00",
       "observedPriceHistory": [
         {
@@ -789,6 +733,10 @@
         },
         {
           "observedAt": "2026-11-08T03:52:56.860491+00:00",
+          "priceUSD": 55.5
+        },
+        {
+          "observedAt": "2026-11-08T05:15:28.929949+00:00",
           "priceUSD": 55.5
         }
       ],
@@ -850,7 +798,7 @@
       "collectionIds": [
         "qualified"
       ],
-      "checkedAt": "2026-11-08T03:52:49.626333+00:00",
+      "checkedAt": "2026-11-08T05:15:19.192712+00:00",
       "addedAt": "2026-11-07T22:33:34.468072+00:00",
       "observedPriceHistory": [
         {
@@ -884,6 +832,10 @@
         {
           "observedAt": "2026-11-08T03:52:49.626333+00:00",
           "priceUSD": 100.0
+        },
+        {
+          "observedAt": "2026-11-08T05:15:19.192712+00:00",
+          "priceUSD": 100.0
         }
       ],
       "firstObservedPriceUSD": 100.0,
@@ -898,14 +850,6 @@
       "id": "deal-sandro-3607172051532",
       "title": "Textured knit sweater — selected retailer variant",
       "url": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_H183.html",
-      "type": "First-party retailer",
-      "accessed": "2026-11-08",
-      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
-    },
-    {
-      "id": "deal-hawes-245989",
-      "title": "Sky Blue V-Neck Sweater - Machine Washable — selected retailer variant",
-      "url": "https://www.hawesandcurtis.com/sky-blue-v-neck-sweater-machine-washable-jwpwh003-b56",
       "type": "First-party retailer",
       "accessed": "2026-11-08",
       "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
