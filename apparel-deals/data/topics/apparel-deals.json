@@ -16,7 +16,7 @@
     }
   ],
   "summary": "",
-  "updated": "2026-11-09T05:16:21.804151+00:00",
+  "updated": "2026-11-09T08:37:41.296117+00:00",
   "recommendation": {},
   "showCollectionNotes": true,
   "caveat": "Under $200 before shipping/tax. Tops S; trousers W30 × L32. Natural main fabric only; declared synthetic linings excluded. Final sale and conditional discounts flagged. Prices and stock can change.",
@@ -788,6 +788,142 @@
       ]
     },
     {
+      "attribution": "First-party Industry of All Nations",
+      "brand": "Industry of All Nations",
+      "category": "Shirts",
+      "color": "Indigo 12",
+      "deal": "$115 (merchant compare-at $175) · No code required · First observed $115 (2026-11-09)",
+      "facts": {
+        "Fabric": "100% organic cotton in Tamil",
+        "Price": "$115 before shipping/tax",
+        "Returns": "Exact-item final-sale status not stated; return eligibility/fees unverified",
+        "Size": "S",
+        "Stock": "In stock",
+        "First observed": "$115 on 2026-11-09 (our observation, not MSRP)"
+      },
+      "id": "deal-ioan-classic-madras-short-sleeve-shirt-indigo12",
+      "image": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-indigo12-01-c6b1a4.webp",
+      "imageAlt": "Classic Madras Shirt SS - Lightweight — Indigo 12 — retailer photo 1",
+      "imageNote": "Retailer gallery via public Shopify product feed; featured-color images preferred.",
+      "images": [
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Indigo 12 — retailer photo 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-in12-p-8736183.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-indigo12-01-c6b1a4.webp"
+        },
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Indigo 12 — retailer photo 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-und-p-8552045.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-indigo12-02-9afccf.webp"
+        },
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Indigo 12 — retailer photo 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-in6-p-4666468.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-indigo12-03-167371.webp"
+        },
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Indigo 12 — retailer photo 4",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-sh-p-2018636.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-indigo12-05-8ed099.webp"
+        }
+      ],
+      "integrityRank": "A",
+      "name": "Classic Madras Shirt SS - Lightweight",
+      "store": "Industry of All Nations",
+      "summary": "100% organic cotton in Tamil · size S in stock at publish time",
+      "verdict": "GLiClass-ranked backlog candidate; feed-verified (import skipped deep UI run by request).",
+      "unitPriceUSD": 115.0,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-09T08:37:02.493632+00:00",
+      "addedAt": "2026-11-09T08:36:08.443013+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-09T08:36:08.443013+00:00",
+          "priceUSD": 115.0
+        },
+        {
+          "observedAt": "2026-11-09T08:37:02.493632+00:00",
+          "priceUSD": 115.0
+        }
+      ],
+      "firstObservedPriceUSD": 115.0,
+      "merchantCompareAtUSD": 175.0,
+      "sources": [
+        "deal-ioan-classic-madras-short-sleeve-shirt-indigo12"
+      ]
+    },
+    {
+      "attribution": "First-party Industry of All Nations",
+      "brand": "Industry of All Nations",
+      "category": "Shirts",
+      "color": "Undyed",
+      "deal": "$105 (merchant compare-at $155) · No code required · First observed $105 (2026-11-09)",
+      "facts": {
+        "Fabric": "100% organic cotton in Tamil",
+        "Price": "$105 before shipping/tax",
+        "Returns": "Exact-item final-sale status not stated; return eligibility/fees unverified",
+        "Size": "S",
+        "Stock": "In stock",
+        "First observed": "$105 on 2026-11-09 (our observation, not MSRP)"
+      },
+      "id": "deal-ioan-classic-madras-short-sleeve-shirt-undyed",
+      "image": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-undyed-01-9afccf.webp",
+      "imageAlt": "Classic Madras Shirt SS - Lightweight — Undyed — retailer photo 1",
+      "imageNote": "Retailer gallery via public Shopify product feed; featured-color images preferred.",
+      "images": [
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Undyed — retailer photo 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-und-p-8552045.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-undyed-01-9afccf.webp"
+        },
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Undyed — retailer photo 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-in6-p-4666468.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-undyed-03-167371.webp"
+        },
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Undyed — retailer photo 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-in12-p-8736183.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-undyed-04-c6b1a4.webp"
+        },
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Undyed — retailer photo 4",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-sh-p-2018636.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-undyed-05-8ed099.webp"
+        }
+      ],
+      "integrityRank": "A",
+      "name": "Classic Madras Shirt SS - Lightweight",
+      "store": "Industry of All Nations",
+      "summary": "100% organic cotton in Tamil · size S in stock at publish time",
+      "verdict": "GLiClass-ranked backlog candidate; feed-verified (import skipped deep UI run by request).",
+      "unitPriceUSD": 105.0,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-09T08:37:02.493632+00:00",
+      "addedAt": "2026-11-09T08:36:08.443013+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-09T08:36:08.443013+00:00",
+          "priceUSD": 105.0
+        },
+        {
+          "observedAt": "2026-11-09T08:37:02.493632+00:00",
+          "priceUSD": 105.0
+        }
+      ],
+      "firstObservedPriceUSD": 105.0,
+      "merchantCompareAtUSD": 155.0,
+      "sources": [
+        "deal-ioan-classic-madras-short-sleeve-shirt-undyed"
+      ]
+    },
+    {
       "brand": "Yitai",
       "category": "Jeans",
       "color": "Light Wash",
@@ -1049,6 +1185,74 @@
       "merchantCompareAtUSD": 160.0,
       "sources": [
         "deal-yitai-48374349070566"
+      ]
+    },
+    {
+      "attribution": "First-party Industry of All Nations",
+      "brand": "Industry of All Nations",
+      "category": "Shirts",
+      "color": "Shellac 2",
+      "deal": "$115 (merchant compare-at $175) · No code required · First observed $115 (2026-11-09)",
+      "facts": {
+        "Fabric": "100% organic cotton in Tamil",
+        "Price": "$115 before shipping/tax",
+        "Returns": "Exact-item final-sale status not stated; return eligibility/fees unverified",
+        "Size": "S",
+        "Stock": "In stock",
+        "First observed": "$115 on 2026-11-09 (our observation, not MSRP)"
+      },
+      "id": "deal-ioan-classic-madras-short-sleeve-shirt-shellac2",
+      "image": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-shellac2-01-8ed099.webp",
+      "imageAlt": "Classic Madras Shirt SS - Lightweight — Shellac 2 — retailer photo 1",
+      "imageNote": "Retailer gallery via public Shopify product feed; featured-color images preferred.",
+      "images": [
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Shellac 2 — retailer photo 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-sh-p-2018636.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-shellac2-01-8ed099.webp"
+        },
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Shellac 2 — retailer photo 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-und-p-8552045.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-shellac2-02-9afccf.webp"
+        },
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Shellac 2 — retailer photo 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-in6-p-4666468.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-shellac2-03-167371.webp"
+        },
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Shellac 2 — retailer photo 4",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-in12-p-8736183.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-shellac2-04-c6b1a4.webp"
+        }
+      ],
+      "integrityRank": "A",
+      "name": "Classic Madras Shirt SS - Lightweight",
+      "store": "Industry of All Nations",
+      "summary": "100% organic cotton in Tamil · size S in stock at publish time",
+      "verdict": "GLiClass-ranked backlog candidate; feed-verified (import skipped deep UI run by request).",
+      "unitPriceUSD": 115.0,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-09T08:37:02.493632+00:00",
+      "addedAt": "2026-11-09T08:36:08.443013+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-09T08:36:08.443013+00:00",
+          "priceUSD": 115.0
+        },
+        {
+          "observedAt": "2026-11-09T08:37:02.493632+00:00",
+          "priceUSD": 115.0
+        }
+      ],
+      "firstObservedPriceUSD": 115.0,
+      "merchantCompareAtUSD": 175.0,
+      "sources": [
+        "deal-ioan-classic-madras-short-sleeve-shirt-shellac2"
       ]
     },
     {
@@ -1580,6 +1784,74 @@
       ]
     },
     {
+      "attribution": "First-party Industry of All Nations",
+      "brand": "Industry of All Nations",
+      "category": "Shirts",
+      "color": "Indigo 6",
+      "deal": "$115 (merchant compare-at $175) · No code required · First observed $115 (2026-11-09)",
+      "facts": {
+        "Fabric": "100% organic cotton in Tamil",
+        "Price": "$115 before shipping/tax",
+        "Returns": "Exact-item final-sale status not stated; return eligibility/fees unverified",
+        "Size": "S",
+        "Stock": "In stock",
+        "First observed": "$115 on 2026-11-09 (our observation, not MSRP)"
+      },
+      "id": "deal-ioan-classic-madras-short-sleeve-shirt-indigo6",
+      "image": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-indigo6-01-167371.webp",
+      "imageAlt": "Classic Madras Shirt SS - Lightweight — Indigo 6 — retailer photo 1",
+      "imageNote": "Retailer gallery via public Shopify product feed; featured-color images preferred.",
+      "images": [
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Indigo 6 — retailer photo 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-in6-p-4666468.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-indigo6-01-167371.webp"
+        },
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Indigo 6 — retailer photo 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-und-p-8552045.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-indigo6-02-9afccf.webp"
+        },
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Indigo 6 — retailer photo 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-in12-p-8736183.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-indigo6-04-c6b1a4.webp"
+        },
+        {
+          "alt": "Classic Madras Shirt SS - Lightweight — Indigo 6 — retailer photo 4",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/classic-madras-shirt-ss-lightweight-cmss-sh-p-2018636.jpg",
+          "src": "assets/images/deal-ioan-classic-madras-short-sleeve-shirt-indigo6-05-8ed099.webp"
+        }
+      ],
+      "integrityRank": "A",
+      "name": "Classic Madras Shirt SS - Lightweight",
+      "store": "Industry of All Nations",
+      "summary": "100% organic cotton in Tamil · size S in stock at publish time",
+      "verdict": "GLiClass-ranked backlog candidate; feed-verified (import skipped deep UI run by request).",
+      "unitPriceUSD": 115.0,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-09T08:37:02.493632+00:00",
+      "addedAt": "2026-11-09T08:36:08.443013+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-09T08:36:08.443013+00:00",
+          "priceUSD": 115.0
+        },
+        {
+          "observedAt": "2026-11-09T08:37:02.493632+00:00",
+          "priceUSD": 115.0
+        }
+      ],
+      "firstObservedPriceUSD": 115.0,
+      "merchantCompareAtUSD": 175.0,
+      "sources": [
+        "deal-ioan-classic-madras-short-sleeve-shirt-indigo6"
+      ]
+    },
+    {
       "brand": "Yitai",
       "category": "Sweater",
       "color": "Multicolor",
@@ -2095,6 +2367,79 @@
       ]
     },
     {
+      "attribution": "First-party Industry of All Nations",
+      "brand": "Industry of All Nations",
+      "category": "Shirts",
+      "color": "Shellac 2",
+      "deal": "$95 (merchant compare-at $150) · No code required · First observed $95 (2026-11-09)",
+      "facts": {
+        "Fabric": "100% organic cotton in a classic madras plaid",
+        "Price": "$95 before shipping/tax",
+        "Returns": "Exact-item final-sale status not stated; return eligibility/fees unverified",
+        "Size": "S",
+        "Stock": "In stock",
+        "First observed": "$95 on 2026-11-09 (our observation, not MSRP)"
+      },
+      "id": "deal-ioan-band-collar-shirt-shellac2",
+      "image": "assets/images/deal-ioan-band-collar-shirt-shellac2-01-210570.webp",
+      "imageAlt": "Band Collar Madras Shirt - LS - Lightweight — Shellac 2 — retailer photo 1",
+      "imageNote": "Retailer gallery via public Shopify product feed; featured-color images preferred.",
+      "images": [
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Shellac 2 — retailer photo 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-sh-p-4503882.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-shellac2-01-210570.webp"
+        },
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Shellac 2 — retailer photo 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-und-p-3722818.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-shellac2-02-023a74.webp"
+        },
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Shellac 2 — retailer photo 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-in6-p-5368324.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-shellac2-04-e3ef26.webp"
+        },
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Shellac 2 — retailer photo 4",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-in12-p-8657422.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-shellac2-05-558011.webp"
+        },
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Shellac 2 — retailer photo 5",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-ir8-p-3066726.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-shellac2-06-3c8da9.webp"
+        }
+      ],
+      "integrityRank": "A",
+      "name": "Band Collar Madras Shirt - LS - Lightweight",
+      "store": "Industry of All Nations",
+      "summary": "100% organic cotton in a classic madras plaid · size S in stock at publish time",
+      "verdict": "GLiClass-ranked backlog candidate; feed-verified (import skipped deep UI run by request).",
+      "unitPriceUSD": 95.0,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-09T08:37:02.493632+00:00",
+      "addedAt": "2026-11-09T08:36:08.443013+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-09T08:36:08.443013+00:00",
+          "priceUSD": 95.0
+        },
+        {
+          "observedAt": "2026-11-09T08:37:02.493632+00:00",
+          "priceUSD": 95.0
+        }
+      ],
+      "firstObservedPriceUSD": 95.0,
+      "merchantCompareAtUSD": 150.0,
+      "sources": [
+        "deal-ioan-band-collar-shirt-shellac2"
+      ]
+    },
+    {
       "brand": "Yitai",
       "category": "Sweater",
       "color": "Multicolor",
@@ -2349,6 +2694,152 @@
       ]
     },
     {
+      "attribution": "First-party Industry of All Nations",
+      "brand": "Industry of All Nations",
+      "category": "Shirts",
+      "color": "Indigo 12",
+      "deal": "$95 (merchant compare-at $150) · No code required · First observed $95 (2026-11-09)",
+      "facts": {
+        "Fabric": "100% organic cotton in a classic madras plaid",
+        "Price": "$95 before shipping/tax",
+        "Returns": "Exact-item final-sale status not stated; return eligibility/fees unverified",
+        "Size": "S",
+        "Stock": "In stock",
+        "First observed": "$95 on 2026-11-09 (our observation, not MSRP)"
+      },
+      "id": "deal-ioan-band-collar-shirt-indigo12",
+      "image": "assets/images/deal-ioan-band-collar-shirt-indigo12-01-558011.webp",
+      "imageAlt": "Band Collar Madras Shirt - LS - Lightweight — Indigo 12 — retailer photo 1",
+      "imageNote": "Retailer gallery via public Shopify product feed; featured-color images preferred.",
+      "images": [
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Indigo 12 — retailer photo 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-in12-p-8657422.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-indigo12-01-558011.webp"
+        },
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Indigo 12 — retailer photo 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-und-p-3722818.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-indigo12-02-023a74.webp"
+        },
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Indigo 12 — retailer photo 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-sh-p-4503882.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-indigo12-03-210570.webp"
+        },
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Indigo 12 — retailer photo 4",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-in6-p-5368324.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-indigo12-04-e3ef26.webp"
+        },
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Indigo 12 — retailer photo 5",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-ir8-p-3066726.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-indigo12-06-3c8da9.webp"
+        }
+      ],
+      "integrityRank": "A",
+      "name": "Band Collar Madras Shirt - LS - Lightweight",
+      "store": "Industry of All Nations",
+      "summary": "100% organic cotton in a classic madras plaid · size S in stock at publish time",
+      "verdict": "GLiClass-ranked backlog candidate; feed-verified (import skipped deep UI run by request).",
+      "unitPriceUSD": 95.0,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-09T08:37:02.493632+00:00",
+      "addedAt": "2026-11-09T08:36:08.443013+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-09T08:36:08.443013+00:00",
+          "priceUSD": 95.0
+        },
+        {
+          "observedAt": "2026-11-09T08:37:02.493632+00:00",
+          "priceUSD": 95.0
+        }
+      ],
+      "firstObservedPriceUSD": 95.0,
+      "merchantCompareAtUSD": 150.0,
+      "sources": [
+        "deal-ioan-band-collar-shirt-indigo12"
+      ]
+    },
+    {
+      "attribution": "First-party Industry of All Nations",
+      "brand": "Industry of All Nations",
+      "category": "Shirts",
+      "color": "Indigo 6",
+      "deal": "$95 (merchant compare-at $150) · No code required · First observed $95 (2026-11-09)",
+      "facts": {
+        "Fabric": "100% organic cotton in a classic madras plaid",
+        "Price": "$95 before shipping/tax",
+        "Returns": "Exact-item final-sale status not stated; return eligibility/fees unverified",
+        "Size": "S",
+        "Stock": "In stock",
+        "First observed": "$95 on 2026-11-09 (our observation, not MSRP)"
+      },
+      "id": "deal-ioan-band-collar-shirt-indigo6",
+      "image": "assets/images/deal-ioan-band-collar-shirt-indigo6-01-e3ef26.webp",
+      "imageAlt": "Band Collar Madras Shirt - LS - Lightweight — Indigo 6 — retailer photo 1",
+      "imageNote": "Retailer gallery via public Shopify product feed; featured-color images preferred.",
+      "images": [
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Indigo 6 — retailer photo 1",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-in6-p-5368324.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-indigo6-01-e3ef26.webp"
+        },
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Indigo 6 — retailer photo 2",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-und-p-3722818.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-indigo6-02-023a74.webp"
+        },
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Indigo 6 — retailer photo 3",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-sh-p-4503882.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-indigo6-03-210570.webp"
+        },
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Indigo 6 — retailer photo 4",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-in12-p-8657422.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-indigo6-05-558011.webp"
+        },
+        {
+          "alt": "Band Collar Madras Shirt - LS - Lightweight — Indigo 6 — retailer photo 5",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0897/6684/files/band-collar-madras-shirt-ls-lightweight-bmls-ir8-p-3066726.jpg",
+          "src": "assets/images/deal-ioan-band-collar-shirt-indigo6-06-3c8da9.webp"
+        }
+      ],
+      "integrityRank": "A",
+      "name": "Band Collar Madras Shirt - LS - Lightweight",
+      "store": "Industry of All Nations",
+      "summary": "100% organic cotton in a classic madras plaid · size S in stock at publish time",
+      "verdict": "GLiClass-ranked backlog candidate; feed-verified (import skipped deep UI run by request).",
+      "unitPriceUSD": 95.0,
+      "matchClass": "eligible",
+      "collectionIds": [
+        "qualified"
+      ],
+      "checkedAt": "2026-11-09T08:37:02.493632+00:00",
+      "addedAt": "2026-11-09T08:36:08.443013+00:00",
+      "observedPriceHistory": [
+        {
+          "observedAt": "2026-11-09T08:36:08.443013+00:00",
+          "priceUSD": 95.0
+        },
+        {
+          "observedAt": "2026-11-09T08:37:02.493632+00:00",
+          "priceUSD": 95.0
+        }
+      ],
+      "firstObservedPriceUSD": 95.0,
+      "merchantCompareAtUSD": 150.0,
+      "sources": [
+        "deal-ioan-band-collar-shirt-indigo6"
+      ]
+    },
+    {
       "brand": "Yitai",
       "category": "T-Shirt",
       "color": "Black",
@@ -2463,9 +2954,33 @@
       "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
     },
     {
+      "id": "deal-ioan-classic-madras-short-sleeve-shirt-indigo12",
+      "title": "Classic Madras Shirt SS - Lightweight — selected retailer variant",
+      "url": "https://industryofallnations.com/products/classic-madras-short-sleeve-shirt",
+      "type": "First-party retailer",
+      "accessed": "2026-11-09",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    },
+    {
+      "id": "deal-ioan-classic-madras-short-sleeve-shirt-undyed",
+      "title": "Classic Madras Shirt SS - Lightweight — selected retailer variant",
+      "url": "https://industryofallnations.com/products/classic-madras-short-sleeve-shirt",
+      "type": "First-party retailer",
+      "accessed": "2026-11-09",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    },
+    {
       "id": "deal-yitai-48374349070566",
       "title": "Light Wash Slub Selvedge Denim — selected retailer variant",
       "url": "https://www.yitai.la/products/light-wash-slub-selvedge-straight-leg-denim?variant=48374349070566",
+      "type": "First-party retailer",
+      "accessed": "2026-11-09",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    },
+    {
+      "id": "deal-ioan-classic-madras-short-sleeve-shirt-shellac2",
+      "title": "Classic Madras Shirt SS - Lightweight — selected retailer variant",
+      "url": "https://industryofallnations.com/products/classic-madras-short-sleeve-shirt",
       "type": "First-party retailer",
       "accessed": "2026-11-09",
       "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
@@ -2487,6 +3002,14 @@
       "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
     },
     {
+      "id": "deal-ioan-classic-madras-short-sleeve-shirt-indigo6",
+      "title": "Classic Madras Shirt SS - Lightweight — selected retailer variant",
+      "url": "https://industryofallnations.com/products/classic-madras-short-sleeve-shirt",
+      "type": "First-party retailer",
+      "accessed": "2026-11-09",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    },
+    {
       "id": "deal-yitai-46875779399910",
       "title": "Tokyo Embroidery Sweater — selected retailer variant",
       "url": "https://www.yitai.la/products/tokyo-embroidery-sweater?variant=46875779399910",
@@ -2503,9 +3026,33 @@
       "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
     },
     {
+      "id": "deal-ioan-band-collar-shirt-shellac2",
+      "title": "Band Collar Madras Shirt - LS - Lightweight — selected retailer variant",
+      "url": "https://industryofallnations.com/products/band-collar-shirt",
+      "type": "First-party retailer",
+      "accessed": "2026-11-09",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    },
+    {
       "id": "deal-yitai-46431973867750",
       "title": "Mexico City Sweater — selected retailer variant",
       "url": "https://www.yitai.la/products/mexico-city-sweater?variant=46431973867750",
+      "type": "First-party retailer",
+      "accessed": "2026-11-09",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    },
+    {
+      "id": "deal-ioan-band-collar-shirt-indigo12",
+      "title": "Band Collar Madras Shirt - LS - Lightweight — selected retailer variant",
+      "url": "https://industryofallnations.com/products/band-collar-shirt",
+      "type": "First-party retailer",
+      "accessed": "2026-11-09",
+      "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
+    },
+    {
+      "id": "deal-ioan-band-collar-shirt-indigo6",
+      "title": "Band Collar Madras Shirt - LS - Lightweight — selected retailer variant",
+      "url": "https://industryofallnations.com/products/band-collar-shirt",
       "type": "First-party retailer",
       "accessed": "2026-11-09",
       "note": "Exact-size inventory, USD price and natural main fabric checked on retailer."
