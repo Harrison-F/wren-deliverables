@@ -7,9 +7,9 @@
   "defaultSort": "price",
   "showCollectionNotes": false,
   "recommendation": {
-    "title": "Everyday pots, with the nickel trade-off visible",
-    "text": "Budget: IKEA 365+ 5 qt. Amazon: Cuisinart Chef’s Classic 6 qt. Larger batches: Tramontina Tempo 8 qt. Stainless is a practical value choice—not proven healthiest. For nickel minimization, consider Visions glass-ceramic for wet cooking; it is breakable and classic models are not induction-ready.",
-    "test": "Nickel-minimized labels assess the hot-food-contact construction, not zero migration or clinical safety. Visions: prefer ~3.5 L for one everyday pot, 5 L for batches; current linked listing is 2.5 L. Best for wet cooking, not bacon frying; no deep-fat frying. Scoops measure mL, not grams."
+    "title": "For bacon and a pot: start with seasoned cast iron",
+    "text": "Best fit: Lodge Double Dutch Oven—use its skillet lid for bacon and the pot for meals. Less upkeep: Lodge enamel Dutch oven, with low–medium heat and oil. Both are construction-based nickel-reduction candidates, not certified zero-nickel products. Visions remains the wet-cooking option.",
+    "test": "The default tab contains glass-ceramic and likely nickel-minimized iron options. Nickel-bearing stainless is separate; undisclosed alloys and HOMICHEF’s unverified nickel-free claim are under Unverified. Cast iron needs seasoning care; enamel needs chip/thermal-shock care. Shipping/tax unknown."
   },
   "summary": "Everyday pots, pans and powder scoops; retail photos and direct product links.",
   "evidenceNote": "New pots and scoop offer checked 2026-11-12; earlier card prices are historical observations. Primary retail photos only; full galleries not archived. No exact-product migration tests or clinical superiority established.",
@@ -51,7 +51,10 @@
       "nickelMinimized": {
         "assessment": "No",
         "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
-      }
+      },
+      "collectionIds": [
+        "not-minimized"
+      ]
     },
     {
       "id": "cookware-lodge",
@@ -90,7 +93,10 @@
       "nickelMinimized": {
         "assessment": "Likely",
         "reason": "seasoned carbon steel, not nickel-alloy stainless. Trace nickel / exact-item migration not verified; seasoning maintenance required."
-      }
+      },
+      "collectionIds": [
+        "nickel-minimized"
+      ]
     },
     {
       "id": "cookware-cuisinart",
@@ -129,7 +135,10 @@
       "nickelMinimized": {
         "assessment": "No",
         "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
-      }
+      },
+      "collectionIds": [
+        "not-minimized"
+      ]
     },
     {
       "id": "cookware-tramontina-pot",
@@ -171,7 +180,10 @@
       "nickelMinimized": {
         "assessment": "No",
         "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
-      }
+      },
+      "collectionIds": [
+        "not-minimized"
+      ]
     },
     {
       "id": "cookware-visions",
@@ -220,7 +232,10 @@
       "nickelMinimized": {
         "assessment": "Yes",
         "reason": "glass-ceramic food-contact body and glass lid, rather than nickel-bearing steel. Construction-based; no exact-item migration test."
-      }
+      },
+      "collectionIds": [
+        "nickel-minimized"
+      ]
     },
     {
       "id": "cookware-allclad",
@@ -258,7 +273,10 @@
       "nickelMinimized": {
         "assessment": "No",
         "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
-      }
+      },
+      "collectionIds": [
+        "not-minimized"
+      ]
     },
     {
       "id": "cookware-oxo",
@@ -296,7 +314,10 @@
       "nickelMinimized": {
         "assessment": "Unverified",
         "reason": "stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
-      }
+      },
+      "collectionIds": [
+        "unverified"
+      ]
     },
     {
       "id": "cookware-turner",
@@ -335,7 +356,10 @@
       "nickelMinimized": {
         "assessment": "Unverified",
         "reason": "stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
-      }
+      },
+      "collectionIds": [
+        "unverified"
+      ]
     },
     {
       "id": "cookware-ikea3",
@@ -375,7 +399,10 @@
       "nickelMinimized": {
         "assessment": "Unverified",
         "reason": "stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
-      }
+      },
+      "collectionIds": [
+        "unverified"
+      ]
     },
     {
       "id": "cookware-ikea5",
@@ -415,7 +442,10 @@
       "nickelMinimized": {
         "assessment": "Unverified",
         "reason": "stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
-      }
+      },
+      "collectionIds": [
+        "unverified"
+      ]
     },
     {
       "id": "cookware-classic6",
@@ -455,7 +485,10 @@
       "nickelMinimized": {
         "assessment": "Unverified",
         "reason": "stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
-      }
+      },
+      "collectionIds": [
+        "unverified"
+      ]
     },
     {
       "id": "cookware-tempo8",
@@ -495,7 +528,10 @@
       "nickelMinimized": {
         "assessment": "No",
         "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
-      }
+      },
+      "collectionIds": [
+        "not-minimized"
+      ]
     },
     {
       "id": "cookware-cooks6",
@@ -535,7 +571,10 @@
       "nickelMinimized": {
         "assessment": "No",
         "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
-      }
+      },
+      "collectionIds": [
+        "not-minimized"
+      ]
     },
     {
       "id": "cookware-signature6",
@@ -575,7 +614,10 @@
       "nickelMinimized": {
         "assessment": "No",
         "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
-      }
+      },
+      "collectionIds": [
+        "not-minimized"
+      ]
     },
     {
       "id": "cookware-scoops",
@@ -615,7 +657,136 @@
       "nickelMinimized": {
         "assessment": "Not a heat-use recommendation",
         "reason": "18/8 steel contains nickel; intended here for brief dry-powder scooping."
-      }
+      },
+      "collectionIds": [
+        "not-minimized"
+      ]
+    },
+    {
+      "id": "cookware-double-dutch",
+      "name": "Lodge 5-quart Double Dutch Oven + Skillet Lid",
+      "url": "https://www.lodgecastiron.com/products/double-dutch-oven",
+      "store": "Lodge",
+      "category": "Grease-friendly pots",
+      "verdict": "Best fit for bacon + a pot",
+      "summary": "Use the skillet lid for bacon; pot for meals. Heavy; hand-wash, dry promptly and oil. Avoid long acidic simmering.",
+      "materialCaveat": "Seasoned cast iron rather than nickel-alloy stainless. Trace nickel and migration not independently tested.",
+      "nickelMinimized": {
+        "assessment": "Likely",
+        "reason": "Seasoned cast iron rather than nickel-alloy stainless. Trace nickel and migration not independently tested."
+      },
+      "collectionIds": [
+        "nickel-minimized"
+      ],
+      "image": "assets/images/cookware-double-dutch.jpg",
+      "imageAlt": "Lodge 5-quart Double Dutch Oven + Skillet Lid retailer photo",
+      "imageNote": "Selected exact listing primary photograph; full gallery not archived.",
+      "images": [
+        {
+          "src": "assets/images/cookware-double-dutch.jpg",
+          "alt": "Lodge 5-quart Double Dutch Oven + Skillet Lid",
+          "source": "https://www.lodgecastiron.com/cdn/shop/files/L8DD3_3000x3000_Whitetable4.webp?v=1783606346&width=400",
+          "sourcePage": "https://www.lodgecastiron.com/products/double-dutch-oven"
+        }
+      ],
+      "unitPriceUSD": 59.9,
+      "naturalPercent": null,
+      "integrityRank": null,
+      "facts": {
+        "Fabric": "Cast iron with baked-on vegetable-oil seasoning; lid doubles as a dual-handle skillet.",
+        "Price": "$59.90 selected new item price; shipping and tax unverified. Checked 2026-11-12.",
+        "Fit": "Use the skillet lid for bacon; pot for meals. Heavy; hand-wash, dry promptly and oil. Avoid long acidic simmering.",
+        "Status": "Best fit for bacon + a pot",
+        "Nickel minimization": "Likely — Seasoned cast iron rather than nickel-alloy stainless. Trace nickel and migration not independently tested."
+      },
+      "sources": [
+        "grease-double-dutch",
+        "lodge-oil-care"
+      ]
+    },
+    {
+      "id": "cookware-enamel6",
+      "name": "Lodge Essential Enamel 6-quart Dutch Oven · Oyster White",
+      "url": "https://www.amazon.com/dp/B00U1OCPWQ",
+      "store": "Amazon.com",
+      "category": "Grease-friendly pots",
+      "verdict": "Less maintenance; grease-friendly",
+      "summary": "Manufacturer permits oil cooking and searing at low–medium heat. No empty stovetop preheating; heavy; protect enamel from chips. No seasoning.",
+      "materialCaveat": "Intact porcelain-enamel food surface covers cast iron, avoiding a bare nickel-alloy steel cooking surface. Exact enamel nickel / lead / cadmium migration not verified.",
+      "nickelMinimized": {
+        "assessment": "Likely",
+        "reason": "Intact porcelain-enamel food surface covers cast iron, avoiding a bare nickel-alloy steel cooking surface. Exact enamel nickel / lead / cadmium migration not verified."
+      },
+      "collectionIds": [
+        "nickel-minimized"
+      ],
+      "image": "assets/images/cookware-enamel6.jpg",
+      "imageAlt": "Lodge Essential Enamel 6-quart Dutch Oven · Oyster White retailer photo",
+      "imageNote": "Selected exact listing primary photograph; full gallery not archived.",
+      "images": [
+        {
+          "src": "assets/images/cookware-enamel6.jpg",
+          "alt": "Lodge Essential Enamel 6-quart Dutch Oven · Oyster White",
+          "source": "https://m.media-amazon.com/images/I/618X4klCsRL._AC_SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B00U1OCPWQ"
+        }
+      ],
+      "unitPriceUSD": 89.9,
+      "naturalPercent": null,
+      "integrityRank": null,
+      "facts": {
+        "Fabric": "Porcelain enamel over cast iron; glass-like lining, not ceramic nonstick. Metal lid knob is external.",
+        "Price": "$89.90 selected new item price; shipping and tax unverified. Checked 2026-11-12.",
+        "Fit": "Manufacturer permits oil cooking and searing at low–medium heat. No empty stovetop preheating; heavy; protect enamel from chips. No seasoning.",
+        "Status": "Less maintenance; grease-friendly",
+        "Nickel minimization": "Likely — Intact porcelain-enamel food surface covers cast iron, avoiding a bare nickel-alloy steel cooking surface. Exact enamel nickel / lead / cadmium migration not verified."
+      },
+      "sources": [
+        "grease-enamel6",
+        "lodge-enamel-care"
+      ]
+    },
+    {
+      "id": "cookware-homichef6",
+      "name": "HOMICHEF 6-quart Nickel-Free Stainless Stockpot",
+      "url": "https://www.amazon.com/dp/B07R6H26HW",
+      "store": "Amazon · HomiChef",
+      "category": "Everyday pots",
+      "verdict": "Budget nickel-free claim — provisional",
+      "summary": "An ordinary uncoated pot, not nonstick. Manufacturer emphasizes simmering; bacon/frying-specific care was not verified. Candidate pending composition confirmation.",
+      "materialCaveat": "Manufacturer claims nickel-free stainless; exact alloy, rivets, lid-rim composition and independent migration results not verified. Not yet a confirmed nickel-minimized pick.",
+      "nickelMinimized": {
+        "assessment": "Unverified",
+        "reason": "Manufacturer claims nickel-free stainless; exact alloy, rivets, lid-rim composition and independent migration results not verified. Not yet a confirmed nickel-minimized pick."
+      },
+      "collectionIds": [
+        "unverified"
+      ],
+      "image": "assets/images/cookware-homichef6.jpg",
+      "imageAlt": "HOMICHEF 6-quart Nickel-Free Stainless Stockpot retailer photo",
+      "imageNote": "Selected exact listing primary photograph; full gallery not archived.",
+      "images": [
+        {
+          "src": "assets/images/cookware-homichef6.jpg",
+          "alt": "HOMICHEF 6-quart Nickel-Free Stainless Stockpot",
+          "source": "https://m.media-amazon.com/images/I/51rae5AL7gL._AC_SL1001_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B07R6H26HW"
+        }
+      ],
+      "unitPriceUSD": 37.99,
+      "naturalPercent": null,
+      "integrityRank": null,
+      "facts": {
+        "Fabric": "Claimed nickel-free stainless body; encapsulated aluminum base, glass lid, riveted steel handles.",
+        "Price": "$37.99 selected new item price; shipping and tax unverified. Checked 2026-11-12.",
+        "Fit": "An ordinary uncoated pot, not nonstick. Manufacturer emphasizes simmering; bacon/frying-specific care was not verified. Candidate pending composition confirmation.",
+        "Status": "Budget nickel-free claim — provisional",
+        "Nickel minimization": "Unverified — Manufacturer claims nickel-free stainless; exact alloy, rivets, lid-rim composition and independent migration results not verified. Not yet a confirmed nickel-minimized pick."
+      },
+      "sources": [
+        "grease-homichef6",
+        "nickel-eu"
+      ]
     }
   ],
   "sources": [
@@ -743,6 +914,46 @@
       "id": "solbrah-video",
       "title": "SolBrah-posted nickel video — transcript reviewed; broader hair/metabolic claims unverified",
       "url": "https://x.com/SolBrah/status/2109480650244039022"
+    },
+    {
+      "id": "grease-double-dutch",
+      "title": "Lodge 5-quart Double Dutch Oven + Skillet Lid",
+      "url": "https://www.lodgecastiron.com/products/double-dutch-oven"
+    },
+    {
+      "id": "grease-enamel6",
+      "title": "Lodge Essential Enamel 6-quart Dutch Oven · Oyster White",
+      "url": "https://www.amazon.com/dp/B00U1OCPWQ"
+    },
+    {
+      "id": "grease-homichef6",
+      "title": "HOMICHEF 6-quart Nickel-Free Stainless Stockpot",
+      "url": "https://www.amazon.com/dp/B07R6H26HW"
+    },
+    {
+      "id": "lodge-oil-care",
+      "title": "Lodge: cooking with oil, tallow, lard and ghee",
+      "url": "https://www.lodgecastiron.com/pages/cleaning-and-care-cast-iron-oils-cast-iron-cooking-and-seasoning"
+    },
+    {
+      "id": "lodge-enamel-care",
+      "title": "Lodge enamel care: oil cooking, low–medium heat and no empty preheat",
+      "url": "https://www.lodgecastiron.com/pages/cleaning-care-enameled-cast-iron"
     }
-  ]
+  ],
+  "collectionTabs": [
+    {
+      "id": "nickel-minimized",
+      "label": "Nickel-minimized shortlist"
+    },
+    {
+      "id": "not-minimized",
+      "label": "Not nickel-minimized"
+    },
+    {
+      "id": "unverified",
+      "label": "Unverified"
+    }
+  ],
+  "defaultCollection": "nickel-minimized"
 }
