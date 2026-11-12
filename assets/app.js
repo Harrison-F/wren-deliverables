@@ -46,10 +46,14 @@ function catalogColor(p){
 }
 function catalogMeta(p){
  if(p.clinicalCard) return `<div class="card-head"><div class="identity"><h2><a class="product-title-link" href="${safeURL(p.url)}" target="_blank" rel="noopener noreferrer">${esc(p.name)}</a></h2></div></div><p class="catalog-store">${esc(p.store)}</p><p class="catalog-price">${esc(p.priceLabel)}</p><p class="clinical-status">${esc(p.verdict)}</p><p class="catalog-material">${esc(p.composition)}</p><p class="clinical-caution">${esc(p.summary)}</p>`;
- const item=p.name.split(' · ').slice(1).join(' · ')||p.name;
+ const item=p.nickelMinimized?p.name:p.name.split(' · ').slice(1).join(' · ')||p.name;
  const store=p.store||p.brand;
- const lining=p.materialCaveat||(p.category==='Jacket'?p.summary:'Trims not fully specified.');
- return `<div class="card-head"><div class="identity"><h2><a class="product-title-link" href="${safeURL(p.url)}" target="_blank" rel="noopener noreferrer">${esc(item)}</a></h2></div></div><p class="catalog-store" data-field="store">${esc(store)}</p><p class="catalog-price" data-field="price">${esc(p.priceLabel || formatUSD(p.unitPriceUSD))}</p>${catalogColor(p)}<p class="catalog-material" data-field="material">${esc(p.facts.Fabric)}${lining?` · ${esc(lining)}`:''}</p>${p.deal?`<p class="catalog-deal" data-field="deals">${esc(p.deal)}</p>`:''}`;
+ const lining=p.nickelMinimized?'':p.materialCaveat||(p.category==='Jacket'?p.summary:'Trims not fully specified.');
+ const nickel=p.nickelMinimized;
+ const status=nickel ? ({Yes:'yes',Likely:'likely',No:'no',Unverified:'unknown'}[nickel.assessment]||'no') : '';
+ const label=({yes:'Nickel-minimized',likely:'Likely nickel-minimized',no:'Not nickel-minimized',unknown:'Nickel status unverified'})[status];
+ const badge=nickel?`<div class="nickel-status"><span class="nickel-pill nickel-${status}">${esc(label)}</span><p class="nickel-reason">${esc(nickel.reason)}</p></div>`:'';
+ return `<div class="card-head"><div class="identity"><h2><a class="product-title-link" href="${safeURL(p.url)}" target="_blank" rel="noopener noreferrer">${esc(item)}</a></h2></div></div><p class="catalog-store" data-field="store">${esc(store)}</p><p class="catalog-price" data-field="price">${esc(p.priceLabel || formatUSD(p.unitPriceUSD))}</p>${badge}${nickel?'':catalogColor(p)}<p class="catalog-material" data-field="material">${esc(p.facts.Fabric)}${lining?` · ${esc(lining)}`:''}</p>${p.deal?`<p class="catalog-deal" data-field="deals">${esc(p.deal)}</p>`:''}`;
 }
 function openImage(product) {document.querySelector('#image-title').textContent=product.name;dialog.querySelector('img').src=product.image;dialog.querySelector('img').alt=product.imageAlt;document.querySelector('#image-caption').textContent=product.imageNote;dialog.showModal();}
 dialog.querySelector('button').addEventListener('click',()=>dialog.close());
