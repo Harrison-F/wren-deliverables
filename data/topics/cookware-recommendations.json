@@ -9,7 +9,7 @@
   "recommendation": {
     "title": "Everyday pots, with the nickel trade-off visible",
     "text": "Budget: IKEA 365+ 5 qt. Amazon: Cuisinart Chef’s Classic 6 qt. Larger batches: Tramontina Tempo 8 qt. Stainless is a practical value choice—not proven healthiest. For nickel minimization, consider Visions glass-ceramic for wet cooking; it is breakable and classic models are not induction-ready.",
-    "test": "Nickel migration can increase with heat, acidity and prolonged contact. Dietary nickel concerns include sensitized people and chronic exposure—not just allergy. Powder scoops measure volume: weigh your own powder once; 15/30 mL is not a verified 5/20 g set."
+    "test": "Nickel-minimized labels assess the hot-food-contact construction, not zero migration or clinical safety. Visions: prefer ~3.5 L for one everyday pot, 5 L for batches; current linked listing is 2.5 L. Best for wet cooking, not bacon frying; no deep-fat frying. Scoops measure mL, not grams."
   },
   "summary": "Everyday pots, pans and powder scoops; retail photos and direct product links.",
   "evidenceNote": "New pots and scoop offer checked 2026-11-12; earlier card prices are historical observations. Primary retail photos only; full galleries not archived. No exact-product migration tests or clinical superiority established.",
@@ -20,7 +20,7 @@
       "url": "https://www.tramontina.com/products/12-inch-tri-ply-clad-stainless-steel-fry-pan-with-helper-handle",
       "store": "Tramontina",
       "category": "Skillets",
-      "materialCaveat": "Best value when restocked",
+      "materialCaveat": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway.",
       "images": [
         {
           "src": "assets/images/cookware-tramontina.png",
@@ -42,18 +42,23 @@
         "Fabric": "18/10 stainless food surface + aluminum core; tri-ply clad to rim; no nonstick advertised.",
         "Price": "$59.95 item price; brand page currently says sold out/backordered. Historical observation; not refreshed in this update.",
         "Fit": "12-inch skillet · induction-compatible · stainless riveted handle · oven-safe to 500°F · dishwasher-safe claim.",
-        "Status": "Best value architecture; wait for a live, in-stock exact listing before buying."
+        "Status": "Best value architecture; wait for a live, in-stock exact listing before buying.",
+        "Nickel minimization": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
       },
       "sources": [
         "tramontina-pan"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "No",
+        "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
+      }
     },
     {
       "id": "cookware-lodge",
       "url": "https://www.williams-sonoma.com/products/lodge-seasoned-steel-skillet/",
       "store": "Williams Sonoma",
       "category": "Seasoned steel",
-      "materialCaveat": "Cheapest durable pan if you accept maintenance",
+      "materialCaveat": "Nickel-minimized: Likely — seasoned carbon steel, not nickel-alloy stainless. Trace nickel / exact-item migration not verified; seasoning maintenance required.",
       "images": [
         {
           "src": "assets/images/cookware-lodge.png",
@@ -75,19 +80,24 @@
         "Fabric": "Heavy-gauge carbon steel, preseasoned with vegetable oil; no PFAS advertised.",
         "Price": "$49.95 at Williams Sonoma for 12-inch listing; shipping/pickup depends on destination. Historical observation; not refreshed in this update.",
         "Fit": "12-inch · induction/gas/electric/oven compatible; hand-wash, dry and oil; acidic-food limits remain.",
-        "Status": "Affordable specialty pan; not a stainless replacement for low-maintenance cooking."
+        "Status": "Affordable specialty pan; not a stainless replacement for low-maintenance cooking.",
+        "Nickel minimization": "Nickel-minimized: Likely — seasoned carbon steel, not nickel-alloy stainless. Trace nickel / exact-item migration not verified; seasoning maintenance required."
       },
       "sources": [
         "lodge-carbon",
         "lodge-retailer"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "Likely",
+        "reason": "seasoned carbon steel, not nickel-alloy stainless. Trace nickel / exact-item migration not verified; seasoning maintenance required."
+      }
     },
     {
       "id": "cookware-cuisinart",
       "url": "https://www.cuisinart.com/multiclad-pro-triple-ply-stainless-cookware-12-skillet-with-helper-handle-cover/MCPS22-30HCN.html",
       "store": "Cuisinart",
       "category": "Skillets",
-      "materialCaveat": "Practical mainstream upgrade",
+      "materialCaveat": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway.",
       "images": [
         {
           "src": "assets/images/cookware-cuisinart.png",
@@ -109,19 +119,24 @@
         "Fabric": "Pure aluminum core bonded to stainless interior/exterior; no nonstick food surface in this exact variant.",
         "Price": "$86.38 item-price observation from Amazon result; verify seller/stock at checkout. Historical observation; not refreshed in this update.",
         "Fit": "12-inch with helper and cover · stainless riveted handles · advertised dishwasher-safe; exact oven limit requires manual check.",
-        "Status": "Good all-rounder if priced near the budget tier; more disclosure than an anonymous marketplace pan."
+        "Status": "Good all-rounder if priced near the budget tier; more disclosure than an anonymous marketplace pan.",
+        "Nickel minimization": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
       },
       "sources": [
         "cuisinart-pan",
         "cuisinart-retailer"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "No",
+        "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
+      }
     },
     {
       "id": "cookware-tramontina-pot",
       "url": "https://www.tramontina.com/products/signature-3-quart-tri-ply-clad-stainless-steel-covered-deep-saute-pan",
       "store": "Tramontina",
       "category": "Covered pans",
-      "materialCaveat": "Value pot upgrade",
+      "materialCaveat": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway.",
       "images": [
         {
           "src": "assets/images/cookware-tramontina-pot.png",
@@ -146,19 +161,24 @@
         "Fabric": "18/10 stainless food surface + aluminum core in tri-ply clad construction; no nonstick advertised.",
         "Price": "Unknown — the earlier $89.95 figure belonged to a different product and has been removed. Historical observation; not refreshed in this update.",
         "Fit": "3-quart covered pan · all cooktops including induction; dishwasher/oven claims vary by exact SKU and lid.",
-        "Status": "Good value architecture; verify the exact lid and handle temperature limit before checkout."
+        "Status": "Good value architecture; verify the exact lid and handle temperature limit before checkout.",
+        "Nickel minimization": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
       },
       "sources": [
         "tramontina-pot",
         "tramontina-collection"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "No",
+        "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
+      }
     },
     {
       "id": "cookware-visions",
       "url": "https://www.amazon.com/Visions-3743-2-5L-Saucepan/dp/B000A3FWG4",
       "store": "Amazon",
       "category": "Glass-ceramic",
-      "materialCaveat": "Nickel-minimizing wet-cooking option; breakable, classic range not induction-ready.",
+      "materialCaveat": "Nickel-minimized: Yes — glass-ceramic food-contact body and glass lid, rather than nickel-bearing steel. Construction-based; no exact-item migration test.",
       "images": [
         {
           "src": "assets/images/cookware-visions.png",
@@ -183,8 +203,11 @@
       "facts": {
         "Fabric": "Transparent Pyroceram glass-ceramic; uncoated food surface; not enamel or spray-on ceramic nonstick.",
         "Price": "Unknown for a verified current US exact SKU; do not use vintage-market prices as a new-product benchmark. Historical observation; not refreshed in this update.",
-        "Fit": "Water-based/stirred cooking and low–medium heat; no metal utensils; standard and IH lines must be distinguished.",
-        "Status": "Coating-free alternative when nickel avoidance is the priority; not proven healthiest. Use nonmetal utensils and follow care guidance."
+        "Fit": "2.5 L stovetop-rated glass-ceramic saucepan; classic model not induction-ready. Nonmetal utensils; discard chipped/cracked pieces. Follow exact supplied manual.",
+        "Status": "Coating-free alternative when nickel avoidance is the priority; not proven healthiest. Use nonmetal utensils and follow care guidance.",
+        "Nickel minimization": "Nickel-minimized: Yes — glass-ceramic food-contact body and glass lid, rather than nickel-bearing steel. Construction-based; no exact-item migration test.",
+        "Size guidance": "This listing is 2.5 L: smaller portions. Prefer approximately 3.5 L for one everyday pot; 5 L for larger batches. Larger US listing not verified here.",
+        "Cooking limits": "Best with liquid/stirred cooking and lower heat. No deep-fat frying, popcorn or caramelizing sugar. Bacon frying is not the preferred role; use a seasoned carbon-steel skillet instead."
       },
       "sources": [
         "visions-official",
@@ -193,14 +216,18 @@
         "visions-ih",
         "solbrah-video",
         "nickel-eu"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "Yes",
+        "reason": "glass-ceramic food-contact body and glass lid, rather than nickel-bearing steel. Construction-based; no exact-item migration test."
+      }
     },
     {
       "id": "cookware-allclad",
       "url": "https://www.all-clad.com/d3-stainless-everyday-3-ply-bonded-cookware-skillet-12-5-in.html",
       "store": "All-Clad",
       "category": "Skillets",
-      "materialCaveat": "Best-built upgrade, not affordability winner",
+      "materialCaveat": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway.",
       "images": [
         {
           "src": "assets/images/cookware-allclad.png",
@@ -222,18 +249,23 @@
         "Fabric": "Fully bonded 3-ply stainless/aluminum/stainless construction; no nonstick food surface advertised.",
         "Price": "$159.99 official US item price; shipping policy depends on order total. Historical observation; not refreshed in this update.",
         "Fit": "12.5-inch · all cooktops including induction · oven/broiler-safe to 600°F · handwash only.",
-        "Status": "Durability/performance upgrade; poor fit if affordability and dishwasher cleaning dominate."
+        "Status": "Durability/performance upgrade; poor fit if affordability and dishwasher cleaning dominate.",
+        "Nickel minimization": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
       },
       "sources": [
         "allclad-pan"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "No",
+        "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
+      }
     },
     {
       "id": "cookware-oxo",
       "url": "https://www.oxo.com/12-tongs-619.html",
       "store": "OXO",
       "category": "Utensils",
-      "materialCaveat": "Easy-clean utensil pick",
+      "materialCaveat": "Nickel-minimized: Unverified — stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized.",
       "images": [
         {
           "src": "assets/images/cookware-oxo.png",
@@ -255,18 +287,23 @@
         "Fabric": "Brushed stainless steel plus soft non-slip grip; no recycled black plastic claim on page.",
         "Price": "$17.99 official US item price; free shipping threshold applies separately. Historical observation; not refreshed in this update.",
         "Fit": "12-inch locking tongs · dishwasher-safe; polymer grip means not an all-metal construction.",
-        "Status": "Good practical tongs for stainless cookware; use silicone/wood instead on Visions."
+        "Status": "Good practical tongs for stainless cookware; use silicone/wood instead on Visions.",
+        "Nickel minimization": "Nickel-minimized: Unverified — stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
       },
       "sources": [
         "oxo-tongs"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "Unverified",
+        "reason": "stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
+      }
     },
     {
       "id": "cookware-turner",
       "url": "https://eastbayrestaurantsupply.com/products/tramontina-professional-turner-stainless-steel-white-poly-handle-nsf-80010-070",
       "store": "East Bay Restaurant Supply",
       "category": "Utensils",
-      "materialCaveat": "Lowest-cost commercial-style turner lead",
+      "materialCaveat": "Nickel-minimized: Unverified — stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized.",
       "images": [
         {
           "src": "assets/images/cookware-turner.png",
@@ -288,12 +325,17 @@
         "Fabric": "Stain-free high-carbon/stainless steel blade with white polypropylene handle; no black recycled plastic claim established.",
         "Price": "$11.99 observed at an independent restaurant-supply seller; seller/stock should be rechecked. Historical observation; not refreshed in this update.",
         "Fit": "5×4-inch turner · dishwasher-safe handle; suitable for metal cookware, not a Visions utensil.",
-        "Status": "Affordable, simple utensil; all-metal one-piece construction would better match the original rubric."
+        "Status": "Affordable, simple utensil; all-metal one-piece construction would better match the original rubric.",
+        "Nickel minimization": "Nickel-minimized: Unverified — stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
       },
       "sources": [
         "tramontina-turner",
         "tramontina-b2b-turner"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "Unverified",
+        "reason": "stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
+      }
     },
     {
       "id": "cookware-ikea3",
@@ -301,7 +343,7 @@
       "url": "https://www.ikea.com/us/en/p/ikea-365-pot-with-lid-stainless-steel-90577912/",
       "store": "IKEA",
       "category": "Everyday pots",
-      "materialCaveat": "Small everyday pot. Nickel-bearing stainless; practical choice, not a lowest-exposure claim.",
+      "materialCaveat": "Nickel-minimized: Unverified — stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized.",
       "verdict": "Small everyday pot",
       "summary": "Rice, vegetables and smaller portions; dishwasher-safe; induction-compatible.",
       "image": "assets/images/cookware-ikea3-retail.jpg",
@@ -322,13 +364,18 @@
         "Fabric": "Stainless body and lid; aluminum-core bonded base. Alloy grade undisclosed.",
         "Price": "$19.99 item price checked 2026-11-12; shipping/tax not verified.",
         "Fit": "Rice, vegetables and smaller portions; dishwasher-safe; induction-compatible.",
-        "Status": "Stock/delivery depends on destination."
+        "Status": "Stock/delivery depends on destination.",
+        "Nickel minimization": "Nickel-minimized: Unverified — stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
       },
       "sources": [
         "everyday-ikea3",
         "nickel-eu",
         "nickel-study"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "Unverified",
+        "reason": "stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
+      }
     },
     {
       "id": "cookware-ikea5",
@@ -336,7 +383,7 @@
       "url": "https://www.ikea.com/us/en/p/ikea-365-pot-with-lid-stainless-steel-50577914/",
       "store": "IKEA",
       "category": "Everyday pots",
-      "materialCaveat": "Budget everyday pick. Nickel-bearing stainless; practical choice, not a lowest-exposure claim.",
+      "materialCaveat": "Nickel-minimized: Unverified — stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized.",
       "verdict": "Budget everyday pick",
       "summary": "General boiling and simmering; dishwasher-safe; induction-compatible.",
       "image": "assets/images/cookware-ikea5-retail.jpg",
@@ -357,13 +404,18 @@
         "Fabric": "Stainless body and lid; aluminum-core bonded base. Alloy grade undisclosed.",
         "Price": "$24.99 item price checked 2026-11-12; shipping/tax not verified.",
         "Fit": "General boiling and simmering; dishwasher-safe; induction-compatible.",
-        "Status": "Stock/delivery depends on destination."
+        "Status": "Stock/delivery depends on destination.",
+        "Nickel minimization": "Nickel-minimized: Unverified — stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
       },
       "sources": [
         "everyday-ikea5",
         "nickel-eu",
         "nickel-study"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "Unverified",
+        "reason": "stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
+      }
     },
     {
       "id": "cookware-classic6",
@@ -371,7 +423,7 @@
       "url": "https://www.amazon.com/dp/B00008CM6I",
       "store": "Amazon.com",
       "category": "Everyday pots",
-      "materialCaveat": "Simple Amazon pick. Nickel-bearing stainless; practical choice, not a lowest-exposure claim.",
+      "materialCaveat": "Nickel-minimized: Unverified — stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized.",
       "verdict": "Simple Amazon pick",
       "summary": "Pasta, soup and beans; dishwasher-safe; riveted handles.",
       "image": "assets/images/cookware-classic6-retail.jpg",
@@ -392,13 +444,18 @@
         "Fabric": "Stainless food surface and lid; encapsulated aluminum base. Alloy grade not established.",
         "Price": "$47.53 item price checked 2026-11-12; shipping/tax not verified.",
         "Fit": "Pasta, soup and beans; dishwasher-safe; riveted handles.",
-        "Status": "Selected new offer verified live; stock can change."
+        "Status": "Selected new offer verified live; stock can change.",
+        "Nickel minimization": "Nickel-minimized: Unverified — stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
       },
       "sources": [
         "everyday-classic6",
         "nickel-eu",
         "nickel-study"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "Unverified",
+        "reason": "stainless food-contact surface; exact nickel content not established. Do not treat as nickel-minimized."
+      }
     },
     {
       "id": "cookware-tempo8",
@@ -406,7 +463,7 @@
       "url": "https://www.amazon.com/dp/B0DWSBYG8Z",
       "store": "Amazon.com",
       "category": "Everyday pots",
-      "materialCaveat": "Larger-batch value. Nickel-bearing stainless; practical choice, not a lowest-exposure claim.",
+      "materialCaveat": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway.",
       "verdict": "Larger-batch value",
       "summary": "Larger portions; induction-compatible; dishwasher-safe; oven-safe to 350°F.",
       "image": "assets/images/cookware-tempo8-retail.jpg",
@@ -427,13 +484,18 @@
         "Fabric": "18/8 stainless; aluminum-core bonded base; glass lid.",
         "Price": "$50.95 item price checked 2026-11-12; shipping/tax not verified.",
         "Fit": "Larger portions; induction-compatible; dishwasher-safe; oven-safe to 350°F.",
-        "Status": "Selected new offer verified live; stock can change."
+        "Status": "Selected new offer verified live; stock can change.",
+        "Nickel minimization": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
       },
       "sources": [
         "everyday-tempo8",
         "nickel-eu",
         "nickel-study"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "No",
+        "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
+      }
     },
     {
       "id": "cookware-cooks6",
@@ -441,7 +503,7 @@
       "url": "https://www.amazon.com/dp/B0DBK28JDX",
       "store": "Amazon · NewayUSA",
       "category": "Everyday pots",
-      "materialCaveat": "Lower-cost fully clad option. Nickel-bearing stainless; practical choice, not a lowest-exposure claim.",
+      "materialCaveat": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway.",
       "verdict": "Lower-cost fully clad option",
       "summary": "Induction-compatible; exposed layered rim: favor hand-washing despite dishwasher claim.",
       "image": "assets/images/cookware-cooks6-retail.jpg",
@@ -462,13 +524,18 @@
         "Fabric": "18/10 interior; aluminum core through walls; 430 exterior; stainless lid.",
         "Price": "$62.99 item price checked 2026-11-12; shipping/tax not verified.",
         "Fit": "Induction-compatible; exposed layered rim: favor hand-washing despite dishwasher claim.",
-        "Status": "Selected new offer verified live; stock can change."
+        "Status": "Selected new offer verified live; stock can change.",
+        "Nickel minimization": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
       },
       "sources": [
         "everyday-cooks6",
         "nickel-eu",
         "nickel-study"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "No",
+        "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
+      }
     },
     {
       "id": "cookware-signature6",
@@ -476,7 +543,7 @@
       "url": "https://www.amazon.com/dp/B00JAQ83WM",
       "store": "Amazon.com",
       "category": "Everyday pots",
-      "materialCaveat": "Fully clad upgrade. Nickel-bearing stainless; practical choice, not a lowest-exposure claim.",
+      "materialCaveat": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway.",
       "verdict": "Fully clad upgrade",
       "summary": "Ordinary two-handled pot despite “sauce pot” name; induction-ready; dishwasher-safe.",
       "image": "assets/images/cookware-signature6-retail.jpg",
@@ -497,13 +564,18 @@
         "Fabric": "18/10 interior; aluminum core through walls; stainless lid.",
         "Price": "$81.99 item price checked 2026-11-12; shipping/tax not verified.",
         "Fit": "Ordinary two-handled pot despite “sauce pot” name; induction-ready; dishwasher-safe.",
-        "Status": "Selected new offer verified live; stock can change."
+        "Status": "Selected new offer verified live; stock can change.",
+        "Nickel minimization": "Nickel-minimized: No — nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
       },
       "sources": [
         "everyday-signature6",
         "nickel-eu",
         "nickel-study"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "No",
+        "reason": "nickel-bearing stainless food-contact surface. Encapsulated aluminum does not remove the stainless nickel exposure pathway."
+      }
     },
     {
       "id": "cookware-scoops",
@@ -511,7 +583,7 @@
       "url": "https://www.amazon.com/dp/B0FQCC2V1V",
       "store": "Amazon · ES NATAURA",
       "category": "Powder scoops",
-      "materialCaveat": "Quick powder scoops — calibrate first. Brief dry contact is not equivalent to hot-acid cooking; still nickel-bearing.",
+      "materialCaveat": "Nickel-minimized: Not a heat-use recommendation — 18/8 steel contains nickel; intended here for brief dry-powder scooping.",
       "verdict": "Quick powder scoops — calibrate first",
       "summary": "Two sizes, not gram measures. Weigh your powder once; 5–20 g coverage is unverified without its density. Dishwasher-safe claim.",
       "image": "assets/images/cookware-scoops-retail.jpg",
@@ -532,13 +604,18 @@
         "Fabric": "Seller-disclosed 304 / 18/8 stainless; engraved 15 and 30 mL capacities.",
         "Price": "$5.99 item price checked 2026-11-12; shipping/tax not verified.",
         "Fit": "Two sizes, not gram measures. Weigh your powder once; 5–20 g coverage is unverified without its density. Dishwasher-safe claim.",
-        "Status": "Selected new offer verified live; stock can change."
+        "Status": "Selected new offer verified live; stock can change.",
+        "Nickel minimization": "Nickel-minimized: Not a heat-use recommendation — 18/8 steel contains nickel; intended here for brief dry-powder scooping."
       },
       "sources": [
         "everyday-scoops",
         "nickel-eu",
         "nickel-study"
-      ]
+      ],
+      "nickelMinimized": {
+        "assessment": "Not a heat-use recommendation",
+        "reason": "18/8 steel contains nickel; intended here for brief dry-powder scooping."
+      }
     }
   ],
   "sources": [
