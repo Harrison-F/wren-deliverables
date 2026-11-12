@@ -1,0 +1,189 @@
+{
+  "id": "cookware-recommendations",
+  "title": "Affordable cookware, compared",
+  "layout": "natural-basics",
+  "catalog": true,
+  "updated": "2026-11-10",
+  "defaultSort": "price",
+  "showCollectionNotes": false,
+  "recommendation": {
+    "title": "Buy the least-compromised stainless you can afford",
+    "text": "Best value: Tramontina Signature tri-ply when available; Cuisinart MultiClad Pro is the practical step-up. Add Lodge carbon steel only if you accept seasoning, and use Visions as a specialist wet-cooking pot—not your main skillet.",
+    "test": "Prices are current US item-price observations; shipping and tax are not included unless stated. This is a materials/construction comparison, not a health-outcome ranking."
+  },
+  "summary": "Eight exact products across pans, pots and utensils · price ascending within the visual catalog · shipping/tax generally unknown.",
+  "evidenceNote": "Checked 2026-11-10. Manufacturer pages establish construction and care claims; retailer pages establish the occasional current price/stock observation. No physical teardown or hands-on durability test. Illustrations are schematic, not retailer product photography.",
+  "caveat": "No cooktop, size, nickel sensitivity or hand-washing preference was supplied. Stainless is the default for durability/easy cleaning; nickel-sensitive buyers need a separate 18/0 or non-stainless path. Do not read 'PFAS-free' or 'uncoated' as proof of zero exposure or superior health outcomes.",
+  "products": [
+    {
+      "id": "cookware-tramontina",
+      "name": "Tramontina Signature 12-inch Tri-Ply Clad Fry Pan",
+      "verdict": "Best value when restocked",
+      "summary": "Full tri-ply construction at a mainstream price; currently listed sold out on the brand page.",
+      "image": "assets/images/cookware-tramontina.png",
+      "imageAlt": "Schematic illustration of Tramontina tri-ply stainless fry pan",
+      "imageNote": "Schematic comparison illustration, not a retailer photograph. Exact brand/model page retained below.",
+      "unitPriceUSD": 59.95,
+      "naturalPercent": null,
+      "integrityRank": 4,
+      "facts": {
+        "Fabric": "18/10 stainless food surface + aluminum core; tri-ply clad to rim; no nonstick advertised.",
+        "Price": "$59.95 item price; brand page currently says sold out/backordered.",
+        "Fit": "12-inch skillet · induction-compatible · stainless riveted handle · oven-safe to 500°F · dishwasher-safe claim.",
+        "Status": "Best value architecture; wait for a live, in-stock exact listing before buying."
+      },
+      "sources": ["tramontina-pan"]
+    },
+    {
+      "id": "cookware-lodge",
+      "name": "Lodge 12-inch Seasoned Carbon Steel Skillet",
+      "verdict": "Cheapest durable pan if you accept maintenance",
+      "summary": "Lower entry price and fast heat response; not the easy-clean default because seasoning and drying are part of ownership.",
+      "image": "assets/images/cookware-lodge.png",
+      "imageAlt": "Schematic illustration of Lodge seasoned carbon steel skillet",
+      "imageNote": "Schematic comparison illustration, not a retailer photograph. Exact brand/model page and alternate in-stock retailer page retained.",
+      "unitPriceUSD": 49.95,
+      "naturalPercent": null,
+      "integrityRank": 3,
+      "facts": {
+        "Fabric": "Heavy-gauge carbon steel, preseasoned with vegetable oil; no PFAS advertised.",
+        "Price": "$49.95 at Williams Sonoma for 12-inch listing; shipping/pickup depends on destination.",
+        "Fit": "12-inch · induction/gas/electric/oven compatible; hand-wash, dry and oil; acidic-food limits remain.",
+        "Status": "Affordable specialty pan; not a stainless replacement for low-maintenance cooking."
+      },
+      "sources": ["lodge-carbon", "lodge-retailer"]
+    },
+    {
+      "id": "cookware-cuisinart",
+      "name": "Cuisinart MultiClad Pro 12-inch Skillet with Helper & Cover",
+      "verdict": "Practical mainstream upgrade",
+      "summary": "Tri-ply stainless/aluminum construction, stainless handles and a lid; exact live brand price was not exposed, so retailer prices are not treated as official.",
+      "image": "assets/images/cookware-cuisinart.png",
+      "imageAlt": "Schematic illustration of Cuisinart MultiClad Pro skillet",
+      "imageNote": "Schematic comparison illustration, not a retailer photograph. Exact MCPS22-30HCN product page retained.",
+      "unitPriceUSD": 86.38,
+      "naturalPercent": null,
+      "integrityRank": 4,
+      "facts": {
+        "Fabric": "Pure aluminum core bonded to stainless interior/exterior; no nonstick food surface in this exact variant.",
+        "Price": "$86.38 item-price observation from Amazon result; verify seller/stock at checkout.",
+        "Fit": "12-inch with helper and cover · stainless riveted handles · advertised dishwasher-safe; exact oven limit requires manual check.",
+        "Status": "Good all-rounder if priced near the budget tier; more disclosure than an anonymous marketplace pan."
+      },
+      "sources": ["cuisinart-pan", "cuisinart-retailer"]
+    },
+    {
+      "id": "cookware-tramontina-pot",
+      "name": "Tramontina Signature 3-quart Tri-Ply Covered Saute Pan",
+      "verdict": "Value pot upgrade",
+      "summary": "A sensible place to spend on tri-ply: wet cooking benefits from a stable base, while the stainless surface avoids a finite-life coating.",
+      "image": "assets/images/cookware-tramontina-pot.png",
+      "imageAlt": "Schematic illustration of Tramontina tri-ply covered pot",
+      "imageNote": "Schematic comparison illustration, not a retailer photograph. Exact brand/model page retained.",
+      "unitPriceUSD": 89.95,
+      "naturalPercent": null,
+      "integrityRank": 4,
+      "facts": {
+        "Fabric": "18/10 stainless food surface + aluminum core in tri-ply clad construction; no nonstick advertised.",
+        "Price": "$89.95 brand collection price observation for comparable covered tri-ply Dutch-oven/pot lane; exact SKU price can vary.",
+        "Fit": "3-quart covered pan · all cooktops including induction; dishwasher/oven claims vary by exact SKU and lid.",
+        "Status": "Good value architecture; verify the exact lid and handle temperature limit before checkout."
+      },
+      "sources": ["tramontina-pot", "tramontina-collection"]
+    },
+    {
+      "id": "cookware-visions",
+      "name": "Classic Visions 2.5 L Pyroceram Saucepan/Dutch Oven",
+      "verdict": "Specialist complement, not everyday skillet",
+      "summary": "Uncoated glass-ceramic and easy to inspect, but breakable and best for low–medium, stirred or liquid-medium cooking.",
+      "image": "assets/images/cookware-visions.png",
+      "imageAlt": "Schematic illustration of amber Visions glass-ceramic pot",
+      "imageNote": "Schematic comparison illustration, not a retailer photograph. Current official US price/stock for this classic size was not verified; vintage-market prices vary.",
+      "unitPriceUSD": null,
+      "naturalPercent": null,
+      "integrityRank": 4,
+      "verification": {"price": false, "gallery": false},
+      "facts": {
+        "Fabric": "Transparent Pyroceram glass-ceramic; uncoated food surface; not enamel or spray-on ceramic nonstick.",
+        "Price": "Unknown for a verified current US exact SKU; do not use vintage-market prices as a new-product benchmark.",
+        "Fit": "Water-based/stirred cooking and low–medium heat; no metal utensils; standard and IH lines must be distinguished.",
+        "Status": "Worth considering as a coating-free pot; poor replacement for a searing skillet; breakage remains a real trade-off."
+      },
+      "sources": ["visions-official", "visions-care", "visions-independent", "visions-ih"]
+    },
+    {
+      "id": "cookware-allclad",
+      "name": "All-Clad D3 Everyday 12.5-inch Skillet",
+      "verdict": "Best-built upgrade, not affordability winner",
+      "summary": "Fully bonded tri-ply and a 600°F rating, but handwash-only and roughly triple the Tramontina item price.",
+      "image": "assets/images/cookware-allclad.png",
+      "imageAlt": "Schematic illustration of All-Clad D3 Everyday skillet",
+      "imageNote": "Schematic comparison illustration, not a retailer photograph. Exact official model and SKU retained.",
+      "unitPriceUSD": 159.99,
+      "naturalPercent": null,
+      "integrityRank": 5,
+      "facts": {
+        "Fabric": "Fully bonded 3-ply stainless/aluminum/stainless construction; no nonstick food surface advertised.",
+        "Price": "$159.99 official US item price; shipping policy depends on order total.",
+        "Fit": "12.5-inch · all cooktops including induction · oven/broiler-safe to 600°F · handwash only.",
+        "Status": "Durability/performance upgrade; poor fit if affordability and dishwasher cleaning dominate."
+      },
+      "sources": ["allclad-pan"]
+    },
+    {
+      "id": "cookware-oxo",
+      "name": "OXO Good Grips 12-inch Stainless Tongs",
+      "verdict": "Easy-clean utensil pick",
+      "summary": "Stainless working end with a soft grip and dishwasher-safe claim; the grip is a disclosed polymer compromise.",
+      "image": "assets/images/cookware-oxo.png",
+      "imageAlt": "Schematic illustration of OXO stainless locking tongs",
+      "imageNote": "Schematic comparison illustration, not a retailer photograph. Exact SKU 28581 page retained.",
+      "unitPriceUSD": 17.99,
+      "naturalPercent": null,
+      "integrityRank": 3,
+      "facts": {
+        "Fabric": "Brushed stainless steel plus soft non-slip grip; no recycled black plastic claim on page.",
+        "Price": "$17.99 official US item price; free shipping threshold applies separately.",
+        "Fit": "12-inch locking tongs · dishwasher-safe; polymer grip means not an all-metal construction.",
+        "Status": "Good practical tongs for stainless cookware; use silicone/wood instead on Visions."
+      },
+      "sources": ["oxo-tongs"]
+    },
+    {
+      "id": "cookware-turner",
+      "name": "Tramontina Professional Stainless Turner",
+      "verdict": "Lowest-cost commercial-style turner lead",
+      "summary": "Stainless blade and dishwasher-safe polypropylene handle; the handle is simpler than a one-piece all-metal utensil.",
+      "image": "assets/images/cookware-turner.png",
+      "imageAlt": "Schematic illustration of Tramontina stainless food turner",
+      "imageNote": "Schematic comparison illustration, not a retailer photograph. Exact Professional Series listing retained.",
+      "unitPriceUSD": 11.99,
+      "naturalPercent": null,
+      "integrityRank": 3,
+      "facts": {
+        "Fabric": "Stain-free high-carbon/stainless steel blade with white polypropylene handle; no black recycled plastic claim established.",
+        "Price": "$11.99 observed at an independent restaurant-supply seller; seller/stock should be rechecked.",
+        "Fit": "5×4-inch turner · dishwasher-safe handle; suitable for metal cookware, not a Visions utensil.",
+        "Status": "Affordable, simple utensil; all-metal one-piece construction would better match the original rubric."
+      },
+      "sources": ["tramontina-turner", "tramontina-b2b-turner"]
+    }
+  ],
+  "sources": [
+    {"id":"tramontina-pan","title":"Tramontina Signature 12-inch Tri-Ply Clad Fry Pan","url":"https://www.tramontina.com/products/12-inch-tri-ply-clad-stainless-steel-fry-pan-with-helper-handle"},
+    {"id":"lodge-carbon","title":"Lodge Carbon Steel Skillet","url":"https://www.lodgecastiron.com/products/carbon-steel-skillet"},
+    {"id":"lodge-retailer","title":"Williams Sonoma Lodge 12-inch Seasoned Carbon Steel Skillet","url":"https://www.williams-sonoma.com/products/lodge-seasoned-steel-skillet/"},
+    {"id":"cuisinart-pan","title":"Cuisinart MultiClad Pro 12-inch Skillet","url":"https://www.cuisinart.com/multiclad-pro-triple-ply-stainless-cookware-12-skillet-with-helper-handle-cover/MCPS22-30HCN.html"},
+    {"id":"cuisinart-retailer","title":"Amazon exact Cuisinart MCPS22-30HCN listing","url":"https://www.amazon.com/Cuisinart-MCP22-30HCN-MultiClad-Skillet-12-Inch/dp/B00NAU8L76"},
+    {"id":"tramontina-pot","title":"Tramontina Signature 3-quart Tri-Ply Covered Deep Saute Pan","url":"https://www.tramontina.com/products/signature-3-quart-tri-ply-clad-stainless-steel-covered-deep-saute-pan"},
+    {"id":"tramontina-collection","title":"Tramontina Stainless Steel Cookware Collection","url":"https://www.tramontina.com/collections/stainless-steel-cookware"},
+    {"id":"visions-official","title":"Corelle/Visions Pyroceram overview","url":"https://corelleasia.com/pages/visions-1"},
+    {"id":"visions-care","title":"Corelle Visions Use and Care","url":"https://corelleasia.com/pages/overall-use-and-care"},
+    {"id":"visions-independent","title":"Epicurious Visions cookware experience","url":"https://www.epicurious.com/shopping/whos-afraid-of-visions-cookware"},
+    {"id":"visions-ih","title":"Corelle IH Visions induction line","url":"https://corelleasia.com/pages/ih-visions"},
+    {"id":"allclad-pan","title":"All-Clad D3 Everyday 12.5-inch skillet","url":"https://www.all-clad.com/d3-stainless-everyday-3-ply-bonded-cookware-skillet-12-5-in.html"},
+    {"id":"oxo-tongs","title":"OXO Good Grips 12-inch Tongs","url":"https://www.oxo.com/12-tongs-619.html"},
+    {"id":"tramontina-turner","title":"Tramontina Professional Stainless Turner listing","url":"https://eastbayrestaurantsupply.com/products/tramontina-professional-turner-stainless-steel-white-poly-handle-nsf-80010-070"},
+    {"id":"tramontina-b2b-turner","title":"Tramontina Professional Turner B2B page","url":"https://b2b.tramontina.com/products/5-in-x-4-in-professional-turner"}
+  ]
+}
