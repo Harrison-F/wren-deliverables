@@ -1,0 +1,19 @@
+/* Scoped to cookware: make the decision and exposure limits visible. */
+body:has([href*="topic=cookware-recommendations"]) .research-recommendation,
+body:has([data-category="Everyday pots"]) .research-recommendation {
+  display: block !important;
+  margin: 0 0 1.2rem;
+  padding: 0.8rem 0;
+  max-width: 80rem;
+}
+body:has([data-category="Everyday pots"]) .research-recommendation p {
+  color: #24354a !important;
+  line-height: 1.5;
+  font-size: 0.95rem;
+  margin: 0.4rem 0;
+}
+body:has([data-category="Everyday pots"]) .research-recommendation h2 {
+  color: #15283d;
+  font-size: 1.15rem;
+  margin: 0 0 0.4rem;
+}

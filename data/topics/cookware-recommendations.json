@@ -3,17 +3,17 @@
   "title": "Affordable cookware, compared",
   "layout": "natural-basics",
   "catalog": true,
-  "updated": "2026-11-10",
+  "updated": "2026-11-12",
   "defaultSort": "price",
   "showCollectionNotes": false,
   "recommendation": {
-    "title": "Buy the least-compromised stainless you can afford",
-    "text": "Best value: Tramontina Signature tri-ply when available; Cuisinart MultiClad Pro is the practical step-up. Add Lodge carbon steel only if you accept seasoning, and use Visions as a specialist wet-cooking pot—not your main skillet.",
-    "test": "Prices are current US item-price observations; shipping and tax are not included unless stated. This is a materials/construction comparison, not a health-outcome ranking."
+    "title": "Everyday pots, with the nickel trade-off visible",
+    "text": "Budget: IKEA 365+ 5 qt. Amazon: Cuisinart Chef’s Classic 6 qt. Larger batches: Tramontina Tempo 8 qt. Stainless is a practical value choice—not proven healthiest. For nickel minimization, consider Visions glass-ceramic for wet cooking; it is breakable and classic models are not induction-ready.",
+    "test": "Nickel migration can increase with heat, acidity and prolonged contact. Dietary nickel concerns include sensitized people and chronic exposure—not just allergy. Powder scoops measure volume: weigh your own powder once; 15/30 mL is not a verified 5/20 g set."
   },
-  "summary": "Eight exact products across pans, pots and utensils · price ascending within the visual catalog · shipping/tax generally unknown.",
-  "evidenceNote": "Checked 2026-11-10. Manufacturer pages establish construction and care claims; retailer pages establish the occasional current price/stock observation. No physical teardown or hands-on durability test. Retail/manufacturer photos are shown; one photo per card, not complete galleries. Image sources are recorded with each gallery entry.",
-  "caveat": "No cooktop, size, nickel sensitivity or hand-washing preference was supplied. Stainless is the default for durability/easy cleaning; nickel-sensitive buyers need a separate 18/0 or non-stainless path. Do not read 'PFAS-free' or 'uncoated' as proof of zero exposure or superior health outcomes.",
+  "summary": "Everyday pots, pans and powder scoops; retail photos and direct product links.",
+  "evidenceNote": "New pots and scoop offer checked 2026-11-12; earlier card prices are historical observations. Primary retail photos only; full galleries not archived. No exact-product migration tests or clinical superiority established.",
+  "caveat": "Stainless can release nickel; alloy disclosure is not a health certification. Prioritize glass-ceramic if nickel minimization outweighs cost and breakability. Shipping/tax unknown. Scoop gram capacity depends on powder density.",
   "products": [
     {
       "id": "cookware-tramontina",
@@ -21,7 +21,14 @@
       "store": "Tramontina",
       "category": "Skillets",
       "materialCaveat": "Best value when restocked",
-      "images": [{"src": "assets/images/cookware-tramontina.png", "alt": "Retail product photo of Tramontina tri-ply stainless fry pan", "source": "https://target.scene7.com/is/image/Target/GUEST_50270632-b640-4682-8061-3f08f7cba86b?wid=1200&hei=1200&qlt=90", "sourcePage": "https://www.target.com/p/signature-tri-ply-clad-stainless-steel-fry-pan-12-inch/-/A-1011995091"}],
+      "images": [
+        {
+          "src": "assets/images/cookware-tramontina.png",
+          "alt": "Retail product photo of Tramontina tri-ply stainless fry pan",
+          "source": "https://target.scene7.com/is/image/Target/GUEST_50270632-b640-4682-8061-3f08f7cba86b?wid=1200&hei=1200&qlt=90",
+          "sourcePage": "https://www.target.com/p/signature-tri-ply-clad-stainless-steel-fry-pan-12-inch/-/A-1011995091"
+        }
+      ],
       "name": "Tramontina Signature 12-inch Tri-Ply Clad Fry Pan",
       "verdict": "Best value when restocked",
       "summary": "Full tri-ply construction at a mainstream price; currently listed sold out on the brand page.",
@@ -33,11 +40,13 @@
       "integrityRank": 4,
       "facts": {
         "Fabric": "18/10 stainless food surface + aluminum core; tri-ply clad to rim; no nonstick advertised.",
-        "Price": "$59.95 item price; brand page currently says sold out/backordered.",
+        "Price": "$59.95 item price; brand page currently says sold out/backordered. Historical observation; not refreshed in this update.",
         "Fit": "12-inch skillet · induction-compatible · stainless riveted handle · oven-safe to 500°F · dishwasher-safe claim.",
         "Status": "Best value architecture; wait for a live, in-stock exact listing before buying."
       },
-      "sources": ["tramontina-pan"]
+      "sources": [
+        "tramontina-pan"
+      ]
     },
     {
       "id": "cookware-lodge",
@@ -45,7 +54,14 @@
       "store": "Williams Sonoma",
       "category": "Seasoned steel",
       "materialCaveat": "Cheapest durable pan if you accept maintenance",
-      "images": [{"src": "assets/images/cookware-lodge.png", "alt": "Retail product photo of Lodge seasoned carbon steel skillet", "source": "https://m.media-amazon.com/images/I/41JL1CuM%2BCL._AC_.jpg", "sourcePage": "https://www.amazon.com/Lodge-CRS12-Seasoned-Carbon-Skillet/dp/B07D71YD33"}],
+      "images": [
+        {
+          "src": "assets/images/cookware-lodge.png",
+          "alt": "Retail product photo of Lodge seasoned carbon steel skillet",
+          "source": "https://m.media-amazon.com/images/I/41JL1CuM%2BCL._AC_.jpg",
+          "sourcePage": "https://www.amazon.com/Lodge-CRS12-Seasoned-Carbon-Skillet/dp/B07D71YD33"
+        }
+      ],
       "name": "Lodge 12-inch Seasoned Carbon Steel Skillet",
       "verdict": "Cheapest durable pan if you accept maintenance",
       "summary": "Lower entry price and fast heat response; not the easy-clean default because seasoning and drying are part of ownership.",
@@ -57,11 +73,14 @@
       "integrityRank": 3,
       "facts": {
         "Fabric": "Heavy-gauge carbon steel, preseasoned with vegetable oil; no PFAS advertised.",
-        "Price": "$49.95 at Williams Sonoma for 12-inch listing; shipping/pickup depends on destination.",
+        "Price": "$49.95 at Williams Sonoma for 12-inch listing; shipping/pickup depends on destination. Historical observation; not refreshed in this update.",
         "Fit": "12-inch · induction/gas/electric/oven compatible; hand-wash, dry and oil; acidic-food limits remain.",
         "Status": "Affordable specialty pan; not a stainless replacement for low-maintenance cooking."
       },
-      "sources": ["lodge-carbon", "lodge-retailer"]
+      "sources": [
+        "lodge-carbon",
+        "lodge-retailer"
+      ]
     },
     {
       "id": "cookware-cuisinart",
@@ -69,7 +88,14 @@
       "store": "Cuisinart",
       "category": "Skillets",
       "materialCaveat": "Practical mainstream upgrade",
-      "images": [{"src": "assets/images/cookware-cuisinart.png", "alt": "Retail product photo of Cuisinart MultiClad Pro skillet", "source": "https://www.cuisinart.com/on/demandware.static/-/Sites-master-us/default/dw5d26d57a/images/large/mcps22-30hcn-removebg-preview.png", "sourcePage": "https://www.cuisinart.com/multiclad-pro-triple-ply-stainless-cookware-12-skillet-with-helper-handle-cover/MCPS22-30HCN.html"}],
+      "images": [
+        {
+          "src": "assets/images/cookware-cuisinart.png",
+          "alt": "Retail product photo of Cuisinart MultiClad Pro skillet",
+          "source": "https://www.cuisinart.com/on/demandware.static/-/Sites-master-us/default/dw5d26d57a/images/large/mcps22-30hcn-removebg-preview.png",
+          "sourcePage": "https://www.cuisinart.com/multiclad-pro-triple-ply-stainless-cookware-12-skillet-with-helper-handle-cover/MCPS22-30HCN.html"
+        }
+      ],
       "name": "Cuisinart MultiClad Pro 12-inch Skillet with Helper & Cover",
       "verdict": "Practical mainstream upgrade",
       "summary": "Tri-ply stainless/aluminum construction, stainless handles and a lid; exact live brand price was not exposed, so retailer prices are not treated as official.",
@@ -81,11 +107,14 @@
       "integrityRank": 4,
       "facts": {
         "Fabric": "Pure aluminum core bonded to stainless interior/exterior; no nonstick food surface in this exact variant.",
-        "Price": "$86.38 item-price observation from Amazon result; verify seller/stock at checkout.",
+        "Price": "$86.38 item-price observation from Amazon result; verify seller/stock at checkout. Historical observation; not refreshed in this update.",
         "Fit": "12-inch with helper and cover · stainless riveted handles · advertised dishwasher-safe; exact oven limit requires manual check.",
         "Status": "Good all-rounder if priced near the budget tier; more disclosure than an anonymous marketplace pan."
       },
-      "sources": ["cuisinart-pan", "cuisinart-retailer"]
+      "sources": [
+        "cuisinart-pan",
+        "cuisinart-retailer"
+      ]
     },
     {
       "id": "cookware-tramontina-pot",
@@ -93,7 +122,14 @@
       "store": "Tramontina",
       "category": "Covered pans",
       "materialCaveat": "Value pot upgrade",
-      "images": [{"src": "assets/images/cookware-tramontina-pot.png", "alt": "Retail product photo of Tramontina tri-ply covered pot", "source": "https://www.tramontina.com/cdn/shop/files/Signature_3_Quart_Tri-Ply-Clad_Stainless_Steel_Covered_Deep_Saute_Pan_80116058.jpg?v=1767045713&width=1214", "sourcePage": "https://www.tramontina.com/products/signature-3-quart-tri-ply-clad-stainless-steel-covered-deep-saute-pan"}],
+      "images": [
+        {
+          "src": "assets/images/cookware-tramontina-pot.png",
+          "alt": "Retail product photo of Tramontina tri-ply covered pot",
+          "source": "https://www.tramontina.com/cdn/shop/files/Signature_3_Quart_Tri-Ply-Clad_Stainless_Steel_Covered_Deep_Saute_Pan_80116058.jpg?v=1767045713&width=1214",
+          "sourcePage": "https://www.tramontina.com/products/signature-3-quart-tri-ply-clad-stainless-steel-covered-deep-saute-pan"
+        }
+      ],
       "name": "Tramontina Signature 3-quart Tri-Ply Covered Saute Pan",
       "verdict": "Value pot upgrade",
       "summary": "A sensible place to spend on tri-ply: wet cooking benefits from a stable base, while the stainless surface avoids a finite-life coating.",
@@ -101,25 +137,37 @@
       "imageAlt": "Retail product photo of Tramontina tri-ply covered pot",
       "imageNote": "Retail/manufacturer product image; one-photo gallery. Image source may differ from the linked seller. Exact brand/model page retained.",
       "unitPriceUSD": null,
-      "verification": {"price": false},
+      "verification": {
+        "price": false
+      },
       "naturalPercent": null,
       "integrityRank": 4,
       "facts": {
         "Fabric": "18/10 stainless food surface + aluminum core in tri-ply clad construction; no nonstick advertised.",
-        "Price": "Unknown — the earlier $89.95 figure belonged to a different product and has been removed.",
+        "Price": "Unknown — the earlier $89.95 figure belonged to a different product and has been removed. Historical observation; not refreshed in this update.",
         "Fit": "3-quart covered pan · all cooktops including induction; dishwasher/oven claims vary by exact SKU and lid.",
         "Status": "Good value architecture; verify the exact lid and handle temperature limit before checkout."
       },
-      "sources": ["tramontina-pot", "tramontina-collection"]
+      "sources": [
+        "tramontina-pot",
+        "tramontina-collection"
+      ]
     },
     {
       "id": "cookware-visions",
       "url": "https://www.amazon.com/Visions-3743-2-5L-Saucepan/dp/B000A3FWG4",
       "store": "Amazon",
       "category": "Glass-ceramic",
-      "materialCaveat": "Specialist complement, not everyday skillet",
-      "images": [{"src": "assets/images/cookware-visions.png", "alt": "Retail product photo of amber Visions glass-ceramic pot", "source": "https://m.media-amazon.com/images/I/61pOZ3pusYL._AC_SX569_.jpg", "sourcePage": "https://www.amazon.com/Visions-3743-2-5L-Saucepan/dp/B000A3FWG4"}],
-      "name": "Classic Visions 2.5 L Pyroceram Saucepan/Dutch Oven",
+      "materialCaveat": "Nickel-minimizing wet-cooking option; breakable, classic range not induction-ready.",
+      "images": [
+        {
+          "src": "assets/images/cookware-visions.png",
+          "alt": "Retail product photo of amber Visions glass-ceramic pot",
+          "source": "https://m.media-amazon.com/images/I/61pOZ3pusYL._AC_SX569_.jpg",
+          "sourcePage": "https://www.amazon.com/Visions-3743-2-5L-Saucepan/dp/B000A3FWG4"
+        }
+      ],
+      "name": "Visions 2.5 L Glass-Ceramic Saucepan",
       "verdict": "Specialist complement, not everyday skillet",
       "summary": "Uncoated glass-ceramic and easy to inspect, but breakable and best for low–medium, stirred or liquid-medium cooking.",
       "image": "assets/images/cookware-visions.png",
@@ -128,14 +176,24 @@
       "unitPriceUSD": null,
       "naturalPercent": null,
       "integrityRank": 4,
-      "verification": {"price": false, "gallery": false},
+      "verification": {
+        "price": false,
+        "gallery": false
+      },
       "facts": {
         "Fabric": "Transparent Pyroceram glass-ceramic; uncoated food surface; not enamel or spray-on ceramic nonstick.",
-        "Price": "Unknown for a verified current US exact SKU; do not use vintage-market prices as a new-product benchmark.",
+        "Price": "Unknown for a verified current US exact SKU; do not use vintage-market prices as a new-product benchmark. Historical observation; not refreshed in this update.",
         "Fit": "Water-based/stirred cooking and low–medium heat; no metal utensils; standard and IH lines must be distinguished.",
-        "Status": "Worth considering as a coating-free pot; poor replacement for a searing skillet; breakage remains a real trade-off."
+        "Status": "Coating-free alternative when nickel avoidance is the priority; not proven healthiest. Use nonmetal utensils and follow care guidance."
       },
-      "sources": ["visions-official", "visions-care", "visions-independent", "visions-ih"]
+      "sources": [
+        "visions-official",
+        "visions-care",
+        "visions-independent",
+        "visions-ih",
+        "solbrah-video",
+        "nickel-eu"
+      ]
     },
     {
       "id": "cookware-allclad",
@@ -143,7 +201,14 @@
       "store": "All-Clad",
       "category": "Skillets",
       "materialCaveat": "Best-built upgrade, not affordability winner",
-      "images": [{"src": "assets/images/cookware-allclad.png", "alt": "Retail product photo of All-Clad D3 Everyday skillet", "source": "https://www.all-clad.com/media/catalog/product/t/g/tg8sskkfktsugviipvrq_1cd93iamc6xxwh7h.jpg", "sourcePage": "https://www.all-clad.com/d3-stainless-everyday-3-ply-bonded-cookware-skillet-12-5-in.html"}],
+      "images": [
+        {
+          "src": "assets/images/cookware-allclad.png",
+          "alt": "Retail product photo of All-Clad D3 Everyday skillet",
+          "source": "https://www.all-clad.com/media/catalog/product/t/g/tg8sskkfktsugviipvrq_1cd93iamc6xxwh7h.jpg",
+          "sourcePage": "https://www.all-clad.com/d3-stainless-everyday-3-ply-bonded-cookware-skillet-12-5-in.html"
+        }
+      ],
       "name": "All-Clad D3 Everyday 12.5-inch Skillet",
       "verdict": "Best-built upgrade, not affordability winner",
       "summary": "Fully bonded tri-ply and a 600°F rating, but handwash-only and roughly triple the Tramontina item price.",
@@ -155,11 +220,13 @@
       "integrityRank": 5,
       "facts": {
         "Fabric": "Fully bonded 3-ply stainless/aluminum/stainless construction; no nonstick food surface advertised.",
-        "Price": "$159.99 official US item price; shipping policy depends on order total.",
+        "Price": "$159.99 official US item price; shipping policy depends on order total. Historical observation; not refreshed in this update.",
         "Fit": "12.5-inch · all cooktops including induction · oven/broiler-safe to 600°F · handwash only.",
         "Status": "Durability/performance upgrade; poor fit if affordability and dishwasher cleaning dominate."
       },
-      "sources": ["allclad-pan"]
+      "sources": [
+        "allclad-pan"
+      ]
     },
     {
       "id": "cookware-oxo",
@@ -167,7 +234,14 @@
       "store": "OXO",
       "category": "Utensils",
       "materialCaveat": "Easy-clean utensil pick",
-      "images": [{"src": "assets/images/cookware-oxo.png", "alt": "Retail product photo of OXO stainless locking tongs", "source": "https://m.media-amazon.com/images/I/51n297ileBL._AC_SX569_.jpg", "sourcePage": "https://www.amazon.com/OXO-Grips-12-Inch-Stainless-Steel-Locking/dp/B00004OCK1"}],
+      "images": [
+        {
+          "src": "assets/images/cookware-oxo.png",
+          "alt": "Retail product photo of OXO stainless locking tongs",
+          "source": "https://m.media-amazon.com/images/I/51n297ileBL._AC_SX569_.jpg",
+          "sourcePage": "https://www.amazon.com/OXO-Grips-12-Inch-Stainless-Steel-Locking/dp/B00004OCK1"
+        }
+      ],
       "name": "OXO Good Grips 12-inch Stainless Tongs",
       "verdict": "Easy-clean utensil pick",
       "summary": "Stainless working end with a soft grip and dishwasher-safe claim; the grip is a disclosed polymer compromise.",
@@ -179,11 +253,13 @@
       "integrityRank": 3,
       "facts": {
         "Fabric": "Brushed stainless steel plus soft non-slip grip; no recycled black plastic claim on page.",
-        "Price": "$17.99 official US item price; free shipping threshold applies separately.",
+        "Price": "$17.99 official US item price; free shipping threshold applies separately. Historical observation; not refreshed in this update.",
         "Fit": "12-inch locking tongs · dishwasher-safe; polymer grip means not an all-metal construction.",
         "Status": "Good practical tongs for stainless cookware; use silicone/wood instead on Visions."
       },
-      "sources": ["oxo-tongs"]
+      "sources": [
+        "oxo-tongs"
+      ]
     },
     {
       "id": "cookware-turner",
@@ -191,7 +267,14 @@
       "store": "East Bay Restaurant Supply",
       "category": "Utensils",
       "materialCaveat": "Lowest-cost commercial-style turner lead",
-      "images": [{"src": "assets/images/cookware-turner.png", "alt": "Retail product photo of Tramontina stainless food turner", "source": "https://shopusars.com/cdn/shop/files/6e035ceda010a7193515b3c3f63595172c5110ff4ccbb683eeec76e5b6f2598a.webp?v=1790667204&width=640", "sourcePage": "https://shopusars.com/products/tramontina-usa-inc-80010-070-residential-turners-tongs"}],
+      "images": [
+        {
+          "src": "assets/images/cookware-turner.png",
+          "alt": "Retail product photo of Tramontina stainless food turner",
+          "source": "https://shopusars.com/cdn/shop/files/6e035ceda010a7193515b3c3f63595172c5110ff4ccbb683eeec76e5b6f2598a.webp?v=1790667204&width=640",
+          "sourcePage": "https://shopusars.com/products/tramontina-usa-inc-80010-070-residential-turners-tongs"
+        }
+      ],
       "name": "Tramontina Professional Stainless Turner",
       "verdict": "Lowest-cost commercial-style turner lead",
       "summary": "Stainless blade and dishwasher-safe polypropylene handle; the handle is simpler than a one-piece all-metal utensil.",
@@ -203,28 +286,386 @@
       "integrityRank": 3,
       "facts": {
         "Fabric": "Stain-free high-carbon/stainless steel blade with white polypropylene handle; no black recycled plastic claim established.",
-        "Price": "$11.99 observed at an independent restaurant-supply seller; seller/stock should be rechecked.",
+        "Price": "$11.99 observed at an independent restaurant-supply seller; seller/stock should be rechecked. Historical observation; not refreshed in this update.",
         "Fit": "5×4-inch turner · dishwasher-safe handle; suitable for metal cookware, not a Visions utensil.",
         "Status": "Affordable, simple utensil; all-metal one-piece construction would better match the original rubric."
       },
-      "sources": ["tramontina-turner", "tramontina-b2b-turner"]
+      "sources": [
+        "tramontina-turner",
+        "tramontina-b2b-turner"
+      ]
+    },
+    {
+      "id": "cookware-ikea3",
+      "name": "IKEA 365+ 3-quart Pot with Lid",
+      "url": "https://www.ikea.com/us/en/p/ikea-365-pot-with-lid-stainless-steel-90577912/",
+      "store": "IKEA",
+      "category": "Everyday pots",
+      "materialCaveat": "Small everyday pot. Nickel-bearing stainless; practical choice, not a lowest-exposure claim.",
+      "verdict": "Small everyday pot",
+      "summary": "Rice, vegetables and smaller portions; dishwasher-safe; induction-compatible.",
+      "image": "assets/images/cookware-ikea3-retail.jpg",
+      "imageAlt": "IKEA 365+ 3-quart Pot with Lid — retailer photograph",
+      "imageNote": "Exact listing primary retail photo; remaining gallery not included.",
+      "images": [
+        {
+          "src": "assets/images/cookware-ikea3-retail.jpg",
+          "alt": "IKEA 365+ 3-quart Pot with Lid",
+          "source": "https://www.ikea.com/us/en/images/products/ikea-365-pot-with-lid-stainless-steel__1006171_pe825756_s5.jpg?f=u",
+          "sourcePage": "https://www.ikea.com/us/en/p/ikea-365-pot-with-lid-stainless-steel-90577912/"
+        }
+      ],
+      "unitPriceUSD": 19.99,
+      "naturalPercent": null,
+      "integrityRank": null,
+      "facts": {
+        "Fabric": "Stainless body and lid; aluminum-core bonded base. Alloy grade undisclosed.",
+        "Price": "$19.99 item price checked 2026-11-12; shipping/tax not verified.",
+        "Fit": "Rice, vegetables and smaller portions; dishwasher-safe; induction-compatible.",
+        "Status": "Stock/delivery depends on destination."
+      },
+      "sources": [
+        "everyday-ikea3",
+        "nickel-eu",
+        "nickel-study"
+      ]
+    },
+    {
+      "id": "cookware-ikea5",
+      "name": "IKEA 365+ 5-quart Pot with Lid",
+      "url": "https://www.ikea.com/us/en/p/ikea-365-pot-with-lid-stainless-steel-50577914/",
+      "store": "IKEA",
+      "category": "Everyday pots",
+      "materialCaveat": "Budget everyday pick. Nickel-bearing stainless; practical choice, not a lowest-exposure claim.",
+      "verdict": "Budget everyday pick",
+      "summary": "General boiling and simmering; dishwasher-safe; induction-compatible.",
+      "image": "assets/images/cookware-ikea5-retail.jpg",
+      "imageAlt": "IKEA 365+ 5-quart Pot with Lid — retailer photograph",
+      "imageNote": "Exact listing primary retail photo; remaining gallery not included.",
+      "images": [
+        {
+          "src": "assets/images/cookware-ikea5-retail.jpg",
+          "alt": "IKEA 365+ 5-quart Pot with Lid",
+          "source": "https://www.ikea.com/us/en/images/products/ikea-365-pot-with-lid-stainless-steel__1006173_pe825758_s5.jpg?f=u",
+          "sourcePage": "https://www.ikea.com/us/en/p/ikea-365-pot-with-lid-stainless-steel-50577914/"
+        }
+      ],
+      "unitPriceUSD": 24.99,
+      "naturalPercent": null,
+      "integrityRank": null,
+      "facts": {
+        "Fabric": "Stainless body and lid; aluminum-core bonded base. Alloy grade undisclosed.",
+        "Price": "$24.99 item price checked 2026-11-12; shipping/tax not verified.",
+        "Fit": "General boiling and simmering; dishwasher-safe; induction-compatible.",
+        "Status": "Stock/delivery depends on destination."
+      },
+      "sources": [
+        "everyday-ikea5",
+        "nickel-eu",
+        "nickel-study"
+      ]
+    },
+    {
+      "id": "cookware-classic6",
+      "name": "Cuisinart Chef’s Classic 6-quart Stockpot",
+      "url": "https://www.amazon.com/dp/B00008CM6I",
+      "store": "Amazon.com",
+      "category": "Everyday pots",
+      "materialCaveat": "Simple Amazon pick. Nickel-bearing stainless; practical choice, not a lowest-exposure claim.",
+      "verdict": "Simple Amazon pick",
+      "summary": "Pasta, soup and beans; dishwasher-safe; riveted handles.",
+      "image": "assets/images/cookware-classic6-retail.jpg",
+      "imageAlt": "Cuisinart Chef’s Classic 6-quart Stockpot — retailer photograph",
+      "imageNote": "Exact listing primary retail photo; remaining gallery not included.",
+      "images": [
+        {
+          "src": "assets/images/cookware-classic6-retail.jpg",
+          "alt": "Cuisinart Chef’s Classic 6-quart Stockpot",
+          "source": "https://m.media-amazon.com/images/I/617WOR9fs1L._AC_SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B00008CM6I"
+        }
+      ],
+      "unitPriceUSD": 47.53,
+      "naturalPercent": null,
+      "integrityRank": null,
+      "facts": {
+        "Fabric": "Stainless food surface and lid; encapsulated aluminum base. Alloy grade not established.",
+        "Price": "$47.53 item price checked 2026-11-12; shipping/tax not verified.",
+        "Fit": "Pasta, soup and beans; dishwasher-safe; riveted handles.",
+        "Status": "Selected new offer verified live; stock can change."
+      },
+      "sources": [
+        "everyday-classic6",
+        "nickel-eu",
+        "nickel-study"
+      ]
+    },
+    {
+      "id": "cookware-tempo8",
+      "name": "Tramontina Tempo 8-quart Stockpot",
+      "url": "https://www.amazon.com/dp/B0DWSBYG8Z",
+      "store": "Amazon.com",
+      "category": "Everyday pots",
+      "materialCaveat": "Larger-batch value. Nickel-bearing stainless; practical choice, not a lowest-exposure claim.",
+      "verdict": "Larger-batch value",
+      "summary": "Larger portions; induction-compatible; dishwasher-safe; oven-safe to 350°F.",
+      "image": "assets/images/cookware-tempo8-retail.jpg",
+      "imageAlt": "Tramontina Tempo 8-quart Stockpot — retailer photograph",
+      "imageNote": "Exact listing primary retail photo; remaining gallery not included.",
+      "images": [
+        {
+          "src": "assets/images/cookware-tempo8-retail.jpg",
+          "alt": "Tramontina Tempo 8-quart Stockpot",
+          "source": "https://m.media-amazon.com/images/I/716XYSftowL._AC_SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B0DWSBYG8Z"
+        }
+      ],
+      "unitPriceUSD": 50.95,
+      "naturalPercent": null,
+      "integrityRank": null,
+      "facts": {
+        "Fabric": "18/8 stainless; aluminum-core bonded base; glass lid.",
+        "Price": "$50.95 item price checked 2026-11-12; shipping/tax not verified.",
+        "Fit": "Larger portions; induction-compatible; dishwasher-safe; oven-safe to 350°F.",
+        "Status": "Selected new offer verified live; stock can change."
+      },
+      "sources": [
+        "everyday-tempo8",
+        "nickel-eu",
+        "nickel-study"
+      ]
+    },
+    {
+      "id": "cookware-cooks6",
+      "name": "Cooks Standard Multi-Ply Clad 6-quart Stockpot",
+      "url": "https://www.amazon.com/dp/B0DBK28JDX",
+      "store": "Amazon · NewayUSA",
+      "category": "Everyday pots",
+      "materialCaveat": "Lower-cost fully clad option. Nickel-bearing stainless; practical choice, not a lowest-exposure claim.",
+      "verdict": "Lower-cost fully clad option",
+      "summary": "Induction-compatible; exposed layered rim: favor hand-washing despite dishwasher claim.",
+      "image": "assets/images/cookware-cooks6-retail.jpg",
+      "imageAlt": "Cooks Standard Multi-Ply Clad 6-quart Stockpot — retailer photograph",
+      "imageNote": "Exact listing primary retail photo; remaining gallery not included.",
+      "images": [
+        {
+          "src": "assets/images/cookware-cooks6-retail.jpg",
+          "alt": "Cooks Standard Multi-Ply Clad 6-quart Stockpot",
+          "source": "https://m.media-amazon.com/images/I/61ExAB+4CbL._AC_SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B0DBK28JDX"
+        }
+      ],
+      "unitPriceUSD": 62.99,
+      "naturalPercent": null,
+      "integrityRank": null,
+      "facts": {
+        "Fabric": "18/10 interior; aluminum core through walls; 430 exterior; stainless lid.",
+        "Price": "$62.99 item price checked 2026-11-12; shipping/tax not verified.",
+        "Fit": "Induction-compatible; exposed layered rim: favor hand-washing despite dishwasher claim.",
+        "Status": "Selected new offer verified live; stock can change."
+      },
+      "sources": [
+        "everyday-cooks6",
+        "nickel-eu",
+        "nickel-study"
+      ]
+    },
+    {
+      "id": "cookware-signature6",
+      "name": "Tramontina Signature Tri-Ply Clad 6-quart Pot",
+      "url": "https://www.amazon.com/dp/B00JAQ83WM",
+      "store": "Amazon.com",
+      "category": "Everyday pots",
+      "materialCaveat": "Fully clad upgrade. Nickel-bearing stainless; practical choice, not a lowest-exposure claim.",
+      "verdict": "Fully clad upgrade",
+      "summary": "Ordinary two-handled pot despite “sauce pot” name; induction-ready; dishwasher-safe.",
+      "image": "assets/images/cookware-signature6-retail.jpg",
+      "imageAlt": "Tramontina Signature Tri-Ply Clad 6-quart Pot — retailer photograph",
+      "imageNote": "Exact listing primary retail photo; remaining gallery not included.",
+      "images": [
+        {
+          "src": "assets/images/cookware-signature6-retail.jpg",
+          "alt": "Tramontina Signature Tri-Ply Clad 6-quart Pot",
+          "source": "https://m.media-amazon.com/images/I/71lJENPZLyL._AC_SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B00JAQ83WM"
+        }
+      ],
+      "unitPriceUSD": 81.99,
+      "naturalPercent": null,
+      "integrityRank": null,
+      "facts": {
+        "Fabric": "18/10 interior; aluminum core through walls; stainless lid.",
+        "Price": "$81.99 item price checked 2026-11-12; shipping/tax not verified.",
+        "Fit": "Ordinary two-handled pot despite “sauce pot” name; induction-ready; dishwasher-safe.",
+        "Status": "Selected new offer verified live; stock can change."
+      },
+      "sources": [
+        "everyday-signature6",
+        "nickel-eu",
+        "nickel-study"
+      ]
+    },
+    {
+      "id": "cookware-scoops",
+      "name": "ES NATAURA Stainless Scoop Set · 15 + 30 mL",
+      "url": "https://www.amazon.com/dp/B0FQCC2V1V",
+      "store": "Amazon · ES NATAURA",
+      "category": "Powder scoops",
+      "materialCaveat": "Quick powder scoops — calibrate first. Brief dry contact is not equivalent to hot-acid cooking; still nickel-bearing.",
+      "verdict": "Quick powder scoops — calibrate first",
+      "summary": "Two sizes, not gram measures. Weigh your powder once; 5–20 g coverage is unverified without its density. Dishwasher-safe claim.",
+      "image": "assets/images/cookware-scoops-retail.jpg",
+      "imageAlt": "ES NATAURA Stainless Scoop Set · 15 + 30 mL — retailer photograph",
+      "imageNote": "Exact listing primary retail photo; remaining gallery not included.",
+      "images": [
+        {
+          "src": "assets/images/cookware-scoops-retail.jpg",
+          "alt": "ES NATAURA Stainless Scoop Set · 15 + 30 mL",
+          "source": "https://m.media-amazon.com/images/I/612ZGvQ06tL._AC_SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B0FQCC2V1V"
+        }
+      ],
+      "unitPriceUSD": 5.99,
+      "naturalPercent": null,
+      "integrityRank": null,
+      "facts": {
+        "Fabric": "Seller-disclosed 304 / 18/8 stainless; engraved 15 and 30 mL capacities.",
+        "Price": "$5.99 item price checked 2026-11-12; shipping/tax not verified.",
+        "Fit": "Two sizes, not gram measures. Weigh your powder once; 5–20 g coverage is unverified without its density. Dishwasher-safe claim.",
+        "Status": "Selected new offer verified live; stock can change."
+      },
+      "sources": [
+        "everyday-scoops",
+        "nickel-eu",
+        "nickel-study"
+      ]
     }
   ],
   "sources": [
-    {"id":"tramontina-pan","title":"Tramontina Signature 12-inch Tri-Ply Clad Fry Pan","url":"https://www.tramontina.com/products/12-inch-tri-ply-clad-stainless-steel-fry-pan-with-helper-handle"},
-    {"id":"lodge-carbon","title":"Lodge Carbon Steel Skillet","url":"https://www.lodgecastiron.com/products/carbon-steel-skillet"},
-    {"id":"lodge-retailer","title":"Williams Sonoma Lodge 12-inch Seasoned Carbon Steel Skillet","url":"https://www.williams-sonoma.com/products/lodge-seasoned-steel-skillet/"},
-    {"id":"cuisinart-pan","title":"Cuisinart MultiClad Pro 12-inch Skillet","url":"https://www.cuisinart.com/multiclad-pro-triple-ply-stainless-cookware-12-skillet-with-helper-handle-cover/MCPS22-30HCN.html"},
-    {"id":"cuisinart-retailer","title":"Amazon exact Cuisinart MCPS22-30HCN listing","url":"https://www.amazon.com/Cuisinart-MCP22-30HCN-MultiClad-Skillet-12-Inch/dp/B00NAU8L76"},
-    {"id":"tramontina-pot","title":"Tramontina Signature 3-quart Tri-Ply Covered Deep Saute Pan","url":"https://www.tramontina.com/products/signature-3-quart-tri-ply-clad-stainless-steel-covered-deep-saute-pan"},
-    {"id":"tramontina-collection","title":"Tramontina Stainless Steel Cookware Collection","url":"https://www.tramontina.com/collections/stainless-steel-cookware"},
-    {"id":"visions-official","title":"Corelle/Visions Pyroceram overview","url":"https://corelleasia.com/pages/visions-1"},
-    {"id":"visions-care","title":"Corelle Visions Use and Care","url":"https://corelleasia.com/pages/overall-use-and-care"},
-    {"id":"visions-independent","title":"Epicurious Visions cookware experience","url":"https://www.epicurious.com/shopping/whos-afraid-of-visions-cookware"},
-    {"id":"visions-ih","title":"Corelle IH Visions induction line","url":"https://corelleasia.com/pages/ih-visions"},
-    {"id":"allclad-pan","title":"All-Clad D3 Everyday 12.5-inch skillet","url":"https://www.all-clad.com/d3-stainless-everyday-3-ply-bonded-cookware-skillet-12-5-in.html"},
-    {"id":"oxo-tongs","title":"OXO Good Grips 12-inch Tongs","url":"https://www.oxo.com/12-tongs-619.html"},
-    {"id":"tramontina-turner","title":"Tramontina Professional Stainless Turner listing","url":"https://eastbayrestaurantsupply.com/products/tramontina-professional-turner-stainless-steel-white-poly-handle-nsf-80010-070"},
-    {"id":"tramontina-b2b-turner","title":"Tramontina Professional Turner B2B page","url":"https://b2b.tramontina.com/products/5-in-x-4-in-professional-turner"}
+    {
+      "id": "tramontina-pan",
+      "title": "Tramontina Signature 12-inch Tri-Ply Clad Fry Pan",
+      "url": "https://www.tramontina.com/products/12-inch-tri-ply-clad-stainless-steel-fry-pan-with-helper-handle"
+    },
+    {
+      "id": "lodge-carbon",
+      "title": "Lodge Carbon Steel Skillet",
+      "url": "https://www.lodgecastiron.com/products/carbon-steel-skillet"
+    },
+    {
+      "id": "lodge-retailer",
+      "title": "Williams Sonoma Lodge 12-inch Seasoned Carbon Steel Skillet",
+      "url": "https://www.williams-sonoma.com/products/lodge-seasoned-steel-skillet/"
+    },
+    {
+      "id": "cuisinart-pan",
+      "title": "Cuisinart MultiClad Pro 12-inch Skillet",
+      "url": "https://www.cuisinart.com/multiclad-pro-triple-ply-stainless-cookware-12-skillet-with-helper-handle-cover/MCPS22-30HCN.html"
+    },
+    {
+      "id": "cuisinart-retailer",
+      "title": "Amazon exact Cuisinart MCPS22-30HCN listing",
+      "url": "https://www.amazon.com/Cuisinart-MCP22-30HCN-MultiClad-Skillet-12-Inch/dp/B00NAU8L76"
+    },
+    {
+      "id": "tramontina-pot",
+      "title": "Tramontina Signature 3-quart Tri-Ply Covered Deep Saute Pan",
+      "url": "https://www.tramontina.com/products/signature-3-quart-tri-ply-clad-stainless-steel-covered-deep-saute-pan"
+    },
+    {
+      "id": "tramontina-collection",
+      "title": "Tramontina Stainless Steel Cookware Collection",
+      "url": "https://www.tramontina.com/collections/stainless-steel-cookware"
+    },
+    {
+      "id": "visions-official",
+      "title": "Corelle/Visions Pyroceram overview",
+      "url": "https://corelleasia.com/pages/visions-1"
+    },
+    {
+      "id": "visions-care",
+      "title": "Corelle Visions Use and Care",
+      "url": "https://corelleasia.com/pages/overall-use-and-care"
+    },
+    {
+      "id": "visions-independent",
+      "title": "Epicurious Visions cookware experience",
+      "url": "https://www.epicurious.com/shopping/whos-afraid-of-visions-cookware"
+    },
+    {
+      "id": "visions-ih",
+      "title": "Corelle IH Visions induction line",
+      "url": "https://corelleasia.com/pages/ih-visions"
+    },
+    {
+      "id": "allclad-pan",
+      "title": "All-Clad D3 Everyday 12.5-inch skillet",
+      "url": "https://www.all-clad.com/d3-stainless-everyday-3-ply-bonded-cookware-skillet-12-5-in.html"
+    },
+    {
+      "id": "oxo-tongs",
+      "title": "OXO Good Grips 12-inch Tongs",
+      "url": "https://www.oxo.com/12-tongs-619.html"
+    },
+    {
+      "id": "tramontina-turner",
+      "title": "Tramontina Professional Stainless Turner listing",
+      "url": "https://eastbayrestaurantsupply.com/products/tramontina-professional-turner-stainless-steel-white-poly-handle-nsf-80010-070"
+    },
+    {
+      "id": "tramontina-b2b-turner",
+      "title": "Tramontina Professional Turner B2B page",
+      "url": "https://b2b.tramontina.com/products/5-in-x-4-in-professional-turner"
+    },
+    {
+      "id": "everyday-ikea3",
+      "title": "IKEA 365+ 3-quart Pot with Lid — selected product listing",
+      "url": "https://www.ikea.com/us/en/p/ikea-365-pot-with-lid-stainless-steel-90577912/"
+    },
+    {
+      "id": "everyday-ikea5",
+      "title": "IKEA 365+ 5-quart Pot with Lid — selected product listing",
+      "url": "https://www.ikea.com/us/en/p/ikea-365-pot-with-lid-stainless-steel-50577914/"
+    },
+    {
+      "id": "everyday-classic6",
+      "title": "Cuisinart Chef’s Classic 6-quart Stockpot — selected product listing",
+      "url": "https://www.amazon.com/dp/B00008CM6I"
+    },
+    {
+      "id": "everyday-tempo8",
+      "title": "Tramontina Tempo 8-quart Stockpot — selected product listing",
+      "url": "https://www.amazon.com/dp/B0DWSBYG8Z"
+    },
+    {
+      "id": "everyday-cooks6",
+      "title": "Cooks Standard Multi-Ply Clad 6-quart Stockpot — selected product listing",
+      "url": "https://www.amazon.com/dp/B0DBK28JDX"
+    },
+    {
+      "id": "everyday-signature6",
+      "title": "Tramontina Signature Tri-Ply Clad 6-quart Pot — selected product listing",
+      "url": "https://www.amazon.com/dp/B00JAQ83WM"
+    },
+    {
+      "id": "everyday-scoops",
+      "title": "ES NATAURA Stainless Scoop Set · 15 + 30 mL — selected product listing",
+      "url": "https://www.amazon.com/dp/B0FQCC2V1V"
+    },
+    {
+      "id": "nickel-eu",
+      "title": "EU nickel-in-food regulation — acute and chronic exposure concerns",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32024R1987"
+    },
+    {
+      "id": "nickel-study",
+      "title": "Stainless steel nickel/chromium migration study",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4284091/"
+    },
+    {
+      "id": "solbrah-video",
+      "title": "SolBrah-posted nickel video — transcript reviewed; broader hair/metabolic claims unverified",
+      "url": "https://x.com/SolBrah/status/2109480650244039022"
+    }
   ]
 }
