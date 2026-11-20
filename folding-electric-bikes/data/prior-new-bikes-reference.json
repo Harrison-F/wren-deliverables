@@ -1,0 +1,276 @@
+{
+  "id": "folding-electric-bikes",
+  "title": "Folding electric bikes",
+  "summary": "",
+  "layout": "natural-basics",
+  "catalog": true,
+  "defaultSort": "price",
+  "showCollectionNotes": false,
+  "updated": "2026-11-20",
+  "recommendation": {},
+  "evidenceNote": "NYC sale rules require accredited-lab certification to UL 2849 for powered bicycles and UL 2271 for removable batteries; manufacturer text is not our independent registry verification. This is not a rider-owned-device ban.",
+  "caveat": "Published specifications unless explicitly review-tested. Confirm delivered-unit certification, fit and checkout totals.",
+  "products": [
+    {
+      "id": "lectric-xp-lite3",
+      "name": "Lectric XP Lite3",
+      "url": "https://lectricebikes.com/products/xp-lite-white-ebike",
+      "store": "Lectric",
+      "category": "Published UL claim",
+      "unitPriceUSD": 799,
+      "priceLabel": "$799",
+      "materialCaveat": "UL 2849 + UL 2271 stated on exact product page.",
+      "verdict": "Lowest price; heaviest here.",
+      "summary": "",
+      "facts": {
+        "Weight": "49 lb with battery; 41 lb without",
+        "Folded size": "36 × 16 × 27 in",
+        "Fit": "4′8″–6′2″; 275 lb payload",
+        "Certification": "UL 2849 + UL 2271 stated on exact product page.",
+        "Evidence": "Manufacturer gives 41 lb bike plus 8 lb battery; complete weight is calculated, not independently tested. Hydraulic brakes, PAS + throttle. In stock at check; free shipping advertised.",
+        "Price basis": "USD manufacturer sticker price checked 2026-11-20. Taxes and checkout shipping excluded; availability can change."
+      },
+      "images": [
+        {
+          "src": "assets/images/lectric-xp-lite3.webp",
+          "alt": "Lectric XP Lite3 — manufacturer product photograph",
+          "source": "https://lectricebikes.com/cdn/shop/files/PDP_1st-Image_XP_Lite3_7.8_ArcticWhite_1.webp?v=1793214903",
+          "sourcePage": "https://lectricebikes.com/products/xp-lite-white-ebike"
+        }
+      ],
+      "image": "assets/images/lectric-xp-lite3.webp",
+      "imageAlt": "Lectric XP Lite3 — manufacturer product photograph",
+      "imageNote": "Exact manufacturer product photo, retrieved 2026-11-20; resized proportionally and flattened onto white. Manufacturer gives 41 lb bike plus 8 lb battery; complete weight is calculated, not independently tested. Hydraulic brakes, PAS + throttle. In stock at check; free shipping advertised.",
+      "sources": [
+        "lectric-xp-lite3",
+        "nyc"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "qualisports-volador",
+      "name": "Qualisports Volador",
+      "url": "https://www.qualisports.us/products/electric-bike-volador",
+      "store": "Qualisports",
+      "category": "Certification unresolved",
+      "unitPriceUSD": 1199,
+      "priceLabel": "$1,199",
+      "materialCaveat": "Certification limitation: range-wide SGS claim; no Volador-specific certificate found.",
+      "verdict": "Exact-model lab documentation needed.",
+      "summary": "",
+      "facts": {
+        "Weight": "41.2 lb including battery (spec table)",
+        "Folded size": "32.7 × 15.8 × 26.4 in",
+        "Fit": "5′0″–6′0″; 220 lb payload",
+        "Certification": "Certification limitation: range-wide SGS claim; no Volador-specific certificate found.",
+        "Evidence": "Header advertises 38 lb, but detailed table says 41.2 lb including battery; neither is our tested weight. Manufacturer claims range-wide SGS testing to UL 2849 / UL 2271 and says some batches lack stickers. Request exact delivered-SKU lab mark/certificate before purchase. Four colors available in product data; conflicting preorder boilerplate means shipment timing needs confirmation. Free e-bike shipping advertised.",
+        "Price basis": "USD manufacturer sticker price checked 2026-11-20. Taxes and checkout shipping excluded; availability can change."
+      },
+      "images": [
+        {
+          "src": "assets/images/qualisports-volador.webp",
+          "alt": "Qualisports Volador — manufacturer product photograph",
+          "source": "https://cdn.shopify.com/s/files/1/0184/0109/9840/files/3_1dd5a216-4163-4f39-97fd-1e9da27c21a8.webp?v=1795067257",
+          "sourcePage": "https://www.qualisports.us/products/electric-bike-volador"
+        }
+      ],
+      "image": "assets/images/qualisports-volador.webp",
+      "imageAlt": "Qualisports Volador — manufacturer product photograph",
+      "imageNote": "Exact manufacturer product photo, retrieved 2026-11-20; resized proportionally and flattened onto white. Header advertises 38 lb, but detailed table says 41.2 lb including battery; neither is our tested weight. Manufacturer claims range-wide SGS testing to UL 2849 / UL 2271 and says some batches lack stickers. Request exact delivered-SKU lab mark/certificate before purchase. Four colors available in product data; conflicting preorder boilerplate means shipment timing needs confirmation. Free e-bike shipping advertised.",
+      "sources": [
+        "qualisports-volador",
+        "q-cert",
+        "nyc"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "dahon-k-feather",
+      "name": "Dahon K-Feather",
+      "url": "https://usa.dahon.com/products/dahon-k-feather",
+      "store": "Dahon",
+      "category": "Certification unresolved",
+      "unitPriceUSD": 1299,
+      "priceLabel": "$1,299",
+      "materialCaveat": "Certification limitation: no UL 2849 / UL 2271 evidence found.",
+      "verdict": "Lightest; certification remains unresolved.",
+      "summary": "",
+      "facts": {
+        "Weight": "26.4 lb advertised; 28.3 lb review-tested",
+        "Folded size": "28.7 × 16 × 24.8 in",
+        "Fit": "4′7″–6′0″ spec; widget says 145–190 cm",
+        "Certification": "Certification limitation: no UL 2849 / UL 2271 evidence found.",
+        "Evidence": "Electric Bike Report measured 28.3 lb, above Dahon’s 26.4 lb claim. Built-in battery. Independent review reports no UL certification; EN 15194 is not UL 2849. Specification and fit widget differ; confirm fit with dealer. PAS only, single speed, V-brakes. $50 advertised checkout discount excluded because not checkout-confirmed. Available variants at check; shipping/tax unquoted.",
+        "Price basis": "USD manufacturer sticker price checked 2026-11-20. Taxes and checkout shipping excluded; availability can change."
+      },
+      "images": [
+        {
+          "src": "assets/images/dahon-k-feather.webp",
+          "alt": "Dahon K-Feather — manufacturer product photograph",
+          "source": "https://usa.dahon.com/cdn/shop/files/K-featherblue-2.png?v=1788512062",
+          "sourcePage": "https://usa.dahon.com/products/dahon-k-feather"
+        }
+      ],
+      "image": "assets/images/dahon-k-feather.webp",
+      "imageAlt": "Dahon K-Feather — manufacturer product photograph",
+      "imageNote": "Exact manufacturer product photo, retrieved 2026-11-20; resized proportionally and flattened onto white. Electric Bike Report measured 28.3 lb, above Dahon’s 26.4 lb claim. Built-in battery. Independent review reports no UL certification; EN 15194 is not UL 2849. Specification and fit widget differ; confirm fit with dealer. PAS only, single speed, V-brakes. $50 advertised checkout discount excluded because not checkout-confirmed. Available variants at check; shipping/tax unquoted.",
+      "sources": [
+        "dahon-k-feather",
+        "k-review",
+        "nyc"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "dahon-e-hemingway",
+      "name": "Dahon E-Hemingway",
+      "url": "https://usa.dahon.com/products/e-hemingway",
+      "store": "Dahon",
+      "category": "Published UL claim",
+      "unitPriceUSD": 1599,
+      "priceLabel": "$1,599",
+      "materialCaveat": "UL 2849 + UL 2271 stated on exact product page.",
+      "verdict": "Balanced price / carry-weight option.",
+      "summary": "",
+      "facts": {
+        "Weight": "41.9 lb with battery (manufacturer)",
+        "Folded size": "34.25 × 15.75 × 28.35 in",
+        "Fit": "145–190 cm fit widget; 231 lb payload",
+        "Certification": "UL 2849 + UL 2271 stated on exact product page.",
+        "Evidence": "Manufacturer weight, not an independent measurement. Removable seatpost battery, torque-sensing PAS, seven gears. Battery spec table says 9.5 Ah; prose says 10 Ah—confirm physical pack label. Green and Matt Obsidian available at check. Processing advertised 2–3 business days; checkout shipping/tax unquoted.",
+        "Price basis": "USD manufacturer sticker price checked 2026-11-20. Taxes and checkout shipping excluded; availability can change."
+      },
+      "images": [
+        {
+          "src": "assets/images/dahon-e-hemingway.webp",
+          "alt": "Dahon E-Hemingway — manufacturer product photograph",
+          "source": "https://cdn.shopify.com/s/files/1/0050/9784/8881/files/e-hemingway_1.png?v=1779632390",
+          "sourcePage": "https://usa.dahon.com/products/e-hemingway"
+        }
+      ],
+      "image": "assets/images/dahon-e-hemingway.webp",
+      "imageAlt": "Dahon E-Hemingway — manufacturer product photograph",
+      "imageNote": "Exact manufacturer product photo, retrieved 2026-11-20; resized proportionally and flattened onto white. Manufacturer weight, not an independent measurement. Removable seatpost battery, torque-sensing PAS, seven gears. Battery spec table says 9.5 Ah; prose says 10 Ah—confirm physical pack label. Green and Matt Obsidian available at check. Processing advertised 2–3 business days; checkout shipping/tax unquoted.",
+      "sources": [
+        "dahon-e-hemingway",
+        "nyc"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "brompton-electric-c-line",
+      "name": "Brompton Electric C Line",
+      "url": "https://us.brompton.com/p/1810/electric-c-line-with-superroll-e-motiq-system-4-speed-us",
+      "store": "Brompton",
+      "category": "Published UL claim",
+      "unitPriceUSD": 4700,
+      "priceLabel": "$4,700",
+      "materialCaveat": "US C Line page states independent UL 2849 certification; UL 2271 not explicit there.",
+      "verdict": "Smallest fold; premium price.",
+      "summary": "",
+      "facts": {
+        "Weight": "39.5 lb complete; 31.4 lb without battery",
+        "Folded size": "23 × 22.2 × 10.6 in",
+        "Fit": "Extended post: approx. 33–35 in inseam",
+        "Certification": "US C Line page states independent UL 2849 certification; UL 2271 not explicit there.",
+        "Evidence": "Photo caveat: manufacturer listing supplied a red-bike lifestyle image, not the priced Palm Green configuration. Exact e-Motiq / SuperRoll 4-speed Palm Green, Mid-bar configuration. Manufacturer weights, not our tests. Removable battery and rollable fold. Inseam and bar choice determine fit. In stock at check; dispatch advertised 3–5 working days, free ground shipping over $125.",
+        "Price basis": "USD manufacturer sticker price checked 2026-11-20. Taxes and checkout shipping excluded; availability can change."
+      },
+      "images": [
+        {
+          "src": "assets/images/brompton-electric-c-line.webp",
+          "alt": "Brompton Electric C Line — manufacturer lifestyle photo, red alternate color; priced configuration is Palm Green",
+          "source": "https://cdn11.bigcommerce.com/s-y6rxtt0m81/products/1810/images/79409/M4R0QQ130CW0R000D0076120QQQQ00_1__80275.1789649686.386.513.jpg?c=1",
+          "sourcePage": "https://us.brompton.com/p/1810/electric-c-line-with-superroll-e-motiq-system-4-speed-us"
+        }
+      ],
+      "image": "assets/images/brompton-electric-c-line.webp",
+      "imageAlt": "Brompton Electric C Line — manufacturer lifestyle photo, red alternate color; priced configuration is Palm Green",
+      "imageNote": "Exact manufacturer product photo, retrieved 2026-11-20; resized proportionally and flattened onto white. Photo caveat: manufacturer listing supplied a red-bike lifestyle image, not the priced Palm Green configuration. Exact e-Motiq / SuperRoll 4-speed Palm Green, Mid-bar configuration. Manufacturer weights, not our tests. Removable battery and rollable fold. Inseam and bar choice determine fit. In stock at check; dispatch advertised 3–5 working days, free ground shipping over $125.",
+      "sources": [
+        "brompton-electric-c-line",
+        "b-cert",
+        "b-fit",
+        "nyc"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    }
+  ],
+  "sources": [
+    {
+      "id": "lectric-xp-lite3",
+      "title": "Lectric XP Lite3 — manufacturer product page",
+      "url": "https://lectricebikes.com/products/xp-lite-white-ebike",
+      "type": "Manufacturer specification / offer",
+      "note": "Manufacturer gives 41 lb bike plus 8 lb battery; complete weight is calculated, not independently tested. Hydraulic brakes, PAS + throttle. In stock at check; free shipping advertised. Checked 2026-11-20."
+    },
+    {
+      "id": "qualisports-volador",
+      "title": "Qualisports Volador — manufacturer product page",
+      "url": "https://www.qualisports.us/products/electric-bike-volador",
+      "type": "Manufacturer specification / offer",
+      "note": "Header advertises 38 lb, but detailed table says 41.2 lb including battery; neither is our tested weight. Manufacturer claims range-wide SGS testing to UL 2849 / UL 2271 and says some batches lack stickers. Request exact delivered-SKU lab mark/certificate before purchase. Four colors available in product data; conflicting preorder boilerplate means shipment timing needs confirmation. Free e-bike shipping advertised. Checked 2026-11-20."
+    },
+    {
+      "id": "dahon-k-feather",
+      "title": "Dahon K-Feather — manufacturer product page",
+      "url": "https://usa.dahon.com/products/dahon-k-feather",
+      "type": "Manufacturer specification / offer",
+      "note": "Electric Bike Report measured 28.3 lb, above Dahon’s 26.4 lb claim. Built-in battery. Independent review reports no UL certification; EN 15194 is not UL 2849. Specification and fit widget differ; confirm fit with dealer. PAS only, single speed, V-brakes. $50 advertised checkout discount excluded because not checkout-confirmed. Available variants at check; shipping/tax unquoted. Checked 2026-11-20."
+    },
+    {
+      "id": "dahon-e-hemingway",
+      "title": "Dahon E-Hemingway — manufacturer product page",
+      "url": "https://usa.dahon.com/products/e-hemingway",
+      "type": "Manufacturer specification / offer",
+      "note": "Manufacturer weight, not an independent measurement. Removable seatpost battery, torque-sensing PAS, seven gears. Battery spec table says 9.5 Ah; prose says 10 Ah—confirm physical pack label. Green and Matt Obsidian available at check. Processing advertised 2–3 business days; checkout shipping/tax unquoted. Checked 2026-11-20."
+    },
+    {
+      "id": "brompton-electric-c-line",
+      "title": "Brompton Electric C Line — manufacturer product page",
+      "url": "https://us.brompton.com/p/1810/electric-c-line-with-superroll-e-motiq-system-4-speed-us",
+      "type": "Manufacturer specification / offer",
+      "note": "Photo caveat: manufacturer listing supplied a red-bike lifestyle image, not the priced Palm Green configuration. Exact e-Motiq / SuperRoll 4-speed Palm Green, Mid-bar configuration. Manufacturer weights, not our tests. Removable battery and rollable fold. Inseam and bar choice determine fit. In stock at check; dispatch advertised 3–5 working days, free ground shipping over $125. Checked 2026-11-20."
+    },
+    {
+      "id": "k-review",
+      "url": "https://electricbikereport.com/dahon-k-feather-review/",
+      "title": "K-Feather independent hands-on review",
+      "type": "Public supporting evidence",
+      "note": "Measured 28.3 lb; reports no UL certification."
+    },
+    {
+      "id": "q-cert",
+      "url": "https://www.qualisports.us/pages/sgs-certified-electric-bikes",
+      "title": "Qualisports certification statement",
+      "type": "Public supporting evidence",
+      "note": "Range-wide assertion is not a verified Volador-specific certificate."
+    },
+    {
+      "id": "b-cert",
+      "url": "https://us.brompton.com/electric-c-line",
+      "title": "Brompton Electric C Line certification",
+      "type": "Public supporting evidence",
+      "note": "Independent UL 2849 certification stated; UL 2271 not explicit on this page."
+    },
+    {
+      "id": "b-fit",
+      "url": "https://us.brompton.com/p/726/extended-height-seatpost-black?Colour=Black",
+      "title": "Brompton extended seatpost fit",
+      "type": "Public supporting evidence",
+      "note": "Approximate 33–35 inch inseam; fit depends on configuration."
+    },
+    {
+      "id": "nyc",
+      "url": "https://www.nyc.gov/site/dca/about/micromobility-notices.page",
+      "title": "NYC DCWP micromobility notices",
+      "type": "Public regulatory guidance",
+      "note": "NYC sale rules require accredited-lab certification to UL 2849 for powered bicycles and UL 2271 for removable batteries; manufacturer text is not our independent registry verification. This is not a rider-owned-device ban."
+    }
+  ]
+}

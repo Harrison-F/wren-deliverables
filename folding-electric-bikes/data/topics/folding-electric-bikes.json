@@ -8,194 +8,290 @@
   "showCollectionNotes": false,
   "updated": "2026-11-20",
   "recommendation": {},
-  "evidenceNote": "NYC sale rules require accredited-lab certification to UL 2849 for powered bicycles and UL 2271 for removable batteries; manufacturer text is not our independent registry verification. This is not a rider-owned-device ban.",
-  "caveat": "Published specifications unless explicitly review-tested. Confirm delivered-unit certification, fit and checkout totals.",
+  "evidenceNote": "Listing observations checked 2026-11-20, not physical tests or seller-availability confirmation. Neighborhoods and transit times are unverified. Prior manufacturer comparison retained separately as reference.",
+  "caveat": "Used local asking prices; black preferred, no white. Ideally under $800; hard cap $1,000. No sellers contacted; inspect before buying.",
   "products": [
     {
-      "id": "lectric-xp-lite3",
-      "name": "Lectric XP Lite3",
-      "url": "https://lectricebikes.com/products/xp-lite-white-ebike",
-      "store": "Lectric",
-      "category": "Published UL claim",
-      "unitPriceUSD": 799,
-      "priceLabel": "$799",
-      "materialCaveat": "UL 2849 + UL 2271 stated on exact product page.",
-      "verdict": "Lowest price; heaviest here.",
+      "id": "cl-7973638710",
+      "name": "Lectric XP 2.0 · black accents",
+      "url": "https://www.craigslist.org/view/d/new-york-lectric-20-bike/2jawvVgwELY56xqKkH8DuY",
+      "store": "Craigslist",
+      "category": "Compromises",
+      "unitPriceUSD": 375,
+      "priceLabel": "$375",
+      "verdict": "Heavy compromise · oldest, cheapest",
       "summary": "",
       "facts": {
-        "Weight": "49 lb with battery; 41 lb without",
-        "Folded size": "36 × 16 × 27 in",
-        "Fit": "4′8″–6′2″; 275 lb payload",
-        "Certification": "UL 2849 + UL 2271 stated on exact product page.",
-        "Evidence": "Manufacturer gives 41 lb bike plus 8 lb battery; complete weight is calculated, not independently tested. Hydraulic brakes, PAS + throttle. In stock at check; free shipping advertised.",
-        "Price basis": "USD manufacturer sticker price checked 2026-11-20. Taxes and checkout shipping excluded; availability can change."
+        "Weight": "Exact weight unverified; not a lightweight-first choice",
+        "Location": "Financial District; pickup / transit not verified",
+        "Battery / charger": "Seller: about four years of use / 3,000 miles; scratches. Battery and charger included per seller; pack age, health and OEM charger provenance unknown.",
+        "Evidence": "Seller: about four years of use / 3,000 miles; scratches. Battery and charger included per seller; pack age, health and OEM charger provenance unknown. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted.",
+        "Fit": "Unknown; test fit required.",
+        "Certification": "Exact used unit certification not verified.",
+        "Price basis": "Used asking price observed 2026-11-20; availability not confirmed."
       },
       "images": [
         {
-          "src": "assets/images/lectric-xp-lite3.webp",
-          "alt": "Lectric XP Lite3 — manufacturer product photograph",
-          "source": "https://lectricebikes.com/cdn/shop/files/PDP_1st-Image_XP_Lite3_7.8_ArcticWhite_1.webp?v=1793214903",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-white-ebike"
+          "src": "assets/images/cl-7973638710-1.webp",
+          "alt": "Lectric XP 2.0 · black accents — exact listing photo 1",
+          "source": "https://images.craigslist.org/00r0r_5lKegapaMmg_0t20CI_600x450.jpg",
+          "sourcePage": "https://www.craigslist.org/view/d/new-york-lectric-20-bike/2jawvVgwELY56xqKkH8DuY"
         }
       ],
-      "image": "assets/images/lectric-xp-lite3.webp",
-      "imageAlt": "Lectric XP Lite3 — manufacturer product photograph",
-      "imageNote": "Exact manufacturer product photo, retrieved 2026-11-20; resized proportionally and flattened onto white. Manufacturer gives 41 lb bike plus 8 lb battery; complete weight is calculated, not independently tested. Hydraulic brakes, PAS + throttle. In stock at check; free shipping advertised.",
+      "image": "assets/images/cl-7973638710-1.webp",
+      "imageAlt": "Lectric XP 2.0 · black accents — exact listing photo 1",
+      "imageNote": "Exact seller listing photographs; not stock substitutes. Seller: about four years of use / 3,000 miles; scratches. Battery and charger included per seller; pack age, health and OEM charger provenance unknown.",
       "sources": [
-        "lectric-xp-lite3",
-        "nyc"
+        "cl-7973638710"
       ],
       "integrityRank": 0,
       "naturalPercent": null
     },
     {
-      "id": "qualisports-volador",
-      "name": "Qualisports Volador",
-      "url": "https://www.qualisports.us/products/electric-bike-volador",
-      "store": "Qualisports",
-      "category": "Certification unresolved",
-      "unitPriceUSD": 1199,
-      "priceLabel": "$1,199",
-      "materialCaveat": "Certification limitation: range-wide SGS claim; no Volador-specific certificate found.",
-      "verdict": "Exact-model lab documentation needed.",
+      "id": "fb-1628011451642202",
+      "name": "Gotrax E-Fold · blue",
+      "url": "https://www.facebook.com/marketplace/item/1628011451642202/",
+      "store": "Facebook Marketplace",
+      "category": "Compromises",
+      "unitPriceUSD": 400,
+      "priceLabel": "$400",
+      "verdict": "Compromise · blue; weight / fit unknown",
       "summary": "",
       "facts": {
-        "Weight": "41.2 lb including battery (spec table)",
-        "Folded size": "32.7 × 15.8 × 26.4 in",
-        "Fit": "5′0″–6′0″; 220 lb payload",
-        "Certification": "Certification limitation: range-wide SGS claim; no Volador-specific certificate found.",
-        "Evidence": "Header advertises 38 lb, but detailed table says 41.2 lb including battery; neither is our tested weight. Manufacturer claims range-wide SGS testing to UL 2849 / UL 2271 and says some batches lack stickers. Request exact delivered-SKU lab mark/certificate before purchase. Four colors available in product data; conflicting preorder boilerplate means shipment timing needs confirmation. Free e-bike shipping advertised.",
-        "Price basis": "USD manufacturer sticker price checked 2026-11-20. Taxes and checkout shipping excluded; availability can change."
+        "Weight": "Unknown; exact model and fit need verification",
+        "Location": "New York; neighborhood unknown; pickup / transit not verified",
+        "Battery / charger": "Seller says barely ridden and has two bikes. Battery details, age and charger inclusion unstated. Blue/blue-gray photo, not preferred black.",
+        "Evidence": "Seller says barely ridden and has two bikes. Battery details, age and charger inclusion unstated. Blue/blue-gray photo, not preferred black. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted.",
+        "Fit": "Unknown; test fit required.",
+        "Certification": "Exact used unit certification not verified.",
+        "Price basis": "Used asking price observed 2026-11-20; availability not confirmed."
       },
       "images": [
         {
-          "src": "assets/images/qualisports-volador.webp",
-          "alt": "Qualisports Volador — manufacturer product photograph",
-          "source": "https://cdn.shopify.com/s/files/1/0184/0109/9840/files/3_1dd5a216-4163-4f39-97fd-1e9da27c21a8.webp?v=1795067257",
-          "sourcePage": "https://www.qualisports.us/products/electric-bike-volador"
+          "src": "assets/images/fb-1628011451642202-1.webp",
+          "alt": "Gotrax E-Fold · blue — exact listing photo 1",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.84726-6/906088703_1111923131452148_4352236335085661722_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=yWg0ZLL6YisQ7kNvwHzM_HH&_nc_oc=Adofi7T0eri7eWiirblz_mjmIerZaofGGkIUgkORnDTN4IwOz828Ac12cvF1QJSvczI&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=nTlk8ntF9fU6YzQnWRg_xw&_nc_ss=7e289&oh=00_AQTRpcIX1u63fQ89M4Me51QBJafL1AItbxgl2hZ-3Ph8Yw&oe=6B068F19",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1628011451642202/"
+        },
+        {
+          "src": "assets/images/fb-1628011451642202-2.webp",
+          "alt": "Gotrax E-Fold · blue — exact listing photo 2",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t45.5328-4/905049119_1699698405210372_8228176151140635913_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=2PNL_htm80oQ7kNvwHa7AO-&_nc_oc=AdoOXl_ZkbjEp2ZxPlx7LnIzY8zJoRTDm0WjOa2ODZHK-YXlOQKWchGYzFoZWZtD4DQ&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=nTlk8ntF9fU6YzQnWRg_xw&_nc_ss=7e289&oh=00_AQTJ6jAGJkMX86gXBMyBKsOfe_DXbe5N5qA032jV4cW76g&oe=6B066296",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1628011451642202/"
+        },
+        {
+          "src": "assets/images/fb-1628011451642202-3.webp",
+          "alt": "Gotrax E-Fold · blue — exact listing photo 3",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t45.5328-4/904424795_2473670209833493_5017123249682559687_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=ecyE6NadmioQ7kNvwGalh1L&_nc_oc=AdqHGS4fsXTdsfl9nZ_gVhWjOdmJWNiC_NasWXpQ1GCCgO1-69j64xHNpn_pxs4PJ8Y&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=nTlk8ntF9fU6YzQnWRg_xw&_nc_ss=7e289&oh=00_AQRCF9lyvKSP-cDbGdQS9ijBSiyVeJCJtwpi_DNgzf7MHQ&oe=6B066DAF",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1628011451642202/"
         }
       ],
-      "image": "assets/images/qualisports-volador.webp",
-      "imageAlt": "Qualisports Volador — manufacturer product photograph",
-      "imageNote": "Exact manufacturer product photo, retrieved 2026-11-20; resized proportionally and flattened onto white. Header advertises 38 lb, but detailed table says 41.2 lb including battery; neither is our tested weight. Manufacturer claims range-wide SGS testing to UL 2849 / UL 2271 and says some batches lack stickers. Request exact delivered-SKU lab mark/certificate before purchase. Four colors available in product data; conflicting preorder boilerplate means shipment timing needs confirmation. Free e-bike shipping advertised.",
+      "image": "assets/images/fb-1628011451642202-1.webp",
+      "imageAlt": "Gotrax E-Fold · blue — exact listing photo 1",
+      "imageNote": "Exact seller listing photographs; not stock substitutes. Seller says barely ridden and has two bikes. Battery details, age and charger inclusion unstated. Blue/blue-gray photo, not preferred black.",
       "sources": [
-        "qualisports-volador",
-        "q-cert",
-        "nyc"
+        "fb-1628011451642202"
       ],
       "integrityRank": 0,
       "naturalPercent": null
     },
     {
-      "id": "dahon-k-feather",
-      "name": "Dahon K-Feather",
-      "url": "https://usa.dahon.com/products/dahon-k-feather",
-      "store": "Dahon",
-      "category": "Certification unresolved",
-      "unitPriceUSD": 1299,
-      "priceLabel": "$1,299",
-      "materialCaveat": "Certification limitation: no UL 2849 / UL 2271 evidence found.",
-      "verdict": "Lightest; certification remains unresolved.",
+      "id": "cl-7995479676",
+      "name": "Lectric XP Lite 2.0 · JW Black, sticker-wrapped",
+      "url": "https://www.craigslist.org/view/d/brooklyn-lectric-xp-lite-20-long-range/grFxSr9SRoxMdBsUn9MEwG",
+      "store": "Craigslist",
+      "category": "Strongest leads",
+      "unitPriceUSD": 600,
+      "priceLabel": "$600",
+      "verdict": "Best value lead · not plain black",
       "summary": "",
       "facts": {
-        "Weight": "26.4 lb advertised; 28.3 lb review-tested",
-        "Folded size": "28.7 × 16 × 24.8 in",
-        "Fit": "4′7″–6′0″ spec; widget says 145–190 cm",
-        "Certification": "Certification limitation: no UL 2849 / UL 2271 evidence found.",
-        "Evidence": "Electric Bike Report measured 28.3 lb, above Dahon’s 26.4 lb claim. Built-in battery. Independent review reports no UL certification; EN 15194 is not UL 2849. Specification and fit widget differ; confirm fit with dealer. PAS only, single speed, V-brakes. $50 advertised checkout discount excluded because not checkout-confirmed. Available variants at check; shipping/tax unquoted.",
-        "Price basis": "USD manufacturer sticker price checked 2026-11-20. Taxes and checkout shipping excluded; availability can change."
+        "Weight": "49 lb manufacturer baseline; 41 lb without battery",
+        "Location": "Brooklyn; neighborhood unconfirmed; pickup / transit not verified",
+        "Battery / charger": "Seller: bought new July 2026; 78 miles; long-range battery; perfect working condition. Colorful sticker wrap and accessories visible; exact model is seller assertion. Charger inclusion unknown; battery health untested.",
+        "Evidence": "Seller: bought new July 2026; 78 miles; long-range battery; perfect working condition. Colorful sticker wrap and accessories visible; exact model is seller assertion. Charger inclusion unknown; battery health untested. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted.",
+        "Fit": "Manufacturer model range 4′8″–6′2″; actual fit requires test ride.",
+        "Certification": "Current model page states UL 2849 / UL 2271; exact used unit and pack labels not verified.",
+        "Price basis": "Used asking price observed 2026-11-20; availability not confirmed."
       },
       "images": [
         {
-          "src": "assets/images/dahon-k-feather.webp",
-          "alt": "Dahon K-Feather — manufacturer product photograph",
-          "source": "https://usa.dahon.com/cdn/shop/files/K-featherblue-2.png?v=1788512062",
-          "sourcePage": "https://usa.dahon.com/products/dahon-k-feather"
+          "src": "assets/images/cl-7995479676-1.webp",
+          "alt": "Lectric XP Lite 2.0 · JW Black, sticker-wrapped — exact listing photo 1",
+          "source": "https://images.craigslist.org/00u0u_aKFrhmv4b3A_0li0so_600x450.jpg",
+          "sourcePage": "https://www.craigslist.org/view/d/brooklyn-lectric-xp-lite-20-long-range/grFxSr9SRoxMdBsUn9MEwG"
+        },
+        {
+          "src": "assets/images/cl-7995479676-2.webp",
+          "alt": "Lectric XP Lite 2.0 · JW Black, sticker-wrapped — exact listing photo 2",
+          "source": "https://images.craigslist.org/00808_KFESbceaQF_0li0so_600x450.jpg",
+          "sourcePage": "https://www.craigslist.org/view/d/brooklyn-lectric-xp-lite-20-long-range/grFxSr9SRoxMdBsUn9MEwG"
+        },
+        {
+          "src": "assets/images/cl-7995479676-3.webp",
+          "alt": "Lectric XP Lite 2.0 · JW Black, sticker-wrapped — exact listing photo 3",
+          "source": "https://images.craigslist.org/00L0L_6ihzzUjFmoC_0li0so_600x450.jpg",
+          "sourcePage": "https://www.craigslist.org/view/d/brooklyn-lectric-xp-lite-20-long-range/grFxSr9SRoxMdBsUn9MEwG"
+        },
+        {
+          "src": "assets/images/cl-7995479676-4.webp",
+          "alt": "Lectric XP Lite 2.0 · JW Black, sticker-wrapped — exact listing photo 4",
+          "source": "https://images.craigslist.org/00s0s_gxoGvTxQ95T_0li0so_600x450.jpg",
+          "sourcePage": "https://www.craigslist.org/view/d/brooklyn-lectric-xp-lite-20-long-range/grFxSr9SRoxMdBsUn9MEwG"
+        },
+        {
+          "src": "assets/images/cl-7995479676-5.webp",
+          "alt": "Lectric XP Lite 2.0 · JW Black, sticker-wrapped — exact listing photo 5",
+          "source": "https://images.craigslist.org/00o0o_16keSTxu9QM_0li0so_600x450.jpg",
+          "sourcePage": "https://www.craigslist.org/view/d/brooklyn-lectric-xp-lite-20-long-range/grFxSr9SRoxMdBsUn9MEwG"
         }
       ],
-      "image": "assets/images/dahon-k-feather.webp",
-      "imageAlt": "Dahon K-Feather — manufacturer product photograph",
-      "imageNote": "Exact manufacturer product photo, retrieved 2026-11-20; resized proportionally and flattened onto white. Electric Bike Report measured 28.3 lb, above Dahon’s 26.4 lb claim. Built-in battery. Independent review reports no UL certification; EN 15194 is not UL 2849. Specification and fit widget differ; confirm fit with dealer. PAS only, single speed, V-brakes. $50 advertised checkout discount excluded because not checkout-confirmed. Available variants at check; shipping/tax unquoted.",
+      "image": "assets/images/cl-7995479676-1.webp",
+      "imageAlt": "Lectric XP Lite 2.0 · JW Black, sticker-wrapped — exact listing photo 1",
+      "imageNote": "Exact seller listing photographs; not stock substitutes. Seller: bought new July 2026; 78 miles; long-range battery; perfect working condition. Colorful sticker wrap and accessories visible; exact model is seller assertion. Charger inclusion unknown; battery health untested.",
       "sources": [
-        "dahon-k-feather",
-        "k-review",
-        "nyc"
+        "cl-7995479676",
+        "lite-spec"
       ],
       "integrityRank": 0,
       "naturalPercent": null
     },
     {
-      "id": "dahon-e-hemingway",
-      "name": "Dahon E-Hemingway",
-      "url": "https://usa.dahon.com/products/e-hemingway",
-      "store": "Dahon",
-      "category": "Published UL claim",
-      "unitPriceUSD": 1599,
-      "priceLabel": "$1,599",
-      "materialCaveat": "UL 2849 + UL 2271 stated on exact product page.",
-      "verdict": "Balanced price / carry-weight option.",
+      "id": "fb-2159604844632885",
+      "name": "Lectric XP Lite 2 · JW Black",
+      "url": "https://www.facebook.com/marketplace/item/2159604844632885/",
+      "store": "Facebook Marketplace",
+      "category": "Strongest leads",
+      "unitPriceUSD": 750,
+      "priceLabel": "$750",
+      "verdict": "Clean black lead · charger stated",
       "summary": "",
       "facts": {
-        "Weight": "41.9 lb with battery (manufacturer)",
-        "Folded size": "34.25 × 15.75 × 28.35 in",
-        "Fit": "145–190 cm fit widget; 231 lb payload",
-        "Certification": "UL 2849 + UL 2271 stated on exact product page.",
-        "Evidence": "Manufacturer weight, not an independent measurement. Removable seatpost battery, torque-sensing PAS, seven gears. Battery spec table says 9.5 Ah; prose says 10 Ah—confirm physical pack label. Green and Matt Obsidian available at check. Processing advertised 2–3 business days; checkout shipping/tax unquoted.",
-        "Price basis": "USD manufacturer sticker price checked 2026-11-20. Taxes and checkout shipping excluded; availability can change."
+        "Weight": "49 lb manufacturer baseline; actual bike unweighed",
+        "Location": "Brooklyn; neighborhood unknown; pickup / transit not verified",
+        "Battery / charger": "Seller: bought in August (year unstated), about 150 miles, belt drive, charger and two keys included. Battery health and charger provenance unverified; claimed range is not a test.",
+        "Evidence": "Seller: bought in August (year unstated), about 150 miles, belt drive, charger and two keys included. Battery health and charger provenance unverified; claimed range is not a test. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted.",
+        "Fit": "Manufacturer model range 4′8″–6′2″; actual fit requires test ride.",
+        "Certification": "Current model page states UL 2849 / UL 2271; exact used unit and pack labels not verified.",
+        "Price basis": "Used asking price observed 2026-11-20; availability not confirmed."
       },
       "images": [
         {
-          "src": "assets/images/dahon-e-hemingway.webp",
-          "alt": "Dahon E-Hemingway — manufacturer product photograph",
-          "source": "https://cdn.shopify.com/s/files/1/0050/9784/8881/files/e-hemingway_1.png?v=1779632390",
-          "sourcePage": "https://usa.dahon.com/products/e-hemingway"
+          "src": "assets/images/fb-2159604844632885-1.webp",
+          "alt": "Lectric XP Lite 2 · JW Black — exact listing photo 1",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.84726-6/912981606_1676325687446938_3717445119316649139_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=Sa5pGGIc35MQ7kNvwFtPxUD&_nc_oc=Adobd0IwEm5dB5heo49kNY-IIrwQBY-x8eZzH3i3DtqbGQQEGvtopIaaiF15V4fiWco&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=Tke1reQMEFs4utfTbcrVgg&_nc_ss=7e289&oh=00_AQSk07_3B66Jbqik07sUpvdvUeNb7-HBktcrr8Fqx5YKQA&oe=6B0673F1",
+          "sourcePage": "https://www.facebook.com/marketplace/item/2159604844632885/"
+        },
+        {
+          "src": "assets/images/fb-2159604844632885-2.webp",
+          "alt": "Lectric XP Lite 2 · JW Black — exact listing photo 2",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t45.5328-4/914352029_3689893331167043_8689505940392272186_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=90tVFILLp_AQ7kNvwGTOh3M&_nc_oc=Adrru2Z3WoZ07w5ZH9R6-sFvAypQ8I2VTpp_oaqDI4MToMF8ZVVCfwcby1u8PkjC4Ig&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=Tke1reQMEFs4utfTbcrVgg&_nc_ss=7e289&oh=00_AQRB63hBVeT8IqRqNv012OG0zmCZy8v3gfqJ9juX19TO8g&oe=6B066B88",
+          "sourcePage": "https://www.facebook.com/marketplace/item/2159604844632885/"
+        },
+        {
+          "src": "assets/images/fb-2159604844632885-3.webp",
+          "alt": "Lectric XP Lite 2 · JW Black — exact listing photo 3",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t45.5328-4/875205084_1140903462020813_8618734474387092040_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=VSc3NjQ-cKwQ7kNvwFGMyiH&_nc_oc=AdpOAOW6Yj5Y1-lrqetFzWSg8JnG8xOD088FqAyIX9CGySr3Fnsw2oDkvETewbdGPAk&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=Tke1reQMEFs4utfTbcrVgg&_nc_ss=7e289&oh=00_AQQL6hzSrhDQYfdFFJl03Mi1qY57PySnjLgVIoGEhV0vrQ&oe=6B0686C9",
+          "sourcePage": "https://www.facebook.com/marketplace/item/2159604844632885/"
         }
       ],
-      "image": "assets/images/dahon-e-hemingway.webp",
-      "imageAlt": "Dahon E-Hemingway — manufacturer product photograph",
-      "imageNote": "Exact manufacturer product photo, retrieved 2026-11-20; resized proportionally and flattened onto white. Manufacturer weight, not an independent measurement. Removable seatpost battery, torque-sensing PAS, seven gears. Battery spec table says 9.5 Ah; prose says 10 Ah—confirm physical pack label. Green and Matt Obsidian available at check. Processing advertised 2–3 business days; checkout shipping/tax unquoted.",
+      "image": "assets/images/fb-2159604844632885-1.webp",
+      "imageAlt": "Lectric XP Lite 2 · JW Black — exact listing photo 1",
+      "imageNote": "Exact seller listing photographs; not stock substitutes. Seller: bought in August (year unstated), about 150 miles, belt drive, charger and two keys included. Battery health and charger provenance unverified; claimed range is not a test.",
       "sources": [
-        "dahon-e-hemingway",
-        "nyc"
+        "fb-2159604844632885",
+        "lite-spec"
       ],
       "integrityRank": 0,
       "naturalPercent": null
     },
     {
-      "id": "brompton-electric-c-line",
-      "name": "Brompton Electric C Line",
-      "url": "https://us.brompton.com/p/1810/electric-c-line-with-superroll-e-motiq-system-4-speed-us",
-      "store": "Brompton",
-      "category": "Published UL claim",
-      "unitPriceUSD": 4700,
-      "priceLabel": "$4,700",
-      "materialCaveat": "US C Line page states independent UL 2849 certification; UL 2271 not explicit there.",
-      "verdict": "Smallest fold; premium price.",
+      "id": "fb-1057555660649991",
+      "name": "Lectric XP Lite 2.0 · black long-range",
+      "url": "https://www.facebook.com/marketplace/item/1057555660649991/",
+      "store": "Facebook Marketplace",
+      "category": "Strongest leads",
+      "unitPriceUSD": 750,
+      "priceLabel": "$750",
+      "verdict": "Black long-range lead · stairs warning",
       "summary": "",
       "facts": {
-        "Weight": "39.5 lb complete; 31.4 lb without battery",
-        "Folded size": "23 × 22.2 × 10.6 in",
-        "Fit": "Extended post: approx. 33–35 in inseam",
-        "Certification": "US C Line page states independent UL 2849 certification; UL 2271 not explicit there.",
-        "Evidence": "Photo caveat: manufacturer listing supplied a red-bike lifestyle image, not the priced Palm Green configuration. Exact e-Motiq / SuperRoll 4-speed Palm Green, Mid-bar configuration. Manufacturer weights, not our tests. Removable battery and rollable fold. Inseam and bar choice determine fit. In stock at check; dispatch advertised 3–5 working days, free ground shipping over $125.",
-        "Price basis": "USD manufacturer sticker price checked 2026-11-20. Taxes and checkout shipping excluded; availability can change."
+        "Weight": "49 lb baseline; accessories add unknown weight",
+        "Location": "Brooklyn; neighborhood unknown; pickup / transit not verified",
+        "Battery / charger": "Seller: used about a year; healthy battery, small scuffs, belt drive, basket and other accessories. Seller explicitly found daily walk-up carrying impractical. Charger inclusion and battery age/capacity unverified.",
+        "Evidence": "Seller: used about a year; healthy battery, small scuffs, belt drive, basket and other accessories. Seller explicitly found daily walk-up carrying impractical. Charger inclusion and battery age/capacity unverified. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted.",
+        "Fit": "Manufacturer model range 4′8″–6′2″; actual fit requires test ride.",
+        "Certification": "Current model page states UL 2849 / UL 2271; exact used unit and pack labels not verified.",
+        "Price basis": "Used asking price observed 2026-11-20; availability not confirmed."
       },
       "images": [
         {
-          "src": "assets/images/brompton-electric-c-line.webp",
-          "alt": "Brompton Electric C Line — manufacturer lifestyle photo, red alternate color; priced configuration is Palm Green",
-          "source": "https://cdn11.bigcommerce.com/s-y6rxtt0m81/products/1810/images/79409/M4R0QQ130CW0R000D0076120QQQQ00_1__80275.1789649686.386.513.jpg?c=1",
-          "sourcePage": "https://us.brompton.com/p/1810/electric-c-line-with-superroll-e-motiq-system-4-speed-us"
+          "src": "assets/images/fb-1057555660649991-1.webp",
+          "alt": "Lectric XP Lite 2.0 · black long-range — exact listing photo 1",
+          "source": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.84726-6/853878005_1615202673415037_3624578602746759783_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=LZm8sga_MksQ7kNvwHF0lMV&_nc_oc=AdqaYdFmXUrMC9xqhD04Pt5L4cH2eR3q5T4jON-UkSaYHoRfTaWPFe_08_DzNdfe4kQ&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=xbFMyLmk4XStiRDVm55dVA&_nc_ss=7e289&oh=00_AQQrLg81cqsaSO22tiI8lUYBZYXpj_LLTJy8YlQ8Dp-NxQ&oe=6B068D9A",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1057555660649991/"
+        },
+        {
+          "src": "assets/images/fb-1057555660649991-2.webp",
+          "alt": "Lectric XP Lite 2.0 · black long-range — exact listing photo 2",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t45.5328-4/849589097_1663826118419233_8065635654893250186_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=qxCdkM90mSAQ7kNvwEoXAPU&_nc_oc=AdrzGgK67dKW09kO5WM6g_Sl9fUwNrvJBn8g7GQSSSqGohxtC7dF-YvnWzlk4Ucp3XU&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=xbFMyLmk4XStiRDVm55dVA&_nc_ss=7e289&oh=00_AQQN63h4108Bhkwdp4awVzQsEydvZQfgy50ImXNTnrAvAg&oe=6B067B94",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1057555660649991/"
+        },
+        {
+          "src": "assets/images/fb-1057555660649991-3.webp",
+          "alt": "Lectric XP Lite 2.0 · black long-range — exact listing photo 3",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t45.5328-4/844474856_939858708881775_6694629115780278448_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=do00Br_XJT4Q7kNvwEzO9bX&_nc_oc=AdrIleZ6ubwA4gHn_2WZKfc37JhMpyRpF9CTemOLkBrvWKe71cK6o_eTd0R-RSFPT7E&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=xbFMyLmk4XStiRDVm55dVA&_nc_ss=7e289&oh=00_AQQFeuhxSnTGL3VGJsFNbDjo5JigN3gB8S4Hhcgpfuxqgw&oe=6B06659A",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1057555660649991/"
+        },
+        {
+          "src": "assets/images/fb-1057555660649991-4.webp",
+          "alt": "Lectric XP Lite 2.0 · black long-range — exact listing photo 4",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t45.5328-4/852189138_1144339251362152_4632020866334704478_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=p8GAcx1TWbAQ7kNvwG_MvZc&_nc_oc=AdorKtCR4FclN5HKvwCbZlZPuwiNARMrzrhJ9eQujYX7AsgzAJWcSLnnWik8KNaal6o&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=xbFMyLmk4XStiRDVm55dVA&_nc_ss=7e289&oh=00_AQQVmDE3n-TMCtfAiWPp60O6ppv-HKOko4fHKu5TSJK9jw&oe=6B067E8B",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1057555660649991/"
+        },
+        {
+          "src": "assets/images/fb-1057555660649991-5.webp",
+          "alt": "Lectric XP Lite 2.0 · black long-range — exact listing photo 5",
+          "source": "https://scontent-lga3-1.xx.fbcdn.net/v/t45.5328-4/852603551_2281004942740105_1236536851224342564_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=Qw33tUfps0sQ7kNvwGdnhJm&_nc_oc=AdpzijqdQTEHVuK1vzHXTjRJ6Cl-9MEHgVByxH2CVq5zZLqlSkbnk14IVEjr7o2KcEs&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=xbFMyLmk4XStiRDVm55dVA&_nc_ss=7e289&oh=00_AQQcU8Y2A-6n4ljdcSfVV0oEOvO6fyyyOTe9GBdVJ5zlig&oe=6B066E5D",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1057555660649991/"
+        },
+        {
+          "src": "assets/images/fb-1057555660649991-6.webp",
+          "alt": "Lectric XP Lite 2.0 · black long-range — exact listing photo 6",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t45.5328-4/843397961_2763838894071227_8990935978599030409_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=p2xMiPQfP90Q7kNvwEkCmHz&_nc_oc=AdqhIjbSc-IySO8mNce9bHDlQkzN1TuSAzoYu7bVbD7ZN_mU30kx56S8Eyg6AlC4j6U&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=xbFMyLmk4XStiRDVm55dVA&_nc_ss=7e289&oh=00_AQRWwpSF27OL4ceuGUy7ikt7nYT0sOFAzRCw6Tbfl22Nuw&oe=6B065BA6",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1057555660649991/"
+        },
+        {
+          "src": "assets/images/fb-1057555660649991-7.webp",
+          "alt": "Lectric XP Lite 2.0 · black long-range — exact listing photo 7",
+          "source": "https://scontent-lga3-1.xx.fbcdn.net/v/t45.5328-4/849605630_2001586787197566_7104816421637454035_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=BFSjPrp0oUgQ7kNvwFLIlZY&_nc_oc=AdqRrHRdvS9aF-cKJUhh62L9objOHhse8uarWiP-T6P3kekbMnLFndlBe-aq_A9-IfU&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=xbFMyLmk4XStiRDVm55dVA&_nc_ss=7e289&oh=00_AQTe5eS8V4bnsU_iUTBxh-igJFP_HIZbEU5kLnX3Pnw-pg&oe=6B066977",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1057555660649991/"
+        },
+        {
+          "src": "assets/images/fb-1057555660649991-8.webp",
+          "alt": "Lectric XP Lite 2.0 · black long-range — exact listing photo 8",
+          "source": "https://scontent-lga3-1.xx.fbcdn.net/v/t45.5328-4/851753122_2297301924362413_2228056531379050156_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=YgiQy0L3YH0Q7kNvwGJ_FmB&_nc_oc=AdogCz11_oisYROEej97UQOTbpsYfssCMN0AuHpkbHbaIwf3upf9pwJ4BOWeOfVJt-g&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=xbFMyLmk4XStiRDVm55dVA&_nc_ss=7e289&oh=00_AQQrjsTmaY8HEZ_Qj5HViqYalIFilHU49qXMi9rADLLbbw&oe=6B066FE5",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1057555660649991/"
+        },
+        {
+          "src": "assets/images/fb-1057555660649991-9.webp",
+          "alt": "Lectric XP Lite 2.0 · black long-range — exact listing photo 9",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t45.5328-4/847006955_3646007668884590_1623974913095873361_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=X0N0polkkEQQ7kNvwEKQl4a&_nc_oc=Ado2GGAihhuvCnjYoEiuhU52p_efvmaySOdP49hoPETygqcc71Qw2syi0WqZKBTmPbg&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=xbFMyLmk4XStiRDVm55dVA&_nc_ss=7e289&oh=00_AQQXIdktzr3CkHtO_rCTQXpqWA_9c9roVRhq9LpweJSw1A&oe=6B068731",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1057555660649991/"
+        },
+        {
+          "src": "assets/images/fb-1057555660649991-10.webp",
+          "alt": "Lectric XP Lite 2.0 · black long-range — exact listing photo 10",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t45.5328-4/845819424_1999739630596183_8817447878918987837_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=09s7y7I7MAUQ7kNvwEkoO72&_nc_oc=AdoTRfeCyfcXufvEqcqiExtCpeElmqwFhI0iGqPnK19OSwAZ3AoS-0fzqSWMTHWZBCE&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=xbFMyLmk4XStiRDVm55dVA&_nc_ss=7e289&oh=00_AQSBHnw1CtzHs0FXLA8C2MN5w2PEp-AsMM-xzNxSrxGOkA&oe=6B06684D",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1057555660649991/"
         }
       ],
-      "image": "assets/images/brompton-electric-c-line.webp",
-      "imageAlt": "Brompton Electric C Line — manufacturer lifestyle photo, red alternate color; priced configuration is Palm Green",
-      "imageNote": "Exact manufacturer product photo, retrieved 2026-11-20; resized proportionally and flattened onto white. Photo caveat: manufacturer listing supplied a red-bike lifestyle image, not the priced Palm Green configuration. Exact e-Motiq / SuperRoll 4-speed Palm Green, Mid-bar configuration. Manufacturer weights, not our tests. Removable battery and rollable fold. Inseam and bar choice determine fit. In stock at check; dispatch advertised 3–5 working days, free ground shipping over $125.",
+      "image": "assets/images/fb-1057555660649991-1.webp",
+      "imageAlt": "Lectric XP Lite 2.0 · black long-range — exact listing photo 1",
+      "imageNote": "Exact seller listing photographs; not stock substitutes. Seller: used about a year; healthy battery, small scuffs, belt drive, basket and other accessories. Seller explicitly found daily walk-up carrying impractical. Charger inclusion and battery age/capacity unverified.",
       "sources": [
-        "brompton-electric-c-line",
-        "b-cert",
-        "b-fit",
-        "nyc"
+        "fb-1057555660649991",
+        "lite-spec"
       ],
       "integrityRank": 0,
       "naturalPercent": null
@@ -203,74 +299,53 @@
   ],
   "sources": [
     {
-      "id": "lectric-xp-lite3",
-      "title": "Lectric XP Lite3 — manufacturer product page",
-      "url": "https://lectricebikes.com/products/xp-lite-white-ebike",
-      "type": "Manufacturer specification / offer",
-      "note": "Manufacturer gives 41 lb bike plus 8 lb battery; complete weight is calculated, not independently tested. Hydraulic brakes, PAS + throttle. In stock at check; free shipping advertised. Checked 2026-11-20."
+      "id": "cl-7973638710",
+      "title": "Lectric XP 2.0 · black accents — exact used listing",
+      "url": "https://www.craigslist.org/view/d/new-york-lectric-20-bike/2jawvVgwELY56xqKkH8DuY",
+      "type": "Seller assertions / listing observed 2026-11-20",
+      "note": "Seller: about four years of use / 3,000 miles; scratches. Battery and charger included per seller; pack age, health and OEM charger provenance unknown. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted."
     },
     {
-      "id": "qualisports-volador",
-      "title": "Qualisports Volador — manufacturer product page",
-      "url": "https://www.qualisports.us/products/electric-bike-volador",
-      "type": "Manufacturer specification / offer",
-      "note": "Header advertises 38 lb, but detailed table says 41.2 lb including battery; neither is our tested weight. Manufacturer claims range-wide SGS testing to UL 2849 / UL 2271 and says some batches lack stickers. Request exact delivered-SKU lab mark/certificate before purchase. Four colors available in product data; conflicting preorder boilerplate means shipment timing needs confirmation. Free e-bike shipping advertised. Checked 2026-11-20."
+      "id": "fb-1628011451642202",
+      "title": "Gotrax E-Fold · blue — exact used listing",
+      "url": "https://www.facebook.com/marketplace/item/1628011451642202/",
+      "type": "Seller assertions / listing observed 2026-11-20",
+      "note": "Seller says barely ridden and has two bikes. Battery details, age and charger inclusion unstated. Blue/blue-gray photo, not preferred black. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted."
     },
     {
-      "id": "dahon-k-feather",
-      "title": "Dahon K-Feather — manufacturer product page",
-      "url": "https://usa.dahon.com/products/dahon-k-feather",
-      "type": "Manufacturer specification / offer",
-      "note": "Electric Bike Report measured 28.3 lb, above Dahon’s 26.4 lb claim. Built-in battery. Independent review reports no UL certification; EN 15194 is not UL 2849. Specification and fit widget differ; confirm fit with dealer. PAS only, single speed, V-brakes. $50 advertised checkout discount excluded because not checkout-confirmed. Available variants at check; shipping/tax unquoted. Checked 2026-11-20."
+      "id": "cl-7995479676",
+      "title": "Lectric XP Lite 2.0 · JW Black, sticker-wrapped — exact used listing",
+      "url": "https://www.craigslist.org/view/d/brooklyn-lectric-xp-lite-20-long-range/grFxSr9SRoxMdBsUn9MEwG",
+      "type": "Seller assertions / listing observed 2026-11-20",
+      "note": "Seller: bought new July 2026; 78 miles; long-range battery; perfect working condition. Colorful sticker wrap and accessories visible; exact model is seller assertion. Charger inclusion unknown; battery health untested. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted."
     },
     {
-      "id": "dahon-e-hemingway",
-      "title": "Dahon E-Hemingway — manufacturer product page",
-      "url": "https://usa.dahon.com/products/e-hemingway",
-      "type": "Manufacturer specification / offer",
-      "note": "Manufacturer weight, not an independent measurement. Removable seatpost battery, torque-sensing PAS, seven gears. Battery spec table says 9.5 Ah; prose says 10 Ah—confirm physical pack label. Green and Matt Obsidian available at check. Processing advertised 2–3 business days; checkout shipping/tax unquoted. Checked 2026-11-20."
+      "id": "fb-2159604844632885",
+      "title": "Lectric XP Lite 2 · JW Black — exact used listing",
+      "url": "https://www.facebook.com/marketplace/item/2159604844632885/",
+      "type": "Seller assertions / listing observed 2026-11-20",
+      "note": "Seller: bought in August (year unstated), about 150 miles, belt drive, charger and two keys included. Battery health and charger provenance unverified; claimed range is not a test. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted."
     },
     {
-      "id": "brompton-electric-c-line",
-      "title": "Brompton Electric C Line — manufacturer product page",
-      "url": "https://us.brompton.com/p/1810/electric-c-line-with-superroll-e-motiq-system-4-speed-us",
-      "type": "Manufacturer specification / offer",
-      "note": "Photo caveat: manufacturer listing supplied a red-bike lifestyle image, not the priced Palm Green configuration. Exact e-Motiq / SuperRoll 4-speed Palm Green, Mid-bar configuration. Manufacturer weights, not our tests. Removable battery and rollable fold. Inseam and bar choice determine fit. In stock at check; dispatch advertised 3–5 working days, free ground shipping over $125. Checked 2026-11-20."
+      "id": "fb-1057555660649991",
+      "title": "Lectric XP Lite 2.0 · black long-range — exact used listing",
+      "url": "https://www.facebook.com/marketplace/item/1057555660649991/",
+      "type": "Seller assertions / listing observed 2026-11-20",
+      "note": "Seller: used about a year; healthy battery, small scuffs, belt drive, basket and other accessories. Seller explicitly found daily walk-up carrying impractical. Charger inclusion and battery age/capacity unverified. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted."
     },
     {
-      "id": "k-review",
-      "url": "https://electricbikereport.com/dahon-k-feather-review/",
-      "title": "K-Feather independent hands-on review",
-      "type": "Public supporting evidence",
-      "note": "Measured 28.3 lb; reports no UL certification."
-    },
-    {
-      "id": "q-cert",
-      "url": "https://www.qualisports.us/pages/sgs-certified-electric-bikes",
-      "title": "Qualisports certification statement",
-      "type": "Public supporting evidence",
-      "note": "Range-wide assertion is not a verified Volador-specific certificate."
-    },
-    {
-      "id": "b-cert",
-      "url": "https://us.brompton.com/electric-c-line",
-      "title": "Brompton Electric C Line certification",
-      "type": "Public supporting evidence",
-      "note": "Independent UL 2849 certification stated; UL 2271 not explicit on this page."
-    },
-    {
-      "id": "b-fit",
-      "url": "https://us.brompton.com/p/726/extended-height-seatpost-black?Colour=Black",
-      "title": "Brompton extended seatpost fit",
-      "type": "Public supporting evidence",
-      "note": "Approximate 33–35 inch inseam; fit depends on configuration."
-    },
-    {
-      "id": "nyc",
-      "url": "https://www.nyc.gov/site/dca/about/micromobility-notices.page",
-      "title": "NYC DCWP micromobility notices",
-      "type": "Public regulatory guidance",
-      "note": "NYC sale rules require accredited-lab certification to UL 2849 for powered bicycles and UL 2271 for removable batteries; manufacturer text is not our independent registry verification. This is not a rider-owned-device ban."
+      "id": "lite-spec",
+      "title": "Lectric XP Lite 2.0 JW Black long-range — model specifications",
+      "url": "https://lectricebikes.com/products/xp-lite-jw-black-long-range-ebike",
+      "type": "Manufacturer baseline, not exact used-unit verification",
+      "note": "49 lb advertised; 41 lb with 8 lb battery removed. Accessories and battery configuration can change carry weight. Folded 36 × 16 × 27 in. Manufacturer fit 4′8″–6′2″."
     }
-  ]
+  ],
+  "scope": {
+    "preferredUnderUSD": 800,
+    "hardCapUSD": 1000,
+    "blackPreferred": true,
+    "excludeWhite": true,
+    "condition": "used local"
+  }
 }
