@@ -22,7 +22,7 @@
       "verdict": "Heavy compromise · oldest, cheapest",
       "summary": "",
       "facts": {
-        "Weight": "Exact weight unverified; not a lightweight-first choice",
+        "Weight": "Weight unverified for the exact XP 2.0 configuration. Current manufacturer XP page now describes XP4; its weight must not be used for this older bike.",
         "Location": "Financial District; pickup / transit not verified",
         "Battery / charger": "Seller: about four years of use / 3,000 miles; scratches. Battery and charger included per seller; pack age, health and OEM charger provenance unknown.",
         "Evidence": "Seller: about four years of use / 3,000 miles; scratches. Battery and charger included per seller; pack age, health and OEM charger provenance unknown. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted.",
@@ -45,7 +45,9 @@
         "cl-7973638710"
       ],
       "integrityRank": 0,
-      "naturalPercent": null
+      "naturalPercent": null,
+      "weightLabel": "Weight unverified",
+      "materialCaveat": "Exact used-unit condition, battery safety and charger compatibility require inspection; no material certification implied."
     },
     {
       "id": "fb-1628011451642202",
@@ -58,7 +60,7 @@
       "verdict": "Compromise · blue; weight / fit unknown",
       "summary": "",
       "facts": {
-        "Weight": "Unknown; exact model and fit need verification",
+        "Weight": "GOTRAX E-Fold manufacturer specification: 49 lb with battery. Listing model identification remains seller-stated; confirm exact model before relying on this weight. Actual used bike unweighed.",
         "Location": "New York; neighborhood unknown; pickup / transit not verified",
         "Battery / charger": "Seller says barely ridden and has two bikes. Battery details, age and charger inclusion unstated. Blue/blue-gray photo, not preferred black.",
         "Evidence": "Seller says barely ridden and has two bikes. Battery details, age and charger inclusion unstated. Blue/blue-gray photo, not preferred black. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted.",
@@ -90,10 +92,13 @@
       "imageAlt": "Gotrax E-Fold · blue — exact listing photo 1",
       "imageNote": "Exact seller listing photographs; not stock substitutes. Seller says barely ridden and has two bikes. Battery details, age and charger inclusion unstated. Blue/blue-gray photo, not preferred black.",
       "sources": [
-        "fb-1628011451642202"
+        "fb-1628011451642202",
+        "gotrax-efold-weight"
       ],
       "integrityRank": 0,
-      "naturalPercent": null
+      "naturalPercent": null,
+      "weightLabel": "49 lb · model spec",
+      "materialCaveat": "Exact used-unit condition, battery safety and charger compatibility require inspection; no material certification implied."
     },
     {
       "id": "cl-7995479676",
@@ -106,7 +111,7 @@
       "verdict": "Best value lead · not plain black",
       "summary": "",
       "facts": {
-        "Weight": "49 lb manufacturer baseline; 41 lb without battery",
+        "Weight": "Lectric XP Lite 2.0 JW Black long-range manufacturer specification: 41 lb without the 8 lb battery; 49 lb total. Stickers and accessories can add unknown weight; actual used bike unweighed.",
         "Location": "Brooklyn; neighborhood unconfirmed; pickup / transit not verified",
         "Battery / charger": "Seller: bought new July 2026; 78 miles; long-range battery; perfect working condition. Colorful sticker wrap and accessories visible; exact model is seller assertion. Charger inclusion unknown; battery health untested.",
         "Evidence": "Seller: bought new July 2026; 78 miles; long-range battery; perfect working condition. Colorful sticker wrap and accessories visible; exact model is seller assertion. Charger inclusion unknown; battery health untested. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted.",
@@ -151,10 +156,13 @@
       "imageNote": "Exact seller listing photographs; not stock substitutes. Seller: bought new July 2026; 78 miles; long-range battery; perfect working condition. Colorful sticker wrap and accessories visible; exact model is seller assertion. Charger inclusion unknown; battery health untested.",
       "sources": [
         "cl-7995479676",
-        "lite-spec"
+        "lite-spec",
+        "lectric-weight-chart"
       ],
       "integrityRank": 0,
-      "naturalPercent": null
+      "naturalPercent": null,
+      "weightLabel": "49 lb · model spec",
+      "materialCaveat": "Exact used-unit condition, battery safety and charger compatibility require inspection; no material certification implied."
     },
     {
       "id": "fb-2159604844632885",
@@ -167,7 +175,7 @@
       "verdict": "Clean black lead · charger stated",
       "summary": "",
       "facts": {
-        "Weight": "49 lb manufacturer baseline; actual bike unweighed",
+        "Weight": "Lectric XP Lite2 manufacturer specification: 41 lb without the 8 lb battery; 49 lb total. Exact used bike and battery configuration unverified; actual bike unweighed.",
         "Location": "Brooklyn; neighborhood unknown; pickup / transit not verified",
         "Battery / charger": "Seller: bought in August (year unstated), about 150 miles, belt drive, charger and two keys included. Battery health and charger provenance unverified; claimed range is not a test.",
         "Evidence": "Seller: bought in August (year unstated), about 150 miles, belt drive, charger and two keys included. Battery health and charger provenance unverified; claimed range is not a test. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted.",
@@ -200,10 +208,13 @@
       "imageNote": "Exact seller listing photographs; not stock substitutes. Seller: bought in August (year unstated), about 150 miles, belt drive, charger and two keys included. Battery health and charger provenance unverified; claimed range is not a test.",
       "sources": [
         "fb-2159604844632885",
-        "lite-spec"
+        "lite-spec",
+        "lectric-weight-chart"
       ],
       "integrityRank": 0,
-      "naturalPercent": null
+      "naturalPercent": null,
+      "weightLabel": "49 lb · model spec",
+      "materialCaveat": "Exact used-unit condition, battery safety and charger compatibility require inspection; no material certification implied."
     },
     {
       "id": "fb-1057555660649991",
@@ -216,7 +227,7 @@
       "verdict": "Black long-range lead · stairs warning",
       "summary": "",
       "facts": {
-        "Weight": "49 lb baseline; accessories add unknown weight",
+        "Weight": "Lectric XP Lite 2.0 JW Black long-range manufacturer specification: 41 lb without the 8 lb battery; 49 lb total. Basket and other accessories add unknown weight; actual used bike unweighed.",
         "Location": "Brooklyn; neighborhood unknown; pickup / transit not verified",
         "Battery / charger": "Seller: used about a year; healthy battery, small scuffs, belt drive, basket and other accessories. Seller explicitly found daily walk-up carrying impractical. Charger inclusion and battery age/capacity unverified.",
         "Evidence": "Seller: used about a year; healthy battery, small scuffs, belt drive, basket and other accessories. Seller explicitly found daily walk-up carrying impractical. Charger inclusion and battery age/capacity unverified. All condition, age, mileage and inclusion statements are seller assertions, not independently tested. Test ride, inspect frame hinge/brakes, verify ownership and original matching battery/charger before paying. No seller contacted.",
@@ -291,7 +302,365 @@
       "imageNote": "Exact seller listing photographs; not stock substitutes. Seller: used about a year; healthy battery, small scuffs, belt drive, basket and other accessories. Seller explicitly found daily walk-up carrying impractical. Charger inclusion and battery age/capacity unverified.",
       "sources": [
         "fb-1057555660649991",
-        "lite-spec"
+        "lite-spec",
+        "lectric-weight-chart"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "weightLabel": "49 lb · model spec",
+      "materialCaveat": "Exact used-unit condition, battery safety and charger compatibility require inspection; no material certification implied."
+    },
+    {
+      "id": "fb-1674991907674415",
+      "name": "ACTBEST folding bike · likely Mars",
+      "url": "https://www.facebook.com/marketplace/item/1674991907674415/",
+      "store": "Facebook Marketplace",
+      "category": "Avoid for carrying",
+      "unitPriceUSD": 450,
+      "priceLabel": "$450",
+      "weightLabel": "69.4 lb · Mars ref.",
+      "verdict": "Pass for frequent carrying · likely heavy; model unconfirmed",
+      "summary": "",
+      "materialCaveat": "Exact frame material and electrical safety not independently verified; listing claims are not certification.",
+      "facts": {
+        "Weight": "Unknown exact weight; likely Mars reference: 69.4 lb published bike weight. No actual scale weight. Exact model/version and battery-inclusion basis must be verified; accessories may add weight.",
+        "Location": "Queens; pickup / transit unverified",
+        "Battery / charger": "Installed behind seat tube in photos; seller photo graphic says removable; age/capacity/health unknown. Not stated or clearly photographed.",
+        "Evidence": "Brand readable; probable Mars after side-by-side manufacturer photo comparison, not model-label confirmed Seller says foldable; photo comparison supports main frame hinge Condition: New selector; description says excellent, like-new/barely used. 30 MPH seller claim unverified; do not imply NYC road legality New condition selector conflicts with barely used description Battery health and charger provenance unknown No physical inspection or seller contact; availability and pickup travel unconfirmed. Verify ownership, battery/charger labels and a loaded test ride before payment.",
+        "Folding": "Seller says foldable; photo comparison supports main frame hinge",
+        "Fit": "Exact used-unit fit unverified; test riding position and seatpost limits.",
+        "Certification": "Exact used-unit battery and electrical certification not verified.",
+        "Price basis": "Seller asking price observed 2026-11-20; not a confirmed available offer."
+      },
+      "images": [
+        {
+          "src": "assets/images/fb-1674991907674415-1.jpg",
+          "alt": "ACTBEST folding bike · likely Mars — exact listing photo 1",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.84726-6/864396748_1445684667499394_4853863936805831745_n.jpg?stp=dst-jpg_p640x640_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=Dv7NA1zqciEQ7kNvwGvIs7d&_nc_oc=AdpxQlSkUC1h-5mvGdaH_a3MqjFvjsCl604T-q1ma_WCe80zQCD4MujwIJxKDPtjVCw&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=mwal7WzapFesWKK4qQlM-g&_nc_ss=7e289&oh=00_AQTeR10LmN-rDVp6B8xkQr_ZExcc9FoU9RLrl9slfcmNxQ&oe=6B06B644",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1674991907674415/"
+        },
+        {
+          "src": "assets/images/fb-1674991907674415-2.jpg",
+          "alt": "ACTBEST folding bike · likely Mars — exact listing photo 2",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t45.5328-4/863113147_5472669996291394_7453869057206216818_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=vFKPxkNfH6gQ7kNvwFAgKO2&_nc_oc=Ado7Kd-AXy8jk38S7h60TgxnNPtBCSGvKG28LXOuTwQMndEtDpe9Cumj-vtqvzSRd6M&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=mwal7WzapFesWKK4qQlM-g&_nc_ss=7e289&oh=00_AQT56dNwFv_FzsXY5vdptShRtxaDA4TwZ46A8_TAvLiOag&oe=6B06ADD9",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1674991907674415/"
+        },
+        {
+          "src": "assets/images/fb-1674991907674415-3.jpg",
+          "alt": "ACTBEST folding bike · likely Mars — exact listing photo 3",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t45.5328-4/866185890_2508080373047729_8449586405877091582_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=S0t2xzgMP00Q7kNvwEn3lKa&_nc_oc=AdrCgSKXBB5qKerkhKX9cSDr_wknJWGSXs33Vpc7CnbKJPZx997s7T--KEs31dSdo2U&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=mwal7WzapFesWKK4qQlM-g&_nc_ss=7e289&oh=00_AQRkzbi8ZBGYF5PWCbH3ceQ3hz8Lhz5xiUjrg0WIY58zeg&oe=6B06A644",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1674991907674415/"
+        }
+      ],
+      "image": "assets/images/fb-1674991907674415-1.jpg",
+      "imageAlt": "ACTBEST folding bike · likely Mars — exact listing photo 1",
+      "imageNote": "Exact listing gallery, including any seller-supplied graphics; no stock substitutes. All unique exact-listing Product photo images exposed in DOM, count matches unique View photo buttons; related listings excluded.",
+      "sources": [
+        "fb-1674991907674415",
+        "fb-1674991907674415-weight-1",
+        "fb-1674991907674415-weight-2"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "fb-3579166588888710",
+      "name": "Unidentified electric dirt bike",
+      "url": "https://www.facebook.com/marketplace/item/3579166588888710/",
+      "store": "Facebook Marketplace",
+      "category": "Avoid / high risk",
+      "unitPriceUSD": 200,
+      "priceLabel": "$200",
+      "weightLabel": "Weight unverified",
+      "verdict": "Avoid · nonfolding dirt bike; suspicious off-platform request",
+      "summary": "",
+      "materialCaveat": "Exact frame material and electrical safety not independently verified; listing claims are not certification.",
+      "facts": {
+        "Weight": "Unknown — model not established. No actual scale weight. Exact model/version and battery-inclusion basis must be verified; accessories may add weight.",
+        "Location": "New York; neighborhood and pickup / transit unverified",
+        "Battery / charger": "Central battery enclosure and lit indicator pictured; actual pack identity/health unknown. Not stated or pictured.",
+        "Evidence": "Photo resemblance only; GUTS race plate is not a model label No folding mechanism; motorcycle-style foot pegs, no visible pedal drivetrain Condition: New. $200 new dirt-bike offer with no specifications Seller account joined 2026 Description directs off-platform text and screenshot; not proof of fraud, but high risk No physical inspection or seller contact; availability and pickup travel unconfirmed. Verify ownership, battery/charger labels and a loaded test ride before payment.",
+        "Folding": "No folding mechanism; motorcycle-style foot pegs, no visible pedal drivetrain",
+        "Fit": "Exact used-unit fit unverified; test riding position and seatpost limits.",
+        "Certification": "Exact used-unit battery and electrical certification not verified.",
+        "Price basis": "Seller asking price observed 2026-11-20; not a confirmed available offer."
+      },
+      "images": [
+        {
+          "src": "assets/images/fb-3579166588888710-1.jpg",
+          "alt": "Unidentified electric dirt bike — exact listing photo 1",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.84726-6/748005098_1386197860352736_1731288695620176458_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=gFfg77i8478Q7kNvwFAeRV_&_nc_oc=AdokXRDfH6PueQqv7blSIIWU4_4bFD26JhnRcvXu42qWM3i11nR-xgsvswLNWXWMQqw&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=0LcgFnR66XLOijn-SCockg&_nc_ss=7e289&oh=00_AQQom_9DjAm5HybARP4YpHriM6UaK21VZrXhgIuqBBvk1Q&oe=6B068B41",
+          "sourcePage": "https://www.facebook.com/marketplace/item/3579166588888710/"
+        },
+        {
+          "src": "assets/images/fb-3579166588888710-2.jpg",
+          "alt": "Unidentified electric dirt bike — exact listing photo 2",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t45.5328-4/746927382_1021461644115805_3721424165536662190_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=OWGChtk4RNkQ7kNvwH5a-E9&_nc_oc=Adp10mg7c02IlENwCHr0pS8RBysahbO-NMyME7g6tbwvw-zG8yy3IJVAJ43BObSVo90&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=0LcgFnR66XLOijn-SCockg&_nc_ss=7e289&oh=00_AQTHE3lhee22Jh2jR3EKupAW5s38CMQWLRqQ5CSZxSSw_w&oe=6B0690F8",
+          "sourcePage": "https://www.facebook.com/marketplace/item/3579166588888710/"
+        },
+        {
+          "src": "assets/images/fb-3579166588888710-3.jpg",
+          "alt": "Unidentified electric dirt bike — exact listing photo 3",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t45.5328-4/743373612_2028849064665837_3881907568167490190_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=pVVBrtZ6pnAQ7kNvwFCkzEN&_nc_oc=AdpJgd1OVJ7qZn_6TzTcWLX63stTY7WIkx2l5W9f5Epxj-vRqIApn93Vft7rEW6Wts8&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=0LcgFnR66XLOijn-SCockg&_nc_ss=7e289&oh=00_AQSBaaicoJdzsbmfgOK5J5UmID6AY6r6n4CGyifKRaVCDQ&oe=6B06B272",
+          "sourcePage": "https://www.facebook.com/marketplace/item/3579166588888710/"
+        },
+        {
+          "src": "assets/images/fb-3579166588888710-4.jpg",
+          "alt": "Unidentified electric dirt bike — exact listing photo 4",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t45.5328-4/744857420_2207382073448103_5971802615146490799_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=ZKPhISsNESgQ7kNvwExSb9M&_nc_oc=Adqi5AeWETtajoxh7rDdNVRMq2_jKxFPXqpn1jhAIxrB2xSH2cAVkaynoAj8pob4_sM&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=0LcgFnR66XLOijn-SCockg&_nc_ss=7e289&oh=00_AQRPzex-48KlttvOF2ELZnaKfGJDhUQfEYmAKKqlUohHwA&oe=6B06A015",
+          "sourcePage": "https://www.facebook.com/marketplace/item/3579166588888710/"
+        },
+        {
+          "src": "assets/images/fb-3579166588888710-5.jpg",
+          "alt": "Unidentified electric dirt bike — exact listing photo 5",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t45.5328-4/747903093_1039015715193925_8220201316466071395_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=50Ul5TzKPdwQ7kNvwHwa0pw&_nc_oc=Adrt42CD1OvkCnI7hbQ6KCApZq2o0BM_D427P_YaB22MSXTZQwrUkGQB1VQrsAzzzAc&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=0LcgFnR66XLOijn-SCockg&_nc_ss=7e289&oh=00_AQSKfzgPrHOYUUXjy9LN_04KQqlIhNJltMOh78Zqn7zINw&oe=6B06A09E",
+          "sourcePage": "https://www.facebook.com/marketplace/item/3579166588888710/"
+        },
+        {
+          "src": "assets/images/fb-3579166588888710-6.jpg",
+          "alt": "Unidentified electric dirt bike — exact listing photo 6",
+          "source": "https://scontent-lga3-1.xx.fbcdn.net/v/t45.5328-4/746502978_1024591666606387_690905997867346751_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=3ZgIZQMQF-wQ7kNvwHcRpan&_nc_oc=Adr0_pp8aYibOQwspeNE167R94m-7nyFiCRSJZrWM099XQUOSSQHb4907hJVuOTKrts&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=0LcgFnR66XLOijn-SCockg&_nc_ss=7e289&oh=00_AQQ9KBNEyaJfY-rlhtlp395TwUImoYgyJk_m6ZDC4Itk1g&oe=6B069192",
+          "sourcePage": "https://www.facebook.com/marketplace/item/3579166588888710/"
+        },
+        {
+          "src": "assets/images/fb-3579166588888710-7.jpg",
+          "alt": "Unidentified electric dirt bike — exact listing photo 7",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t45.5328-4/677647541_1949458959103908_1959576999228217106_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=_AzHPbM0GGoQ7kNvwGKKid1&_nc_oc=AdqsNmUD-SYNV_TDunjCbk-s0S5nJ-d3eTN0bstgaluLzYsJG_rClJqUm2Gt4IG_scs&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=0LcgFnR66XLOijn-SCockg&_nc_ss=7e289&oh=00_AQQDRhpNwCuN0rTQFzrS1M5opKzrWsBE_OotBqo_ElVEnA&oe=6B068F0B",
+          "sourcePage": "https://www.facebook.com/marketplace/item/3579166588888710/"
+        }
+      ],
+      "image": "assets/images/fb-3579166588888710-1.jpg",
+      "imageAlt": "Unidentified electric dirt bike — exact listing photo 1",
+      "imageNote": "Exact listing gallery, including any seller-supplied graphics; no stock substitutes. All unique exact-listing Product photo images exposed in DOM, count matches unique View photo buttons; related listings excluded.",
+      "sources": [
+        "fb-3579166588888710"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "fb-1060347679907960",
+      "name": "Dialog / Kuake folding bike",
+      "url": "https://www.facebook.com/marketplace/item/1060347679907960/",
+      "store": "Facebook Marketplace",
+      "category": "Conditional leads",
+      "unitPriceUSD": 600,
+      "priceLabel": "$600",
+      "weightLabel": "Weight unverified",
+      "verdict": "Best new lead to investigate · hold for model, weight and charger",
+      "summary": "",
+      "materialCaveat": "Exact frame material and electrical safety not independently verified; listing claims are not certification.",
+      "facts": {
+        "Weight": "Unknown — do not apply Kuake 15 kg / 17 kg specs to an unidentified model. No actual scale weight. Exact model/version and battery-inclusion basis must be verified; accessories may add weight.",
+        "Location": "New York; neighborhood and pickup / transit unverified",
+        "Battery / charger": "Seller says 36V 7Ah; battery label, installed pack identity and health not established. Not stated or clearly photographed.",
+        "Evidence": "Black folding frame confirmed visually; no readable model designation Actual central frame hinge and latch clearly photographed Condition: Used - like new. Aluminum description conflicts with copied carbon specification Unknown model prevents reliable battery/support/weight/certification matching No charger or battery-health evidence No physical inspection or seller contact; availability and pickup travel unconfirmed. Verify ownership, battery/charger labels and a loaded test ride before payment.",
+        "Folding": "Actual central frame hinge and latch clearly photographed",
+        "Fit": "Exact used-unit fit unverified; test riding position and seatpost limits.",
+        "Certification": "Exact used-unit battery and electrical certification not verified.",
+        "Price basis": "Seller asking price observed 2026-11-20; not a confirmed available offer."
+      },
+      "images": [
+        {
+          "src": "assets/images/fb-1060347679907960-1.jpg",
+          "alt": "Dialog / Kuake folding bike — exact listing photo 1",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.84726-6/778972155_1857228785660702_5781238464506647450_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=v5vfhuCDubUQ7kNvwGWfULd&_nc_oc=AdpEh3C5Wh7O4xUjeUuYGNSog3c9tycsHh1newroIh1k0ITamZez6b7jt-QnkTCUDlI&_nc_zt=14&_nc_ht=scontent-lga3-3.xx&_nc_gid=WSrcVsnynF9wun7ViBw0qg&_nc_ss=7e289&oh=00_AQTBmxx8OHB3-R8T55UReQJ4k6j91gDlg1pu0Mj2iX4zNg&oe=6B06B7B2",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1060347679907960/"
+        },
+        {
+          "src": "assets/images/fb-1060347679907960-2.jpg",
+          "alt": "Dialog / Kuake folding bike — exact listing photo 2",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t45.5328-4/778255709_930091429520946_1634702214710969392_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=t3pgr2tpfkMQ7kNvwFM4Mcx&_nc_oc=AdpDVip6jx7irEtiaoTN8kMFT8DDgj4zUlc39ruHda2TACcCzHmcUmYdyOKxFT0mMAc&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=WSrcVsnynF9wun7ViBw0qg&_nc_ss=7e289&oh=00_AQRTvAuOXaF5YYyXxgSmq6JWhMUWwKXq3-eLuXnf2mcn0Q&oe=6B06A2D2",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1060347679907960/"
+        },
+        {
+          "src": "assets/images/fb-1060347679907960-3.jpg",
+          "alt": "Dialog / Kuake folding bike — exact listing photo 3",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t45.5328-4/775229438_1072756332360530_411275430960682004_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=SjbojIm2z4sQ7kNvwHpTg_j&_nc_oc=Adqigswn9tDb9BAeVDiFnq_Yq-N_11Xuz6YqS9jRD6-J3W978o6-kq8jBekBus1-U4Q&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=WSrcVsnynF9wun7ViBw0qg&_nc_ss=7e289&oh=00_AQRRfhdc3s3eagh8lxD3DnAh8SIWb5y5S25VVuaIe6W2uw&oe=6B069AB1",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1060347679907960/"
+        },
+        {
+          "src": "assets/images/fb-1060347679907960-4.jpg",
+          "alt": "Dialog / Kuake folding bike — exact listing photo 4",
+          "source": "https://scontent-lga3-1.xx.fbcdn.net/v/t45.5328-4/777187070_1971050973414159_7810498411105431215_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=TJ4_IrM7_joQ7kNvwGC94rQ&_nc_oc=AdpenlBVYNzS0E5Onlx5kdvp_hgOLcKjTXOhCDmQqdnwc6aTQpqBGzbxN2_OWV154IA&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=WSrcVsnynF9wun7ViBw0qg&_nc_ss=7e289&oh=00_AQRCSD0cp6mDdiIztV7uySsnOzZhcLfQzHxAIwasSfY5Jw&oe=6B06AB60",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1060347679907960/"
+        }
+      ],
+      "image": "assets/images/fb-1060347679907960-1.jpg",
+      "imageAlt": "Dialog / Kuake folding bike — exact listing photo 1",
+      "imageNote": "Exact listing gallery, including any seller-supplied graphics; no stock substitutes. All unique exact-listing Product photo images exposed in DOM, count matches unique View photo buttons; related listings excluded.",
+      "sources": [
+        "fb-1060347679907960",
+        "fb-1060347679907960-weight-1",
+        "fb-1060347679907960-weight-2"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "fb-1709768697342792",
+      "name": "Jetson Bolt Pro",
+      "url": "https://www.facebook.com/marketplace/item/1709768697342792/",
+      "store": "Facebook Marketplace",
+      "category": "Conditional leads",
+      "unitPriceUSD": 180,
+      "priceLabel": "$180",
+      "weightLabel": "42 lb · published",
+      "verdict": "Budget fallback · handlebars fold only; squeak needs diagnosis",
+      "summary": "",
+      "materialCaveat": "Exact frame material and electrical safety not independently verified; listing claims are not certification.",
+      "facts": {
+        "Weight": "42 lb manufacturer product weight; not weighed seller unit. Manufacturer whole-product weight for integrated-battery bike, ordinarily the riding weight; retrieved page does not explicitly say including battery. Added lock/accessories may increase actual carry.",
+        "Location": "New York; neighborhood and pickup / transit unverified",
+        "Battery / charger": "Built-in battery model; seller gives no battery age/range/load test. Seller explicitly includes recently purchased $60 charger; OEM status/output compatibility unverified, no clear label photo.",
+        "Evidence": "Seller model identification consistent with photos; exact model year unknown Partial: handlebar stem folds, main frame does not Condition: Used - Good. Seller says bike squeaks a little: unresolved mechanical issue Replacement charger must be verified genuine/compatible Battery health unknown Current product UL-listed marketing does not prove certification of this older used unit No physical inspection or seller contact; availability and pickup travel unconfirmed. Verify ownership, battery/charger labels and a loaded test ride before payment.",
+        "Folding": "Partial: handlebar stem folds, main frame does not",
+        "Fit": "Exact used-unit fit unverified; test riding position and seatpost limits.",
+        "Certification": "Exact used-unit battery and electrical certification not verified.",
+        "Price basis": "Seller asking price observed 2026-11-20; not a confirmed available offer."
+      },
+      "images": [
+        {
+          "src": "assets/images/fb-1709768697342792-1.jpg",
+          "alt": "Jetson Bolt Pro — exact listing photo 1",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.84726-6/817176823_2182821069338450_7820227476473914282_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=PVZmlIkJUGsQ7kNvwFK3p-l&_nc_oc=AdpeKlsKyYRzv1Chj8bVZVw_RrD181Lm5cOtQPfrimIKgfY27R7WDhwULdqpdfDduX0&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=NiGvY71g7csM3Skp3BCB3A&_nc_ss=7e289&oh=00_AQSTCQhdSc1yR7T7YVm7_xzKw8yWe5uf-4SHMApyYwOCLg&oe=6B068DCD",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1709768697342792/"
+        },
+        {
+          "src": "assets/images/fb-1709768697342792-2.jpg",
+          "alt": "Jetson Bolt Pro — exact listing photo 2",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t45.5328-4/818557110_1974618329824876_1485154351416367323_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=5aaCF5jWp5kQ7kNvwFjkQVu&_nc_oc=AdqpXJELjxi9iglz9XRdLng-rxcIEIowf4391NgmSAwFJ2AhfEoqahGDz2RHz6Ae3bk&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=NiGvY71g7csM3Skp3BCB3A&_nc_ss=7e289&oh=00_AQR3OmOtHAooZrxI78Q0LIkir1lpH3cKgobGzHcv2GCBCQ&oe=6B06ACE2",
+          "sourcePage": "https://www.facebook.com/marketplace/item/1709768697342792/"
+        }
+      ],
+      "image": "assets/images/fb-1709768697342792-1.jpg",
+      "imageAlt": "Jetson Bolt Pro — exact listing photo 1",
+      "imageNote": "Exact listing gallery, including any seller-supplied graphics; no stock substitutes. All unique exact-listing Product photo images exposed in DOM, count matches unique View photo buttons; related listings excluded.",
+      "sources": [
+        "fb-1709768697342792",
+        "fb-1709768697342792-weight-1"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "fb-2335967467245664",
+      "name": "RollGood project bike",
+      "url": "https://www.facebook.com/marketplace/item/2335967467245664/",
+      "store": "Facebook Marketplace",
+      "category": "Avoid / project",
+      "unitPriceUSD": 150,
+      "priceLabel": "$150",
+      "weightLabel": "Weight unverified",
+      "verdict": "Avoid as ready-to-ride · no battery, flat tire; folding unverified",
+      "summary": "",
+      "materialCaveat": "Exact frame material and electrical safety not independently verified; listing claims are not certification.",
+      "facts": {
+        "Weight": "Unknown complete weight — missing battery and unidentified model. No actual scale weight. Exact model/version and battery-inclusion basis must be verified; accessories may add weight.",
+        "Location": "New York; neighborhood and pickup / transit unverified",
+        "Battery / charger": "Explicitly missing. Not mentioned.",
+        "Evidence": "RollGood logo readable in single image; no model label No apparent main-frame folding joint; not established as folding Condition: Used - Good. Seller says it belonged to a tenant who left overseas: title/authority to sell unverified Replacement battery and electrical repair cost unknown Flat rear tire No battery means full functional test unavailable No physical inspection or seller contact; availability and pickup travel unconfirmed. Verify ownership, battery/charger labels and a loaded test ride before payment.",
+        "Folding": "No apparent main-frame folding joint; not established as folding",
+        "Fit": "Exact used-unit fit unverified; test riding position and seatpost limits.",
+        "Certification": "Exact used-unit battery and electrical certification not verified.",
+        "Price basis": "Seller asking price observed 2026-11-20; not a confirmed available offer."
+      },
+      "images": [
+        {
+          "src": "assets/images/fb-2335967467245664-1.jpg",
+          "alt": "RollGood project bike — exact listing photo 1",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.84726-6/913811070_1884050106361818_3315159945729959800_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=ifOZcKxJaKwQ7kNvwEwsK3-&_nc_oc=AdrTkFGUw9EYe9G645f55ynOmux_LAmpuIZox6Kww2EpYlC9fp12Ull1wrSQlmra79c&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=Y1yQa6u3f_5dIvVEMyZeWg&_nc_ss=7e289&oh=00_AQRC6zQqkh9cXVl8ROxIwG3yzpeqS2ia4it-z7vRTgKxHQ&oe=6B069A8C",
+          "sourcePage": "https://www.facebook.com/marketplace/item/2335967467245664/"
+        }
+      ],
+      "image": "assets/images/fb-2335967467245664-1.jpg",
+      "imageAlt": "RollGood project bike — exact listing photo 1",
+      "imageNote": "Exact listing gallery, including any seller-supplied graphics; no stock substitutes. One primary listing image; no photo navigation buttons exposed",
+      "sources": [
+        "fb-2335967467245664"
+      ],
+      "integrityRank": 0,
+      "naturalPercent": null
+    },
+    {
+      "id": "fb-2262969517871165",
+      "name": "Jansno X50 · version unconfirmed",
+      "url": "https://www.facebook.com/marketplace/item/2262969517871165/",
+      "store": "Facebook Marketplace",
+      "category": "Avoid / high risk",
+      "unitPriceUSD": 200,
+      "priceLabel": "$200",
+      "weightLabel": "82 lb · X50 ref.",
+      "verdict": "Avoid · nonfolding, heavy; suspicious off-platform story",
+      "summary": "",
+      "materialCaveat": "Exact frame material and electrical safety not independently verified; listing claims are not certification.",
+      "facts": {
+        "Weight": "Exact version unknown; current US X50 lists 82 lb (37 kg), NOT verified for this bike. No actual scale weight. Exact model/version and battery-inclusion basis must be verified; accessories may add weight.",
+        "Location": "New York; neighborhood and pickup / transit unverified",
+        "Battery / charger": "Pack and powered display pictured; capacity, health and version unknown. All accessories claimed; no identifiable charger photograph or specific charger guarantee.",
+        "Evidence": "Family likely; no readable generation/model/battery plate Non-folding moped-style frame Condition: Used - like new selector; title says Brand New. New seller account joined 2026 Congratulations/new-house giveaway-style story requesting off-platform phone contact plus screenshot Brand New title conflicts with used condition Exact weight and battery configuration unknown No physical inspection or seller contact; availability and pickup travel unconfirmed. Verify ownership, battery/charger labels and a loaded test ride before payment.",
+        "Folding": "Non-folding moped-style frame",
+        "Fit": "Exact used-unit fit unverified; test riding position and seatpost limits.",
+        "Certification": "Exact used-unit battery and electrical certification not verified.",
+        "Price basis": "Seller asking price observed 2026-11-20; not a confirmed available offer."
+      },
+      "images": [
+        {
+          "src": "assets/images/fb-2262969517871165-1.jpg",
+          "alt": "Jansno X50 · version unconfirmed — exact listing photo 1",
+          "source": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.84726-6/765872376_1468831341929142_4708309903801570377_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=tSpKO_kCZ8YQ7kNvwF9DC2d&_nc_oc=Ado8FLwWsLo9uE0pZ1Hw_fVhR0nADIWpHS4vQRREpVaRS2MFedPKZ54D9w6e09BZiaQ&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=X_O8VLMTHO3eAHTF0ghQTQ&_nc_ss=7e289&oh=00_AQS4eBuRD7ZWRgi0XdzdEnOD6fgiFo6pJEkYMrJrl1imdg&oe=6B06AF43",
+          "sourcePage": "https://www.facebook.com/marketplace/item/2262969517871165/"
+        },
+        {
+          "src": "assets/images/fb-2262969517871165-2.jpg",
+          "alt": "Jansno X50 · version unconfirmed — exact listing photo 2",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t45.5328-4/774336198_2516423002172206_8437223111115701061_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=JFc8f9jJYfYQ7kNvwGPmBHo&_nc_oc=Adr1jld9pgdyN6-Z9roSZ5MLcKLMurO-ZmTE7Ym_35Jqp028FB4tDC9M4rWNawL3WPE&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=X_O8VLMTHO3eAHTF0ghQTQ&_nc_ss=7e289&oh=00_AQRA1lBw2L6MRzKizDEt3K0EqNYPNF5OzTK4MCNhsRKyRg&oe=6B069A53",
+          "sourcePage": "https://www.facebook.com/marketplace/item/2262969517871165/"
+        },
+        {
+          "src": "assets/images/fb-2262969517871165-3.jpg",
+          "alt": "Jansno X50 · version unconfirmed — exact listing photo 3",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t45.5328-4/774575494_4411094232486296_7926631503065557941_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=AjKYFEqzUOUQ7kNvwHLmt9A&_nc_oc=Adq9Rm8MBy_dQlMyH93Vi9F8ftndVjsM8d8EdLin4YO92uLRTn4dvHzo7cGBXsZVE9M&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=X_O8VLMTHO3eAHTF0ghQTQ&_nc_ss=7e289&oh=00_AQS3YPyzrSRUHCcrirVbILH9JbWHPKOfGmgo8EnssGr7pQ&oe=6B06A556",
+          "sourcePage": "https://www.facebook.com/marketplace/item/2262969517871165/"
+        },
+        {
+          "src": "assets/images/fb-2262969517871165-4.jpg",
+          "alt": "Jansno X50 · version unconfirmed — exact listing photo 4",
+          "source": "https://scontent-lga3-1.xx.fbcdn.net/v/t45.5328-4/774380909_28514688561469514_3982276727708766022_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=mtFcbi8IUEgQ7kNvwHGCw_b&_nc_oc=AdrTXxeWuWPCqYucCFVDj_BrZQf6n21RSFePd6IV7IHaRNMLy6KnlZL0zb_GqA6x-hs&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=X_O8VLMTHO3eAHTF0ghQTQ&_nc_ss=7e289&oh=00_AQQc_8VlfGHbfzw0JPOdz3n1xA39lFziDEvTnoDm_xd9ow&oe=6B069C04",
+          "sourcePage": "https://www.facebook.com/marketplace/item/2262969517871165/"
+        },
+        {
+          "src": "assets/images/fb-2262969517871165-5.jpg",
+          "alt": "Jansno X50 · version unconfirmed — exact listing photo 5",
+          "source": "https://scontent-lga3-3.xx.fbcdn.net/v/t45.5328-4/774315512_4365416333724920_4914913301504700799_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=OzPjd8cNTf4Q7kNvwH6CH6X&_nc_oc=AdqXuyGl6zN2ryDcUs2ulAEVikeBX-JSu1Ar8Qye8EL8NR-BJpvHd9vEWU4f4-mHMO4&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=X_O8VLMTHO3eAHTF0ghQTQ&_nc_ss=7e289&oh=00_AQQStOWU5jtcoM8LnZ5EXoFrT0GrpyWxWnpIwq69GgL6YA&oe=6B0689DF",
+          "sourcePage": "https://www.facebook.com/marketplace/item/2262969517871165/"
+        },
+        {
+          "src": "assets/images/fb-2262969517871165-6.jpg",
+          "alt": "Jansno X50 · version unconfirmed — exact listing photo 6",
+          "source": "https://scontent-lga3-1.xx.fbcdn.net/v/t45.5328-4/774558457_1698134271300733_1795587022936220707_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=48M0vYANcgUQ7kNvwGY-LYn&_nc_oc=AdpKE6w_U0PRO7MAF5r5NCF2iT38mkq6KBFawu48_YLgChkmga5HmvKFUdJ7Vpqvs1c&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=X_O8VLMTHO3eAHTF0ghQTQ&_nc_ss=7e289&oh=00_AQTDW6l5hb2TEKdcWXXfApSe3X24YKUEKzTvF3ykNAIMBA&oe=6B06A0B0",
+          "sourcePage": "https://www.facebook.com/marketplace/item/2262969517871165/"
+        },
+        {
+          "src": "assets/images/fb-2262969517871165-7.jpg",
+          "alt": "Jansno X50 · version unconfirmed — exact listing photo 7",
+          "source": "https://scontent-lga3-2.xx.fbcdn.net/v/t45.5328-4/774470965_1646723690154442_1277321507388950329_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=sGRHmggQyTwQ7kNvwHERPGp&_nc_oc=AdoJRRKKAJlvpDOOkN4LSKX50fVyJATIRneTHXSno_cYNOxiRuEFakfzGto14_VUOuA&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=X_O8VLMTHO3eAHTF0ghQTQ&_nc_ss=7e289&oh=00_AQQvmpD2uXrkRUiU9f67pNeNWbz8peUnuZt8fL4nLRQWyQ&oe=6B06A5C2",
+          "sourcePage": "https://www.facebook.com/marketplace/item/2262969517871165/"
+        },
+        {
+          "src": "assets/images/fb-2262969517871165-8.jpg",
+          "alt": "Jansno X50 · version unconfirmed — exact listing photo 8",
+          "source": "https://scontent-lga3-1.xx.fbcdn.net/v/t45.5328-4/774575487_1732612808047049_9211274946619106700_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=0fn8nKjckm4Q7kNvwG9LiwU&_nc_oc=AdqF-jWC5bB-xulHzj7xqxlwalw_W8lEhAvi0-K4WynznDtijceyWdVXEPun7IwQkLc&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=X_O8VLMTHO3eAHTF0ghQTQ&_nc_ss=7e289&oh=00_AQQZb5eJRPr6SJLMGqKSwJAlH4XNPVrVltb-yr8dgm2d1A&oe=6B06934E",
+          "sourcePage": "https://www.facebook.com/marketplace/item/2262969517871165/"
+        }
+      ],
+      "image": "assets/images/fb-2262969517871165-1.jpg",
+      "imageAlt": "Jansno X50 · version unconfirmed — exact listing photo 1",
+      "imageNote": "Exact listing gallery, including any seller-supplied graphics; no stock substitutes. All unique exact-listing Product photo images exposed in DOM, count matches unique View photo buttons; related listings excluded.",
+      "sources": [
+        "fb-2262969517871165",
+        "fb-2262969517871165-weight-1",
+        "fb-2262969517871165-weight-2"
       ],
       "integrityRank": 0,
       "naturalPercent": null
@@ -339,6 +708,111 @@
       "url": "https://lectricebikes.com/products/xp-lite-jw-black-long-range-ebike",
       "type": "Manufacturer baseline, not exact used-unit verification",
       "note": "49 lb advertised; 41 lb with 8 lb battery removed. Accessories and battery configuration can change carry weight. Folded 36 × 16 × 27 in. Manufacturer fit 4′8″–6′2″."
+    },
+    {
+      "id": "gotrax-efold-weight",
+      "title": "GOTRAX E-Fold manufacturer weight",
+      "url": "https://gotrax.com/products/e-fold-electric-bike",
+      "type": "Manufacturer specification, retrieved 2026-11-20",
+      "note": "Live HTTP 200 product page: Bike weight 49.0 lb / 22.2 kg With battery. Not an actual used-unit measurement; confirm listing model."
+    },
+    {
+      "id": "lectric-weight-chart",
+      "title": "Lectric model and battery weight chart",
+      "url": "https://help.lectricebikes.com/l/en/article/c8pphxf28o-how-much-does-the-bike-weigh-xp-xp-step-thru-weight",
+      "type": "Manufacturer specification, retrieved 2026-11-20",
+      "note": "Live HTTP 200 manufacturer chart explicitly lists XP Lite2: bike 41 lbs, battery 8 lbs, total 49 lbs. Exact JW Black long-range product page also states 41 lbs with the 8 lb battery removed. Current chart omits XP 2.0."
+    },
+    {
+      "id": "fb-1674991907674415-weight-1",
+      "title": "ACTBEST folding bike · likely Mars — weight reference",
+      "url": "https://actbestbike.com/pages/mars-spec",
+      "type": "Manufacturer reference, observed 2026-11-20; not a seller-unit measurement",
+      "note": "Battery 48V 10.4AH ... E-Bike Weight 69.4 lbs ... Package Weight 72.5 lbs Mars generation not confirmed; manufacturer spec does not expressly state battery included. Current catalog battery differs (13.5Ah); do not turn this into exact listing weight."
+    },
+    {
+      "id": "fb-1674991907674415-weight-2",
+      "title": "ACTBEST folding bike · likely Mars — weight reference",
+      "url": "https://actbestbike.com/pages/mars-faq",
+      "type": "Manufacturer reference, observed 2026-11-20; not a seller-unit measurement",
+      "note": "The weight of this adult electric bike is approximately 69.4 lbs. "
+    },
+    {
+      "id": "fb-1674991907674415",
+      "title": "ACTBEST folding bike · likely Mars — exact supplied listing",
+      "url": "https://www.facebook.com/marketplace/item/1674991907674415/",
+      "type": "Seller assertions / listing observed 2026-11-20",
+      "note": "Brand readable; probable Mars after side-by-side manufacturer photo comparison, not model-label confirmed Seller says foldable; photo comparison supports main frame hinge Condition: New selector; description says excellent, like-new/barely used. 30 MPH seller claim unverified; do not imply NYC road legality New condition selector conflicts with barely used description Battery health and charger provenance unknown No physical inspection or seller contact; availability and pickup travel unconfirmed. Verify ownership, battery/charger labels and a loaded test ride before payment."
+    },
+    {
+      "id": "fb-3579166588888710",
+      "title": "Unidentified electric dirt bike — exact supplied listing",
+      "url": "https://www.facebook.com/marketplace/item/3579166588888710/",
+      "type": "Seller assertions / listing observed 2026-11-20",
+      "note": "Photo resemblance only; GUTS race plate is not a model label No folding mechanism; motorcycle-style foot pegs, no visible pedal drivetrain Condition: New. $200 new dirt-bike offer with no specifications Seller account joined 2026 Description directs off-platform text and screenshot; not proof of fraud, but high risk No physical inspection or seller contact; availability and pickup travel unconfirmed. Verify ownership, battery/charger labels and a loaded test ride before payment."
+    },
+    {
+      "id": "fb-1060347679907960-weight-1",
+      "title": "Dialog / Kuake folding bike — weight reference",
+      "url": "https://www.kuaketech.com/kk7016-full-carbon-fibre-electric-folding-bike/",
+      "type": "Manufacturer reference, observed 2026-11-20; not a seller-unit measurement",
+      "note": "Model NO. KK7016; Weight 15KG; Frame Carbon Fiber; Default 36V/5.2Ah lithium battery (alternative Samsung 36V 7.0Ah option) NOT matched to listing; seller describes aluminum then copies carbon wording. Battery-inclusion basis not explicit."
+    },
+    {
+      "id": "fb-1060347679907960-weight-2",
+      "title": "Dialog / Kuake folding bike — weight reference",
+      "url": "https://www.kuakebicycle.com/kk7026-20-inch-magnesium-alloy-frame-electric-folding-bike/",
+      "type": "Manufacturer reference, observed 2026-11-20; not a seller-unit measurement",
+      "note": "Model NO. KK7026; Weight 17 KG; Frame Magnesium Alloy NOT matched to listing; manufacturer page itself lists differing battery capacities in header/table."
+    },
+    {
+      "id": "fb-1060347679907960",
+      "title": "Dialog / Kuake folding bike — exact supplied listing",
+      "url": "https://www.facebook.com/marketplace/item/1060347679907960/",
+      "type": "Seller assertions / listing observed 2026-11-20",
+      "note": "Black folding frame confirmed visually; no readable model designation Actual central frame hinge and latch clearly photographed Condition: Used - like new. Aluminum description conflicts with copied carbon specification Unknown model prevents reliable battery/support/weight/certification matching No charger or battery-health evidence No physical inspection or seller contact; availability and pickup travel unconfirmed. Verify ownership, battery/charger labels and a loaded test ride before payment."
+    },
+    {
+      "id": "fb-1709768697342792-weight-1",
+      "title": "Jetson Bolt Pro — weight reference",
+      "url": "https://ridejetson.com/products/bolt-electric-bike-pro",
+      "type": "Manufacturer reference, observed 2026-11-20; not a seller-unit measurement",
+      "note": "Foldability Partial; Product Weight 42 lb.; Battery 36V, 6.0Ah Lithium Ion; Wheel Size 14 in. "
+    },
+    {
+      "id": "fb-1709768697342792",
+      "title": "Jetson Bolt Pro — exact supplied listing",
+      "url": "https://www.facebook.com/marketplace/item/1709768697342792/",
+      "type": "Seller assertions / listing observed 2026-11-20",
+      "note": "Seller model identification consistent with photos; exact model year unknown Partial: handlebar stem folds, main frame does not Condition: Used - Good. Seller says bike squeaks a little: unresolved mechanical issue Replacement charger must be verified genuine/compatible Battery health unknown Current product UL-listed marketing does not prove certification of this older used unit No physical inspection or seller contact; availability and pickup travel unconfirmed. Verify ownership, battery/charger labels and a loaded test ride before payment."
+    },
+    {
+      "id": "fb-2335967467245664",
+      "title": "RollGood project bike — exact supplied listing",
+      "url": "https://www.facebook.com/marketplace/item/2335967467245664/",
+      "type": "Seller assertions / listing observed 2026-11-20",
+      "note": "RollGood logo readable in single image; no model label No apparent main-frame folding joint; not established as folding Condition: Used - Good. Seller says it belonged to a tenant who left overseas: title/authority to sell unverified Replacement battery and electrical repair cost unknown Flat rear tire No battery means full functional test unavailable No physical inspection or seller contact; availability and pickup travel unconfirmed. Verify ownership, battery/charger labels and a loaded test ride before payment."
+    },
+    {
+      "id": "fb-2262969517871165-weight-1",
+      "title": "Jansno X50 · version unconfirmed — weight reference",
+      "url": "https://us.jansno.com/products/jansno-x50",
+      "type": "Manufacturer reference, observed 2026-11-20; not a seller-unit measurement",
+      "note": "48V 17Ah Battery; Bike Weight: 82 lbs or 37kg; Rider Heights: 5'5\"–6'3\" Current 17Ah version; battery inclusion not explicit. Older 14Ah and different configurations exist; listing variant not established."
+    },
+    {
+      "id": "fb-2262969517871165-weight-2",
+      "title": "Jansno X50 · version unconfirmed — weight reference",
+      "url": "https://au.jansno.com/pages/x50-spec",
+      "type": "Manufacturer reference, observed 2026-11-20; not a seller-unit measurement",
+      "note": "Bike Weight: 99 lbs or 45kg Conflicting regional manufacturer weight; do not silently choose or average."
+    },
+    {
+      "id": "fb-2262969517871165",
+      "title": "Jansno X50 · version unconfirmed — exact supplied listing",
+      "url": "https://www.facebook.com/marketplace/item/2262969517871165/",
+      "type": "Seller assertions / listing observed 2026-11-20",
+      "note": "Family likely; no readable generation/model/battery plate Non-folding moped-style frame Condition: Used - like new selector; title says Brand New. New seller account joined 2026 Congratulations/new-house giveaway-style story requesting off-platform phone contact plus screenshot Brand New title conflicts with used condition Exact weight and battery configuration unknown No physical inspection or seller contact; availability and pickup travel unconfirmed. Verify ownership, battery/charger labels and a loaded test ride before payment."
     }
   ],
   "scope": {
