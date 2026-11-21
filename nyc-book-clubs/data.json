@@ -90,7 +90,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "astoria-history-book-club",
@@ -143,7 +144,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "unmuted-book-club",
@@ -196,7 +198,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "fractal-university-georgism-and-its-critics",
@@ -252,7 +255,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "Course compares libertarian and Marxist critiques; studying a position is not endorsing it."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "land-is-a-big-deal",
+        "title": "Land Is a Big Deal",
+        "author": "Lars A. Doucet",
+        "book_url": "https://openlibrary.org/books/OL42808335M",
+        "image": "covers/land-is-a-big-deal.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "astoria-non-fiction-book-club",
@@ -312,7 +324,8 @@
         "decision": "disqualified",
         "reviewed_on": "2026-11-21"
       },
-      "disqualified": true
+      "disqualified": true,
+      "reading_book": null
     },
     {
       "id": "astoria-gay-book-club",
@@ -364,7 +377,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "LGBTQ identity/inclusive welcome does not establish political alignment."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "interintellect-nyc-book-club-atlas-shrugged-series",
@@ -418,7 +432,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "mcnally-jackson-new-york-reads-man-in-the-mirror",
@@ -476,7 +491,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "man-in-the-mirror",
+        "title": "Man in the Mirror",
+        "author": "Anand Giridharadas",
+        "book_url": "https://openlibrary.org/books/OL62614673M",
+        "image": "covers/man-in-the-mirror.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "wendy-s-subway-reading-groups",
@@ -531,7 +555,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "Critical theory, hacktivism and social-movement subject matter alone do not establish an explicit left/progressive club affiliation."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "greenlight-radical-nonfiction-book-group",
@@ -593,7 +618,8 @@
         "decision": "disqualified",
         "reviewed_on": "2026-11-21"
       },
-      "disqualified": true
+      "disqualified": true,
+      "reading_book": null
     },
     {
       "id": "rebel-book-club-new-york",
@@ -645,7 +671,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "thalia-book-club-symphony-space",
@@ -697,7 +724,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "nyc-philosophy-and-psychology-readers-community",
@@ -754,7 +782,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "logic-and-conversation",
+        "title": "Logic and Conversation",
+        "author": "Paul Grice",
+        "book_url": null,
+        "image": null,
+        "status": "essay",
+        "edition_note": "Essay / reading; no standalone book cover assigned."
+      }
     },
     {
       "id": "astoria-philosophy-book-club",
@@ -812,7 +849,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "Fanon is a selected author, not evidence of club-level political alignment."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "the-wretched-of-the-earth",
+        "title": "The Wretched of the Earth",
+        "author": "Frantz Fanon",
+        "book_url": "https://openlibrary.org/books/OL32693308M",
+        "image": "covers/the-wretched-of-the-earth.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "chelsea-girls-gays-guys-and-dolls",
@@ -867,7 +913,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "close-reading-nyc",
@@ -930,7 +977,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "mcnally-jackson-international-literature-book-club-with-yvonne",
@@ -986,7 +1034,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "on-the-calculation-of-volume-v",
+        "title": "On the Calculation of Volume V",
+        "author": "Solvej Balle",
+        "book_url": "https://www.faber.co.uk/product/9780571397099-on-the-calculation-of-volume-book-v/",
+        "image": "covers/on-the-calculation-of-volume-v.jpg",
+        "status": "covered",
+        "edition_note": "Faber UK edition, translated by Jennifer Russell; club edition not specified."
+      }
     },
     {
       "id": "the-new-york-philosophy-club-reading-club",
@@ -1038,7 +1095,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "the-millennialish-book-club",
@@ -1093,7 +1151,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "the-road-to-tender-hearts",
+        "title": "The Road to Tender Hearts",
+        "author": "Annie Hartnett",
+        "book_url": "https://openlibrary.org/books/OL57567693M",
+        "image": "covers/the-road-to-tender-hearts.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "albertine-book-club",
@@ -1146,7 +1213,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "in-the-eye-of-the-wild",
+        "title": "In the Eye of the Wild",
+        "author": "Nastassja Martin",
+        "book_url": "https://openlibrary.org/books/OL49670027M",
+        "image": "covers/in-the-eye-of-the-wild.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "astoria-horror-book-club",
@@ -1198,7 +1274,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "astoria-lesbian-book-club",
@@ -1250,7 +1327,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "Lesbian/sapphic literature and inclusive welcome do not establish political alignment."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "astoria-reading-party",
@@ -1304,7 +1382,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "bay-ridge-library-adult-book-club",
@@ -1358,7 +1437,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "the-secret-book-society",
+        "title": "The Secret Book Society",
+        "author": "Madeline Martin",
+        "book_url": "https://openlibrary.org/books/OL58363079M",
+        "image": "covers/the-secret-book-society.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "bay-ridge-library-teen-book-group",
@@ -1412,7 +1500,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "the-escape-game",
+        "title": "The Escape Game",
+        "author": "Marissa Meyer, Tamara Moss",
+        "book_url": "https://openlibrary.org/books/OL61561651M",
+        "image": "covers/the-escape-game.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "book-culture-lic-book-club",
@@ -1468,7 +1565,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "beginning-middle-end",
+        "title": "Beginning Middle End",
+        "author": "Valeria Luiselli",
+        "book_url": "https://openlibrary.org/books/OL62575878M",
+        "image": "covers/beginning-middle-end.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "book-culture-litwits-bookclub",
@@ -1521,7 +1627,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "book-culture-second-tuesday-book-club",
@@ -1575,7 +1682,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "broadway-library-adult-book-club",
@@ -1629,7 +1737,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "broken-dishes-book-club-with-swati",
@@ -1684,7 +1793,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "city-island-library-book-discussion",
@@ -1736,7 +1846,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "clinton-hill-book-club-women-s-writes",
@@ -1790,7 +1901,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "the-measure",
+        "title": "The Measure",
+        "author": "Nikki Erlick",
+        "book_url": "https://openlibrary.org/books/OL36098043M",
+        "image": "covers/the-measure.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club. Book author is Nikki Erlick; event listing spells it Nikki Ehrlich."
+      }
     },
     {
       "id": "dee-s-global-reads",
@@ -1842,7 +1962,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "dream-couple-romance-book-club-with-831-stories",
@@ -1897,7 +2018,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "francis-martin-library-book-talks",
@@ -1949,7 +2071,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "whalefall",
+        "title": "Whalefall",
+        "author": "Daniel Kraus",
+        "book_url": "https://openlibrary.org/books/OL42791758M",
+        "image": "covers/whalefall.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "gerritsen-beach-library-book-talks",
@@ -2003,7 +2134,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "the-spy-coast",
+        "title": "The Spy Coast",
+        "author": "Tess Gerritsen",
+        "book_url": "https://openlibrary.org/books/OL47417560M",
+        "image": "covers/the-spy-coast.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "hidden-gems-book-club",
@@ -2063,7 +2203,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "howard-beach-library-book-club",
@@ -2117,7 +2258,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "macon-library-book-club",
@@ -2171,7 +2313,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "ply",
+        "title": "Ply",
+        "author": "Hernán Díaz",
+        "book_url": "https://openlibrary.org/books/OL62674248M",
+        "image": "covers/ply.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "mcnally-jackson-2666-in-6-months",
@@ -2225,7 +2376,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "2666",
+        "title": "2666",
+        "author": "Roberto Bolaño",
+        "book_url": "https://openlibrary.org/books/OL24967933M",
+        "image": "covers/2666.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "mcnally-jackson-bygone-gothic-book-club-with-jordan",
@@ -2282,7 +2442,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "carmilla",
+        "title": "Carmilla",
+        "author": "Sheridan Le Fanu",
+        "book_url": "https://openlibrary.org/books/OL56237788M",
+        "image": "covers/carmilla.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "mcnally-jackson-enzo-morgan-s-batshit-book-club",
@@ -2338,7 +2507,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "SCUM Manifesto is one selection; the club describes transgressive literature, not a radical-feminist political mission."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "scum-manifesto",
+        "title": "SCUM Manifesto",
+        "author": "Valerie Solanas",
+        "book_url": "https://openlibrary.org/books/OL8475073M",
+        "image": "covers/scum-manifesto.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "mcnally-jackson-literary-black-book-club-with-genay",
@@ -2397,7 +2575,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "Black literature does not establish political alignment."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "the-four-wives-and-five-deaths-of-richard-milford",
+        "title": "The Four Wives and Five Deaths of Richard Milford",
+        "author": "Nafissa Thompson-Spires",
+        "book_url": "https://www.nafissathompsonspires.com/four-wives.html",
+        "image": "covers/the-four-wives-and-five-deaths-of-richard-milford.jpg",
+        "status": "covered",
+        "edition_note": "Author’s displayed edition."
+      }
     },
     {
       "id": "mcnally-jackson-new-book-book-club-with-sarah",
@@ -2449,7 +2636,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "may-we-feed-the-king",
+        "title": "May We Feed the King",
+        "author": "Rebecca Perry",
+        "book_url": "https://openlibrary.org/books/OL61863947M",
+        "image": "covers/may-we-feed-the-king.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "mcnally-jackson-new-directions-book-club",
@@ -2501,7 +2697,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "seiobo-there-below",
+        "title": "Seiobo There Below",
+        "author": "László Krasznahorkai",
+        "book_url": "https://openlibrary.org/works/OL18575457W",
+        "image": "covers/seiobo-there-below.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "mcnally-jackson-short-er-slavic-novels-book-club-with-arya",
@@ -2555,7 +2760,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "netochka-nezvanova",
+        "title": "Netochka Nezvanova",
+        "author": "Fyodor Dostoevsky",
+        "book_url": "https://openlibrary.org/books/OL38790616M",
+        "image": "covers/netochka-nezvanova.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "mcnally-jackson-the-kit-b-club-with-maria",
@@ -2614,7 +2828,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "good-news",
+        "title": "Good News",
+        "author": "Alexa Yasemin Brahme",
+        "book_url": "https://www.alexabrahme.com/",
+        "image": "covers/good-news.jpg",
+        "status": "covered",
+        "edition_note": "Author’s displayed edition."
+      }
     },
     {
       "id": "new-amsterdam-library-book-club",
@@ -2666,7 +2889,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "the-only-good-indians",
+        "title": "The Only Good Indians",
+        "author": "Stephen Graham Jones",
+        "book_url": "https://openlibrary.org/books/OL28087222M",
+        "image": "covers/the-only-good-indians.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "once-upon-a-tome",
@@ -2720,7 +2952,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "pelham-bay-library-adult-book-discussion",
@@ -2772,7 +3005,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "reading-rhythms-nyc",
@@ -2829,7 +3063,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "ridgewood-library-mystery-book-club",
@@ -2885,7 +3120,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "riverdale-library-book-discussion",
@@ -2937,7 +3173,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "there-there",
+        "title": "There There",
+        "author": "Tommy Orange",
+        "book_url": "https://openlibrary.org/books/OL26624980M",
+        "image": "covers/there-there.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "silent-book-club-nyc",
@@ -2991,7 +3236,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "silent-book-club-queens",
@@ -3045,7 +3291,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "silent-book-club-of-south-queens",
@@ -3099,7 +3346,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "stapleton-library-book-discussion",
@@ -3151,7 +3399,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "sunnyside-library-book-club",
@@ -3207,7 +3456,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "sunset-park-library-book-discussion",
@@ -3261,7 +3511,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "sula",
+        "title": "Sula",
+        "author": "Toni Morrison",
+        "book_url": "https://openlibrary.org/books/OL5415472M",
+        "image": "covers/sula.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "the-astoria-feminist-book-group",
@@ -3324,7 +3583,16 @@
         "decision": "disqualified",
         "reviewed_on": "2026-11-21"
       },
-      "disqualified": true
+      "disqualified": true,
+      "reading_book": {
+        "id": "last-night-in-brooklyn",
+        "title": "Last Night in Brooklyn",
+        "author": "Xochitl Gonzalez",
+        "book_url": "https://openlibrary.org/books/OL62604649M",
+        "image": "covers/last-night-in-brooklyn.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "the-rolling-library-queer-book-club",
@@ -3376,7 +3644,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "Queer identity and individual book selections do not establish political alignment."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "todt-hill-westerleigh-mystery-thriller-book-club",
@@ -3433,7 +3702,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "the-lost-girls-of-willowbrook",
+        "title": "The Lost Girls of Willowbrook",
+        "author": "Ellen Marie Wiseman",
+        "book_url": "https://openlibrary.org/books/OL36584189M",
+        "image": "covers/the-lost-girls-of-willowbrook.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "turnt-pages-book-club",
@@ -3485,7 +3763,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "word-independent-small-press-book-club",
@@ -3538,7 +3817,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "windsor-park-library-book-club",
@@ -3592,7 +3872,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     },
     {
       "id": "windsor-terrace-library-book-discussion",
@@ -3646,7 +3927,16 @@
         "reviewed_on": "2026-11-21",
         "reason": "No explicit club-level progressive, left/leftist or radical-political alignment found in reviewed club record and saved source observations; not a certification of political neutrality."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": {
+        "id": "creation-lake",
+        "title": "Creation Lake",
+        "author": "Rachel Kushner",
+        "book_url": "https://openlibrary.org/books/OL50655370M",
+        "image": "covers/creation-lake.jpg",
+        "status": "covered",
+        "edition_note": "Representative edition; confirm required edition with the club."
+      }
     },
     {
       "id": "yu-up-yu-me-book-club",
@@ -3706,7 +3996,8 @@
         "reviewed_on": "2026-11-21",
         "reason": "Fanon and race/colonialism topics do not establish club-level political alignment."
       },
-      "disqualified": false
+      "disqualified": false,
+      "reading_book": null
     }
   ]
 }
