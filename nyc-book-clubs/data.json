@@ -1,0 +1,3301 @@
+{
+  "title": "NYC Book Clubs",
+  "as_of": "2026-11-21",
+  "limitations": [
+    "Comprehensive first-pass research, not every NYC book club. Snapshot as of November 21, 2026; same-day events may already have ended. Confirm availability before travelling.",
+    "Grok was not queried: no usable API key or verified browser provenance. X API was unauthorized; coverage used indexed X results plus one post’s accessible replies, not a complete X search.",
+    "Reddit coverage is partial: indexed posts/comments and some organizer-page follow-up only; Reddit feed retrieval failed. No private Discord server or channel was inspected; no groups were joined.",
+    "First-party dated event pages outrank yearless listings and stale community mentions. A listed event is not proof it occurred. Wishlist books are not assigned reading. Undated books are never labeled current.",
+    "Queens Public Library’s reported network/ransomware outage may affect in-person programs; confirm the branch calendar before attending. Some bookstore pages were accessible only through search indexes.",
+    "Age evidence is sparse. Adults, 19+, or 50+ metadata does not establish a 20s–30s crowd. No age profile is inferred from photographs, neighborhood, occupation or branding.",
+    "Recommended order favors substantive history, institutions and political economy, then practical science/technology, then grounded philosophy. Ideological angles are labeled; left-wing radical nonfiction is not treated as libertarian alignment. Attendance, group chemistry and reading quality were not independently tested."
+  ],
+  "counts": {
+    "entities": 67,
+    "default_eligible": 43,
+    "dated_upcoming_recurring": 31,
+    "observations": 81,
+    "non_entity_leads": 1,
+    "sources": 127,
+    "by_status": {
+      "Author / audience event": 1,
+      "Cohorts / next intake 2027": 1,
+      "Dated upcoming": 33,
+      "Finite course / series": 3,
+      "Lead; NYC schedule unconfirmed": 1,
+      "Lead; reconfirm activity": 13,
+      "Newly forming group": 1,
+      "Past series": 2,
+      "Recent activity; next unknown": 12
+    }
+  },
+  "clubs": [
+    {
+      "id": "business-sports-history-nyc",
+      "name": "Business/Sports/History - NYC",
+      "aliases": [
+        "Business/Sports/History - NYC",
+        "Business/Sports/Politics NYC Non-Fiction Book Club"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan / Upper East Side; co-working conference room",
+      "format": "In-person every ~1–1.5 months; whole-group or breakout discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Business and technology, history, politics, institutions, sports",
+      "tags": [
+        "History & institutions",
+        "Science & technology",
+        "Politics & society"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Request to join; official WhatsApp for members; consistent attendance earns double book-poll vote.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": "2026-12-14",
+      "following_book": null,
+      "following_book_date": "2026-12-14",
+      "next_meeting": "2026-12-14",
+      "meeting_dates": [
+        "2026-12-14"
+      ],
+      "past_book": "The Coddling of the American Mind; The Looming Tower",
+      "past_book_date": null,
+      "undated_books": [],
+      "notes": [
+        "Current book slot empty in retrieved public text. Wishlist is not a scheduled reading.",
+        "Merged aliases and source tracks; the selected date-specific record governs the card. Older claims retained in source history, not used to override newer evidence."
+      ],
+      "angle": null,
+      "rank": 1,
+      "official_url": "https://bookclubs.com/join-a-book-club/club/businesssportspolitics-nyc",
+      "sources": [
+        "https://bookclubs.com/join-a-book-club/club/businesssportspolitics-nyc",
+        "https://bookclubs.com/businesssportspolitics-nyc/messages",
+        "https://www.reddit.com/r/nyc/comments/12r6bk9/non_fiction_book_club/"
+      ],
+      "evidence": "Primary group page lists next meeting Dec 14 2026 18:30 and 973 members; explicitly always in person.",
+      "evidence_date": "2026-12-14",
+      "selected_track": "ideas"
+    },
+    {
+      "id": "astoria-history-book-club",
+      "name": "Astoria History Book Club",
+      "aliases": [
+        "Astoria History Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Astoria, rotating restaurants",
+      "format": "in-person shared-book discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "World history, empire, institutions",
+      "tags": [
+        "History & institutions"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; reconfirm activity",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "No specific restriction found; confirm RSVP requirements.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": "2026-11-02",
+      "undated_books": [],
+      "notes": [
+        "Every five to six weeks; no dated forthcoming event. Historical selections are not current books. Public WhatsApp link exists on official_url; not joined."
+      ],
+      "angle": null,
+      "rank": 3,
+      "official_url": "https://oana-ny.org/introducing-the-astoria-history-book-club/",
+      "sources": [
+        "https://oana-ny.org/introducing-the-astoria-history-book-club/",
+        "https://astorialive.com/guides/book-clubs-in-astoria-queens"
+      ],
+      "evidence": "June 23 neighborhood-association announcement describes dinners and books including The Impossible Country, The Mayor of Mogadishu and preparing to begin Anarchy by William Dalrymple. November 2 local directory still lists club.",
+      "evidence_date": "2026-11-02",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "unmuted-book-club",
+      "name": "UNMUTED Book Club",
+      "aliases": [
+        "UNMUTED Book Club"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan: Café-Flor / Bar 21, 218 8th Ave",
+      "format": "In-person political book discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Libertarian ideas, planning versus markets, political economy",
+      "tags": [
+        "History & institutions",
+        "Politics & society"
+      ],
+      "kind": "Recurring group",
+      "status": "Recent activity; next unknown",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Request-to-join RSVP; reading not required, curiosity welcome.",
+      "cost": "Free (Luma JSON-LD General Admission $0)",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": "The Road to Serfdom — Friedrich Hayek",
+      "past_book_date": "2026-10-18",
+      "undated_books": [],
+      "notes": [
+        "Description retains contradictory Islamic Exceptionalism heading; title/body consistently Hayek. Do not treat October “next up” as future in November."
+      ],
+      "angle": "Recent Hayek reading directly addresses markets versus planning; next event unverified.",
+      "rank": 4,
+      "official_url": "https://luma.com/i06w3zln",
+      "sources": [
+        "https://luma.com/i06w3zln"
+      ],
+      "evidence": "Luma page and JSON-LD verify Oct 18 2026 Hayek discussion; 14 went.",
+      "evidence_date": "2026-10-18",
+      "selected_track": "ideas"
+    },
+    {
+      "id": "fractal-university-georgism-and-its-critics",
+      "name": "Fractal University — Georgism and its Critics",
+      "aliases": [
+        "Fractal University — Georgism and its Critics"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn: Fractal Campus, 111 Conselyea St",
+      "format": "Eight-week in-person reading seminar",
+      "format_group": "Seminar / course",
+      "in_person": true,
+      "topic": "Political economy, land taxation, institutions; libertarian and Marxist critiques",
+      "tags": [
+        "History & institutions",
+        "Politics & society"
+      ],
+      "kind": "Finite course / series",
+      "status": "Finite course / series",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Anyone in NYC can apply; no credentials or grades; late entry unknown.",
+      "cost": "Low-cost classes; exact course fee not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": "Land Is a Big Deal — Lars Doucet",
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [
+        "2026-10-20"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-10-20",
+      "undated_books": [],
+      "notes": [
+        "Strong substantive fit. Direct HTTP returned JS shell; detailed evidence is first-party search-index content. Do not infer age from community branding.",
+        "Ongoing dated course: October 20–December 8, 2026, Tuesdays 18:30–20:30. Current course text, not an open recurring club; late entry unverified."
+      ],
+      "angle": "Georgism / land taxation with libertarian and Marxist critiques; a finite course, not a permanent club.",
+      "rank": 5,
+      "official_url": "https://fractalnyc.com/education",
+      "sources": [
+        "https://fractalnyc.com/education"
+      ],
+      "evidence": "First-party indexed Fall 2026 catalog: Land Is a Big Deal: Georgism and Its Critics, Anthony Rusignuolo; Tuesdays 18:30–20:30 Oct 20–Dec 8.",
+      "evidence_date": "2026-10-20",
+      "selected_track": "ideas"
+    },
+    {
+      "id": "astoria-non-fiction-book-club",
+      "name": "Astoria Non-fiction Book Club",
+      "aliases": [
+        "Astoria Non-fiction Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens: Astoria; seasonal indoor/outdoor venues",
+      "format": "Monthly in-person nonfiction discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "History, climate, current events, political economy, science/technology",
+      "tags": [
+        "History & institutions",
+        "Science & technology",
+        "Politics & society"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Progressive and inclusive; open to people across NYC.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": "2026-12-03",
+      "following_book": null,
+      "following_book_date": "2026-12-03",
+      "next_meeting": "2026-12-03",
+      "meeting_dates": [
+        "2026-12-03"
+      ],
+      "past_book": "Evicted — Matthew Desmond; Among the Thugs — Bill Buford",
+      "past_book_date": null,
+      "undated_books": [],
+      "notes": [
+        "Indexed directory says currently Sea Power, but live group page current slot empty: left null rather than treating cached selection as confirmed. Thinking in Systems and Reverse Centaur are wishlist, not current.",
+        "Merged aliases and source tracks; the selected date-specific record governs the card. Older claims retained in source history, not used to override newer evidence."
+      ],
+      "angle": "Self-described progressive and inclusive; wide-ranging nonfiction, not specifically libertarian.",
+      "rank": 7,
+      "official_url": "https://bookclubs.com/join-a-book-club/club/astoria-non-fiction-book-club",
+      "sources": [
+        "https://bookclubs.com/join-a-book-club/club/astoria-non-fiction-book-club",
+        "https://astorialive.com/guides/book-clubs-in-astoria-queens"
+      ],
+      "evidence": "Primary page: next meeting Dec 3 2026 18:30; 585 members; explicitly in person.",
+      "evidence_date": "2026-12-03",
+      "selected_track": "ideas"
+    },
+    {
+      "id": "astoria-gay-book-club",
+      "name": "Astoria Gay Book Club",
+      "aliases": [
+        "Astoria Gay Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Astoria",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "LGBTQ+ literature; history",
+      "tags": [
+        "History & institutions"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; reconfirm activity",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Welcoming space for queer/LGBTQ+ men; everyone welcome; join WhatsApp",
+      "cost": "Not verified",
+      "recurrence": "Monthly per registered-club description",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": null,
+      "undated_books": [],
+      "notes": [
+        "Listed as currently registered, but month/day copy lacks year. Current and next books withheld rather than asserting 2026. Confirm with organizer."
+      ],
+      "angle": null,
+      "rank": 10,
+      "official_url": "https://www.astoriabookshop.com/bookclubs",
+      "sources": [
+        "https://www.astoriabookshop.com/bookclubs"
+      ],
+      "evidence": "Astoria Gay Book Club\n\nWelcome to the Astoria Gay Book Club! If you are a gay who loves books and wants to build a supportive community, we would love for you to join us. The book club aims to be a supportive and welcoming space for queer and LGBTQ+ men. Whether you just moved to Astoria, you are an avid bookworm, or just want to meet new people, this space is for you.\n\nOur monthly meetups strive to be low-key and inclusive. Everyone is welcome. Join us for good discussions, new friendships, and a welcoming space to explore our shared passions. Meetings will start with a 30-minute intro so we can get to know each other and socialize, and then we begin our book discussion. You do not have to finish the book to participate. We hope to see you soon!\n\nIf you have questions or would like to join please reach out via WhatsApp chat.whatsapp.com/FIgYcvGbsKp1GS4HrabxSf\n\n\n\n\nThe Other Olympians\nMichael Waters\n\nDecember's book will be The Other Olympians: Fascism, Queerness, and the Making of Modern Sports by Michael Waters.\n\n\n\nYoung Mungo\nThe Disappearers\nFruit Fly\nBath Haus\nI Make Envy on Your… (see linked primary page)",
+      "evidence_date": null,
+      "selected_track": "institutions"
+    },
+    {
+      "id": "interintellect-nyc-book-club-atlas-shrugged-series",
+      "name": "Interintellect NYC Book Club — Atlas Shrugged series",
+      "aliases": [
+        "Interintellect NYC Book Club — Atlas Shrugged series"
+      ],
+      "boroughs": [
+        "NYC / unspecified"
+      ],
+      "location": "NYC; precise venue was to be confirmed",
+      "format": "Six-session in-person close reading, 90 minutes biweekly",
+      "format_group": "Seminar / course",
+      "in_person": true,
+      "topic": "Individualism, Objectivism, capitalism, political economy",
+      "tags": [
+        "History & institutions",
+        "Politics & society"
+      ],
+      "kind": "Past series",
+      "status": "Past series",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Limited spaces, ~150–200 pages per session; good-faith engagement not agreement required.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": "Atlas Shrugged — Ayn Rand",
+      "past_book_date": "2026-06-03",
+      "undated_books": [],
+      "notes": [
+        "Not an upcoming club claim. Direct HTTP JS shell; details from indexed first-party pages."
+      ],
+      "angle": "Objectivism / capitalism; completed series, follow-up lead only.",
+      "rank": 10,
+      "official_url": "https://interintellect.com/salons/session-1-the-question-wednesday-march-18",
+      "sources": [
+        "https://interintellect.com/salons/session-1-the-question-wednesday-march-18",
+        "https://interintellect.com/salons/session-6-a-is-a"
+      ],
+      "evidence": "First-party indexed page explicitly in-person NYC; actual first date March 25 (URL slug older); final June 3 2026.",
+      "evidence_date": "2026-06-03",
+      "selected_track": "ideas"
+    },
+    {
+      "id": "mcnally-jackson-new-york-reads-man-in-the-mirror",
+      "name": "McNally Jackson — New York Reads Man in the Mirror",
+      "aliases": [
+        "McNally Jackson — New York Reads Man in the Mirror",
+        "New York reads Man in the Mirror"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, Seaport",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Contemporary NYC history; institutions; political nonfiction",
+      "tags": [
+        "History & institutions",
+        "Politics & society"
+      ],
+      "kind": "Finite course / series",
+      "status": "Finite course / series",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "RSVP via official event page; ticket cost not inspected",
+      "cost": "Not verified",
+      "recurrence": "Three-month finite reading group; final session December 10",
+      "current_book": "Man in the Mirror — Anand Giridharadas — pages 300–440",
+      "current_book_date": "2026-12-10",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-10",
+      "meeting_dates": [
+        "2026-12-10"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-10",
+      "undated_books": [],
+      "notes": [
+        "Merged aliases and source tracks; the selected date-specific record governs the card. Older claims retained in source history, not used to override newer evidence."
+      ],
+      "angle": null,
+      "rank": 10,
+      "official_url": "https://mcnallyjackson.com/event/2026-12-10/new-york-reads-man-mirror-book-club-three-parts",
+      "sources": [
+        "https://mcnallyjackson.com/event/2026-12-10/new-york-reads-man-mirror-book-club-three-parts",
+        "https://mcnallyjackson.com/events/tags/book-club",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/"
+      ],
+      "evidence": "\nNEW YORK READS MAN IN THE MIRROR: PART III\nThu, 12/10/2026 - 7:00pm\nPLACE:\n\nMcNally Jackson Seaport\n4 Fulton Street\nNew York, NY 10038\n\n\nRSVP HERE\nTO NEW YORK READS MAN IN THE MIRROR: PART III OPENS IN NEW TAB\nBook Club\n\nPart I: Thursday, October 29th\nPart II: Thursday, November 19th\n\nLed by Anand Giridharadas and Sarah McNally, McNally Jackson Books is hosting a three-month reading group for Anand's incredible new book, MAN IN THE MIRROR. New Yorkers will gather in discussion circles at our Seaport store to take on what Sarah McNally is calling 'The best New York book since The Power Broker.' For our final meeting, please arrive ready to discuss pgs. 300-440 (end).\n\n“Like the very finest works of narrative nonfiction, Man in the Mirror is both riveting and deeply moving. Anand Giridharadas was on the ground from the very first days after the death of Jordan Neely and tirelessly and empathically followed the sprawling cast of characters involved through the verdict and its aftermath. In his deft hands, the tragic collision of an ex-Marine and a mentally ill homeless man on an uptown… (see linked primary page)",
+      "evidence_date": "2026-12-10",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "wendy-s-subway-reading-groups",
+      "name": "Wendy’s Subway — Reading Groups",
+      "aliases": [
+        "Wendy’s Subway — Reading Groups"
+      ],
+      "boroughs": [
+        "Manhattan",
+        "Brooklyn"
+      ],
+      "location": "Brooklyn: 379 Bushwick Ave; some collaborations in Manhattan",
+      "format": "Facilitated in-person thematic reading series",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Hacktivism, political theory, social movements, history, critical theory",
+      "tags": [
+        "History & institutions",
+        "Politics & society"
+      ],
+      "kind": "Past series",
+      "status": "Past series",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Access conditions not verified; confirm with organizer.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": "2026-04-30",
+      "undated_books": [],
+      "notes": [
+        "No upcoming book verified. Direct HTTP backend returned 502; indexed first-party pages used. Not age-verified; do not equate art community with young."
+      ],
+      "angle": "Critical theory / social movements and hacktivism; not evidence of libertarian alignment.",
+      "rank": 10,
+      "official_url": "https://www.wendyssubway.com/programs/reading-groups",
+      "sources": [
+        "https://www.wendyssubway.com/programs/reading-groups",
+        "https://www.wendyssubway.com/calendar/reading-groups/2026/11"
+      ],
+      "evidence": "Indexed first-party archive lists Concerning Hacktivism Apr 23/30 2026, Theorizing the Riot Apr 5/12/19/26; Nov calendar has no displayed reading-group events.",
+      "evidence_date": "2026-04-30",
+      "selected_track": "ideas"
+    },
+    {
+      "id": "greenlight-radical-nonfiction-book-group",
+      "name": "Greenlight — Radical Nonfiction Book Group",
+      "aliases": [
+        "Greenlight — Radical Nonfiction Book Group",
+        "Greenlight Radical Nonfiction Book Group"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Clinton Hill / Fort Greene",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "History; political economy; technology and institutions",
+      "tags": [
+        "History & institutions",
+        "Science & technology",
+        "Politics & society"
+      ],
+      "kind": "Recurring group",
+      "status": "Recent activity; next unknown",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Hops Hill at Fulton, 886 Fulton Street; RSVP through Greenlight/Eventbrite",
+      "cost": "Not verified",
+      "recurrence": "Monthly",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": "Technofeudalism: What Killed Capitalism — Yanis Varoufakis",
+      "past_book_date": "2026-11-17",
+      "undated_books": [],
+      "notes": [
+        "Official page text available via search index; direct HTTP and browser Cloudflare blocked. November 17 book is historical, not current. No following announced selection verified.",
+        "Merged aliases and source tracks; the selected date-specific record governs the card. Older claims retained in source history, not used to override newer evidence."
+      ],
+      "angle": "Left-wing / anti-capitalist political economy; Varoufakis is not a libertarian-market fit.",
+      "rank": 15,
+      "official_url": "https://greenlightbookstore.com/event/2026-11-17/radical-nonfiction-book-group",
+      "sources": [
+        "https://greenlightbookstore.com/event/2026-11-17/radical-nonfiction-book-group",
+        "https://www.eventbrite.com/e/radical-nonfiction-book-group-tickets-2001664556572",
+        "https://greenlightbookstore.com/events",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/",
+        "https://litcircle.org/new-york/events/radical-nonfiction-book-group"
+      ],
+      "evidence": "Radical Nonfiction Book Group | Greenlight Bookstore # Radical Nonfiction Book Group Tue, 11/17/2026 - 7:00pm - 8:00pm Place: Hops Hill at Fulton 886 Fulton St Brooklyn, NY 11238 United States RSVP to Radical Nonfiction Book Group opens in new tab Radical Nonfiction Book Group with Carlo Discusses Technofeudalism: What Killed Capitalism by Yanis Varoufakis Led by former Greenlight bookseller Carlo, our Radical Nonfiction Book Group meets monthly to read and discuss nonfiction titles related to the issues of history, politics, and the promise of a better world, just around the corner! For November, the group discusses Technofeudalism by #1 international bestselling economist Yanis Varoufakis. Big tech has replaced capitalism’s twin pillars—markets and profit—with its platforms and rents. With every click and scroll, we labor like serfs to increase its power. Welcome to technofeudalism... the greatest current threat to the liberal individual, to our efforts to avert climate catastrophe, and to democracy itself. It also lies behind the new geopolitical tensions, especially the New Cold … (see linked primary page)",
+      "evidence_date": "2026-11-17",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "rebel-book-club-new-york",
+      "name": "Rebel Book Club — New York",
+      "aliases": [
+        "Rebel Book Club — New York"
+      ],
+      "boroughs": [
+        "NYC / unspecified"
+      ],
+      "location": "NYC rotating venues; exact forthcoming venue unknown",
+      "format": "Monthly in-person nonfiction discussion and drinks",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Money, technology, society, identity",
+      "tags": [
+        "Science & technology"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; NYC schedule unconfirmed",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Paid membership; reading completion not required.",
+      "cost": "Page displays $20/month billed $60 quarterly or $240 yearly; mixed UK boilerplate means confirm NYC checkout pricing.",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": null,
+      "undated_books": [],
+      "notes": [
+        "Host recommendations are not current club picks; no dated forthcoming NYC event verified. Tech jobs are not age evidence."
+      ],
+      "angle": null,
+      "rank": 30,
+      "official_url": "https://rebelbook.club/cities/new-york",
+      "sources": [
+        "https://rebelbook.club/cities/new-york"
+      ],
+      "evidence": "Live first-party NYC page names two Brooklyn-based tech-industry hosts and says meets last Tuesday monthly.",
+      "evidence_date": null,
+      "selected_track": "ideas"
+    },
+    {
+      "id": "thalia-book-club-symphony-space",
+      "name": "Thalia Book Club — Symphony Space",
+      "aliases": [
+        "Thalia Book Club — Symphony Space"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan: Leonard Nimoy Thalia, 2537 Broadway at 95th St",
+      "format": "In-person moderated author/panel discussion and audience Q&A",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Science/technology through fiction; AI, space exploration, human power",
+      "tags": [
+        "Science & technology"
+      ],
+      "kind": "Author / audience event",
+      "status": "Author / audience event",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Ticketed audience event, not an intimate member-led group.",
+      "cost": "$19–27 plus $5 service fee",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": "2001: A Space Odyssey — Arthur C. Clarke",
+      "past_book_date": "2026-11-02",
+      "undated_books": [],
+      "notes": [
+        "Direct HTTP Cloudflare blocked; source detail available via search index. Lower fit for meeting a recurring discussion cohort."
+      ],
+      "angle": null,
+      "rank": 30,
+      "official_url": "https://www.symphonyspace.org/events/thalia-book-club-arthur-c-clarkes-2001-a-space-odyssey",
+      "sources": [
+        "https://www.symphonyspace.org/events/thalia-book-club-arthur-c-clarkes-2001-a-space-odyssey"
+      ],
+      "evidence": "Indexed primary venue page lists Nov 2 2026 at 19:00, 75 minutes, panel on Clarke.",
+      "evidence_date": "2026-11-02",
+      "selected_track": "ideas"
+    },
+    {
+      "id": "nyc-philosophy-and-psychology-readers-community",
+      "name": "NYC Philosophy and Psychology Readers Community",
+      "aliases": [
+        "NYC Philosophy and Psychology Readers Community"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan: Pier 57 and 180 Maiden Lane",
+      "format": "In-person book and essay discussions; separate online series excluded",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Grounded philosophy, psychology, language, cognitive science",
+      "tags": [
+        "Science & technology",
+        "Philosophy"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "RSVP; do required reading to speak; unread attendees may listen.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": "Logic and Conversation — Paul Grice",
+      "current_book_date": "2026-11-21",
+      "following_book": "Phenomenology of Spirit — G. W. F. Hegel (week 7, pp.145–180)",
+      "following_book_date": "2026-11-22",
+      "next_meeting": "2026-11-21",
+      "meeting_dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-21",
+      "undated_books": [],
+      "notes": [
+        "Next new title: The Blue & Brown Books, Ludwig Wittgenstein, starts 2026-11-28. Discord mentioned for ONLINE A Thousand Plateaus; link only after RSVP, no public invite found.",
+        "Parallel reading streams, not one sequential club syllabus; Wittgenstein starts November 28, 2026."
+      ],
+      "angle": null,
+      "rank": 42,
+      "official_url": "https://www.meetup.com/reading-philosophy/",
+      "sources": [
+        "https://www.meetup.com/reading-philosophy/"
+      ],
+      "evidence": "Primary Meetup page lists Grice Nov 21, Hegel Nov 22, Wittgenstein Nov 28 / Dec 5 / Dec 12 / Dec 19.",
+      "evidence_date": "2026-11-21",
+      "selected_track": "ideas"
+    },
+    {
+      "id": "astoria-philosophy-book-club",
+      "name": "Astoria Philosophy Book Club",
+      "aliases": [
+        "Astoria Philosophy Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Astoria",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Philosophy; political theory",
+      "tags": [
+        "Philosophy",
+        "Politics & society"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "No prior philosophy experience required; at QED",
+      "cost": "Not verified",
+      "recurrence": "Recurring club with previous selections",
+      "current_book": "The Wretched of the Earth — Frantz Fanon",
+      "current_book_date": "2026-12-06",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-06",
+      "meeting_dates": [
+        "2026-12-06"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-06",
+      "undated_books": [],
+      "notes": [
+        "Merged aliases and source tracks; the selected date-specific record governs the card. Older claims retained in source history, not used to override newer evidence."
+      ],
+      "angle": "Current Fanon selection: anticolonial political philosophy; not a libertarian specialization.",
+      "rank": 45,
+      "official_url": "https://www.astoriabookshop.com/bookclubs",
+      "sources": [
+        "https://www.astoriabookshop.com/bookclubs",
+        "https://luma.com/astoriaphilosophy",
+        "https://www.reddit.com/r/NYCbitcheswithtaste/comments/1t0jtj4/looking_for_after_work_literature_courses/",
+        "https://astorialive.com/guides/book-clubs-in-astoria-queens"
+      ],
+      "evidence": "Astoria Philosophy Book Club\n\nOur group aims to bring together open-minded, curious and enthusiastic members of the Astoria & broader NYC community to read/discuss Philosophy together! No prior experience studying or reading Philosophy is required and we will tailor our meetups to be approachable and engaging for all who would like to participate. All events are posted to our Luma page here: luma.com/astoriaphilosophy and Instagram @astoriaphilosophy. Questions can be sent to astoriaphil [at] gmail dotcom.\n\n\n\n\nThe Wretched of the Earth\nFrantz Fanon, Cornel West, Richard Philcox\n\nThe November/December 2026 book pick for the Astoria Philosophy Book Club isThe Wretched of the Earth by Frantz Fanon\n\nOur next meeting is on Dec 6 at QED.\n\n\n\nThe Human Condition\nThe Second Sex\nAmusing Ourselves to Death\nDiscourse on Method and Related Writings\nMeditations and Other Metaphysical Writings\nThe Woman Destroyed\nNotes from Underground\nThe Republic\n \nView all 8 products\n",
+      "evidence_date": "2026-12-06",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "chelsea-girls-gays-guys-and-dolls",
+      "name": "Chelsea Girls (Gays, Guys and Dolls)",
+      "aliases": [
+        "Chelsea Girls (Gays, Guys and Dolls)"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, Chelsea",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Philosophy; critical theory; plays; essays; psychology; fiction",
+      "tags": [
+        "Philosophy",
+        "Politics & society"
+      ],
+      "kind": "Newly forming group",
+      "status": "Newly forming group",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Join/request to join through Bookclubs for exact venue",
+      "cost": "Not verified",
+      "recurrence": "Plans weekly meetings starting December; newly forming",
+      "current_book": null,
+      "current_book_date": "2026-12-02",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-02",
+      "meeting_dates": [
+        "2026-12-02"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-02",
+      "undated_books": [],
+      "notes": [
+        "Host-managed in-person directory listing; venue not public. Reading-next cover not recoverable as text; wishlist books are not assigned selections."
+      ],
+      "angle": null,
+      "rank": 45,
+      "official_url": "https://bookclubs.com/join-a-book-club/club/chelsea-girls-gays-guys-and-dolls",
+      "sources": [
+        "https://bookclubs.com/join-a-book-club/club/chelsea-girls-gays-guys-and-dolls"
+      ],
+      "evidence": "Join Chelsea Girls (Gays, Guys and Dolls) | Bookclubs\nSkip to content\nJoin a Book club\nFind a book\nSearch books\nTop Books\nBook Talk\nGreat Indie Reads\nGiveaways\nBlog\nDiscussion guides\nSign In\nSign up\nChelsea Girls (Gays, Guys and Dolls)\nChelsea, Manhattan, New York, NY, USA\nNext meeting:\nWednesday, December 02 2026 at 6:00pm - EST\n24\nmembers\nJOIN\nReading next...\nAbout\nChelsea Girls (Gays, Guys and Dolls)\nThis is a book club for people who are curious and cool and want to read curious and cool stuff like plays, greek tragedy, philosophy, critical theory, essays, spiritual stuff, psychology, psychoanalysis, actually good fiction etc\nPlanning to meet weekly, starting in December. Please feel free to join us for a low pressure hang and discussion - okay if you havent read the book, simply read a little about it and come join the conversation :)\nBooks We Want to Read\nDiscontent: A Novel\nby\nBeatriz Serrano\nAverage rating:\n6.95\nRaise High the Roof Beam, Carpenters and Seymour: An Introduction\nby\nJ. D. Salinger\nAverage rating:\n7.13\nFranny and Zooey\nby\nJ. D. Salinger\nAverage rating:\n7.82\nMy Pi… (see linked primary page)",
+      "evidence_date": "2026-12-02",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "close-reading-nyc",
+      "name": "Close Reading NYC",
+      "aliases": [
+        "Close Reading NYC"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan: 309 Elizabeth St (indexed address); confirm cohort venue",
+      "format": "Structured multi-week in-person literary seminars",
+      "format_group": "Seminar / course",
+      "in_person": true,
+      "topic": "Grounded human questions through classics; literary rather than analytic philosophy",
+      "tags": [
+        "Philosophy"
+      ],
+      "kind": "Cohorts / next intake 2027",
+      "status": "Cohorts / next intake 2027",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Read beforehand; no literature background required; registration per cohort.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": null,
+      "undated_books": [
+        {
+          "title": "Anna Karenina; Pride and Prejudice; The Master and Margarita; Social Climbers (Père Goriot & The Default World)",
+          "date": null,
+          "label": "Past / undated selection; not current"
+        },
+        {
+          "title": "Winter 2027 announced shelf: Song of Solomon; East of Eden; Romeo & Juliet",
+          "date": null,
+          "label": "Announced without verified meeting date"
+        }
+      ],
+      "notes": [
+        "Next book date null because precise meeting dates not announced; social-status/institutions relevance through Social Climbers. No verified age profile."
+      ],
+      "angle": null,
+      "rank": 45,
+      "official_url": "https://www.closereadingnyc.com/",
+      "sources": [
+        "https://www.closereadingnyc.com/"
+      ],
+      "evidence": "Live homepage says no new groups until 2027; current Anna Karenina, Pride and Prejudice, Master and Margarita, Social Climbers series. Winter shelf announced without exact dates.",
+      "evidence_date": null,
+      "selected_track": "ideas"
+    },
+    {
+      "id": "mcnally-jackson-international-literature-book-club-with-yvonne",
+      "name": "McNally Jackson — International Literature Book Club with Yvonne",
+      "aliases": [
+        "McNally Jackson — International Literature Book Club with Yvonne",
+        "International Literature Book Club with Yvonne"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, SoHo",
+      "format": "hybrid; in-person no RSVP needed",
+      "format_group": "Hybrid (in-person available)",
+      "in_person": true,
+      "topic": "International literature; philosophical fiction",
+      "tags": [
+        "Philosophy"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "No RSVP needed in person",
+      "cost": "Not verified",
+      "recurrence": "Monthly",
+      "current_book": "On the Calculation of Volume V — Solvej Balle",
+      "current_book_date": "2026-12-14",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-14",
+      "meeting_dates": [
+        "2026-12-14"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-14",
+      "undated_books": [],
+      "notes": [
+        "Merged aliases and source tracks; the selected date-specific record governs the card. Older claims retained in source history, not used to override newer evidence."
+      ],
+      "angle": null,
+      "rank": 45,
+      "official_url": "https://mcnallyjackson.com/event/2026-12-14/international-literature-book-club-yvonne",
+      "sources": [
+        "https://mcnallyjackson.com/event/2026-12-14/international-literature-book-club-yvonne",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/"
+      ],
+      "evidence": "\nINTERNATIONAL LITERATURE BOOK CLUB WITH YVONNE\nMon, 12/14/2026 - 6:30pm\nPLACE:\n\nMcNally Jackson SoHo\n134 Prince Street\nNew York, NY 10012\n\n\nZOOM RSVP\nTO INTERNATIONAL LITERATURE BOOK CLUB WITH YVONNE OPENS IN NEW TAB\nBook Club\n\nNo RSVP needed to attend in person or RSVP HERE to join the meeting via Zoom\n\nThis month we will discuss the much anticipated fifth installment of Solvej Balle’s “speculative masterwork”, On the Calculation of Volume. \n\nBalle’s series has grown into a cult hit, both in Scandinavia, where the first six of a planned seven books have been released in the original Danish, and, more recently, in the U.S. The novels, composed of Tara’s diary entries, meld metaphysical inquiry with an intimate attention to the natural world and the domestic sphere. Balle’s prose—repetitive, hypnotic, and as balanced as a small plane—sustains an atmosphere of illuminated ordinariness.— Katy Waldman - The New Yorker\n\nIn the latest installment of Balle’s septology, the old life grows increasingly abstract for those locked in time. The most sociologically focused entry in Balle’s series… (see linked primary page)",
+      "evidence_date": "2026-12-14",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "the-new-york-philosophy-club-reading-club",
+      "name": "The New York Philosophy Club — Reading Club",
+      "aliases": [
+        "The New York Philosophy Club — Reading Club"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan: Reign, 167 E Broadway",
+      "format": "In-person philosophical reading discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Ethics, virtue, living well",
+      "tags": [
+        "Philosophy"
+      ],
+      "kind": "Recurring group",
+      "status": "Recent activity; next unknown",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Approval-required guest/first-timer RSVP; read as much as reasonably possible; free text offered.",
+      "cost": "$25 General Admission in JSON-LD; first-timer option exists, price not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": "Nicomachean Ethics, Books I–III — Aristotle",
+      "past_book_date": "2026-10-18",
+      "undated_books": [],
+      "notes": [
+        "Lyceum cross-post of Nov 15 Dhammapada is not counted as a distinct club."
+      ],
+      "angle": null,
+      "rank": 45,
+      "official_url": "https://luma.com/ngy6mc11",
+      "sources": [
+        "https://luma.com/ngy6mc11"
+      ],
+      "evidence": "Primary Luma and JSON-LD verify Aristotle Oct 18 2026, 11:00–14:00; 72 went.",
+      "evidence_date": "2026-10-18",
+      "selected_track": "ideas"
+    },
+    {
+      "id": "the-millennialish-book-club",
+      "name": "The Millennialish Book Club",
+      "aliases": [
+        "The Millennialish Book Club"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan: Cre8tive Space, 134 W 29th St",
+      "format": "Monthly in-person book discussion; some historic online meetings",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Mixed fiction/nonfiction; history and philosophical novels periodically",
+      "tags": [
+        "History & institutions",
+        "Philosophy"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Explicitly founded for 20s/30s; now welcomes 18–45-ish.",
+      "eligibility": "RSVP and cancel if unable to attend.",
+      "cost": "$5 annual dues after 90-day free trial",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": "The Road to Tender Hearts — Annie Hartnett",
+      "current_book_date": "2026-12-13",
+      "following_book": "The Razor’s Edge",
+      "following_book_date": "2027-02-21",
+      "next_meeting": "2026-12-13",
+      "meeting_dates": [
+        "2026-12-13"
+      ],
+      "past_book": "The Wager — David Grann",
+      "past_book_date": "2026-11-08",
+      "undated_books": [],
+      "notes": [
+        "Younger-community evidence strongest here; weaker nonfiction specialization. Philosophical pick The Razor’s Edge scheduled 2027-02-21."
+      ],
+      "angle": null,
+      "rank": 50,
+      "official_url": "https://www.meetup.com/the-millennialish-book-club/",
+      "sources": [
+        "https://www.meetup.com/the-millennialish-book-club/"
+      ],
+      "evidence": "Primary page: Nov 8 The Wager; Dec 13 15:00 The Road to Tender Hearts; Feb 21 2027 The Razor’s Edge.",
+      "evidence_date": "2026-11-08",
+      "selected_track": "ideas"
+    },
+    {
+      "id": "albertine-book-club",
+      "name": "Albertine Book Club",
+      "aliases": [
+        "Albertine Book Club"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, Upper East Side",
+      "format": "in-person shared-book discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Francophone literature, anthropology",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Albertine members only; speak English or French; strong command of French recommended.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": "In the Eye of the Wild — Nastassja Martin",
+      "current_book_date": "2026-12-01",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-01",
+      "meeting_dates": [
+        "2026-12-01"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-01",
+      "undated_books": [],
+      "notes": [],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.albertine.com/events/the-albertine-book-club-reads-in-the-eye-of-the-wild-by-nastassja-martin/",
+      "sources": [
+        "https://www.albertine.com/events/the-albertine-book-club-reads-in-the-eye-of-the-wild-by-nastassja-martin/",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/"
+      ],
+      "evidence": "Official December 1 event lists 6–7pm at Albertine Books, 972 Fifth Avenue.",
+      "evidence_date": "2026-12-01",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "astoria-horror-book-club",
+      "name": "Astoria Horror Book Club",
+      "aliases": [
+        "Astoria Horror Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Astoria",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Horror fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; reconfirm activity",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "At Medusa Art Studios, 18-14 Astoria Blvd; contact Instagram @AstoriaHorrorClub",
+      "cost": "Not verified",
+      "recurrence": "Monthly per registered-club description",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": null,
+      "undated_books": [],
+      "notes": [
+        "Listed as currently registered, but month/day copy lacks year. Current and next books withheld rather than asserting 2026. Confirm with organizer."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.astoriabookshop.com/bookclubs",
+      "sources": [
+        "https://www.astoriabookshop.com/bookclubs"
+      ],
+      "evidence": "Astoria Horror Book Club\n\nWelcome to the Astoria Horror Book Club! If you love spooky stories and want to meet like-minded people in the neighborhood, you've found your home. This book club aims to be a welcoming and fun space for everyone who appreciates the macabre. Whether you're a die-hard horror fan or just looking to explore the genre and meet new people, this space is for you. We read everything across the horror genre, from quiet, atmospheric haunts to blood-pumping thrillers. We meet once a month and just ask that all members be kind and respectful to one another and to our host venue. You can follow our Instagram account @AstoriaHorrorClub\n\n\n\n\nFrankenstein\nMary Wollstonecraft Shelley, Nick Groom\n\nDecember's book will be Frankenstein (1818 edition) by Mary Shelley. We'll be meeting on 12/30 at 7pm at Medusa Art Studios, 18-14 Astoria Blvd.\n\n\n\n \nView all 16 products\n",
+      "evidence_date": null,
+      "selected_track": "institutions"
+    },
+    {
+      "id": "astoria-lesbian-book-club",
+      "name": "Astoria Lesbian Book Club",
+      "aliases": [
+        "Astoria Lesbian Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Astoria",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Lesbian and sapphic literature",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; reconfirm activity",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Queer-inclusive and borough-inclusive; email organizer for meeting location",
+      "cost": "Not verified",
+      "recurrence": "Monthly per registered-club description",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": null,
+      "undated_books": [],
+      "notes": [
+        "Listed as currently registered, but month/day copy lacks year. Current and next books withheld rather than asserting 2026. Confirm with organizer."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.astoriabookshop.com/bookclubs",
+      "sources": [
+        "https://www.astoriabookshop.com/bookclubs"
+      ],
+      "evidence": "Astoria Lesbian Book Club\n\nWe are a queer-inclusive (and boro-inclusive!) book club reading lesbian and sapphic literature. We meet monthly in the neighborhood to discuss the month's choice. If you're interested in joining us, please email Andy at andymatiasramos7@gmail.com. Follow our Instagram at @astoria_lesbian_book_club.\n\n\n\n\nFemale Masculinity\nJack Halberstam\n\nNovember's book is part 2 of Female Masculinity by Jack Halberstam as well as Cleat Cute by Meryl Wilsner. The next meeting is November 22nd at 5pm.\n\nOrder Cleat Cute here: \n\nhttps://astoriabookshop.com/item/3Czr8TaWU9_zV8AGljJ5-w\n\n\n\nOn Sundays She Picked Flowers\nFemale Masculinity\nTipping the Velvet\nGirls Girls Girls\nTime and Tide\nThe Fox and the Devil\nHijab Butch Blues\nBorderlands / La Frontera\nThe Price of Salt, or Carol\nOn a Sunbeam\nLight From Uncommon Stars\nThe Starving Saints\nValencia\nMarsha\nLucky Red\nThe Essential Dykes To Watch Out For\n \nView all 16 products\n",
+      "evidence_date": null,
+      "selected_track": "institutions"
+    },
+    {
+      "id": "astoria-reading-party",
+      "name": "Astoria Reading Party",
+      "aliases": [
+        "Astoria Reading Party"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Astoria / 31st Avenue Open Street",
+      "format": "in-person silent reading and socializing",
+      "format_group": "Bring your own book",
+      "in_person": true,
+      "topic": "All genres; bring own reading",
+      "tags": [
+        "Bring your own book"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; reconfirm activity",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "No specific restriction found; confirm RSVP requirements.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": "2026-11-02",
+      "undated_books": [],
+      "notes": [
+        "No upcoming date verified; Instagram link extracted from live local guide."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.instagram.com/astoriareadingparty",
+      "sources": [
+        "https://www.instagram.com/astoriareadingparty",
+        "https://www.reddit.com/r/astoria/comments/1umgrnp/season_7_week_11_31st_avenue_open_street/",
+        "https://astorialive.com/guides/book-clubs-in-astoria-queens"
+      ],
+      "evidence": "Reddit organizer July 3 weekend announcement lists reading party 1–2pm; November 2 guide confirms bring-own-book hour then chat.",
+      "evidence_date": "2026-11-02",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "bay-ridge-library-adult-book-club",
+      "name": "Bay Ridge Library Adult Book Club",
+      "aliases": [
+        "Bay Ridge Library Adult Book Club"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Bay Ridge",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "General fiction / historical fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Adults",
+      "eligibility": "Library discussion; see event page; borrowing copies available",
+      "cost": "No fee listed",
+      "recurrence": "Named book discussion group; cadence not stated on inspected event",
+      "current_book": "The Secret Book Society — Madeline Martin",
+      "current_book_date": "2026-12-01",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-01",
+      "meeting_dates": [
+        "2026-12-01"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-01",
+      "undated_books": [],
+      "notes": [
+        "Following selection not found in inspected official listings."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.bklynlibrary.org/calendar/bay-ridge-book-bay-ridge-library-20261201-0600pm",
+      "sources": [
+        "https://www.bklynlibrary.org/calendar/bay-ridge-book-bay-ridge-library-20261201-0600pm"
+      ],
+      "evidence": "al and civic center for everyone.\nSearch\nEvents & Classes\nBay Ridge Book Club/Discussion:  The Secret Book Society by Madeline Martin\nBay Ridge Book Club/Discussion:  The Secret Book Society by Madeline Martin\nTue, Dec 1 2026\n6:00 pm – 7:30 pm\nBay Ridge Library\nadults\nbook club\nbook discussion\nCome join us as we discuss \"The Secret Book Society\" by Madeline Martin.  You may place your copy of the book on hold with our online catalog.\nThe secret book society - Brooklyn Public Library\nFor more information call 718-748-5709.\nBook Synopsis:\nLondon, 1895:  Trapped by oppressive marriages and societal expectations, three women receive a mysterious invitation to an afternoon tea at the home of the reclusive Lady Duxbury. Beneath the genteel facade of the gathering lies a secret book club, a sanctuary where they can discover freedom, sisterhood, and the courage to rewrite their stories. All are drawn to the enigmatic Lady Duxbury, a thrice-widowed countess whose husbands' untimely deaths have sparked whispers of murder. As the women form deep, heartwarming friendships, they uncover secrets a… (see linked primary page)",
+      "evidence_date": "2026-12-01",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "bay-ridge-library-teen-book-group",
+      "name": "Bay Ridge Library Teen Book Group",
+      "aliases": [
+        "Bay Ridge Library Teen Book Group"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Bay Ridge",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Teen fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": false,
+      "age_evidence": "Teens",
+      "eligibility": "Library discussion; see event page; borrowing copies available",
+      "cost": "No fee listed",
+      "recurrence": "Named book discussion group; cadence not stated on inspected event",
+      "current_book": "The Escape Game — Marissa Meyer [as credited in event listing]",
+      "current_book_date": "2026-11-25",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-11-25",
+      "meeting_dates": [
+        "2026-11-25"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-25",
+      "undated_books": [],
+      "notes": [
+        "Following selection not found in inspected official listings."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.bklynlibrary.org/calendar/teen-time-book-discussion-bay-ridge-library-meeting-20261125-0330pm",
+      "sources": [
+        "https://www.bklynlibrary.org/calendar/teen-time-book-discussion-bay-ridge-library-meeting-20261125-0330pm"
+      ],
+      "evidence": "Events & Classes\nTeen Time: Book Discussion Group\nTeen Time: Book Discussion Group\nWed, Nov 25 2026\n3:30 pm – 4:30 pm\nBay Ridge Library, Meeting Room\nteens\nbook club\nbook discussion\nBook Discussion Group: Join our book discussion group on The Escape Game by Marissa Meyer!\nThis Competition is to DIE FOR!\nCome join our Bay Ridge Library Teen Book Group. Meet new teens and enjoy some snacks!\nPlace your copy on hold with our online catalog or visit the branch to check it out. No need to finish the book beforehand. All are welcome!\nBay Ridge Library\n7223 Ridge Blvd. at 73rd St.\nBrooklyn\n,\nNY\n11209\nGet Directions\n",
+      "evidence_date": "2026-11-25",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "book-culture-lic-book-club",
+      "name": "Book Culture LIC Book Club",
+      "aliases": [
+        "Book Culture LIC Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Long Island City",
+      "format": "in-person shared-book discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Literary fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Register each meeting; finish book; purchase not required.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": "Beginning Middle End — Valeria Luiselli",
+      "current_book_date": "2026-12-03",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-03",
+      "meeting_dates": [
+        "2026-12-03"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-03",
+      "undated_books": [],
+      "notes": [
+        "Current_book denotes announced book for upcoming meeting; next_book is subsequent unannounced selection."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://bookculture.com/event/2026-12-03/lic-november-book-club",
+      "sources": [
+        "https://bookculture.com/event/2026-12-03/lic-november-book-club",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/",
+        "https://bookculture.com/book-clubs"
+      ],
+      "evidence": "Official event explicitly December 3, 6pm lower level 26-09 Jackson Ave despite November in title.",
+      "evidence_date": "2026-12-03",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "book-culture-litwits-bookclub",
+      "name": "Book Culture Litwits Bookclub",
+      "aliases": [
+        "Book Culture Litwits Bookclub"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, Morningside Heights",
+      "format": "in-person shared-book discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Literature, selections unspecified",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; reconfirm activity",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "RSVP for each meeting; finish book; purchase encouraged not required.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": "2026-11-21",
+      "undated_books": [],
+      "notes": [
+        "No dated upcoming meeting or current book confirmed."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://bookculture.com/book-clubs",
+      "sources": [
+        "https://bookculture.com/book-clubs",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/"
+      ],
+      "evidence": "Official group page: usually second Friday monthly, upper level 536 W 112th St; bookseller-led 60–90 minute discussion.",
+      "evidence_date": "2026-11-21",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "book-culture-second-tuesday-book-club",
+      "name": "Book Culture Second Tuesday Book Club",
+      "aliases": [
+        "Book Culture Second Tuesday Book Club"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, Morningside Heights",
+      "format": "in-person shared-book discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Topical literature, classics",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Recent activity; next unknown",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "RSVP for each meeting; finish book; purchase encouraged not required.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [
+        "2026-11-10"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-10",
+      "undated_books": [],
+      "notes": [],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://bookculture.com/book-clubs",
+      "sources": [
+        "https://bookculture.com/book-clubs",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/",
+        "https://bookculture.com/event/2026-11-10/112th-november-2nd-tuesday-book-club"
+      ],
+      "evidence": "Official November 10 event for The Girls of Slender Means at 536 W 112th, upper floor.",
+      "evidence_date": "2026-11-10",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "broadway-library-adult-book-club",
+      "name": "Broadway Library Adult Book Club",
+      "aliases": [
+        "Broadway Library Adult Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Astoria",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "General book discussion; selection unknown",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Recent activity; next unknown",
+      "default_eligible": true,
+      "age_evidence": "Adults 19+ (PDF legend defines A)",
+      "eligibility": "Branch meeting room unless otherwise specified; Broadway: Small Auditorium",
+      "cost": "No fee listed",
+      "recurrence": "Named club in November branch calendar; cadence not stated",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": "2026-11-18",
+      "undated_books": [],
+      "notes": [
+        "QPL ransomware/network outage: official notice says some in-person programs may be affected. Call branch to confirm; December selection not available on inspected fallback calendar."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://static.libnet.info/frontend-images/pdfs/queens/Broadway_Calendar_November2026_Adults.pdf",
+      "sources": [
+        "https://static.libnet.info/frontend-images/pdfs/queens/Broadway_Calendar_November2026_Adults.pdf",
+        "https://connect.queenslibrary.org/17906",
+        "https://www.queenslibrary.org/"
+      ],
+      "evidence": "Official November 2026 branch calendar lists Broadway Library Adult Book Club on 2026-11-18 at 14:00. PDF specifies programs occur in Meeting Room unless otherwise noted; Ridgewood Mystery is explicitly offsite at DADA Café.",
+      "evidence_date": "2026-11-18",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "broken-dishes-book-club-with-swati",
+      "name": "Broken Dishes Book Club with Swati",
+      "aliases": [
+        "Broken Dishes Book Club with Swati"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Downtown Brooklyn",
+      "format": "in-person shared-book discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Fiction challenging domestic conventions",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Recent activity; next unknown",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "No specific restriction found; confirm RSVP requirements.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [
+        "2026-11-20"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-20",
+      "undated_books": [],
+      "notes": [
+        "Recent event; no future date verified."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://mcnallyjackson.com/events/tags/book-club",
+      "sources": [
+        "https://mcnallyjackson.com/events/tags/book-club",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/"
+      ],
+      "evidence": "Official indexed McNally calendar/event gives physical store and meeting date.",
+      "evidence_date": "2026-11-20",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "city-island-library-book-discussion",
+      "name": "City Island Library Book Discussion",
+      "aliases": [
+        "City Island Library Book Discussion"
+      ],
+      "boroughs": [
+        "Bronx"
+      ],
+      "location": "Bronx, City Island",
+      "format": "in-person discussion",
+      "format_group": "Bring your own book",
+      "in_person": true,
+      "topic": "Any book; participants select their own",
+      "tags": [
+        "Bring your own book"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Adults; also tagged 50+ (not an age restriction)",
+      "eligibility": "Fully accessible branch; see registration on event page",
+      "cost": "Free NYPL program",
+      "recurrence": "Monthly",
+      "current_book": null,
+      "current_book_date": "2026-11-30",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-11-30",
+      "meeting_dates": [
+        "2026-11-30"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-30",
+      "undated_books": [],
+      "notes": [],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.nypl.org/events/programs/2026/11/30/book-discussion-0",
+      "sources": [
+        "https://www.nypl.org/events/programs/2026/11/30/book-discussion-0"
+      ],
+      "evidence": "Date and Time\nMonday, November 30, 2026\n5 PM\n–\n6 PM\nEnd times are approximate. Events may end early or late.\nmapsPlace icon\nLocation\nCity Island Library\naccessibilityFull icon\nFully accessible\nactionIdentityFilled icon\nRelevant for\nAdults, 50+, Book Lovers\nEvent Details\nThe book discussion event is a monthly program where we select our own titles, read them and then discuss as a group. A program for adults and seniors who want to share their newest reads as well as some classics. Our program hopes to encourage more adult literacy and expand access to the library's collections. For people who are interested in sharing their latest read or are just looking for something new, this is the program for you!\nAssistive Listening and ASL\nASL interpretation and real-time captioning (CART) are available upon request.\nPlease submit your request via this form\nor contact the hosting library at least two weeks in advance.\n",
+      "evidence_date": "2026-11-30",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "clinton-hill-book-club-women-s-writes",
+      "name": "Clinton Hill Book Club: Women’s Writes",
+      "aliases": [
+        "Clinton Hill Book Club: Women’s Writes"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Clinton Hill",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Genre fiction by women",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Adults",
+      "eligibility": "Register on event page; no need to finish book",
+      "cost": "No fee listed",
+      "recurrence": "Monthly",
+      "current_book": "The Measure — Nikki Ehrlich [spelling as listed by BPL]",
+      "current_book_date": "2026-11-24",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-11-24",
+      "meeting_dates": [
+        "2026-11-24"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-24",
+      "undated_books": [],
+      "notes": [
+        "Following selection not found in inspected official listings."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.bklynlibrary.org/calendar/clinton-hill-book-club-clinton-hill-meeting-room-20261124-0630pm",
+      "sources": [
+        "https://www.bklynlibrary.org/calendar/clinton-hill-book-club-clinton-hill-meeting-room-20261124-0630pm"
+      ],
+      "evidence": "Events & Classes\nClinton Hill Book Club: Women's Writes\nClinton Hill Book Club: Women's Writes\nTue, Nov 24 2026\n6:30 pm – 7:30 pm\nClinton Hill, Meeting Room\nadults\nbook club\nbook discussion\nWomen’s Writes is a monthly book club where we read genre fiction (fantasy, thriller, romance, you name it~) authored by women. November's read will be\nThe Measure\nby Nikki Ehrlich.\nYou don't need to have finished the book to participate in the discussion!\nCopies will be available in the branch November 1st, please register your attendance.\nAbout the Book:\nA luminous, spirit-lifting blockbuster that asks: would you choose to find out the length of your life?\nEight ordinary people. One extraordinary choice.\nIt seems like any other day. You wake up, drink a cup of coffee, and head out.\nBut today, when you open your front door, waiting for you is a small wooden box. The contents of this mysterious box tells you the exact number of years you will live.\nFrom suburban doorsteps to desert tents, every person on every continent receives the same box. In an instant, the world is thrust into a collective fr… (see linked primary page)",
+      "evidence_date": "2026-11-24",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "dee-s-global-reads",
+      "name": "Dee's Global Reads",
+      "aliases": [
+        "Dee's Global Reads"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Sunnyside",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Identity; memory; current events through literature",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; reconfirm activity",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Sloth Brew Coffee; registration form linked",
+      "cost": "Not verified",
+      "recurrence": "Recurring club with previous selections",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": null,
+      "undated_books": [],
+      "notes": [
+        "Listed as currently registered, but month/day copy lacks year. Current and next books withheld rather than asserting 2026. Confirm with organizer."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.astoriabookshop.com/bookclubs",
+      "sources": [
+        "https://www.astoriabookshop.com/bookclubs"
+      ],
+      "evidence": "Dee's Global Reads\n\nIn the summer of 2026, fellow rock climbers and Sunnyside residents Dragica (Dee) Mikavica and the Sloth Brew Coffee owners Omar Poyah and Andrew Calderon merged their love of Sunnyside, coffee and reading with discussion of a new book club. \n\nOur book club focuses on community building and positive reflections around identity, memory and related topics, creating opportunities for reflection on current events from a human angle. When possible and available, the book club will invite featured authors for special appearances and create mini fundraisers for causes dear to its curator Dee’s heart and aligned with Sloth Brew Coffee’s vision. Each curated read will coalesce in thoughtful actions to bring some more good into the world, accompanied by a cup of “Book Club Brew.”\n\n\n\n\nRoses, in the Mouth of a Lion\nBushra Rehman\n\nOur next meeting will be in December at Sloth's Brew Coffee in Sunnyside. Register here: https://forms.gle/MEso9QQqYT6a8Aty6\n\n\n\nThe Affairs of the Falcóns\nMy Pen Is the Wing of a Bird\n \nView all 2 products\n",
+      "evidence_date": null,
+      "selected_track": "institutions"
+    },
+    {
+      "id": "dream-couple-romance-book-club-with-831-stories",
+      "name": "Dream Couple: Romance Book Club with 831 Stories",
+      "aliases": [
+        "Dream Couple: Romance Book Club with 831 Stories"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Downtown Brooklyn",
+      "format": "in-person shared-book discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Romance across eras and subgenres",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Recent activity; next unknown",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "No specific restriction found; confirm RSVP requirements.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [
+        "2026-11-02"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-02",
+      "undated_books": [],
+      "notes": [
+        "Pairs contemporary novellas with romance canon."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://mcnallyjackson.com/events/2026/11",
+      "sources": [
+        "https://mcnallyjackson.com/events/2026/11",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/"
+      ],
+      "evidence": "Official indexed McNally calendar/event gives physical store and meeting date.",
+      "evidence_date": "2026-11-02",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "francis-martin-library-book-talks",
+      "name": "Francis Martin Library Book Talks",
+      "aliases": [
+        "Francis Martin Library Book Talks"
+      ],
+      "boroughs": [
+        "Bronx"
+      ],
+      "location": "Bronx, University Heights",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Varied genres",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Adults; also tagged 50+ (not an age restriction)",
+      "eligibility": "Registration not required; fully accessible",
+      "cost": "Free NYPL program",
+      "recurrence": "Book Talk Series",
+      "current_book": "Whalefall — Daniel Kraus",
+      "current_book_date": "2026-11-24",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-11-24",
+      "meeting_dates": [
+        "2026-11-24"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-24",
+      "undated_books": [],
+      "notes": [],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.nypl.org/events/programs/2026/11/24/book-talks-whalefall-novel-daniel-kraus",
+      "sources": [
+        "https://www.nypl.org/events/programs/2026/11/24/book-talks-whalefall-novel-daniel-kraus"
+      ],
+      "evidence": "Date and Time\nTuesday, November 24, 2026\n5 PM\n–\n6 PM\nEnd times are approximate. Events may end early or late.\nmapsPlace icon\nLocation\nFrancis Martin Library\n, Community Room\naccessibilityFull icon\nFully accessible\nactionIdentityFilled icon\nRelevant for\nAdults, 50+, Book Lovers\nactionTaskAlt icon\nRegistration\nOnline registration\nEvent Details\nThis program is in person.\nJoin the the discussion with our Book Talk Series!\nEnjoy a series of curated selections and discussion by NYPL staff spanning different genres.\nThis month we are discussing\nWhalefall\nby Daniel Kraus. Copies are available at the circulation desk on the first floor and can be reserved at your local library. This title is also available in\nebook, audiobook, and book.\nSummary:\nJay Gardiner has given himself a fool's errand--to find the remains of his deceased father in the Pacific Ocean off the coast of Monastery Beach. He knows it's a long shot, but Jay feels it's the only way for him to lift the weight of guilt he has carried since his dad's death by suicide the previous year. The dive begins well enough, but the sudden a… (see linked primary page)",
+      "evidence_date": "2026-11-24",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "gerritsen-beach-library-book-talks",
+      "name": "Gerritsen Beach Library Book Talks",
+      "aliases": [
+        "Gerritsen Beach Library Book Talks"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Gerritsen Beach",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "General fiction / thriller",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Adults",
+      "eligibility": "Library discussion; see event page; borrowing copies available",
+      "cost": "No fee listed",
+      "recurrence": "Named book discussion group; cadence not stated on inspected event",
+      "current_book": "The Spy Coast — Tess Gerritsen",
+      "current_book_date": "2026-11-23",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-11-23",
+      "meeting_dates": [
+        "2026-11-23"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-23",
+      "undated_books": [],
+      "notes": [
+        "Following selection not found in inspected official listings."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.bklynlibrary.org/calendar/book-talks-spy-coast-tess-gerritsen-beach-library-20261123-0200pm",
+      "sources": [
+        "https://www.bklynlibrary.org/calendar/book-talks-spy-coast-tess-gerritsen-beach-library-20261123-0200pm"
+      ],
+      "evidence": "Events & Classes\nBook Talks: The Spy Coast by Tess Gerritsen\nBook Talks: The Spy Coast by Tess Gerritsen\nMon, Nov 23 2026\n2:00 pm – 3:00 pm\nGerritsen Beach Library\nadults\nbook club\nbook discussion\nJoin our book discussion group on The Spy Coast by Tess Gerritsen. Share your thoughts on the book and get to know other readers in your community.\nWhen a body turns up in her driveway, former spy Maggie Bird, forced into retirement after a mission went tragically wrong, turns to her \"Martini Club\" of former spies to help her uncover the truth about who is trying to kill her, and why.\nPlace your copy on hold with our online\ncatalog\nor visit the branch to check it out. No need to finish the book beforehand. All are welcome!\nGerritsen Beach Library\n2808 Gerritsen Ave.\nBrooklyn\n,\nNY\n11229\nGet Directions\n",
+      "evidence_date": "2026-11-23",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "hidden-gems-book-club",
+      "name": "Hidden Gems Book Club",
+      "aliases": [
+        "Astoria Bookshop Hidden Gems Book Club",
+        "Hidden Gems Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Astoria",
+      "format": "in-person shared-book discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Literary fiction, overlooked books",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Recent activity; next unknown",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Buying the book is RSVP according to local guide.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [
+        "2026-11-18"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-18",
+      "undated_books": [],
+      "notes": [
+        "Official club page returned JS shell; homepage search evidence and local guide used.",
+        "Merged aliases and source tracks; the selected date-specific record governs the card. Older claims retained in source history, not used to override newer evidence."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://astoriabookshop.com/book-clubs/book-clubs",
+      "sources": [
+        "https://astoriabookshop.com/book-clubs/book-clubs",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/",
+        "https://astorialive.com/guides/book-clubs-in-astoria-queens",
+        "https://astoriabookshop.com/",
+        "https://www.astoriabookshop.com/bookclubs"
+      ],
+      "evidence": "Official indexed homepage: November 18 meeting for A Quiet Place by Seicho Matsumoto. Local guide: last Wednesday 7–8pm, holidays may move dates.",
+      "evidence_date": "2026-11-18",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "howard-beach-library-book-club",
+      "name": "Howard Beach Library Book Club",
+      "aliases": [
+        "Howard Beach Library Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Howard Beach",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "General book discussion; selection unknown",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Recent activity; next unknown",
+      "default_eligible": true,
+      "age_evidence": "Adults 19+ (PDF legend defines A)",
+      "eligibility": "Branch meeting room unless otherwise specified; Broadway: Small Auditorium",
+      "cost": "No fee listed",
+      "recurrence": "Named club in November branch calendar; cadence not stated",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": "2026-11-12",
+      "undated_books": [],
+      "notes": [
+        "QPL ransomware/network outage: official notice says some in-person programs may be affected. Call branch to confirm; December selection not available on inspected fallback calendar."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://static.libnet.info/frontend-images/pdfs/queens/Howard_Beach_Calendar_November2026_AllAges.pdf",
+      "sources": [
+        "https://static.libnet.info/frontend-images/pdfs/queens/Howard_Beach_Calendar_November2026_AllAges.pdf",
+        "https://connect.queenslibrary.org/17906",
+        "https://www.queenslibrary.org/"
+      ],
+      "evidence": "Official November 2026 branch calendar lists Howard Beach Library Book Club on 2026-11-12 at 17:30. PDF specifies programs occur in Meeting Room unless otherwise noted; Ridgewood Mystery is explicitly offsite at DADA Café.",
+      "evidence_date": "2026-11-12",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "macon-library-book-club",
+      "name": "Macon Library Book Club",
+      "aliases": [
+        "Macon Library Book Club"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Bedford-Stuyvesant",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Varied books; speculative fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Adults",
+      "eligibility": "Library discussion; see event page; borrowing copies available",
+      "cost": "No fee listed",
+      "recurrence": "Monthly; first Tuesday",
+      "current_book": "Ply — Hernan Diaz",
+      "current_book_date": "2026-12-01",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-01",
+      "meeting_dates": [
+        "2026-12-01"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-01",
+      "undated_books": [],
+      "notes": [
+        "Following selection not found in inspected official listings."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.bklynlibrary.org/calendar/macon-library-book-club-macon-dionne-mack-harvin-20261201-0600pm",
+      "sources": [
+        "https://www.bklynlibrary.org/calendar/macon-library-book-club-macon-dionne-mack-harvin-20261201-0600pm"
+      ],
+      "evidence": "Events & Classes\nMacon Library Book Club: Ply by Hernan Diaz\nMacon Library Book Club: Ply by Hernan Diaz\nTue, Dec 1 2026\n6:00 pm – 7:30 pm\nMacon, Dionne Mack-Harvin Heritage Center\nadults\nbook club\nbook discussion\nJoin the Macon Library Book Club for our discussion on\nPly\nby Hernan Diaz! Come share your thoughts on the book and get to know other readers in your community.\n\"Centuries from now, at the dawn of a historical epoch filled with both uncertainty and promise, an orphan is adrift in a city on the brink of a great transformation. The state has been dismantled, and humans are reinventing social bonds and learning new ways to coexist with nature. Following a childhood defined by loss, survival, and found family, the orphan grows up to become a \"pincher,\" someone who steals electricity from the grid to sell it on the black market. It's a high-risk life, one that brings her into a rich art and music scene where she powers underground concerts. It also leads her to a colossal scientific invention that could change the very fabric of reality\".\nPlace your copy on hold with our\nonline … (see linked primary page)",
+      "evidence_date": "2026-12-01",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "mcnally-jackson-2666-in-6-months",
+      "name": "McNally Jackson — 2666 in 6 (Months)",
+      "aliases": [
+        "McNally Jackson — 2666 in 6 (Months)"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, Seaport",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Literary classics; sustained single-novel reading",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Finite course / series",
+      "status": "Finite course / series",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "RSVP via official event page; ticket cost not inspected",
+      "cost": "Not verified",
+      "recurrence": "Six-month finite reading group",
+      "current_book": "2666 — Roberto Bolaño — pages 350–500",
+      "current_book_date": "2026-12-07",
+      "following_book": "2666 — Roberto Bolaño — pages 501–633",
+      "following_book_date": "2027-01-07",
+      "next_meeting": "2026-12-07",
+      "meeting_dates": [
+        "2026-12-07",
+        "2027-01-07"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-07",
+      "undated_books": [],
+      "notes": [],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://mcnallyjackson.com/event/2026-12-07/2666-6-months-session-iii",
+      "sources": [
+        "https://mcnallyjackson.com/event/2026-12-07/2666-6-months-session-iii",
+        "https://mcnallyjackson.com/event/2027-01-07/2666-6-months-session-iv"
+      ],
+      "evidence": "\n2666 IN 6 (MONTHS): SESSION III\nMon, 12/7/2026 - 7:00pm\nPLACE:\n\nMcNally Jackson Seaport\n4 Fulton Street\nNew York, NY 10038\n\n\nRSVP HERE\nTO 2666 IN 6 (MONTHS): SESSION III OPENS IN NEW TAB\nBook Club\n\n2666 in 6 (months). Join us for a monthly discussion of Bolaño's masterpiece, 2666. We will read the novel together, ~150 pages a month over six months. For our third meeting, please arrive having read and ready to discuss pgs. 350-500.\n\n“Indeed, Bolaño produced not only a supreme capstone to his own vaulting ambition, but a landmark in what's possible for the novel as a form in our increasingly, and terrifyingly, postnational world.” —Jonathan Lethem, The New York Times Book Review\n\n“One of those strange, exquisite, and astonishing experiences that literature offers us only once in a very long time . . . to see . . . a writer in full pursuit of the Total Novel, one that not only completes his life's work but redefines it and raises it to new dizzying heights.” —Rodrigo Fresán, El País\n\nComposed in the last years of Roberto Bolaño's life, 2666 was greeted across Europe and Latin America a… (see linked primary page)",
+      "evidence_date": "2026-12-07",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "mcnally-jackson-bygone-gothic-book-club-with-jordan",
+      "name": "McNally Jackson — Bygone Gothic Book Club with Jordan",
+      "aliases": [
+        "McNally Jackson — Bygone Gothic Book Club with Jordan",
+        "Bygone Gothic Book Club with Jordan"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, SoHo",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Gothic literature",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "RSVP via official event page; ticket cost not inspected",
+      "cost": "Not verified",
+      "recurrence": "Recurring named club",
+      "current_book": "Carmilla — Sheridan Le Fanu",
+      "current_book_date": "2026-12-16",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-16",
+      "meeting_dates": [
+        "2026-12-16"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-16",
+      "undated_books": [],
+      "notes": [
+        "Merged aliases and source tracks; the selected date-specific record governs the card. Older claims retained in source history, not used to override newer evidence."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://mcnallyjackson.com/event/2026-12-16/bygone-gothic-book-club-jordan",
+      "sources": [
+        "https://mcnallyjackson.com/event/2026-12-16/bygone-gothic-book-club-jordan",
+        "https://mcnallyjackson.com/events/tags/book-club",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/"
+      ],
+      "evidence": "\nBYGONE GOTHIC BOOK CLUB WITH JORDAN\nWed, 12/16/2026 - 6:30pm\nPLACE:\n\nMcNally Jackson SoHo\n134 Prince Street\nNew York, NY 10012\n\n\nRSVP HERE\nTO BYGONE GOTHIC BOOK CLUB WITH JORDAN OPENS IN NEW TAB\nBook Club\n\nStep back in time to a bygone era, where beneath flickering lantern lights, dirty, corrupting tales were read in quiet secrecy: the Victorian era, where that monstrous genre of Gothic literature was born. Enclosed within dimly lit bookshelves, we will bring back to life the horrid conversations that have turned forbidden stories into classic texts. We will discuss the ghosts, gays, and gargoyles which have, for ceturies, stirred up a fright. Why are these novels filled with such madness? And why are they often quite queer? For anyone dying to answer these questions, hungry for a bite of Mary Shelley's prose, seduced by Oscar Wilde's words, or simply curious as to what this historic genre has to offer, this is the book club for you. \n\nThis month we'll discuss Sheridan Le Fanu's, original vampire story that inspired Dracula, in which Sapphic longing meets gothic horror, Carmilla.\n\nS… (see linked primary page)",
+      "evidence_date": "2026-12-16",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "mcnally-jackson-enzo-morgan-s-batshit-book-club",
+      "name": "McNally Jackson — Enzo & Morgan’s Batshit Book Club",
+      "aliases": [
+        "McNally Jackson — Enzo & Morgan’s Batshit Book Club",
+        "Enzo & Morgan’s Batshit Book Club"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, Seaport",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Experimental/transgressive literature",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Sold out; email bookclubs@mcnallyjackson.com for waitlist",
+      "cost": "Not verified",
+      "recurrence": "Recurring named club",
+      "current_book": "SCUM Manifesto — Valerie Solanas",
+      "current_book_date": "2026-12-11",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-11",
+      "meeting_dates": [
+        "2026-12-11"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-11",
+      "undated_books": [],
+      "notes": [
+        "Merged aliases and source tracks; the selected date-specific record governs the card. Older claims retained in source history, not used to override newer evidence."
+      ],
+      "angle": "Transgressive literature; upcoming SCUM Manifesto is radical feminist writing.",
+      "rank": 60,
+      "official_url": "https://mcnallyjackson.com/event/2026-12-11/enzo-morgans-batshit-book-club",
+      "sources": [
+        "https://mcnallyjackson.com/event/2026-12-11/enzo-morgans-batshit-book-club",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/"
+      ],
+      "evidence": "\nENZO & MORGAN'S BATSHIT BOOK CLUB\nFri, 12/11/2026 - 7:00pm\nPLACE:\n\nMcNally Jackson Seaport\n4 Fulton Street\nNew York, NY 10038\n\n\nSOLD OUT!\nTO ENZO & MORGAN'S BATSHIT BOOK CLUB OPENS IN NEW TAB\nBook Club\n\nAre you too hardcore for the current state of American letters? The tragic truth is that most new books seem afraid to shock, experiment, offend, get weird. Is there still a place in this world for the freaky girlies? The answer is yes. Morgan and Enzo are two booksellers at McNally Jackson Seaport who delight in the decadent, the debased, and the degenerate. Now, they open their private reading circle to the last libertines in New York. This won’t be a cozy time by the fireplace. We don’t talk to Reese Witherspoon. We don’t know Oprah. This is Batshit Book Club, and baby, there will be no seatbelts.\n\nThis month we'll discuss SCUM Manifesto, the classic radical feminist statement from the woman who shot Andy Warhol, Valerie Solanas.\n\n“The SCUM Manifesto is a document of profound vulnerability, written in a voice of profound empowerment. It’s a brutal call to arms, written by a woman … (see linked primary page)",
+      "evidence_date": "2026-12-11",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "mcnally-jackson-literary-black-book-club-with-genay",
+      "name": "McNally Jackson — Literary Black Book Club with Genay",
+      "aliases": [
+        "McNally Jackson — Literary Black Book Club with Genay",
+        "Literary Black Book Club with Genay"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Downtown Brooklyn",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Contemporary Black fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "RSVP via official event page; ticket cost not inspected",
+      "cost": "Not verified",
+      "recurrence": "Monthly",
+      "current_book": "The Four Wives and Five Deaths of Richard Milford — Nafissa Thompson-Spires",
+      "current_book_date": "2026-12-01",
+      "following_book": "The Old Drift — Namwali Serpell",
+      "following_book_date": "2027-01-05",
+      "next_meeting": "2026-12-01",
+      "meeting_dates": [
+        "2026-12-01",
+        "2027-01-05"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-01",
+      "undated_books": [],
+      "notes": [
+        "Merged aliases and source tracks; the selected date-specific record governs the card. Older claims retained in source history, not used to override newer evidence."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://mcnallyjackson.com/event/2026-12-01/literary-black-book-club-genay",
+      "sources": [
+        "https://mcnallyjackson.com/event/2026-12-01/literary-black-book-club-genay",
+        "https://mcnallyjackson.com/event/2027-01-05/literary-black-book-club-genay",
+        "https://mcnallyjackson.com/events/2026/11",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/"
+      ],
+      "evidence": "\nLITERARY BLACK BOOK CLUB WITH GENAY\nTue, 12/1/2026 - 7:00pm\nPLACE:\n\nMcNally Jackson Downtown Brooklyn\n445 Albee Square West\nBrooklyn, NY 11201\n\n\nRSVP HERE\nTO LITERARY BLACK BOOK CLUB WITH GENAY OPENS IN NEW TAB\nBook Club\n\nThe Literary Black Book Club will meet every month to discuss mostly contemporary fiction written by Black authors.  We'll also share a light snack and hopefully some laughs.\n\nThis month we'll discuss Nafissa Thompson Spires' sly, spry, literary debut novel about the murder of an infamous moonshiner and the cacophony of true stories a small town can tell about itself, The Four Wives and Five Deaths of Richard Milford.\n\n\"A deeply satisfying novel that cracles as much with Thompson-Spires's singular intelligence as it does with mystery. I loved this ode to wild women, small towns, wily rumors and Black humor so much. A must-read.\"—Angela Flournoy, author of The Wilderness\n\n\"That Nafissa Thompson-Spires can conjure so much atmosphere in so few pages is both a feat and a mystery. From oil money to the rodeo, electric love and sudden death, Oklahoma positively blooms wi… (see linked primary page)",
+      "evidence_date": "2026-12-01",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "mcnally-jackson-new-book-book-club-with-sarah",
+      "name": "McNally Jackson — New Book Book Club with Sarah",
+      "aliases": [
+        "McNally Jackson — New Book Book Club with Sarah"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, Seaport",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "New literary fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Sold out; email bookclubs@mcnallyjackson.com for waitlist",
+      "cost": "Not verified",
+      "recurrence": "Recurring named club",
+      "current_book": "May We Feed the King — Rebecca Perry",
+      "current_book_date": "2026-12-03",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-03",
+      "meeting_dates": [
+        "2026-12-03"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-03",
+      "undated_books": [],
+      "notes": [],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://mcnallyjackson.com/event/2026-12-03/new-book-book-club-sarah",
+      "sources": [
+        "https://mcnallyjackson.com/event/2026-12-03/new-book-book-club-sarah"
+      ],
+      "evidence": "\nNEW BOOK BOOK CLUB WITH SARAH\nThu, 12/3/2026 - 6:30pm\nPLACE:\n\nMcNally Jackson Seaport\n4 Fulton Street\nNew York, NY 10038\n\n\nSOLD OUT!\nTO NEW BOOK BOOK CLUB WITH SARAH OPENS IN NEW TAB\nBook Club\n\nThis month we'll discuss Finalist for the 2026 Booker Prize and winner of the 2026 Waterstones Debut Fiction Prize, Rebecca Perry's novel in which a curator is absorbed in the medieval world of a reluctant monarch, May We Feed the King. \n\nA curator spends her days reconstructing the past--selecting and carefully arranging furniture, fabrics, and replica food to bring medieval rooms back to life. Whether it's a feast with spilling platters or a table for two littered with small hints of intimacy, it must appear as if the people have just left the room.\n\nAfter accepting a commission to work on the private quarters of a medieval palace, the curator becomes absorbed in the story of a king almost forgotten by history. As she studies the traces he left behind, the boundary between her own life and his begins to blur.\n\nThe King is an unlikely ruler: a man with little appetite for power, hurried to t… (see linked primary page)",
+      "evidence_date": "2026-12-03",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "mcnally-jackson-new-directions-book-club",
+      "name": "McNally Jackson — New Directions Book Club",
+      "aliases": [
+        "McNally Jackson — New Directions Book Club"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, SoHo",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Literary fiction; translated literature",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Sold out; email bookclubs@mcnallyjackson.com for waitlist",
+      "cost": "Not verified",
+      "recurrence": "Recurring named club",
+      "current_book": "Seiobo There Below — László Krasznahorkai",
+      "current_book_date": "2026-12-01",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-01",
+      "meeting_dates": [
+        "2026-12-01"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-01",
+      "undated_books": [],
+      "notes": [],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://mcnallyjackson.com/event/2026-12-01/new-directions-book-club",
+      "sources": [
+        "https://mcnallyjackson.com/event/2026-12-01/new-directions-book-club"
+      ],
+      "evidence": "\nNEW DIRECTIONS BOOK CLUB\nTue, 12/1/2026 - 7:00pm\nPLACE:\n\nMcNally Jackson SoHo\n134 Prince Street\nNew York, NY 10012\n\n\nSOLD OUT!\nTO NEW DIRECTIONS BOOK CLUB OPENS IN NEW TAB\nBook Club\n\nJoin the New Directions crew on an odyssey, no caper, called: THE LIFE OF THE MIND (to borrow a beloved expression by Helen DeWitt). We'll read staff favorites and New Directions staples with an emphasis on writerly genius and comic relief; and for each doorstopping magnum opus there's a jewel of a book so slight we could barely get a spine on it. Do you have to have read HERSCHT 07768 to understand HERSCHT 07769? If you know you know. If you don't know, come and find out... there will be wine....\n\nThis month we'll discuss Nobel winner László Krasznahorkai's series of vignettes meditating on the creation and reception of artistic masterworks, Seiobo There Below, translated by Ottilie Mulzet.   \n\nNear-infinite sentences in a nonlinear narrative shuttling across time and space, linked only by occasional appearances from a Japanese goddess? It sounds daunting, I realize. Yet the amazing thing about Seiobo … (see linked primary page)",
+      "evidence_date": "2026-12-01",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "mcnally-jackson-short-er-slavic-novels-book-club-with-arya",
+      "name": "McNally Jackson — Short(er) Slavic Novels Book Club with Arya",
+      "aliases": [
+        "McNally Jackson — Short(er) Slavic Novels Book Club with Arya"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Downtown Brooklyn",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Slavic fiction under 300 pages; English translation",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "RSVP via official event page; ticket cost not inspected",
+      "cost": "Not verified",
+      "recurrence": "Monthly",
+      "current_book": "Netochka Nezvanova — Fyodor Dostoevsky",
+      "current_book_date": "2026-12-07",
+      "following_book": "A Double Life — Karolina Pavlova",
+      "following_book_date": "2027-01-04",
+      "next_meeting": "2026-12-07",
+      "meeting_dates": [
+        "2026-12-07",
+        "2027-01-04"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-07",
+      "undated_books": [],
+      "notes": [],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://mcnallyjackson.com/event/2026-12-07/shorter-slavic-novels-book-club-arya",
+      "sources": [
+        "https://mcnallyjackson.com/event/2026-12-07/shorter-slavic-novels-book-club-arya",
+        "https://mcnallyjackson.com/event/2027-01-04/shorter-slavic-novels-book-club-arya"
+      ],
+      "evidence": "\nSHORT(ER) SLAVIC NOVELS BOOK CLUB WITH ARYA\nMon, 12/7/2026 - 6:30pm\nPLACE:\n\nMcNally Jackson Downtown Brooklyn\n445 Albee Square West\nBrooklyn, NY 11201\n\n\nRSVP HERE\nTO SHORT(ER) SLAVIC NOVELS BOOK CLUB WITH ARYA OPENS IN NEW TAB\nBook Club\n\nAre you intimidated by the great (and by great, we mean looooooong) novels of Dostoevsky or Tolstoy, Ulitskaya and Tokarczuk? Novels over 500 pages may not be a crime to read, but they can, at times, feel like a punishment to finish. That’s why we're is introducing SHORT(ER) SLAVIC NOVELS, a book club dedicated to Russian, Ukrainian, Polish, Belarusian, Czech, etc. novels under 300 pages. All titles will be read in English, so previous knowledge of Slavic languages is NOT required. (Uk)Rain(e) or shine, czech out our Downtown Brooklyn location every month for classic and contemporary Slavic fiction. За встречу!\n\nThis month we'll discuss Fyodor Dostoevsky's unfinished novel, Netochka Nezvanova, translated by Jane Kentish. \n\nNetochka Nezvanova—a \"Nameless Nobody\"—tells the story of a childhood dominated by her stepfather, Efimov, a failed musician who… (see linked primary page)",
+      "evidence_date": "2026-12-07",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "mcnally-jackson-the-kit-b-club-with-maria",
+      "name": "McNally Jackson — The Kitāb Club with Maria",
+      "aliases": [
+        "McNally Jackson — The Kitāb Club with Maria",
+        "The Kitāb Club with Maria"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Downtown Brooklyn",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Arab fiction and nonfiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "RSVP via official event page; ticket cost not inspected",
+      "cost": "Not verified",
+      "recurrence": "Recurring named club",
+      "current_book": "Good News — Alexa Yasemin Brahme",
+      "current_book_date": "2026-12-11",
+      "following_book": "When We Were Arabs: A Jewish Family’s Forgotten History — Massoud Hayoun",
+      "following_book_date": "2027-01-21",
+      "next_meeting": "2026-12-11",
+      "meeting_dates": [
+        "2026-12-11",
+        "2027-01-21"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-11",
+      "undated_books": [],
+      "notes": [
+        "Merged aliases and source tracks; the selected date-specific record governs the card. Older claims retained in source history, not used to override newer evidence."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://mcnallyjackson.com/event/2026-12-11/kitab-club-maria-0",
+      "sources": [
+        "https://mcnallyjackson.com/event/2026-12-11/kitab-club-maria-0",
+        "https://mcnallyjackson.com/event/2027-01-21/kitab-club-maria",
+        "https://mcnallyjackson.com/events/tags/book-club",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/"
+      ],
+      "evidence": "\nTHE KITĀB CLUB WITH MARIA\nFri, 12/11/2026 - 7:00pm\nPLACE:\n\nMcNally Jackson Downtown Brooklyn\n445 Albee Square West\nBrooklyn, NY 11201\n\n\nRSVP HERE\nTO THE KITĀB CLUB WITH MARIA OPENS IN NEW TAB\nBook Club\n\nKitāb (کتاب) : an Arabic word meaning book. Join Maria's Kitāb club -- a space for Arab texts -- fiction and nonfiction -- to be savored, and dissected. We'll treat the books like a shared feast: everyone brings something (thoughts, opinions etc) and nothing's off the table. Come hungry!!\n\nThis month we'll discuss Alexa Yasemin Brahme's novel about a young artist who struggles to find her way in New York City while navigating strained relationships, the reappearance of an ex, and her burgeoning sense of self, Good News.\n\n“Good News is a book for anyone who has ever felt torn between ambition and self-doubt, the pressure to meet others’ expectations and the thrill of following their own wildest desires into an uncharted future. I devoured this thoughtful, sexy, compelling story of a young artist determined to make something great of her art and herself.”—Naima Coster, NYT-bestselling … (see linked primary page)",
+      "evidence_date": "2026-12-11",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "new-amsterdam-library-book-club",
+      "name": "New Amsterdam Library Book Club",
+      "aliases": [
+        "New Amsterdam Library Book Club"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, Tribeca",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Fiction / horror",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Adults and teens 13–18",
+      "eligibility": "Fully accessible branch; see registration on event page",
+      "cost": "Free NYPL program",
+      "recurrence": "Book discussion listing; ongoing cadence not independently established",
+      "current_book": "The Only Good Indians — Stephen Graham Jones",
+      "current_book_date": "2026-12-01",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-01",
+      "meeting_dates": [
+        "2026-12-01"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-01",
+      "undated_books": [],
+      "notes": [],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.nypl.org/events/programs/2026/12/01/book-club-only-good-indians-2020-stephen-graham-jones",
+      "sources": [
+        "https://www.nypl.org/events/programs/2026/12/01/book-club-only-good-indians-2020-stephen-graham-jones"
+      ],
+      "evidence": "Date and Time\nTuesday, December 1, 2026\n5:30 PM\n–\n6:30 PM\nEnd times are approximate. Events may end early or late.\nmapsPlace icon\nLocation\nNew Amsterdam Library\n, Auditorium\naccessibilityFull icon\nFully accessible\nactionIdentityFilled icon\nRelevant for\nAdults, Book Lovers, Teens/Young Adults (13-18 years)\nactionTaskAlt icon\nRegistration\nOnline registration\nEvent Details\nJoin me at your local library for a book discussion on The Only Good Indians by Blackfeet author Stephen Graham Jones\nRegistration\nEmail\n(required)\nEx:\njdoe@domain.com\nName\n(required)\nPhone number\nLibrary barcode\nRegister Now\nAssistive Listening and ASL\nASL interpretation and real-time captioning (CART) are available upon request.\nPlease submit your request via this form\nor contact the hosting library at least two weeks in advance.\n",
+      "evidence_date": "2026-12-01",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "once-upon-a-tome",
+      "name": "Once Upon a Tome",
+      "aliases": [
+        "Once Upon a Tome"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, Upper West Side",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Fantasy; romance; dark academia; women writers",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": false,
+      "age_evidence": "UWS women in their 30s",
+      "eligibility": "Join/request to join through Bookclubs for exact venue",
+      "cost": "Not verified",
+      "recurrence": "Monthly",
+      "current_book": null,
+      "current_book_date": "2026-12-10",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-12-10",
+      "meeting_dates": [
+        "2026-12-10"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-12-10",
+      "undated_books": [],
+      "notes": [
+        "Host-managed in-person directory listing; venue not public. Reading-next cover not recoverable as text; wishlist books are not assigned selections."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://bookclubs.com/join-a-book-club/club/once-upon-a-tome-3",
+      "sources": [
+        "https://bookclubs.com/join-a-book-club/club/once-upon-a-tome-3"
+      ],
+      "evidence": "Join Once Upon a Tome | Bookclubs\nSkip to content\nJoin a Book club\nFind a book\nSearch books\nTop Books\nBook Talk\nGreat Indie Reads\nGiveaways\nBlog\nDiscussion guides\nSign In\nSign up\nOnce Upon a Tome\nUpper West Side, Manhattan, New York, NY, USA\nNext meeting:\nThursday, December 10 2026\n5\nmembers\nREQUEST TO JOIN\nReading next...\nAbout\nOnce Upon a Tome\nOnce Upon A Tome is a book club for UWS women in their 30s who love reading about dark academia, fantasy, romance, and stories written by women, for women. This is a place to connect and meet new friends in a relaxed, welcoming environment. 💖\nWe meet monthly on the UWS, Manhattan - sign up to learn about our next meetup!\nBooks We Want to Read\nHalf City (Harker Academy)\nby\nKate Golden\nAverage rating:\n7.43\nThe Irresistible Urge to Fall for Your Enemy: Book 1 of the Dearly Beloathed Duology\nby\nBrigitte Knightley\nAverage rating:\n7.14\nWeavingshaw\nby\nHeba Al-Wasity\nAverage rating:\n8.71\nThrone of Glass\nby\nSarah J. Maas\nAverage rating:\n7.97\nView more\nBrowse related public book clubs:\nLocal (in-person)\nGenre-focused\nReader community\nRomance\nFantasy\nFe… (see linked primary page)",
+      "evidence_date": "2026-12-10",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "pelham-bay-library-adult-book-discussion",
+      "name": "Pelham Bay Library Adult Book Discussion",
+      "aliases": [
+        "Pelham Bay Library Adult Book Discussion"
+      ],
+      "boroughs": [
+        "Bronx"
+      ],
+      "location": "Bronx, Pelham Bay",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "General fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Recent activity; next unknown",
+      "default_eligible": true,
+      "age_evidence": "Adults; also tagged 50+ (not an age restriction)",
+      "eligibility": "Fully accessible branch; see registration on event page",
+      "cost": "Free NYPL program",
+      "recurrence": "Monthly",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": "Meet me in The Garden — Nina LaCour",
+      "past_book_date": "2026-11-20",
+      "undated_books": [],
+      "notes": [
+        "Past November 20 selection, not current. Future date/book unknown."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.nypl.org/events/programs/2026/11/20/adult-book-discussion-meet-me-garden",
+      "sources": [
+        "https://www.nypl.org/events/programs/2026/11/20/adult-book-discussion-meet-me-garden"
+      ],
+      "evidence": "Date and Time\nFriday, November 20, 2026\n1 PM\n–\n2 PM\nEnd times are approximate. Events may end early or late.\nmapsPlace icon\nLocation\nPelham Bay Library\naccessibilityFull icon\nFully accessible\nactionIdentityFilled icon\nRelevant for\nAdults, 50+\nEvent Details\nJoin us in person at the Pelham Bay Library to discuss the latest edition of our monthly book club.\nThis month we will be reading:\nMeet me in The Garden\nby Nina LaCour\n\"New Orleans, 1944. Odette has always been one of the Honore sisters, glamorous and admired in their Creole community. But while Odette's older sisters are content to be wives and mothers, Odette has always wanted something else. It is only with her beloved cousin, Delphine, that Odette can tell her secret: she is in love with a woman, and she longs to be an artist. Delphine has a secret lover, too, a white man. In the hidden garden they've discovered, Odette and Delphine can dream of futures full of passion and freedom. But five years later, Odette's life is nothing like what she'd planned. She's a widowed mother, living in Los Angeles, and she and Delphine, who is … (see linked primary page)",
+      "evidence_date": "2026-11-20",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "reading-rhythms-nyc",
+      "name": "Reading Rhythms — NYC",
+      "aliases": [
+        "Reading Rhythms — NYC"
+      ],
+      "boroughs": [
+        "Manhattan",
+        "Brooklyn",
+        "Queens",
+        "Bronx"
+      ],
+      "location": "Brooklyn, Manhattan, Queens, Bronx; rotating venues",
+      "format": "In-person bring-your-own-book reading parties with conversation/music",
+      "format_group": "Bring your own book",
+      "in_person": true,
+      "topic": "Any book, including history, science, tech and philosophy",
+      "tags": [
+        "Bring your own book"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Ticketed; selected events members-only.",
+      "cost": "Typically $20–30 shown; some Bushwick $28–35; event-specific",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": "2026-11-22",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-11-22",
+      "meeting_dates": [
+        "2026-11-22"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-22",
+      "undated_books": [],
+      "notes": [
+        "No assigned current or next book: BYO format. One organization, not inflated into borough duplicates; no verified age distribution."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://readingrhythms.co/events",
+      "sources": [
+        "https://readingrhythms.co/events"
+      ],
+      "evidence": "Live calendar: Williamsburg Nov 22 18:30; Queens Nov 23 18:30; Harlem Nov 24; Bronx Nov 30.",
+      "evidence_date": "2026-11-22",
+      "selected_track": "ideas"
+    },
+    {
+      "id": "ridgewood-library-mystery-book-club",
+      "name": "Ridgewood Library Mystery Book Club",
+      "aliases": [
+        "Ridgewood Library Mystery Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Ridgewood",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Mystery",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Adults 19+ (PDF legend defines A)",
+      "eligibility": "DADA Café (offsite)",
+      "cost": "No fee listed",
+      "recurrence": "Named club in November branch calendar; cadence not stated",
+      "current_book": null,
+      "current_book_date": "2026-11-24",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-11-24",
+      "meeting_dates": [
+        "2026-11-24"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-24",
+      "undated_books": [],
+      "notes": [
+        "QPL ransomware/network outage: official notice says some in-person programs may be affected. Call branch to confirm; December selection not available on inspected fallback calendar."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://static.libnet.info/frontend-images/pdfs/queens/Ridgewood_Calendar_November2026_Adults.pdf",
+      "sources": [
+        "https://static.libnet.info/frontend-images/pdfs/queens/Ridgewood_Calendar_November2026_Adults.pdf",
+        "https://connect.queenslibrary.org/17906",
+        "https://www.queenslibrary.org/"
+      ],
+      "evidence": "Official November 2026 branch calendar lists Ridgewood Library Mystery Book Club on 2026-11-24 at 18:00. PDF specifies programs occur in Meeting Room unless otherwise noted; Ridgewood Mystery is explicitly offsite at DADA Café.",
+      "evidence_date": "2026-11-24",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "riverdale-library-book-discussion",
+      "name": "Riverdale Library Book Discussion",
+      "aliases": [
+        "Riverdale Library Book Discussion"
+      ],
+      "boroughs": [
+        "Bronx"
+      ],
+      "location": "Bronx, Riverdale",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Literary fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Adults",
+      "eligibility": "Fully accessible branch; see registration on event page",
+      "cost": "Free NYPL program",
+      "recurrence": "Book discussion listing; ongoing cadence not independently established",
+      "current_book": "There There — Tommy Orange",
+      "current_book_date": "2026-11-21",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-11-21",
+      "meeting_dates": [
+        "2026-11-21"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-21",
+      "undated_books": [],
+      "notes": [],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.nypl.org/events/programs/2026/11/21/book-discussion-there-there-tommy-orange",
+      "sources": [
+        "https://www.nypl.org/events/programs/2026/11/21/book-discussion-there-there-tommy-orange"
+      ],
+      "evidence": "Date and Time\nSaturday, November 21, 2026\n12 PM\n–\n1 PM\nEnd times are approximate. Events may end early or late.\nmapsPlace icon\nLocation\nRiverdale Library\naccessibilityFull icon\nFully accessible\nactionIdentityFilled icon\nRelevant for\nAdults\nactionTaskAlt icon\nRegistration\nOnline registration\nEvent Details\nJoin the staff at Riverdale for a  discussion of\nThere There\nby Tommy Orange!\nThere is Jacquie Red Feather, newly sober and working to make it back to the family she left behind. Dene Oxendene, who is pulling his life back together after his uncles death, has come to work at the powwow to honor his memory. Fourteen-year-old Orvil has come to perform traditional dance for the very first time. Together, this chorus of voices tells of the plight of the urban Native American grappling with a complex and painful history, with an inheritance of beauty and spirituality, with communion and sacrifice and heroism.\nTea and refreshments will be available.\nCopies of the book will be available to borrow at the Riverdale Library.\nOr reserve a copy online.\nRegistration\nEmail\n(required)\nEx:\njdoe@doma… (see linked primary page)",
+      "evidence_date": "2026-11-21",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "silent-book-club-nyc",
+      "name": "Silent Book Club NYC",
+      "aliases": [
+        "Silent Book Club NYC"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Prospect Heights",
+      "format": "in-person silent reading; bring your own book",
+      "format_group": "Bring your own book",
+      "in_person": true,
+      "topic": "Any book; silent reading",
+      "tags": [
+        "Bring your own book"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Adults",
+      "eligibility": "Register via Meetup",
+      "cost": "No fee listed",
+      "recurrence": "Recurring citywide reading meetups",
+      "current_book": null,
+      "current_book_date": "2026-11-21",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-11-21",
+      "meeting_dates": [
+        "2026-11-21"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-21",
+      "undated_books": [],
+      "notes": [
+        "No assigned book"
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.bklynlibrary.org/calendar/silent-book-club-nyc-central-library-info-20261121-0200pm",
+      "sources": [
+        "https://www.bklynlibrary.org/calendar/silent-book-club-nyc-central-library-info-20261121-0200pm"
+      ],
+      "evidence": "Events & Classes\nSilent Book Club NYC\nSilent Book Club NYC\nSat, Nov 21 2026\n2:00 pm – 3:30 pm\nCentral Library, Info Commons Lab\nadults\nbook club\nLove Your Library Day\nAre you trying to find some uninterrupted time to focus on your book? Would you like to meet fellow readers from across the five boroughs?\nSilent Book Club NYC\nhosts reading meetups across New York. Join us on a Saturday afternoon at the Brooklyn Public Library!\nThere's no assigned reading, just bring a book or choose one of the many titles at the library, whether it’s something you’re currently enjoying or that book you’ve been meaning to get around to forever. Paper, e-book, or audio — they’re all welcome. We’ll share the books we brought (we’re always on the lookout for our next great read) and then settle in to read silently together.\nPlease register for this event on Meetup.\nCentral Library\n10 Grand Army Plaza\nBrooklyn\n,\nNY\n11238\nGet Directions\n",
+      "evidence_date": "2026-11-21",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "silent-book-club-queens",
+      "name": "Silent Book Club Queens",
+      "aliases": [
+        "Silent Book Club Queens"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Woodside",
+      "format": "in-person silent reading and socializing",
+      "format_group": "Bring your own book",
+      "in_person": true,
+      "topic": "All genres; bring own book",
+      "tags": [
+        "Bring your own book"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; reconfirm activity",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "No specific restriction found; confirm RSVP requirements.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": "2025-04-12",
+      "undated_books": [],
+      "notes": [
+        "No November 2026 activity verified; do not conflate with South Queens chapter."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.instagram.com/silentbookclubqueens",
+      "sources": [
+        "https://www.instagram.com/silentbookclubqueens",
+        "https://www.reddit.com/r/astoria/comments/1dt1ebm/silent_book_club_interest/",
+        "https://www.reddit.com/r/SunnysideQueens/comments/1jx6tue/looking_for_book_club/"
+      ],
+      "evidence": "April 12 2025 commenter says monthly at Donovan’s Woodside and meeting tomorrow noon; July 2024 comment supplies public Instagram.",
+      "evidence_date": "2025-04-12",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "silent-book-club-of-south-queens",
+      "name": "Silent Book Club of South Queens",
+      "aliases": [
+        "Silent Book Club of South Queens"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Howard Beach",
+      "format": "in-person silent reading",
+      "format_group": "Bring your own book",
+      "in_person": true,
+      "topic": "All genres; bring own book",
+      "tags": [
+        "Bring your own book"
+      ],
+      "kind": "Recurring group",
+      "status": "Recent activity; next unknown",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "No specific restriction found; confirm RSVP requirements.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [
+        "2026-11-19"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-02",
+      "undated_books": [],
+      "notes": [
+        "Search expansion from Reddit-discovered Queens chapter; separate club, not a direct Reddit recommendation."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.instagram.com/p/DfQtRtSDXZH/",
+      "sources": [
+        "https://www.instagram.com/p/DfQtRtSDXZH/"
+      ],
+      "evidence": "Organizer November 2 2026 Instagram post advertises next meeting November 19 6:30pm at Howard Beach Library.",
+      "evidence_date": "2026-11-02",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "stapleton-library-book-discussion",
+      "name": "Stapleton Library Book Discussion",
+      "aliases": [
+        "Stapleton Library Book Discussion"
+      ],
+      "boroughs": [
+        "Staten Island"
+      ],
+      "location": "Staten Island, Stapleton",
+      "format": "in-person shared-book discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "General literature / memoir",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; reconfirm activity",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "No specific restriction found; confirm RSVP requirements.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": "2026-10-06",
+      "undated_books": [],
+      "notes": [
+        "Small attendance is one commenter’s report, not age or demographic evidence. No upcoming title/date or official organizer page verified."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": null,
+      "sources": [
+        "https://www.reddit.com/r/statenisland/comments/1wz7nst/st_george_library_center/"
+      ],
+      "evidence": "October 6 2026 commenter reports meeting at Stapleton branch with only up to three attendees.",
+      "evidence_date": "2026-10-06",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "sunnyside-library-book-club",
+      "name": "Sunnyside Library Book Club",
+      "aliases": [
+        "Sunnyside Library Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Sunnyside",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "General book discussion; selection unknown",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Adults 19+ (PDF legend defines A)",
+      "eligibility": "Branch meeting room unless otherwise specified; Broadway: Small Auditorium",
+      "cost": "No fee listed",
+      "recurrence": "Named club in November branch calendar; cadence not stated",
+      "current_book": null,
+      "current_book_date": "2026-11-25",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-11-25",
+      "meeting_dates": [
+        "2026-11-25"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-25",
+      "undated_books": [],
+      "notes": [
+        "QPL ransomware/network outage: official notice says some in-person programs may be affected. Call branch to confirm; December selection not available on inspected fallback calendar."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://static.libnet.info/frontend-images/pdfs/queens/Sunnyside_Calendar_November2026_AllAges.pdf",
+      "sources": [
+        "https://static.libnet.info/frontend-images/pdfs/queens/Sunnyside_Calendar_November2026_AllAges.pdf",
+        "https://connect.queenslibrary.org/17906",
+        "https://www.queenslibrary.org/"
+      ],
+      "evidence": "Official November 2026 branch calendar lists Sunnyside Library Book Club on 2026-11-25 at 15:00. PDF specifies programs occur in Meeting Room unless otherwise noted; Ridgewood Mystery is explicitly offsite at DADA Café.",
+      "evidence_date": "2026-11-25",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "sunset-park-library-book-discussion",
+      "name": "Sunset Park Library Book Discussion",
+      "aliases": [
+        "Sunset Park Library Book Discussion"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Sunset Park",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Literary fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Adults",
+      "eligibility": "Library discussion; see event page; borrowing copies available",
+      "cost": "No fee listed",
+      "recurrence": "Named book discussion group; cadence not stated on inspected event",
+      "current_book": "Sula — Toni Morrison",
+      "current_book_date": "2026-11-24",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-11-24",
+      "meeting_dates": [
+        "2026-11-24"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-24",
+      "undated_books": [],
+      "notes": [
+        "Following selection not found in inspected official listings."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.bklynlibrary.org/calendar/sunset-park-book-sunset-park-library-20261124-0600pm",
+      "sources": [
+        "https://www.bklynlibrary.org/calendar/sunset-park-book-sunset-park-library-20261124-0600pm"
+      ],
+      "evidence": "Events & Classes\nSunset Park Book Discussion: Sula by Toni Morrison\nSunset Park Book Discussion: Sula by Toni Morrison\nTue, Nov 24 2026\n6:00 pm – 7:00 pm\nSunset Park Library\nadults\nbook club\nbook discussion\nJoin us in November for a discussion of\nToni Morrison's classic 1973 novel,\nSula\n.\nSula and Nel are born in the Bottom—a small town at the top of a hill. Sula is wild, and daring; she does what she wants, while Nel is well-mannered, a mamma’s girl with a questioning heart. Growing up they forge a bond stronger than anything, stronger even than the dark secret they have to bear. Strong enough, it seems, to last a lifetime—until, decades later, as the girls become women, Sula’s anarchy leads to a betrayal that may be beyond forgiveness.\nCopies are available for checkout from the main floor customer service desk.\nNeed more Toni Morrison in your life? Check out our free screening of the documentary\nToni Morrison: The Pieces I am,\nThursday, 11/12 at 5:30pm.\nSunset Park Library\n5108 Fourth Avenue\nBrooklyn\n,\nNY\n11220\nGet Directions\n",
+      "evidence_date": "2026-11-24",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "the-astoria-feminist-book-group",
+      "name": "The Astoria Feminist Book Group",
+      "aliases": [
+        "Astoria Feminist Book Group",
+        "The Astoria Feminist Book Group"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Astoria / QED",
+      "format": "in-person shared-book discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Intersectional feminism, politics, fiction and nonfiction",
+      "tags": [
+        "Politics & society"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "No specific restriction found; confirm RSVP requirements.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": "Last Night in Brooklyn",
+      "current_book_date": "2026-11-21",
+      "following_book": null,
+      "following_book_date": "2026-12-19",
+      "next_meeting": "2026-11-21",
+      "meeting_dates": [
+        "2026-11-21",
+        "2026-12-19"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-21",
+      "undated_books": [],
+      "notes": [
+        "Reached through bookstore/directory expansion, not a directly retrieved Reddit recommendation. December selection unknown.",
+        "Bookstore access note: support QED with a food/beverage purchase; no outside food/drink.",
+        "Merged aliases and source tracks; the selected date-specific record governs the card. Older claims retained in source history, not used to override newer evidence."
+      ],
+      "angle": "Intersectional feminism; politics explicitly part of discussion.",
+      "rank": 60,
+      "official_url": "https://astoriafeministbookgroup.com/",
+      "sources": [
+        "https://astoriafeministbookgroup.com/",
+        "https://astorialive.com/guides/book-clubs-in-astoria-queens",
+        "https://www.astoriabookshop.com/bookclubs"
+      ],
+      "evidence": "Live organizer site schedules Last Night in Brooklyn November 21 1:30–2:30pm and December 19 noon–1pm at QED.",
+      "evidence_date": "2026-11-21",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "the-rolling-library-queer-book-club",
+      "name": "The Rolling Library Queer Book Club",
+      "aliases": [
+        "The Rolling Library Queer Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Queens; specific neighborhood not stated",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "LGBTQIA+ fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; reconfirm activity",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Open to everyone; monthly outdoors, weather permitting",
+      "cost": "Not verified",
+      "recurrence": "Monthly per registered-club description",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": null,
+      "undated_books": [],
+      "notes": [
+        "Listed as currently registered, but month/day copy lacks year. Current and next books withheld rather than asserting 2026. Confirm with organizer."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.astoriabookshop.com/bookclubs",
+      "sources": [
+        "https://www.astoriabookshop.com/bookclubs"
+      ],
+      "evidence": "The Rolling Library Queer Book Club\n\nThe Rolling Library's reading and discussion club reads LGBTQIA+ fiction of all genres and is open to everyone! We meet outdoors (weather permitting) monthly in Queens.\n\n\n\n\nMiddle Spoon\nAlejandro Varela\n\nOur next pick is Middle Spoon by Alejandro Varela for December 1st.\n\n\n\nMonstrilio\nMissed Connections with Tall Girls\nForest Euphoria\nPerverts\nAbolitionist Intimacies\nMissing Sam\nPersona\nNecessary Fiction\nOpen Throat\nFire in Every Direction\nKiss Her Once for Me\nThe Call-Out\nHelen House\nTimes Square Red, Times Square Blue 20th Anniversary Edition\nSimplicity\nValencia\n \nView all 46 products\n",
+      "evidence_date": null,
+      "selected_track": "institutions"
+    },
+    {
+      "id": "todt-hill-westerleigh-mystery-thriller-book-club",
+      "name": "Todt Hill-Westerleigh Mystery/Thriller Book Club",
+      "aliases": [
+        "Todt Hill-Westerleigh Mystery/Thriller Book Club",
+        "Todt Hill–Westerleigh Mystery/Thriller Book Club"
+      ],
+      "boroughs": [
+        "Staten Island"
+      ],
+      "location": "Staten Island, Westerleigh",
+      "format": "hybrid; in-person attendance explicitly available",
+      "format_group": "Hybrid (in-person available)",
+      "in_person": true,
+      "topic": "Mystery / thriller",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Best for ages 18 and up",
+      "eligibility": "Fully accessible branch; no in-person registration required",
+      "cost": "Free NYPL program",
+      "recurrence": "Monthly",
+      "current_book": "The Lost Girls of Willowbrook — Ellen Marie Wiseman",
+      "current_book_date": "2026-11-24",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-11-24",
+      "meeting_dates": [
+        "2026-11-24"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-24",
+      "undated_books": [],
+      "notes": [
+        "Merged aliases and source tracks; the selected date-specific record governs the card. Older claims retained in source history, not used to override newer evidence."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.nypl.org/events/programs/2026/11/24/hybrid-mysterythriller-book-club-lost-girls-willowbrook",
+      "sources": [
+        "https://www.nypl.org/events/programs/2026/11/24/hybrid-mysterythriller-book-club-lost-girls-willowbrook",
+        "https://www.nypl.org/events/programs/2025/05/27/hybrid-mysterythriller-book-club-shes-not-sorry",
+        "https://www.reddit.com/r/StatenIslandPulse/comments/1lcao0l/nypl_events_for_adults_in_staten_island_for_this/"
+      ],
+      "evidence": "Date and Time\nTuesday, November 24, 2026\n12 PM\n–\n1 PM\nEnd times are approximate. Events may end early or late.\nmapsPlace icon\nLocation\nTodt Hill-Westerleigh Library\naccessibilityFull icon\nFully accessible\nactionIdentityFilled icon\nRelevant for\nAdults, Book Lovers\nactionTaskAlt icon\nRegistration\nOnline registration\nEvent Details\nThis is a hybrid program. It will take place both in person at the Todt Hill-Westerleigh Library and online. Please join us once a month as we put our detective hats on by discussing a mystery/thriller title. For November, we will be discussing\nThe Lost Girls of Willowbrook\nby Ellen Marie Wiseman. Sage always thought her twin sister Rosemary had died, but when she discovers that Rosemary has instead gone missing from the Willowbrook State School in Staten Island she is determined to find out what happened to her sister.  This program is best for ages 18 and up. If you would like to attend virtually, online registration is required. If you would like to attend in person, there is no need to register.\nRegistration\nEmail\n(required)\nEx:\njdoe@domain.com\nName\n(requi… (see linked primary page)",
+      "evidence_date": "2026-11-24",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "turnt-pages-book-club",
+      "name": "Turnt Pages Book Club",
+      "aliases": [
+        "Turnt Pages Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Ditmars",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Literary fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; reconfirm activity",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "Bier & Cheese Collective; no registration; host purchase requested",
+      "cost": "Host purchase requested",
+      "recurrence": "First Monday monthly, 7–9pm",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": null,
+      "undated_books": [],
+      "notes": [
+        "Listed as currently registered, but month/day copy lacks year. Current and next books withheld rather than asserting 2026. Confirm with organizer."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.astoriabookshop.com/bookclubs",
+      "sources": [
+        "https://www.astoriabookshop.com/bookclubs"
+      ],
+      "evidence": "Turnt Pages Book Club\n\nTurnt Pages is a Ditmars book club that meets the first Monday of every month at The Bier & Cheese Collective, from 7-9PM. No need to register, but we do ask folks to make a purchase from our host venue during the club. If you have any questions or would like a full list of our upcoming reads, please email turntpagesditmars@gmail.com.\n\n\n\n\n\nSmall Things Like These (Oprah's Book Club)\nClaire Keegan\n\nWe will be reading Small Things Like These by Claire Keegan for December 7.\n\n\n\nThe Tokyo Suite\nIn the Distance\nMice 1961\nHeadshot\nThe Wilderness\nRuth\nAudition\nYou Dreamed of Empires\nAt Night All Blood Is Black\nThe Immortal King Rao\nExit West\nWestern Lane\nHow Not to Drown in a Glass of Water\nEastbound\nThe Great Believers\nMartyr! (National Book Award Finalist)\n \nView all 19 products\n",
+      "evidence_date": null,
+      "selected_track": "institutions"
+    },
+    {
+      "id": "word-independent-small-press-book-club",
+      "name": "WORD Independent & Small Press Book Club",
+      "aliases": [
+        "WORD Independent & Small Press Book Club"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Greenpoint",
+      "format": "in-person shared-book discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Small press literary fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; reconfirm activity",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "No specific restriction found; confirm RSVP requirements.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": "2019-10-29",
+      "undated_books": [],
+      "notes": [
+        "Direct fetch blocked 403; do not imply currently running."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://wordbookstores.com/independent-small-press-book-club",
+      "sources": [
+        "https://wordbookstores.com/independent-small-press-book-club",
+        "https://www.reddit.com/r/Brooklyn/comments/boelwx/book_clubs_in_brooklyn/"
+      ],
+      "evidence": "Official indexed page dated October 29 2019 describes monthly small/independent press discussion. Current general book-club page exists but specific recurrence not verified.",
+      "evidence_date": "2019-10-29",
+      "selected_track": "reddit"
+    },
+    {
+      "id": "windsor-park-library-book-club",
+      "name": "Windsor Park Library Book Club",
+      "aliases": [
+        "Windsor Park Library Book Club"
+      ],
+      "boroughs": [
+        "Queens"
+      ],
+      "location": "Queens, Windsor Park",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "General book discussion; selection unknown",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Recent activity; next unknown",
+      "default_eligible": true,
+      "age_evidence": "Adults 19+ (PDF legend defines A)",
+      "eligibility": "Branch meeting room unless otherwise specified; Broadway: Small Auditorium",
+      "cost": "No fee listed",
+      "recurrence": "Named club in November branch calendar; cadence not stated",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": "State of Wonder — Ann Patchett",
+      "past_book_date": "2026-11-12",
+      "undated_books": [],
+      "notes": [
+        "QPL ransomware/network outage: official notice says some in-person programs may be affected. Call branch to confirm; December selection not available on inspected fallback calendar."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://static.libnet.info/frontend-images/pdfs/queens/Windsor_Park_Calendar_November2026_AllAges.pdf",
+      "sources": [
+        "https://static.libnet.info/frontend-images/pdfs/queens/Windsor_Park_Calendar_November2026_AllAges.pdf",
+        "https://connect.queenslibrary.org/17906",
+        "https://www.queenslibrary.org/"
+      ],
+      "evidence": "Official November 2026 branch calendar lists Windsor Park Library Book Club on 2026-11-12 at 17:00. PDF specifies programs occur in Meeting Room unless otherwise noted; Ridgewood Mystery is explicitly offsite at DADA Café.",
+      "evidence_date": "2026-11-12",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "windsor-terrace-library-book-discussion",
+      "name": "Windsor Terrace Library Book Discussion",
+      "aliases": [
+        "Windsor Terrace Library Book Discussion"
+      ],
+      "boroughs": [
+        "Brooklyn"
+      ],
+      "location": "Brooklyn, Windsor Terrace",
+      "format": "in-person discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "General literary fiction",
+      "tags": [
+        "Literature & general"
+      ],
+      "kind": "Recurring group",
+      "status": "Dated upcoming",
+      "default_eligible": true,
+      "age_evidence": "Adults",
+      "eligibility": "Library discussion; see event page; borrowing copies available",
+      "cost": "No fee listed",
+      "recurrence": "Named book discussion group; cadence not stated on inspected event",
+      "current_book": "Creation Lake — Rachel Kushner",
+      "current_book_date": "2026-11-24",
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": "2026-11-24",
+      "meeting_dates": [
+        "2026-11-24"
+      ],
+      "past_book": null,
+      "past_book_date": "2026-11-24",
+      "undated_books": [],
+      "notes": [
+        "Following selection not found in inspected official listings."
+      ],
+      "angle": null,
+      "rank": 60,
+      "official_url": "https://www.bklynlibrary.org/calendar/book-discussion-creation-windsor-terrace-library-20261124-0630pm",
+      "sources": [
+        "https://www.bklynlibrary.org/calendar/book-discussion-creation-windsor-terrace-library-20261124-0630pm"
+      ],
+      "evidence": "Events & Classes\nBook Discussion: Creation Lake\nBook Discussion: Creation Lake\nTue, Nov 24 2026\n6:30 pm – 7:30 pm\nWindsor Terrace Library\nadults\nbook club\nbook discussion\nJoin us as we discuss\nCreation Lake\n, by Rachel Kushner. A mysterious American spy infiltrates a group of French activists. But as she becomes fascinated by an underground philosopher, she begins questioning her mission, identity, and beliefs. A gripping novel of espionage, deception, and self-discovery. Please ask for a copy at the front desk. Please ask for a copy at the front desk.\nWindsor Terrace Library\n160 E. 5th St. at Ft. Hamilton Pkwy.\nBrooklyn\n,\nNY\n11218\nGet Directions\n",
+      "evidence_date": "2026-11-24",
+      "selected_track": "institutions"
+    },
+    {
+      "id": "yu-up-yu-me-book-club",
+      "name": "Yu Up? — Yu & Me Book Club",
+      "aliases": [
+        "Yu Up? — Yu & Me Book Club"
+      ],
+      "boroughs": [
+        "Manhattan"
+      ],
+      "location": "Manhattan, Chinatown",
+      "format": "in-person shared-book discussion",
+      "format_group": "Discussion",
+      "in_person": true,
+      "topic": "Politics, race, colonialism, literary fiction",
+      "tags": [
+        "Politics & society"
+      ],
+      "kind": "Recurring group",
+      "status": "Lead; reconfirm activity",
+      "default_eligible": false,
+      "age_evidence": "Not published / not verified",
+      "eligibility": "No specific restriction found; confirm RSVP requirements.",
+      "cost": "Not verified",
+      "recurrence": "See activity evidence; frequency not independently established",
+      "current_book": null,
+      "current_book_date": null,
+      "following_book": null,
+      "following_book_date": null,
+      "next_meeting": null,
+      "meeting_dates": [],
+      "past_book": null,
+      "past_book_date": "2026-11-21",
+      "undated_books": [
+        {
+          "title": "The Wretched of the Earth — Frantz Fanon",
+          "date": null,
+          "label": "Past / undated selection; not current"
+        }
+      ],
+      "notes": [
+        "Do not interpret Nov 26 product label as November 26 meeting: may mean November 2026. Third-party listing suggests Nov 13/14; meeting date unresolved."
+      ],
+      "angle": "Anticolonial / race and politics focus; month-labeled Fanon selection is not a verified upcoming meeting.",
+      "rank": 60,
+      "official_url": "https://yuandmebooks.com/pages/book-clubs",
+      "sources": [
+        "https://yuandmebooks.com/pages/book-clubs",
+        "https://www.reddit.com/r/AskNYC/comments/15e4a3o/nyc_book_clubs/",
+        "https://www.instagram.com/p/DeKEbJBgxnB/"
+      ],
+      "evidence": "Live official book-club page lists The Wretched of the Earth (Nov 26, Yu Up? Book Club); official Instagram says November selection.",
+      "evidence_date": "2026-11-21",
+      "selected_track": "reddit"
+    }
+  ]
+}
