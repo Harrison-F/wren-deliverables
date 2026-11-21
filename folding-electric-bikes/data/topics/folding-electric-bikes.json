@@ -1,7 +1,7 @@
 {
   "id": "folding-electric-bikes",
   "title": "Folding electric bikes",
-  "summary": "",
+  "summary": "New: 0 strict matches · Conditional black shortlist · Matte finish unverified",
   "layout": "natural-basics",
   "catalog": true,
   "defaultSort": "price",
@@ -9,7 +9,7 @@
   "updated": "2026-11-21",
   "recommendation": {},
   "evidenceNote": "Used observations retained from 2026-11-20; seller availability and unit condition unconfirmed. New exact variants checked 2026-11-21. Certification claims are manufacturer claims, not independent verification.",
-  "caveat": "Frame-folding electric bikes · no white · $1,000 maximum before shipping/tax. Unknown exact-unit weights remain conditional, not verified under the weight limit.",
+  "caveat": "No fully verified in-stock matte-black strict match established in this bounded research. New cards are conditional black alternatives, not exact matches. $1,000 item-price cap; shipping/tax unknown.",
   "products": [
     {
       "id": "cl-7973638710",
@@ -484,487 +484,447 @@
       "weightStatus": "Unknown exact unit; not a verified weight-limit pass"
     },
     {
-      "id": "new-gotrax-efold",
-      "name": "GOTRAX E-Fold · blue-gray",
-      "url": "https://gotrax.com/products/e-fold-electric-bike",
-      "store": "GOTRAX",
-      "category": "New retail",
+      "id": "new-vivi-fm20ul",
+      "name": "VIVI FM20UL Black",
+      "url": "https://viviebikes.com/products/vivi-fm20ul-electric-bike-fat-tire-folding-electric-bike",
+      "store": "VIVI",
+      "category": "Conditional black",
       "condition": "new",
       "collectionIds": [
         "new"
       ],
-      "color": "blue-gray",
+      "color": "Black",
       "frameFolding": true,
-      "weightLb": 49,
+      "weightLb": 55,
       "weightStatus": "Manufacturer specification, not weighed",
-      "weightLabel": "49 lb · with battery",
-      "unitPriceUSD": 499,
-      "priceLabel": "$499",
-      "verdict": "Best budget new lead · blue-gray, not black",
+      "weightLabel": "55 lb · with battery",
+      "unitPriceUSD": 449.99,
+      "priceLabel": "$449.99",
+      "verdict": "CONDITIONAL · Matte finish unverified",
       "summary": "",
       "integrityRank": 0,
       "naturalPercent": null,
-      "materialCaveat": "Manufacturer specifications and certification claims; not independent testing.",
+      "materialCaveat": "Aluminum alloy",
       "facts": {
-        "Weight": "49 lb with battery, manufacturer specification; not a hands-on measurement.",
-        "Fit": "Manufacturer range 5′3″–6′3″; test fit recommended; fit-table seat wording inconsistent.",
-        "Certification": "Manufacturer states UL 2849 certification; independent certificate listing and battery UL 2271 scope not verified.",
-        "Folding": "Main frame and stem fold; manufacturer product gallery shows folded frame.",
-        "Battery / charger": "Removable battery and charger included per manufacturer; verify received labels.",
-        "Location": "New retail · shipping/tax and destination availability not checkout-verified.",
-        "Price basis": "Exact blue-gray product, $499; in-stock storefront data observed 2026-11-21. Before shipping/tax.",
-        "Evidence": "Exact product page and Shopify product data agree on price and availability. No purchase or delivery quote. Manufacturer fit table includes inconsistent fixed-bench wording despite pictured adjustable saddle; confirm dimensions before ordering."
+        "Weight": "Product explicitly says25kg/55lb battery included",
+        "Fit": "Published height range 155–190 cm; tall-rider fit still requires a trial.",
+        "Material": "Aluminum alloy",
+        "Finish": "Black confirmed; matte finish unverified. Conditional alternative, not a strict match.",
+        "Folding": "True hinged frame fold; folded dimensions {'raw': '83x59cm /32.7x23.2in', 'caution': 'Only two axes supplied; complete3D folded size unknown'}",
+        "Certification": "Manufacturer says SGS; certificate database not independently queried; SGS certified claim on exact product",
+        "Battery / charger": "Removable battery; verify exact included charger and received labels. Removed-battery carry weight not established except Lectric 41 lb specification.",
+        "Price basis": "Exact new offer available. Shipping/tax and destination checkout total unverified. Observed 2026-11-21.",
+        "Evidence": "Warranty: Frame/battery12months; several parts3or6months, general1year exceptions. Returns: 30days; unused/unworn/resellable, original packaging; e-bike box sealed/unopened, customer pays return freight and original freight withheld; registered e-bikes not returnable. Removable battery but battery weight and carry weight unknown. Cheapest currently verified black true-folder here with explicitly battery-included weight, but not verified MATTE.",
+        "Gallery scope": "Exact black-variant primary image(s) only; full gallery mixed colors not treated as black gallery"
       },
       "images": [
         {
-          "src": "assets/images/new-gotrax-efold-1.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 1",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-5219339.jpg?v=1760617015",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-2.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 2",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-6482670.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-3.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 3",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-8363652.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-4.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 4",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-3325826.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-5.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 5",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-3968215.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-6.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 6",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-3471979.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-7.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 7",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-6992636.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-8.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 8",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-1262225.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-9.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 9",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-5362729.jpg?v=1781886847",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-10.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 10",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-4830735.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-11.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 11",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-6250717.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-12.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 12",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-4261399.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-13.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 13",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-7063810.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-14.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 14",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-2874527.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-15.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 15",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-9875717.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
-        },
-        {
-          "src": "assets/images/new-gotrax-efold-16.webp",
-          "alt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 16",
-          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/e-fold-electric-bike-1805713.jpg?v=1761844167",
-          "sourcePage": "https://gotrax.com/products/e-fold-electric-bike"
+          "src": "assets/images/new-vivi-fm20ul-1.webp",
+          "alt": "VIVI FM20UL Black — exact black gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0565/5026/0888/files/vivi-fm20ul-electric-bike-2-4-fat-tire-folding-electric-bike-sgs-certified-to-ul2849-26501.jpg?v=1760960682",
+          "sourcePage": "https://viviebikes.com/products/vivi-fm20ul-electric-bike-fat-tire-folding-electric-bike"
         }
       ],
-      "image": "assets/images/new-gotrax-efold-1.webp",
-      "imageAlt": "GOTRAX E-Fold · blue-gray — manufacturer gallery 1",
-      "imageNote": "Exact single-color manufacturer gallery. All 16 exposed product images retained.",
+      "image": "assets/images/new-vivi-fm20ul-1.webp",
+      "imageAlt": "VIVI FM20UL Black — exact black gallery 1",
+      "imageNote": "Exact black-variant primary image(s) only; full gallery mixed colors not treated as black gallery",
       "sources": [
-        "new-gotrax-efold-primary"
+        "new-vivi-fm20ul-primary"
       ]
     },
     {
-      "id": "new-lectric-lite3-grey",
-      "name": "Lectric XP Lite3 · Matte Grey",
-      "url": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike",
-      "store": "Lectric",
-      "category": "New retail",
+      "id": "new-gotrax-z4lite",
+      "name": "GOTRAX Z4 Lite Black",
+      "url": "https://gotrax.com/products/z4-lite-electric-bike?variant=42005060190323",
+      "store": "GOTRAX",
+      "category": "Conditional black",
       "condition": "new",
       "collectionIds": [
         "new"
       ],
-      "color": "Matte Grey",
+      "color": "Black",
+      "frameFolding": true,
+      "weightLb": null,
+      "weightStatus": "Battery-inclusive weight unverified",
+      "weightLabel": "44 lb claimed",
+      "unitPriceUSD": 499,
+      "priceLabel": "$499",
+      "verdict": "CONDITIONAL · Matte finish unverified",
+      "summary": "",
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "materialCaveat": "6061 aluminum alloy",
+      "facts": {
+        "Weight": "44lb product weight claim; inclusion of battery not explicitly stated. Do not rank as confirmed battery-inclusive 44lb.",
+        "Fit": "Numeric height range not found; tall-rider fit unverified.",
+        "Material": "6061 aluminum alloy",
+        "Finish": "Black confirmed; matte finish unverified. Conditional alternative, not a strict match.",
+        "Folding": "True hinged frame fold; manufacturer dimensions None",
+        "Certification": "Manufacturer Safety Certified In Accordance With UL2849 claim; not verified. Manufacturer/listing claims, not independently certificate-verified.",
+        "Battery / charger": "Removable battery; verify exact included charger and received labels. Removed-battery carry weight not established except Lectric 41 lb specification.",
+        "Price basis": "Black exact variant available true; Add to cart. tax unknown; shipping only where exact page displayed Observed 2026-11-21.",
+        "Evidence": "Recent manufacturer-hosted reviews report defects and difficulty obtaining refund/replacement; review reports not independently verified.",
+        "Gallery scope": "Exact black variant featured image only; whole product array mixes white, not treated as selected gallery."
+      },
+      "images": [
+        {
+          "src": "assets/images/new-gotrax-z4lite-1.webp",
+          "alt": "GOTRAX Z4 Lite Black — exact black gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/0071/0406/9747/files/z4-lite-lightweight-electric-bike-961487.jpg?v=1747232669",
+          "sourcePage": "https://gotrax.com/products/z4-lite-electric-bike?variant=42005060190323"
+        }
+      ],
+      "image": "assets/images/new-gotrax-z4lite-1.webp",
+      "imageAlt": "GOTRAX Z4 Lite Black — exact black gallery 1",
+      "imageNote": "Exact black variant featured image only; whole product array mixes white, not treated as selected gallery.",
+      "sources": [
+        "new-gotrax-z4lite-primary"
+      ]
+    },
+    {
+      "id": "new-gotrax-r1",
+      "name": "GOTRAX R1 Black",
+      "url": "https://www.amazon.com/dp/B0C1VNBXMM",
+      "store": "Amazon.com",
+      "category": "Conditional black",
+      "condition": "new",
+      "collectionIds": [
+        "new"
+      ],
+      "color": "Black",
+      "frameFolding": true,
+      "weightLb": null,
+      "weightStatus": "Battery-inclusive weight unverified",
+      "weightLabel": "45 / 50 lb conflict",
+      "unitPriceUSD": 563.96,
+      "priceLabel": "$563.96",
+      "verdict": "CONDITIONAL · Matte finish unverified",
+      "summary": "",
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "materialCaveat": "Aluminum",
+      "facts": {
+        "Weight": "Exact selected spec table 45lb; current search title says 50lb; battery inclusion not explicit. Conflicting published weights.",
+        "Fit": "Minimum height 5.25 ft; published upper limit not found.",
+        "Material": "Aluminum",
+        "Finish": "Black confirmed; matte finish unverified. Conditional alternative, not a strict match.",
+        "Folding": "True hinged frame fold; manufacturer dimensions {'L': 37.4, 'W': 17.7, 'H': 27.5}",
+        "Certification": "Exact Amazon bullet claims R1 UL2849 certified; not verified. Manufacturer/listing claims, not independently certificate-verified.",
+        "Battery / charger": "Removable battery; verify exact included charger and received labels. Removed-battery carry weight not established except Lectric 41 lb specification.",
+        "Price basis": "In Stock. Free shipping shown to anonymous New York 10118; tax unknown; no signed-in delivery guarantee Observed 2026-11-21.",
+        "Evidence": "",
+        "Gallery scope": "Exact ASIN primary image only; full gallery not downloaded. Thumbnail URLs in specs-gallery evidence where available."
+      },
+      "images": [
+        {
+          "src": "assets/images/new-gotrax-r1-1.webp",
+          "alt": "GOTRAX R1 Black — exact black gallery 1",
+          "source": "https://m.media-amazon.com/images/I/711Uz7mweIL._AC_SL1254_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B0C1VNBXMM"
+        }
+      ],
+      "image": "assets/images/new-gotrax-r1-1.webp",
+      "imageAlt": "GOTRAX R1 Black — exact black gallery 1",
+      "imageNote": "Exact ASIN primary image only; full gallery not downloaded. Thumbnail URLs in specs-gallery evidence where available.",
+      "sources": [
+        "new-gotrax-r1-primary"
+      ]
+    },
+    {
+      "id": "new-jetson-haze",
+      "name": "Jetson Haze Black",
+      "url": "https://ridejetson.com/products/haze-folding-electric-bike",
+      "store": "Jetson",
+      "category": "Conditional black",
+      "condition": "new",
+      "collectionIds": [
+        "new"
+      ],
+      "color": "Black",
+      "frameFolding": true,
+      "weightLb": null,
+      "weightStatus": "Battery-inclusive weight unverified",
+      "weightLabel": "48 lb claimed",
+      "unitPriceUSD": 699.99,
+      "priceLabel": "$699.99",
+      "verdict": "CONDITIONAL · Matte finish unverified",
+      "summary": "",
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "materialCaveat": "Magnesium alloy",
+      "facts": {
+        "Weight": "Official product weight48lb; indexed manual49lb; explicit battery inclusion not separately stated",
+        "Fit": "Tall-rider fit unverified; age 12+ is not height-fit evidence.",
+        "Material": "Magnesium alloy",
+        "Finish": "Black confirmed; matte finish unverified. Conditional alternative, not a strict match.",
+        "Folding": "True hinged frame fold; folded dimensions {'L': 30.1, 'W': 17.5, 'H': 27.5, 'unit': 'in'}",
+        "Certification": "Product page lacks model-specific UL standard; do not equate UL-listed charger with whole bike certification; Indexed manual reports UL2849, not independently or directly PDF verified in this pass",
+        "Battery / charger": "Removable battery; verify exact included charger and received labels. Removed-battery carry weight not established except Lectric 41 lb specification.",
+        "Price basis": "Exact new offer available. Shipping/tax and destination checkout total unverified. Observed 2026-11-21.",
+        "Evidence": "Warranty: 1 year exact product; current policy names Tru Ride Tech. Returns: 30 days eligible items; customer return freight, original freight excluded; defect/damage return label fee waived. Removable battery; battery and removed weights not established. CPSC Rogue hoverboard recall names former Jetson Electric Bikes LLC out of business; NOT a Haze recall, current warranty entity Tru Ride Tech. Service continuity worth checking before purchase.",
+        "Gallery scope": "Entire exact single-variant Shopify product gallery, unfiltered manufacturer sequence; may include diagrams/accessory images"
+      },
+      "images": [
+        {
+          "src": "assets/images/new-jetson-haze-1.webp",
+          "alt": "Jetson Haze Black — exact black gallery 1",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_02.jpg?v=1759252705",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-2.webp",
+          "alt": "Jetson Haze Black — exact black gallery 2",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_LS_01.jpg?v=1674070676",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-3.webp",
+          "alt": "Jetson Haze Black — exact black gallery 3",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_LS_13.jpg?v=1674070676",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-4.webp",
+          "alt": "Jetson Haze Black — exact black gallery 4",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/files/JHAZE-BLK_LS_03.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-5.webp",
+          "alt": "Jetson Haze Black — exact black gallery 5",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_LS_02.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-6.webp",
+          "alt": "Jetson Haze Black — exact black gallery 6",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_LS_11.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-7.webp",
+          "alt": "Jetson Haze Black — exact black gallery 7",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/files/JHAZE-BLK_LS_04.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-8.webp",
+          "alt": "Jetson Haze Black — exact black gallery 8",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/files/JHAZE-BLK_LS_06.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-9.webp",
+          "alt": "Jetson Haze Black — exact black gallery 9",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_01.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-10.webp",
+          "alt": "Jetson Haze Black — exact black gallery 10",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_03.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-11.webp",
+          "alt": "Jetson Haze Black — exact black gallery 11",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_04.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-12.webp",
+          "alt": "Jetson Haze Black — exact black gallery 12",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_05.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-13.webp",
+          "alt": "Jetson Haze Black — exact black gallery 13",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_06.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-14.webp",
+          "alt": "Jetson Haze Black — exact black gallery 14",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_07.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-15.webp",
+          "alt": "Jetson Haze Black — exact black gallery 15",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_13.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-16.webp",
+          "alt": "Jetson Haze Black — exact black gallery 16",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_08.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-17.webp",
+          "alt": "Jetson Haze Black — exact black gallery 17",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_14.jpg?v=1700848700",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-18.webp",
+          "alt": "Jetson Haze Black — exact black gallery 18",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_09.jpg?v=1700848698",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-19.webp",
+          "alt": "Jetson Haze Black — exact black gallery 19",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_10.jpg?v=1700848698",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-20.webp",
+          "alt": "Jetson Haze Black — exact black gallery 20",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_11.jpg?v=1700848698",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-21.webp",
+          "alt": "Jetson Haze Black — exact black gallery 21",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_12.jpg?v=1700848698",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-22.webp",
+          "alt": "Jetson Haze Black — exact black gallery 22",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_15.jpg?v=1700848692",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        },
+        {
+          "src": "assets/images/new-jetson-haze-23.webp",
+          "alt": "Jetson Haze Black — exact black gallery 23",
+          "source": "https://cdn.shopify.com/s/files/1/2530/6734/products/JHAZE-BLK_16.jpg?v=1700848692",
+          "sourcePage": "https://ridejetson.com/products/haze-folding-electric-bike"
+        }
+      ],
+      "image": "assets/images/new-jetson-haze-1.webp",
+      "imageAlt": "Jetson Haze Black — exact black gallery 1",
+      "imageNote": "Entire exact single-variant Shopify product gallery, unfiltered manufacturer sequence; may include diagrams/accessory images",
+      "sources": [
+        "new-jetson-haze-primary"
+      ]
+    },
+    {
+      "id": "new-lectric-lite2-jw",
+      "name": "Lectric XP Lite2 JW Black standard battery belt drive",
+      "url": "https://lectricebikes.com/products/xp-lite-jw-black",
+      "store": "Lectric eBikes",
+      "category": "Conditional black",
+      "condition": "new",
+      "collectionIds": [
+        "new"
+      ],
+      "color": "Black",
       "frameFolding": true,
       "weightLb": 49,
       "weightStatus": "Manufacturer specification, not weighed",
       "weightLabel": "49 lb · with battery",
-      "unitPriceUSD": 999,
-      "priceLabel": "$999",
-      "verdict": "Long-range new option · at budget ceiling",
+      "unitPriceUSD": 799,
+      "priceLabel": "$799",
+      "verdict": "CONDITIONAL · Matte finish unverified",
       "summary": "",
       "integrityRank": 0,
       "naturalPercent": null,
-      "materialCaveat": "Manufacturer specifications and certification claims; not independent testing.",
+      "materialCaveat": "6000-series aluminum; rigid steel fork",
       "facts": {
-        "Weight": "49 lb with battery, manufacturer specification; not a hands-on measurement. 41 lb without the removable 8 lb battery.",
-        "Fit": "Manufacturer range 4′8″–6′2″; test fit recommended.",
-        "Certification": "Manufacturer states bike UL 2849 and battery UL 2271; independent certificate listing not checked.",
-        "Folding": "Frame and stem hinge; folded 36 × 16 × 27 inches (manufacturer).",
-        "Battery / charger": "Removable battery and charger included per manufacturer; verify received labels.",
-        "Location": "New retail · shipping/tax and destination availability not checkout-verified.",
-        "Price basis": "Exact Matte Grey product, $999; in-stock storefront data observed 2026-11-21. Before shipping/tax.",
-        "Evidence": "Exact product page and Shopify product data agree on price and availability. No purchase or delivery quote. JW Black is $1,099 and excluded; this is the $999 Matte Grey chain-drive long-range configuration, not the $799 white base bike."
+        "Weight": "Product page: 41lb without 8lb battery; overview 49lb. Accessory rack may add weight. OutdoorGearLab measured 52 lb for a standard-battery XP Lite2 test bike; exact drive/accessory configuration may differ from JW Black. Not exact-SKU scale proof.",
+        "Fit": "Published height range 4 ft 8 in–6 ft 2 in; ergonomic fit not tested.",
+        "Material": "6000-series aluminum; rigid steel fork",
+        "Finish": "Black confirmed; matte finish unverified. Conditional alternative, not a strict match.",
+        "Folding": "True hinged frame fold; manufacturer dimensions {'L': 36, 'W': 16, 'H': 27}",
+        "Certification": "Manufacturer claims e-bike certified to UL2849; Manufacturer claims standard 375Wh and long-range 672Wh batteries certified UL2271. Manufacturer/listing claims, not independently certificate-verified.",
+        "Battery / charger": "Removable battery; verify exact included charger and received labels. Removed-battery carry weight not established except Lectric 41 lb specification.",
+        "Price basis": "In stock - limited quantity; available true in product JSON. Product advertises free shipping; tax and checkout total unverified Observed 2026-11-21.",
+        "Evidence": " Best-supported conditional choice for tall fit; still cumbersome on stairs. OutdoorGearLab reported thermal shutdown on sustained steep throttle-only climbs. Lite2 $799 is distinct from Lite3 JW Black $1,099, which is excluded.",
+        "Gallery scope": "12 inspected black product/gallery images. Four mixed-color or blue/teal feature/lifestyle slides excluded; optional accessories may appear. Video/360 media not comprehensively extracted."
       },
       "images": [
         {
-          "src": "assets/images/new-lectric-lite3-grey-1.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 1",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_1st-Image_XP_Lite3_MatteGrey_1.webp?v=1793214903",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
+          "src": "assets/images/new-lectric-lite2-jw-1.webp",
+          "alt": "Lectric XP Lite2 JW Black standard battery belt drive — exact black gallery 1",
+          "source": "https://lectricebikes.com/cdn/shop/files/lite-black_6afb4cfa-0e04-4b43-a8b6-e7c6e266d03e.png?v=1776061626&width=1024",
+          "sourcePage": "https://lectricebikes.com/products/xp-lite-jw-black"
         },
         {
-          "src": "assets/images/new-lectric-lite3-grey-2.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 2",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/2-XP_Lite3-Studio_Color-MatteGrey.webp?v=1793082276",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
+          "src": "assets/images/new-lectric-lite2-jw-2.webp",
+          "alt": "Lectric XP Lite2 JW Black standard battery belt drive — exact black gallery 2",
+          "source": "https://lectricebikes.com/cdn/shop/files/XPL-Black-award_74e8efb7-28a4-4739-a0e4-41cccb7a051b.jpg?v=1759271546&width=1024",
+          "sourcePage": "https://lectricebikes.com/products/xp-lite-jw-black"
         },
         {
-          "src": "assets/images/new-lectric-lite3-grey-3.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 3",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/3-XP_Lite3-Lifestyle_Tagline-LR-MatteGrey.webp?v=1793082276",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
+          "src": "assets/images/new-lectric-lite2-jw-4.webp",
+          "alt": "Lectric XP Lite2 JW Black standard battery belt drive — exact black gallery 4",
+          "source": "https://lectricebikes.com/cdn/shop/files/XPL-Black_b2e8b0ca-e8bb-46d9-8794-0b51c658f895.jpg?v=1759271546&width=1024",
+          "sourcePage": "https://lectricebikes.com/products/xp-lite-jw-black"
         },
         {
-          "src": "assets/images/new-lectric-lite3-grey-4.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 4",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/4-XP_Lite3-Fold_and_Go-MatteGrey.webp?v=1793082276",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
+          "src": "assets/images/new-lectric-lite2-jw-5.webp",
+          "alt": "Lectric XP Lite2 JW Black standard battery belt drive — exact black gallery 5",
+          "source": "https://lectricebikes.com/cdn/shop/files/XPL-Black-5.jpg?v=1759271546&width=1024",
+          "sourcePage": "https://lectricebikes.com/products/xp-lite-jw-black"
         },
         {
-          "src": "assets/images/new-lectric-lite3-grey-5.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 5",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/8-XP_Lite3-Business_End-MatteGrey.webp?v=1793082276",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
+          "src": "assets/images/new-lectric-lite2-jw-9.webp",
+          "alt": "Lectric XP Lite2 JW Black standard battery belt drive — exact black gallery 9",
+          "source": "https://lectricebikes.com/cdn/shop/files/XPL-Black-2_19e8f536-63a0-43ee-b7f0-9d9e0a2f8721.jpg?v=1759271546&width=1024",
+          "sourcePage": "https://lectricebikes.com/products/xp-lite-jw-black"
         },
         {
-          "src": "assets/images/new-lectric-lite3-grey-6.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 6",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/9-XP_Lite3-eBike_Smile-MatteGrey.webp?v=1793082276",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
+          "src": "assets/images/new-lectric-lite2-jw-10.webp",
+          "alt": "Lectric XP Lite2 JW Black standard battery belt drive — exact black gallery 10",
+          "source": "https://lectricebikes.com/cdn/shop/files/black-side.webp?v=1776061626&width=1024",
+          "sourcePage": "https://lectricebikes.com/products/xp-lite-jw-black"
         },
         {
-          "src": "assets/images/new-lectric-lite3-grey-7.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 7",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/Grey-folding-GIF.gif?v=1794950392",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
+          "src": "assets/images/new-lectric-lite2-jw-11.webp",
+          "alt": "Lectric XP Lite2 JW Black standard battery belt drive — exact black gallery 11",
+          "source": "https://lectricebikes.com/cdn/shop/files/folded-black_8c8aa724-8bc5-40b6-bfe8-489370125601.webp?v=1776061626&width=1024",
+          "sourcePage": "https://lectricebikes.com/products/xp-lite-jw-black"
         },
         {
-          "src": "assets/images/new-lectric-lite3-grey-8.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 8",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/XP_Lite3-On_White-Folded-MatteGrey.webp?v=1794948423",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
+          "src": "assets/images/new-lectric-lite2-jw-12.webp",
+          "alt": "Lectric XP Lite2 JW Black standard battery belt drive — exact black gallery 12",
+          "source": "https://lectricebikes.com/cdn/shop/files/xpl-black-1_stock_bike_cc670f92-547d-4ed2-945b-f93aa1972998.webp?v=1776061626&width=1024",
+          "sourcePage": "https://lectricebikes.com/products/xp-lite-jw-black"
         },
         {
-          "src": "assets/images/new-lectric-lite3-grey-9.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 9",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/XP_Lite3-On_White-3_4-Facing_Left-No_Accessories-MatteGrey.webp?v=1793082350",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
+          "src": "assets/images/new-lectric-lite2-jw-13.webp",
+          "alt": "Lectric XP Lite2 JW Black standard battery belt drive — exact black gallery 13",
+          "source": "https://lectricebikes.com/cdn/shop/files/black-front.webp?v=1776061626&width=1024",
+          "sourcePage": "https://lectricebikes.com/products/xp-lite-jw-black"
         },
         {
-          "src": "assets/images/new-lectric-lite3-grey-10.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 10",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/XP_Lite3-On_White-Front-No_Accessories-MatteGrey.webp?v=1793082349",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
+          "src": "assets/images/new-lectric-lite2-jw-14.webp",
+          "alt": "Lectric XP Lite2 JW Black standard battery belt drive — exact black gallery 14",
+          "source": "https://lectricebikes.com/cdn/shop/files/black-side2.webp?v=1776061626&width=1920",
+          "sourcePage": "https://lectricebikes.com/products/xp-lite-jw-black"
         },
         {
-          "src": "assets/images/new-lectric-lite3-grey-11.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 11",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/XP_Lite3-On_White-Profile-Facing_Left-No_Accessories-MatteGrey.webp?v=1793082350",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
+          "src": "assets/images/new-lectric-lite2-jw-15.webp",
+          "alt": "Lectric XP Lite2 JW Black standard battery belt drive — exact black gallery 15",
+          "source": "https://lectricebikes.com/cdn/shop/files/xpl-black-2_85fa6033-fde9-43d6-9a6d-6e3710422a00.webp?v=1776061626&width=1920",
+          "sourcePage": "https://lectricebikes.com/products/xp-lite-jw-black"
         },
         {
-          "src": "assets/images/new-lectric-lite3-grey-12.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 12",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/XP_Lite3-On_White-Profile-Facing_Right-Accessories-MatteGrey.webp?v=1793082350",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-13.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 13",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/XP_Lite3-On_White-Profile-Facing_Right-No_Accessories-MatteGrey.webp?v=1793082350",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-14.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 14",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/XP_Lite3-On_White-Rear-No_Accessories-MatteGrey.webp?v=1793082350",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-15.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 15",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_01.webp?v=1793054017",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-16.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 16",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_02.webp?v=1793054022",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-17.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 17",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_03.webp?v=1793054026",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-18.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 18",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_04.webp?v=1793054030",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-19.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 19",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_05.webp?v=1793054035",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-20.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 20",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_06.webp?v=1793054041",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-21.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 21",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_07.webp?v=1793054046",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-22.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 22",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_08.webp?v=1793054050",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-23.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 23",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_09.webp?v=1793054054",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-24.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 24",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_10.webp?v=1793054057",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-25.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 25",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_11.webp?v=1793054062",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-26.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 26",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_12.webp?v=1793054066",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-27.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 27",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_13.webp?v=1793054072",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-28.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 28",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_14.webp?v=1793054076",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-29.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 29",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_15.webp?v=1793054081",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-30.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 30",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_16.webp?v=1793054086",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-31.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 31",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_17.webp?v=1793054090",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-32.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 32",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_18.webp?v=1793054094",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-33.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 33",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_19.webp?v=1793054098",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-34.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 34",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_20.webp?v=1793054102",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-35.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 35",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_21.webp?v=1793054106",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-36.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 36",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_22.webp?v=1793054111",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-37.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 37",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_23.webp?v=1793054115",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-38.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 38",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_24.webp?v=1793054119",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-39.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 39",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_25.webp?v=1793054122",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-40.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 40",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_26.webp?v=1793054126",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-41.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 41",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_27.webp?v=1793054130",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-42.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 42",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_28.webp?v=1793054134",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-43.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 43",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_29.webp?v=1793054137",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-44.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 44",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_30.webp?v=1793054142",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-45.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 45",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_31.webp?v=1793054146",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-46.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 46",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_32.webp?v=1793054150",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-47.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 47",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_33.webp?v=1793054154",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-48.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 48",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_34.webp?v=1793054158",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-49.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 49",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_35.webp?v=1793054162",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-50.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 50",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_Lectric_XPL3_Base_Matte_Grey_360_36.webp?v=1793054166",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
-        },
-        {
-          "src": "assets/images/new-lectric-lite3-grey-51.webp",
-          "alt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 51",
-          "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/XP_Lite3-On_White-3_4-Facing_Right-No_Accessories-MatteGrey.webp?v=1793082350",
-          "sourcePage": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike"
+          "src": "assets/images/new-lectric-lite2-jw-16.webp",
+          "alt": "Lectric XP Lite2 JW Black standard battery belt drive — exact black gallery 16",
+          "source": "https://lectricebikes.com/cdn/shop/files/Lectric_XPLite2.0_black_360-01.webp?v=1759271546&width=1920",
+          "sourcePage": "https://lectricebikes.com/products/xp-lite-jw-black"
         }
       ],
-      "image": "assets/images/new-lectric-lite3-grey-1.webp",
-      "imageAlt": "Lectric XP Lite3 · Matte Grey — manufacturer gallery 1",
-      "imageNote": "Exact single-color manufacturer gallery. Other-color blue feature slides omitted. Includes 360-view frames; animated folding image represented by its first frame. Accessories in photos may not be included.",
+      "image": "assets/images/new-lectric-lite2-jw-1.webp",
+      "imageAlt": "Lectric XP Lite2 JW Black standard battery belt drive — exact black gallery 1",
+      "imageNote": "12 inspected black product/gallery images. Four mixed-color or blue/teal feature/lifestyle slides excluded; optional accessories may appear. Video/360 media not comprehensively extracted.",
       "sources": [
-        "new-lectric-lite3-grey-primary"
+        "new-lectric-lite2-jw-primary",
+        "xp-lite2-test"
       ]
     }
   ],
@@ -1117,18 +1077,46 @@
       "note": "Family likely; no readable generation/model/battery plate Non-folding moped-style frame Condition: Used - like new selector; title says Brand New. New seller account joined 2026 Congratulations/new-house giveaway-style story requesting off-platform phone contact plus screenshot Brand New title conflicts with used condition Exact weight and battery configuration unknown No physical inspection or seller contact; availability and pickup travel unconfirmed. Verify ownership, battery/charger labels and a loaded test ride before payment."
     },
     {
-      "id": "new-gotrax-efold-primary",
-      "title": "GOTRAX E-Fold · blue-gray — exact manufacturer product",
-      "url": "https://gotrax.com/products/e-fold-electric-bike",
+      "id": "new-lectric-lite2-jw-primary",
+      "title": "Lectric XP Lite2 JW Black standard battery belt drive — exact offer",
+      "url": "https://lectricebikes.com/products/xp-lite-jw-black",
       "accessed": "2026-11-21",
-      "note": "Exact blue-gray product, $499; in-stock storefront data observed 2026-11-21. Before shipping/tax. Manufacturer states UL 2849 certification; independent certificate listing and battery UL 2271 scope not verified."
+      "note": "Primary product evidence; conditional, not strict matte-black qualification."
     },
     {
-      "id": "new-lectric-lite3-grey-primary",
-      "title": "Lectric XP Lite3 · Matte Grey — exact manufacturer product",
-      "url": "https://lectricebikes.com/products/xp-lite-grey-long-range-ebike",
+      "id": "new-gotrax-z4lite-primary",
+      "title": "GOTRAX Z4 Lite Black — exact offer",
+      "url": "https://gotrax.com/products/z4-lite-electric-bike?variant=42005060190323",
       "accessed": "2026-11-21",
-      "note": "Exact Matte Grey product, $999; in-stock storefront data observed 2026-11-21. Before shipping/tax. Manufacturer states bike UL 2849 and battery UL 2271; independent certificate listing not checked."
+      "note": "Primary product evidence; conditional, not strict matte-black qualification."
+    },
+    {
+      "id": "new-gotrax-r1-primary",
+      "title": "GOTRAX R1 Black — exact offer",
+      "url": "https://www.amazon.com/dp/B0C1VNBXMM",
+      "accessed": "2026-11-21",
+      "note": "Primary product evidence; conditional, not strict matte-black qualification."
+    },
+    {
+      "id": "new-vivi-fm20ul-primary",
+      "title": "VIVI FM20UL Black — exact offer",
+      "url": "https://viviebikes.com/products/vivi-fm20ul-electric-bike-fat-tire-folding-electric-bike",
+      "accessed": "2026-11-21",
+      "note": "Primary product evidence; conditional, not strict matte-black qualification."
+    },
+    {
+      "id": "new-jetson-haze-primary",
+      "title": "Jetson Haze Black — exact offer",
+      "url": "https://ridejetson.com/products/haze-folding-electric-bike",
+      "accessed": "2026-11-21",
+      "note": "Primary product evidence; conditional, not strict matte-black qualification."
+    },
+    {
+      "id": "xp-lite2-test",
+      "title": "OutdoorGearLab — XP Lite2 test",
+      "url": "https://www.outdoorgearlab.com/reviews/biking/electric-bike/lectric-xp-lite2",
+      "accessed": "2026-11-21",
+      "note": "Measured test configuration differs potentially from selected JW Black."
     }
   ],
   "scope": {
@@ -1148,7 +1136,11 @@
       "fb-1709768697342792",
       "fb-2335967467245664",
       "fb-2262969517871165"
-    ]
+    ],
+    "newRequiredFinish": "Matte black",
+    "newStrictVerifiedMatches": 0,
+    "newConditionalPolicy": "Black alternatives only; explicit matte-finish uncertainty. No other-color or above-budget active new offers.",
+    "priority": "Complete battery-inclusive weight and tall-rider fit; no hands-on carry or fit testing"
   },
   "collectionTabs": [
     {
@@ -1160,5 +1152,35 @@
       "label": "New"
     }
   ],
-  "defaultCollection": "used"
+  "defaultCollection": "used",
+  "materialsGuidance": {
+    "Aluminum": "6061 / 6000-series aluminum is usually the value lane here, not a complete-weight guarantee. Battery, motor, fork, wheels and accessories dominate carried mass. A carbon drive belt is not a carbon frame.",
+    "Steel / iron": "Often heavier in cheap electric folders; do not infer complete weight from price or frame label. A steel fork does not make an aluminum-frame bike all-steel.",
+    "Magnesium": "Not automatically lighter: the Haze claims 48 lb with battery scope unresolved. Hinge design, construction and complete weight matter more than the label.",
+    "Carbon": "Discovered carbon-frame options were beyond budget or unverified. Net weights can omit pedals, racks and fenders.",
+    "Buying rule": "Compare ready-to-ride weight including battery and necessary accessories. Confirm tall-rider reach, knee clearance, folded carry point, replacement-battery support, electrical certification and return freight before buying."
+  },
+  "references": [
+    {
+      "name": "Ecotric Starfish · Matt Black",
+      "text": "$390 · SOLD OUT · 50.7 lb assembled claim; battery scope and tall fit unresolved. Not an active purchase option.",
+      "url": "https://www.ecotric.com/products/starfish-20inch-portable-folding-electric-bike-1"
+    },
+    {
+      "name": "Qualisports Nemo · Matte Black",
+      "text": "34.8 lb including battery in a historical sponsored hands-on review; not claimed scale-measured. Current purchase page unavailable. Indexed $999 is not a live offer. Historical/current indexed fit ceiling 6 ft; current SKU and certification unverified.",
+      "url": "https://electricbikereview.com/qualisports/nemo/"
+    }
+  ],
+  "researchLimits": "Bounded manufacturer, marketplace and editorial review; not an exhaustive market census. Reddit evidence is indexed excerpts, not complete thread reads or consensus. No hands-on testing, independent certification registry check or destination checkout quote.",
+  "reviewSources": [
+    {
+      "title": "OutdoorGearLab — XP Lite2 measured-weight test",
+      "url": "https://www.outdoorgearlab.com/reviews/biking/electric-bike/lectric-xp-lite2"
+    },
+    {
+      "title": "ElectricBikeReview — historical sponsored Nemo review",
+      "url": "https://electricbikereview.com/qualisports/nemo/"
+    }
+  ]
 }
