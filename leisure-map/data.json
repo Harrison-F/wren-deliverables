@@ -1,6 +1,6 @@
 {
   "title": "Leisure, mapped",
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "venues": [
     {
       "id": "tudor",
@@ -117,6 +117,26 @@
       "lng": -73.9606831,
       "coordinate_source": "Google Maps place coordinates in supplied Hunter’s Point South Park URL",
       "checked": "2026-11-21",
+      "approved": true
+    },
+    {
+      "id": "grand-central-tm",
+      "name": "Grand Central Transcendental Meditation Center",
+      "category": "meditate",
+      "why": "Transcendental Meditation instruction and follow-up group meditation.",
+      "price": "Course fees apply · ask about follow-up access",
+      "hours": "Contact the center for current sessions; no public drop-in schedule verified.",
+      "access": "Official NYC site lists the 11th floor. Confirm the floor and attendance eligibility before visiting; follow-up support is for people who have learned TM.",
+      "address": "228 East 45th Street, New York, NY 10017",
+      "sources": [
+        "https://www.tm.org/nyc",
+        "https://www.tm.org/en-us/follow-up"
+      ],
+      "area": "Manhattan",
+      "lat": 40.752088288195,
+      "lng": -73.971674430171,
+      "coordinate_source": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=228%20East%2045th%20Street%2C%20New%20York%2C%20NY%2010017&locationType=street&outFields=*&maxLocations=1&f=pjson",
+      "checked": "2026-11-22",
       "approved": true
     }
   ],
