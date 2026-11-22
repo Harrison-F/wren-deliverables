@@ -342,6 +342,230 @@
       "lng": -73.9956863,
       "coordinate_source": "https://www.openstreetmap.org/way/241825785",
       "checked": "2026-11-21"
+    },
+    {
+      "id": "sculpture-center",
+      "name": "SculptureCenter",
+      "category": "art",
+      "why": "Experimental sculpture in a compact contemporary-art space.",
+      "price": "Free",
+      "hours": "Thu–Mon noon–6pm; closed Tue/Wed. Check exhibition changeovers.",
+      "access": "Public gallery; accessible entrance and elevator. No bikes or large bags inside. Inland Court Square walk, not beside the ferry.",
+      "address": "44-19 Purves Street, Long Island City",
+      "sources": [
+        "https://www.sculpture-center.org/visit/93/admission-and-accessibility"
+      ],
+      "area": "LIC · Court Square / inland walk",
+      "lat": 40.7469077,
+      "lng": -73.9408643,
+      "coordinate_source": "https://www.openstreetmap.org/node/6764188983",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "ps1",
+      "name": "MoMA PS1",
+      "category": "art",
+      "why": "Contemporary art, a courtyard and an art-book browse.",
+      "price": "Free general admission",
+      "hours": "Thu/Fri/Sun/Mon noon–6pm; Sat 10am–6pm. Closed Tue/Wed and listed holidays.",
+      "access": "Official site offers free ticket reservations. Artbook opens during museum hours. Café has limited offerings ahead of its full 2027 opening; do not plan a full café meal.",
+      "address": "22-25 Jackson Avenue, Long Island City",
+      "sources": [
+        "https://www.momaps1.org/en/visit"
+      ],
+      "area": "LIC · inland from waterfront",
+      "lat": 40.7455823,
+      "lng": -73.9474668,
+      "coordinate_source": "https://www.openstreetmap.org/way/370574294",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "hunters-library",
+      "name": "Hunters Point Library",
+      "category": "read",
+      "why": "An indoor reading stop beside the waterfront parks.",
+      "price": "Free",
+      "hours": "Mon/Wed/Fri 10am–6pm; Tue 1–6pm; Thu noon–8pm; Sat 10am–5pm; Sun noon–5pm. Closed Nov 26–27.",
+      "access": "Public library, not a residents-only Queens West lounge. QPL reports branches open despite its network outage; borrowing, Wi-Fi and this branch’s computers restored. Seating and quiet not guaranteed.",
+      "address": "47-40 Center Boulevard, Long Island City",
+      "sources": [
+        "https://connect.queenslibrary.org/17895",
+        "https://queenslibrary.org/about-us/locations/hunters-point"
+      ],
+      "area": "LIC · waterfront / ferry outing",
+      "lat": 40.7452553,
+      "lng": -73.9580328,
+      "coordinate_source": "https://www.openstreetmap.org/way/707016713",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "book-culture-lic",
+      "name": "Book Culture · LIC",
+      "category": "read",
+      "why": "An independent bookstore for fiction and unhurried browsing.",
+      "price": "Free browsing · books extra",
+      "hours": "Sun/Mon 10am–8pm; Tue–Sat 10am–9pm, per indexed official page.",
+      "access": "Actual LIC branch on Jackson Avenue. Live site blocked verification; address/hours corroborated by indexed official store page. Reading seating not established.",
+      "address": "26-09 Jackson Avenue, Long Island City",
+      "sources": [
+        "https://www.bookculture.com/store/3"
+      ],
+      "area": "LIC · Court Square / inland walk",
+      "lat": 40.7474343,
+      "lng": -73.9420028,
+      "coordinate_source": "https://www.openstreetmap.org/node/5272648326",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "sweetleaf-center",
+      "name": "Sweetleaf · Center Boulevard",
+      "category": "treat",
+      "why": "Coffee, tea or a pastry before a waterfront wander.",
+      "price": "Menu prices not published",
+      "hours": "Café Mon–Fri 7am–7pm; weekends 8am–7pm.",
+      "access": "Public café. Tea, matcha, chai and hot chocolate listed; alcohol is optional, not the reason to visit. Evening cocktail service overlaps from 5pm; quiet seating or a river-view table not guaranteed.",
+      "address": "46-15 Center Boulevard, Long Island City",
+      "sources": [
+        "https://www.sweetleafcoffee.com/pages/_locations",
+        "https://www.sweetleafcoffee.com/pages/full-menu"
+      ],
+      "area": "LIC · waterfront / ferry outing",
+      "lat": 40.7471411,
+      "lng": -73.9560426,
+      "coordinate_source": "https://www.openstreetmap.org/node/2186605427",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "form-flow-waterfront",
+      "name": "Form + Flow · Waterfront",
+      "category": "reset",
+      "why": "Try Hatha, Flow + Restore or a slower sound-and-rest class.",
+      "price": "$30 regular drop-in · mat rental $3",
+      "hours": "Class-specific; use the Waterfront schedule.",
+      "access": "Live schedule lists Hatha, Flow + Restore and Deep Restore + Sound. Choose the actual class, not vigorous Vinyasa by mistake. Arrive 10 minutes early. Second floor; step-free access unverified. No reservation made.",
+      "address": "5-18 46th Avenue, second floor, Long Island City",
+      "sources": [
+        "https://www.formandflow.co/waterfront-yoga-schedule",
+        "https://www.formandflow.co/pricings",
+        "https://www.formandflow.co/classes"
+      ],
+      "area": "LIC · waterfront / ferry outing",
+      "lat": 40.7472097,
+      "lng": -73.9548468,
+      "coordinate_source": "https://www.openstreetmap.org/way/5703266",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "brickhouse",
+      "name": "BrickHouse Ceramic Art Center",
+      "category": "make",
+      "why": "A one-off private clay lesson, without a full course.",
+      "price": "1 hour from $95 · firing extra",
+      "hours": "By arranged appointment; no same-day, next-day or walk-in lessons.",
+      "access": "Wheel throwing or hand-building for beginners. Arrange before purchasing. Two-hour solo hand-building $185; its page lists $20 to finish two small pieces. General page lists $5 wheel/$10 hand-built per piece; confirm exact package. Pickup in 2–4 weeks. No contact made.",
+      "address": "10-34 44th Drive, Long Island City",
+      "sources": [
+        "https://brickhouseny.com/collections/private-lessons",
+        "https://brickhouseny.com/products/two-hour-handbuilding"
+      ],
+      "area": "LIC · inland from ferry",
+      "lat": 40.7487106,
+      "lng": -73.9509202,
+      "coordinate_source": "https://www.openstreetmap.org/way/239623559",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "gantry",
+      "name": "Gantry Plaza State Park",
+      "category": "green",
+      "why": "Restored gantries, piers and a skyline-facing stroll.",
+      "price": "Public park · no general entry fee listed",
+      "hours": "Official hours section: dawn–dusk; dog-policy text says 8am–10pm. Prefer daylight; follow posted signs.",
+      "access": "Separate park north of Hunter’s Point South, not a duplicate. Seasonal spray pad closed. Pin is the state park’s mapped main entrance; no reserved seating or event attendance assumed.",
+      "address": "4-44 47th Road, Long Island City",
+      "sources": [
+        "https://parks.ny.gov/visit/state-parks/gantry-plaza-state-park"
+      ],
+      "area": "LIC · waterfront / ferry outing",
+      "lat": 40.74545807,
+      "lng": -73.95868387,
+      "coordinate_source": "https://www.google.com/maps?q=40.74545807,-73.95868387",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "lic-ferry",
+      "name": "Long Island City · NYC Ferry",
+      "category": "trip",
+      "why": "The Astoria-route landing for the north end of Gantry.",
+      "price": "$5 one-way · return ticket extra",
+      "hours": "Check the live Astoria route timetable and service alerts.",
+      "access": "Astoria route connects East 34th Street and Long Island City. This is a different dock from Hunters Point South (East River Local/A, not B). Official landing: 46th Avenue / Center Boulevard. No crossing-time or seat guarantee.",
+      "address": "46th Avenue and Center Boulevard, Long Island City",
+      "sources": [
+        "https://www.ferry.nyc/routes-and-schedules/astoria/",
+        "https://www.ferry.nyc/ticketing-info/",
+        "https://www.ferry.nyc/routes-and-schedules/east-river/"
+      ],
+      "area": "LIC · waterfront / ferry outing",
+      "lat": 40.7482181,
+      "lng": -73.9578769,
+      "coordinate_source": "https://www.google.com/maps/place/Long+Island+City/@40.7477057,-73.9593944,17.84z/data=!4m5!3m4!1s0x89c25921b8e7ac97:0x476418ff43bf2de0!8m2!3d40.7482181!4d-73.9578769",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "boro-cafe",
+      "name": "Boro Hotel · lobby café",
+      "category": "treat",
+      "why": "A design-hotel coffee or tea break with comfortable seating.",
+      "price": "Linked menu: drip coffee / tea $4 · extras apply",
+      "hours": "Sun–Thu 8am–10pm; Fri/Sat 8am–11pm.",
+      "access": "Hotel explicitly welcomes neighbors as well as guests. Linked Beebe’s breakfast/lunch menu adds 20% gratuity; confirm café total. Rooftop is separate and seasonal: no rooftop or skyline seat promised with coffee. Longer inland detour, not a waterfront stop.",
+      "address": "38-28 27th Street, Long Island City",
+      "sources": [
+        "https://www.borohotel.com/dining-and-drinking/lobby-cafe",
+        "https://www.beebesnyc.com/menus/"
+      ],
+      "area": "LIC · Dutch Kills / longer detour",
+      "lat": 40.7546952,
+      "lng": -73.9359441,
+      "coordinate_source": "https://www.openstreetmap.org/node/3885908737",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "noguchi",
+      "name": "The Noguchi Museum",
+      "category": "art",
+      "why": "Sculpture, a quiet garden and room to look slowly.",
+      "price": "$16 adult · free first Friday",
+      "hours": "Wed–Sun 10am–5pm; last entry 4:30pm. Closed Mon/Tue.",
+      "access": "Buy admission on arrival; no advance reservation currently. Wheelchair accessible. No food or drink except lidded water. Astoria-border excursion well north of Gantry; museum directs ferry visitors to Astoria landing. Not part of a short LIC waterfront loop.",
+      "address": "9-01 33rd Road, at Vernon Boulevard, Queens",
+      "sources": [
+        "https://www.noguchi.org/museum/visit/plan/"
+      ],
+      "area": "Astoria border · separate farther excursion",
+      "lat": 40.7669901,
+      "lng": -73.9376072,
+      "coordinate_source": "https://www.openstreetmap.org/way/383689939",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "live-sauna",
+      "name": "LIVE Hydration LIC · sauna & plunge",
+      "category": "reset",
+      "why": "A sauna-and-cold-plunge option near the LIC waterfront.",
+      "price": "Standalone session price unverified",
+      "hours": "Tue–Sun 11am–7pm; appointment availability unverified.",
+      "access": "Operator currently lists sauna/cold plunge. Confirm standalone rate, session length and private-room terms before booking. Not a float tank. Listed only for sauna/plunge, not an endorsement of IV drips or medical/detox claims.",
+      "address": "46-05 Vernon Boulevard, Long Island City",
+      "sources": [
+        "https://livehydrationspalic.com/"
+      ],
+      "area": "LIC · waterfront / ferry outing",
+      "lat": 40.746623,
+      "lng": -73.952446,
+      "coordinate_source": "https://www.google.com/maps/place/46-05+Vernon+Blvd,+Long+Island+City,+NY+11101,+USA/@40.746627,-73.9550209,17z/data=!3m1!4b1!4m6!3m5!1s0x89c25926bc65e2e3:0xef754861d1fc53ea!8m2!3d40.746623!4d-73.952446!16s%2Fg%2F11c5bltjsn?entry=ttu",
+      "checked": "2026-11-21"
     }
   ],
   "groups": [
