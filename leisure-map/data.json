@@ -1,0 +1,371 @@
+{
+  "title": "Leisure, mapped",
+  "updated": "2026-11-21",
+  "venues": [
+    {
+      "id": "tudor",
+      "name": "Tudor City Greens",
+      "category": "green",
+      "why": "A planted pocket park for a bench and a book.",
+      "price": "Free",
+      "hours": "Official hours conflict; visit in daylight and follow posted gates.",
+      "access": "Open to visitors. No bicycles or dogs. Pin marks the south garden.",
+      "address": "Tudor City Place, E41st–E43rd",
+      "sources": [
+        "https://www.tudorcitygreens.org/park-rules",
+        "https://www.tudorcitygreens.org/thegreens"
+      ],
+      "area": "Manhattan",
+      "lat": 40.7488411,
+      "lng": -73.9708997,
+      "coordinate_source": "https://www.openstreetmap.org/way/23048493",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "st-vartan",
+      "name": "St. Vartan Park Garden",
+      "category": "green",
+      "why": "A small public garden; an easy pause among trees.",
+      "price": "Free",
+      "hours": "Typically daily 8am–6pm; rain closures.",
+      "access": "Garden remains open during nearby playground construction through spring 2027. Park-area pin; garden entrance on First Avenue.",
+      "address": "617 First Avenue, between E35th & E36th",
+      "sources": [
+        "https://stvartanpark.org/garden",
+        "https://stvartanpark.org/playground"
+      ],
+      "area": "Manhattan",
+      "lat": 40.7451557,
+      "lng": -73.9737154,
+      "coordinate_source": "https://www.openstreetmap.org/relation/14425097",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "ford",
+      "name": "Ford Foundation garden",
+      "category": "green",
+      "why": "Indoor trees, a reflecting pool and a small art gallery.",
+      "price": "Free · register",
+      "hours": "Mon–Fri 11am–6pm. Sat 10am–4pm only during exhibitions. Closed Sun; check special closures.",
+      "access": "Register by 5pm the previous day. Photo ID and security screening; no large bags. Enter on E43rd.",
+      "address": "320 East 43rd Street",
+      "sources": [
+        "https://www.fordfoundation.org/about/the-ford-foundation-center-for-social-justice/visitor-information/"
+      ],
+      "area": "Manhattan",
+      "lat": 40.7500059,
+      "lng": -73.9710785,
+      "coordinate_source": "https://www.openstreetmap.org/node/11761668239",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "snfl",
+      "name": "Stavros Niarchos Library",
+      "category": "read",
+      "why": "Browse, read indoors, then take a rooftop air break.",
+      "price": "Free",
+      "hours": "Library: Mon–Thu 8am–9pm; Fri until 8pm; weekends 10am–6pm. Terrace has separate hours; holiday exceptions.",
+      "access": "Walk in; seating first come. Terrace café is closed. No e-bikes or e-scooters inside, except mobility aids.",
+      "address": "455 Fifth Avenue at E40th",
+      "sources": [
+        "https://www.nypl.org/locations/snfl",
+        "https://www.nypl.org/locations/snfl/event-center"
+      ],
+      "area": "Manhattan",
+      "lat": 40.7517015,
+      "lng": -73.9814773,
+      "coordinate_source": "https://www.openstreetmap.org/way/265424467",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "morgan",
+      "name": "The Morgan Library & Museum",
+      "category": "art",
+      "why": "Historic rooms, manuscripts, or just a café stop.",
+      "price": "$25 museum · café purchases extra",
+      "hours": "Tue–Sun 10:30am–5pm; Fri until 8pm. Closed Mon.",
+      "access": "Historic rooms free Tue/Sun 3–5pm. Full museum free Fri 5–8pm with reservation. Café/shop entry free. Garden seasonal, currently closed. Verify indexed-source details before travel.",
+      "address": "225 Madison Avenue at E36th",
+      "sources": [
+        "https://www.themorgan.org/visit",
+        "https://www.themorgan.org/visit/faq"
+      ],
+      "area": "Manhattan",
+      "lat": 40.7492685,
+      "lng": -73.9814652,
+      "coordinate_source": "https://www.openstreetmap.org/node/4462440249",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "japan-society",
+      "name": "Japan Society",
+      "category": "art",
+      "why": "A focused gallery visit or a scheduled film screening.",
+      "price": "$20 gallery · films priced by event",
+      "hours": "Gallery Tue–Fri 11am–5pm; weekends noon–6pm. Closed Mon and major holidays.",
+      "access": "Timed gallery tickets. Films follow their own calendar, not gallery hours; check the title and date.",
+      "address": "333 East 47th Street",
+      "sources": [
+        "https://japansociety.org/gallery/",
+        "https://japansociety.org/about/visit-us/",
+        "https://japansociety.org/calendar/"
+      ],
+      "area": "Manhattan",
+      "lat": 40.7525569,
+      "lng": -73.9682461,
+      "coordinate_source": "https://www.openstreetmap.org/way/265512015",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "pomme",
+      "name": "Pomme Palais",
+      "category": "treat",
+      "why": "Coffee, herbal tea and pastry at the Palace hotel.",
+      "price": "Coffee from $4.95 · tea from $4.50",
+      "hours": "Daily 6:30am–5pm.",
+      "access": "Public-facing café; no hotel stay required. Seating and quiet are not guaranteed. Hotel-building pin; café on the E51st side.",
+      "address": "455 Madison Avenue · E51st Street side",
+      "sources": [
+        "https://www.lottenypalace.com/pomme-palais",
+        "https://www.lottenypalace.com/FAQ"
+      ],
+      "area": "Manhattan",
+      "lat": 40.7579803,
+      "lng": -73.974769,
+      "coordinate_source": "https://www.openstreetmap.org/way/162764018",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "bathhouse",
+      "name": "Bathhouse Flatiron",
+      "category": "reset",
+      "why": "Warm pools, sauna and steam; a communal reset.",
+      "price": "Day pass from $39 · varies by slot",
+      "hours": "Daily 8am–11:30pm.",
+      "access": "Timed booking. Bring a swimsuit; towels and slippers included. Single entry, no re-entry. Not a float tank or a silent private spa.",
+      "address": "14 West 22nd Street",
+      "sources": [
+        "https://bathhouse.com/flatiron",
+        "https://bathhouse.com/first-timers",
+        "https://bathhouse.com/day-pass"
+      ],
+      "area": "Flatiron · plan a trip",
+      "lat": 40.7411181,
+      "lng": -73.9912346,
+      "coordinate_source": "https://www.openstreetmap.org/node/13509389893",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "gotham",
+      "name": "Gotham Pottery",
+      "category": "make",
+      "why": "Paint a ready-made pot, or try beginner hand-building.",
+      "price": "Painting: $18 + piece · hand-building $65",
+      "hours": "Studio daily 10am–10pm; book an actual session.",
+      "access": "Painting is 90 minutes; piece cost extra. Hand-building is two hours. Fired pieces require a later pickup, usually in about two weeks.",
+      "address": "146 West 29th Street, Suite 5W",
+      "sources": [
+        "https://www.gothampottery.com/book/painting",
+        "https://www.gothampottery.com/"
+      ],
+      "area": "Chelsea · plan a trip",
+      "lat": 40.7472961,
+      "lng": -73.992145,
+      "coordinate_source": "https://www.openstreetmap.org/way/264685233",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "sivananda",
+      "name": "Sivananda Yoga",
+      "category": "reset",
+      "why": "Gentle yoga with a meditative relaxation finish.",
+      "price": "Published rates conflict: $18 / $22",
+      "hours": "Class-specific; confirm a Gentle Yoga session.",
+      "access": "Walk-ins welcomed, but a current Gentle session was not verified. Check schedule and checkout rate; an Open Class is not the same offering.",
+      "address": "243 West 24th Street",
+      "sources": [
+        "https://sivanandanyc.org/gentle-yoga/",
+        "https://sivanandanyc.org/rates/",
+        "https://sivanandanyc.org/class-schedule/",
+        "https://sivanandanyc.org/contact/"
+      ],
+      "area": "Chelsea · plan a trip",
+      "lat": 40.7456826,
+      "lng": -73.9968849,
+      "coordinate_source": "https://www.openstreetmap.org/way/264650776",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "ohm",
+      "name": "Ohm Spa",
+      "category": "reset",
+      "why": "A private, light-to-medium pressure Swedish massage.",
+      "price": "$199 / 60 min · $259 / 90 min",
+      "hours": "By appointment; confirmed treatment time governs.",
+      "access": "Appointment required. No pool, sauna or day-pass access assumed. Use East 16th Street, not the old Fifth Avenue address.",
+      "address": "205 East 16th Street, Suite M2A",
+      "sources": [
+        "https://ohmspa.com/massage-therapy/",
+        "https://ohmspa.com/contact-us/"
+      ],
+      "area": "Gramercy · plan a trip",
+      "lat": 40.7345922,
+      "lng": -73.9856103,
+      "coordinate_source": "https://www.openstreetmap.org/way/264752106",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "mcnally-rockefeller",
+      "name": "McNally Jackson · Rockefeller",
+      "category": "read",
+      "why": "Fiction browsing, stationery and a literary detour.",
+      "price": "Free browsing · books extra",
+      "hours": "Daily 10am–9pm.",
+      "access": "Check each event’s branch and date. No Grand Central Terminal branch appears in the official five-store list.",
+      "address": "One Rockefeller Plaza",
+      "sources": [
+        "https://mcnallyjackson.com/store/5",
+        "https://mcnallyjackson.com/events"
+      ],
+      "area": "Manhattan",
+      "lat": 40.7578543,
+      "lng": -73.9791545,
+      "coordinate_source": "https://www.openstreetmap.org/node/10693951251",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "central-park",
+      "name": "Central Park · southeast entrance",
+      "category": "green",
+      "why": "Enter at Grand Army Plaza for a south-end wander.",
+      "price": "Free",
+      "hours": "Check park notices before a late visit.",
+      "access": "Public park entrance at Fifth Avenue / E59th–60th. Start here for a walk; use designated cycling routes, not pedestrian paths.",
+      "address": "Grand Army Plaza, Manhattan",
+      "sources": [
+        "https://www.centralparknyc.org/locations/grand-army-plaza"
+      ],
+      "area": "Central Park · outing",
+      "lat": 40.76490078,
+      "lng": -73.97299111,
+      "coordinate_source": "https://www.centralparknyc.org/locations?lat=40.76490078&lng=-73.97299111",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "tram",
+      "name": "Roosevelt Island Tram · Manhattan",
+      "category": "trip",
+      "why": "An aerial river crossing; pair it with an island walk.",
+      "price": "Standard MTA fare · OMNY accepted",
+      "hours": "Sun–Thu 6am–2am; Fri–Sat 6am–3:30am. Check alerts.",
+      "access": "Bicycles and mobility devices accommodated. Tram normally every 15 min; 7.5 min at weekday rush hours. Island park is a separate walk.",
+      "address": "254 East 60th Street / Second Avenue",
+      "sources": [
+        "https://www.rioc.ny.gov/community/transportation/tram"
+      ],
+      "area": "Roosevelt Island · outing",
+      "lat": 40.7612789,
+      "lng": -73.9641664,
+      "coordinate_source": "https://www.google.com/maps/search/?api=1&query=Roosevelt+Island+Tramway+254+E+60th+St",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "four-freedoms",
+      "name": "FDR Four Freedoms Park",
+      "category": "green",
+      "why": "Open sky, river views and a spare waterfront memorial.",
+      "price": "Free",
+      "hours": "9am–5pm in winter; closed Tuesdays. Check holiday notices.",
+      "access": "The park is south of the tram; allow a separate island walk. No bicycles, scooters or pets inside; leave the bike outside. Food only in designated areas.",
+      "address": "1 FDR Four Freedoms Park, Roosevelt Island",
+      "sources": [
+        "https://www.fdrfourfreedomspark.org/visit/planning-your-visit/"
+      ],
+      "area": "Roosevelt Island · outing",
+      "lat": 40.750659,
+      "lng": -73.9604461,
+      "coordinate_source": "https://www.openstreetmap.org/way/108315458",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "ferry-34",
+      "name": "East 34th Street · NYC Ferry",
+      "category": "trip",
+      "why": "The departure point for a Hunter’s Point park outing.",
+      "price": "$5 one-way · return ticket extra",
+      "hours": "Use the live East River timetable; service varies by day.",
+      "access": "Choose East River Local or East River (A) serving Hunters Point South, not (B). Landing is at E35th / FDR. Bikes welcome, capacity subject to boarding. No seat reserved.",
+      "address": "East 35th Street at FDR Drive",
+      "sources": [
+        "https://www.ferry.nyc/routes-and-schedules/east-river/",
+        "https://www.ferry.nyc/ticketing-info/"
+      ],
+      "area": "Ferry departure",
+      "lat": 40.7439373,
+      "lng": -73.9707115,
+      "coordinate_source": "https://www.openstreetmap.org/node/13824799758",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "hunters-point",
+      "name": "Hunter’s Point South Park",
+      "category": "green",
+      "why": "Waterfront paths and Manhattan skyline views.",
+      "price": "Park free · ferry fare separate",
+      "hours": "Check posted park notices; current gate hours not verified.",
+      "access": "Pair with the East 34th Street ferry. Park pin is not the ferry dock: landing is at 54th Avenue / 2nd Street. No travel-time promise.",
+      "address": "Center Boulevard waterfront, Long Island City",
+      "sources": [
+        "https://www.nycgovparks.org/parks/hunters-point-south-park",
+        "https://www.ferry.nyc/routes-and-schedules/east-river/"
+      ],
+      "area": "Queens · ferry outing",
+      "lat": 40.7422936,
+      "lng": -73.9606831,
+      "coordinate_source": "Google Maps place coordinates in supplied Hunter’s Point South Park URL",
+      "checked": "2026-11-21"
+    },
+    {
+      "id": "lift",
+      "name": "Lift / Next Level Floats",
+      "category": "reset",
+      "why": "A dedicated float pod or float room, beyond Manhattan.",
+      "price": "First-time 60-minute float $89",
+      "hours": "Daily 9:15am–10pm; first float 9:30am, last 8:30pm.",
+      "access": "Current operator booking menu lists one-hour pods and float rooms. Appointment availability not checked. Second-floor location; step-free access not established. Deliberately farther than a local bike outing.",
+      "address": "320 Court Street, second floor, Brooklyn",
+      "sources": [
+        "https://www.liftfloats.com/"
+      ],
+      "area": "Brooklyn · farther afield",
+      "lat": 40.6832574,
+      "lng": -73.9956863,
+      "coordinate_source": "https://www.openstreetmap.org/way/241825785",
+      "checked": "2026-11-21"
+    }
+  ],
+  "groups": [
+    {
+      "name": "The Millennialish Book Club",
+      "url": "https://www.meetup.com/the-millennialish-book-club/",
+      "note": "Organizer page; check current events and meeting venue."
+    },
+    {
+      "name": "Philosophy & Psychology Readers",
+      "url": "https://www.meetup.com/reading-philosophy/events/",
+      "note": "Public event listings; venues are event-specific."
+    },
+    {
+      "name": "Astoria Book Club",
+      "url": "https://www.instagram.com/p/Df7RFg2gUhD/",
+      "note": "Historical social-post lead only. No current December meeting verified."
+    }
+  ],
+  "unmapped": [
+    {
+      "name": "UN Gift Garden / Good Defeats Evil",
+      "note": "Not a walk-in garden recommendation. The official tour listing describes a Chambers to Garden tour; visitors must pre-register for security. Current garden-tour dates and independent sculpture access are unverified. The UN pages blocked live retrieval; indexed official information only.",
+      "url": "https://www.un.org/en/visit/tour"
+    }
+  ]
+}
