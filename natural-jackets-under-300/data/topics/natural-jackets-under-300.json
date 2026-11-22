@@ -2,11 +2,11 @@
   "id": "natural-jackets-under-300",
   "layout": "natural-basics",
   "catalog": true,
-  "title": "Natural-fabric jackets under $300",
+  "title": "Jackets & sweaters under $300",
   "defaultSort": "price",
   "updated": "2026-11-22",
   "recommendation": {},
-  "summary": "Bounded search across the approved retailer roster, not all inventory. Men’s jackets, overshirts and chore coats; all colors; S or M; prices strictly below $300 before shipping and tax.",
+  "summary": "Bounded search across the approved retailer roster, not all inventory. Men’s jackets, sweaters, overshirts and chore coats; all colors; S or M; prices strictly below $300 before shipping and tax.",
   "evidenceNote": "Bounded search, not an exhaustive inventory. One card per proposed exact color; full-price and evidenced sale offers, cheapest first. Availability and prices can change.",
   "caveat": "Main-fabric qualification is not a whole-garment natural-material claim. Shipping, tax and destination-specific delivery estimates are not included. See expandable coverage for each store’s gaps.",
   "products": [
@@ -8509,6 +8509,2164 @@
       "attribution": "Retailer product evidence; not an endorsement.",
       "image": "assets/images/4adb382c44cca8c56659f4c762d7baccf14d9583bec038ef74091dc041d96a2a.jpg",
       "imageAlt": "Carhartt WIP OG Active Jacket (unlined canvas) — WIP Hamilton Brown (rinsed) — photo 1"
+    },
+    {
+      "id": "sweater-33c0aa3d0418",
+      "name": "Hawes & Curtis · Sky Blue V-Neck Sweater - Machine Washable — Sky Blue",
+      "url": "https://www.hawesandcurtis.com/sky-blue-v-neck-sweater-machine-washable-jwpwh003-b56",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Sky Blue",
+      "unitPriceUSD": 59.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small available",
+      "deal": "$59, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-33c0aa3d0418"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-B56-205759-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/sky-blue-v-neck-sweater-machine-washable-jwpwh003-b56",
+          "alt": "Hawes & Curtis Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — photo 1",
+          "src": "assets/images/bdf49aa33a85bcea684d6cb5f3fd6952f1cc65853a320c990931ddca50e6a9b3.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-B56-205760-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/sky-blue-v-neck-sweater-machine-washable-jwpwh003-b56",
+          "alt": "Hawes & Curtis Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — photo 2",
+          "src": "assets/images/78c50cfc2ac218206dc4ea2041f779fb8ec5e0f356b21688c81e93696711d422.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-B56-205761-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/sky-blue-v-neck-sweater-machine-washable-jwpwh003-b56",
+          "alt": "Hawes & Curtis Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — photo 3",
+          "src": "assets/images/35facdbe01b9b9ae397aa6acb847a14327fc60057984c34160651f9edb6081b9.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-B56-205762-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/sky-blue-v-neck-sweater-machine-washable-jwpwh003-b56",
+          "alt": "Hawes & Curtis Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — photo 4",
+          "src": "assets/images/713e141ae4ba44360c016c906397050d61c6ad0402b9065ad8147f93bd3a4661.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-B56-205764-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/sky-blue-v-neck-sweater-machine-washable-jwpwh003-b56",
+          "alt": "Hawes & Curtis Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — photo 5",
+          "src": "assets/images/9926ad142df94fdaf7b92effe41bf3c14d23e2c9b455d787b3d1b3d434f4d8be.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-B56-205763-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/sky-blue-v-neck-sweater-machine-washable-jwpwh003-b56",
+          "alt": "Hawes & Curtis Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — photo 6",
+          "src": "assets/images/c0f17342e24f29fd5496a095447fac427d5a69b7035526d899d55a56e149519f.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/bdf49aa33a85bcea684d6cb5f3fd6952f1cc65853a320c990931ddca50e6a9b3.jpg",
+      "imageAlt": "Hawes & Curtis Sky Blue V-Neck Sweater - Machine Washable — Sky Blue — photo 1"
+    },
+    {
+      "id": "sweater-4d8a5df7ac51",
+      "name": "Hawes & Curtis · Black Crew Neck Sweater - Machine Washable — Black",
+      "url": "https://www.hawesandcurtis.com/black-crew-neck-jumper-machine-washable-jwpwh004-a01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Black",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-4d8a5df7ac51"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-A01-218293-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-crew-neck-jumper-machine-washable-jwpwh004-a01",
+          "alt": "Hawes & Curtis Black Crew Neck Sweater - Machine Washable — Black — photo 1",
+          "src": "assets/images/3444d2657dc427d863a7c1b580c721a268f83c1e7358ff8bd116fbeebc076eee.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-A01-218297-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-crew-neck-jumper-machine-washable-jwpwh004-a01",
+          "alt": "Hawes & Curtis Black Crew Neck Sweater - Machine Washable — Black — photo 2",
+          "src": "assets/images/4ed77249d5722d37e59a5883f95479e112fe1d96bdcb3fcbffd1ef6635efdcfb.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-A01-218294-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-crew-neck-jumper-machine-washable-jwpwh004-a01",
+          "alt": "Hawes & Curtis Black Crew Neck Sweater - Machine Washable — Black — photo 3",
+          "src": "assets/images/fbf684faf9bc39e899bed3e44bc94af257b12bb2a62b87bc98a534252f6082dc.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-A01-218296-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-crew-neck-jumper-machine-washable-jwpwh004-a01",
+          "alt": "Hawes & Curtis Black Crew Neck Sweater - Machine Washable — Black — photo 4",
+          "src": "assets/images/2c5a982b1b46a443d5ded78438f682c3d17dcac264b851b37041ed9edcc60671.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-A01-218295-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-crew-neck-jumper-machine-washable-jwpwh004-a01",
+          "alt": "Hawes & Curtis Black Crew Neck Sweater - Machine Washable — Black — photo 5",
+          "src": "assets/images/78d5b6c1603d9bdeafa395eacc11b5ba356300ca4988974f3fc05f49809dfcbe.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/3444d2657dc427d863a7c1b580c721a268f83c1e7358ff8bd116fbeebc076eee.jpg",
+      "imageAlt": "Hawes & Curtis Black Crew Neck Sweater - Machine Washable — Black — photo 1"
+    },
+    {
+      "id": "sweater-0f567821694a",
+      "name": "Hawes & Curtis · Black Roll Neck Sweater - Machine Washable — Black",
+      "url": "https://www.hawesandcurtis.com/black-roll-neck-merino-jumper-machine-washable-jwpwh002-a01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Black",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-0f567821694a"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-A01-217455-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-roll-neck-merino-jumper-machine-washable-jwpwh002-a01",
+          "alt": "Hawes & Curtis Black Roll Neck Sweater - Machine Washable — Black — photo 1",
+          "src": "assets/images/c95128b098143e9ff1e8700ca89339cc3d7b9a0defca36d37de09d9b67b9df1c.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-A01-217456-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-roll-neck-merino-jumper-machine-washable-jwpwh002-a01",
+          "alt": "Hawes & Curtis Black Roll Neck Sweater - Machine Washable — Black — photo 2",
+          "src": "assets/images/efda86e114040b1b897b735e7db2ad0bc19f58488657fa6861327bf09725854f.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-A01-217457-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-roll-neck-merino-jumper-machine-washable-jwpwh002-a01",
+          "alt": "Hawes & Curtis Black Roll Neck Sweater - Machine Washable — Black — photo 3",
+          "src": "assets/images/5fb2b129c378be2d933afcbfe7f724b489c8187495082767c89a3f4952a6a2e8.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-A01-217458-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-roll-neck-merino-jumper-machine-washable-jwpwh002-a01",
+          "alt": "Hawes & Curtis Black Roll Neck Sweater - Machine Washable — Black — photo 4",
+          "src": "assets/images/855b74b06e9407b8521307bf07bae235eac3cdda3a041c20d12be5a16e937e82.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/c95128b098143e9ff1e8700ca89339cc3d7b9a0defca36d37de09d9b67b9df1c.jpg",
+      "imageAlt": "Hawes & Curtis Black Roll Neck Sweater - Machine Washable — Black — photo 1"
+    },
+    {
+      "id": "sweater-b36b31a7fcb3",
+      "name": "Hawes & Curtis · Black V-Neck Cardigan - Machine Washable — Black",
+      "url": "https://www.hawesandcurtis.com/black-v-neck-cardigan-machine-washable-jwpwh007-a01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Black",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-b36b31a7fcb3"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-A01-218337-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-v-neck-cardigan-machine-washable-jwpwh007-a01",
+          "alt": "Hawes & Curtis Black V-Neck Cardigan - Machine Washable — Black — photo 1",
+          "src": "assets/images/2277f98bd3a41e267f23a38f2aa3bebd568d6a2ae43fb7141d89bc266d25b4ff.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-A01-218342-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-v-neck-cardigan-machine-washable-jwpwh007-a01",
+          "alt": "Hawes & Curtis Black V-Neck Cardigan - Machine Washable — Black — photo 2",
+          "src": "assets/images/8e793bbf9c24ae5e2d4c6a5346af8e365284529ae827fe34e0f5298dfa62a95b.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-A01-218338-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-v-neck-cardigan-machine-washable-jwpwh007-a01",
+          "alt": "Hawes & Curtis Black V-Neck Cardigan - Machine Washable — Black — photo 3",
+          "src": "assets/images/352d7906e3a8d3b4de55248e32889f314642cc7ad986d143ff6b5b435e8026b7.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-A01-218339-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-v-neck-cardigan-machine-washable-jwpwh007-a01",
+          "alt": "Hawes & Curtis Black V-Neck Cardigan - Machine Washable — Black — photo 4",
+          "src": "assets/images/7bda8a2d93857e34fa21bbd401e37a3462e437c1839ae71ea7bc9f84e7230402.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-A01-218341-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-v-neck-cardigan-machine-washable-jwpwh007-a01",
+          "alt": "Hawes & Curtis Black V-Neck Cardigan - Machine Washable — Black — photo 5",
+          "src": "assets/images/56311cefe86ea953677bc0f7e8516c5bc54dfe9e8bbdb4bf42a8f4f8a2f435fe.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-A01-218340-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-v-neck-cardigan-machine-washable-jwpwh007-a01",
+          "alt": "Hawes & Curtis Black V-Neck Cardigan - Machine Washable — Black — photo 6",
+          "src": "assets/images/9cdf28a504607a6a6dc0eb5bc2b43c5b93a7456d062be8c0f50c2f9a3fddef63.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/2277f98bd3a41e267f23a38f2aa3bebd568d6a2ae43fb7141d89bc266d25b4ff.jpg",
+      "imageAlt": "Hawes & Curtis Black V-Neck Cardigan - Machine Washable — Black — photo 1"
+    },
+    {
+      "id": "sweater-9ecff19634f5",
+      "name": "Hawes & Curtis · Black V-Neck Sweater - Machine Washable — Black",
+      "url": "https://www.hawesandcurtis.com/black-v-neck-merino-jumper-machine-washable-jwpwh003-a01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Black",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-9ecff19634f5"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-A01-218288-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-v-neck-merino-jumper-machine-washable-jwpwh003-a01",
+          "alt": "Hawes & Curtis Black V-Neck Sweater - Machine Washable — Black — photo 1",
+          "src": "assets/images/5deae34d0e6064836ca38dbc120b6bdb7d076a28b9bee89208b236b04cce593a.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-A01-218292-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-v-neck-merino-jumper-machine-washable-jwpwh003-a01",
+          "alt": "Hawes & Curtis Black V-Neck Sweater - Machine Washable — Black — photo 2",
+          "src": "assets/images/82e889e7d3c3caa5a22d2369b866bee19b8406a8e58668098ef6c5ee4108fd8a.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-A01-218289-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-v-neck-merino-jumper-machine-washable-jwpwh003-a01",
+          "alt": "Hawes & Curtis Black V-Neck Sweater - Machine Washable — Black — photo 3",
+          "src": "assets/images/4473fb5e6d2b58aee745b2fcbc04d5565acc913d67b2c2dff690fa1c4de80cbb.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-A01-218291-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-v-neck-merino-jumper-machine-washable-jwpwh003-a01",
+          "alt": "Hawes & Curtis Black V-Neck Sweater - Machine Washable — Black — photo 4",
+          "src": "assets/images/8b79a9fc76367b531800f897248f4ee49c99500a545b95ea8507c25b5b017dc0.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-A01-218290-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/black-v-neck-merino-jumper-machine-washable-jwpwh003-a01",
+          "alt": "Hawes & Curtis Black V-Neck Sweater - Machine Washable — Black — photo 5",
+          "src": "assets/images/9ba723e3ce8e87a55b85e6f2098557a0a374f6915f8a96118dbad9b204e967bc.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/5deae34d0e6064836ca38dbc120b6bdb7d076a28b9bee89208b236b04cce593a.jpg",
+      "imageAlt": "Hawes & Curtis Black V-Neck Sweater - Machine Washable — Black — photo 1"
+    },
+    {
+      "id": "sweater-4e7558a08a50",
+      "name": "Hawes & Curtis · Claret Crew Neck Sweater - Machine Washable — Claret",
+      "url": "https://www.hawesandcurtis.com/claret-crew-neck-jumper-machine-washable-jwpwh004-k97",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Claret",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-4e7558a08a50"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-K97-218300-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/claret-crew-neck-jumper-machine-washable-jwpwh004-k97",
+          "alt": "Hawes & Curtis Claret Crew Neck Sweater - Machine Washable — Claret — photo 1",
+          "src": "assets/images/e7d63e2f7cdf6f6ffee87b9302fe2912db3aa00a04e5e64a3a3b0ea7f56b5701.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-K97-218302-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/claret-crew-neck-jumper-machine-washable-jwpwh004-k97",
+          "alt": "Hawes & Curtis Claret Crew Neck Sweater - Machine Washable — Claret — photo 2",
+          "src": "assets/images/a7c6e3b5d94875049c8e65520fe99b1c916d98c99e8805e5d3ecc39d8660e73a.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-K97-218301-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/claret-crew-neck-jumper-machine-washable-jwpwh004-k97",
+          "alt": "Hawes & Curtis Claret Crew Neck Sweater - Machine Washable — Claret — photo 3",
+          "src": "assets/images/fdb3d01392bf912858049e4e2a252e85b931def6e29a6faa8fd493386095b83c.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-K97-218299-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/claret-crew-neck-jumper-machine-washable-jwpwh004-k97",
+          "alt": "Hawes & Curtis Claret Crew Neck Sweater - Machine Washable — Claret — photo 4",
+          "src": "assets/images/4367a0d26d8526e652a2f2c7f90f376455354ef3dac1ad70de7a1f3ba5f8c372.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-K97-218298-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/claret-crew-neck-jumper-machine-washable-jwpwh004-k97",
+          "alt": "Hawes & Curtis Claret Crew Neck Sweater - Machine Washable — Claret — photo 5",
+          "src": "assets/images/81623f1c6beab71e149b0a1fb306309bb20426b909ce353a123bbda7c635a39c.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/e7d63e2f7cdf6f6ffee87b9302fe2912db3aa00a04e5e64a3a3b0ea7f56b5701.jpg",
+      "imageAlt": "Hawes & Curtis Claret Crew Neck Sweater - Machine Washable — Claret — photo 1"
+    },
+    {
+      "id": "sweater-4503247624f2",
+      "name": "Hawes & Curtis · Claret Roll Neck Sweater - Machine Washable — Claret",
+      "url": "https://www.hawesandcurtis.com/claret-roll-neck-merino-jumper-machine-washable-jwpwh002-k97",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Claret",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-4503247624f2"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-K97-217472-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/claret-roll-neck-merino-jumper-machine-washable-jwpwh002-k97",
+          "alt": "Hawes & Curtis Claret Roll Neck Sweater - Machine Washable — Claret — photo 1",
+          "src": "assets/images/32e5b96feb3cd426051bddb5e02687a3458f55b2e8db6f31e0a36477f7f40c24.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-K97-217473-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/claret-roll-neck-merino-jumper-machine-washable-jwpwh002-k97",
+          "alt": "Hawes & Curtis Claret Roll Neck Sweater - Machine Washable — Claret — photo 2",
+          "src": "assets/images/f2a7e9b2c0913090059c14ff5a3dba13d7547501d0c1b314f9eebf0ed960a5ba.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-K97-217471-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/claret-roll-neck-merino-jumper-machine-washable-jwpwh002-k97",
+          "alt": "Hawes & Curtis Claret Roll Neck Sweater - Machine Washable — Claret — photo 3",
+          "src": "assets/images/8e1ab5c571a7c158366f4d8ac652b96b658d5f65f29d9f478ad4a1a2e0f4752a.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-K97-217474-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/claret-roll-neck-merino-jumper-machine-washable-jwpwh002-k97",
+          "alt": "Hawes & Curtis Claret Roll Neck Sweater - Machine Washable — Claret — photo 4",
+          "src": "assets/images/88644f29d3b0052c5659d6143c44e85a6e378eeab94f5b00d44a5c7a7d7903df.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/32e5b96feb3cd426051bddb5e02687a3458f55b2e8db6f31e0a36477f7f40c24.jpg",
+      "imageAlt": "Hawes & Curtis Claret Roll Neck Sweater - Machine Washable — Claret — photo 1"
+    },
+    {
+      "id": "sweater-b2afbf67bf70",
+      "name": "Hawes & Curtis · Cream Roll Neck Sweater - Machine Washable — Cream",
+      "url": "https://www.hawesandcurtis.com/cream-roll-neck-merino-jumper-machine-washable-jwpwh002-h68",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Cream",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-b2afbf67bf70"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-H68-219826-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/cream-roll-neck-merino-jumper-machine-washable-jwpwh002-h68",
+          "alt": "Hawes & Curtis Cream Roll Neck Sweater - Machine Washable — Cream — photo 1",
+          "src": "assets/images/a8fbee1114b91dbdad269d94fecc20f94ca97997b6eb7c319933c30c1d9a22b0.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-H68-219827-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/cream-roll-neck-merino-jumper-machine-washable-jwpwh002-h68",
+          "alt": "Hawes & Curtis Cream Roll Neck Sweater - Machine Washable — Cream — photo 2",
+          "src": "assets/images/ba29710b143b5c9451c144051cc66020f1658465268ebe7b6b36444fe926875f.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-H68-219828-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/cream-roll-neck-merino-jumper-machine-washable-jwpwh002-h68",
+          "alt": "Hawes & Curtis Cream Roll Neck Sweater - Machine Washable — Cream — photo 3",
+          "src": "assets/images/d9821dace1be1bfc8dfe7c021a97a29f23c644ab02508b730136fc76c356758c.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-H68-219829-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/cream-roll-neck-merino-jumper-machine-washable-jwpwh002-h68",
+          "alt": "Hawes & Curtis Cream Roll Neck Sweater - Machine Washable — Cream — photo 4",
+          "src": "assets/images/caab1ef5683ded73eebb38c9bdddebb58b2ad2b7261e97cad0f069466c12cf6c.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-H68-219830-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/cream-roll-neck-merino-jumper-machine-washable-jwpwh002-h68",
+          "alt": "Hawes & Curtis Cream Roll Neck Sweater - Machine Washable — Cream — photo 5",
+          "src": "assets/images/c896cb529578b1db8ab825253497bfeaa9217e81d849ab22f67399809a11d095.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/a8fbee1114b91dbdad269d94fecc20f94ca97997b6eb7c319933c30c1d9a22b0.jpg",
+      "imageAlt": "Hawes & Curtis Cream Roll Neck Sweater - Machine Washable — Cream — photo 1"
+    },
+    {
+      "id": "sweater-ecd6dbfa40bd",
+      "name": "Hawes & Curtis · Dark Brown Roll Neck Sweater - Machine Washable — Dark Brown",
+      "url": "https://www.hawesandcurtis.com/dark-brown-roll-neck-merino-sweater-machine-washable-jwpwh002-c40",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Dark Brown",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-ecd6dbfa40bd"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-C40-217475-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/dark-brown-roll-neck-merino-sweater-machine-washable-jwpwh002-c40",
+          "alt": "Hawes & Curtis Dark Brown Roll Neck Sweater - Machine Washable — Dark Brown — photo 1",
+          "src": "assets/images/f5ad7a45ef6b9fd17e0ce76f98e072c2bcbca75f4afe51347f7b199dbae2a416.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-C40-217479-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/dark-brown-roll-neck-merino-sweater-machine-washable-jwpwh002-c40",
+          "alt": "Hawes & Curtis Dark Brown Roll Neck Sweater - Machine Washable — Dark Brown — photo 2",
+          "src": "assets/images/905327a957ad44ed2f900985e8df7d48477875f658961c8f0ec6281da88fe92a.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-C40-217478-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/dark-brown-roll-neck-merino-sweater-machine-washable-jwpwh002-c40",
+          "alt": "Hawes & Curtis Dark Brown Roll Neck Sweater - Machine Washable — Dark Brown — photo 3",
+          "src": "assets/images/48e9d1b85888412e9e560effcf4c045ffe8be9675bc9a0ae4b1578310b6e632f.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-C40-217476-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/dark-brown-roll-neck-merino-sweater-machine-washable-jwpwh002-c40",
+          "alt": "Hawes & Curtis Dark Brown Roll Neck Sweater - Machine Washable — Dark Brown — photo 4",
+          "src": "assets/images/35bd7e9bb7d4e27df2a27592216093677dfeaec8374952eed970872d82235ef5.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-C40-217477-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/dark-brown-roll-neck-merino-sweater-machine-washable-jwpwh002-c40",
+          "alt": "Hawes & Curtis Dark Brown Roll Neck Sweater - Machine Washable — Dark Brown — photo 5",
+          "src": "assets/images/cfa3cb5a495a21ab39570e533a8acf69e8b25ef28ce3637b17ff73c1268a27ff.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/f5ad7a45ef6b9fd17e0ce76f98e072c2bcbca75f4afe51347f7b199dbae2a416.jpg",
+      "imageAlt": "Hawes & Curtis Dark Brown Roll Neck Sweater - Machine Washable — Dark Brown — photo 1"
+    },
+    {
+      "id": "sweater-0160c3d6a6b1",
+      "name": "Hawes & Curtis · Dark Green Crew Neck Sweater - Machine Washable — Dark Green",
+      "url": "https://www.hawesandcurtis.com/dark-green-crew-neck-jumper-machine-washable-jwpwh004-e21",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Dark Green",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-0160c3d6a6b1"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-E21-218304-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/dark-green-crew-neck-jumper-machine-washable-jwpwh004-e21",
+          "alt": "Hawes & Curtis Dark Green Crew Neck Sweater - Machine Washable — Dark Green — photo 1",
+          "src": "assets/images/83b32716021530555db05301995f43e373d7fd4ea278b41951479f9069c3aadb.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-E21-218303-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/dark-green-crew-neck-jumper-machine-washable-jwpwh004-e21",
+          "alt": "Hawes & Curtis Dark Green Crew Neck Sweater - Machine Washable — Dark Green — photo 2",
+          "src": "assets/images/3be6a2270db953c43195d520430e203bbf64937abb53eb4309e89ca3d558514a.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-E21-218305-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/dark-green-crew-neck-jumper-machine-washable-jwpwh004-e21",
+          "alt": "Hawes & Curtis Dark Green Crew Neck Sweater - Machine Washable — Dark Green — photo 3",
+          "src": "assets/images/73a4961597a79f119ef4c0778071d334360d9494186414b8d7be689326a80f71.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-E21-218306-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/dark-green-crew-neck-jumper-machine-washable-jwpwh004-e21",
+          "alt": "Hawes & Curtis Dark Green Crew Neck Sweater - Machine Washable — Dark Green — photo 4",
+          "src": "assets/images/388f831f221ffd7d156fd7650c4c7d33ab2a88bd7b5d85100adfcca6fc08ca22.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/83b32716021530555db05301995f43e373d7fd4ea278b41951479f9069c3aadb.jpg",
+      "imageAlt": "Hawes & Curtis Dark Green Crew Neck Sweater - Machine Washable — Dark Green — photo 1"
+    },
+    {
+      "id": "sweater-0d5d0482f538",
+      "name": "Hawes & Curtis · Grey Crew Neck Sweater - Machine Washable — Grey",
+      "url": "https://www.hawesandcurtis.com/grey-crew-neck-merino-jumper-machine-washable-jwpwh004-f01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Grey",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-0d5d0482f538"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-F01-218307-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-crew-neck-merino-jumper-machine-washable-jwpwh004-f01",
+          "alt": "Hawes & Curtis Grey Crew Neck Sweater - Machine Washable — Grey — photo 1",
+          "src": "assets/images/dcf14b5bf2d42de8a6f9374944316c22eee6e8621a0d65b4b844fdefc2f98872.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-F01-218311-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-crew-neck-merino-jumper-machine-washable-jwpwh004-f01",
+          "alt": "Hawes & Curtis Grey Crew Neck Sweater - Machine Washable — Grey — photo 2",
+          "src": "assets/images/673883fc987dfeb6e6df063e131abd5ed74cf9ba10e95446f16695b0dd6968a7.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-F01-218308-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-crew-neck-merino-jumper-machine-washable-jwpwh004-f01",
+          "alt": "Hawes & Curtis Grey Crew Neck Sweater - Machine Washable — Grey — photo 3",
+          "src": "assets/images/dac8cec5c34756655c2ce407fa5d10431c12df1c7efd5c5bbb86025997b3adb9.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-F01-218310-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-crew-neck-merino-jumper-machine-washable-jwpwh004-f01",
+          "alt": "Hawes & Curtis Grey Crew Neck Sweater - Machine Washable — Grey — photo 4",
+          "src": "assets/images/4190f855be0612a2745d73ff3926e69adc073742cbf0023fc6c72bd9413f7ad0.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-F01-218309-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-crew-neck-merino-jumper-machine-washable-jwpwh004-f01",
+          "alt": "Hawes & Curtis Grey Crew Neck Sweater - Machine Washable — Grey — photo 5",
+          "src": "assets/images/51a5478d4a7b2e109c4f64897b3f89a303aed3fa59903129936eac467384ada8.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/dcf14b5bf2d42de8a6f9374944316c22eee6e8621a0d65b4b844fdefc2f98872.jpg",
+      "imageAlt": "Hawes & Curtis Grey Crew Neck Sweater - Machine Washable — Grey — photo 1"
+    },
+    {
+      "id": "sweater-a00a983f6cdd",
+      "name": "Hawes & Curtis · Grey Roll Neck Sweater - Machine Washable — Grey",
+      "url": "https://www.hawesandcurtis.com/grey-roll-neck-jumper-machine-washable-jwpwh002-f01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Grey",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-a00a983f6cdd"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-F01-218286-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-roll-neck-jumper-machine-washable-jwpwh002-f01",
+          "alt": "Hawes & Curtis Grey Roll Neck Sweater - Machine Washable — Grey — photo 1",
+          "src": "assets/images/5854ec1ad8b87ba72cb213079c03e9134ca63a85a8c66b9ff44f1756302253be.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-F01-218285-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-roll-neck-jumper-machine-washable-jwpwh002-f01",
+          "alt": "Hawes & Curtis Grey Roll Neck Sweater - Machine Washable — Grey — photo 2",
+          "src": "assets/images/d05b387750a998b927a5979697f92cf8304e15107997f677d38ddff2c65080f8.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-F01-218287-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-roll-neck-jumper-machine-washable-jwpwh002-f01",
+          "alt": "Hawes & Curtis Grey Roll Neck Sweater - Machine Washable — Grey — photo 3",
+          "src": "assets/images/195afeacbe798f250855424d0723a4cb018f4e9f6cf9849eb29e6b9143785a8a.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-F01-218284-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-roll-neck-jumper-machine-washable-jwpwh002-f01",
+          "alt": "Hawes & Curtis Grey Roll Neck Sweater - Machine Washable — Grey — photo 4",
+          "src": "assets/images/c6580959fc8d828f659ae8e1a92306fc0b9ce0256c1cb86519f7fe00071600ce.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/5854ec1ad8b87ba72cb213079c03e9134ca63a85a8c66b9ff44f1756302253be.jpg",
+      "imageAlt": "Hawes & Curtis Grey Roll Neck Sweater - Machine Washable — Grey — photo 1"
+    },
+    {
+      "id": "sweater-f1f3b11c6195",
+      "name": "Hawes & Curtis · Grey V-Neck Cardigan - Machine Washable — Grey",
+      "url": "https://www.hawesandcurtis.com/grey-v-neck-merino-cardigan-machine-washable-jwpwh007-f01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Grey",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-f1f3b11c6195"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-F01-221251-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-v-neck-merino-cardigan-machine-washable-jwpwh007-f01",
+          "alt": "Hawes & Curtis Grey V-Neck Cardigan - Machine Washable — Grey — photo 1",
+          "src": "assets/images/04ea35b8a76702388e854c88f4bdc8c4371be9b26967154df7cf7614391c4eca.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-F01-221253-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-v-neck-merino-cardigan-machine-washable-jwpwh007-f01",
+          "alt": "Hawes & Curtis Grey V-Neck Cardigan - Machine Washable — Grey — photo 2",
+          "src": "assets/images/2c008be0b21b0d41944dcb812ffbcb059444ce6977b7f01ca65f9f3daf3b2b33.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-F01-221250-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-v-neck-merino-cardigan-machine-washable-jwpwh007-f01",
+          "alt": "Hawes & Curtis Grey V-Neck Cardigan - Machine Washable — Grey — photo 3",
+          "src": "assets/images/9298d6213f9e5bd4a0978ef94ec2926df7ea50e3d48ae8c04cb71cb3586f9562.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-F01-221254-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-v-neck-merino-cardigan-machine-washable-jwpwh007-f01",
+          "alt": "Hawes & Curtis Grey V-Neck Cardigan - Machine Washable — Grey — photo 4",
+          "src": "assets/images/93299da2572b0d0063191cc8e17662d14869a98b5b2b01a9d0ca018501ea95fe.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/04ea35b8a76702388e854c88f4bdc8c4371be9b26967154df7cf7614391c4eca.jpg",
+      "imageAlt": "Hawes & Curtis Grey V-Neck Cardigan - Machine Washable — Grey — photo 1"
+    },
+    {
+      "id": "sweater-a2aa52578df9",
+      "name": "Hawes & Curtis · Grey V-Neck Sweater - Machine Washable — Grey",
+      "url": "https://www.hawesandcurtis.com/grey-v-neck-merino-jumper-machine-washable-jwpwh003-f01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Grey",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-a2aa52578df9"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-F01-217463-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-v-neck-merino-jumper-machine-washable-jwpwh003-f01",
+          "alt": "Hawes & Curtis Grey V-Neck Sweater - Machine Washable — Grey — photo 1",
+          "src": "assets/images/e943a5edf2b344a076afecfcdbd2439d414ad1a5e94ed1969bd93d28eae19332.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-F01-217464-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-v-neck-merino-jumper-machine-washable-jwpwh003-f01",
+          "alt": "Hawes & Curtis Grey V-Neck Sweater - Machine Washable — Grey — photo 2",
+          "src": "assets/images/0b5c13fa850821d0886ee01bdbee6692365e26e35b7d40774c77781668a962a9.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-F01-217465-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-v-neck-merino-jumper-machine-washable-jwpwh003-f01",
+          "alt": "Hawes & Curtis Grey V-Neck Sweater - Machine Washable — Grey — photo 3",
+          "src": "assets/images/1e5892bb97d0e5adabf456e9ed2424302ed8d44f324a7f433ed93f97a36283f4.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-F01-217466-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/grey-v-neck-merino-jumper-machine-washable-jwpwh003-f01",
+          "alt": "Hawes & Curtis Grey V-Neck Sweater - Machine Washable — Grey — photo 4",
+          "src": "assets/images/5e93be4d91b4e70cac6b637fbbd5e423096247617b69dd6ecbdf2378ff93eeba.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/e943a5edf2b344a076afecfcdbd2439d414ad1a5e94ed1969bd93d28eae19332.jpg",
+      "imageAlt": "Hawes & Curtis Grey V-Neck Sweater - Machine Washable — Grey — photo 1"
+    },
+    {
+      "id": "sweater-3d19c87fbf3c",
+      "name": "Hawes & Curtis · Navy Crew Neck Sweater - Machine Washable — Navy",
+      "url": "https://www.hawesandcurtis.com/navy-crew-neck-merino-jumper-machine-washable-jwpwh004-g01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Navy",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-3d19c87fbf3c"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-G01-218314-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-crew-neck-merino-jumper-machine-washable-jwpwh004-g01",
+          "alt": "Hawes & Curtis Navy Crew Neck Sweater - Machine Washable — Navy — photo 1",
+          "src": "assets/images/282c4cedde521a185143ca7f5954e1104fc35cfd7f14f6a6b270c0a6061edef3.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-G01-218315-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-crew-neck-merino-jumper-machine-washable-jwpwh004-g01",
+          "alt": "Hawes & Curtis Navy Crew Neck Sweater - Machine Washable — Navy — photo 2",
+          "src": "assets/images/bf81a052b860c91d9a2fd7d139f4ab90117af6d655656efea65588e3d81a41b4.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-G01-218312-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-crew-neck-merino-jumper-machine-washable-jwpwh004-g01",
+          "alt": "Hawes & Curtis Navy Crew Neck Sweater - Machine Washable — Navy — photo 3",
+          "src": "assets/images/4158cab09b0feaaa077fdfca1bb519dcc56096ba809e52adebe0e4a61eb049d2.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-G01-218316-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-crew-neck-merino-jumper-machine-washable-jwpwh004-g01",
+          "alt": "Hawes & Curtis Navy Crew Neck Sweater - Machine Washable — Navy — photo 4",
+          "src": "assets/images/d1fed0d4df9e8c362ab1dd873e12c4d2a26f43429d6687ed982408c6b66f9e19.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH004-G01-218313-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-crew-neck-merino-jumper-machine-washable-jwpwh004-g01",
+          "alt": "Hawes & Curtis Navy Crew Neck Sweater - Machine Washable — Navy — photo 5",
+          "src": "assets/images/7884d81d76d3eb2b0715ea5c1909b958ada45f92d8ebb198d4c927e944874e8b.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/282c4cedde521a185143ca7f5954e1104fc35cfd7f14f6a6b270c0a6061edef3.jpg",
+      "imageAlt": "Hawes & Curtis Navy Crew Neck Sweater - Machine Washable — Navy — photo 1"
+    },
+    {
+      "id": "sweater-75d4a5f0bef5",
+      "name": "Hawes & Curtis · Navy Roll Neck Sweater - Machine Washable — Navy",
+      "url": "https://www.hawesandcurtis.com/navy-roll-neck-merino-jumper-machine-washable-jwpwh002-g01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Navy",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-75d4a5f0bef5"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-G01-217469-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-roll-neck-merino-jumper-machine-washable-jwpwh002-g01",
+          "alt": "Hawes & Curtis Navy Roll Neck Sweater - Machine Washable — Navy — photo 1",
+          "src": "assets/images/e1fe3a496688cba8bb57596f4c55af277ea4408febac7d94381cf3cad6bcbeb2.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-G01-217467-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-roll-neck-merino-jumper-machine-washable-jwpwh002-g01",
+          "alt": "Hawes & Curtis Navy Roll Neck Sweater - Machine Washable — Navy — photo 2",
+          "src": "assets/images/ac23d28e3598d08fcc51e9b6bd37897e0279cd3c69c6878cb5f76e36e54ef127.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-G01-217468-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-roll-neck-merino-jumper-machine-washable-jwpwh002-g01",
+          "alt": "Hawes & Curtis Navy Roll Neck Sweater - Machine Washable — Navy — photo 3",
+          "src": "assets/images/394bdf65e4736a067fd185c8b6d5b2cfc534d6b61b6624b2095427cf6ed9f31a.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH002-G01-217470-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-roll-neck-merino-jumper-machine-washable-jwpwh002-g01",
+          "alt": "Hawes & Curtis Navy Roll Neck Sweater - Machine Washable — Navy — photo 4",
+          "src": "assets/images/84ef4ff465d0ba944a7e4055d1af3a81c821c7c3e5840ffb966020e4c9967178.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/e1fe3a496688cba8bb57596f4c55af277ea4408febac7d94381cf3cad6bcbeb2.jpg",
+      "imageAlt": "Hawes & Curtis Navy Roll Neck Sweater - Machine Washable — Navy — photo 1"
+    },
+    {
+      "id": "sweater-fe891df0ca79",
+      "name": "Hawes & Curtis · Navy V-Neck Cardigan - Machine Washable — Navy",
+      "url": "https://www.hawesandcurtis.com/navy-v-neck-merino-cardigan-machine-washable-jwpwh007-g01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Navy",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-fe891df0ca79"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-G01-218349-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-v-neck-merino-cardigan-machine-washable-jwpwh007-g01",
+          "alt": "Hawes & Curtis Navy V-Neck Cardigan - Machine Washable — Navy — photo 1",
+          "src": "assets/images/2337073409a82908c83a2290b05f2ed321c5ca0f954bc6c3fd56e42a0b966399.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-G01-218350-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-v-neck-merino-cardigan-machine-washable-jwpwh007-g01",
+          "alt": "Hawes & Curtis Navy V-Neck Cardigan - Machine Washable — Navy — photo 2",
+          "src": "assets/images/11b5e06ad72d544a21e0f205d9185595016106aae6915773b9ea72dc0af2acb7.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-G01-218351-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-v-neck-merino-cardigan-machine-washable-jwpwh007-g01",
+          "alt": "Hawes & Curtis Navy V-Neck Cardigan - Machine Washable — Navy — photo 3",
+          "src": "assets/images/1b2e0660027712b23ab8e990f87b063f5b24eaca98b55aa481daa3e5ae87ab12.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-G01-218352-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-v-neck-merino-cardigan-machine-washable-jwpwh007-g01",
+          "alt": "Hawes & Curtis Navy V-Neck Cardigan - Machine Washable — Navy — photo 4",
+          "src": "assets/images/2910ad2059f00fd51fdce61aab82a9567eb738ff824e14e92e61bc55088b85db.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH007-G01-218353-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-v-neck-merino-cardigan-machine-washable-jwpwh007-g01",
+          "alt": "Hawes & Curtis Navy V-Neck Cardigan - Machine Washable — Navy — photo 5",
+          "src": "assets/images/b611bb0d6eb209a36371f2f75274b32f65875c614e6b6e1b27ec433beaf54a35.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/2337073409a82908c83a2290b05f2ed321c5ca0f954bc6c3fd56e42a0b966399.jpg",
+      "imageAlt": "Hawes & Curtis Navy V-Neck Cardigan - Machine Washable — Navy — photo 1"
+    },
+    {
+      "id": "sweater-6ec3765066a9",
+      "name": "Hawes & Curtis · Navy V-Neck Sweater - Machine Washable — Navy",
+      "url": "https://www.hawesandcurtis.com/navy-v-neck-merino-jumper-machine-washable-jwpwh003-g01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Navy",
+      "unitPriceUSD": 99.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "Small, Medium available",
+      "deal": "$99, was $139",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Fit": "Small, Medium",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Shipping": "Conflicting $199/$249 free-shipping thresholds; fee not verified"
+      },
+      "sources": [
+        "sweater-6ec3765066a9"
+      ],
+      "images": [
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-G01-217459-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-v-neck-merino-jumper-machine-washable-jwpwh003-g01",
+          "alt": "Hawes & Curtis Navy V-Neck Sweater - Machine Washable — Navy — photo 1",
+          "src": "assets/images/027dceab55cdd51c174c2d4af7c796c7fd016cf9854e02893ddf936a4bb45579.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-G01-217670-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-v-neck-merino-jumper-machine-washable-jwpwh003-g01",
+          "alt": "Hawes & Curtis Navy V-Neck Sweater - Machine Washable — Navy — photo 2",
+          "src": "assets/images/b86774d015ff059a07af15e591753a1d8c389fa44f60f5ce8e9539aa67bc83b0.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-G01-217460-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-v-neck-merino-jumper-machine-washable-jwpwh003-g01",
+          "alt": "Hawes & Curtis Navy V-Neck Sweater - Machine Washable — Navy — photo 3",
+          "src": "assets/images/7af814a11bf9c2f0765ec7cde29c070a0736d6d6afa2f85ea8864f4b5a6257a5.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-G01-217462-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-v-neck-merino-jumper-machine-washable-jwpwh003-g01",
+          "alt": "Hawes & Curtis Navy V-Neck Sweater - Machine Washable — Navy — photo 4",
+          "src": "assets/images/13553f9e1fda73cf47e707fe650abe8c1234937575252ae3ec1201f35bc588b2.jpg"
+        },
+        {
+          "source": "https://images.hawesandcurtis.com/tr:w-600,q-80/JW/JWPWH003-G01-217461-800px-1040px.jpg",
+          "sourcePage": "https://www.hawesandcurtis.com/navy-v-neck-merino-jumper-machine-washable-jwpwh003-g01",
+          "alt": "Hawes & Curtis Navy V-Neck Sweater - Machine Washable — Navy — photo 5",
+          "src": "assets/images/dc63f157bb95ca3da54cade23bbe9bec5b2ec489d6f785ac3d7716401e6fa5cf.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/027dceab55cdd51c174c2d4af7c796c7fd016cf9854e02893ddf936a4bb45579.jpg",
+      "imageAlt": "Hawes & Curtis Navy V-Neck Sweater - Machine Washable — Navy — photo 1"
+    },
+    {
+      "id": "sweater-6632adf46c74",
+      "name": "Abercrombie & Fitch · 100% Cotton Crew Sweater — Warm Beige — warm beige",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=03",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Sweater",
+      "color": "warm beige",
+      "unitPriceUSD": 63.75,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S X Regular, M X Regular available",
+      "deal": "$63.75, was $85",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "S X Regular, M X Regular",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "sweater-6632adf46c74"
+      ],
+      "images": [
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6148-00722-150_model1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=03",
+          "alt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Warm Beige — warm beige — photo 1",
+          "src": "assets/images/e7970633efbc21498f25895835107043b5ef84980aba92657847babaf5897cc6.jpg"
+        },
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6148-00722-150_model2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=03",
+          "alt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Warm Beige — warm beige — photo 2",
+          "src": "assets/images/c45d53425d534d7bbafc542326061c8b9a8918a362ff075135a55c14dd6e7978.jpg"
+        },
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6148-00722-150_model3?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=03",
+          "alt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Warm Beige — warm beige — photo 3",
+          "src": "assets/images/b6db894fbf3b574c8319fa34145ec789f8f52f9c0a350e6e71234ad1fd59d777.jpg"
+        },
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6148-00722-150_model4?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=03",
+          "alt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Warm Beige — warm beige — photo 4",
+          "src": "assets/images/68e56ea2039fcf8371eaf34665bae5fe1022e8e794af9d5dcb506f4a06f1d62b.jpg"
+        },
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6148-00722-150_model5?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=03",
+          "alt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Warm Beige — warm beige — photo 5",
+          "src": "assets/images/606a74a792a1dff1add26c97ca8f534f3693aacb13452312d34365352dcefe45.jpg"
+        },
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6148-00722-150_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=03",
+          "alt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Warm Beige — warm beige — photo 6",
+          "src": "assets/images/3303423a9bf1058137eb47b732a42855888b38df91788ac52af15850342a8cb6.jpg"
+        },
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6148-00722-150_prod2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=03",
+          "alt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Warm Beige — warm beige — photo 7",
+          "src": "assets/images/9a12fbdaf3c4127d4e36eb831b5eb036484eb70c146930af964ba24d19606b6d.jpg"
+        },
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6148-00722-150_life1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=03",
+          "alt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Warm Beige — warm beige — photo 8",
+          "src": "assets/images/1de302abf683edcf6c71c297a725a8796c0d41c44b1533840633070f9a97d0fa.jpg"
+        },
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6148-00722-150_life2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=03",
+          "alt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Warm Beige — warm beige — photo 9",
+          "src": "assets/images/a29ef7f6e18ae2d27c36d66c2044c62e49c0d8b999ff3be808d3d23e6c2322a1.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/e7970633efbc21498f25895835107043b5ef84980aba92657847babaf5897cc6.jpg",
+      "imageAlt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Warm Beige — warm beige — photo 1"
+    },
+    {
+      "id": "sweater-39d80488ec0b",
+      "name": "Abercrombie & Fitch · 100% Cotton Rib V-Neck Sweater — Brown — brown",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-rib-v-neck-sweater-63490324?seq=03",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Sweater",
+      "color": "brown",
+      "unitPriceUSD": 63.75,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M X Regular, S X Regular available",
+      "deal": "$63.75, was $85",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "M X Regular, S X Regular",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "sweater-39d80488ec0b"
+      ],
+      "images": [
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6400-00761-410_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-rib-v-neck-sweater-63490324?seq=03",
+          "alt": "Abercrombie & Fitch 100% Cotton Rib V-Neck Sweater — Brown — brown — photo 1",
+          "src": "assets/images/a8f16298349925d33a658fa65fe065d497a47e8e61f9a924db91e8bf18b360d7.jpg"
+        },
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6400-00761-410_prod2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-rib-v-neck-sweater-63490324?seq=03",
+          "alt": "Abercrombie & Fitch 100% Cotton Rib V-Neck Sweater — Brown — brown — photo 2",
+          "src": "assets/images/8bb0f9901b99a39b25e7519aae5dd4677e68719dc943682752b4dccf2731694e.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/a8f16298349925d33a658fa65fe065d497a47e8e61f9a924db91e8bf18b360d7.jpg",
+      "imageAlt": "Abercrombie & Fitch 100% Cotton Rib V-Neck Sweater — Brown — brown — photo 1"
+    },
+    {
+      "id": "sweater-203f23fa4863",
+      "name": "Abercrombie & Fitch · 100% Cotton Rib V-Neck Sweater — Dark Spruce — dark spruce",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-rib-v-neck-sweater-63490324?seq=02",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Sweater",
+      "color": "dark spruce",
+      "unitPriceUSD": 63.75,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S X Regular, M X Regular available",
+      "deal": "$63.75, was $85",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "S X Regular, M X Regular",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "sweater-203f23fa4863"
+      ],
+      "images": [
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6407-00762-300_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-rib-v-neck-sweater-63490324?seq=02",
+          "alt": "Abercrombie & Fitch 100% Cotton Rib V-Neck Sweater — Dark Spruce — dark spruce — photo 1",
+          "src": "assets/images/c32089fe77527007cd65c9a547357daa5a20b83218c0e3189b7b7e303c52daf9.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/c32089fe77527007cd65c9a547357daa5a20b83218c0e3189b7b7e303c52daf9.jpg",
+      "imageAlt": "Abercrombie & Fitch 100% Cotton Rib V-Neck Sweater — Dark Spruce — dark spruce — photo 1"
+    },
+    {
+      "id": "sweater-8e097397b054",
+      "name": "Abercrombie & Fitch · 100% Cotton Rib V-Neck Sweater — Navy — navy",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-rib-v-neck-sweater-63490324?seq=01",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Sweater",
+      "color": "navy",
+      "unitPriceUSD": 63.75,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S X Regular, M X Regular available",
+      "deal": "$63.75, was $85",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "S X Regular, M X Regular",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "sweater-8e097397b054"
+      ],
+      "images": [
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6406-00760-205_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-rib-v-neck-sweater-63490324?seq=01",
+          "alt": "Abercrombie & Fitch 100% Cotton Rib V-Neck Sweater — Navy — navy — photo 1",
+          "src": "assets/images/b49538f72be3761444004293e1d1616453d14361e05025274c48ce9423bae64d.jpg"
+        },
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6406-00760-205_prod2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-rib-v-neck-sweater-63490324?seq=01",
+          "alt": "Abercrombie & Fitch 100% Cotton Rib V-Neck Sweater — Navy — navy — photo 2",
+          "src": "assets/images/f3d8cbc87bfe059e304f3801aaeaebd504392d956b963d8338983367037a9d87.jpg"
+        },
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6406-00760-205_life1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-rib-v-neck-sweater-63490324?seq=01",
+          "alt": "Abercrombie & Fitch 100% Cotton Rib V-Neck Sweater — Navy — navy — photo 3",
+          "src": "assets/images/7ca0095c46606c6f662db5697e62e59c0df346eda4e1baa87a2126b2d3e8e5cd.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/b49538f72be3761444004293e1d1616453d14361e05025274c48ce9423bae64d.jpg",
+      "imageAlt": "Abercrombie & Fitch 100% Cotton Rib V-Neck Sweater — Navy — navy — photo 1"
+    },
+    {
+      "id": "sweater-42df4b4829d3",
+      "name": "Abercrombie & Fitch · 100% Cotton Crew Sweater — Brown Stripe — brown stripe",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=07",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Sweater",
+      "color": "brown stripe",
+      "unitPriceUSD": 85,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M X Regular, S X Regular available",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "M X Regular, S X Regular",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "sweater-42df4b4829d3"
+      ],
+      "images": [
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6348-00789-405_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=07",
+          "alt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Brown Stripe — brown stripe — photo 1",
+          "src": "assets/images/4fee93a3c2b08943217c33fd2ee2a1a59a450a497e7ec1bd1016f62e59ce9a3e.jpg"
+        },
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6348-00789-405_prod2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=07",
+          "alt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Brown Stripe — brown stripe — photo 2",
+          "src": "assets/images/fbb8cc33e1625345773ce25140bf4612215028985643bb732d9fa41366bc966e.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/4fee93a3c2b08943217c33fd2ee2a1a59a450a497e7ec1bd1016f62e59ce9a3e.jpg",
+      "imageAlt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Brown Stripe — brown stripe — photo 1"
+    },
+    {
+      "id": "sweater-01e496317bd6",
+      "name": "Abercrombie & Fitch · 100% Cotton Crew Sweater — Navy Stripe — navy stripe",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=06",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Sweater",
+      "color": "navy stripe",
+      "unitPriceUSD": 85,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S X Regular, M X Regular available",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "S X Regular, M X Regular",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "sweater-01e496317bd6"
+      ],
+      "images": [
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6347-00788-205_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=06",
+          "alt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Navy Stripe — navy stripe — photo 1",
+          "src": "assets/images/30e35fa5c6916ace11c063f1b2f9a99573d207e588ee4da8a21d65067d4e7dea.jpg"
+        },
+        {
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_120-6347-00788-205_prod2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=06",
+          "alt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Navy Stripe — navy stripe — photo 2",
+          "src": "assets/images/4be4bd3fd81519cb748d1baafb485f77397535e28dafe89d29962aa2adda8fcb.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/30e35fa5c6916ace11c063f1b2f9a99573d207e588ee4da8a21d65067d4e7dea.jpg",
+      "imageAlt": "Abercrombie & Fitch 100% Cotton Crew Sweater — Navy Stripe — navy stripe — photo 1"
+    },
+    {
+      "id": "sweater-ad7da2074798",
+      "name": "Sandro · Textured knit sweater — Lime",
+      "url": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_B303.html",
+      "store": "Sandro",
+      "brand": "Sandro",
+      "category": "Sweater",
+      "color": "Lime",
+      "unitPriceUSD": 94.5,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S available",
+      "deal": "$94.5, was $315 · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "Main fabric: 100% cotton",
+        "Fit": "S",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "sweater-ad7da2074798"
+      ],
+      "images": [
+        {
+          "source": "https://us.sandro-paris.com/dw/image/v2/BCMW_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7b32a4c4/images/hi-res/Sandro_SHPTR00627-B303_H_1.jpg?sw=2000&sh=2000",
+          "sourcePage": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_B303.html",
+          "alt": "Sandro Textured knit sweater — Lime — photo 1",
+          "src": "assets/images/52bbfde3a2111813cb2ccb46a904daffc2ab1902954c62baf680aeb87ba0f638.jpg"
+        },
+        {
+          "source": "https://us.sandro-paris.com/dw/image/v2/BCMW_PRD/on/demandware.static/-/Sites-master-catalog/default/dwfb116ef2/images/hi-res/Sandro_SHPTR00627-B303_H_2.jpg?sw=2000&sh=2000",
+          "sourcePage": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_B303.html",
+          "alt": "Sandro Textured knit sweater — Lime — photo 2",
+          "src": "assets/images/8e0c4a12ad93dbba5bad98c9a94405639d848f777ec9d1351758799fdb19112c.jpg"
+        },
+        {
+          "source": "https://us.sandro-paris.com/dw/image/v2/BCMW_PRD/on/demandware.static/-/Sites-master-catalog/default/dw49bd8dcc/images/hi-res/Sandro_SHPTR00627-B303_H_3.jpg?sw=2000&sh=2000",
+          "sourcePage": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_B303.html",
+          "alt": "Sandro Textured knit sweater — Lime — photo 3",
+          "src": "assets/images/b612c2997f14e1cf63662f3a06343ac94ad62ca54e8113ddb716d843239c732f.jpg"
+        },
+        {
+          "source": "https://us.sandro-paris.com/dw/image/v2/BCMW_PRD/on/demandware.static/-/Sites-master-catalog/default/dw23c91455/images/hi-res/Sandro_SHPTR00627-B303_H_4.jpg?sw=2000&sh=2000",
+          "sourcePage": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_B303.html",
+          "alt": "Sandro Textured knit sweater — Lime — photo 4",
+          "src": "assets/images/976cb8c492e3680052e45cfbeab2b3e8138252c6fdec1f33340c4521f4bcbb07.jpg"
+        },
+        {
+          "source": "https://us.sandro-paris.com/dw/image/v2/BCMW_PRD/on/demandware.static/-/Sites-master-catalog/default/dw192f7619/images/hi-res/Sandro_SHPTR00627-B303_H_5.jpg?sw=2000&sh=2000",
+          "sourcePage": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_B303.html",
+          "alt": "Sandro Textured knit sweater — Lime — photo 5",
+          "src": "assets/images/fca4edbf8d0e67446a096ee23f9b02be3ce35456abffaf2081be77fbdcbe1b66.jpg"
+        },
+        {
+          "source": "https://us.sandro-paris.com/dw/image/v2/BCMW_PRD/on/demandware.static/-/Sites-master-catalog/default/dw5b2c96c0/images/packshot/Sandro_SHPTR00627-B303_H_P.jpg?sw=2000&sh=2000",
+          "sourcePage": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_B303.html",
+          "alt": "Sandro Textured knit sweater — Lime — photo 6",
+          "src": "assets/images/5445c4491a4fba5cba45f45d4dfbeeda00fb98917f93de1ab06b916659e7d066.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/52bbfde3a2111813cb2ccb46a904daffc2ab1902954c62baf680aeb87ba0f638.jpg",
+      "imageAlt": "Sandro Textured knit sweater — Lime — photo 1"
+    },
+    {
+      "id": "sweater-79ef3bb0bb4f",
+      "name": "Sandro · Textured knit sweater — Dark kaki.",
+      "url": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_H183.html",
+      "store": "Sandro",
+      "brand": "Sandro",
+      "category": "Sweater",
+      "color": "Dark kaki.",
+      "unitPriceUSD": 94.5,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S available",
+      "deal": "$94.5, was $315 · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "Main fabric: 100% cotton",
+        "Fit": "S",
+        "Trim": "No separate trim composition disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "sweater-79ef3bb0bb4f"
+      ],
+      "images": [
+        {
+          "source": "https://us.sandro-paris.com/dw/image/v2/BCMW_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4a5b748e/images/hi-res/Sandro_SHPTR00627-H183_H_1.jpg?sw=2000&sh=2000",
+          "sourcePage": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_H183.html",
+          "alt": "Sandro Textured knit sweater — Dark kaki. — photo 1",
+          "src": "assets/images/d285400e895262bdb6af6f107bd4855a83177b554bc2689d21751e69e46a32f7.jpg"
+        },
+        {
+          "source": "https://us.sandro-paris.com/dw/image/v2/BCMW_PRD/on/demandware.static/-/Sites-master-catalog/default/dw88134d7b/images/hi-res/Sandro_SHPTR00627-H183_H_2.jpg?sw=2000&sh=2000",
+          "sourcePage": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_H183.html",
+          "alt": "Sandro Textured knit sweater — Dark kaki. — photo 2",
+          "src": "assets/images/4e2dbfac52edb6dfacac6b02113eb5b04415edb13381da35bc0c50df9f6e8b45.jpg"
+        },
+        {
+          "source": "https://us.sandro-paris.com/dw/image/v2/BCMW_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7275cd5e/images/hi-res/Sandro_SHPTR00627-H183_H_3.jpg?sw=2000&sh=2000",
+          "sourcePage": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_H183.html",
+          "alt": "Sandro Textured knit sweater — Dark kaki. — photo 3",
+          "src": "assets/images/3726f96697658e9b2b6787eb6c2e4bc491717c48211e7dc3be29a708e78eade4.jpg"
+        },
+        {
+          "source": "https://us.sandro-paris.com/dw/image/v2/BCMW_PRD/on/demandware.static/-/Sites-master-catalog/default/dw44ab04c4/images/hi-res/Sandro_SHPTR00627-H183_H_4.jpg?sw=2000&sh=2000",
+          "sourcePage": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_H183.html",
+          "alt": "Sandro Textured knit sweater — Dark kaki. — photo 4",
+          "src": "assets/images/8fcec8515d6c19f1a0189b1bc74cdfae5c631a1aa38464dc7dbd2d3feee8528b.jpg"
+        },
+        {
+          "source": "https://us.sandro-paris.com/dw/image/v2/BCMW_PRD/on/demandware.static/-/Sites-master-catalog/default/dw250edd46/images/hi-res/Sandro_SHPTR00627-H183_H_5.jpg?sw=2000&sh=2000",
+          "sourcePage": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_H183.html",
+          "alt": "Sandro Textured knit sweater — Dark kaki. — photo 5",
+          "src": "assets/images/fdac0694657cf11295c86a85578ebecd8dece1f858a84804c7b21a3e3dc583dd.jpg"
+        },
+        {
+          "source": "https://us.sandro-paris.com/dw/image/v2/BCMW_PRD/on/demandware.static/-/Sites-master-catalog/default/dw804ff980/images/packshot/Sandro_SHPTR00627-H183_H_P.jpg?sw=2000&sh=2000",
+          "sourcePage": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_H183.html",
+          "alt": "Sandro Textured knit sweater — Dark kaki. — photo 6",
+          "src": "assets/images/a634eae481220ffd80303d0d9b613d695e9370d3987bb4db672fa9f1a4f8669a.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/d285400e895262bdb6af6f107bd4855a83177b554bc2689d21751e69e46a32f7.jpg",
+      "imageAlt": "Sandro Textured knit sweater — Dark kaki. — photo 1"
+    },
+    {
+      "id": "sweater-a79ee4caaa31",
+      "name": "A.P.C. · Paul sweater — TAS - Black / white",
+      "url": "https://www.apc-us.com/products/paul-sweater-cohnx-h23475_tas?variant=43748033953891",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Sweater",
+      "color": "TAS - Black / white",
+      "unitPriceUSD": 175.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "$175, was $350 · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "Composition & Material - 85% cotton. 15% cashmere.Hong kong - Hand wash or delicate cycle.",
+        "Fit": "S, M",
+        "Trim": "not separately disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "sweater-a79ee4caaa31"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHNX-H23475TAS_01.jpg?v=1770321515",
+          "sourcePage": "https://www.apc-us.com/products/paul-sweater-cohnx-h23475_tas?variant=43748033953891",
+          "alt": "A.P.C. Paul sweater — TAS - Black / white — photo 1",
+          "src": "assets/images/09034f71ce843c884fedc888de32a87b90bbb942e39907c24a23ac826a65ddd9.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHNX-H23475TAS_00.jpg?v=1770747682",
+          "sourcePage": "https://www.apc-us.com/products/paul-sweater-cohnx-h23475_tas?variant=43748033953891",
+          "alt": "A.P.C. Paul sweater — TAS - Black / white — photo 2",
+          "src": "assets/images/14c8e5a0b2df406c20bdd956fc69ab25071fb8b67834c499228b83d6f1429a13.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHNX-H23475TAS_03.jpg?v=1770747682",
+          "sourcePage": "https://www.apc-us.com/products/paul-sweater-cohnx-h23475_tas?variant=43748033953891",
+          "alt": "A.P.C. Paul sweater — TAS - Black / white — photo 3",
+          "src": "assets/images/0b579f3535ac0c892ea67e17ccb7000759aae0c89908897e499a835ca0f39ece.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHNX-H23475TAS_04.jpg?v=1770747682",
+          "sourcePage": "https://www.apc-us.com/products/paul-sweater-cohnx-h23475_tas?variant=43748033953891",
+          "alt": "A.P.C. Paul sweater — TAS - Black / white — photo 4",
+          "src": "assets/images/c78cd0d576acb84af0daee99e51695bda66fafaa10954f4051d28b8a86405fee.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/09034f71ce843c884fedc888de32a87b90bbb942e39907c24a23ac826a65ddd9.jpg",
+      "imageAlt": "A.P.C. Paul sweater — TAS - Black / white — photo 1"
+    },
+    {
+      "id": "sweater-77d243104bd5",
+      "name": "A.P.C. · Matthias sweater — TIQ - Dark navy blue",
+      "url": "https://www.apc-us.com/products/matthias-sweater-wvbec-h23431_tiq?variant=43390643339363",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Sweater",
+      "color": "TIQ - Dark navy blue",
+      "unitPriceUSD": 192.5,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "$192.5, was $385 · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "Composition & Material - 100% wool. - Made in Hong Kong. - Hand wash or delicate cycle.",
+        "Fit": "S, M",
+        "Trim": "not separately disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "sweater-77d243104bd5"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBEC-H23431TIQ_01.jpg?v=1747862720",
+          "sourcePage": "https://www.apc-us.com/products/matthias-sweater-wvbec-h23431_tiq?variant=43390643339363",
+          "alt": "A.P.C. Matthias sweater — TIQ - Dark navy blue — photo 1",
+          "src": "assets/images/ab6e34466625f83888ccd183e5b4fa9f99ee8324e69d1e1d62c9a49f94c460c5.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBEC-H23431TIQ_00_f46fb61a-a2be-4f6b-a352-5754eed66597.webp?v=1758145330",
+          "sourcePage": "https://www.apc-us.com/products/matthias-sweater-wvbec-h23431_tiq?variant=43390643339363",
+          "alt": "A.P.C. Matthias sweater — TIQ - Dark navy blue — photo 2",
+          "src": "assets/images/b5305fb3ef9c0cb8f4bcd6c750305144431c35a434e64c0215b56d726248ce98.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBEC-H23431TIQ_03.jpg?v=1758145330",
+          "sourcePage": "https://www.apc-us.com/products/matthias-sweater-wvbec-h23431_tiq?variant=43390643339363",
+          "alt": "A.P.C. Matthias sweater — TIQ - Dark navy blue — photo 3",
+          "src": "assets/images/5f3a368d6a83e62452b83739a4e84854be2c5c8016b1b4026d4a1e41b56a1a0c.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBEC-H23431TIQ_04.jpg?v=1758145330",
+          "sourcePage": "https://www.apc-us.com/products/matthias-sweater-wvbec-h23431_tiq?variant=43390643339363",
+          "alt": "A.P.C. Matthias sweater — TIQ - Dark navy blue — photo 4",
+          "src": "assets/images/b8b8f5f9e96bc9f9e8cdb5789973a6b5e095c66a105c822d1556b638bb9d0266.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/ab6e34466625f83888ccd183e5b4fa9f99ee8324e69d1e1d62c9a49f94c460c5.jpg",
+      "imageAlt": "A.P.C. Matthias sweater — TIQ - Dark navy blue — photo 1"
+    },
+    {
+      "id": "sweater-4c651ffdc529",
+      "name": "A.P.C. · Jay sweater — GAC - Burgundy",
+      "url": "https://www.apc-us.com/products/jay-sweater-wvbdk-h23458_gac?variant=43489771323491",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Sweater",
+      "color": "GAC - Burgundy",
+      "unitPriceUSD": 200.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "$200, was $400 · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "Composition & Material - 100% wool. - Made in Hong Kong. - Hand wash or delicate cycle.",
+        "Fit": "S, M",
+        "Trim": "not separately disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "sweater-4c651ffdc529"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBDK-H23458GAC_01.jpg?v=1753390944",
+          "sourcePage": "https://www.apc-us.com/products/jay-sweater-wvbdk-h23458_gac?variant=43489771323491",
+          "alt": "A.P.C. Jay sweater — GAC - Burgundy — photo 1",
+          "src": "assets/images/c4ced32bcd3cf6e8d8f512ca56656caa47476ce4d4cb2d3be94aab37fb2058a3.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBDK-H23458GAC_00.jpg?v=1753390944",
+          "sourcePage": "https://www.apc-us.com/products/jay-sweater-wvbdk-h23458_gac?variant=43489771323491",
+          "alt": "A.P.C. Jay sweater — GAC - Burgundy — photo 2",
+          "src": "assets/images/324e2a8f5848a320fad133713d069111bbcdf452e102e41f9d7c362a35d44f33.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBDK-H23458GAC_03.jpg?v=1753390925",
+          "sourcePage": "https://www.apc-us.com/products/jay-sweater-wvbdk-h23458_gac?variant=43489771323491",
+          "alt": "A.P.C. Jay sweater — GAC - Burgundy — photo 3",
+          "src": "assets/images/8c8b5ade03a802b181c4d64631cd1b732c07e11f467152490a28a63034ba5d26.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBDK-H23458GAC_04.jpg?v=1753390926",
+          "sourcePage": "https://www.apc-us.com/products/jay-sweater-wvbdk-h23458_gac?variant=43489771323491",
+          "alt": "A.P.C. Jay sweater — GAC - Burgundy — photo 4",
+          "src": "assets/images/97d1cd72857d2cf40f34536f272757b3b7c4a47abae3e4b93d17d403ed46f6e3.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/c4ced32bcd3cf6e8d8f512ca56656caa47476ce4d4cb2d3be94aab37fb2058a3.jpg",
+      "imageAlt": "A.P.C. Jay sweater — GAC - Burgundy — photo 1"
+    },
+    {
+      "id": "sweater-dd39ebd659d6",
+      "name": "A.P.C. · Jay sweater — IAK - Dark navy blue",
+      "url": "https://www.apc-us.com/products/jay-sweater-wvbdk-h23458_iak?variant=43489772372067",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Sweater",
+      "color": "IAK - Dark navy blue",
+      "unitPriceUSD": 200.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M available",
+      "deal": "$200, was $400 · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "Composition & Material - 100% wool. - Made in Hong Kong. - Hand wash or delicate cycle.",
+        "Fit": "M",
+        "Trim": "not separately disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "sweater-dd39ebd659d6"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBDK-H23458IAK_01.jpg?v=1753390939",
+          "sourcePage": "https://www.apc-us.com/products/jay-sweater-wvbdk-h23458_iak?variant=43489772372067",
+          "alt": "A.P.C. Jay sweater — IAK - Dark navy blue — photo 1",
+          "src": "assets/images/43bc1539823e81fb0b628452f9c38ea1a5ded0fac1837e6d0c64242c6a155bb4.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBDK-H23458IAK_00.jpg?v=1753390939",
+          "sourcePage": "https://www.apc-us.com/products/jay-sweater-wvbdk-h23458_iak?variant=43489772372067",
+          "alt": "A.P.C. Jay sweater — IAK - Dark navy blue — photo 2",
+          "src": "assets/images/5bd2668ea676b5ec6842ba2698fd74b1646091e9b70e90323cd9e80c1a154f69.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBDK-H23458IAK_03.jpg?v=1753390921",
+          "sourcePage": "https://www.apc-us.com/products/jay-sweater-wvbdk-h23458_iak?variant=43489772372067",
+          "alt": "A.P.C. Jay sweater — IAK - Dark navy blue — photo 3",
+          "src": "assets/images/99fc59e92eb2decf576d75794ef7133b420254b651df61947eaa5fadca43c7ad.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBDK-H23458IAK_04.jpg?v=1753390921",
+          "sourcePage": "https://www.apc-us.com/products/jay-sweater-wvbdk-h23458_iak?variant=43489772372067",
+          "alt": "A.P.C. Jay sweater — IAK - Dark navy blue — photo 4",
+          "src": "assets/images/ffe453bed3768e8d8e7da989676dba62e6309561942ac549256e415ebbc84421.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/43bc1539823e81fb0b628452f9c38ea1a5ded0fac1837e6d0c64242c6a155bb4.jpg",
+      "imageAlt": "A.P.C. Jay sweater — IAK - Dark navy blue — photo 1"
+    },
+    {
+      "id": "sweater-ea5d7e5c7e89",
+      "name": "A.P.C. · Pascal Sweater - Grey raglan-sleeve sweater — PLB - Grey",
+      "url": "https://www.apc-us.com/products/pascal-sweater-grey-raglan-sleeve-sweater-wvbep-h23527_plb?variant=44106848043107",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Sweater",
+      "color": "PLB - Grey",
+      "unitPriceUSD": 245.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "$245, was $350",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "Composition & Material - 100% wool. - Italian material. - Made in Romania. - Hand wash or delicate cycle.",
+        "Fit": "S, M",
+        "Trim": "not separately disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "sweater-ea5d7e5c7e89"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBEP-H23527PLB_00.jpg?v=1783437599",
+          "sourcePage": "https://www.apc-us.com/products/pascal-sweater-grey-raglan-sleeve-sweater-wvbep-h23527_plb?variant=44106848043107",
+          "alt": "A.P.C. Pascal Sweater - Grey raglan-sleeve sweater — PLB - Grey — photo 1",
+          "src": "assets/images/b00ab9d502754eccd1707639b32a64f596c8ca9880f8944879762565b9a9cbc5.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBEP-H23527PLB_02.jpg?v=1783437599",
+          "sourcePage": "https://www.apc-us.com/products/pascal-sweater-grey-raglan-sleeve-sweater-wvbep-h23527_plb?variant=44106848043107",
+          "alt": "A.P.C. Pascal Sweater - Grey raglan-sleeve sweater — PLB - Grey — photo 2",
+          "src": "assets/images/6b45d5f4536269d74a64952a33b0e8dd69da4fd67fddc0ddf413beaa0fa57078.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBEP-H23527PLB_01.jpg?v=1783437599",
+          "sourcePage": "https://www.apc-us.com/products/pascal-sweater-grey-raglan-sleeve-sweater-wvbep-h23527_plb?variant=44106848043107",
+          "alt": "A.P.C. Pascal Sweater - Grey raglan-sleeve sweater — PLB - Grey — photo 3",
+          "src": "assets/images/e994fb035dcd13fadb0c2a58f49bce5a2d107619f58f7fbc7ff8f9a0739205a0.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WVBEP-H23527PLB_04.jpg?v=1783437599",
+          "sourcePage": "https://www.apc-us.com/products/pascal-sweater-grey-raglan-sleeve-sweater-wvbep-h23527_plb?variant=44106848043107",
+          "alt": "A.P.C. Pascal Sweater - Grey raglan-sleeve sweater — PLB - Grey — photo 4",
+          "src": "assets/images/ef348548c3107e82afe8fe624b56f0ab68ebface971e2bb84611f97c531c61ea.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/b00ab9d502754eccd1707639b32a64f596c8ca9880f8944879762565b9a9cbc5.jpg",
+      "imageAlt": "A.P.C. Pascal Sweater - Grey raglan-sleeve sweater — PLB - Grey — photo 1"
+    },
+    {
+      "id": "sweater-d3f1c0508cac",
+      "name": "A.P.C. · Leo sweater — IAH - Blue",
+      "url": "https://www.apc-us.com/products/leo-sweater-cogtx-h23485_iah?variant=43937748844643",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Sweater",
+      "color": "IAH - Blue",
+      "unitPriceUSD": 247.5,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M available",
+      "deal": "$247.5, was $495 · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "Composition & Material - 100% cotton. - Italian material. - Made in Romania. - Machine wash cold (86°F) inside-out.",
+        "Fit": "M",
+        "Trim": "not separately disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "sweater-d3f1c0508cac"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGTX-H23485IAH_00.jpg?v=1769113725",
+          "sourcePage": "https://www.apc-us.com/products/leo-sweater-cogtx-h23485_iah?variant=43937748844643",
+          "alt": "A.P.C. Leo sweater — IAH - Blue — photo 1",
+          "src": "assets/images/036b56f4b3692f5d23b218a7b1188501719d9584b8a36f5c8984791a345eb5e2.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/036b56f4b3692f5d23b218a7b1188501719d9584b8a36f5c8984791a345eb5e2.jpg",
+      "imageAlt": "A.P.C. Leo sweater — IAH - Blue — photo 1"
+    },
+    {
+      "id": "sweater-ab955af13db5",
+      "name": "A.P.C. · Loose Wool Sweater — PKA - Green",
+      "url": "https://www.apc-us.com/products/loose-wool-sweater-woasw-h23491_pka?variant=44107286315107",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Sweater",
+      "color": "PKA - Green",
+      "unitPriceUSD": 275.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M available",
+      "deal": "$275, was $550",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "Composition & Material - 100% wool. - Made in Italy.",
+        "Fit": "M",
+        "Trim": "not separately disclosed",
+        "Verification": "Same-day official product evidence and S/M purchase UI checks; no cart submission.",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "sweater-ab955af13db5"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WOASW-H23491PKA_00.jpg?v=1780002062",
+          "sourcePage": "https://www.apc-us.com/products/loose-wool-sweater-woasw-h23491_pka?variant=44107286315107",
+          "alt": "A.P.C. Loose Wool Sweater — PKA - Green — photo 1",
+          "src": "assets/images/3f23cd4913c0552c16594d536d678df53ce1ad96359e10fc46d066e07919c9cf.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WOASW-H23491PKA_01.jpg?v=1780002062",
+          "sourcePage": "https://www.apc-us.com/products/loose-wool-sweater-woasw-h23491_pka?variant=44107286315107",
+          "alt": "A.P.C. Loose Wool Sweater — PKA - Green — photo 2",
+          "src": "assets/images/510e8cb4928a6a0ba89ec04abeb16faa10bd4da1e4e186fb58c23a63e3f135c3.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WOASW-H23491PKA_02.jpg?v=1780002062",
+          "sourcePage": "https://www.apc-us.com/products/loose-wool-sweater-woasw-h23491_pka?variant=44107286315107",
+          "alt": "A.P.C. Loose Wool Sweater — PKA - Green — photo 3",
+          "src": "assets/images/d103d94a7000a97a4b25e2d628632b699ec402b751606a26865087e7b868bffe.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/WOASW-H23491PKA_03.jpg?v=1780002062",
+          "sourcePage": "https://www.apc-us.com/products/loose-wool-sweater-woasw-h23491_pka?variant=44107286315107",
+          "alt": "A.P.C. Loose Wool Sweater — PKA - Green — photo 4",
+          "src": "assets/images/71eb1f27fb5a5b4cb4613dcc95a18d5d647203a9664d564b037384c357ad106f.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/3f23cd4913c0552c16594d536d678df53ce1ad96359e10fc46d066e07919c9cf.jpg",
+      "imageAlt": "A.P.C. Loose Wool Sweater — PKA - Green — photo 1"
+    },
+    {
+      "id": "sweater-2d847bf10f0e",
+      "name": "The Frankie Shop · Arne Sweater - Grey Melange — Grey Melange",
+      "url": "https://thefrankieshop.com/products/arne-sweater-grey-melange",
+      "store": "The Frankie Shop",
+      "brand": "The Frankie Shop",
+      "category": "Sweater",
+      "color": "Grey Melange",
+      "unitPriceUSD": 165.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S available (official feed; UI unverified)",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Cotton",
+        "Fit": "S",
+        "Trim": "Ribbed trims; separate trim fiber content not specified",
+        "Verification": "Official exact-variant stock data; rendered purchase UI not independently verified.",
+        "Status": "Available at source check; US storefront",
+        "Lining": "Unlined"
+      },
+      "sources": [
+        "sweater-2d847bf10f0e"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/ARNE-SWEATER-GREY-MELANGE-AZIZ-0791_69af63de-9132-4aa1-8aa8-c0161ddd1ab8.jpg?v=1771884181",
+          "sourcePage": "https://thefrankieshop.com/products/arne-sweater-grey-melange",
+          "alt": "The Frankie Shop Arne Sweater - Grey Melange — Grey Melange — photo 1",
+          "src": "assets/images/ad59d4adc39bd1fe80d1813d8171997dd920924accc1a4189ee1ed62a322b091.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/ARNE-SWEATER-GREY-MELANGE-AZIZ-0789_d3589022-4b0d-410c-8e6b-326e888dc97e.jpg?v=1771884181",
+          "sourcePage": "https://thefrankieshop.com/products/arne-sweater-grey-melange",
+          "alt": "The Frankie Shop Arne Sweater - Grey Melange — Grey Melange — photo 2",
+          "src": "assets/images/807f27a8f43ea6855a0428354e77d23dbcbe4a18b8fbdbdfa05d0f24e5979d22.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/ARNE-SWEATER-GREY-MELANGE-AZIZ-0787_a1c6c0c4-2a3f-4d2a-9df2-e1dc06a9c4d7.jpg?v=1771884181",
+          "sourcePage": "https://thefrankieshop.com/products/arne-sweater-grey-melange",
+          "alt": "The Frankie Shop Arne Sweater - Grey Melange — Grey Melange — photo 3",
+          "src": "assets/images/f8099390918bf21be671ab4e60962a351dda5f41a9a0cee7340d05353d07cdea.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/ARNE-SWEATER-GREY-MELANGE-AZIZ-0794_29be5909-0cf8-40b7-be22-65c191a10b54.jpg?v=1771884181",
+          "sourcePage": "https://thefrankieshop.com/products/arne-sweater-grey-melange",
+          "alt": "The Frankie Shop Arne Sweater - Grey Melange — Grey Melange — photo 4",
+          "src": "assets/images/8d8922e36a72e1b64bce08ad4e5b94642e0d7026fe416badbade6f81e5c0d34e.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/ARNE-SWEATER-GREY-MELANGE-AZIZ-0786_a6473ee0-5b09-45de-a5e8-37e46affa05f.jpg?v=1771858504",
+          "sourcePage": "https://thefrankieshop.com/products/arne-sweater-grey-melange",
+          "alt": "The Frankie Shop Arne Sweater - Grey Melange — Grey Melange — photo 5",
+          "src": "assets/images/7d3ee4feb9aa9439f80d533ec8d5bb9434cbc189570e18bd4ee250721598ebaf.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/ARNE-SWEATER-GREY-MELANGE-AZIZ-0795_bf4e6f58-e29e-49bd-8dab-53776d2340cd.jpg?v=1771858504",
+          "sourcePage": "https://thefrankieshop.com/products/arne-sweater-grey-melange",
+          "alt": "The Frankie Shop Arne Sweater - Grey Melange — Grey Melange — photo 6",
+          "src": "assets/images/b883b05c3bcd60988899f2c02158ab26be7824c1a5fbdfe9a0cfe90bc4b1bd16.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/ARNE-SWEATER-GREY-MELANGE-PACKSHOT_aa200173-b132-4a73-9188-8596d7022a07.jpg?v=1771858504",
+          "sourcePage": "https://thefrankieshop.com/products/arne-sweater-grey-melange",
+          "alt": "The Frankie Shop Arne Sweater - Grey Melange — Grey Melange — photo 7",
+          "src": "assets/images/b661b5f90c857488b6a3b93c78cd4ea728267f1021dbbfc19a6de64ddd4583e4.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/ad59d4adc39bd1fe80d1813d8171997dd920924accc1a4189ee1ed62a322b091.jpg",
+      "imageAlt": "The Frankie Shop Arne Sweater - Grey Melange — Grey Melange — photo 1"
+    },
+    {
+      "id": "sweater-bf9865569e5e",
+      "name": "The Frankie Shop · Samsøe Samsøe Sarichard Cardigan - Dark Grey Melange — Dark Grey Melange",
+      "url": "https://thefrankieshop.com/products/samsoe-samsoe-sarichard-cardigan-dark-grey-melange",
+      "store": "The Frankie Shop",
+      "brand": "The Frankie Shop",
+      "category": "Sweater",
+      "color": "Dark Grey Melange",
+      "unitPriceUSD": 240.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available (official feed; UI unverified)",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Merino Wool",
+        "Fit": "S, M",
+        "Trim": "Ribbed trims; separate trim fiber content not specified",
+        "Verification": "Official exact-variant stock data; rendered purchase UI not independently verified.",
+        "Status": "Available at source check; US storefront",
+        "Lining": "Unlined"
+      },
+      "sources": [
+        "sweater-bf9865569e5e"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/SAMSOE-SAMSOE-SARICHARD-CARDIGAN-DAKGREY-MEL-BRAND-2-M_6b3ea7c4-6f9a-4c05-a5e3-cbf672f2414b.jpg?v=1789389505",
+          "sourcePage": "https://thefrankieshop.com/products/samsoe-samsoe-sarichard-cardigan-dark-grey-melange",
+          "alt": "The Frankie Shop Samsøe Samsøe Sarichard Cardigan - Dark Grey Melange — Dark Grey Melange — photo 1",
+          "src": "assets/images/42a28ea3208a519636b0e13c82a3deaba55d1e0b58d658a207fe73cc3126018d.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/SAMSOE-SAMSOE-SARICHARD-CARDIGAN-DAKGREY-MEL-BRAND-3-M.jpg?v=1789389446",
+          "sourcePage": "https://thefrankieshop.com/products/samsoe-samsoe-sarichard-cardigan-dark-grey-melange",
+          "alt": "The Frankie Shop Samsøe Samsøe Sarichard Cardigan - Dark Grey Melange — Dark Grey Melange — photo 2",
+          "src": "assets/images/f0738d810fca9436706a23e628d36f76e4f5be4ab32a3ad3c2b07fbc958127f1.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/SAMSOE-SAMSOE-SARICHARD-CARDIGAN-DAKGREY-MEL-BRAND-5-M.jpg?v=1789389446",
+          "sourcePage": "https://thefrankieshop.com/products/samsoe-samsoe-sarichard-cardigan-dark-grey-melange",
+          "alt": "The Frankie Shop Samsøe Samsøe Sarichard Cardigan - Dark Grey Melange — Dark Grey Melange — photo 3",
+          "src": "assets/images/3844745c121d417110686b502553cd5bba63c165741a6ce5cf259a5ef25a0c0a.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/SAMSOE-SAMSOE-SARICHARD-CARDIGAN-DAKGREY-MEL-BRAND-6-M.jpg?v=1789389446",
+          "sourcePage": "https://thefrankieshop.com/products/samsoe-samsoe-sarichard-cardigan-dark-grey-melange",
+          "alt": "The Frankie Shop Samsøe Samsøe Sarichard Cardigan - Dark Grey Melange — Dark Grey Melange — photo 4",
+          "src": "assets/images/991e4f0bed6280d80d76dc67646c37c762b972bb6e9e49ab8e9e80821a669b07.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/SAMSOE-SAMSOE-SARICHARD-CARDIGAN-DAKGREY-MEL-BRAND-4-M.jpg?v=1789389446",
+          "sourcePage": "https://thefrankieshop.com/products/samsoe-samsoe-sarichard-cardigan-dark-grey-melange",
+          "alt": "The Frankie Shop Samsøe Samsøe Sarichard Cardigan - Dark Grey Melange — Dark Grey Melange — photo 5",
+          "src": "assets/images/9da3fee0d23c713f8304f3572f0db3874f76266b8d9befddeaef2dd7f581aa4b.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/SAMSOE-SAMSOE-SARICHARD-CARDIGAN-DAKGREY-MEL-BRAND-PACKSHOT.jpg?v=1789389446",
+          "sourcePage": "https://thefrankieshop.com/products/samsoe-samsoe-sarichard-cardigan-dark-grey-melange",
+          "alt": "The Frankie Shop Samsøe Samsøe Sarichard Cardigan - Dark Grey Melange — Dark Grey Melange — photo 6",
+          "src": "assets/images/270092d10d682be8be9290a07a0591dec33ddc7fe127632894a5d132e4a6b08a.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/42a28ea3208a519636b0e13c82a3deaba55d1e0b58d658a207fe73cc3126018d.jpg",
+      "imageAlt": "The Frankie Shop Samsøe Samsøe Sarichard Cardigan - Dark Grey Melange — Dark Grey Melange — photo 1"
+    },
+    {
+      "id": "sweater-a692a4371468",
+      "name": "The Frankie Shop · Beck Wool Cardigan - Chocolate Plum — Chocolate Plum",
+      "url": "https://thefrankieshop.com/products/beck-wool-cardigan-chocolate-plum",
+      "store": "The Frankie Shop",
+      "brand": "The Frankie Shop",
+      "category": "Sweater",
+      "color": "Chocolate Plum",
+      "unitPriceUSD": 251.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M available (official feed; UI unverified)",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Felted Wool",
+        "Fit": "M",
+        "Trim": "Ribbed trims; separate trim fiber content not specified",
+        "Verification": "Official exact-variant stock data; rendered purchase UI not independently verified.",
+        "Status": "Available at source check; US storefront",
+        "Lining": "Unlined"
+      },
+      "sources": [
+        "sweater-a692a4371468"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/BECK-WOOL-CARDIGAN-CHOCOLATE-PLUM-PIERRE-BENOIT-0047.jpg?v=1738079408",
+          "sourcePage": "https://thefrankieshop.com/products/beck-wool-cardigan-chocolate-plum",
+          "alt": "The Frankie Shop Beck Wool Cardigan - Chocolate Plum — Chocolate Plum — photo 1",
+          "src": "assets/images/af5460bde36b2df1312592670e576d7fd3fe6d6cadf9f3eed065c4acb2191e93.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/BECK-WOOL-CARDIGAN-CHOCOLATE-PLUM-PIERRE-BENOIT-0050.jpg?v=1738079408",
+          "sourcePage": "https://thefrankieshop.com/products/beck-wool-cardigan-chocolate-plum",
+          "alt": "The Frankie Shop Beck Wool Cardigan - Chocolate Plum — Chocolate Plum — photo 2",
+          "src": "assets/images/df8d01261b30cf0e894fb95fb524f9fa1d7d1a9b6ac3cc1e5c4de06ce9d9b884.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/BECK-WOOL-CARDIGAN-CHOCOLATE-PLUM-PIERRE-BENOIT-0029.jpg?v=1738690029",
+          "sourcePage": "https://thefrankieshop.com/products/beck-wool-cardigan-chocolate-plum",
+          "alt": "The Frankie Shop Beck Wool Cardigan - Chocolate Plum — Chocolate Plum — photo 3",
+          "src": "assets/images/2bd9462283d804fc5080af7af03d7388df18084858536dcd96b3a59f65c856fa.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/BECK-WOOL-CARDIGAN-CHOCOLATE-PLUM-HOLLOW-0934.jpg?v=1738690029",
+          "sourcePage": "https://thefrankieshop.com/products/beck-wool-cardigan-chocolate-plum",
+          "alt": "The Frankie Shop Beck Wool Cardigan - Chocolate Plum — Chocolate Plum — photo 4",
+          "src": "assets/images/460da6f0b3b34e7370d3b60d42f2acc33f0c6705b05ba593c3f718ac6e396b9d.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/BECK-WOOL-CARDIGAN-CHOCOLATE-PLUM-PIERRE-BENOIT-0040.jpg?v=1738690029",
+          "sourcePage": "https://thefrankieshop.com/products/beck-wool-cardigan-chocolate-plum",
+          "alt": "The Frankie Shop Beck Wool Cardigan - Chocolate Plum — Chocolate Plum — photo 5",
+          "src": "assets/images/713b5208dc9786c128bd0465c496fe5cb244e8e8a802ec55a110f6017e9ffd71.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/BECK-WOOL-CARDIGAN-CHOCOLATE-PLUM-PIERRE-BENOIT-0053.jpg?v=1738690090",
+          "sourcePage": "https://thefrankieshop.com/products/beck-wool-cardigan-chocolate-plum",
+          "alt": "The Frankie Shop Beck Wool Cardigan - Chocolate Plum — Chocolate Plum — photo 6",
+          "src": "assets/images/1c28110c5e2ed27b0ae790af6e267666df974c80ad2497bb5a26f8953394463a.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/BECK-WOOL-CARDIGAN-CHOCOLATE-PLUM-PIERRE-BENOIT-0033.jpg?v=1738690090",
+          "sourcePage": "https://thefrankieshop.com/products/beck-wool-cardigan-chocolate-plum",
+          "alt": "The Frankie Shop Beck Wool Cardigan - Chocolate Plum — Chocolate Plum — photo 7",
+          "src": "assets/images/a254ad4372740e112070f117fc8e8b21b1a187085120ae4ee59f9910c5e60625.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/BECK-WOOL-CARDIGAN-CHOCOLATE-PLUM-PIERRE-BENOIT-0056.jpg?v=1738079408",
+          "sourcePage": "https://thefrankieshop.com/products/beck-wool-cardigan-chocolate-plum",
+          "alt": "The Frankie Shop Beck Wool Cardigan - Chocolate Plum — Chocolate Plum — photo 8",
+          "src": "assets/images/97becaad347a9ca4b5e06b6c265aa0c01553ca2a2d6514389dfc73ef0ed811f3.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/BECK-WOOL-CARDIGAN-CHOCOLATE-PLUM-PACKSHOT.jpg?v=1738079408",
+          "sourcePage": "https://thefrankieshop.com/products/beck-wool-cardigan-chocolate-plum",
+          "alt": "The Frankie Shop Beck Wool Cardigan - Chocolate Plum — Chocolate Plum — photo 9",
+          "src": "assets/images/8acdb4e5691c8ade2a3d89b4996fbb7e4041b1047722cf3d9fe0731bb4525603.jpg"
+        }
+      ],
+      "imageNote": "Exact selected-color retailer gallery; responsive duplicates removed.",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/af5460bde36b2df1312592670e576d7fd3fe6d6cadf9f3eed065c4acb2191e93.jpg",
+      "imageAlt": "The Frankie Shop Beck Wool Cardigan - Chocolate Plum — Chocolate Plum — photo 1"
     }
   ],
   "sources": [
@@ -9540,6 +11698,258 @@
       "title": "Carhartt WIP · OG Active Jacket (unlined canvas) — WIP Hamilton Brown (rinsed)",
       "type": "First-party product evidence",
       "note": "Checked 2026-11-22T18:18:19.253910+00:00. Exact SKU I037854_3TG_02_03_S. Full price; no verified markdown or additional promotional discount. Main fabric 100% organic cotton; unlined; trim fibers unspecified. S selected and both purchase forms reconciled without cart action. Free shipping on orders $50+ to contiguous US. Heavyweight woven canvas jacket, not a sweatshirt/zip hoodie. Distinct style I037854 from existing winter OG Active styles; maintain exact style-color identity."
+    },
+    {
+      "id": "sweater-33c0aa3d0418",
+      "url": "https://www.hawesandcurtis.com/sky-blue-v-neck-sweater-machine-washable-jwpwh003-b56",
+      "title": "Hawes & Curtis · Sky Blue V-Neck Sweater - Machine Washable — Sky Blue",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:41:27.765527+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $59, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-4d8a5df7ac51",
+      "url": "https://www.hawesandcurtis.com/black-crew-neck-jumper-machine-washable-jwpwh004-a01",
+      "title": "Hawes & Curtis · Black Crew Neck Sweater - Machine Washable — Black",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:40:41.279679+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-0f567821694a",
+      "url": "https://www.hawesandcurtis.com/black-roll-neck-merino-jumper-machine-washable-jwpwh002-a01",
+      "title": "Hawes & Curtis · Black Roll Neck Sweater - Machine Washable — Black",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:40:35.242593+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-b36b31a7fcb3",
+      "url": "https://www.hawesandcurtis.com/black-v-neck-cardigan-machine-washable-jwpwh007-a01",
+      "title": "Hawes & Curtis · Black V-Neck Cardigan - Machine Washable — Black",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:41:14.426001+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-9ecff19634f5",
+      "url": "https://www.hawesandcurtis.com/black-v-neck-merino-jumper-machine-washable-jwpwh003-a01",
+      "title": "Hawes & Curtis · Black V-Neck Sweater - Machine Washable — Black",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:41:16.041003+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-4e7558a08a50",
+      "url": "https://www.hawesandcurtis.com/claret-crew-neck-jumper-machine-washable-jwpwh004-k97",
+      "title": "Hawes & Curtis · Claret Crew Neck Sweater - Machine Washable — Claret",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:40:49.654364+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-4503247624f2",
+      "url": "https://www.hawesandcurtis.com/claret-roll-neck-merino-jumper-machine-washable-jwpwh002-k97",
+      "title": "Hawes & Curtis · Claret Roll Neck Sweater - Machine Washable — Claret",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:40:39.891699+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-b2afbf67bf70",
+      "url": "https://www.hawesandcurtis.com/cream-roll-neck-merino-jumper-machine-washable-jwpwh002-h68",
+      "title": "Hawes & Curtis · Cream Roll Neck Sweater - Machine Washable — Cream",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:40:44.590563+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-ecd6dbfa40bd",
+      "url": "https://www.hawesandcurtis.com/dark-brown-roll-neck-merino-sweater-machine-washable-jwpwh002-c40",
+      "title": "Hawes & Curtis · Dark Brown Roll Neck Sweater - Machine Washable — Dark Brown",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:40:36.749459+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-0160c3d6a6b1",
+      "url": "https://www.hawesandcurtis.com/dark-green-crew-neck-jumper-machine-washable-jwpwh004-e21",
+      "title": "Hawes & Curtis · Dark Green Crew Neck Sweater - Machine Washable — Dark Green",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:40:46.255025+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-0d5d0482f538",
+      "url": "https://www.hawesandcurtis.com/grey-crew-neck-merino-jumper-machine-washable-jwpwh004-f01",
+      "title": "Hawes & Curtis · Grey Crew Neck Sweater - Machine Washable — Grey",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:40:48.276923+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-a00a983f6cdd",
+      "url": "https://www.hawesandcurtis.com/grey-roll-neck-jumper-machine-washable-jwpwh002-f01",
+      "title": "Hawes & Curtis · Grey Roll Neck Sweater - Machine Washable — Grey",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:41:17.676546+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-f1f3b11c6195",
+      "url": "https://www.hawesandcurtis.com/grey-v-neck-merino-cardigan-machine-washable-jwpwh007-f01",
+      "title": "Hawes & Curtis · Grey V-Neck Cardigan - Machine Washable — Grey",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:41:19.392119+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-a2aa52578df9",
+      "url": "https://www.hawesandcurtis.com/grey-v-neck-merino-jumper-machine-washable-jwpwh003-f01",
+      "title": "Hawes & Curtis · Grey V-Neck Sweater - Machine Washable — Grey",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:41:21.315271+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-3d19c87fbf3c",
+      "url": "https://www.hawesandcurtis.com/navy-crew-neck-merino-jumper-machine-washable-jwpwh004-g01",
+      "title": "Hawes & Curtis · Navy Crew Neck Sweater - Machine Washable — Navy",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:40:33.483766+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-75d4a5f0bef5",
+      "url": "https://www.hawesandcurtis.com/navy-roll-neck-merino-jumper-machine-washable-jwpwh002-g01",
+      "title": "Hawes & Curtis · Navy Roll Neck Sweater - Machine Washable — Navy",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:41:22.985228+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-fe891df0ca79",
+      "url": "https://www.hawesandcurtis.com/navy-v-neck-merino-cardigan-machine-washable-jwpwh007-g01",
+      "title": "Hawes & Curtis · Navy V-Neck Cardigan - Machine Washable — Navy",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:40:42.878566+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-6ec3765066a9",
+      "url": "https://www.hawesandcurtis.com/navy-v-neck-merino-jumper-machine-washable-jwpwh003-g01",
+      "title": "Hawes & Curtis · Navy V-Neck Sweater - Machine Washable — Navy",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:40:38.216265+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $99, was $139 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-6632adf46c74",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=03",
+      "title": "Abercrombie & Fitch · 100% Cotton Crew Sweater — Warm Beige — warm beige",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:42:54.448183+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $63.75, was $85 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-39d80488ec0b",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-rib-v-neck-sweater-63490324?seq=03",
+      "title": "Abercrombie & Fitch · 100% Cotton Rib V-Neck Sweater — Brown — brown",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:42:54.448183+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $63.75, was $85 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-203f23fa4863",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-rib-v-neck-sweater-63490324?seq=02",
+      "title": "Abercrombie & Fitch · 100% Cotton Rib V-Neck Sweater — Dark Spruce — dark spruce",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:42:54.448183+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $63.75, was $85 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-8e097397b054",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-rib-v-neck-sweater-63490324?seq=01",
+      "title": "Abercrombie & Fitch · 100% Cotton Rib V-Neck Sweater — Navy — navy",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:42:54.448183+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $63.75, was $85 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-42df4b4829d3",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=07",
+      "title": "Abercrombie & Fitch · 100% Cotton Crew Sweater — Brown Stripe — brown stripe",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:42:54.448183+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. No paired markdown verified. No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-01e496317bd6",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-crew-sweater-63392327?seq=06",
+      "title": "Abercrombie & Fitch · 100% Cotton Crew Sweater — Navy Stripe — navy stripe",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:42:54.448183+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. No paired markdown verified. No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-ad7da2074798",
+      "url": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_B303.html",
+      "title": "Sandro · Textured knit sweater — Lime",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:44:29.088398+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $94.5, was $315 · Final sale No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-79ef3bb0bb4f",
+      "url": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_H183.html",
+      "title": "Sandro · Textured knit sweater — Dark kaki.",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:44:29.088398+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $94.5, was $315 · Final sale No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. No separate trim composition disclosed"
+    },
+    {
+      "id": "sweater-a79ee4caaa31",
+      "url": "https://www.apc-us.com/products/paul-sweater-cohnx-h23475_tas?variant=43748033953891",
+      "title": "A.P.C. · Paul sweater — TAS - Black / white",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:44:29.088398+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $175, was $350 · Final sale No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. not separately disclosed"
+    },
+    {
+      "id": "sweater-77d243104bd5",
+      "url": "https://www.apc-us.com/products/matthias-sweater-wvbec-h23431_tiq?variant=43390643339363",
+      "title": "A.P.C. · Matthias sweater — TIQ - Dark navy blue",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:44:29.088398+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $192.5, was $385 · Final sale No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. not separately disclosed"
+    },
+    {
+      "id": "sweater-4c651ffdc529",
+      "url": "https://www.apc-us.com/products/jay-sweater-wvbdk-h23458_gac?variant=43489771323491",
+      "title": "A.P.C. · Jay sweater — GAC - Burgundy",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:44:29.088398+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $200, was $400 · Final sale No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. not separately disclosed"
+    },
+    {
+      "id": "sweater-dd39ebd659d6",
+      "url": "https://www.apc-us.com/products/jay-sweater-wvbdk-h23458_iak?variant=43489772372067",
+      "title": "A.P.C. · Jay sweater — IAK - Dark navy blue",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:44:29.088398+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $200, was $400 · Final sale No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. not separately disclosed"
+    },
+    {
+      "id": "sweater-ea5d7e5c7e89",
+      "url": "https://www.apc-us.com/products/pascal-sweater-grey-raglan-sleeve-sweater-wvbep-h23527_plb?variant=44106848043107",
+      "title": "A.P.C. · Pascal Sweater - Grey raglan-sleeve sweater — PLB - Grey",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:44:29.088398+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $245, was $350 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. not separately disclosed"
+    },
+    {
+      "id": "sweater-d3f1c0508cac",
+      "url": "https://www.apc-us.com/products/leo-sweater-cogtx-h23485_iah?variant=43937748844643",
+      "title": "A.P.C. · Leo sweater — IAH - Blue",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:44:29.088398+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $247.5, was $495 · Final sale No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. not separately disclosed"
+    },
+    {
+      "id": "sweater-ab955af13db5",
+      "url": "https://www.apc-us.com/products/loose-wool-sweater-woasw-h23491_pka?variant=44107286315107",
+      "title": "A.P.C. · Loose Wool Sweater — PKA - Green",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:44:29.088398+00:00. Same-day official product evidence and S/M purchase UI checks; no cart submission. $275, was $550 No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. not separately disclosed"
+    },
+    {
+      "id": "sweater-2d847bf10f0e",
+      "url": "https://thefrankieshop.com/products/arne-sweater-grey-melange",
+      "title": "The Frankie Shop · Arne Sweater - Grey Melange — Grey Melange",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:43:30.797210+00:00. Official exact-variant stock data; rendered purchase UI not independently verified. No paired markdown verified. No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. Ribbed trims; separate trim fiber content not specified"
+    },
+    {
+      "id": "sweater-bf9865569e5e",
+      "url": "https://thefrankieshop.com/products/samsoe-samsoe-sarichard-cardigan-dark-grey-melange",
+      "title": "The Frankie Shop · Samsøe Samsøe Sarichard Cardigan - Dark Grey Melange — Dark Grey Melange",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:43:30.797210+00:00. Official exact-variant stock data; rendered purchase UI not independently verified. No paired markdown verified. No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. Ribbed trims; separate trim fiber content not specified"
+    },
+    {
+      "id": "sweater-a692a4371468",
+      "url": "https://thefrankieshop.com/products/beck-wool-cardigan-chocolate-plum",
+      "title": "The Frankie Shop · Beck Wool Cardigan - Chocolate Plum — Chocolate Plum",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:43:30.797210+00:00. Official exact-variant stock data; rendered purchase UI not independently verified. No paired markdown verified. No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. Ribbed trims; separate trim fiber content not specified"
     }
   ]
 }
