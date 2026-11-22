@@ -6573,6 +6573,576 @@
       "imageAlt": "Carhartt WIP OG Detroit Jacket (Winter) — WIP Hamilton Brown / Tobacco (stone canvas) — photo 1",
       "imageNote": "All images and video posters in exact-color PDP gallery before size picker, duplicate responsive images removed; proportionally resized; original image URLs retained.",
       "attribution": "Retailer product evidence; not an endorsement."
+    },
+    {
+      "id": "jacket-75c97467a517",
+      "name": "Abercrombie & Fitch · Denim Trucker Jacket — medium wash",
+      "url": "https://www.abercrombie.com/shop/us/p/denim-trucker-jacket-63936344?seq=01",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Jacket",
+      "color": "medium wash",
+      "unitPriceUSD": 79.99,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S available",
+      "deal": "Was $160, now $79.99",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "SHELL: 100% COTTON",
+        "Fit": "S",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "jacket-75c97467a517"
+      ],
+      "images": [
+        {
+          "src": "assets/images/c017fa9c2ae2bc0507fc9ac364b1185b27de5478657820614c86a358caea1338.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_132-6238-00366-280_life1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/denim-trucker-jacket-63936344?seq=01",
+          "alt": "Abercrombie Denim Trucker Jacket — medium wash — photo 1"
+        },
+        {
+          "src": "assets/images/e5b785395eb07075a567e38233d8e1dc190e4e1728b2c112b115a42f1fa5094a.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_132-6238-00366-280_life2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/denim-trucker-jacket-63936344?seq=01",
+          "alt": "Abercrombie Denim Trucker Jacket — medium wash — photo 2"
+        },
+        {
+          "src": "assets/images/12b380f9d00249aa6746c0a1322fe449e66bae11df51742b1a077a3866c1fdd4.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_132-6238-00366-280_model1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/denim-trucker-jacket-63936344?seq=01",
+          "alt": "Abercrombie Denim Trucker Jacket — medium wash — photo 3"
+        },
+        {
+          "src": "assets/images/281109e55ccb72053b3a166eb37892d5e0cbff34c6c1d453e441a37703994caa.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_132-6238-00366-280_model2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/denim-trucker-jacket-63936344?seq=01",
+          "alt": "Abercrombie Denim Trucker Jacket — medium wash — photo 4"
+        },
+        {
+          "src": "assets/images/ee188b4ac44373e24204748f4daab8043b3feabbc486e972ca37910c34007dc2.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_132-6238-00366-280_model3?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/denim-trucker-jacket-63936344?seq=01",
+          "alt": "Abercrombie Denim Trucker Jacket — medium wash — photo 5"
+        },
+        {
+          "src": "assets/images/3961c2828fcf39cfcc4423350a1fba77583d6c3fb0971b75d0252db378756e58.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_132-6238-00366-280_model4?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/denim-trucker-jacket-63936344?seq=01",
+          "alt": "Abercrombie Denim Trucker Jacket — medium wash — photo 6"
+        },
+        {
+          "src": "assets/images/f4b342273c7679047b5269f025a0e2e98c65410b809fc081257afe7dc7c0e644.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_132-6238-00366-280_model5?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/denim-trucker-jacket-63936344?seq=01",
+          "alt": "Abercrombie Denim Trucker Jacket — medium wash — photo 7"
+        },
+        {
+          "src": "assets/images/b35e611683dddc979d69a1f670560a928d1433d88e5d21ce0bbbacf914db69bf.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_132-6238-00366-280_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/denim-trucker-jacket-63936344?seq=01",
+          "alt": "Abercrombie Denim Trucker Jacket — medium wash — photo 8"
+        },
+        {
+          "src": "assets/images/50f7c523c92d91963853d7de5de666cbd7095586befefc65a2a7562a6bd22f34.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_132-6238-00366-280_prod2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/denim-trucker-jacket-63936344?seq=01",
+          "alt": "Abercrombie Denim Trucker Jacket — medium wash — photo 9"
+        },
+        {
+          "src": "assets/images/0edd66d174bb90904af4d661114c38a0f1d2f1c3bdca752916075f2d15f25ab7.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_132-6238-00366-280_prod3?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/denim-trucker-jacket-63936344?seq=01",
+          "alt": "Abercrombie Denim Trucker Jacket — medium wash — photo 10"
+        }
+      ],
+      "image": "assets/images/c017fa9c2ae2bc0507fc9ac364b1185b27de5478657820614c86a358caea1338.jpg",
+      "imageAlt": "Abercrombie Denim Trucker Jacket — medium wash — photo 1",
+      "imageNote": "Complete exact selected-color orderedImages; original retailer URLs retained.",
+      "attribution": "Retailer product evidence; not an endorsement."
+    },
+    {
+      "id": "jacket-d232587e9e16",
+      "name": "Abercrombie & Fitch · Denim Overshirt — medium wash",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=01",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Jacket",
+      "color": "medium wash",
+      "unitPriceUSD": 85,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M, S available",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "M, S · Regular",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "jacket-d232587e9e16"
+      ],
+      "images": [
+        {
+          "src": "assets/images/abbba77222cd6610c0bcf21a33420c5bfe22674c215879da6a3b7fec2406c587.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6556-00512-220_model1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=01",
+          "alt": "Abercrombie Denim Overshirt — medium wash — photo 1"
+        },
+        {
+          "src": "assets/images/a9a72583abb8fe0cbbf25ddb835dd6b6754a9d67e5f0830a4e81ed3405a81326.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6556-00512-220_model2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=01",
+          "alt": "Abercrombie Denim Overshirt — medium wash — photo 2"
+        },
+        {
+          "src": "assets/images/d05ad69862bbc8daa864c287f1aef730151650498a7f681e27b20c6d22adc59c.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6556-00512-220_model3?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=01",
+          "alt": "Abercrombie Denim Overshirt — medium wash — photo 3"
+        },
+        {
+          "src": "assets/images/495140333d44de5d8119b807629aa29018bfa7606f29322d6b12e83d58294bba.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6556-00512-220_model4?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=01",
+          "alt": "Abercrombie Denim Overshirt — medium wash — photo 4"
+        },
+        {
+          "src": "assets/images/a2945a4691d349fdc887bb8d9b68cb5920f09557ffeeecd8fb2ac92afe24584c.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6556-00512-220_model5?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=01",
+          "alt": "Abercrombie Denim Overshirt — medium wash — photo 5"
+        },
+        {
+          "src": "assets/images/e94cc6c526bd757599d1777b45c2dd1972226360641bc2b9aced63d610c6fce3.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6556-00512-220_model6?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=01",
+          "alt": "Abercrombie Denim Overshirt — medium wash — photo 6"
+        },
+        {
+          "src": "assets/images/c9fa51e95ef643d0a12df685c4148d4db58dfad50d7161831a16ffad9b77b08a.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6556-00512-220_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=01",
+          "alt": "Abercrombie Denim Overshirt — medium wash — photo 7"
+        }
+      ],
+      "image": "assets/images/abbba77222cd6610c0bcf21a33420c5bfe22674c215879da6a3b7fec2406c587.jpg",
+      "imageAlt": "Abercrombie Denim Overshirt — medium wash — photo 1",
+      "imageNote": "Complete exact selected-color orderedImages; original retailer URLs retained.",
+      "attribution": "Retailer product evidence; not an endorsement."
+    },
+    {
+      "id": "jacket-d062bac75dac",
+      "name": "Abercrombie & Fitch · 100% Cotton Corduroy Overshirt — black",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=02",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Jacket",
+      "color": "black",
+      "unitPriceUSD": 85,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "S, M · Regular",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "jacket-d062bac75dac"
+      ],
+      "images": [
+        {
+          "src": "assets/images/c4839aff865c4c7074a1e0cfc7107b267ac470a902bdf5d1a9b427429e083568.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6553-00491-900_model1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=02",
+          "alt": "Abercrombie 100% Cotton Corduroy Overshirt — black — photo 1"
+        },
+        {
+          "src": "assets/images/362a8de90fcf7a883af82009b34008d5ef94950c7af9fb905352cc981793a08d.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6553-00491-900_model2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=02",
+          "alt": "Abercrombie 100% Cotton Corduroy Overshirt — black — photo 2"
+        },
+        {
+          "src": "assets/images/c8a948a3212d9a9bc921a1287867fbdb05d8b8b6bd84e129736f6da01cdc290c.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6553-00491-900_model3?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=02",
+          "alt": "Abercrombie 100% Cotton Corduroy Overshirt — black — photo 3"
+        },
+        {
+          "src": "assets/images/b441a9e9cd6673757cbfb532a1f0b7c07526989d4cc4f42bf992b5b5bac81c21.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6553-00491-900_model4?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=02",
+          "alt": "Abercrombie 100% Cotton Corduroy Overshirt — black — photo 4"
+        },
+        {
+          "src": "assets/images/3dd1db94a672e196ea7f224df5372bd39a7590d75075bc1d422aaa43bc800fc6.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6553-00491-900_model5?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=02",
+          "alt": "Abercrombie 100% Cotton Corduroy Overshirt — black — photo 5"
+        },
+        {
+          "src": "assets/images/75b773b36a756591a83605e2b177fa7a5ff3afede6fdc018eb868812c18b299a.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6553-00491-900_model6?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=02",
+          "alt": "Abercrombie 100% Cotton Corduroy Overshirt — black — photo 6"
+        },
+        {
+          "src": "assets/images/3bd5eb9768a1f847ce146c68032a57419d211146eace0ac757f077f2bd9c94eb.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6553-00491-900_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=02",
+          "alt": "Abercrombie 100% Cotton Corduroy Overshirt — black — photo 7"
+        }
+      ],
+      "image": "assets/images/c4839aff865c4c7074a1e0cfc7107b267ac470a902bdf5d1a9b427429e083568.jpg",
+      "imageAlt": "Abercrombie 100% Cotton Corduroy Overshirt — black — photo 1",
+      "imageNote": "Complete exact selected-color orderedImages; original retailer URLs retained.",
+      "attribution": "Retailer product evidence; not an endorsement."
+    },
+    {
+      "id": "jacket-e5a8f4f511da",
+      "name": "Abercrombie & Fitch · 100% Cotton Corduroy Overshirt — brown",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=03",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Jacket",
+      "color": "brown",
+      "unitPriceUSD": 85,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "S, M · Regular",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "jacket-e5a8f4f511da"
+      ],
+      "images": [
+        {
+          "src": "assets/images/70c53552a764107cba1488d7c59cfff5e57f82d5e85406e094b175e276116cd8.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6554-00492-400_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=03",
+          "alt": "Abercrombie 100% Cotton Corduroy Overshirt — brown — photo 1"
+        }
+      ],
+      "image": "assets/images/70c53552a764107cba1488d7c59cfff5e57f82d5e85406e094b175e276116cd8.jpg",
+      "imageAlt": "Abercrombie 100% Cotton Corduroy Overshirt — brown — photo 1",
+      "imageNote": "Complete exact selected-color orderedImages; original retailer URLs retained.",
+      "attribution": "Retailer product evidence; not an endorsement."
+    },
+    {
+      "id": "jacket-538ef45dc534",
+      "name": "Abercrombie & Fitch · 100% Cotton Flannel Overshirt — red plaid",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=04",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Jacket",
+      "color": "red plaid",
+      "unitPriceUSD": 85,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "S, M · Regular",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "jacket-538ef45dc534"
+      ],
+      "images": [
+        {
+          "src": "assets/images/3710c16ebd7df6ceadef864e815e592748b3502d414b2ae2bf546baf113be7ce.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6559-00514-577_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=04",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — red plaid — photo 1"
+        }
+      ],
+      "image": "assets/images/3710c16ebd7df6ceadef864e815e592748b3502d414b2ae2bf546baf113be7ce.jpg",
+      "imageAlt": "Abercrombie 100% Cotton Flannel Overshirt — red plaid — photo 1",
+      "imageNote": "Complete exact selected-color orderedImages; original retailer URLs retained.",
+      "attribution": "Retailer product evidence; not an endorsement."
+    },
+    {
+      "id": "jacket-af86639ae539",
+      "name": "Abercrombie & Fitch · 100% Cotton Flannel Overshirt — green plaid",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=05",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Jacket",
+      "color": "green plaid",
+      "unitPriceUSD": 85,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "S, M · Regular",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "jacket-af86639ae539"
+      ],
+      "images": [
+        {
+          "src": "assets/images/6ab5416c019fc6cb195ddc6fbd46479978629c56fc9a9500f81b13fcce570128.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6558-00513-379_model1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=05",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — green plaid — photo 1"
+        },
+        {
+          "src": "assets/images/af0b88eb05da8a56d7a16ac1ac4c31e7222bcb2defa7f7840ef2d712dd91ce76.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6558-00513-379_model2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=05",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — green plaid — photo 2"
+        },
+        {
+          "src": "assets/images/9b7c14b06c8798892bb1ed27e7da55f3230afe96f698764361c356df54bbdcff.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6558-00513-379_model3?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=05",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — green plaid — photo 3"
+        },
+        {
+          "src": "assets/images/d2dd3afb48d6e71447a0715388151603f5680d1d652fde3093ef993d2f4ca147.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6558-00513-379_model4?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=05",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — green plaid — photo 4"
+        },
+        {
+          "src": "assets/images/8e4234f04cd21046bbb6e2cce78aba0f5228497149f60490573556e76940585d.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6558-00513-379_model5?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=05",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — green plaid — photo 5"
+        },
+        {
+          "src": "assets/images/3084d9279551381c3f5dfa88ada6d5018766cceefce7bd79a27146bcaf9338ec.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6558-00513-379_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=05",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — green plaid — photo 6"
+        }
+      ],
+      "image": "assets/images/6ab5416c019fc6cb195ddc6fbd46479978629c56fc9a9500f81b13fcce570128.jpg",
+      "imageAlt": "Abercrombie 100% Cotton Flannel Overshirt — green plaid — photo 1",
+      "imageNote": "Complete exact selected-color orderedImages; original retailer URLs retained.",
+      "attribution": "Retailer product evidence; not an endorsement."
+    },
+    {
+      "id": "jacket-324c1033c506",
+      "name": "Abercrombie & Fitch · 100% Cotton Flannel Overshirt — dark brown plaid",
+      "url": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=03",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Jacket",
+      "color": "dark brown plaid",
+      "unitPriceUSD": 85,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M, S available",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "M, S · Regular",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "jacket-324c1033c506"
+      ],
+      "images": [
+        {
+          "src": "assets/images/1aeff64abeb5b5260d30adea7ac87ea4baa24bcbbeb8834007bf16c8a7ddb3e5.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6582-00511-428_model1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=03",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — dark brown plaid — photo 1"
+        },
+        {
+          "src": "assets/images/88377733754f3ab98a2199f9592058bce76ce6071bd39d0762d649405dbddcd5.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6582-00511-428_model2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=03",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — dark brown plaid — photo 2"
+        },
+        {
+          "src": "assets/images/43f5979aab58ce39c69caef9fb4afabf9c85160ce4d0793e6304ebca2ad56c18.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6582-00511-428_model3?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=03",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — dark brown plaid — photo 3"
+        },
+        {
+          "src": "assets/images/5a6e021f8b6c50913853bc138afbd81edd30bb7dc1fc4bbe85dc6f22178e80d4.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6582-00511-428_model4?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=03",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — dark brown plaid — photo 4"
+        },
+        {
+          "src": "assets/images/c137010238b05956bbac02e2a5002831ef54c27857c6bac9be6ef9cf95d63c84.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6582-00511-428_model5?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=03",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — dark brown plaid — photo 5"
+        },
+        {
+          "src": "assets/images/b0afc98ac9193309913f779f9296ca60a36e163f43fd276ac807caa14703c6f7.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6582-00511-428_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=03",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — dark brown plaid — photo 6"
+        }
+      ],
+      "image": "assets/images/1aeff64abeb5b5260d30adea7ac87ea4baa24bcbbeb8834007bf16c8a7ddb3e5.jpg",
+      "imageAlt": "Abercrombie 100% Cotton Flannel Overshirt — dark brown plaid — photo 1",
+      "imageNote": "Complete exact selected-color orderedImages; original retailer URLs retained.",
+      "attribution": "Retailer product evidence; not an endorsement."
+    },
+    {
+      "id": "jacket-9d966d5c80d4",
+      "name": "Abercrombie & Fitch · 100% Cotton Flannel Overshirt — brown plaid",
+      "url": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=04",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Jacket",
+      "color": "brown plaid",
+      "unitPriceUSD": 85,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M, S available",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "M, S · Regular",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "jacket-9d966d5c80d4"
+      ],
+      "images": [
+        {
+          "src": "assets/images/5387044a5f1c30b68a42d725868a2435b150e18a2ba328ac2f76575861fae423.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6577-00509-408_model1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=04",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — brown plaid — photo 1"
+        },
+        {
+          "src": "assets/images/4b9c3286967fd85288dbcde02398644d77339bdf515631463b45d979fd81962b.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6577-00509-408_model2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=04",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — brown plaid — photo 2"
+        },
+        {
+          "src": "assets/images/9ba4a5cdf61a8d3b0d0e4b9d340a7d6cd6cfc55b77d62f8a8ff8bb7f220f36f7.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6577-00509-408_model3?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=04",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — brown plaid — photo 3"
+        },
+        {
+          "src": "assets/images/50a0355f58c4e9a9b853a7e42f79e09eee90794b37294f290980581c8c0d485f.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6577-00509-408_model4?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=04",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — brown plaid — photo 4"
+        },
+        {
+          "src": "assets/images/4989c6a9d66c0feb43ddbc7eeda8d6253ea24dd7a9f951fbe8deeba77d797d83.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6577-00509-408_model5?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=04",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — brown plaid — photo 5"
+        },
+        {
+          "src": "assets/images/d43052d115d71dcd3097be54492b3a976f9ee17cf72fd2f804d4ae6fc57ba8c0.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6577-00509-408_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=04",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — brown plaid — photo 6"
+        }
+      ],
+      "image": "assets/images/5387044a5f1c30b68a42d725868a2435b150e18a2ba328ac2f76575861fae423.jpg",
+      "imageAlt": "Abercrombie 100% Cotton Flannel Overshirt — brown plaid — photo 1",
+      "imageNote": "Complete exact selected-color orderedImages; original retailer URLs retained.",
+      "attribution": "Retailer product evidence; not an endorsement."
+    },
+    {
+      "id": "jacket-1fbe48b72c8a",
+      "name": "Abercrombie & Fitch · 100% Cotton Flannel Overshirt — cream",
+      "url": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=05",
+      "store": "Abercrombie & Fitch",
+      "brand": "Abercrombie & Fitch",
+      "category": "Jacket",
+      "color": "cream",
+      "unitPriceUSD": 85,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "BODY: 100% COTTON",
+        "Fit": "S, M · Regular",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "jacket-1fbe48b72c8a"
+      ],
+      "images": [
+        {
+          "src": "assets/images/b283f21575971e3056360a3ea4ffeb6eac100e5a8b8ba22f562c7f5c237f3b3c.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6579-00510-178_model1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=05",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — cream — photo 1"
+        },
+        {
+          "src": "assets/images/8a0146df2b8dd7e300969f565bfbf1d43950b7bf25609528ea746b2790b53c90.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6579-00510-178_model2?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=05",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — cream — photo 2"
+        },
+        {
+          "src": "assets/images/15087765fa8e6b5755e23eb80513226f2481a751873a2de977dd572ff4f36e60.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6579-00510-178_model3?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=05",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — cream — photo 3"
+        },
+        {
+          "src": "assets/images/ed7ab47b483c02e6311ac9aea748d53f4fdbcc5a775c73ada6e016984dcff48e.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6579-00510-178_model4?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=05",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — cream — photo 4"
+        },
+        {
+          "src": "assets/images/86de3b38488aa9ad35aa16caab479c52f74227998f65f786719d3e28ba96243b.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6579-00510-178_model5?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=05",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — cream — photo 5"
+        },
+        {
+          "src": "assets/images/66962929de694fcc01ca4e90ffef5d57301f77e091078a329b1be834384c508e.jpg",
+          "source": "https://img.abercrombie.com/is/image/anf/KIC_125-6579-00510-178_prod1?policy=product-extra-large",
+          "sourcePage": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=05",
+          "alt": "Abercrombie 100% Cotton Flannel Overshirt — cream — photo 6"
+        }
+      ],
+      "image": "assets/images/b283f21575971e3056360a3ea4ffeb6eac100e5a8b8ba22f562c7f5c237f3b3c.jpg",
+      "imageAlt": "Abercrombie 100% Cotton Flannel Overshirt — cream — photo 1",
+      "imageNote": "Complete exact selected-color orderedImages; original retailer URLs retained.",
+      "attribution": "Retailer product evidence; not an endorsement."
     }
   ],
   "sources": [
@@ -7308,8 +7878,8 @@
       "id": "expansion-10",
       "url": "https://www.abercrombie.com/shop/us/mens-jackets-and-coats",
       "title": "Abercrombie",
-      "type": "captcha blocked",
-      "note": "bounded; not exhaustive No current S/M/price refresh; saved natural-color inventory retained only in af-discovery.json. Dedicated browser recovery was unavailable because that browser is paused for a human handoff; no stock-absence conclusion."
+      "type": "bounded live sweep — 9 verified colors",
+      "note": "Checked 2026-11-22T17:25:18.242098+00:00. 9 qualifying colors, all under $150; 1 markdown ($79.99 from $160), other colors $85. Coats/jackets sorted cheapest first (two pages), shirt-jackets and clearance outerwear reviewed; 46 PDP routes attempted, 97 color records reviewed. 87 material/lining rejections; 1 natural color without available S/M. Not whole-store inventory. Historical chore route errored and corduroy-overshirt route empty. Exact checkout totals and extra 15% in-bag application unverified; no Black Friday-specific offer/code verified."
     },
     {
       "id": "expansion-11",
@@ -7394,6 +7964,69 @@
       "title": "Rains",
       "type": "bounded material exclusions",
       "note": "Refreshed exact US Jacket male, Long Jacket male, Suva Hardshell Coat male, all HTTP200. First two100% Polyester, third100% PES (Polyester); synthetic PU coating disclosed. 86 saved jacket-related URLs screened as discovery only; three representative current exact-page material rejections do not prove whole-store absence. Initial generic /products/jacket404 corrected using saved handles."
+    },
+    {
+      "id": "jacket-75c97467a517",
+      "url": "https://www.abercrombie.com/shop/us/p/denim-trucker-jacket-63936344?seq=01",
+      "title": "Abercrombie & Fitch — selected color",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T17:23:53.640894+00:00. US shipping shown: standard $7, typically 4–9 business days; country-level policy, not destination checkout quote. Advertised free standard shipping over $99 after discounts. Page says 30-day returns; $7 deducted for mailed return label; isFinalSale=false. Advertised Extra 15% Off In Bag: UNVERIFIED in cart; not applied to displayed price. No Black Friday-specific offer or code verified."
+    },
+    {
+      "id": "jacket-d232587e9e16",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=01",
+      "title": "Abercrombie & Fitch — selected color",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T17:22:39.735754+00:00. US shipping shown: standard $7, typically 4–9 business days; country-level policy, not destination checkout quote. Advertised free standard shipping over $99 after discounts. Page says 30-day returns; $7 deducted for mailed return label; isFinalSale=false. No Black Friday-specific offer or code verified."
+    },
+    {
+      "id": "jacket-d062bac75dac",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=02",
+      "title": "Abercrombie & Fitch — selected color",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T17:22:48.821973+00:00. US shipping shown: standard $7, typically 4–9 business days; country-level policy, not destination checkout quote. Advertised free standard shipping over $99 after discounts. Page says 30-day returns; $7 deducted for mailed return label; isFinalSale=false. No Black Friday-specific offer or code verified."
+    },
+    {
+      "id": "jacket-e5a8f4f511da",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=03",
+      "title": "Abercrombie & Fitch — selected color",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T17:22:57.923950+00:00. US shipping shown: standard $7, typically 4–9 business days; country-level policy, not destination checkout quote. Advertised free standard shipping over $99 after discounts. Page says 30-day returns; $7 deducted for mailed return label; isFinalSale=false. No Black Friday-specific offer or code verified."
+    },
+    {
+      "id": "jacket-538ef45dc534",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=04",
+      "title": "Abercrombie & Fitch — selected color",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T17:23:07.160530+00:00. US shipping shown: standard $7, typically 4–9 business days; country-level policy, not destination checkout quote. Advertised free standard shipping over $99 after discounts. Page says 30-day returns; $7 deducted for mailed return label; isFinalSale=false. No Black Friday-specific offer or code verified."
+    },
+    {
+      "id": "jacket-af86639ae539",
+      "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-shirt-jacket-63885319?seq=05",
+      "title": "Abercrombie & Fitch — selected color",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T17:23:16.491783+00:00. US shipping shown: standard $7, typically 4–9 business days; country-level policy, not destination checkout quote. Advertised free standard shipping over $99 after discounts. Page says 30-day returns; $7 deducted for mailed return label; isFinalSale=false. No Black Friday-specific offer or code verified."
+    },
+    {
+      "id": "jacket-324c1033c506",
+      "url": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=03",
+      "title": "Abercrombie & Fitch — selected color",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T17:23:26.266877+00:00. US shipping shown: standard $7, typically 4–9 business days; country-level policy, not destination checkout quote. Advertised free standard shipping over $99 after discounts. Page says 30-day returns; $7 deducted for mailed return label; isFinalSale=false. No Black Friday-specific offer or code verified."
+    },
+    {
+      "id": "jacket-9d966d5c80d4",
+      "url": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=04",
+      "title": "Abercrombie & Fitch — selected color",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T17:23:35.466342+00:00. US shipping shown: standard $7, typically 4–9 business days; country-level policy, not destination checkout quote. Advertised free standard shipping over $99 after discounts. Page says 30-day returns; $7 deducted for mailed return label; isFinalSale=false. No Black Friday-specific offer or code verified."
+    },
+    {
+      "id": "jacket-1fbe48b72c8a",
+      "url": "https://www.abercrombie.com/shop/us/p/wool-blend-overshirt-63885822?seq=05",
+      "title": "Abercrombie & Fitch — selected color",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T17:23:44.552740+00:00. US shipping shown: standard $7, typically 4–9 business days; country-level policy, not destination checkout quote. Advertised free standard shipping over $99 after discounts. Page says 30-day returns; $7 deducted for mailed return label; isFinalSale=false. No Black Friday-specific offer or code verified."
     }
   ]
 }
