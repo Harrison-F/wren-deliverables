@@ -39,12 +39,15 @@ var CatalogRemoval = (() => {
    apply();
   }
   function accept(state) {
-   if (!Number.isSafeInteger(state?.revision) || state.revision < 0 || !Array.isArray(state.items) || state.items.length !== ids.size) throw Error('Invalid state');
-   const next = new Map();
+   if (!Number.isSafeInteger(state?.revision) || state.revision < 0 || !Array.isArray(state.items)) throw Error('Invalid state');
+   const next = new Map(), seen = new Set();
    for (const item of state.items) {
-    if (!ids.has(item.id) || next.has(item.id) || typeof item.hidden !== 'boolean' || !Number.isSafeInteger(item.version) || item.version < 0) throw Error('Invalid item');
-    next.set(item.id, {id: item.id, hidden: item.hidden, version: item.version});
+    if (!item || typeof item.id !== 'string' || seen.has(item.id) || typeof item.hidden !== 'boolean' || !Number.isSafeInteger(item.version) || item.version < 0) throw Error('Invalid item');
+    seen.add(item.id);
+    // Older topic snapshots may coexist with additive server registrations.
+    if (ids.has(item.id)) next.set(item.id, {id: item.id, hidden: item.hidden, version: item.version});
    }
+   if (next.size !== ids.size) throw Error('Missing local item');
    // A delayed or stale response must never roll back shared state.
    if (state.revision < revision) return false;
    for (const [id, prior] of items) {
