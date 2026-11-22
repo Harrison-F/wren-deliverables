@@ -7143,6 +7143,86 @@
       "imageAlt": "Abercrombie 100% Cotton Flannel Overshirt — cream — photo 1",
       "imageNote": "Complete exact selected-color orderedImages; original retailer URLs retained.",
       "attribution": "Retailer product evidence; not an endorsement."
+    },
+    {
+      "id": "jacket-531b351e0dd7",
+      "name": "Carhartt · Crafted Series Denim Chore Coat — Rinsed Dark Indigo",
+      "url": "https://www.carhartt.com/product/107554/crafted-series-denim-chore-coat?colorCode=HX1",
+      "store": "Carhartt",
+      "brand": "Carhartt",
+      "category": "Jacket",
+      "color": "Rinsed Dark Indigo",
+      "unitPriceUSD": 149.99,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available · Unlined",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "Heavyweight, 15-ounce 100% cotton denim",
+        "Fit": "S, M · Regular · Loose fit",
+        "Lining": "Unlined",
+        "Trim": "Duck fabric underside and interior duck patch pocket; fiber percentage not separately disclosed. Metal buttons/snaps; sewing thread unspecified.",
+        "Status": "Available at source check; US storefront"
+      },
+      "sources": [
+        "jacket-531b351e0dd7"
+      ],
+      "images": [
+        {
+          "src": "assets/images/baf7227b28a5b277a048b2db9e8bb17df1cb9683d21a188507ea0501aebe1b51.jpg",
+          "source": "https://imgcdn.carhartt.com/is/image/Carhartt/107554_HX1",
+          "sourcePage": "https://www.carhartt.com/product/107554/crafted-series-denim-chore-coat?colorCode=HX1",
+          "alt": "Carhartt Crafted Series Denim Chore Coat — Rinsed Dark Indigo — photo 1"
+        },
+        {
+          "src": "assets/images/487aef97c55b32a5a2078504e7c1efce472c5020d5aab1f54b469963b772d090.jpg",
+          "source": "https://imgcdn.carhartt.com/is/image/Carhartt/107554_HX1_AVF1",
+          "sourcePage": "https://www.carhartt.com/product/107554/crafted-series-denim-chore-coat?colorCode=HX1",
+          "alt": "Carhartt Crafted Series Denim Chore Coat — Rinsed Dark Indigo — photo 2"
+        },
+        {
+          "src": "assets/images/5cf034b95ab02349be99a6ded729521837f4a0b5dd22c7e10ce02d145e33a82b.jpg",
+          "source": "https://imgcdn.carhartt.com/is/image/Carhartt/107554_HX1_AVF2",
+          "sourcePage": "https://www.carhartt.com/product/107554/crafted-series-denim-chore-coat?colorCode=HX1",
+          "alt": "Carhartt Crafted Series Denim Chore Coat — Rinsed Dark Indigo — photo 3"
+        },
+        {
+          "src": "assets/images/fa52186925fbc07e5fc58575ec93c49d7e5f2228f3206f711b2014f911edef7a.jpg",
+          "source": "https://imgcdn.carhartt.com/is/image/Carhartt/107554_HX1_AVR",
+          "sourcePage": "https://www.carhartt.com/product/107554/crafted-series-denim-chore-coat?colorCode=HX1",
+          "alt": "Carhartt Crafted Series Denim Chore Coat — Rinsed Dark Indigo — photo 4"
+        },
+        {
+          "src": "assets/images/dfe979ad46fd88f63929a0bd3aee6d2619dc5b80a1beedb11877da6a98c07bce.jpg",
+          "source": "https://imgcdn.carhartt.com/is/image/Carhartt/107554_HX1_AVR1",
+          "sourcePage": "https://www.carhartt.com/product/107554/crafted-series-denim-chore-coat?colorCode=HX1",
+          "alt": "Carhartt Crafted Series Denim Chore Coat — Rinsed Dark Indigo — photo 5"
+        },
+        {
+          "src": "assets/images/db248319f42ca71a5531492d6c6dc87a3a95f0c4d77ac231fbe9bbcc081601a1.jpg",
+          "source": "https://imgcdn.carhartt.com/is/image/Carhartt/107554_HX1_AVI",
+          "sourcePage": "https://www.carhartt.com/product/107554/crafted-series-denim-chore-coat?colorCode=HX1",
+          "alt": "Carhartt Crafted Series Denim Chore Coat — Rinsed Dark Indigo — photo 6"
+        },
+        {
+          "src": "assets/images/d209a9709a4250f3606259680f2973d5d2aea71dd3d18eaa70e23be805b1872f.jpg",
+          "source": "https://imgcdn.carhartt.com/is/image/Carhartt/107554_HX1_AVL",
+          "sourcePage": "https://www.carhartt.com/product/107554/crafted-series-denim-chore-coat?colorCode=HX1",
+          "alt": "Carhartt Crafted Series Denim Chore Coat — Rinsed Dark Indigo — photo 7"
+        },
+        {
+          "src": "assets/images/8c2f108d1c10fa57f9e884dd69ddaa6e8b53c8e5aaec64070f8769cae29f9ea5.jpg",
+          "source": "https://imgcdn.carhartt.com/is/image/Carhartt/107554_HX1_AVL1",
+          "sourcePage": "https://www.carhartt.com/product/107554/crafted-series-denim-chore-coat?colorCode=HX1",
+          "alt": "Carhartt Crafted Series Denim Chore Coat — Rinsed Dark Indigo — photo 8"
+        }
+      ],
+      "image": "assets/images/baf7227b28a5b277a048b2db9e8bb17df1cb9683d21a188507ea0501aebe1b51.jpg",
+      "imageAlt": "Carhartt Crafted Series Denim Chore Coat — Rinsed Dark Indigo — photo 1",
+      "imageNote": "All exact style/color ADVANCED_IMAGE assets in scene7Mediaset, source order, other colors excluded",
+      "attribution": "Retailer product evidence; not an endorsement."
     }
   ],
   "sources": [
@@ -8027,6 +8107,13 @@
       "title": "Abercrombie & Fitch — selected color",
       "type": "First-party product evidence",
       "note": "Checked 2026-11-22T17:23:44.552740+00:00. US shipping shown: standard $7, typically 4–9 business days; country-level policy, not destination checkout quote. Advertised free standard shipping over $99 after discounts. Page says 30-day returns; $7 deducted for mailed return label; isFinalSale=false. No Black Friday-specific offer or code verified."
+    },
+    {
+      "id": "jacket-531b351e0dd7",
+      "url": "https://www.carhartt.com/product/107554/crafted-series-denim-chore-coat?colorCode=HX1",
+      "title": "Carhartt — Crafted Series Denim Chore Coat — Rinsed Dark Indigo",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T17:56:18.436929+00:00. $149.99 full price; no verified discount or Black Friday inclusion. S and M regular buyable/in stock. 100% cotton denim, unlined. Duck fabric underside and interior duck patch pocket; fiber percentage not separately disclosed. Metal buttons/snaps; sewing thread unspecified. Policy lists $7 ground; banner says free ground; loyalty offer conditional. Not a checkout quote. Returns: 180 days in original condition with tags; no online final-sale restriction observed for this full-price item."
     }
   ]
 }
