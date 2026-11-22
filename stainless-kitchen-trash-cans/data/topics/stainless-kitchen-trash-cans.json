@@ -1,0 +1,400 @@
+{
+  "id": "stainless-kitchen-trash-cans",
+  "title": "Stainless kitchen trash cans",
+  "layout": "natural-basics",
+  "catalog": true,
+  "updated": "2026-11-22",
+  "defaultSort": "price",
+  "showCollectionNotes": false,
+  "summary": "Lower-priced alternatives to the $101.99 EKO X-Wing. Only the smaller Honey-Can-Do has explicit stainless lid evidence.",
+  "recommendation": {
+    "title": "",
+    "text": "",
+    "test": ""
+  },
+  "evidenceNote": "Retailer claims, not physical material testing. Prices exclude tax; delivery is not exact-address verified.",
+  "caveat": "50L lids are unconfirmed.",
+  "products": [
+    {
+      "id": "trash-honey",
+      "name": "Honey-Can-Do Round Step Can 30L",
+      "url": "https://www.amazon.com/dp/B017O5KAIA",
+      "store": "Amazon",
+      "brand": "Honey-Can-Do",
+      "category": "30L",
+      "unitPriceUSD": 67.32,
+      "integrityRank": 1,
+      "naturalPercent": null,
+      "summary": "",
+      "verdict": "Stainless lid explicitly stated; smaller 30L capacity",
+      "materialCaveat": "Stainless lid explicitly stated; smaller 30L capacity",
+      "images": [
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-honey-01.jpg",
+          "alt": "Honey-Can-Do Round Step Can 30L — retailer gallery photo 1",
+          "source": "https://m.media-amazon.com/images/I/61MaYcXiz-L._AC_SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B017O5KAIA"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-honey-02.jpg",
+          "alt": "Honey-Can-Do Round Step Can 30L — retailer gallery photo 2",
+          "source": "https://m.media-amazon.com/images/I/819EwDzvTyL._AC_SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B017O5KAIA"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-honey-03.jpg",
+          "alt": "Honey-Can-Do Round Step Can 30L — retailer gallery photo 3",
+          "source": "https://m.media-amazon.com/images/I/41LhqPFJZbL._AC_SL1211_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B017O5KAIA"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-honey-04.jpg",
+          "alt": "Honey-Can-Do Round Step Can 30L — retailer gallery photo 4",
+          "source": "https://m.media-amazon.com/images/I/61D+XgyTrHL._AC_SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B017O5KAIA"
+        }
+      ],
+      "image": "assets/images/stainless-kitchen-trash-cans-honey-01.jpg",
+      "imageAlt": "Honey-Can-Do Round Step Can 30L — retailer gallery photo 1",
+      "imageNote": "Exact selected Amazon initial colorImages gallery; source order; excludes videos and recommendation/other-color images",
+      "facts": {
+        "Fabric": "Stainless steel body",
+        "Fit": "11.61 L × 11.61 W × 25.2 H inches",
+        "Status": "In Stock"
+      },
+      "attribution": "Stainless lid explicitly stated; smaller 30L capacity. Smaller 30L fallback, outside preferred 40–50L. $34.67 less than EKO X-Wing ($101.99). Selected variant: Chrome / Stainless TRS-02110. New offer, seller Amazon.com, shipper Amazon.com. Buy box advertises FREE delivery to anonymous New York 10118; not exact-account/address verified. Tax not checked. Checked 2026-11-22. No physical material testing. Plastic inner components are permitted; this is not an all-metal construction claim.",
+      "sources": [
+        "trash-source-honey"
+      ],
+      "qualifiesStrictMaterialGate": true
+    },
+    {
+      "id": "trash-payless",
+      "name": "PayLessHere Step Can 50L",
+      "url": "https://www.amazon.com/dp/B0DHZS8NQ3?th=1",
+      "store": "Amazon",
+      "brand": "PayLessHere",
+      "category": "50L",
+      "unitPriceUSD": 69.99,
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "summary": "",
+      "verdict": "Lid material unconfirmed",
+      "materialCaveat": "Lid material unconfirmed",
+      "images": [
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-payless-01.jpg",
+          "alt": "PayLessHere Step Can 50L — retailer gallery photo 1",
+          "source": "https://m.media-amazon.com/images/I/51mHOhm6-QL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B0DHZS8NQ3?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-payless-02.jpg",
+          "alt": "PayLessHere Step Can 50L — retailer gallery photo 2",
+          "source": "https://m.media-amazon.com/images/I/71Xklskl20L._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B0DHZS8NQ3?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-payless-03.jpg",
+          "alt": "PayLessHere Step Can 50L — retailer gallery photo 3",
+          "source": "https://m.media-amazon.com/images/I/71F3VLu+GyL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B0DHZS8NQ3?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-payless-04.jpg",
+          "alt": "PayLessHere Step Can 50L — retailer gallery photo 4",
+          "source": "https://m.media-amazon.com/images/I/71MmwSUCvFL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B0DHZS8NQ3?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-payless-05.jpg",
+          "alt": "PayLessHere Step Can 50L — retailer gallery photo 5",
+          "source": "https://m.media-amazon.com/images/I/612QBFS6-+L._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B0DHZS8NQ3?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-payless-06.jpg",
+          "alt": "PayLessHere Step Can 50L — retailer gallery photo 6",
+          "source": "https://m.media-amazon.com/images/I/717HBpsMDcL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B0DHZS8NQ3?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-payless-07.jpg",
+          "alt": "PayLessHere Step Can 50L — retailer gallery photo 7",
+          "source": "https://m.media-amazon.com/images/I/611-8r8z7pL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B0DHZS8NQ3?th=1"
+        }
+      ],
+      "image": "assets/images/stainless-kitchen-trash-cans-payless-01.jpg",
+      "imageAlt": "PayLessHere Step Can 50L — retailer gallery photo 1",
+      "imageNote": "Exact selected Amazon initial colorImages gallery; source order; excludes videos and recommendation/other-color images",
+      "facts": {
+        "Fabric": "Stainless steel body",
+        "Fit": "16 L × 11 W × 25 H inches (table); gallery instead 16.7 × 13.8 × 25.8 inches, open 36.7 inches",
+        "Status": "In Stock"
+      },
+      "attribution": "Lid material unconfirmed. Price and selected offer verified; separate lid material proof still needed. $32.00 less than EKO X-Wing ($101.99). Selected variant: Stainless Steel. New offer, seller Amazon.com, shipper Amazon.com. Buy box advertises FREE delivery to anonymous New York 10118; not exact-account/address verified. Tax not checked. Checked 2026-11-22. No physical material testing. Plastic inner components are permitted; this is not an all-metal construction claim.",
+      "sources": [
+        "trash-source-payless"
+      ],
+      "qualifiesStrictMaterialGate": false
+    },
+    {
+      "id": "trash-amazon-basics",
+      "name": "Amazon Basics Rectangular Step Can 50L",
+      "url": "https://www.amazon.com/dp/B07PCXYSY8?th=1",
+      "store": "Amazon",
+      "brand": "Amazon",
+      "category": "50L",
+      "unitPriceUSD": 79.99,
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "summary": "",
+      "verdict": "Lid material unconfirmed",
+      "materialCaveat": "Lid material unconfirmed",
+      "images": [
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-amazon-basics-01.jpg",
+          "alt": "Amazon Basics Rectangular Step Can 50L — retailer gallery photo 1",
+          "source": "https://m.media-amazon.com/images/I/71lpiVWoM9L._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B07PCXYSY8?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-amazon-basics-02.jpg",
+          "alt": "Amazon Basics Rectangular Step Can 50L — retailer gallery photo 2",
+          "source": "https://m.media-amazon.com/images/I/9132uxxArUL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B07PCXYSY8?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-amazon-basics-03.jpg",
+          "alt": "Amazon Basics Rectangular Step Can 50L — retailer gallery photo 3",
+          "source": "https://m.media-amazon.com/images/I/612hiZenAxL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B07PCXYSY8?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-amazon-basics-04.jpg",
+          "alt": "Amazon Basics Rectangular Step Can 50L — retailer gallery photo 4",
+          "source": "https://m.media-amazon.com/images/I/71FqfJJYKsL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B07PCXYSY8?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-amazon-basics-05.jpg",
+          "alt": "Amazon Basics Rectangular Step Can 50L — retailer gallery photo 5",
+          "source": "https://m.media-amazon.com/images/I/71AnUBfB6zL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B07PCXYSY8?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-amazon-basics-06.jpg",
+          "alt": "Amazon Basics Rectangular Step Can 50L — retailer gallery photo 6",
+          "source": "https://m.media-amazon.com/images/I/61NnnNFgn+L._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B07PCXYSY8?th=1"
+        }
+      ],
+      "image": "assets/images/stainless-kitchen-trash-cans-amazon-basics-01.jpg",
+      "imageAlt": "Amazon Basics Rectangular Step Can 50L — retailer gallery photo 1",
+      "imageNote": "Exact selected Amazon initial colorImages gallery; source order; excludes videos and recommendation/other-color images",
+      "facts": {
+        "Fabric": "Stainless steel body",
+        "Fit": "14.8 L × 16.7 W × 25.9 H inches",
+        "Status": "Only 6 left in stock (more on the way)"
+      },
+      "attribution": "Lid material unconfirmed. Price and selected offer verified; separate lid material proof still needed. $22.00 less than EKO X-Wing ($101.99). Selected variant: Satin Nickel. New offer, seller Amazon.com, shipper Amazon.com. Buy box advertises FREE delivery to anonymous New York 10118; not exact-account/address verified. Tax not checked. Checked 2026-11-22. No physical material testing. Plastic inner components are permitted; this is not an all-metal construction claim.",
+      "sources": [
+        "trash-source-amazon-basics"
+      ],
+      "qualifiesStrictMaterialGate": false,
+      "deal": "11% off typical $89.99; no Black Friday label verified"
+    },
+    {
+      "id": "trash-songmics",
+      "name": "SONGMICS ULTB050E01 Step Can 50L",
+      "url": "https://www.amazon.com/dp/B08RDL7RK6?th=1",
+      "store": "Amazon",
+      "brand": "SONGMICS",
+      "category": "50L",
+      "unitPriceUSD": 79.99,
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "summary": "",
+      "verdict": "Lid material unconfirmed",
+      "materialCaveat": "Lid material unconfirmed",
+      "images": [
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-songmics-01.jpg",
+          "alt": "SONGMICS ULTB050E01 Step Can 50L — retailer gallery photo 1",
+          "source": "https://m.media-amazon.com/images/I/71zTELZpHXL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B08RDL7RK6?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-songmics-02.jpg",
+          "alt": "SONGMICS ULTB050E01 Step Can 50L — retailer gallery photo 2",
+          "source": "https://m.media-amazon.com/images/I/81eC2TuaYpL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B08RDL7RK6?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-songmics-03.jpg",
+          "alt": "SONGMICS ULTB050E01 Step Can 50L — retailer gallery photo 3",
+          "source": "https://m.media-amazon.com/images/I/71cI+hQ6b2L._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B08RDL7RK6?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-songmics-04.jpg",
+          "alt": "SONGMICS ULTB050E01 Step Can 50L — retailer gallery photo 4",
+          "source": "https://m.media-amazon.com/images/I/61S8fsh-uAL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B08RDL7RK6?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-songmics-05.jpg",
+          "alt": "SONGMICS ULTB050E01 Step Can 50L — retailer gallery photo 5",
+          "source": "https://m.media-amazon.com/images/I/61UgX7rWoRL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B08RDL7RK6?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-songmics-06.jpg",
+          "alt": "SONGMICS ULTB050E01 Step Can 50L — retailer gallery photo 6",
+          "source": "https://m.media-amazon.com/images/I/61S4Ddg8gvL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B08RDL7RK6?th=1"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-songmics-07.jpg",
+          "alt": "SONGMICS ULTB050E01 Step Can 50L — retailer gallery photo 7",
+          "source": "https://m.media-amazon.com/images/I/71lYq5yoeaL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B08RDL7RK6?th=1"
+        }
+      ],
+      "image": "assets/images/stainless-kitchen-trash-cans-songmics-01.jpg",
+      "imageAlt": "SONGMICS ULTB050E01 Step Can 50L — retailer gallery photo 1",
+      "imageNote": "Exact selected Amazon initial colorImages gallery; source order; excludes videos and recommendation/other-color images",
+      "facts": {
+        "Fabric": "Stainless steel body",
+        "Fit": "17 L × 14.6 W × 24.9 H inches; lid open 34.9 inches",
+        "Status": "In Stock"
+      },
+      "attribution": "Lid material unconfirmed. Price and selected offer verified; separate lid material proof still needed. $22.00 less than EKO X-Wing ($101.99). Selected variant: Silver ULTB050E01. New offer, seller Amazon.com, shipper Amazon.com. Buy box advertises FREE delivery to anonymous New York 10118; not exact-account/address verified. Tax not checked. Checked 2026-11-22. No physical material testing. Plastic inner components are permitted; this is not an all-metal construction claim.",
+      "sources": [
+        "trash-source-songmics"
+      ],
+      "qualifiesStrictMaterialGate": false
+    },
+    {
+      "id": "trash-madison",
+      "name": "EKO Madison Step Can 50L",
+      "url": "https://www.amazon.com/dp/B09J9YZZ2N",
+      "store": "Amazon",
+      "brand": "EKO",
+      "category": "50L",
+      "unitPriceUSD": 89.99,
+      "integrityRank": 0,
+      "naturalPercent": null,
+      "summary": "",
+      "verdict": "Lid material unconfirmed",
+      "materialCaveat": "Lid material unconfirmed",
+      "images": [
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-madison-01.jpg",
+          "alt": "EKO Madison Step Can 50L — retailer gallery photo 1",
+          "source": "https://m.media-amazon.com/images/I/61LTHsucVcL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B09J9YZZ2N"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-madison-02.jpg",
+          "alt": "EKO Madison Step Can 50L — retailer gallery photo 2",
+          "source": "https://m.media-amazon.com/images/I/814Yswc7DTL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B09J9YZZ2N"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-madison-03.jpg",
+          "alt": "EKO Madison Step Can 50L — retailer gallery photo 3",
+          "source": "https://m.media-amazon.com/images/I/81G+70GvcQL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B09J9YZZ2N"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-madison-04.jpg",
+          "alt": "EKO Madison Step Can 50L — retailer gallery photo 4",
+          "source": "https://m.media-amazon.com/images/I/81ycDCYfy3L._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B09J9YZZ2N"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-madison-05.jpg",
+          "alt": "EKO Madison Step Can 50L — retailer gallery photo 5",
+          "source": "https://m.media-amazon.com/images/I/81rifjn3c6L._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B09J9YZZ2N"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-madison-06.jpg",
+          "alt": "EKO Madison Step Can 50L — retailer gallery photo 6",
+          "source": "https://m.media-amazon.com/images/I/81zS2wWkjqL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B09J9YZZ2N"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-madison-07.jpg",
+          "alt": "EKO Madison Step Can 50L — retailer gallery photo 7",
+          "source": "https://m.media-amazon.com/images/I/81-NajxWspL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B09J9YZZ2N"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-madison-08.jpg",
+          "alt": "EKO Madison Step Can 50L — retailer gallery photo 8",
+          "source": "https://m.media-amazon.com/images/I/81eKpAcGKzL._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B09J9YZZ2N"
+        },
+        {
+          "src": "assets/images/stainless-kitchen-trash-cans-madison-09.jpg",
+          "alt": "EKO Madison Step Can 50L — retailer gallery photo 9",
+          "source": "https://m.media-amazon.com/images/I/81drgVxbW4L._SL1500_.jpg",
+          "sourcePage": "https://www.amazon.com/dp/B09J9YZZ2N"
+        }
+      ],
+      "image": "assets/images/stainless-kitchen-trash-cans-madison-01.jpg",
+      "imageAlt": "EKO Madison Step Can 50L — retailer gallery photo 1",
+      "imageNote": "Exact selected Amazon initial colorImages gallery; source order; excludes videos and recommendation/other-color images",
+      "facts": {
+        "Fabric": "Stainless steel body",
+        "Fit": "16.9 W × 14.3 D × 25.4 H inches; lid open 36.6 inches",
+        "Status": "In Stock"
+      },
+      "attribution": "Lid material unconfirmed. Price and selected offer verified; separate lid material proof still needed. $12.00 less than EKO X-Wing ($101.99). Selected variant: Brushed Stainless. New offer, seller Amazon.com, shipper Amazon.com. Buy box advertises FREE delivery to anonymous New York 10118; not exact-account/address verified. Tax not checked. Checked 2026-11-22. No physical material testing. Plastic inner components are permitted; this is not an all-metal construction claim.",
+      "sources": [
+        "trash-source-madison"
+      ],
+      "qualifiesStrictMaterialGate": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "trash-source-honey",
+      "url": "https://www.amazon.com/dp/B017O5KAIA",
+      "title": "Honey-Can-Do TRS-02110 Round Stainless Steel Step Trash Can with Liner, Chrome, 30-Liter Per 8-Gallon",
+      "type": "Retailer listing",
+      "note": "The matching stainless steel lid hides trash bags from view. Stainless steel explicitly stated in product description"
+    },
+    {
+      "id": "trash-source-payless",
+      "url": "https://www.amazon.com/dp/B0DHZS8NQ3?th=1",
+      "title": "PayLessHere | 13G Trash Can with Lid | Steel | Removable Inner Bucket",
+      "type": "Retailer listing",
+      "note": "About this item\n13 Gallon Ultra-large Capacity: 13 gallons can absolutely meet your daily use, in the kitchen table next to a kitchen trash can, you will be more convenient to deal with kitchen waste. The regular 13-gallon garbage bag in the supermarket can be used in our stainless steel trash can, and it's kind of you to use a bigger bag. The lid of the garbage can is removable, it’s convenient for you to put in and take out the garbage bag.step trash can kitchen trash can bedroom trash can\nHand Free & Odor Control : Trash can with foot pedal allows you to dispose of trash without dirtying your hands or physically touching the trash can lid. The tight-fitting lid reduces odors, keeping your space fresh and the surrounding area smelling fresh and pleasant.\nEasy to Clean : This trash can make of stainless metal often easy to clean with a damp cloth.It is resistant to bacteria and germs, making it a more sanitary option for waste disposal. Its smooth surface can be easily wiped down to maintain cleanliness.\nVersatile Design : This trash bin designed fit for any tight space from under the kitchen counter to a dedicated recycling area.Suitable for various environments from kitchens to offices to outdoor spaces a stainless steel trash can fits seamlessly into any setting while remaining easy to maintain.\nHigh Quality Materials & Customer Service : This 13-gallon trash can is made of sturdy stainless steel metal that is watertight, scratch-resistant, and long-lasting. Its non-toxic and nontoxic design provides safety for both home and restaurant use. Ideal for keeping your space clean and sanitary.We provide excellent customer service; please contact us if you have any questions.We will assist you as quickly as possible and do our best to resolve your concerns.\n› See more product details NOT EXPLICITLY VERIFIED: listing claims stainless steel exterior/bin or general construction, but no lid-specific material sentence located. Do not count as fully verified material match."
+    },
+    {
+      "id": "trash-source-amazon-basics",
+      "url": "https://www.amazon.com/dp/B07PCXYSY8?th=1",
+      "title": "Amazon Basics LARGE Trash Can, 13.2 Gallon (50L), Smudge Resistant Rectangular Bin with Soft-Close Lid, Step Foot Pedal, Removable Inner Bucket, Brushed Stainless Steel, Satin Nickel Finish",
+      "type": "Retailer listing",
+      "note": "About this item\nCONVENIENT SIZE: 50 liter / 13.2 gallon trash can for home or office\nEVERYDAY USE: Stay-open lid, removable bucket, and carry handle ensure easy, convenient trash disposal\nDURABLE: Stainless steel, smudge-resistant exterior and heavy duty plastic inner bucket for reliable strength\nQUIET OPERATION: Manual foot lever and soft close lid for ultra-quiet opening and closing\nPRODUCT DIMENSIONS: 14.8 x 16.7 x 25.9 inches (LxWxH)\n› See more product details NOT EXPLICITLY VERIFIED: listing claims stainless steel exterior/bin or general construction, but no lid-specific material sentence located. Do not count as fully verified material match."
+    },
+    {
+      "id": "trash-source-songmics",
+      "url": "https://www.amazon.com/dp/B08RDL7RK6?th=1",
+      "title": "SONGMICS 13 Gallon (50 L) Trash Can, Stainless Steel, Step-On Pedal",
+      "type": "Retailer listing",
+      "note": "About this item\n[Fits Most Spaces] This 13-gallon trash can offers proper volume for most homes while the sleek modern design fits well in various spaces\n[Stainless Steel] The recycle bin made of stainless steel resists rust; a simple wipe can keep it clean and smudge-free\n[Soft Closure] The lid of the garbage can closes slowly, softly, and silently without making a loud clang\n[Easy Opening] Step on the pedal to open the lid when tossing the trash, or fully open it with one hand and the lid will stay open so you can also free your hands for cleaning out the fridge\n[Practical Inner Bucket] The bag hole on the back of the inner bucket lets you tuck the bag edges in to secure the bag in place and hide it from view\n› See more product details NOT EXPLICITLY VERIFIED: listing claims stainless steel exterior/bin or general construction, but no lid-specific material sentence located. Do not count as fully verified material match."
+    },
+    {
+      "id": "trash-source-madison",
+      "url": "https://www.amazon.com/dp/B09J9YZZ2N",
+      "title": "EKO Madison Brushed Stainless Steel 13.2 Gal/50L Kitchen Step Trash Can or Recycling Bin, Removable Inner Liner, Soft Close Lid, Fingerprint Resistant Finish",
+      "type": "Retailer listing",
+      "note": "About this item\nTrash Can or Recycling Bin - The spacious single-compartment design works beautifully as a kitchen trash can, office waste bin, or dedicated recycling bin for cans, bottles, paper, and everyday recyclables, giving you flexible use without needing a separate container.\nSuperior Stainless Steel Build- This heavy-duty stainless steel garbage can boasts an ultimate fingerprint-resistant stainless steel construction that provides a versatile and stylish waste disposal solution perfect for the home, office or other spaces.\nWhisper-quiet Closing - The rugged step pedal mechanism is built to withstand years of daily use, and the bi-force damper soft open and close lid prevents slamming and banging.\nStay Open and Do Your Thing - This kitchen garbage can boasts an easy-to-use lid lock, ensuring it stays open as long as needed.\nQuality Construction Built to Endure - Our durable stainless steel foot pedal is built to last over 200,000 times, ensuring smooth and reliable operation for years to come!\nElevated Inner Bucket with Handles - The Madison stainless trash can features a raised inner bucket with convenient handles, ensuring swift and hassle-free bag replacement.\n› See more product details NOT EXPLICITLY VERIFIED: listing claims stainless steel exterior/bin or general construction, but no lid-specific material sentence located. Do not count as fully verified material match."
+    }
+  ]
+}
