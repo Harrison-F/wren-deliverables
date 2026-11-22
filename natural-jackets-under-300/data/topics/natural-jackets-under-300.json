@@ -7223,6 +7223,984 @@
       "imageAlt": "Carhartt Crafted Series Denim Chore Coat — Rinsed Dark Indigo — photo 1",
       "imageNote": "All exact style/color ADVANCED_IMAGE assets in scene7Mediaset, source order, other colors excluded",
       "attribution": "Retailer product evidence; not an endorsement."
+    },
+    {
+      "id": "jacket-c1b9453010a2",
+      "name": "Études · LOOSE DENIM JACKET BLEACH — BROWN",
+      "url": "https://www.etudes-studio.com/products/loose-denimjacket-bleach?variant=51623634764109",
+      "store": "Études",
+      "brand": "Études",
+      "category": "Jacket",
+      "color": "BROWN",
+      "unitPriceUSD": 263,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "46 (S), 48 (M) available",
+      "deal": "$263 from $875 · 70% off",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Organic Cotton",
+        "Fit": "46 (S), 48 (M)",
+        "Lining": "Not disclosed",
+        "Status": "Available at source check; US storefront",
+        "Returns": "14 days; return shipping paid by customer; final-sale designation not observed in captured evidence."
+      },
+      "sources": [
+        "jacket-c1b9453010a2"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0936/6338/files/E26MPOUT510-60_1_089ecfda-a00b-45fd-ad5e-40c923d6444d.jpg?v=1760532053",
+          "sourcePage": "https://www.etudes-studio.com/products/loose-denimjacket-bleach?variant=51623634764109",
+          "alt": "Études LOOSE DENIM JACKET BLEACH — BROWN — photo 1",
+          "src": "assets/images/3e90191d60e941bf1a1abd94401e3a78ddbc2c11f89279b33b278d2377ece12b.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0936/6338/files/E26MPOUT510-60_LOOSE_DENIMJACKET_BLEACH_BROWN_2.jpg?v=1768472782",
+          "sourcePage": "https://www.etudes-studio.com/products/loose-denimjacket-bleach?variant=51623634764109",
+          "alt": "Études LOOSE DENIM JACKET BLEACH — BROWN — photo 2",
+          "src": "assets/images/078122e14fdc9eb3bb4e12adffa384b8dcbf2503e38ff80cac15d2b19017f169.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0936/6338/files/E26MPOUT510-60_5_adfd177b-4eef-4986-b214-5806b5876b42.jpg?v=1760532040",
+          "sourcePage": "https://www.etudes-studio.com/products/loose-denimjacket-bleach?variant=51623634764109",
+          "alt": "Études LOOSE DENIM JACKET BLEACH — BROWN — photo 3",
+          "src": "assets/images/a215f3ee7ee6a9db94930abfd6896ec93cfd08ab900470280bbcccf7cd06962d.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0936/6338/files/E26MPOUT510-60_2_606873a7-1940-4ef2-be3b-d5b02c924561.jpg?v=1760532046",
+          "sourcePage": "https://www.etudes-studio.com/products/loose-denimjacket-bleach?variant=51623634764109",
+          "alt": "Études LOOSE DENIM JACKET BLEACH — BROWN — photo 4",
+          "src": "assets/images/9f739978ff16881391fc9ce2b688456481145f7a846ab85c69ef31b5e1d9ba23.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0936/6338/files/E26MPOUT510-60_4_da81c405-2fb4-4c5a-8d4a-7b1af5d2f6ca.jpg?v=1768472782",
+          "sourcePage": "https://www.etudes-studio.com/products/loose-denimjacket-bleach?variant=51623634764109",
+          "alt": "Études LOOSE DENIM JACKET BLEACH — BROWN — photo 5",
+          "src": "assets/images/3f27760dc686afd89fc13838f77e46f5eb21697af7f71bf57ef0994731021a78.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0936/6338/files/E26MPOUT510-60_2-2_2ae07672-b1d0-4db8-9043-3676119aebdc.jpg?v=1760532046",
+          "sourcePage": "https://www.etudes-studio.com/products/loose-denimjacket-bleach?variant=51623634764109",
+          "alt": "Études LOOSE DENIM JACKET BLEACH — BROWN — photo 6",
+          "src": "assets/images/54d4e826e1ae9d1d459a569efe52f00dcddc3d126799fb92cf71f61b55e5514e.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0936/6338/files/E26MPOUT510-60_3_bd08c5cf-d652-411b-8cd9-907708ecc554.jpg?v=1760532040",
+          "sourcePage": "https://www.etudes-studio.com/products/loose-denimjacket-bleach?variant=51623634764109",
+          "alt": "Études LOOSE DENIM JACKET BLEACH — BROWN — photo 7",
+          "src": "assets/images/86003434d5c0257f5fd73fac6feaf416f413056baafcc412d51edfcce6a72449.jpg"
+        }
+      ],
+      "imageNote": "Complete exact-product native images array, single color; browser slide counts agree",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/3e90191d60e941bf1a1abd94401e3a78ddbc2c11f89279b33b278d2377ece12b.jpg",
+      "imageAlt": "Études LOOSE DENIM JACKET BLEACH — BROWN — photo 1"
+    },
+    {
+      "id": "jacket-13c383beefac",
+      "name": "A.P.C. · Basile Logo overshirt — LAD - Charcoal gray",
+      "url": "https://www.apc-us.com/products/basile-logo-overshirt-cofcn-h02918_lad?variant=41269300002915",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "LAD - Charcoal gray",
+      "unitPriceUSD": 167.5,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "$167.5 from $335 · 50% off · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "- 100% cotton.\n- Made in Tunisia.\n- Machine wash cold (86°F), inside-out.",
+        "Fit": "S, M",
+        "Lining": "Not disclosed",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "jacket-13c383beefac"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COFCN-H02918LAD_01.jpg?v=1720735460",
+          "sourcePage": "https://www.apc-us.com/products/basile-logo-overshirt-cofcn-h02918_lad?variant=41269300002915",
+          "alt": "A.P.C. Basile Logo overshirt — LAD - Charcoal gray — photo 1",
+          "src": "assets/images/ae73d61f2cc279d953d9565d785e681e61e019d0307340f31796a774f2468af7.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COFCN-H02918LAD_00_66708248-15c4-4de2-9cc0-cc8f4c9cdaf3.jpg?v=1720735463",
+          "sourcePage": "https://www.apc-us.com/products/basile-logo-overshirt-cofcn-h02918_lad?variant=41269300002915",
+          "alt": "A.P.C. Basile Logo overshirt — LAD - Charcoal gray — photo 2",
+          "src": "assets/images/9ca0a1c4930309db6f860a19a1edba447d5b5dc10ca8b5039527e348d886abeb.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COFCN-H02918LAD_03_a1e02923-5613-482a-87df-f90ddae45255.jpg?v=1720735463",
+          "sourcePage": "https://www.apc-us.com/products/basile-logo-overshirt-cofcn-h02918_lad?variant=41269300002915",
+          "alt": "A.P.C. Basile Logo overshirt — LAD - Charcoal gray — photo 3",
+          "src": "assets/images/0ecdd036ccf924fa9241449abeb6331876bb68f8e38434aa296133996fb73878.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COFCN-H02918LAD_04_3386c454-fad3-4f7d-ae6f-c5f628fdae1d.jpg?v=1720735463",
+          "sourcePage": "https://www.apc-us.com/products/basile-logo-overshirt-cofcn-h02918_lad?variant=41269300002915",
+          "alt": "A.P.C. Basile Logo overshirt — LAD - Charcoal gray — photo 4",
+          "src": "assets/images/408d7b1c77ba87c14ef37a76d1793f2ded05416d39f8dde24bd5620dcf2c21ca.jpg"
+        }
+      ],
+      "imageNote": "Complete native exact-product images array; single color option; includes retailer media posters if exposed as images",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/ae73d61f2cc279d953d9565d785e681e61e019d0307340f31796a774f2468af7.jpg",
+      "imageAlt": "A.P.C. Basile Logo overshirt — LAD - Charcoal gray — photo 1"
+    },
+    {
+      "id": "jacket-6905b8451996",
+      "name": "A.P.C. · Vittorio Brodée Poitrine overshirt — IAL - Stonewashed indigo",
+      "url": "https://www.apc-us.com/products/vittorio-brodee-poitrine-overshirt-cogwb-h02837_ial?variant=40767441829987",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "IAL - Stonewashed indigo",
+      "unitPriceUSD": 167.5,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "$167.5 from $335 · 50% off · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "- 100% Cotton.\n- Japanese material.\n- Made in Vietnam.\n- Machine wash (86°F), inside-out.",
+        "Fit": "S, M",
+        "Lining": "Not disclosed",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "jacket-6905b8451996"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGWB-H02837IAL_01.jpg?v=1726857215",
+          "sourcePage": "https://www.apc-us.com/products/vittorio-brodee-poitrine-overshirt-cogwb-h02837_ial?variant=40767441829987",
+          "alt": "A.P.C. Vittorio Brodée Poitrine overshirt — IAL - Stonewashed indigo — photo 1",
+          "src": "assets/images/1747c231451676d172299f7865bd3c6b4b47da43bbaa625fc0e94555a9189b32.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGWB-H02837IAL_00.jpg?v=1726857215",
+          "sourcePage": "https://www.apc-us.com/products/vittorio-brodee-poitrine-overshirt-cogwb-h02837_ial?variant=40767441829987",
+          "alt": "A.P.C. Vittorio Brodée Poitrine overshirt — IAL - Stonewashed indigo — photo 2",
+          "src": "assets/images/d963053489733f927652acc6f0d3d3a0764722addcc494ae2785abe428aea66e.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGWB-H02837IAL_03.jpg?v=1726857215",
+          "sourcePage": "https://www.apc-us.com/products/vittorio-brodee-poitrine-overshirt-cogwb-h02837_ial?variant=40767441829987",
+          "alt": "A.P.C. Vittorio Brodée Poitrine overshirt — IAL - Stonewashed indigo — photo 3",
+          "src": "assets/images/be84d4227040db47f139d241df7f17d1c3b8c597943950287749259ff3c9f0a1.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGWB-H02837IAL_04.jpg?v=1726857215",
+          "sourcePage": "https://www.apc-us.com/products/vittorio-brodee-poitrine-overshirt-cogwb-h02837_ial?variant=40767441829987",
+          "alt": "A.P.C. Vittorio Brodée Poitrine overshirt — IAL - Stonewashed indigo — photo 4",
+          "src": "assets/images/3ba678ddae55c0a58b2035c27811c08af854c86e01f1301f7d077876082d5a48.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGWB-H02837IAL_05.jpg?v=1726857215",
+          "sourcePage": "https://www.apc-us.com/products/vittorio-brodee-poitrine-overshirt-cogwb-h02837_ial?variant=40767441829987",
+          "alt": "A.P.C. Vittorio Brodée Poitrine overshirt — IAL - Stonewashed indigo — photo 5",
+          "src": "assets/images/33d91ff6e5aa9c719ea1b813bb6b775624fb2d6a15e5b04975158c3d3c0c4914.jpg"
+        }
+      ],
+      "imageNote": "Complete native exact-product images array; single color option; includes retailer media posters if exposed as images",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/1747c231451676d172299f7865bd3c6b4b47da43bbaa625fc0e94555a9189b32.jpg",
+      "imageAlt": "A.P.C. Vittorio Brodée Poitrine overshirt — IAL - Stonewashed indigo — photo 1"
+    },
+    {
+      "id": "jacket-05d7b5b53b6f",
+      "name": "A.P.C. · Leon overshirt — IAK - Dark navy blue",
+      "url": "https://www.apc-us.com/products/leon-overshirt-cohbb-h32019_iak?variant=43489966358627",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "IAK - Dark navy blue",
+      "unitPriceUSD": 175.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M available",
+      "deal": "$175 from $350 · 50% off · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "- 100% cotton.\n- Spanish material.\n- Made in Tunisia.\n- Dry clean only.",
+        "Fit": "M",
+        "Lining": "Not disclosed",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "jacket-05d7b5b53b6f"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHBB-H32019IAK_01.jpg?v=1753298512",
+          "sourcePage": "https://www.apc-us.com/products/leon-overshirt-cohbb-h32019_iak?variant=43489966358627",
+          "alt": "A.P.C. Leon overshirt — IAK - Dark navy blue — photo 1",
+          "src": "assets/images/cb239622f998c20cd8df5ae275e0a055855165413cc62c1c251f263a87fd9ead.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHBB-H32019IAK_00.jpg?v=1753298512",
+          "sourcePage": "https://www.apc-us.com/products/leon-overshirt-cohbb-h32019_iak?variant=43489966358627",
+          "alt": "A.P.C. Leon overshirt — IAK - Dark navy blue — photo 2",
+          "src": "assets/images/b81f7c23b372110798276b68db6c137966a77def34c63b2d068d88eb5a3a429f.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHBB-H32019IAK_03.jpg?v=1753298498",
+          "sourcePage": "https://www.apc-us.com/products/leon-overshirt-cohbb-h32019_iak?variant=43489966358627",
+          "alt": "A.P.C. Leon overshirt — IAK - Dark navy blue — photo 3",
+          "src": "assets/images/e12c2b49ef3a65a62f2aaaa774a559ba44953d99bdee5cb3cf911bd9d0cf21a1.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHBB-H32019IAK_04.jpg?v=1753298498",
+          "sourcePage": "https://www.apc-us.com/products/leon-overshirt-cohbb-h32019_iak?variant=43489966358627",
+          "alt": "A.P.C. Leon overshirt — IAK - Dark navy blue — photo 4",
+          "src": "assets/images/dcdc76c78940f060fbc7b6ae614b52e5d76a1da030b9eb9445c32544348f2440.jpg"
+        }
+      ],
+      "imageNote": "Complete native exact-product images array; single color option; includes retailer media posters if exposed as images",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/cb239622f998c20cd8df5ae275e0a055855165413cc62c1c251f263a87fd9ead.jpg",
+      "imageAlt": "A.P.C. Leon overshirt — IAK - Dark navy blue — photo 1"
+    },
+    {
+      "id": "jacket-470a086e5885",
+      "name": "A.P.C. · Kerlouan Logo jacket — LZE - Stonewashed black",
+      "url": "https://www.apc-us.com/products/kerlouan-logo-jacket-cogex-h03205_lze?variant=41409242071139",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "LZE - Stonewashed black",
+      "unitPriceUSD": 215.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "$215 from $430 · 50% off · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "- 100% cotton.\n- Made in Portugal.\n- Machine wash cold (86°F) inside-out.",
+        "Fit": "S, M",
+        "Lining": "Unlined",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "jacket-470a086e5885"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGEX-H03205LZE_01_d047cbcc-2004-473d-9992-c6aaa154ee8b.jpg?v=1726246585",
+          "sourcePage": "https://www.apc-us.com/products/kerlouan-logo-jacket-cogex-h03205_lze?variant=41409242071139",
+          "alt": "A.P.C. Kerlouan Logo jacket — LZE - Stonewashed black — photo 1",
+          "src": "assets/images/4a5fa0a93c8944f2613a6311e849c03e2d31d906467c5f80fdaf5989367dafe0.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGEX-H03205LZE_00_8bdc7444-f61f-4dd6-b8f7-65c1c58e9748.jpg?v=1726246585",
+          "sourcePage": "https://www.apc-us.com/products/kerlouan-logo-jacket-cogex-h03205_lze?variant=41409242071139",
+          "alt": "A.P.C. Kerlouan Logo jacket — LZE - Stonewashed black — photo 2",
+          "src": "assets/images/8a89cba82a14fc24855dadbc6e4ada77166543ab1c417355e9912af1f8ffd032.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGEX-H03205LZE_03_ebdbd298-793d-4537-9032-1ea07c58cd7b.jpg?v=1726246585",
+          "sourcePage": "https://www.apc-us.com/products/kerlouan-logo-jacket-cogex-h03205_lze?variant=41409242071139",
+          "alt": "A.P.C. Kerlouan Logo jacket — LZE - Stonewashed black — photo 3",
+          "src": "assets/images/0f1aacf9d45d82059283a99b75baded7c3d0d9b62271b728338d9336306deb57.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGEX-H03205LZE_04_d3040ff2-0d69-4707-b60d-dcbcf3007e5d.jpg?v=1726246585",
+          "sourcePage": "https://www.apc-us.com/products/kerlouan-logo-jacket-cogex-h03205_lze?variant=41409242071139",
+          "alt": "A.P.C. Kerlouan Logo jacket — LZE - Stonewashed black — photo 4",
+          "src": "assets/images/26bbfd834ddd387b9bb5a5a86edb4702970d2fbbb7444298b69bc4b0fc55df80.jpg"
+        }
+      ],
+      "imageNote": "Complete native exact-product images array; single color option; includes retailer media posters if exposed as images",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/4a5fa0a93c8944f2613a6311e849c03e2d31d906467c5f80fdaf5989367dafe0.jpg",
+      "imageAlt": "A.P.C. Kerlouan Logo jacket — LZE - Stonewashed black — photo 1"
+    },
+    {
+      "id": "jacket-c6123a78137f",
+      "name": "A.P.C. · Nathan Overshirt — AAD - Ecru",
+      "url": "https://www.apc-us.com/products/nathan-overshirt-cohtb-h32105_aad?variant=44106986946659",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "AAD - Ecru",
+      "unitPriceUSD": 215.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "$215 from $430 · 50% off",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "- 100% cotton.\n- Made in Tunisia.",
+        "Fit": "S, M",
+        "Lining": "Not disclosed",
+        "Status": "Available at source check; US storefront",
+        "Returns": "No final-sale designation observed on this product; standard return eligibility not independently verified."
+      },
+      "sources": [
+        "jacket-c6123a78137f"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHTB-H32105AAD_00.jpg?v=1782159668",
+          "sourcePage": "https://www.apc-us.com/products/nathan-overshirt-cohtb-h32105_aad?variant=44106986946659",
+          "alt": "A.P.C. Nathan Overshirt — AAD - Ecru — photo 1",
+          "src": "assets/images/56250f5636fb2394ee65318a8eb3aefa07abe213ef09688f53b36e3c2b68332a.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHTB-H32105AAD_01.jpg?v=1782159654",
+          "sourcePage": "https://www.apc-us.com/products/nathan-overshirt-cohtb-h32105_aad?variant=44106986946659",
+          "alt": "A.P.C. Nathan Overshirt — AAD - Ecru — photo 2",
+          "src": "assets/images/07ce3b83e596d99e0ff758c020e3d802c60562239d1fc837e6cc52e50bf3354a.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHTB-H32105AAD_02.jpg?v=1782159654",
+          "sourcePage": "https://www.apc-us.com/products/nathan-overshirt-cohtb-h32105_aad?variant=44106986946659",
+          "alt": "A.P.C. Nathan Overshirt — AAD - Ecru — photo 3",
+          "src": "assets/images/0c12c4998e4fd40c1325fb45ad54b17f67c6e33d21998d03762c934b96e353b9.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHTB-H32105AAD_03.jpg?v=1782159654",
+          "sourcePage": "https://www.apc-us.com/products/nathan-overshirt-cohtb-h32105_aad?variant=44106986946659",
+          "alt": "A.P.C. Nathan Overshirt — AAD - Ecru — photo 4",
+          "src": "assets/images/d1d045e5d45b797bdebcdba01b21c45aa38da4ba2b86d4fb311c9007eab07de5.jpg"
+        }
+      ],
+      "imageNote": "Complete native exact-product images array; single color option; includes retailer media posters if exposed as images",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/56250f5636fb2394ee65318a8eb3aefa07abe213ef09688f53b36e3c2b68332a.jpg",
+      "imageAlt": "A.P.C. Nathan Overshirt — AAD - Ecru — photo 1"
+    },
+    {
+      "id": "jacket-f0f37ee7e6ad",
+      "name": "A.P.C. · Lenny jacket — IAA - Blue",
+      "url": "https://www.apc-us.com/products/lenny-jacket-cohlx-h32071_iaa?variant=43989505179747",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "IAA - Blue",
+      "unitPriceUSD": 247.5,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M available",
+      "deal": "$247.5 from $495 · 50% off · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "- 100% cotton.\n- Japanese material.\n- Made in Vietnam.\n- Machine wash cold (86°F) inside-out.",
+        "Fit": "M",
+        "Lining": "Not disclosed",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "jacket-f0f37ee7e6ad"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHLX-H32071IAA_01.jpg?v=1770746936",
+          "sourcePage": "https://www.apc-us.com/products/lenny-jacket-cohlx-h32071_iaa?variant=43989505179747",
+          "alt": "A.P.C. Lenny jacket — IAA - Blue — photo 1",
+          "src": "assets/images/6f673032ba0b96d557749170722e55f508c8b57864013da1f13c280a66019f85.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHLX-H32071IAA_03.jpg?v=1770746936",
+          "sourcePage": "https://www.apc-us.com/products/lenny-jacket-cohlx-h32071_iaa?variant=43989505179747",
+          "alt": "A.P.C. Lenny jacket — IAA - Blue — photo 2",
+          "src": "assets/images/188c0ce9791e93115cd69f41c2a858e03889f211c94443dc7c445da0874193c6.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHLX-H32071IAA_04.jpg?v=1770746936",
+          "sourcePage": "https://www.apc-us.com/products/lenny-jacket-cohlx-h32071_iaa?variant=43989505179747",
+          "alt": "A.P.C. Lenny jacket — IAA - Blue — photo 3",
+          "src": "assets/images/3503200751be09e26380395565bae36fbd9ad3089c02ad727b84b16f93fafe9d.jpg"
+        }
+      ],
+      "imageNote": "Complete native exact-product images array; single color option; includes retailer media posters if exposed as images",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/6f673032ba0b96d557749170722e55f508c8b57864013da1f13c280a66019f85.jpg",
+      "imageAlt": "A.P.C. Lenny jacket — IAA - Blue — photo 1"
+    },
+    {
+      "id": "jacket-c1feffb12dea",
+      "name": "A.P.C. · Noah jacket — CAE - Dark chestnut brown",
+      "url": "https://www.apc-us.com/products/noah-jacket-cohlx-m32027_cae?variant=43937433452643",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "CAE - Dark chestnut brown",
+      "unitPriceUSD": 247.5,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M available",
+      "deal": "$247.5 from $495 · 50% off · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "- 100% cotton.\n- Japanese material.\n- Made in Vietnam.\n- Machine wash cold (86°F) inside-out.",
+        "Fit": "M",
+        "Lining": "Unlined",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "jacket-c1feffb12dea"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHLX-M32027CAE_01.jpg?v=1769116973",
+          "sourcePage": "https://www.apc-us.com/products/noah-jacket-cohlx-m32027_cae?variant=43937433452643",
+          "alt": "A.P.C. Noah jacket — CAE - Dark chestnut brown — photo 1",
+          "src": "assets/images/399c07d4733c5245eeb2c4187116f4f016e0e0e70a22024392cf4bb81d3b7f4d.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHLX-M32027CAE_03.jpg?v=1769116973",
+          "sourcePage": "https://www.apc-us.com/products/noah-jacket-cohlx-m32027_cae?variant=43937433452643",
+          "alt": "A.P.C. Noah jacket — CAE - Dark chestnut brown — photo 2",
+          "src": "assets/images/cde85fa07539b683493b26c9ff8b5b82b477ae7181057fb76b00ad904152f724.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHLX-M32027CAE_04.jpg?v=1769116973",
+          "sourcePage": "https://www.apc-us.com/products/noah-jacket-cohlx-m32027_cae?variant=43937433452643",
+          "alt": "A.P.C. Noah jacket — CAE - Dark chestnut brown — photo 3",
+          "src": "assets/images/334fbd360aca5ba835346fbe00d610d12ac9d350a693e5a3f104c7388e98990c.jpg"
+        }
+      ],
+      "imageNote": "Complete native exact-product images array; single color option; includes retailer media posters if exposed as images",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/399c07d4733c5245eeb2c4187116f4f016e0e0e70a22024392cf4bb81d3b7f4d.jpg",
+      "imageAlt": "A.P.C. Noah jacket — CAE - Dark chestnut brown — photo 1"
+    },
+    {
+      "id": "jacket-ac7809289cb0",
+      "name": "A.P.C. · Vittorio Brodée Poitrine overshirt — LZE - Stonewashed black",
+      "url": "https://www.apc-us.com/products/vittorio-brodee-poitrine-overshirt-cogex-h02837_lze?variant=40307363446883",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "LZE - Stonewashed black",
+      "unitPriceUSD": 182.5,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M available",
+      "deal": "$182.5 from $365 · 50% off · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "- 100% Cotton.\n- Made in Portugal.\n- Machine wash 65-85°F, inside-out.",
+        "Fit": "M",
+        "Lining": "Not disclosed",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "jacket-ac7809289cb0"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGEX-H02837LZE_01_f17488d6-1227-423d-97c0-62699b38714a.jpg?v=1726856964",
+          "sourcePage": "https://www.apc-us.com/products/vittorio-brodee-poitrine-overshirt-cogex-h02837_lze?variant=40307363446883",
+          "alt": "A.P.C. Vittorio Brodée Poitrine overshirt — LZE - Stonewashed black — photo 1",
+          "src": "assets/images/6460451a8387cd582fb30cc9cde75cfe5e7e200d1f0eaed1b394d2233fb9cdc6.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGEX-H02837LZE_00_32e41e2e-bf2c-410f-8a3a-f251aeda020f.jpg?v=1726856964",
+          "sourcePage": "https://www.apc-us.com/products/vittorio-brodee-poitrine-overshirt-cogex-h02837_lze?variant=40307363446883",
+          "alt": "A.P.C. Vittorio Brodée Poitrine overshirt — LZE - Stonewashed black — photo 2",
+          "src": "assets/images/6dd45cdb4e5c9f0e94052ba7ebef4871486ebe6dfdd5ed13fd213630e9c90f03.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGEX-H02837LZE_03_2d46cfe7-8798-4b58-ad85-35c67ba5eec9.jpg?v=1726856964",
+          "sourcePage": "https://www.apc-us.com/products/vittorio-brodee-poitrine-overshirt-cogex-h02837_lze?variant=40307363446883",
+          "alt": "A.P.C. Vittorio Brodée Poitrine overshirt — LZE - Stonewashed black — photo 3",
+          "src": "assets/images/f0fd3d34de9c67f49e0ee55e891e9fdb00a5f30ef21d9672054cd1dc980111d9.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGEX-H02837LZE_04_aea65102-60a5-4d79-abba-498716913713.jpg?v=1726856964",
+          "sourcePage": "https://www.apc-us.com/products/vittorio-brodee-poitrine-overshirt-cogex-h02837_lze?variant=40307363446883",
+          "alt": "A.P.C. Vittorio Brodée Poitrine overshirt — LZE - Stonewashed black — photo 4",
+          "src": "assets/images/1ef4de7f0b7e0f62ed284e13841b177eaedea7d216399bae5b73e28ad6daef95.jpg"
+        }
+      ],
+      "imageNote": "Complete native exact-product images array; single color option; includes retailer media posters if exposed as images",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/6460451a8387cd582fb30cc9cde75cfe5e7e200d1f0eaed1b394d2233fb9cdc6.jpg",
+      "imageAlt": "A.P.C. Vittorio Brodée Poitrine overshirt — LZE - Stonewashed black — photo 1"
+    },
+    {
+      "id": "jacket-1a4d8d8e6b51",
+      "name": "A.P.C. · Leon overshirt — KAA - Green",
+      "url": "https://www.apc-us.com/products/leon-overshirt-cogzv-h32019_kaa?variant=43272077738083",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "KAA - Green",
+      "unitPriceUSD": 185.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "M available",
+      "deal": "$185 from $370 · 50% off · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "- 100% cotton.\n- Spanish material.\n- Made in Tunisia.\n- Machine wash cold (86°F) inside-out.",
+        "Fit": "M",
+        "Lining": "Not disclosed",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "jacket-1a4d8d8e6b51"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGZV-H32019KAA_01.jpg?v=1747861710",
+          "sourcePage": "https://www.apc-us.com/products/leon-overshirt-cogzv-h32019_kaa?variant=43272077738083",
+          "alt": "A.P.C. Leon overshirt — KAA - Green — photo 1",
+          "src": "assets/images/94d2c4e6d32d6692dfdf7d37034b6d7dce33e09c2929bf3b772e18a540060922.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGZV-H32019KAA_00.webp?v=1758137997",
+          "sourcePage": "https://www.apc-us.com/products/leon-overshirt-cogzv-h32019_kaa?variant=43272077738083",
+          "alt": "A.P.C. Leon overshirt — KAA - Green — photo 2",
+          "src": "assets/images/4d4872108c1ff4f295c30e16d8380a90c1e829ab98d2ebdf5ca0810ceb48b653.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGZV-H32019KAA_03.jpg?v=1758137997",
+          "sourcePage": "https://www.apc-us.com/products/leon-overshirt-cogzv-h32019_kaa?variant=43272077738083",
+          "alt": "A.P.C. Leon overshirt — KAA - Green — photo 3",
+          "src": "assets/images/efe128d9c9a3c28b6c33c8b9db757a1938e6c39fc8be853357251d25d917b629.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGZV-H32019KAA_04.jpg?v=1758137997",
+          "sourcePage": "https://www.apc-us.com/products/leon-overshirt-cogzv-h32019_kaa?variant=43272077738083",
+          "alt": "A.P.C. Leon overshirt — KAA - Green — photo 4",
+          "src": "assets/images/6b464a91d52dda45622ee52fe99b6072e8293fbf1d80858bba3faf39f804171f.jpg"
+        }
+      ],
+      "imageNote": "Complete native exact-product images array; single color option; includes retailer media posters if exposed as images",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/94d2c4e6d32d6692dfdf7d37034b6d7dce33e09c2929bf3b772e18a540060922.jpg",
+      "imageAlt": "A.P.C. Leon overshirt — KAA - Green — photo 1"
+    },
+    {
+      "id": "jacket-d6a78ece480a",
+      "name": "A.P.C. · Leon overshirt — IAA - Blue",
+      "url": "https://www.apc-us.com/products/surchemise-leon-cogzv-h32019_iaa?variant=43390611718243",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "IAA - Blue",
+      "unitPriceUSD": 185.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "$185 from $370 · 50% off · Final sale",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "- 100% cotton.\n- Spanish material.\n- Made in Tunisia.\n- Machine wash cold (86°F) inside-out.",
+        "Fit": "S, M",
+        "Lining": "Not disclosed",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final sale"
+      },
+      "sources": [
+        "jacket-d6a78ece480a"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COGZV-H32019IAA_00.jpg?v=1795121813",
+          "sourcePage": "https://www.apc-us.com/products/surchemise-leon-cogzv-h32019_iaa?variant=43390611718243",
+          "alt": "A.P.C. Leon overshirt — IAA - Blue — photo 1",
+          "src": "assets/images/df28638d528731dfa8ff677725ef05429e78cb8b8d086b1006e2e49f790dac76.jpg"
+        }
+      ],
+      "imageNote": "Complete native exact-product images array; single color option; includes retailer media posters if exposed as images",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/df28638d528731dfa8ff677725ef05429e78cb8b8d086b1006e2e49f790dac76.jpg",
+      "imageAlt": "A.P.C. Leon overshirt — IAA - Blue — photo 1"
+    },
+    {
+      "id": "jacket-c35153f62e8d",
+      "name": "A.P.C. · Perec Jacket - Faded Japanese Denim Workwear Jacket — IAL - Blue",
+      "url": "https://www.apc-us.com/products/perec-jacket-faded-japanese-denim-workwear-jacket-cohqz-h32101_ial?variant=44106918002787",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "IAL - Blue",
+      "unitPriceUSD": 240.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "$240 from $480 · 50% off",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "- 100% cotton.\n- Made in Tunisia.",
+        "Fit": "S, M",
+        "Lining": "Not disclosed",
+        "Status": "Available at source check; US storefront",
+        "Returns": "No final-sale designation observed on this product; standard return eligibility not independently verified."
+      },
+      "sources": [
+        "jacket-c35153f62e8d"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHQZ-H32101IAL_00.jpg?v=1784919857",
+          "sourcePage": "https://www.apc-us.com/products/perec-jacket-faded-japanese-denim-workwear-jacket-cohqz-h32101_ial?variant=44106918002787",
+          "alt": "A.P.C. Perec Jacket - Faded Japanese Denim Workwear Jacket — IAL - Blue — photo 1",
+          "src": "assets/images/f1b82ea1abeaafcae04420348e5dfc80f3c65f4061f13efcb6e77402e7275a94.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHQZ-H32101IAL_01.jpg?v=1784919857",
+          "sourcePage": "https://www.apc-us.com/products/perec-jacket-faded-japanese-denim-workwear-jacket-cohqz-h32101_ial?variant=44106918002787",
+          "alt": "A.P.C. Perec Jacket - Faded Japanese Denim Workwear Jacket — IAL - Blue — photo 2",
+          "src": "assets/images/86fb2735e4a7ef751b4a0f44d86e5b9ad54cdc1b5404dee35fca98c3b911f1a2.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHQZ-H32101IAL_02.jpg?v=1784919857",
+          "sourcePage": "https://www.apc-us.com/products/perec-jacket-faded-japanese-denim-workwear-jacket-cohqz-h32101_ial?variant=44106918002787",
+          "alt": "A.P.C. Perec Jacket - Faded Japanese Denim Workwear Jacket — IAL - Blue — photo 3",
+          "src": "assets/images/201eb1d019a32b77726d66f82a4dad5df5090d59e3d2ad4068e519859ce0f307.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHQZ-H32101IAL_03.jpg?v=1784919857",
+          "sourcePage": "https://www.apc-us.com/products/perec-jacket-faded-japanese-denim-workwear-jacket-cohqz-h32101_ial?variant=44106918002787",
+          "alt": "A.P.C. Perec Jacket - Faded Japanese Denim Workwear Jacket — IAL - Blue — photo 4",
+          "src": "assets/images/420f542e4d7d06e8a6d9a74dbdd541968d981eff9f035228431cb4450b5939ad.jpg"
+        }
+      ],
+      "imageNote": "Complete native exact-product images array; single color option; includes retailer media posters if exposed as images",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/f1b82ea1abeaafcae04420348e5dfc80f3c65f4061f13efcb6e77402e7275a94.jpg",
+      "imageAlt": "A.P.C. Perec Jacket - Faded Japanese Denim Workwear Jacket — IAL - Blue — photo 1"
+    },
+    {
+      "id": "jacket-92e06f456c5d",
+      "name": "A.P.C. · Basile Logo Overshirt — GAC - Bordeaux",
+      "url": "https://www.apc-us.com/products/basile-logo-overshirt-cohpq-h02810_gac?variant=44202622845027",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "GAC - Bordeaux",
+      "unitPriceUSD": 252.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "$252 from $360 · 30% off",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "- 100% cotton.\n- Made in Tunisia.",
+        "Fit": "S, M",
+        "Lining": "Not disclosed",
+        "Status": "Available at source check; US storefront",
+        "Returns": "No final-sale designation observed on this product; standard return eligibility not independently verified."
+      },
+      "sources": [
+        "jacket-92e06f456c5d"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHPQ-H02810GAC_00.jpg?v=1782157207",
+          "sourcePage": "https://www.apc-us.com/products/basile-logo-overshirt-cohpq-h02810_gac?variant=44202622845027",
+          "alt": "A.P.C. Basile Logo Overshirt — GAC - Bordeaux — photo 1",
+          "src": "assets/images/a0fd36c454007f1abefa28ac62754b5af2933ba380228324c3d34e0b1ec5a212.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHPQ-H02810GAC_01.jpg?v=1782157207",
+          "sourcePage": "https://www.apc-us.com/products/basile-logo-overshirt-cohpq-h02810_gac?variant=44202622845027",
+          "alt": "A.P.C. Basile Logo Overshirt — GAC - Bordeaux — photo 2",
+          "src": "assets/images/fbe911dc950840885c62969cad550fdb3f95a78c5d43b68d47e4912e64312053.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHPQ-H02810GAC_02.jpg?v=1782157207",
+          "sourcePage": "https://www.apc-us.com/products/basile-logo-overshirt-cohpq-h02810_gac?variant=44202622845027",
+          "alt": "A.P.C. Basile Logo Overshirt — GAC - Bordeaux — photo 3",
+          "src": "assets/images/96822369286460a38e24adeeec3dd1b54b55d36d1d8efabe6cdb02f7c3e69452.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/0007/0051/4360/files/COHPQ-H02810GAC_03.jpg?v=1782157207",
+          "sourcePage": "https://www.apc-us.com/products/basile-logo-overshirt-cohpq-h02810_gac?variant=44202622845027",
+          "alt": "A.P.C. Basile Logo Overshirt — GAC - Bordeaux — photo 4",
+          "src": "assets/images/526943149c1cee4705b0aef0ed572868a052ec2fdf56e8ebca3e90ef5a3a9bf5.jpg"
+        }
+      ],
+      "imageNote": "Complete native exact-product images array; single color option; includes retailer media posters if exposed as images",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/a0fd36c454007f1abefa28ac62754b5af2933ba380228324c3d34e0b1ec5a212.jpg",
+      "imageAlt": "A.P.C. Basile Logo Overshirt — GAC - Bordeaux — photo 1"
+    },
+    {
+      "id": "jacket-45cc37967355",
+      "name": "The Frankie Shop · Colville Pinstripe Denim Work Jacket - Dark Wash — Dark Wash",
+      "url": "https://thefrankieshop.com/products/colville-pinstripe-denim-work-jacket-dark-wash?variant=52580890345632",
+      "store": "The Frankie Shop",
+      "brand": "The Frankie Shop",
+      "category": "Jacket",
+      "color": "Dark Wash",
+      "unitPriceUSD": 195.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Cotton",
+        "Fit": "S, M",
+        "Lining": "Unlined",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final-sale designation not observed; return eligibility not independently verified.",
+        "Verification": "First-party exact-variant product data; purchase UI not independently tested."
+      },
+      "sources": [
+        "jacket-45cc37967355"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/COLVILLE-PINSTRIPE-DENIM-WORK-JACKET-DARK-WASH-GABRIEL-00737.jpg?v=1753088851",
+          "sourcePage": "https://thefrankieshop.com/products/colville-pinstripe-denim-work-jacket-dark-wash?variant=52580890345632",
+          "alt": "The Frankie Shop Colville Pinstripe Denim Work Jacket - Dark Wash — Dark Wash — photo 1",
+          "src": "assets/images/d6d3e01a86a5af3ad9cb385d7cc3abf8f24c13dee6a41cb36cabd14a7e24ccac.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/COLVILLE-PINSTRIPE-DENIM-WORK-JACKET-DARK-WASH-GABRIEL-00752.jpg?v=1753378633",
+          "sourcePage": "https://thefrankieshop.com/products/colville-pinstripe-denim-work-jacket-dark-wash?variant=52580890345632",
+          "alt": "The Frankie Shop Colville Pinstripe Denim Work Jacket - Dark Wash — Dark Wash — photo 2",
+          "src": "assets/images/bab6d6d7803fb95523c2e46daa5e1a3e5adc8e6c26de0cd802b348fa15788f4a.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/COLVILLE-PINSTRIPE-DENIM-WORK-JACKET-DARK-WASH-GABRIEL-00742.jpg?v=1753378633",
+          "sourcePage": "https://thefrankieshop.com/products/colville-pinstripe-denim-work-jacket-dark-wash?variant=52580890345632",
+          "alt": "The Frankie Shop Colville Pinstripe Denim Work Jacket - Dark Wash — Dark Wash — photo 3",
+          "src": "assets/images/763adc49f344a8e38646f28096b93975404ff4c49ec4fdaaa00ddba258d3b8c2.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/COLVILLE-PINSTRIPE-DENIM-WORK-JACKET-DARK-WASH-GABRIEL-00757.jpg?v=1753378633",
+          "sourcePage": "https://thefrankieshop.com/products/colville-pinstripe-denim-work-jacket-dark-wash?variant=52580890345632",
+          "alt": "The Frankie Shop Colville Pinstripe Denim Work Jacket - Dark Wash — Dark Wash — photo 4",
+          "src": "assets/images/794613b12dc7072a2690b7eca8911c3818531b9dff9b9510341d186f7a675e3c.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/COLVILLE-PINSTRIPE-DENIM-WORK-JACKET-DARK-WASH-GABRIEL-00759.jpg?v=1753378633",
+          "sourcePage": "https://thefrankieshop.com/products/colville-pinstripe-denim-work-jacket-dark-wash?variant=52580890345632",
+          "alt": "The Frankie Shop Colville Pinstripe Denim Work Jacket - Dark Wash — Dark Wash — photo 5",
+          "src": "assets/images/b985630a5df013ecf736531244f2d137c9ffb9c8e5e8ce97848dfab490c9b374.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/COLVILLE-PINSTRIPE-DENIM-WORK-JACKET-DARK-WASH-GABRIEL-00739.jpg?v=1753378633",
+          "sourcePage": "https://thefrankieshop.com/products/colville-pinstripe-denim-work-jacket-dark-wash?variant=52580890345632",
+          "alt": "The Frankie Shop Colville Pinstripe Denim Work Jacket - Dark Wash — Dark Wash — photo 6",
+          "src": "assets/images/00c37f7cf373b87cd1347c65a112652d0db0acbb00682ee11543ba10f44ba3c8.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/COLVILLE-PINSTRIPE-DENIM-WORK-JACKET-DARK-WASH-GABRIEL-00749.jpg?v=1753088859",
+          "sourcePage": "https://thefrankieshop.com/products/colville-pinstripe-denim-work-jacket-dark-wash?variant=52580890345632",
+          "alt": "The Frankie Shop Colville Pinstripe Denim Work Jacket - Dark Wash — Dark Wash — photo 7",
+          "src": "assets/images/1264d21e007c82b9f41998c02f12cef6f081617a2dd1538f050b13f256729e63.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/COLVILLE-PINSTRIPE-DENIM-WORK-JACKET-DARK-WASH-PACKSHOT.jpg?v=1753088852",
+          "sourcePage": "https://thefrankieshop.com/products/colville-pinstripe-denim-work-jacket-dark-wash?variant=52580890345632",
+          "alt": "The Frankie Shop Colville Pinstripe Denim Work Jacket - Dark Wash — Dark Wash — photo 8",
+          "src": "assets/images/aaa35cf57c78503e5e6acf017d1a59a7089ab6b613cc1798740dfad67721c20f.jpg"
+        }
+      ],
+      "imageNote": "Complete exact product .js images; sole option Size",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/d6d3e01a86a5af3ad9cb385d7cc3abf8f24c13dee6a41cb36cabd14a7e24ccac.jpg",
+      "imageAlt": "The Frankie Shop Colville Pinstripe Denim Work Jacket - Dark Wash — Dark Wash — photo 1"
+    },
+    {
+      "id": "jacket-5466b30af487",
+      "name": "The Frankie Shop · Tregor Boxy Denim Jacket - Dark Wash — Dark Wash",
+      "url": "https://thefrankieshop.com/products/tregor-boxy-denim-jacket-dark-wash?variant=67714526871712",
+      "store": "The Frankie Shop",
+      "brand": "The Frankie Shop",
+      "category": "Jacket",
+      "color": "Dark Wash",
+      "unitPriceUSD": 215.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Cotton",
+        "Fit": "S, M",
+        "Lining": "Unlined",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final-sale designation not observed; return eligibility not independently verified.",
+        "Verification": "First-party exact-variant product data; purchase UI not independently tested."
+      },
+      "sources": [
+        "jacket-5466b30af487"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/TREGOR-BOXY-DENIM-JACKET-DARK-WASH-TEO-0157-M.jpg?v=1792680824",
+          "sourcePage": "https://thefrankieshop.com/products/tregor-boxy-denim-jacket-dark-wash?variant=67714526871712",
+          "alt": "The Frankie Shop Tregor Boxy Denim Jacket - Dark Wash — Dark Wash — photo 1",
+          "src": "assets/images/4b733429c95d28351e3bbe031e055d371f959a6d1f2d045ef7cf7c82c2f2fa8f.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/TREGOR-BOXY-DENIM-JACKET-DARK-WASH-TEO-0137-M.jpg?v=1792680824",
+          "sourcePage": "https://thefrankieshop.com/products/tregor-boxy-denim-jacket-dark-wash?variant=67714526871712",
+          "alt": "The Frankie Shop Tregor Boxy Denim Jacket - Dark Wash — Dark Wash — photo 2",
+          "src": "assets/images/3b1a07238e3e8f24e04b9e568c282da1c61dc962381ff0ceacf7c44406c4ba81.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/TREGOR-BOXY-DENIM-JACKET-DARK-WASH-TEO-0140-M.jpg?v=1792680824",
+          "sourcePage": "https://thefrankieshop.com/products/tregor-boxy-denim-jacket-dark-wash?variant=67714526871712",
+          "alt": "The Frankie Shop Tregor Boxy Denim Jacket - Dark Wash — Dark Wash — photo 3",
+          "src": "assets/images/42c6b08c625dc073cafa08937a7c7bdad562e7229f84ae45f749cb36cf44542e.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/TREGOR-BOXY-DENIM-JACKET-DARK-WASH-TEO-0134-M.jpg?v=1792680824",
+          "sourcePage": "https://thefrankieshop.com/products/tregor-boxy-denim-jacket-dark-wash?variant=67714526871712",
+          "alt": "The Frankie Shop Tregor Boxy Denim Jacket - Dark Wash — Dark Wash — photo 4",
+          "src": "assets/images/630114265e00ab6b2e54a80d6209fa657dbf1b3bfa2f30e1a940ccd2ec3306d5.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/TREGOR-BOXY-DENIM-JACKET-DARK-WASH-TEO-0143-M.jpg?v=1792680824",
+          "sourcePage": "https://thefrankieshop.com/products/tregor-boxy-denim-jacket-dark-wash?variant=67714526871712",
+          "alt": "The Frankie Shop Tregor Boxy Denim Jacket - Dark Wash — Dark Wash — photo 5",
+          "src": "assets/images/296174dc9a7681f720f3acd609fe255c8d5fd90bbcb42410e89c782184d283c0.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/TREGOR-BOXY-DENIM-JACKET-DARK-WASH-TEO-0147-M.jpg?v=1792680825",
+          "sourcePage": "https://thefrankieshop.com/products/tregor-boxy-denim-jacket-dark-wash?variant=67714526871712",
+          "alt": "The Frankie Shop Tregor Boxy Denim Jacket - Dark Wash — Dark Wash — photo 6",
+          "src": "assets/images/6c37db6f6e3155f71fc5238a99a455bfb74da937437774e89c3906dd338979bd.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/TREGOR-BOXY-DENIM-JACKET-DARK-WASH-TEO-0155-M.jpg?v=1792680824",
+          "sourcePage": "https://thefrankieshop.com/products/tregor-boxy-denim-jacket-dark-wash?variant=67714526871712",
+          "alt": "The Frankie Shop Tregor Boxy Denim Jacket - Dark Wash — Dark Wash — photo 7",
+          "src": "assets/images/1907b0cb42f965e8ee993750fe0360a029a0d2c5a1576402a1a324944cd16de8.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/TREGOR-BOXY-DENIM-JACKET-DARK-WASH-TEO-0163-M.jpg?v=1792680826",
+          "sourcePage": "https://thefrankieshop.com/products/tregor-boxy-denim-jacket-dark-wash?variant=67714526871712",
+          "alt": "The Frankie Shop Tregor Boxy Denim Jacket - Dark Wash — Dark Wash — photo 8",
+          "src": "assets/images/60063d60907b88123a795bbb694040aca869a6aa26931c985e07ca84d91eb2c5.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/TREGOR-BOXY-DENIM-JACKET-DARK-WASH-TEO-0150-M.jpg?v=1792680825",
+          "sourcePage": "https://thefrankieshop.com/products/tregor-boxy-denim-jacket-dark-wash?variant=67714526871712",
+          "alt": "The Frankie Shop Tregor Boxy Denim Jacket - Dark Wash — Dark Wash — photo 9",
+          "src": "assets/images/6d1eb700ef970da8a67fd4457607bd2e11e43a7ec2a237196e0234c55ae6e54e.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/TREGOR-BOXY-DENIM-JACKET-DARK-WASH-TEO-0149-M.jpg?v=1792680824",
+          "sourcePage": "https://thefrankieshop.com/products/tregor-boxy-denim-jacket-dark-wash?variant=67714526871712",
+          "alt": "The Frankie Shop Tregor Boxy Denim Jacket - Dark Wash — Dark Wash — photo 10",
+          "src": "assets/images/bea127f9804492f114e8d19fb9ec8188916bcd191b4f7996e5dbc55a3146dcd2.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/TREGOR-BOXY-DENIM-JACKET-DARK-WASH-PACKSHOT.jpg?v=1792680769",
+          "sourcePage": "https://thefrankieshop.com/products/tregor-boxy-denim-jacket-dark-wash?variant=67714526871712",
+          "alt": "The Frankie Shop Tregor Boxy Denim Jacket - Dark Wash — Dark Wash — photo 11",
+          "src": "assets/images/de76f6a0aecc9cb1b1a3d29b402c753a6e93e338cfdac8a1c50d4d8631ee6431.jpg"
+        }
+      ],
+      "imageNote": "Complete exact product .js images; sole option Size",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/4b733429c95d28351e3bbe031e055d371f959a6d1f2d045ef7cf7c82c2f2fa8f.jpg",
+      "imageAlt": "The Frankie Shop Tregor Boxy Denim Jacket - Dark Wash — Dark Wash — photo 1"
+    },
+    {
+      "id": "jacket-3b450cc12157",
+      "name": "The Frankie Shop · Holt Work Jacket - Brown — Brown",
+      "url": "https://thefrankieshop.com/products/holt-work-jacket-brown?variant=53003868504224",
+      "store": "The Frankie Shop",
+      "brand": "The Frankie Shop",
+      "category": "Jacket",
+      "color": "Brown",
+      "unitPriceUSD": 245.0,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "S, M available",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% Cotton",
+        "Fit": "S, M",
+        "Lining": "Lined; fibers undisclosed",
+        "Status": "Available at source check; US storefront",
+        "Returns": "Final-sale designation not observed; return eligibility not independently verified.",
+        "Verification": "First-party exact-variant product data; purchase UI not independently tested.",
+        "Trim": "Elasticated waist disclosed; elastic fiber unspecified."
+      },
+      "sources": [
+        "jacket-3b450cc12157"
+      ],
+      "images": [
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/HOLT-WORK-JACKET-BROWN-RUBEN-0434_ca951f0b-51e5-4cb5-a5f6-8873b3f2d768.jpg?v=1771433956",
+          "sourcePage": "https://thefrankieshop.com/products/holt-work-jacket-brown?variant=53003868504224",
+          "alt": "The Frankie Shop Holt Work Jacket - Brown — Brown — photo 1",
+          "src": "assets/images/f84ad11b94d7bb912ea182e94fe8b5abb574c3a7353ea7c8680640342c498310.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/HOLT-WORK-JACKET-BROWN-RUBEN-0433_6d933952-78a3-40bf-871c-47c265d069b9.jpg?v=1771433956",
+          "sourcePage": "https://thefrankieshop.com/products/holt-work-jacket-brown?variant=53003868504224",
+          "alt": "The Frankie Shop Holt Work Jacket - Brown — Brown — photo 2",
+          "src": "assets/images/de705753e53acbe240b7cdfcb1026b2a46bab50d44b5139ea8e2f1584456995a.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/HOLT-WORK-JACKET-BROWN-RUBEN-0441_de0b8885-619c-428f-a2f4-adcb61ab7923.jpg?v=1771433956",
+          "sourcePage": "https://thefrankieshop.com/products/holt-work-jacket-brown?variant=53003868504224",
+          "alt": "The Frankie Shop Holt Work Jacket - Brown — Brown — photo 3",
+          "src": "assets/images/cf92b6e4e6a2da3e8cd98a09de48c3ffc5d20ae42a9238068892c5ed011752ec.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/HOLT-WORK-JACKET-BROWN-RUBEN-0462_85d71ef9-ee94-4712-94b1-0ea5c545c0d7.jpg?v=1763476642",
+          "sourcePage": "https://thefrankieshop.com/products/holt-work-jacket-brown?variant=53003868504224",
+          "alt": "The Frankie Shop Holt Work Jacket - Brown — Brown — photo 4",
+          "src": "assets/images/8badf6138c5fede20b667058d47f08c5ab18092077b8ed6f5420d0d0a535f34f.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/HOLT-WORK-JACKET-BROWN-RUBEN-0451_cc8aa388-0385-49bd-94c3-44e03909b524.jpg?v=1763476642",
+          "sourcePage": "https://thefrankieshop.com/products/holt-work-jacket-brown?variant=53003868504224",
+          "alt": "The Frankie Shop Holt Work Jacket - Brown — Brown — photo 5",
+          "src": "assets/images/816f3f26dc6b0598386a6319ed5426181d16952f2a3a62509f5524c7cfcf274c.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/HOLT-WORK-JACKET-BROWN-RUBEN-0468_74191774-12cb-40ee-842b-5f0d32b9c6e8.jpg?v=1763459322",
+          "sourcePage": "https://thefrankieshop.com/products/holt-work-jacket-brown?variant=53003868504224",
+          "alt": "The Frankie Shop Holt Work Jacket - Brown — Brown — photo 6",
+          "src": "assets/images/9f63ad6404114fb56eed93d108f34309fe573a67c4b1c005623e799dbbd07710.jpg"
+        },
+        {
+          "source": "https://cdn.shopify.com/s/files/1/1527/0993/files/HOLT-WORK-JACKET-BROWN-PACKSHOT_a99e0fd9-bdee-4e87-9d26-c1522532ee4d.jpg?v=1763459322",
+          "sourcePage": "https://thefrankieshop.com/products/holt-work-jacket-brown?variant=53003868504224",
+          "alt": "The Frankie Shop Holt Work Jacket - Brown — Brown — photo 7",
+          "src": "assets/images/ad08513ccfe171a6ac22b1afd222aa7c705328322c2fba7230aeffb1f1968820.jpg"
+        }
+      ],
+      "imageNote": "Complete exact product .js images; sole option Size",
+      "attribution": "Retailer product evidence; not an endorsement.",
+      "image": "assets/images/f84ad11b94d7bb912ea182e94fe8b5abb574c3a7353ea7c8680640342c498310.jpg",
+      "imageAlt": "The Frankie Shop Holt Work Jacket - Brown — Brown — photo 1"
     }
   ],
   "sources": [
@@ -8114,6 +9092,118 @@
       "title": "Carhartt — Crafted Series Denim Chore Coat — Rinsed Dark Indigo",
       "type": "First-party product evidence",
       "note": "Checked 2026-11-22T17:56:18.436929+00:00. $149.99 full price; no verified discount or Black Friday inclusion. S and M regular buyable/in stock. 100% cotton denim, unlined. Duck fabric underside and interior duck patch pocket; fiber percentage not separately disclosed. Metal buttons/snaps; sewing thread unspecified. Policy lists $7 ground; banner says free ground; loyalty offer conditional. Not a checkout quote. Returns: 180 days in original condition with tags; no online final-sale restriction observed for this full-price item."
+    },
+    {
+      "id": "jacket-c1b9453010a2",
+      "url": "https://www.etudes-studio.com/products/loose-denimjacket-bleach?variant=51623634764109",
+      "title": "Études · LOOSE DENIM JACKET BLEACH — BROWN",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:08:40.379728+00:00. $263 from $875 · 70% off Main fabric verified natural; lining: Not disclosed. 14 days; return shipping paid by customer; final-sale designation not observed in captured evidence. DDP advertised; free-shipping offer excludes sales/Archive Days. Destination charge unverified. No additional code/sign-up discount applied; no Black Friday-specific claim. "
+    },
+    {
+      "id": "jacket-13c383beefac",
+      "url": "https://www.apc-us.com/products/basile-logo-overshirt-cofcn-h02918_lad?variant=41269300002915",
+      "title": "A.P.C. · Basile Logo overshirt — LAD - Charcoal gray",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:08:40.379728+00:00. $167.5 from $335 · 50% off · Final sale Main fabric verified natural; lining: Not disclosed. Final sale Free shipping advertised at $350; exact destination costs not verified No additional code/sign-up discount applied; no Black Friday-specific claim. "
+    },
+    {
+      "id": "jacket-6905b8451996",
+      "url": "https://www.apc-us.com/products/vittorio-brodee-poitrine-overshirt-cogwb-h02837_ial?variant=40767441829987",
+      "title": "A.P.C. · Vittorio Brodée Poitrine overshirt — IAL - Stonewashed indigo",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:08:40.379728+00:00. $167.5 from $335 · 50% off · Final sale Main fabric verified natural; lining: Not disclosed. Final sale Free shipping advertised at $350; exact destination costs not verified No additional code/sign-up discount applied; no Black Friday-specific claim. "
+    },
+    {
+      "id": "jacket-05d7b5b53b6f",
+      "url": "https://www.apc-us.com/products/leon-overshirt-cohbb-h32019_iak?variant=43489966358627",
+      "title": "A.P.C. · Leon overshirt — IAK - Dark navy blue",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:08:40.379728+00:00. $175 from $350 · 50% off · Final sale Main fabric verified natural; lining: Not disclosed. Final sale Free shipping advertised at $350; exact destination costs not verified No additional code/sign-up discount applied; no Black Friday-specific claim. "
+    },
+    {
+      "id": "jacket-470a086e5885",
+      "url": "https://www.apc-us.com/products/kerlouan-logo-jacket-cogex-h03205_lze?variant=41409242071139",
+      "title": "A.P.C. · Kerlouan Logo jacket — LZE - Stonewashed black",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:08:40.379728+00:00. $215 from $430 · 50% off · Final sale Main fabric verified natural; lining: Unlined. Final sale Free shipping advertised at $350; exact destination costs not verified No additional code/sign-up discount applied; no Black Friday-specific claim. "
+    },
+    {
+      "id": "jacket-c6123a78137f",
+      "url": "https://www.apc-us.com/products/nathan-overshirt-cohtb-h32105_aad?variant=44106986946659",
+      "title": "A.P.C. · Nathan Overshirt — AAD - Ecru",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:08:40.379728+00:00. $215 from $430 · 50% off Main fabric verified natural; lining: Not disclosed. No final-sale designation observed on this product; standard return eligibility not independently verified. Free shipping advertised at $350; exact destination costs not verified No additional code/sign-up discount applied; no Black Friday-specific claim. "
+    },
+    {
+      "id": "jacket-f0f37ee7e6ad",
+      "url": "https://www.apc-us.com/products/lenny-jacket-cohlx-h32071_iaa?variant=43989505179747",
+      "title": "A.P.C. · Lenny jacket — IAA - Blue",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:08:40.379728+00:00. $247.5 from $495 · 50% off · Final sale Main fabric verified natural; lining: Not disclosed. Final sale Free shipping advertised at $350; exact destination costs not verified No additional code/sign-up discount applied; no Black Friday-specific claim. "
+    },
+    {
+      "id": "jacket-c1feffb12dea",
+      "url": "https://www.apc-us.com/products/noah-jacket-cohlx-m32027_cae?variant=43937433452643",
+      "title": "A.P.C. · Noah jacket — CAE - Dark chestnut brown",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:08:40.379728+00:00. $247.5 from $495 · 50% off · Final sale Main fabric verified natural; lining: Unlined. Final sale Free shipping advertised at $350; exact destination costs not verified No additional code/sign-up discount applied; no Black Friday-specific claim. "
+    },
+    {
+      "id": "jacket-ac7809289cb0",
+      "url": "https://www.apc-us.com/products/vittorio-brodee-poitrine-overshirt-cogex-h02837_lze?variant=40307363446883",
+      "title": "A.P.C. · Vittorio Brodée Poitrine overshirt — LZE - Stonewashed black",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:08:40.379728+00:00. $182.5 from $365 · 50% off · Final sale Main fabric verified natural; lining: Not disclosed. Final sale Free shipping advertised at $350; exact destination costs not verified No additional code/sign-up discount applied; no Black Friday-specific claim. "
+    },
+    {
+      "id": "jacket-1a4d8d8e6b51",
+      "url": "https://www.apc-us.com/products/leon-overshirt-cogzv-h32019_kaa?variant=43272077738083",
+      "title": "A.P.C. · Leon overshirt — KAA - Green",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:08:40.379728+00:00. $185 from $370 · 50% off · Final sale Main fabric verified natural; lining: Not disclosed. Final sale Free shipping advertised at $350; exact destination costs not verified No additional code/sign-up discount applied; no Black Friday-specific claim. "
+    },
+    {
+      "id": "jacket-d6a78ece480a",
+      "url": "https://www.apc-us.com/products/surchemise-leon-cogzv-h32019_iaa?variant=43390611718243",
+      "title": "A.P.C. · Leon overshirt — IAA - Blue",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:08:40.379728+00:00. $185 from $370 · 50% off · Final sale Main fabric verified natural; lining: Not disclosed. Final sale Free shipping advertised at $350; exact destination costs not verified No additional code/sign-up discount applied; no Black Friday-specific claim. "
+    },
+    {
+      "id": "jacket-c35153f62e8d",
+      "url": "https://www.apc-us.com/products/perec-jacket-faded-japanese-denim-workwear-jacket-cohqz-h32101_ial?variant=44106918002787",
+      "title": "A.P.C. · Perec Jacket - Faded Japanese Denim Workwear Jacket — IAL - Blue",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:08:40.379728+00:00. $240 from $480 · 50% off Main fabric verified natural; lining: Not disclosed. No final-sale designation observed on this product; standard return eligibility not independently verified. Free shipping advertised at $350; exact destination costs not verified No additional code/sign-up discount applied; no Black Friday-specific claim. "
+    },
+    {
+      "id": "jacket-92e06f456c5d",
+      "url": "https://www.apc-us.com/products/basile-logo-overshirt-cohpq-h02810_gac?variant=44202622845027",
+      "title": "A.P.C. · Basile Logo Overshirt — GAC - Bordeaux",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:08:40.379728+00:00. $252 from $360 · 30% off Main fabric verified natural; lining: Not disclosed. No final-sale designation observed on this product; standard return eligibility not independently verified. Free shipping advertised at $350; exact destination costs not verified No additional code/sign-up discount applied; no Black Friday-specific claim. "
+    },
+    {
+      "id": "jacket-45cc37967355",
+      "url": "https://thefrankieshop.com/products/colville-pinstripe-denim-work-jacket-dark-wash?variant=52580890345632",
+      "title": "The Frankie Shop · Colville Pinstripe Denim Work Jacket - Dark Wash — Dark Wash",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:02:25.211724+00:00. Full price; no verified markdown. Main fabric verified natural; lining: Unlined. Final-sale designation not observed; return eligibility not independently verified. Not verified No additional code/sign-up discount applied; no Black Friday-specific claim. Stock and exact variant checked against native Shopify product data; UI not independently tested."
+    },
+    {
+      "id": "jacket-5466b30af487",
+      "url": "https://thefrankieshop.com/products/tregor-boxy-denim-jacket-dark-wash?variant=67714526871712",
+      "title": "The Frankie Shop · Tregor Boxy Denim Jacket - Dark Wash — Dark Wash",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:02:25.193921+00:00. Full price; no verified markdown. Main fabric verified natural; lining: Unlined. Final-sale designation not observed; return eligibility not independently verified. Not verified No additional code/sign-up discount applied; no Black Friday-specific claim. Stock and exact variant checked against native Shopify product data; UI not independently tested."
+    },
+    {
+      "id": "jacket-3b450cc12157",
+      "url": "https://thefrankieshop.com/products/holt-work-jacket-brown?variant=53003868504224",
+      "title": "The Frankie Shop · Holt Work Jacket - Brown — Brown",
+      "type": "First-party product evidence",
+      "note": "Checked 2026-11-22T18:02:25.132855+00:00. Full price; no verified markdown. Main fabric verified natural; lining: Lined; fibers undisclosed. Final-sale designation not observed; return eligibility not independently verified. Not verified No additional code/sign-up discount applied; no Black Friday-specific claim. Stock and exact variant checked against native Shopify product data; UI not independently tested."
     }
   ]
 }
