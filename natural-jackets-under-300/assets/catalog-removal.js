@@ -1,44 +1,124 @@
-/* Browser-local visibility only; full records and ordering nodes remain intact. */
+/* Isolated jacket export: authoritative shared archive, never browser storage. */
 var CatalogRemoval = (() => {
  'use strict';
  function attach(topic, apply) {
-  const grid=document.querySelector('.display-template');
-  const key='research-catalog-hidden:v1:'+topic.id;
-  const ids=new Set(topic.products.map(p=>p.id));let hidden=new Set(),restored=new Set(),last=null,persistent=true,removed=false;
-  const defaults=new Set((topic.defaultHiddenProductIds||[]).filter(id=>ids.has(id)));
-  const restoreKey='research-catalog-restored:v1:'+topic.id;
-  try {const saved=JSON.parse(localStorage.getItem(key));if(Array.isArray(saved))hidden=new Set(saved.filter(id=>ids.has(id)));const overrides=JSON.parse(localStorage.getItem(restoreKey));if(Array.isArray(overrides))restored=new Set(overrides.filter(id=>ids.has(id)));const probe=key+':probe';localStorage.setItem(probe,'1');localStorage.removeItem(probe);}catch(_){persistent=false;}
-  defaults.forEach(id=>{if(!restored.has(id))hidden.add(id);});
-  const bar=document.createElement('div');bar.className='catalog-removal';
-  const toggle=document.createElement('button');toggle.type='button';toggle.setAttribute('aria-pressed','false');
-  const undo=document.createElement('button');undo.type='button';undo.textContent='Undo';undo.hidden=true;
-  const status=document.createElement('span');status.setAttribute('role','status');
-  const note=document.createElement('span');note.className='removal-note';
-  bar.append(toggle,undo,status,note);document.querySelector('.research-sort').after(bar);
-  function refresh(){grid.dataset.removedView=String(removed);toggle.textContent=removed?'Back to items':`Removed (${hidden.size})`;toggle.setAttribute('aria-pressed',String(removed));undo.hidden=!last;note.textContent=persistent?'Saved in this browser only.':'Storage unavailable — changes last until reload only.';
-   [...grid.children].forEach(card=>{const id=topic.products[Number(card.dataset.productIndex)].id;card.dataset.removed=String(hidden.has(id));const b=card.querySelector('.remove-item');b.textContent=hidden.has(id)?'Restore':'Remove';b.setAttribute('aria-label',`${b.textContent} ${topic.products[Number(card.dataset.productIndex)].name}`);});apply();}
-  function save(){try{localStorage.setItem(key,JSON.stringify([...hidden]));localStorage.setItem(restoreKey,JSON.stringify([...restored]));}catch(_){persistent=false;}}
-  topic.products.forEach((p,i)=>{const card=grid.querySelector(`[data-product-index="${i}"]`);const b=document.createElement('button');b.type='button';b.className='remove-item';card.querySelector('.card-body').append(b);
-   b.addEventListener('click',()=>{if(document.body.classList.contains('catalog-dragging'))return;const restoring=hidden.has(p.id);last={id:p.id,wasHidden:restoring,wasRestored:restored.has(p.id)};if(restoring){hidden.delete(p.id);if(defaults.has(p.id))restored.add(p.id);}else{hidden.add(p.id);restored.delete(p.id);}save();refresh();status.textContent=restoring?'Item restored.':'Item removed.';undo.focus({preventScroll:true});});});
-  toggle.addEventListener('click',()=>{removed=!removed;refresh();});
-  undo.addEventListener('click',()=>{if(!last)return;if(last.wasHidden)hidden.add(last.id);else hidden.delete(last.id);if(last.wasRestored)restored.add(last.id);else restored.delete(last.id);last=null;save();refresh();status.textContent='Change undone.';toggle.focus({preventScroll:true});});
-  refresh();
-  if(topic.id==='harrison-clothes-contenders'){
-   const exportButton=document.createElement('button');exportButton.type='button';exportButton.textContent='Export selections';exportButton.title='Download this browser’s full order and removed selections. Nothing is uploaded.';
-   exportButton.addEventListener('click',()=>{
-    const order=CatalogOrder.snapshot(grid);
-    const payload={schemaVersion:1,topicId:topic.id,...order,
-     orderScope:order.hasManualOrder?'Full saved manual order, including removed and filtered items':'Full current sort order; no manual order saved',
-     effectiveRemovedProductIds:order.fullOrderProductIds.filter(id=>hidden.has(id)),
-     defaultHiddenProductIds:[...defaults],explicitlyRestoredDefaultProductIds:[...defaults].filter(id=>restored.has(id)),
-     view:{sort:document.querySelector('.research-sort [aria-pressed="true"]')?.dataset.sort||null,search:document.querySelector('input[type=search]').value,category:document.querySelector('.catalog-categories [aria-pressed="true"]')?.dataset.categoryFilter||'All',removedView:removed,visibleProductIds:[...grid.children].filter(card=>!card.hidden&&card.dataset.productId).map(card=>card.dataset.productId)},
-     storageAvailable:persistent};
-    const url=URL.createObjectURL(new Blob([JSON.stringify(payload,null,2)+'\n'],{type:'application/json'}));
-    const link=document.createElement('a');link.href=url;link.download=topic.id+'-selections.json';document.body.append(link);link.click();link.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
-    status.textContent='Selections exported. Attach the JSON file in chat; nothing was uploaded.';
+  if (topic.id !== 'natural-jackets-under-300') return;
+  const grid = document.querySelector('.display-template');
+  const ids = new Set(topic.products.map(p => p.id));
+  let items = new Map(), revision = -1, busy = false, available = false;
+  let removed = false, last = null, timer = null;
+  const endpoint = typeof window.CATALOG_SHARED_ENDPOINT === 'string' ? window.CATALOG_SHARED_ENDPOINT.replace(/\/$/, '') : '';
+  const bar = document.createElement('div'); bar.className = 'catalog-removal';
+  const button = text => { const b = document.createElement('button'); b.type = 'button'; b.textContent = text; return b; };
+  const toggle = button('Removed (0)'), undo = button('Undo'), retry = button('Retry');
+  const status = document.createElement('span'); status.setAttribute('role', 'status');
+  status.textContent = 'Loading shared state…';
+  bar.append(toggle, undo, status, retry); document.querySelector('.research-sort').after(bar);
+  const cards = topic.products.map((p, i) => {
+   const card = grid.querySelector(`[data-product-index="${i}"]`), b = button('Remove');
+   b.className = 'remove-item'; card.querySelector('.card-body').append(b);
+   b.addEventListener('click', () => {
+    if (busy || !available || document.body.classList.contains('catalog-dragging')) return;
+    const item = items.get(p.id);
+    mutate(p.id, !item.hidden, item.version, false);
    });
-   bar.insertBefore(exportButton,status);
+   return {p, card, b};
+  });
+  function refresh() {
+   grid.dataset.removedView = String(removed);
+   toggle.textContent = removed ? 'Back to items' : `Removed (${[...items.values()].filter(i => i.hidden).length})`;
+   toggle.setAttribute('aria-pressed', String(removed)); toggle.disabled = busy || !available;
+   undo.hidden = !last; undo.disabled = busy || !available;
+   retry.hidden = available || busy; retry.disabled = busy;
+   bar.setAttribute('aria-busy', String(busy));
+   cards.forEach(({p, card, b}) => {
+    const hidden = items.get(p.id)?.hidden === true;
+    card.dataset.removed = String(hidden); b.textContent = hidden ? 'Restore' : 'Remove';
+    b.setAttribute('aria-label', `${b.textContent} ${p.name}`); b.disabled = busy || !available;
+   });
+   apply();
   }
+  function accept(state) {
+   if (!Number.isSafeInteger(state?.revision) || state.revision < 0 || !Array.isArray(state.items) || state.items.length !== ids.size) throw Error('Invalid state');
+   const next = new Map();
+   for (const item of state.items) {
+    if (!ids.has(item.id) || next.has(item.id) || typeof item.hidden !== 'boolean' || !Number.isSafeInteger(item.version) || item.version < 0) throw Error('Invalid item');
+    next.set(item.id, {id: item.id, hidden: item.hidden, version: item.version});
+   }
+   // A delayed or stale response must never roll back shared state.
+   if (state.revision < revision) return false;
+   for (const [id, prior] of items) {
+    const now = next.get(id);
+    if (now.version < prior.version || (now.version === prior.version && now.hidden !== prior.hidden)) throw Error('Inconsistent state');
+   }
+   if (state.revision === revision && [...next].some(([id, item]) => item.version !== items.get(id).version)) throw Error('Inconsistent revision');
+   items = next; revision = state.revision;
+   return true;
+  }
+  async function request(payload) {
+   if (!endpoint) throw Error('Endpoint not configured');
+   const controller = new AbortController(), timeout = setTimeout(() => controller.abort(), 10000);
+   try {
+    const response = await fetch(endpoint + '/state', {
+     method: payload ? 'POST' : 'GET', credentials: 'omit', cache: 'no-store', signal: controller.signal,
+     ...(payload ? {headers: {'Content-Type': 'application/json'}, body: JSON.stringify(payload)} : {})
+    });
+    if (!response.ok && response.status !== 409) throw Error('Sync unavailable');
+    return {conflict: response.status === 409, state: await response.json()};
+   } finally { clearTimeout(timeout); }
+  }
+  function schedule() {
+   clearTimeout(timer);
+   if (!document.hidden) timer = setTimeout(() => read(false), 5000);
+  }
+  async function read(explicit) {
+   if (busy || document.hidden) return;
+   busy = true; refresh();
+   try {
+    const response = await request();
+    if (response.conflict) throw Error('Invalid read');
+    accept(response.state);
+    const recovered = !available; available = true;
+    if (explicit || recovered) status.textContent = 'Shared with everyone';
+   } catch (_) {
+    available = false; status.textContent = "Can't sync.";
+   } finally { busy = false; refresh(); schedule(); }
+  }
+  async function mutate(id, hidden, expectedVersion, isUndo) {
+   if (busy || !available) return;
+   if (isUndo && items.get(id).version !== expectedVersion) {
+    last = null; status.textContent = 'Changed elsewhere. Undo not applied.'; refresh(); return;
+   }
+   busy = true; clearTimeout(timer); status.textContent = 'Saving…'; refresh();
+   try {
+    const response = await request({id, hidden, expectedVersion});
+    if (!accept(response.state)) throw Error('Stale write response');
+    if (response.conflict) {
+     last = null; status.textContent = 'Changed elsewhere. Your change was not applied.';
+    } else {
+     const saved = items.get(id);
+     if (saved.hidden !== hidden || saved.version !== expectedVersion + 1) throw Error('Write not confirmed');
+     last = isUndo ? null : {id, hidden: !hidden, version: saved.version};
+     status.textContent = 'Saved for everyone.';
+    }
+   } catch (_) {
+    // A timeout may have committed remotely: refetch, never replay automatically.
+    available = false; last = null; status.textContent = "Can't sync.";
+   } finally {
+    busy = false; refresh(); schedule();
+    if (available) (last ? undo : toggle).focus({preventScroll: true});
+   }
+  }
+  toggle.addEventListener('click', () => { removed = !removed; refresh(); });
+  undo.addEventListener('click', () => { if (last) mutate(last.id, last.hidden, last.version, true); });
+  retry.addEventListener('click', () => read(true));
+  window.addEventListener('focus', () => read(false));
+  document.addEventListener('visibilitychange', () => {
+   if (document.hidden) clearTimeout(timer); else read(false);
+  });
+  window.addEventListener('pagehide', () => clearTimeout(timer));
+  window.addEventListener('pageshow', () => { if (!busy) read(false); });
+  refresh(); read(true);
  }
  return {attach};
 })();

@@ -3,3 +3,5 @@
 .clothing-catalog .remove-item {margin-top:8px;}
 .clothing-catalog .removal-note {color:var(--muted);}
 .clothing-catalog .catalog-removal button:hover,.clothing-catalog .remove-item:hover {background:#f3f4f5;}
+.clothing-catalog .catalog-removal button:disabled,.clothing-catalog .remove-item:disabled {opacity:.5;cursor:wait;}
+.clothing-catalog .catalog-removal button:focus-visible,.clothing-catalog .remove-item:focus-visible {outline:2px solid var(--ink);outline-offset:3px;}
