@@ -1,5 +1,14 @@
 .clothing-catalog .catalog-removal {display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin:0 0 24px;font-size:13px;}
 .clothing-catalog .catalog-removal button,.clothing-catalog .catalog-actions button {min-width:44px;min-height:44px;padding:0 12px;border:1px solid var(--line);background:white;color:var(--ink);font:13px Arial,sans-serif;cursor:pointer;}
+.clothing-catalog {overflow-x:clip;}
+.clothing-catalog .catalog-removal {position:sticky;top:0;z-index:5;background:white;padding:4px 0;gap:4px;border-bottom:1px solid var(--line);}
+.clothing-catalog .catalog-removal button {padding:0 7px;}
+.clothing-catalog .shortlist-details {display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:6px;font:13px/1.4 Arial,sans-serif;}
+.clothing-catalog .catalog-actions .remove-item {color:#af2727;font-size:22px;}
+.clothing-catalog .catalog-actions .select-item {color:#137441;font-size:22px;font-weight:bold;}
+.clothing-catalog .catalog-actions .consider-item {font-size:18px;}
+.clothing-catalog .catalog-actions [aria-pressed=true] {border:2px solid currentColor;background:#f3f4f5;}
+.clothing-catalog .catalog-actions button:disabled {opacity:.55;cursor:default;}
 .clothing-catalog .removal-note {color:var(--muted);}
 .clothing-catalog .catalog-removal button:hover,.clothing-catalog .catalog-actions button:hover {background:#f3f4f5;}
 .clothing-catalog .catalog-removal button[aria-pressed=true] {background:var(--ink);color:white;}
