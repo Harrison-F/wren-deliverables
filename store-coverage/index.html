@@ -17,6 +17,18 @@ function offerRank(s){const p=[...s.note.matchAll(/(\d+(?:\.\d+)?)\s*%/g)].map(m
 function group(s){const n=Object.keys(dealLabels).indexOf(s.status);return n<0?1:n}
 function dealCells(s){if(s.status==='blocked'||s.status==='no_verified_offer')return ['',''];if(s.status!=='verified_offer')return ['',s.note];const bits=s.note.split(/(?<=\.)\s+(?=Ends\b)/);return [bits[0].replace(/, not a uniform discount\b/g,'').replace(/; no uniform percentage advertised\b/g,''),bits.slice(1).join(' ')]}
 const pending=new Set();
+// Retailer campaign destinations, keyed to the verified offer text (not just the store).
+const dealTargets={
+  'Études':[['Seasonal outerwear sale','/collections/outerwear']],
+  'Sandro':[['Fall/Winter styles','/en/mens/thanksgiving-event/see-all/'],['Sale advertises up to 50% off','/en/mens/sale/coats-jackets/']],
+  'SCRT':[['BF20 for 20% off','/collections/all']],
+  'Arc’teryx':[['up to 40% off select gear','/us/en/c/mens/black-friday-sale/wid-kjyr6zq9']],
+  'Industry of All Nations':[['Natural Dyes','/collections/natural-dyes']],
+  'A.P.C.':[['women','/collections/sale-women-view-all'],['men','/collections/sale-men-view-all']],
+  'Yitai':[['free tee over $200 and free sweater over $350','/collections/all']],
+  'Yohji Yamamoto':[['bf26: 10% off eligible brands','/blogs/news/bf2026']]
+};
+function linkedOffer(cell,s){let text=cell.textContent;if(!text||s.status!=='verified_offer'||!/^https:\/\//i.test(s.source))return;const out=document.createDocumentFragment();for(const [phrase,path] of dealTargets[s.name]||[]){const i=text.indexOf(phrase);if(i<0)continue;out.append(text.slice(0,i));const a=node('a',phrase);a.href=new URL(path,s.source).href;out.append(a);text=text.slice(i+phrase.length)}out.append(text);cell.replaceChildren(out)}
 async function dealRefresh(){
   try{
     const r=await fetch('black-friday-monitor.json?check='+Date.now(),{cache:'no-store',signal:AbortSignal.timeout(15000)});
@@ -25,6 +37,7 @@ async function dealRefresh(){
     const body=document.createDocumentFragment();
     const table=node('table'),head=table.createTHead().insertRow(),rows=table.createTBody();table.setAttribute('aria-label','Black Friday deals');for(const title of ['Store','Status','Deal details','Notes']){const h=node('th',title);h.scope='col';head.append(h)}
     for(const s of [...stores].sort((a,b)=>group(a)-group(b)||offerRank(b)-offerRank(a)||a.name.localeCompare(b.name,'en'))){const tr=rows.insertRow(),th=node('th');th.scope='row';if(/^https?:\/\//i.test(s.source)){const a=node('a',s.name);a.href=s.source;a.rel='noreferrer';th.append(a)}else th.textContent=s.name;tr.append(th);tr.insertCell().append(node('strong',dealLabels[s.status]||s.status.replaceAll('_',' ')));for(const text of dealCells(s))tr.insertCell().textContent=text}
+    const byName=new Map(stores.map(s=>[s.name,s]));for(const tr of rows.rows)linkedOffer(tr.cells[2],byName.get(tr.cells[0].textContent));
     body.append(table);$('#deals').className='wrap';$('#deals').replaceChildren(body);dealStamp=new Date(checked_at).toLocaleString();$('#deal-count').textContent=stores.length+(stores.length===1?' store':' stores');$('#deal-status').textContent='Last checked '+dealStamp;
   }catch{$('#deal-status').textContent=dealStamp?'Refresh failed · Last checked '+dealStamp:'Monitor unavailable · Retry with ↻'}
 }
