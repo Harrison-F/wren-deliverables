@@ -24,24 +24,24 @@
     },
     {
       "name": "Abercrombie",
-      "status": "blocked",
+      "status": "ok",
       "checkpoint": "2026-11-23",
       "unit": "URLs",
-      "total": 1636,
-      "cached": 1636,
+      "total": 1852,
+      "cached": 1852,
       "discovered": 5895,
       "scope": "Known product URLs; includes historical captures, not whole-store coverage. US.",
       "fields": {
-        "color": 3,
-        "category": 1636,
-        "named": 0,
-        "composition": 0,
-        "size": 3,
-        "price": 3,
-        "currency": 3,
-        "sale": 0,
+        "color": 1064,
+        "category": 1852,
+        "named": 999,
+        "composition": 999,
+        "size": 1064,
+        "price": 1064,
+        "currency": 1064,
+        "sale": 598,
         "available": 0,
-        "image": 0
+        "image": 1062
       }
     },
     {
