@@ -2,7 +2,9 @@
 <html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>Store coverage</title><style>
 :root{color-scheme:dark;--bg:#121511;--panel:#191d18;--line:#353b32;--ink:#f1f1e7;--muted:#a6ad9e;--accent:#cae995}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 'Helvetica Neue',sans-serif}main{max-width:1800px;margin:auto;padding:clamp(22px,4vw,70px)}header{display:flex;align-items:center;justify-content:space-between;gap:16px;border-bottom:1px solid var(--line);padding-bottom:24px}h1{font:normal clamp(40px,5.5vw,84px)/1 Georgia,serif;letter-spacing:-.055em;margin:0}button{cursor:pointer;color:var(--accent);background:transparent;border:1px solid #58634c;border-radius:50%;width:44px;height:44px;display:grid;place-items:center}button:hover,button:focus-visible{background:#303928;outline-color:var(--accent)}button:disabled{opacity:.5}button svg{width:20px;height:20px}.meta{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;margin:18px 0;color:var(--muted);font:12px/1.4 ui-monospace,monospace}.wrap{overflow:auto;border:1px solid var(--line);border-radius:8px;background:var(--panel);scrollbar-color:#626b59 var(--panel)}table{border-spacing:0;width:100%;font-variant-numeric:tabular-nums;text-align:right;font-size:13px}td,th{padding:14px 10px;white-space:nowrap;border-bottom:1px solid var(--line)}thead th{color:#c5cbbd;font-weight:500;background:#252b23;position:sticky;top:0;z-index:2;text-align:right}th:first-child{position:sticky;left:0;text-align:left;border-right:1px solid var(--line)}thead th:first-child{z-index:3}tbody th{background:var(--panel);font-size:15px;font-weight:550;padding-left:16px}tr:hover td,tr:hover th[scope=row]{background:#22291f}small{display:block;font:11px/1.45 ui-monospace,monospace;color:var(--muted)}td.cache{color:var(--accent)}.unknown{color:#899181}details{max-width:225px}summary{cursor:pointer;list-style-position:inside}details p{white-space:normal;font-weight:400;color:var(--muted);font-size:13px}footer{display:flex;flex-wrap:wrap;gap:5px 18px;padding:16px 0;color:var(--muted);font-size:12px}@media(max-width:600px){main{padding:24px 12px}td,th{padding:11px 8px}tbody th{max-width:155px;white-space:normal;font-size:14px}}
 nav{display:flex;gap:20px;border-bottom:1px solid var(--line)}nav a{display:inline-flex;align-items:center;min-height:46px;color:var(--muted);text-decoration:none;font-weight:550;border-bottom:2px solid transparent}nav a[aria-current]{color:var(--accent);border-color:currentColor}#deals table{min-width:660px;table-layout:fixed}#deals :is(th,td){text-align:left;white-space:normal;vertical-align:top;padding:12px 14px}#deals thead th:nth-child(1){width:21%}#deals thead th:nth-child(2){width:17%}#deals thead th:nth-child(4){width:18%}#deals a{color:var(--accent);text-underline-offset:3px}#deals strong{font-weight:500}#deals td:last-child{color:var(--muted)}
-</style><main><header><h1>Store coverage</h1><button id="refresh" aria-label="Refresh checkpoint" title="Refresh checkpoint"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 7v5h-5M19.5 11a7.5 7.5 0 1 0-2.2 6.5"/></svg></button></header><nav aria-label="Store views"><a href="#coverage">Coverage</a><a href="#black-friday">Black Friday Deal Monitor</a></nav><section id="coverage"><div class="meta"><span id="count">Store checkpoints</span><span id="status" role="status">Loading…</span></div><div class="wrap" tabindex="0" role="region" aria-label="Store coverage table"><table><thead><tr id="head"></tr></thead><tbody id="rows"></tbody></table></div><footer><span>Crawl success = unique product URLs with saved records / known scoped product URLs, including unresolved candidates. Historical coverage, not fresh reads or whole-store coverage.</span><span>Attribute coverage measures field presence, not independently verified accuracy.</span><span>— Not measured</span><span>Open a store name for scope.</span></footer></section><section id="black-friday" hidden aria-label="Black Friday Deal Monitor"><div class="meta"><span id="deal-count">Store deals</span><span id="deal-status" role="status">Loading…</span></div><div id="deals"></div></section></main><script>
+#deals thead th:last-child{width:27%}.public-note{width:100%;min-height:44px;resize:vertical;display:block;padding:9px;color:var(--ink);font:inherit;background:transparent;border:1px solid transparent;border-radius:4px}.public-note::placeholder{color:var(--muted)}.public-note:hover,.public-note:focus,.public-note:not(:placeholder-shown){border-color:var(--line)}.public-note:focus-visible,.note-action:focus-visible{outline:2px solid var(--accent);outline-offset:1px}.note-action{width:auto;height:auto;min-height:44px;border-radius:4px;padding:4px 9px}.note-current{white-space:pre-wrap;overflow-wrap:anywhere}.note-status{padding-inline:9px;font-size:12px}.note-status:not(:empty),.note-current:not(:empty){margin:5px 0}.note-action[hidden]{display:none}
+@media(max-width:650px){#deals table{min-width:0}#deals thead{position:absolute;clip-path:inset(50%);width:1px;height:1px;overflow:hidden}#deals tbody tr{display:grid;grid-template-columns:minmax(0,1fr) auto;padding:12px;border-bottom:1px solid var(--line)}#deals tbody :is(td,th){position:static;border:0;padding:3px 4px;overflow-wrap:anywhere}#deals td:nth-child(n+3){grid-column:1/-1}#deals td:last-child{border-top:1px solid var(--line);margin-top:6px}#deals .public-note{font-size:16px}}
+</style><main><header><h1>Store coverage</h1><button id="refresh" aria-label="Refresh checkpoint" title="Refresh checkpoint"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 7v5h-5M19.5 11a7.5 7.5 0 1 0-2.2 6.5"/></svg></button></header><nav aria-label="Store views"><a href="#coverage">Coverage</a><a href="#black-friday">Black Friday Deal Monitor</a></nav><section id="coverage"><div class="meta"><span id="count">Store checkpoints</span><span id="status" role="status">Loading…</span></div><div class="wrap" tabindex="0" role="region" aria-label="Store coverage table"><table><thead><tr id="head"></tr></thead><tbody id="rows"></tbody></table></div><footer><span>Crawl success = unique product URLs with saved records / known scoped product URLs, including unresolved candidates. Historical coverage, not fresh reads or whole-store coverage.</span><span>Attribute coverage measures field presence, not independently verified accuracy.</span><span>— Not measured</span><span>Open a store name for scope.</span></footer></section><section id="black-friday" hidden aria-label="Black Friday Deal Monitor"><div class="meta"><span id="deal-count">Store deals</span><span id="deal-status" role="status">Loading…</span></div><p id="notes-info"><small>Public notes autosave. Anyone can edit or clear them.</small></p><div id="deals"></div></section></main><script>
 const $=s=>document.querySelector(s), cols={color:'Color',category:'Category',named:'Material named',composition:'Material % known',size:'Size',price:'Price',currency:'Currency',sale:'Sale',available:'Stock',image:'Image'}, fmt=n=>n.toLocaleString(), node=(tag,text)=>{const e=document.createElement(tag);if(text!=null)e.textContent=text;return e}, valid=n=>Number.isInteger(n)&&n>=0;
 for(const label of ['Store','Product-URL crawl success','Avg. field coverage','Field basis',...Object.values(cols),'Checkpoint']){const th=node('th',label);th.scope='col';$('#head').append(th)}
 function percent(n,d){if(!valid(n)||!valid(d)||!d||n>d)return '—';if(n===d)return '100%';if(n===0)return '0%';const p=100*n/d;return p>99.9?'>99.9%':p<0.1?'<0.1%':Number(p.toFixed(1))+'%'}
@@ -29,19 +31,88 @@ const dealTargets={
   'Yohji Yamamoto':[['bf26: 10% off eligible brands','/blogs/news/bf2026']]
 };
 function linkedOffer(cell,s){let text=cell.textContent;if(!text||s.status!=='verified_offer'||!/^https:\/\//i.test(s.source))return;const out=document.createDocumentFragment();for(const [phrase,path] of dealTargets[s.name]||[]){const i=text.indexOf(phrase);if(i<0)continue;out.append(text.slice(0,i));const a=node('a',phrase);a.href=new URL(path,s.source).href;out.append(a);text=text.slice(i+phrase.length)}out.append(text);cell.replaceChildren(out)}
+const NOTES_URL='https://black-friday-deal-monitor-notes.wren-tools.workers.dev/notes';
+const editors=new Map();
+const emptyNote={text:'',version:0};
+function record(value){
+  if(typeof value?.text!=='string'||!Number.isSafeInteger(value.version)||value.version<0)throw Error('Invalid note');
+  return value;
+}
+async function readNotes(){
+  const r=await fetch(NOTES_URL,{cache:'no-store',credentials:'omit',signal:AbortSignal.timeout(15000)});
+  if(!r.ok)throw Error();
+  const {notes}=await r.json();
+  if(!notes||typeof notes!=='object'||Array.isArray(notes))throw Error();
+  return new Map(Object.entries(notes).map(([name,value])=>[name,record(value)]));
+}
+function makeEditor(store){
+  const cell=node('td'),input=node('textarea'),status=node('small'),current=node('div'),action=node('button');
+  input.className='public-note';input.rows=1;input.placeholder='+ Public note';input.disabled=true;
+  input.setAttribute('aria-label','Public note for '+store);input.setAttribute('aria-describedby','notes-info');
+  status.className='note-status';status.setAttribute('role','status');current.className='note-current';
+  action.className='note-action';action.hidden=true;cell.append(input,status,current,action);
+  let base=null,mode='loading',timer,review;
+  function state(next,message,label){mode=next;status.textContent=message;action.hidden=!label;action.textContent=label||''}
+  function receive(remote){
+    if(base&&(mode!=='clean'||document.activeElement===input||remote.version<base.version))return;
+    base=remote;input.value=remote.text;input.disabled=false;state('clean','','');
+  }
+  function queue(){clearTimeout(timer);if(['saving','conflict','review','reading','error'].includes(mode))return;
+    state('dirty','Unsaved');timer=setTimeout(save,650);
+  }
+  async function save(){
+    if(!base||!['dirty','error','review'].includes(mode))return;
+    const text=input.value,version=base.version;
+    state('saving','Saving…');current.textContent='';
+    try{
+      const r=await fetch(NOTES_URL,{method:'PUT',credentials:'omit',headers:{'Content-Type':'application/json'},body:JSON.stringify({store,text,version}),signal:AbortSignal.timeout(15000)});
+      if(r.status===409){state('conflict','Conflict · Draft kept','Compare latest');return}
+      if(!r.ok)throw Error();const saved=record(await r.json());if(saved.version<=version)throw Error();
+      base=saved;state('clean','Saved');
+      if(input.value===text)input.value=saved.text;else queue();
+    }catch{state('error','Save failed · Draft kept','Retry save')}
+  }
+  input.oninput=queue;input.onblur=()=>{if(mode==='dirty'){clearTimeout(timer);save()}};
+  action.onclick=async()=>{
+    if(mode==='error'){save();return}
+    if(mode==='review'){base=review;save();return}
+    if(mode!=='conflict')return;
+    state('reading','Loading latest…');
+    try{review=(await readNotes()).get(store)||emptyNote;current.textContent='Shared now: '+(review.text||'(empty)');
+      state('review','Conflict · Autosave paused. Compare your draft with the shared note.','Save my version');input.focus();
+    }catch{state('conflict','Latest unavailable · Draft kept','Compare latest')}
+  };
+  return {cell,receive,canRemove:()=>['clean','loading'].includes(mode)&&!cell.contains(document.activeElement),unavailable(){if(!base)state('loading','Notes unavailable · Use ↻ to retry')}};
+}
+async function refreshNotes(){
+  try{const notes=await readNotes();for(const [name,e] of editors)e.receive(notes.get(name)||emptyNote)}
+  catch{for(const e of editors.values())e.unavailable()}
+}
 async function dealRefresh(){
   try{
     const r=await fetch('black-friday-monitor.json?check='+Date.now(),{cache:'no-store',signal:AbortSignal.timeout(15000)});
     if(!r.ok)throw Error(); const {stores,checked_at}=await r.json();
     if(!Array.isArray(stores)||!stores.length||!Number.isFinite(Date.parse(checked_at))||stores.some(s=>!s||['name','status','note','source'].some(k=>typeof s[k]!=='string')))throw Error();
-    const body=document.createDocumentFragment();
-    const table=node('table'),head=table.createTHead().insertRow(),rows=table.createTBody();table.setAttribute('aria-label','Black Friday deals');for(const title of ['Store','Status','Deal details','Notes']){const h=node('th',title);h.scope='col';head.append(h)}
-    for(const s of [...stores].sort((a,b)=>group(a)-group(b)||offerRank(b)-offerRank(a)||a.name.localeCompare(b.name,'en'))){const tr=rows.insertRow(),th=node('th');th.scope='row';if(/^https?:\/\//i.test(s.source)){const a=node('a',s.name);a.href=s.source;a.rel='noreferrer';th.append(a)}else th.textContent=s.name;tr.append(th);tr.insertCell().append(node('strong',dealLabels[s.status]||s.status.replaceAll('_',' ')));for(const text of dealCells(s))tr.insertCell().textContent=text}
-    const byName=new Map(stores.map(s=>[s.name,s]));for(const tr of rows.rows)linkedOffer(tr.cells[2],byName.get(tr.cells[0].textContent));
-    body.append(table);$('#deals').className='wrap';$('#deals').replaceChildren(body);dealStamp=new Date(checked_at).toLocaleString();$('#deal-count').textContent=stores.length+(stores.length===1?' store':' stores');$('#deal-status').textContent='Last checked '+dealStamp;
+    let table=$('#deals table');
+    if(!table){table=node('table');table.setAttribute('aria-label','Black Friday deals');const head=table.createTHead().insertRow();for(const title of ['Store','Status','Deal details','Public notes']){const h=node('th',title);h.scope='col';head.append(h)}table.createTBody();$('#deals').className='wrap';$('#deals').append(table)}
+    const rows=table.tBodies[0],seen=new Set();
+    for(const [index,s] of [...stores].sort((a,b)=>group(a)-group(b)||offerRank(b)-offerRank(a)||a.name.localeCompare(b.name,'en')).entries()){
+      seen.add(s.name);if(!editors.has(s.name))editors.set(s.name,makeEditor(s.name));
+      const e=editors.get(s.name);let tr=e.cell.parentElement;
+      if(!tr){tr=rows.insertRow();tr.append(node('th'),node('td'),node('td'),e.cell)}
+      const [th,status,details]=tr.cells;th.scope='row';
+      if(tr.dataset.snapshot!==JSON.stringify(s)){
+        if(/^https?:\/\//i.test(s.source)){const a=node('a',s.name);a.href=s.source;a.rel='noreferrer';th.replaceChildren(a)}else th.textContent=s.name;
+        status.replaceChildren(node('strong',dealLabels[s.status]||s.status.replaceAll('_',' ')));
+        const [offer,extra]=dealCells(s);details.textContent=offer;linkedOffer(details,s);if(extra)details.append(node('small',extra));tr.dataset.snapshot=JSON.stringify(s);
+      }
+      if(rows.rows[index]!==tr&&!rows.contains(document.activeElement))rows.insertBefore(tr,rows.rows[index]||null);
+    }
+    for(const [name,e] of editors)if(!seen.has(name)&&e.canRemove()){e.cell.parentElement.remove();editors.delete(name)}
+    dealStamp=new Date(checked_at).toLocaleString();$('#deal-count').textContent=stores.length+(stores.length===1?' store':' stores');$('#deal-status').textContent='Last checked '+dealStamp;
   }catch{$('#deal-status').textContent=dealStamp?'Refresh failed · Last checked '+dealStamp:'Monitor unavailable · Retry with ↻'}
 }
-async function refresh(){const view=active;if(pending.has(view))return;pending.add(view);$('#refresh').disabled=true;try{await (view==='coverage'?coverageRefresh():dealRefresh())}finally{pending.delete(view);$('#refresh').disabled=pending.has(active)}}
+async function refresh(){const view=active;if(pending.has(view))return;pending.add(view);$('#refresh').disabled=true;try{await (view==='coverage'?coverageRefresh():dealRefresh().then(refreshNotes))}finally{pending.delete(view);$('#refresh').disabled=pending.has(active)}}
 function selectView(){active=location.hash==='#black-friday'?'black-friday':'coverage';for(const link of document.querySelectorAll('nav a')){const selected=link.hash==='#'+active;$(link.hash).hidden=!selected;if(selected)link.setAttribute('aria-current','page');else link.removeAttribute('aria-current')}$('#refresh').title=active==='coverage'?'Refresh checkpoint':'Refresh deal monitor';$('#refresh').setAttribute('aria-label',$('#refresh').title);$('#refresh').disabled=pending.has(active);refresh()}
 window.addEventListener('hashchange',selectView);$('#refresh').onclick=refresh;document.addEventListener('visibilitychange',()=>{if(!document.hidden)refresh()});setInterval(()=>{if(!document.hidden)refresh()},60000);selectView();
 </script></html>
