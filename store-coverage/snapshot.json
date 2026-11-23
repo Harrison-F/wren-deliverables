@@ -200,13 +200,13 @@
     },
     {
       "name": "Helmut Lang",
-      "status": "not measured",
+      "status": "blocked",
       "checkpoint": null,
       "unit": null,
       "total": null,
       "cached": null,
       "discovered": null,
-      "scope": "No scoped AT/CT checkpoint.",
+      "scope": "Blocked: Product pages 403 in direct request and browser; robots/sitemaps open (2026-11-23).",
       "fields": {
         "color": null,
         "category": null,
@@ -266,13 +266,13 @@
     },
     {
       "name": "PRM",
-      "status": "not measured",
+      "status": "blocked",
       "checkpoint": null,
       "unit": null,
       "total": null,
       "cached": null,
       "discovered": null,
-      "scope": "No scoped AT/CT checkpoint.",
+      "scope": "Blocked: robots.txt 403 challenge (2026-11-23).",
       "fields": {
         "color": null,
         "category": null,
@@ -310,13 +310,13 @@
     },
     {
       "name": "Saks Fifth Avenue",
-      "status": "not measured",
+      "status": "blocked",
       "checkpoint": null,
       "unit": null,
       "total": null,
       "cached": null,
       "discovered": null,
-      "scope": "No scoped AT/CT checkpoint.",
+      "scope": "Blocked: robots.txt 403 challenge (2026-11-23).",
       "fields": {
         "color": null,
         "category": null,
@@ -376,13 +376,13 @@
     },
     {
       "name": "SSENSE",
-      "status": "not measured",
+      "status": "blocked",
       "checkpoint": null,
       "unit": null,
       "total": null,
       "cached": null,
       "discovered": null,
-      "scope": "No scoped AT/CT checkpoint.",
+      "scope": "Blocked: robots.txt 403 Cloudflare challenge (2026-11-23).",
       "fields": {
         "color": null,
         "category": null,
