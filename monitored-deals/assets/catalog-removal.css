@@ -1,5 +1,13 @@
 .clothing-catalog .catalog-removal {display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin:0 0 24px;font-size:13px;}
-.clothing-catalog .catalog-removal button,.clothing-catalog .remove-item {min-width:44px;min-height:44px;padding:0 12px;border:1px solid var(--line);background:white;color:var(--ink);font:13px Arial,sans-serif;cursor:pointer;}
-.clothing-catalog .remove-item {margin-top:8px;}
+.clothing-catalog .catalog-removal button,.clothing-catalog .catalog-actions button {min-width:44px;min-height:44px;padding:0 12px;border:1px solid var(--line);background:white;color:var(--ink);font:13px Arial,sans-serif;cursor:pointer;}
 .clothing-catalog .removal-note {color:var(--muted);}
-.clothing-catalog .catalog-removal button:hover,.clothing-catalog .remove-item:hover {background:#f3f4f5;}
+.clothing-catalog .catalog-removal button:hover,.clothing-catalog .catalog-actions button:hover {background:#f3f4f5;}
+.clothing-catalog .catalog-removal button[aria-pressed=true] {background:var(--ink);color:white;}
+.clothing-catalog .catalog-removal button:focus-visible,.clothing-catalog .catalog-actions button:focus-visible {outline:2px solid var(--ink);outline-offset:3px;}
+/* Stretch the grid row itself, not just each naturally sized card's body. */
+.research.clothing-catalog .natural-basics .display-template {align-items:stretch;}
+.clothing-catalog .display-card {display:flex;flex-direction:column;}
+.clothing-catalog .card-body {display:flex;flex:1;flex-direction:column;align-items:flex-start;}
+.clothing-catalog .catalog-actions {display:flex;justify-content:flex-start;align-items:stretch;gap:8px;margin-top:auto;padding-top:8px;}
+.clothing-catalog .catalog-actions button {margin:0;}
+.clothing-catalog .display-card[hidden] {display:none;}
