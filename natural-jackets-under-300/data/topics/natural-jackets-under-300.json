@@ -10759,6 +10759,67 @@
           "url": "https://industryofallnations.com/products/wild-hoodie?variant=43859643629815"
         }
       ]
+    },
+    {
+      "id": "jacket-0e437fc98353",
+      "name": "PRM · A.P.C. Veste Kerlouan Brodee men's cotton transitional jacket beige COHGI.H03205",
+      "url": "https://prm.com/us/p/a-p-c-veste-kerlouan-brodee-mens-cotton-transitional-jacket-beige-cohgi-h03205-88810",
+      "store": "PRM",
+      "brand": "PRM",
+      "category": "Jacket",
+      "color": "beige",
+      "unitPriceUSD": 279.9,
+      "priceLabel": "$279.90",
+      "facts": {
+        "Fabric": "Entire product: 100% Cotton",
+        "Size": "M",
+        "Observed": "2026-11-23T17:56:06.601714-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/prm-ab6d1f354f3e9fa336f8.webp",
+          "alt": "PRM · A.P.C. Veste Kerlouan Brodee men's cotton transitional jacket beige COHGI.H03205"
+        },
+        {
+          "src": "assets/images/prm-18194c74748a4612f0d3.webp",
+          "alt": "PRM · A.P.C. Veste Kerlouan Brodee men's cotton transitional jacket beige COHGI.H03205"
+        },
+        {
+          "src": "assets/images/prm-2ffa3759a482907235a4.webp",
+          "alt": "PRM · A.P.C. Veste Kerlouan Brodee men's cotton transitional jacket beige COHGI.H03205"
+        },
+        {
+          "src": "assets/images/prm-e15838acbf296627c91b.webp",
+          "alt": "PRM · A.P.C. Veste Kerlouan Brodee men's cotton transitional jacket beige COHGI.H03205"
+        },
+        {
+          "src": "assets/images/prm-8d6f1a486b95bcfcd397.webp",
+          "alt": "PRM · A.P.C. Veste Kerlouan Brodee men's cotton transitional jacket beige COHGI.H03205"
+        },
+        {
+          "src": "assets/images/prm-a7a312f6936aec2b1a32.webp",
+          "alt": "PRM · A.P.C. Veste Kerlouan Brodee men's cotton transitional jacket beige COHGI.H03205"
+        }
+      ],
+      "image": "assets/images/prm-ab6d1f354f3e9fa336f8.webp",
+      "imageAlt": "PRM · A.P.C. Veste Kerlouan Brodee men's cotton transitional jacket beige COHGI.H03205",
+      "deal": "M",
+      "summary": "M",
+      "verdict": "Jacket",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "M",
+          "url": "https://prm.com/us/p/a-p-c-veste-kerlouan-brodee-mens-cotton-transitional-jacket-beige-cohgi-h03205-88810",
+          "variantId": "380462",
+          "originalPriceUSD": 439.9
+        }
+      ],
+      "materialPercentUnidentified": false,
+      "integrityRank": 0,
+      "naturalPercent": null
     }
   ],
   "sources": [
@@ -12056,6 +12117,13 @@
       "title": "Industry of All Nations · Wild Hoodie — Caramel",
       "type": "First-party product evidence",
       "note": "Exact variant stock and price checked 2026-11-24T02:54:46.168250+00:00"
+    },
+    {
+      "id": "jacket-0e437fc98353",
+      "url": "https://prm.com/us/p/a-p-c-veste-kerlouan-brodee-mens-cotton-transitional-jacket-beige-cohgi-h03205-88810",
+      "title": "PRM · A.P.C. Veste Kerlouan Brodee men's cotton transitional jacket beige COHGI.H03205",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:56:06.601714-05:00"
     }
   ]
 }
