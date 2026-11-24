@@ -1,0 +1,140 @@
+import * as deals from './monitored-deals-cards.js?v=c442a52efdd6';
+import * as jackets from './natural-jackets-under-300-cards.js?v=889ef1ea4316';
+const sources=[
+ {id:'monitored-deals',label:'Monitored deals',native:deals,api:'https://monitored-deals-shortlist.wren-tools.workers.dev/state'},
+ {id:'natural-jackets-under-300',label:'Natural outerwear',native:jackets,api:'https://jacket-shared-archive.wren-tools.workers.dev/shortlist/state'}
+];
+const view=location.pathname.includes('/selected/')?'selected':'considering';
+// Keep each view's last receipt independent of shortlist state.
+const receiptKey='universal-picks:toolbar:v1:'+view;
+function get(k){try{return localStorage.getItem(receiptKey+k)}catch{return null}}
+function put(k,v){try{localStorage.setItem(receiptKey+k,v)}catch{}}
+ function mount(bar,details,endpoint){const form=document.createElement('form');form.className='deals-intake';const field=document.createElement('input'),save=document.createElement('button'),msg=document.createElement('span');field.type='url';field.required=true;field.maxLength=850;field.placeholder='Product URL';field.setAttribute('aria-label','Product URL');save.textContent='Save';save.type='submit';msg.setAttribute('role','status');msg.className='intake-status';form.append(field,save);bar.append(form);details.append(msg);
+ const api=new URL('/intake',endpoint);function describe(r){return r.status==='matched'?'Matched an existing card. Shortlist unchanged.':'Saved for review. No verified card yet.'}
+ const prior=get(':receipt');if(prior&&/^[a-f0-9-]{36}$/.test(prior))fetch(api+'/'+prior,{credentials:'omit',cache:'no-store'}).then(r=>r.ok?r.json():null).then(r=>{if(r&&!msg.textContent)msg.textContent=describe(r)}).catch(()=>{});
+ form.onsubmit=async e=>{e.preventDefault();save.disabled=true;msg.textContent='Saving…';try{const res=await fetch(api,{method:'POST',credentials:'omit',redirect:'error',signal:AbortSignal.timeout(10000),headers:{'Content-Type':'application/json'},body:JSON.stringify({url:field.value.trim()})});const r=await res.json();if(!res.ok)throw Error(r.error||'Save failed.');put(':receipt',r.receipt);msg.textContent=(r.duplicate?'Already submitted. ':'')+describe(r);field.value=''}catch(err){msg.textContent=err.message||'Save not confirmed.'}finally{save.disabled=false}}}
+
+mount(document.querySelector('.picks-head nav'),document.querySelector('.picks-tools'),sources[0].api);
+const links=[...document.querySelectorAll('[data-view]')],grid=document.querySelector('.display-template');
+const current=links.find(a=>a.dataset.view===view);current.setAttribute('aria-current','page');
+const $=id=>document.getElementById(id),undo=$('undo'),retry=$('refresh'),notice=$('notice');
+const actions=[['removed','remove-item','🗑︎','Remove'],['considering','consider-item','🤔','Consider'],['selected','select-item','✓','Select']];
+let busy=false,last=null;
+const valid=r=>r&&['active','removed','considering','selected'].includes(r.state)&&Number.isSafeInteger(r.version)&&r.version>=0;
+async function request(url,opts={}){const r=await fetch(url,{cache:'no-store',redirect:'error',credentials:'omit',signal:AbortSignal.timeout(12000),...opts});if(!r.ok)throw Object.assign(Error(),{status:r.status});return r.json()}
+async function read(s){const data=await request(s.api);if(!data.items||Array.isArray(data.items)||typeof data.items!=='object'||!Object.values(data.items).every(valid))throw Error();s.rows=data.items;}
+const reviewedGalleries={
+  "deal-62491cbcdb43a9e2": {
+    "url": "https://www.yitai.la/products/grey-shirt-25850?variant=47415236559078",
+    "photos": [
+      "assets/images/gallery-12f4cd955c41a3cb35121ab8.webp",
+      "assets/images/pick-9596d030f746acf96ec3.webp",
+      "assets/images/pick-f4b368e7e0701b915471.webp",
+      "assets/images/pick-38c741823f403be6a544.webp",
+      "assets/images/pick-752a0c1b7a32af3d538c.webp",
+      "assets/images/pick-d15ba54e5669c7510bcb.webp",
+      "assets/images/pick-0ce416e8117afd69e9ca.webp",
+      "assets/images/pick-01a489d07823a16926cf.webp"
+    ]
+  },
+  "deal-561b1a71aa980109": {
+    "url": "https://scrt.onl/products/super-heavy-waffle-sweat-black?variant=53684000752001",
+    "photos": [
+      "assets/images/pick-b75402106e8356407acc.webp",
+      "assets/images/pick-8f926b45b1f05f7374c3.webp",
+      "assets/images/pick-cb6bad49b83a8ed44dc2.webp",
+      "assets/images/pick-4ab63c1a0d3620dace6b.webp"
+    ]
+  },
+  "deal-47b2d09b20cb0ec7": {
+    "url": "https://scrt.onl/products/900gsm-heavyweight-hoodie-black?variant=44521839952023",
+    "photos": [
+      "assets/images/pick-6694bf83cc255f36b899.webp",
+      "assets/images/pick-40d1ea02cabd53af602f.webp",
+      "assets/images/pick-0a14bf65161d2002bd3d.webp",
+      "assets/images/pick-de6d72831e297f0b9dac.webp"
+    ]
+  },
+  "deal-e4b6a797e91bd648": {
+    "url": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-jacket-63899372?seq=01",
+    "photos": [
+      "assets/images/pick-c961b41cf831fde83f75.webp",
+      "assets/images/pick-a1ea7258748cb8dba577.webp",
+      "assets/images/pick-aa18f1a40ae2d7d7c95e.webp",
+      "assets/images/manual-anf-63899935.jpg",
+      "assets/images/pick-d562067c61d26d22b710.webp",
+      "assets/images/pick-1e7d11482b5c4d5d807f.webp",
+      "assets/images/pick-0e8499bf6d62b24fc765.webp",
+      "assets/images/pick-714e1f0a139279cff561.webp",
+      "assets/images/pick-142077f357411024e9ab.webp"
+    ]
+  },
+  "deal-21f962cd08003f45": {
+    "url": "https://www.saksfifthavenue.com/product/7-for-all-mankind-corduroy-full-zip-shirt-jacket-0400026862929.html?dwvar_0400026862929_color=SMOLDER",
+    "photos": [
+      "assets/images/pick-d51ef319cdc0e2148218.webp",
+      "assets/images/pick-12db36cb67d5ec4a42b3.webp",
+      "assets/images/pick-fef8ac31140e5321168f.webp",
+      "assets/images/pick-2f2f92783a7707cf0e5d.webp",
+      "assets/images/pick-970fdc759965539e87a6.webp",
+      "assets/images/pick-7e985dbe6125cb363401.webp"
+    ]
+  },
+  "carpenter-reference": {
+    "url": "https://www.helmutlang.com/carpenter-jacket/Q10DM101_EAH.html",
+    "photos": [
+      "assets/images/pick-4b0ff46a2470ce6fa204.webp",
+      "assets/images/pick-9fb8dc8493173adbe9ac.webp",
+      "assets/images/pick-5f89325b396fec2aa118.webp",
+      "assets/images/pick-c3d59d3427e3b09bbd8a.webp",
+      "assets/images/pick-29456dda57d1d7c4b394.webp",
+      "assets/images/pick-c66223082ad1a838ee6b.webp",
+      "assets/images/pick-ac0450dd7142837e9dde.webp",
+      "assets/images/pick-c68d90c1cc64f533ded8.webp"
+    ]
+  }
+}
+;
+function withReviewedGallery(p){
+ const g=reviewedGalleries[p.id];if(!g||p.url!==g.url)return p;
+ const images=g.photos.map((src,i)=>({src,alt:`${p.name}, photo ${i+1} of ${g.photos.length}`}));
+ return {...p,image:images[0].src,imageAlt:images[0].alt,images,imageNote:'Exact product and color gallery.'};
+}
+const reference=document.querySelector('#carpenter-reference');
+if(reference){
+ const link=reference.querySelector('a');const p=withReviewedGallery({id:reference.id,url:link.href,name:link.querySelector('img').alt,facts:{},sizeLinks:[]});
+ if(p.images)link.replaceWith(deals.card(p,{products:[p]}).querySelector('.product-gallery'));
+}
+
+async function catalog(s){const base='../../'+s.id+'/data/';let [topic,overlay]=await Promise.all([request(base+'topics/'+s.id+'.json'),s.native===deals?request(base+'retailer-promotion-overlay.json'):null]);s.topic=s.native.prepare(topic,overlay);if(s.native===deals)s.topic={...s.topic,products:s.topic.products.map(withReviewedGallery)};s.products=new Map(s.topic.products.map(p=>[p.id,p]));s.nodes=new Map();}
+// Read material disclosures, not titles, prices, care text or missing-data flags.
+const synthetic=/\b(?:polyester|polyamide|nylon|polyurethane|elastane|spandex|lycra|acrylic|modacrylic|polypropylene|polyethylene|elastomultiester|elasterell|synthetic (?:fib(?:er|re)s?|lining|fill))\b/i;
+function hasSynthetic(p){return Object.entries(p.facts||{}).some(([key,value])=>/^(?:fabric|material|composition|shell|outer|body|lining|sleeve lining|body lining|fill|filling|padding|insulation|blend)$/i.test(key)&&String(value).split(/[;|]/).some(s=>!/^\s*trims?\s*:/i.test(s)&&synthetic.test(s)&&!(/\b(?:no|without|unknown|unverified|unspecified|free of)\b/i.test(s))));}
+function evidencedProduct(p){
+ // Exact SMOLDER maker style 7TEL0E53-3TZ; fabric-composition on
+ // https://7forallmankind.com/products/zip-overshirt-in-corduroy-smolder
+ if(p.id==='deal-21f962cd08003f45'&&p.url==='https://www.saksfifthavenue.com/product/7-for-all-mankind-corduroy-full-zip-shirt-jacket-0400026862929.html?dwvar_0400026862929_color=SMOLDER'&&p.facts?.Fabric==='Composition unverified')return {...p,facts:{...p.facts,Fabric:'98% cotton, 2% elastane (manufacturer)'}};
+ return p;
+}
+function node(s,p){if(s.nodes.has(p.id))return s.nodes.get(p.id);
+ const card=s.native.card(p,s.topic);card.dataset.productId=p.id;card.dataset.scope=s.id;
+ const group=document.createElement('div');group.className='catalog-actions';
+ for(const [state,cls,icon,verb] of actions){const b=document.createElement('button');b.type='button';b.className=cls;b.textContent=icon;b.title=(view===state?'Restore to Items: ':verb+' ')+p.name;b.setAttribute('aria-label',b.title);b.setAttribute('aria-pressed',String(view===state));b.onclick=()=>move(s,p.id,view===state?'active':state);group.append(b)}
+ card.querySelector('.card-body').append(group);s.nodes.set(p.id,card);return card;}
+function render(){const ready=sources.every(s=>s.ready),entries=[],missing=[],warnings=[];
+ for(const s of sources){if(!s.ready){warnings.push(s.label+' unavailable. Refresh to retry.');continue}
+ for(const [id,r] of Object.entries(s.rows)){if(r.state!==view)continue;const p=s.products.get(id);if(!p){missing.push(id);continue}const product=evidencedProduct(p),el=node(s,product);entries.push({el,inspiration:view==='considering'&&hasSynthetic(product),key:s.id+':'+id,price:s.native.price(p)});}}
+ entries.sort((a,b)=>a.price-b.price||a.key.localeCompare(b.key));grid.replaceChildren(...entries.filter(x=>!x.inspiration).map(x=>x.el));
+ const styleGrid=$('style-grid');if(styleGrid)styleGrid.replaceChildren(...entries.filter(x=>x.inspiration).map(x=>x.el),$('carpenter-reference'));
+ for(const a of links)a.querySelector('b').textContent=ready?sources.reduce((n,s)=>n+Object.values(s.rows).filter(r=>r.state===a.dataset.view).length,0):'—';
+ $('summary').textContent=[entries.length?`${entries.length} picks · Price: low to high`:ready?'No picks in this view.':'',...warnings,missing.length?'No longer in current catalog: '+missing.join(', '):''].filter(Boolean).join(' · ');
+ undo.hidden=!last;lock(false);}
+function lock(on){busy=on;retry.disabled=on;undo.disabled=on;document.querySelectorAll('.catalog-actions button').forEach(b=>b.disabled=on)}
+async function refresh(){if(busy)return;lock(true);await Promise.all(sources.map(async s=>{try{await Promise.all([s.topic?null:catalog(s),read(s)]);s.ready=true}catch{s.ready=false}}));render();}
+async function move(s,id,next,back=false){if(busy||!s.ready)return;const row=s.rows[id];if(back&&last.version!==row.version){last=null;notice.textContent='Undo unavailable: the item changed.';render();return}lock(true);
+ try{const saved=await request(s.api,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({id,state:next,version:row.version})});if(!valid(saved)||saved.state!==next||saved.version<=row.version)throw Error();s.rows[id]=saved;last=back?null:{s,id,before:row.state,version:saved.version};notice.textContent=back?'Move undone.':'Item moved.';}
+ catch(e){notice.textContent=e.status===409?'Another editor changed the shortlist. Review before editing.':'Save not confirmed. Refresh before editing.';s.ready=false;if(e.status===409){try{await read(s);s.ready=true}catch{}}}render();(last?undo:current).focus({preventScroll:true});}
+undo.onclick=()=>{if(last)move(last.s,last.id,last.before,true)};retry.onclick=refresh;document.addEventListener('visibilitychange',()=>{if(!document.hidden)refresh()});
+const dialog=document.querySelector('dialog');dialog.querySelector('button').onclick=()=>dialog.close();dialog.onclick=e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close()}};
+const key='universal-picks:scroll:'+(view==='considering'?'consideration':view);let target=Number(sessionStorage.getItem(key)),restore=target>0;if('scrollRestoration'in history)history.scrollRestoration='manual';for(const e of ['wheel','touchstart','pointerdown','keydown'])addEventListener(e,()=>restore=false,{passive:true});addEventListener('pagehide',()=>{if(!restore)sessionStorage.setItem(key,scrollY)});
+refresh().then(()=>{if(location.hash==='#unnatural-fibers-style-inspiration'){$('style-grid')?.parentElement.scrollIntoView();restore=false}else if(restore){scrollTo(0,target);restore=false}});
