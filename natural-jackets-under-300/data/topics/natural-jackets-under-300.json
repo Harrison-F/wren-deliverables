@@ -10820,6 +10820,4782 @@
       "materialPercentUnidentified": false,
       "integrityRank": 0,
       "naturalPercent": null
+    },
+    {
+      "id": "jacket-d6762ac758140bea",
+      "name": "Hawes & Curtis · Black Half Zip Merino Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/black-half-zip-merino-jumper-machine-washable-jwpwh001-a01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Black",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-d6e23cea43ae1750b7068952.webp",
+          "alt": "Hawes & Curtis · Black Half Zip Merino Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-60760eb3b8fbc49375dd5435.webp",
+          "alt": "Hawes & Curtis · Black Half Zip Merino Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-a19302ee394da4560f8b4251.webp",
+          "alt": "Hawes & Curtis · Black Half Zip Merino Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-fcf8f8bc7268fa45026178a7.webp",
+          "alt": "Hawes & Curtis · Black Half Zip Merino Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-40e6122eb128011e500e1f51.webp",
+          "alt": "Hawes & Curtis · Black Half Zip Merino Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/black-half-zip-merino-jumper-machine-washable-jwpwh001-a01",
+          "variantId": "232656",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/black-half-zip-merino-jumper-machine-washable-jwpwh001-a01",
+          "variantId": "232619",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-d6e23cea43ae1750b7068952.webp",
+      "imageAlt": "Hawes & Curtis · Black Half Zip Merino Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-24ac8acd385b8dc8",
+      "name": "Hawes & Curtis · Blue Half Zip Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/blue-half-zip-sweater-machine-washable-jwpwh001-b01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Blue",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-388fe50bee468351e7ef9f48.webp",
+          "alt": "Hawes & Curtis · Blue Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-c33c213c8390eaa0ab0e0c5f.webp",
+          "alt": "Hawes & Curtis · Blue Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-7c7eed0098cce165e0272dbc.webp",
+          "alt": "Hawes & Curtis · Blue Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-d02e0cf96d58ffeed2185c57.webp",
+          "alt": "Hawes & Curtis · Blue Half Zip Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/blue-half-zip-sweater-machine-washable-jwpwh001-b01",
+          "variantId": "245637",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/blue-half-zip-sweater-machine-washable-jwpwh001-b01",
+          "variantId": "245638",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-388fe50bee468351e7ef9f48.webp",
+      "imageAlt": "Hawes & Curtis · Blue Half Zip Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-48660f306f7e33d2",
+      "name": "Hawes & Curtis · Brown Half Zip Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/brown-half-zip-jumper-machine-washable-jwpwh001-c01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Brown",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-e5b200581ea48eb2104feef6.webp",
+          "alt": "Hawes & Curtis · Brown Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-988b5f248d833830ad345b76.webp",
+          "alt": "Hawes & Curtis · Brown Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-55a7322e81db46cb976a1e92.webp",
+          "alt": "Hawes & Curtis · Brown Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-6d0c0c8ecc1eafdc53e2deb9.webp",
+          "alt": "Hawes & Curtis · Brown Half Zip Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/brown-half-zip-jumper-machine-washable-jwpwh001-c01",
+          "variantId": "259576",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/brown-half-zip-jumper-machine-washable-jwpwh001-c01",
+          "variantId": "259575",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-e5b200581ea48eb2104feef6.webp",
+      "imageAlt": "Hawes & Curtis · Brown Half Zip Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-fb2596d741c36dba",
+      "name": "Hawes & Curtis · Claret Half Zip Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/claret-half-zip-merino-jumper-machine-washable-jwpwh001-k97",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Claret",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-bfa3b26c0fc33dae85c6c4a4.webp",
+          "alt": "Hawes & Curtis · Claret Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-c45d14f342eb3a9ba0ea7afe.webp",
+          "alt": "Hawes & Curtis · Claret Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-abe1d86e5dab7403dfc1b262.webp",
+          "alt": "Hawes & Curtis · Claret Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-617eb681b35918c5a449d62a.webp",
+          "alt": "Hawes & Curtis · Claret Half Zip Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/claret-half-zip-merino-jumper-machine-washable-jwpwh001-k97",
+          "variantId": "232618",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/claret-half-zip-merino-jumper-machine-washable-jwpwh001-k97",
+          "variantId": "232563",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-bfa3b26c0fc33dae85c6c4a4.webp",
+      "imageAlt": "Hawes & Curtis · Claret Half Zip Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-01eed044dba1e232",
+      "name": "Hawes & Curtis · Cocoa Brown Collared Cardigan",
+      "url": "https://www.hawesandcurtis.com/cocoa-brown-collared-cardigan-jwpwl038-z87",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Brown",
+      "unitPriceUSD": 179.0,
+      "priceLabel": "$179.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-67ef480f2a5d050b801930f5.webp",
+          "alt": "Hawes & Curtis · Cocoa Brown Collared Cardigan"
+        },
+        {
+          "src": "assets/images/gallery-96e20cbe944ef58e82715f18.webp",
+          "alt": "Hawes & Curtis · Cocoa Brown Collared Cardigan"
+        },
+        {
+          "src": "assets/images/gallery-9132f31b8593c81db5f756aa.webp",
+          "alt": "Hawes & Curtis · Cocoa Brown Collared Cardigan"
+        },
+        {
+          "src": "assets/images/gallery-2fb3ba0b5aad6b308e1e4b96.webp",
+          "alt": "Hawes & Curtis · Cocoa Brown Collared Cardigan"
+        },
+        {
+          "src": "assets/images/gallery-6dfcbbd4634c77014300ad51.webp",
+          "alt": "Hawes & Curtis · Cocoa Brown Collared Cardigan"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/cocoa-brown-collared-cardigan-jwpwl038-z87",
+          "variantId": "263953",
+          "originalPriceUSD": 229.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/cocoa-brown-collared-cardigan-jwpwl038-z87",
+          "variantId": "263952",
+          "originalPriceUSD": 229.0
+        }
+      ],
+      "image": "assets/images/gallery-67ef480f2a5d050b801930f5.webp",
+      "imageAlt": "Hawes & Curtis · Cocoa Brown Collared Cardigan",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-564f10123fb392b0",
+      "name": "Hawes & Curtis · Cocoa Brown Half Zip Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/cocoa-brown-half-zip-jumper-machine-washable-jwpwh001-z85",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Cocoa Brown",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-7a53959408cc62b194a1fd8d.webp",
+          "alt": "Hawes & Curtis · Cocoa Brown Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-d73fba98bdfabc93cf9c7d29.webp",
+          "alt": "Hawes & Curtis · Cocoa Brown Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-aa132ce64a891d8133bf3dae.webp",
+          "alt": "Hawes & Curtis · Cocoa Brown Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-84e7a604f8e5e6e3539cd7df.webp",
+          "alt": "Hawes & Curtis · Cocoa Brown Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-7f2e257be872a970ff2905f8.webp",
+          "alt": "Hawes & Curtis · Cocoa Brown Half Zip Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/cocoa-brown-half-zip-jumper-machine-washable-jwpwh001-z85",
+          "variantId": "262327",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/cocoa-brown-half-zip-jumper-machine-washable-jwpwh001-z85",
+          "variantId": "262326",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-7a53959408cc62b194a1fd8d.webp",
+      "imageAlt": "Hawes & Curtis · Cocoa Brown Half Zip Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-16adb8715f8482f1",
+      "name": "Hawes & Curtis · Dark Green Half Zip Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/dark-green-half-zip-merino-jumper-machine-washable1-jwpwh001-e21",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Dark Green",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-d67c3bd6d4b6bcca9a487567.webp",
+          "alt": "Hawes & Curtis · Dark Green Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-8fb55e97132725b0d74f718e.webp",
+          "alt": "Hawes & Curtis · Dark Green Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-7a9eaf03eb9fae4d6bb9f4a3.webp",
+          "alt": "Hawes & Curtis · Dark Green Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-845c2ee2219f76856fa04254.webp",
+          "alt": "Hawes & Curtis · Dark Green Half Zip Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/dark-green-half-zip-merino-jumper-machine-washable1-jwpwh001-e21",
+          "variantId": "234299",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/dark-green-half-zip-merino-jumper-machine-washable1-jwpwh001-e21",
+          "variantId": "234306",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-d67c3bd6d4b6bcca9a487567.webp",
+      "imageAlt": "Hawes & Curtis · Dark Green Half Zip Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-53a7f1e6db73d607",
+      "name": "Hawes & Curtis · Dark Teal Half Zip Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/dark-teal-half-zip-jumper-machine-washable-jwpwh001-e42",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Dark Teal",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-0160c45c969e65e6adff07ef.webp",
+          "alt": "Hawes & Curtis · Dark Teal Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-b1cdc6815243bc43492f7232.webp",
+          "alt": "Hawes & Curtis · Dark Teal Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-535e5c0d33de1c0ca9c5d5d9.webp",
+          "alt": "Hawes & Curtis · Dark Teal Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-ec0d4b6a60c0f19ddfd11496.webp",
+          "alt": "Hawes & Curtis · Dark Teal Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-932e7f920ad2e8edf10e8f18.webp",
+          "alt": "Hawes & Curtis · Dark Teal Half Zip Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/dark-teal-half-zip-jumper-machine-washable-jwpwh001-e42",
+          "variantId": "262307",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/dark-teal-half-zip-jumper-machine-washable-jwpwh001-e42",
+          "variantId": "262306",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-0160c45c969e65e6adff07ef.webp",
+      "imageAlt": "Hawes & Curtis · Dark Teal Half Zip Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-521f28f27646a425",
+      "name": "Hawes & Curtis · Dusky Pink Half Zip Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/dusky-pink-half-zip-merino-jumper-machine-washable-jwpwh001-x02",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Dusky Pink",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-b4bcddeec1cbfa546f34eb5b.webp",
+          "alt": "Hawes & Curtis · Dusky Pink Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-8ee06a5bbe041c2312e93a0c.webp",
+          "alt": "Hawes & Curtis · Dusky Pink Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-760003373eddc5296bd37f17.webp",
+          "alt": "Hawes & Curtis · Dusky Pink Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-e4d8b7945c8c617b30858c78.webp",
+          "alt": "Hawes & Curtis · Dusky Pink Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-7a810ef66a3cf52c43dc894d.webp",
+          "alt": "Hawes & Curtis · Dusky Pink Half Zip Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/dusky-pink-half-zip-merino-jumper-machine-washable-jwpwh001-x02",
+          "variantId": "239648",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/dusky-pink-half-zip-merino-jumper-machine-washable-jwpwh001-x02",
+          "variantId": "239714",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-b4bcddeec1cbfa546f34eb5b.webp",
+      "imageAlt": "Hawes & Curtis · Dusky Pink Half Zip Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-6a6a950849882f0e",
+      "name": "Hawes & Curtis · Dusty Blue Half Zip Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/dusty-blue-half-zip-jumper-machine-washable-jwpwh001-z86",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Dusty Blue",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-24b76c970487649a50793536.webp",
+          "alt": "Hawes & Curtis · Dusty Blue Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-286bfcd662de989742005188.webp",
+          "alt": "Hawes & Curtis · Dusty Blue Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-29f107a6b8cb6eb96fd09df3.webp",
+          "alt": "Hawes & Curtis · Dusty Blue Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-b4ae4dad453fb5a3a6c617af.webp",
+          "alt": "Hawes & Curtis · Dusty Blue Half Zip Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/dusty-blue-half-zip-jumper-machine-washable-jwpwh001-z86",
+          "variantId": "262332",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/dusty-blue-half-zip-jumper-machine-washable-jwpwh001-z86",
+          "variantId": "262331",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-24b76c970487649a50793536.webp",
+      "imageAlt": "Hawes & Curtis · Dusty Blue Half Zip Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-583f8c9baede7f3d",
+      "name": "Hawes & Curtis · Grey Half Zip Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/grey-half-zip-merino-jumper-machine-washable-jwpwh001-f01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Grey",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-f67cd79974da72033b8f2763.webp",
+          "alt": "Hawes & Curtis · Grey Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-52d737f6acfe445a833b4729.webp",
+          "alt": "Hawes & Curtis · Grey Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-ef581a005b9a3bdd64a54fc4.webp",
+          "alt": "Hawes & Curtis · Grey Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-570df8a93e1b857f0360b4a4.webp",
+          "alt": "Hawes & Curtis · Grey Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-058378b1af2edccaf313dbec.webp",
+          "alt": "Hawes & Curtis · Grey Half Zip Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/grey-half-zip-merino-jumper-machine-washable-jwpwh001-f01",
+          "variantId": "232514",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/grey-half-zip-merino-jumper-machine-washable-jwpwh001-f01",
+          "variantId": "232657",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-f67cd79974da72033b8f2763.webp",
+      "imageAlt": "Hawes & Curtis · Grey Half Zip Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-4df256e25ebe99a3",
+      "name": "Hawes & Curtis · Light Grey Hooded Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/light-grey-hooded-jumper-machine-washable-jwpwj008-f42",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Light Grey",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-5b3b94982947ba7d48c6b8fa.webp",
+          "alt": "Hawes & Curtis · Light Grey Hooded Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-edfee672cf00d331ef4f1b86.webp",
+          "alt": "Hawes & Curtis · Light Grey Hooded Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-9a0037dae15e380f6cd35615.webp",
+          "alt": "Hawes & Curtis · Light Grey Hooded Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-887a0c5b5f88380469fb6860.webp",
+          "alt": "Hawes & Curtis · Light Grey Hooded Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-e00016b2b7ae487d95182e0e.webp",
+          "alt": "Hawes & Curtis · Light Grey Hooded Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/light-grey-hooded-jumper-machine-washable-jwpwj008-f42",
+          "variantId": "248928",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/light-grey-hooded-jumper-machine-washable-jwpwj008-f42",
+          "variantId": "248933",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-5b3b94982947ba7d48c6b8fa.webp",
+      "imageAlt": "Hawes & Curtis · Light Grey Hooded Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-272ac33d9aa95126",
+      "name": "Hawes & Curtis · Moss Green Half Zip Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/moss-green-half-zip-merino-jumper-machine-washable-jwpwh001-e82",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Moss Green",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-77db88b3d6d12d74a21690ab.webp",
+          "alt": "Hawes & Curtis · Moss Green Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-e8cfd68ae2c64d09c7ecadda.webp",
+          "alt": "Hawes & Curtis · Moss Green Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-68395101920b23ccdd5c9e88.webp",
+          "alt": "Hawes & Curtis · Moss Green Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-38288b55c1d7ebfe7ff11522.webp",
+          "alt": "Hawes & Curtis · Moss Green Half Zip Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/moss-green-half-zip-merino-jumper-machine-washable-jwpwh001-e82",
+          "variantId": "232571",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/moss-green-half-zip-merino-jumper-machine-washable-jwpwh001-e82",
+          "variantId": "232631",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-77db88b3d6d12d74a21690ab.webp",
+      "imageAlt": "Hawes & Curtis · Moss Green Half Zip Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-de65404d8446b66b",
+      "name": "Hawes & Curtis · Navy Collared Cardigan ",
+      "url": "https://www.hawesandcurtis.com/navy-collared-cardigan-jwpwl038-g01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Navy",
+      "unitPriceUSD": 179.0,
+      "priceLabel": "$179.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-906eb0c8f65db77de82eac87.webp",
+          "alt": "Hawes & Curtis · Navy Collared Cardigan "
+        },
+        {
+          "src": "assets/images/gallery-359c7797a198cbfa0d6e16a4.webp",
+          "alt": "Hawes & Curtis · Navy Collared Cardigan "
+        },
+        {
+          "src": "assets/images/gallery-3986bc6d47243313e8465f78.webp",
+          "alt": "Hawes & Curtis · Navy Collared Cardigan "
+        },
+        {
+          "src": "assets/images/gallery-bcac8a60f10571fc7bccc419.webp",
+          "alt": "Hawes & Curtis · Navy Collared Cardigan "
+        },
+        {
+          "src": "assets/images/gallery-39a0d36fed34604bc710820f.webp",
+          "alt": "Hawes & Curtis · Navy Collared Cardigan "
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/navy-collared-cardigan-jwpwl038-g01",
+          "variantId": "263946",
+          "originalPriceUSD": 229.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/navy-collared-cardigan-jwpwl038-g01",
+          "variantId": "263947",
+          "originalPriceUSD": 229.0
+        }
+      ],
+      "image": "assets/images/gallery-906eb0c8f65db77de82eac87.webp",
+      "imageAlt": "Hawes & Curtis · Navy Collared Cardigan ",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-75b09c5de61f455a",
+      "name": "Hawes & Curtis · Navy Half Zip Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/navy-half-zip-merino-jumper-machine-washable-jwpwh001-g01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Navy",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-32407b60556d0595972aa9eb.webp",
+          "alt": "Hawes & Curtis · Navy Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-53b63d2c7b02f21f95223b5c.webp",
+          "alt": "Hawes & Curtis · Navy Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-d4ffd13c70d8e42ce25edbc1.webp",
+          "alt": "Hawes & Curtis · Navy Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-1e8feba16f42ac0b273881aa.webp",
+          "alt": "Hawes & Curtis · Navy Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-cc3a5c8905e118433b5234d3.webp",
+          "alt": "Hawes & Curtis · Navy Half Zip Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/navy-half-zip-merino-jumper-machine-washable-jwpwh001-g01",
+          "variantId": "232666",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/navy-half-zip-merino-jumper-machine-washable-jwpwh001-g01",
+          "variantId": "232668",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-32407b60556d0595972aa9eb.webp",
+      "imageAlt": "Hawes & Curtis · Navy Half Zip Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-be8997ffb7842365",
+      "name": "Hawes & Curtis · Navy Hooded Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/navy-hooded-jumper-machine-washable-jwpwj008-g01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Navy",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-baef4e3b6078c220c249ddeb.webp",
+          "alt": "Hawes & Curtis · Navy Hooded Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-2ac3808e441141b2cd3f4ab7.webp",
+          "alt": "Hawes & Curtis · Navy Hooded Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-60ec41bbd5049f8d890a1e8a.webp",
+          "alt": "Hawes & Curtis · Navy Hooded Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-ebb450d494677f0d1f667547.webp",
+          "alt": "Hawes & Curtis · Navy Hooded Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-4291fc7df229449fd1cfc6aa.webp",
+          "alt": "Hawes & Curtis · Navy Hooded Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/navy-hooded-jumper-machine-washable-jwpwj008-g01",
+          "variantId": "248927",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/navy-hooded-jumper-machine-washable-jwpwj008-g01",
+          "variantId": "248936",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-baef4e3b6078c220c249ddeb.webp",
+      "imageAlt": "Hawes & Curtis · Navy Hooded Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-cefd286fe921d15d",
+      "name": "Hawes & Curtis · Neutral Half Zip Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/neutral-half-zip-merino-jumper-machine-washable-jwpwh001-h01",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Neutral",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-9379315ca9e689e4930d65b0.webp",
+          "alt": "Hawes & Curtis · Neutral Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-b8f0944a080a3fac29395ac4.webp",
+          "alt": "Hawes & Curtis · Neutral Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-044a5951e9283434242ff90a.webp",
+          "alt": "Hawes & Curtis · Neutral Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-64b2aec08f50a4119d489aeb.webp",
+          "alt": "Hawes & Curtis · Neutral Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-4fc1439b83c816fd347edd7d.webp",
+          "alt": "Hawes & Curtis · Neutral Half Zip Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/neutral-half-zip-merino-jumper-machine-washable-jwpwh001-h01",
+          "variantId": "232513",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/neutral-half-zip-merino-jumper-machine-washable-jwpwh001-h01",
+          "variantId": "232562",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-9379315ca9e689e4930d65b0.webp",
+      "imageAlt": "Hawes & Curtis · Neutral Half Zip Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-f91fb7de0d686da9",
+      "name": "Hawes & Curtis · Soft Olive Half Zip Sweater - Machine Washable",
+      "url": "https://www.hawesandcurtis.com/soft-olive-half-zip-jumper-machine-washable-jwpwh001-z84",
+      "store": "Hawes & Curtis",
+      "brand": "Hawes & Curtis",
+      "category": "Sweater",
+      "color": "Soft Olive",
+      "unitPriceUSD": 99.0,
+      "priceLabel": "$99.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% Merino wool",
+        "Size": "S and M",
+        "Observed": "Retained exact variant snapshot"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-3fc17712ce38332af7f0418b.webp",
+          "alt": "Hawes & Curtis · Soft Olive Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-33ed1ffeb564ff2d242455fe.webp",
+          "alt": "Hawes & Curtis · Soft Olive Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-6647b8c52fd32d90b022fda3.webp",
+          "alt": "Hawes & Curtis · Soft Olive Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-303d580a024c65901a2381e1.webp",
+          "alt": "Hawes & Curtis · Soft Olive Half Zip Sweater - Machine Washable"
+        },
+        {
+          "src": "assets/images/gallery-d383f08f83be3b58e83dfa5b.webp",
+          "alt": "Hawes & Curtis · Soft Olive Half Zip Sweater - Machine Washable"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "M",
+          "url": "https://www.hawesandcurtis.com/soft-olive-half-zip-jumper-machine-washable-jwpwh001-z84",
+          "variantId": "262321",
+          "originalPriceUSD": 139.0
+        },
+        {
+          "size": "S",
+          "url": "https://www.hawesandcurtis.com/soft-olive-half-zip-jumper-machine-washable-jwpwh001-z84",
+          "variantId": "262322",
+          "originalPriceUSD": 139.0
+        }
+      ],
+      "image": "assets/images/gallery-3fc17712ce38332af7f0418b.webp",
+      "imageAlt": "Hawes & Curtis · Soft Olive Half Zip Sweater - Machine Washable",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "jacket-5d737460ba180363",
+      "name": "Helmut Lang · Feather Studio Hoodie",
+      "url": "https://www.helmutlang.com/feather-studio-hoodie/P02HM506_B00.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "grey",
+      "unitPriceUSD": 96.25,
+      "priceLabel": "$96.25",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T17:51:10.977242-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-fefd938071e524efca18.webp",
+          "alt": "Helmut Lang · Feather Studio Hoodie"
+        },
+        {
+          "src": "assets/images/hl-5dff39193ec5ae334572.webp",
+          "alt": "Helmut Lang · Feather Studio Hoodie"
+        },
+        {
+          "src": "assets/images/hl-8fd4f7046efddfba1de9.webp",
+          "alt": "Helmut Lang · Feather Studio Hoodie"
+        },
+        {
+          "src": "assets/images/hl-e3acb9bded069c0e2af1.webp",
+          "alt": "Helmut Lang · Feather Studio Hoodie"
+        },
+        {
+          "src": "assets/images/hl-d3aba25c6f75bbf13e61.webp",
+          "alt": "Helmut Lang · Feather Studio Hoodie"
+        },
+        {
+          "src": "assets/images/hl-cff136000a4ef1c61b7c.webp",
+          "alt": "Helmut Lang · Feather Studio Hoodie"
+        },
+        {
+          "src": "assets/images/hl-9b947c8db92279cd81e3.webp",
+          "alt": "Helmut Lang · Feather Studio Hoodie"
+        },
+        {
+          "src": "assets/images/hl-831c337b9b13936c9b8b.webp",
+          "alt": "Helmut Lang · Feather Studio Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-fefd938071e524efca18.webp",
+      "imageAlt": "Helmut Lang · Feather Studio Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/feather-studio-hoodie/grey/883389265846.html",
+          "variantId": "883389265846",
+          "originalPriceUSD": 385.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/feather-studio-hoodie/grey/883389265853.html",
+          "variantId": "883389265853",
+          "originalPriceUSD": 385.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-15a53bb204b35bca",
+      "name": "Helmut Lang · Blue Scribble Hoodie",
+      "url": "https://www.helmutlang.com/blue-scribble-hoodie/P02HM513_C0V.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "white/blue",
+      "unitPriceUSD": 109.5,
+      "priceLabel": "$109.50",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T17:51:11.617913-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-86a32a805621c92f4784.webp",
+          "alt": "Helmut Lang · Blue Scribble Hoodie"
+        },
+        {
+          "src": "assets/images/hl-6949c76d6d161d5a2738.webp",
+          "alt": "Helmut Lang · Blue Scribble Hoodie"
+        },
+        {
+          "src": "assets/images/hl-586e8d309f303ee1348b.webp",
+          "alt": "Helmut Lang · Blue Scribble Hoodie"
+        },
+        {
+          "src": "assets/images/hl-1479a926e73ad504f4ef.webp",
+          "alt": "Helmut Lang · Blue Scribble Hoodie"
+        },
+        {
+          "src": "assets/images/hl-48c6547ef1d392ff1087.webp",
+          "alt": "Helmut Lang · Blue Scribble Hoodie"
+        },
+        {
+          "src": "assets/images/hl-c83e16d41919d1dc8775.webp",
+          "alt": "Helmut Lang · Blue Scribble Hoodie"
+        },
+        {
+          "src": "assets/images/hl-a820d4cd56dc94755346.webp",
+          "alt": "Helmut Lang · Blue Scribble Hoodie"
+        },
+        {
+          "src": "assets/images/hl-88b3af793770cbb79abd.webp",
+          "alt": "Helmut Lang · Blue Scribble Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-86a32a805621c92f4784.webp",
+      "imageAlt": "Helmut Lang · Blue Scribble Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/blue-scribble-hoodie/white/883389364624.html",
+          "variantId": "883389364624",
+          "originalPriceUSD": 365.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/blue-scribble-hoodie/white/883389364716.html",
+          "variantId": "883389364716",
+          "originalPriceUSD": 365.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-25779b743a1f8ab5",
+      "name": "Helmut Lang · Embossed Logo Hoodie",
+      "url": "https://www.helmutlang.com/embossed-logo-hoodie/P04HM504_100.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "white",
+      "unitPriceUSD": 146.0,
+      "priceLabel": "$146.00",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T17:51:19.232572-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-f444d4f595476b78f68d.webp",
+          "alt": "Helmut Lang · Embossed Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-b0ba180c2cc6f2974284.webp",
+          "alt": "Helmut Lang · Embossed Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-c5c5c924749cdddf1064.webp",
+          "alt": "Helmut Lang · Embossed Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-2cd8c5a022207c407bba.webp",
+          "alt": "Helmut Lang · Embossed Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-776a32cca7f12b4b2891.webp",
+          "alt": "Helmut Lang · Embossed Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-35e475a3c2628b83404c.webp",
+          "alt": "Helmut Lang · Embossed Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-6a075efb1f7d059f1ca0.webp",
+          "alt": "Helmut Lang · Embossed Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-62b029dab29706b90c2e.webp",
+          "alt": "Helmut Lang · Embossed Logo Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-f444d4f595476b78f68d.webp",
+      "imageAlt": "Helmut Lang · Embossed Logo Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/embossed-logo-hoodie/white/199046001161.html",
+          "variantId": "199046001161",
+          "originalPriceUSD": 365.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/embossed-logo-hoodie/white/199046001178.html",
+          "variantId": "199046001178",
+          "originalPriceUSD": 365.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-d88a7e542ce1ff04",
+      "name": "Helmut Lang · Ribbed V-Neck Sweater",
+      "url": "https://www.helmutlang.com/ribbed-v-neck-sweater/P05HM704_100.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "white",
+      "unitPriceUSD": 178.0,
+      "priceLabel": "$178.00",
+      "facts": {
+        "Fabric": "Composition: 100% Organic Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T17:51:46.821155-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-55bb19aa05fa5aa7ba22.webp",
+          "alt": "Helmut Lang · Ribbed V-Neck Sweater"
+        },
+        {
+          "src": "assets/images/hl-632b0e754e879cb8f6b2.webp",
+          "alt": "Helmut Lang · Ribbed V-Neck Sweater"
+        },
+        {
+          "src": "assets/images/hl-8ef55608d28b70d92281.webp",
+          "alt": "Helmut Lang · Ribbed V-Neck Sweater"
+        },
+        {
+          "src": "assets/images/hl-7299dcd06e2256caaf57.webp",
+          "alt": "Helmut Lang · Ribbed V-Neck Sweater"
+        },
+        {
+          "src": "assets/images/hl-b4c920ec922902eaf139.webp",
+          "alt": "Helmut Lang · Ribbed V-Neck Sweater"
+        },
+        {
+          "src": "assets/images/hl-fdf283faf8bb8243aa3e.webp",
+          "alt": "Helmut Lang · Ribbed V-Neck Sweater"
+        },
+        {
+          "src": "assets/images/hl-9861c645ec2123b8366d.webp",
+          "alt": "Helmut Lang · Ribbed V-Neck Sweater"
+        },
+        {
+          "src": "assets/images/hl-a1b35573eff780108a14.webp",
+          "alt": "Helmut Lang · Ribbed V-Neck Sweater"
+        },
+        {
+          "src": "assets/images/hl-b118420c6896413a99f0.webp",
+          "alt": "Helmut Lang · Ribbed V-Neck Sweater"
+        }
+      ],
+      "image": "assets/images/hl-55bb19aa05fa5aa7ba22.webp",
+      "imageAlt": "Helmut Lang · Ribbed V-Neck Sweater",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/ribbed-v-neck-sweater/white/199046003707.html",
+          "variantId": "199046003707",
+          "originalPriceUSD": 445.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/ribbed-v-neck-sweater/white/199046003714.html",
+          "variantId": "199046003714",
+          "originalPriceUSD": 445.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-3f457d6d0b6d1c06",
+      "name": "Helmut Lang · Contrast Seam Tee",
+      "url": "https://www.helmutlang.com/contrast-seam-tee/P06HM705_QTG.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "grey melange/black",
+      "unitPriceUSD": 92.75,
+      "priceLabel": "$92.75",
+      "facts": {
+        "Fabric": "Composition: 100% Wool",
+        "Size": "S",
+        "Observed": "2026-11-23T17:51:54.405275-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-351571127e03a6d80103.webp",
+          "alt": "Helmut Lang · Contrast Seam Tee"
+        },
+        {
+          "src": "assets/images/hl-a0e17b04c9c6563f70a6.webp",
+          "alt": "Helmut Lang · Contrast Seam Tee"
+        },
+        {
+          "src": "assets/images/hl-389771c746acde125deb.webp",
+          "alt": "Helmut Lang · Contrast Seam Tee"
+        },
+        {
+          "src": "assets/images/hl-669af6f71b86d49cd347.webp",
+          "alt": "Helmut Lang · Contrast Seam Tee"
+        },
+        {
+          "src": "assets/images/hl-a5b5b3e89052f6f6fa33.webp",
+          "alt": "Helmut Lang · Contrast Seam Tee"
+        },
+        {
+          "src": "assets/images/hl-76f39a30f42cb700a450.webp",
+          "alt": "Helmut Lang · Contrast Seam Tee"
+        },
+        {
+          "src": "assets/images/hl-86e153e1e8c54d0ddb5f.webp",
+          "alt": "Helmut Lang · Contrast Seam Tee"
+        },
+        {
+          "src": "assets/images/hl-38191de27b45455a08a5.webp",
+          "alt": "Helmut Lang · Contrast Seam Tee"
+        },
+        {
+          "src": "assets/images/hl-d72f5fc0beb73459f1ee.webp",
+          "alt": "Helmut Lang · Contrast Seam Tee"
+        }
+      ],
+      "image": "assets/images/hl-351571127e03a6d80103.webp",
+      "imageAlt": "Helmut Lang · Contrast Seam Tee",
+      "deal": "S",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/contrast-seam-tee/grey/199046011672.html",
+          "variantId": "199046011672",
+          "originalPriceUSD": 265.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-85bb566c9022e68d",
+      "name": "Helmut Lang · Ski Map Hoodie",
+      "url": "https://www.helmutlang.com/ski-map-hoodie/P09HM507_100.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "white",
+      "unitPriceUSD": 118.0,
+      "priceLabel": "$118.00",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "M",
+        "Observed": "2026-11-23T17:52:20.341030-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-1f30fe6b0659b260a56a.webp",
+          "alt": "Helmut Lang · Ski Map Hoodie"
+        },
+        {
+          "src": "assets/images/hl-ab791350c0c7ac228185.webp",
+          "alt": "Helmut Lang · Ski Map Hoodie"
+        },
+        {
+          "src": "assets/images/hl-045980ec74aa00b1836f.webp",
+          "alt": "Helmut Lang · Ski Map Hoodie"
+        },
+        {
+          "src": "assets/images/hl-e1b23c3b19f36fde43dd.webp",
+          "alt": "Helmut Lang · Ski Map Hoodie"
+        },
+        {
+          "src": "assets/images/hl-0997cb83f1312332c220.webp",
+          "alt": "Helmut Lang · Ski Map Hoodie"
+        },
+        {
+          "src": "assets/images/hl-645477de56d15c942461.webp",
+          "alt": "Helmut Lang · Ski Map Hoodie"
+        },
+        {
+          "src": "assets/images/hl-330d868a33580447a2a1.webp",
+          "alt": "Helmut Lang · Ski Map Hoodie"
+        },
+        {
+          "src": "assets/images/hl-6b56819baae5c750dfeb.webp",
+          "alt": "Helmut Lang · Ski Map Hoodie"
+        },
+        {
+          "src": "assets/images/hl-acef2c853aa6a9c055ca.webp",
+          "alt": "Helmut Lang · Ski Map Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-1f30fe6b0659b260a56a.webp",
+      "imageAlt": "Helmut Lang · Ski Map Hoodie",
+      "deal": "M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/ski-map-hoodie/white/199046025907.html",
+          "variantId": "199046025907",
+          "originalPriceUSD": 295.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-498535594788fafd",
+      "name": "Helmut Lang · Stencil Hoodie",
+      "url": "https://www.helmutlang.com/stencil-hoodie/P10HM504_100.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "white",
+      "unitPriceUSD": 118.0,
+      "priceLabel": "$118.00",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "M",
+        "Observed": "2026-11-23T17:52:59.390075-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-0c5a809b1e39c85b227a.webp",
+          "alt": "Helmut Lang · Stencil Hoodie"
+        },
+        {
+          "src": "assets/images/hl-da66ba41836faf4e0dc1.webp",
+          "alt": "Helmut Lang · Stencil Hoodie"
+        },
+        {
+          "src": "assets/images/hl-1137873080afffc11b49.webp",
+          "alt": "Helmut Lang · Stencil Hoodie"
+        },
+        {
+          "src": "assets/images/hl-18e4dceb93b4999df1f6.webp",
+          "alt": "Helmut Lang · Stencil Hoodie"
+        },
+        {
+          "src": "assets/images/hl-797be04301bda7fb7e8d.webp",
+          "alt": "Helmut Lang · Stencil Hoodie"
+        },
+        {
+          "src": "assets/images/hl-d6b41f1fa41c5d23fb87.webp",
+          "alt": "Helmut Lang · Stencil Hoodie"
+        },
+        {
+          "src": "assets/images/hl-dcf388732919497159dc.webp",
+          "alt": "Helmut Lang · Stencil Hoodie"
+        },
+        {
+          "src": "assets/images/hl-e653b1fcd80220a13a16.webp",
+          "alt": "Helmut Lang · Stencil Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-0c5a809b1e39c85b227a.webp",
+      "imageAlt": "Helmut Lang · Stencil Hoodie",
+      "deal": "M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/stencil-hoodie/white/199046026836.html",
+          "variantId": "199046026836",
+          "originalPriceUSD": 295.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-c4962d2fdb833e3e",
+      "name": "Helmut Lang · Cropped Trucker Jacket",
+      "url": "https://www.helmutlang.com/cropped-trucker-jacket/Q01DM501_2Q2.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Jacket",
+      "color": "vintage blue wash",
+      "unitPriceUSD": 149.25,
+      "priceLabel": "$149.25",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T17:53:49.543683-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-b27741d4b1147e94d56e.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-1998064b02a625ed913a.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-c889d12e2de2dcfc62b0.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-afc5889c4045d9d5d8ee.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-100ee8b8e05e482c75fb.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-5402ae9868614e685392.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-44be577a0ada88bd7f57.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-e1fa893f72ebd4da39d2.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        }
+      ],
+      "image": "assets/images/hl-b27741d4b1147e94d56e.webp",
+      "imageAlt": "Helmut Lang · Cropped Trucker Jacket",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Jacket",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/cropped-trucker-jacket/blue/199046031861.html",
+          "variantId": "199046031861",
+          "originalPriceUSD": 398.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/cropped-trucker-jacket/blue/199046031878.html",
+          "variantId": "199046031878",
+          "originalPriceUSD": 398.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-ef5ed6e3c975d362",
+      "name": "Helmut Lang · Cropped Trucker Jacket",
+      "url": "https://www.helmutlang.com/cropped-trucker-jacket/Q01DM502_2Q0.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Jacket",
+      "color": "tinted vintage blue",
+      "unitPriceUSD": 149.25,
+      "priceLabel": "$149.25",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T17:53:52.710611-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-2a2257a56925d049c627.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-b8d1d2092a6e3912a96b.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-5a499851b90d894b413b.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-57fd6b8f31731d4ff447.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-8c9d77f97b4123ace587.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-4e94a25e2afe6a10002d.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-88ba28a55ad58c70ed08.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-4e3d6011ede1726130f3.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        }
+      ],
+      "image": "assets/images/hl-2a2257a56925d049c627.webp",
+      "imageAlt": "Helmut Lang · Cropped Trucker Jacket",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Jacket",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/cropped-trucker-jacket/blue/199046031922.html",
+          "variantId": "199046031922",
+          "originalPriceUSD": 398.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/cropped-trucker-jacket/blue/199046031939.html",
+          "variantId": "199046031939",
+          "originalPriceUSD": 398.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-caa6f6226f53ff36",
+      "name": "Helmut Lang · Utility Shirt Jacket",
+      "url": "https://www.helmutlang.com/utility-shirt-jacket/Q01HM102_YNB.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Jacket",
+      "color": "vetiver",
+      "unitPriceUSD": 171.2,
+      "priceLabel": "$171.20",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T17:53:58.810946-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-471b96e530c6ad88f203.webp",
+          "alt": "Helmut Lang · Utility Shirt Jacket"
+        },
+        {
+          "src": "assets/images/hl-3324d67b67fdf7d52792.webp",
+          "alt": "Helmut Lang · Utility Shirt Jacket"
+        },
+        {
+          "src": "assets/images/hl-026923b65e797b5cd77f.webp",
+          "alt": "Helmut Lang · Utility Shirt Jacket"
+        },
+        {
+          "src": "assets/images/hl-e2ac0c8a83e1cf5843a1.webp",
+          "alt": "Helmut Lang · Utility Shirt Jacket"
+        },
+        {
+          "src": "assets/images/hl-7f51b43528503843a0ff.webp",
+          "alt": "Helmut Lang · Utility Shirt Jacket"
+        },
+        {
+          "src": "assets/images/hl-a86a66aa0f61573b3a94.webp",
+          "alt": "Helmut Lang · Utility Shirt Jacket"
+        },
+        {
+          "src": "assets/images/hl-4be49e93f64f26aadbc0.webp",
+          "alt": "Helmut Lang · Utility Shirt Jacket"
+        },
+        {
+          "src": "assets/images/hl-99cbf6e094099bd81ec7.webp",
+          "alt": "Helmut Lang · Utility Shirt Jacket"
+        }
+      ],
+      "image": "assets/images/hl-471b96e530c6ad88f203.webp",
+      "imageAlt": "Helmut Lang · Utility Shirt Jacket",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Jacket",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/utility-shirt-jacket/green/199046032165.html",
+          "variantId": "199046032165",
+          "originalPriceUSD": 428.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/utility-shirt-jacket/green/199046032172.html",
+          "variantId": "199046032172",
+          "originalPriceUSD": 428.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-c63b8bf6325d2938",
+      "name": "Helmut Lang · Shirt Bomber",
+      "url": "https://www.helmutlang.com/shirt-bomber/Q01HM101_GJR.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Jacket",
+      "color": "slate blue",
+      "unitPriceUSD": 199.2,
+      "priceLabel": "$199.20",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T17:53:59.101708-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-97b9fbe10c6faf86267a.webp",
+          "alt": "Helmut Lang · Shirt Bomber"
+        },
+        {
+          "src": "assets/images/hl-48467a9e56298d03ede8.webp",
+          "alt": "Helmut Lang · Shirt Bomber"
+        },
+        {
+          "src": "assets/images/hl-d6c0e1bc2456808c1c5b.webp",
+          "alt": "Helmut Lang · Shirt Bomber"
+        },
+        {
+          "src": "assets/images/hl-8fb98fb3ee41a8db0b4e.webp",
+          "alt": "Helmut Lang · Shirt Bomber"
+        },
+        {
+          "src": "assets/images/hl-d092e00cf53698d03025.webp",
+          "alt": "Helmut Lang · Shirt Bomber"
+        },
+        {
+          "src": "assets/images/hl-aba049e9789e8a96cb6f.webp",
+          "alt": "Helmut Lang · Shirt Bomber"
+        },
+        {
+          "src": "assets/images/hl-a13cd49deea329e7f808.webp",
+          "alt": "Helmut Lang · Shirt Bomber"
+        },
+        {
+          "src": "assets/images/hl-2c8953f0f1769b9c287a.webp",
+          "alt": "Helmut Lang · Shirt Bomber"
+        }
+      ],
+      "image": "assets/images/hl-97b9fbe10c6faf86267a.webp",
+      "imageAlt": "Helmut Lang · Shirt Bomber",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Jacket",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/shirt-bomber/blue/199046031984.html",
+          "variantId": "199046031984",
+          "originalPriceUSD": 498.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/shirt-bomber/blue/199046031991.html",
+          "variantId": "199046031991",
+          "originalPriceUSD": 498.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-1b7e3811514b8b43",
+      "name": "Helmut Lang · Garment-Dyed Wardrobe Hoodie",
+      "url": "https://www.helmutlang.com/garment-dyed-wardrobe-hoodie/Q01HM506_2QA.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "marble black",
+      "unitPriceUSD": 131.2,
+      "priceLabel": "$131.20",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T17:54:40.445973-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-64b65cfa66d2de09861b.webp",
+          "alt": "Helmut Lang · Garment-Dyed Wardrobe Hoodie"
+        },
+        {
+          "src": "assets/images/hl-fcd700e29b442ba102d6.webp",
+          "alt": "Helmut Lang · Garment-Dyed Wardrobe Hoodie"
+        },
+        {
+          "src": "assets/images/hl-83e4481a0b52f2d07d60.webp",
+          "alt": "Helmut Lang · Garment-Dyed Wardrobe Hoodie"
+        },
+        {
+          "src": "assets/images/hl-255da22089791035b39b.webp",
+          "alt": "Helmut Lang · Garment-Dyed Wardrobe Hoodie"
+        },
+        {
+          "src": "assets/images/hl-d7e739b8cf6b20e7b78f.webp",
+          "alt": "Helmut Lang · Garment-Dyed Wardrobe Hoodie"
+        },
+        {
+          "src": "assets/images/hl-bd458636bb7995cc80f3.webp",
+          "alt": "Helmut Lang · Garment-Dyed Wardrobe Hoodie"
+        },
+        {
+          "src": "assets/images/hl-266057eada3e33f38aea.webp",
+          "alt": "Helmut Lang · Garment-Dyed Wardrobe Hoodie"
+        },
+        {
+          "src": "assets/images/hl-9ba5fe09d9fb78798111.webp",
+          "alt": "Helmut Lang · Garment-Dyed Wardrobe Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-64b65cfa66d2de09861b.webp",
+      "imageAlt": "Helmut Lang · Garment-Dyed Wardrobe Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/garment-dyed-wardrobe-hoodie/black/199046033797.html",
+          "variantId": "199046033797",
+          "originalPriceUSD": 328.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/garment-dyed-wardrobe-hoodie/black/199046033803.html",
+          "variantId": "199046033803",
+          "originalPriceUSD": 328.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-3950a3a984e2ac31",
+      "name": "Helmut Lang · Handwritten Logo Hoodie",
+      "url": "https://www.helmutlang.com/handwritten-logo-hoodie/Q01HM510_V1F.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "vintage white",
+      "unitPriceUSD": 119.2,
+      "priceLabel": "$119.20",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T17:54:51.661794-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-26dfc29526254e16d155.webp",
+          "alt": "Helmut Lang · Handwritten Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-09f98787fbc9ec90990d.webp",
+          "alt": "Helmut Lang · Handwritten Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-21517cd93292e6ef52b7.webp",
+          "alt": "Helmut Lang · Handwritten Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-2d2daef825c989f3887e.webp",
+          "alt": "Helmut Lang · Handwritten Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-f7cad9435f968c2f1b88.webp",
+          "alt": "Helmut Lang · Handwritten Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-3b26fe1e983b800818b1.webp",
+          "alt": "Helmut Lang · Handwritten Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-824c61e714ef26927365.webp",
+          "alt": "Helmut Lang · Handwritten Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-5e7a13bd73440fcb599f.webp",
+          "alt": "Helmut Lang · Handwritten Logo Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-26dfc29526254e16d155.webp",
+      "imageAlt": "Helmut Lang · Handwritten Logo Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/handwritten-logo-hoodie/white/199046034213.html",
+          "variantId": "199046034213",
+          "originalPriceUSD": 298.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/handwritten-logo-hoodie/white/199046034220.html",
+          "variantId": "199046034220",
+          "originalPriceUSD": 298.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-713e1f59dadc9b25",
+      "name": "Helmut Lang · Plaid Logo Hoodie",
+      "url": "https://www.helmutlang.com/plaid-logo-hoodie/Q02HM509_V1F.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "vintage white",
+      "unitPriceUSD": 119.2,
+      "priceLabel": "$119.20",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T17:57:43.494959-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-dd00dd8a0efd963de578.webp",
+          "alt": "Helmut Lang · Plaid Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-727d75d92f1753a2e7f4.webp",
+          "alt": "Helmut Lang · Plaid Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-d7eeae0b7cb5565fd418.webp",
+          "alt": "Helmut Lang · Plaid Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-9017300e74f6a4f15f8b.webp",
+          "alt": "Helmut Lang · Plaid Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-fb13ab7f480b96ae4194.webp",
+          "alt": "Helmut Lang · Plaid Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-fcfa42e28c4bd9cca1d8.webp",
+          "alt": "Helmut Lang · Plaid Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-8047d11dbd1557007bb7.webp",
+          "alt": "Helmut Lang · Plaid Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-3ec283433edf876b401a.webp",
+          "alt": "Helmut Lang · Plaid Logo Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-dd00dd8a0efd963de578.webp",
+      "imageAlt": "Helmut Lang · Plaid Logo Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/plaid-logo-hoodie/white/199046036460.html",
+          "variantId": "199046036460",
+          "originalPriceUSD": 298.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/plaid-logo-hoodie/white/199046036477.html",
+          "variantId": "199046036477",
+          "originalPriceUSD": 298.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-2f90bc191476c94e",
+      "name": "Helmut Lang · Sailor Overshirt",
+      "url": "https://www.helmutlang.com/sailor-overshirt/Q04HM102_C69.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Jacket",
+      "color": "muslin",
+      "unitPriceUSD": 224.25,
+      "priceLabel": "$224.25",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T17:59:18.992425-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-f1a52b8b7a67b252f1db.webp",
+          "alt": "Helmut Lang · Sailor Overshirt"
+        },
+        {
+          "src": "assets/images/hl-63d051aa32e85cac8a54.webp",
+          "alt": "Helmut Lang · Sailor Overshirt"
+        },
+        {
+          "src": "assets/images/hl-aa977fee77905af1dd8e.webp",
+          "alt": "Helmut Lang · Sailor Overshirt"
+        },
+        {
+          "src": "assets/images/hl-fec1de175384f1856f8b.webp",
+          "alt": "Helmut Lang · Sailor Overshirt"
+        },
+        {
+          "src": "assets/images/hl-34eb797e436c980d9aeb.webp",
+          "alt": "Helmut Lang · Sailor Overshirt"
+        },
+        {
+          "src": "assets/images/hl-ae744abf08d24f3e8ab6.webp",
+          "alt": "Helmut Lang · Sailor Overshirt"
+        },
+        {
+          "src": "assets/images/hl-efd156b0a1bfd15e4eb8.webp",
+          "alt": "Helmut Lang · Sailor Overshirt"
+        },
+        {
+          "src": "assets/images/hl-b9eec84bc10823139fc6.webp",
+          "alt": "Helmut Lang · Sailor Overshirt"
+        },
+        {
+          "src": "assets/images/hl-57ca4d74dc602a81f518.webp",
+          "alt": "Helmut Lang · Sailor Overshirt"
+        },
+        {
+          "src": "assets/images/hl-58e967cf4dea2cda9b59.webp",
+          "alt": "Helmut Lang · Sailor Overshirt"
+        },
+        {
+          "src": "assets/images/hl-4f3100d99c9313e73871.webp",
+          "alt": "Helmut Lang · Sailor Overshirt"
+        }
+      ],
+      "image": "assets/images/hl-f1a52b8b7a67b252f1db.webp",
+      "imageAlt": "Helmut Lang · Sailor Overshirt",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Jacket",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/sailor-overshirt/white/199046046544.html",
+          "variantId": "199046046544",
+          "originalPriceUSD": 598.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/sailor-overshirt/white/199046046551.html",
+          "variantId": "199046046551",
+          "originalPriceUSD": 598.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-a9808ba36d6fb5b6",
+      "name": "Helmut Lang · Cropped Trucker Jacket",
+      "url": "https://www.helmutlang.com/cropped-trucker-jacket/Q05DM502_RK5.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Jacket",
+      "color": "rinsed indigo",
+      "unitPriceUSD": 141.75,
+      "priceLabel": "$141.75",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:00:52.180573-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-9b27c47e1e63164d3754.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-19789a0c7ab6bb9d6a1e.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-ffef030f22eeb325d565.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-e353813dc1df3f964b37.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-7e34bac1c33dcb9d35ec.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-02e34007c5a18c62facf.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-d361ec41e906d7f35d8f.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-221b2d57ba94e1976f42.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-a79347f5ab4aea927be7.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-072be1b20b4eed898e21.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        }
+      ],
+      "image": "assets/images/hl-9b27c47e1e63164d3754.webp",
+      "imageAlt": "Helmut Lang · Cropped Trucker Jacket",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Jacket",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/cropped-trucker-jacket/blue/199046048944.html",
+          "variantId": "199046048944",
+          "originalPriceUSD": 378.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/cropped-trucker-jacket/blue/199046048951.html",
+          "variantId": "199046048951",
+          "originalPriceUSD": 378.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-efbc60ef2cfa80c2",
+      "name": "Helmut Lang · Stamp Hoodie",
+      "url": "https://www.helmutlang.com/stamp-hoodie/Q05HM506_G2N.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "pacific",
+      "unitPriceUSD": 111.75,
+      "priceLabel": "$111.75",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:27:05.070417-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-e40b9ef7829619c87746.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-7ede1080da0aeb3b3ed3.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-5f2e9157d02478329bab.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-b8aaaf489d8790d302c0.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-f5d63f2f255a6836ad4b.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-8f2e868b84348f63047b.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-e129be3f9366bec318f0.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-3fcd99717eb48d3cab9a.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-3311b161ee16d871ad4b.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-c9263baf9ba16e99a94e.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-e40b9ef7829619c87746.webp",
+      "imageAlt": "Helmut Lang · Stamp Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/stamp-hoodie/blue/199046056901.html",
+          "variantId": "199046056901",
+          "originalPriceUSD": 298.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/stamp-hoodie/blue/199046056918.html",
+          "variantId": "199046056918",
+          "originalPriceUSD": 298.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-1ce9eb54de05cd59",
+      "name": "Helmut Lang · Stamp Hoodie",
+      "url": "https://www.helmutlang.com/stamp-hoodie/Q05HM506_C7J.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "optic white",
+      "unitPriceUSD": 111.75,
+      "priceLabel": "$111.75",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:01:17.247969-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-cc2434dcfe4b17c02534.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-70be723cd3554861cd17.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-ea7f04382ecc3c0256c5.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-2730000ca0db06dc0725.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-cae99e24cdd1a35b1a1b.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-eb6dcde37fd1384b08fb.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-b59f648c2c4b40e66957.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-0545a2fce303751e9434.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-afbfc201449c5e71ee60.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-cc2434dcfe4b17c02534.webp",
+      "imageAlt": "Helmut Lang · Stamp Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/stamp-hoodie/white/199046049811.html",
+          "variantId": "199046049811",
+          "originalPriceUSD": 298.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/stamp-hoodie/white/199046049828.html",
+          "variantId": "199046049828",
+          "originalPriceUSD": 298.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-0816ba4fcb691b6b",
+      "name": "Helmut Lang · Stamp Hoodie",
+      "url": "https://www.helmutlang.com/stamp-hoodie/Q05HM506_G60.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "royal blue",
+      "unitPriceUSD": 111.75,
+      "priceLabel": "$111.75",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:01:17.395287-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-1ea544ce5cf3c57dbf79.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-4e0f100c473683e53c47.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-b933c7825b24d6f0eea0.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-5bcf59368ede1944cd86.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-edbab7547c504101cc25.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-41a01b83a89b2864ee45.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-98e1a65208fd8e72d56d.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-1b0f856c20b570efc55f.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-a501c609743c4b763050.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-1ea544ce5cf3c57dbf79.webp",
+      "imageAlt": "Helmut Lang · Stamp Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/stamp-hoodie/blue/199046049873.html",
+          "variantId": "199046049873",
+          "originalPriceUSD": 298.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/stamp-hoodie/blue/199046049880.html",
+          "variantId": "199046049880",
+          "originalPriceUSD": 298.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-3b5b4446288ef2b0",
+      "name": "Helmut Lang · Stamp Hoodie",
+      "url": "https://www.helmutlang.com/stamp-hoodie/Q05HM507_B53.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "light grey melange",
+      "unitPriceUSD": 111.75,
+      "priceLabel": "$111.75",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:01:21.647006-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-ba28df03ebbf3eb30c9f.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-ae7d926684385332b4b9.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-dd3c70c271a7cb6041b4.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-13fbf27091a48aeab677.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-c6eb5f23d12e5dc54812.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-29c05bf3a4857db1c6ff.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-2f24732cca19e27d7195.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-a59f15511e9e46bf9112.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        },
+        {
+          "src": "assets/images/hl-d77a222c479b53abe5ed.webp",
+          "alt": "Helmut Lang · Stamp Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-ba28df03ebbf3eb30c9f.webp",
+      "imageAlt": "Helmut Lang · Stamp Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/stamp-hoodie/grey/199046049934.html",
+          "variantId": "199046049934",
+          "originalPriceUSD": 298.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/stamp-hoodie/grey/199046049941.html",
+          "variantId": "199046049941",
+          "originalPriceUSD": 298.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-0bdf26cd59e996bd",
+      "name": "Helmut Lang · Cropped Trucker Jacket",
+      "url": "https://www.helmutlang.com/cropped-trucker-jacket/Q06DM101_2XG.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Jacket",
+      "color": "olive tint",
+      "unitPriceUSD": 298.5,
+      "priceLabel": "$298.50",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:02:41.024306-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-25d7750d6df25d3cd6b8.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-187aaaf56808123812b4.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-916b181bb7098dffea60.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-dd96b65ebbc419e2b13e.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-fb2857d69ce0aeb28a80.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-b8774884eb7e52d93e00.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-13f1ce7be1f31e9adc45.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-7878d33c31069b16d029.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-44abfceb60da43e3ff3a.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        },
+        {
+          "src": "assets/images/hl-4fd0d0665ce5e0abba8e.webp",
+          "alt": "Helmut Lang · Cropped Trucker Jacket"
+        }
+      ],
+      "image": "assets/images/hl-25d7750d6df25d3cd6b8.webp",
+      "imageAlt": "Helmut Lang · Cropped Trucker Jacket",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Jacket",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/cropped-trucker-jacket/beige/199046058417.html",
+          "variantId": "199046058417",
+          "originalPriceUSD": 398.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/cropped-trucker-jacket/beige/199046058424.html",
+          "variantId": "199046058424",
+          "originalPriceUSD": 398.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-69423eda0317c204",
+      "name": "Helmut Lang · Terry Zip Jacket",
+      "url": "https://www.helmutlang.com/terry-zip-jacket/Q06HM501_FGN.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Jacket",
+      "color": "forest night",
+      "unitPriceUSD": 298.5,
+      "priceLabel": "$298.50",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:03:12.837987-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-6f533c3ea2b996caf199.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-ecb974f0c6e7d94fceb0.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-2eb69002bab0bb2b6536.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-cf7f229fa20681d8b148.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-d405cafef48b8b069329.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-5336fcf889f630435cdc.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-441bf704af9663c921ce.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-fab3b368b6c7e9b66a75.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        }
+      ],
+      "image": "assets/images/hl-6f533c3ea2b996caf199.webp",
+      "imageAlt": "Helmut Lang · Terry Zip Jacket",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Jacket",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/terry-zip-jacket/green/199046059346.html",
+          "variantId": "199046059346",
+          "originalPriceUSD": 398.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/terry-zip-jacket/green/199046059353.html",
+          "variantId": "199046059353",
+          "originalPriceUSD": 398.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-1b15d7f60ec6fd16",
+      "name": "Helmut Lang · Terry Zip Jacket",
+      "url": "https://www.helmutlang.com/terry-zip-jacket/Q06HM501_G0F.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Jacket",
+      "color": "navy",
+      "unitPriceUSD": 298.5,
+      "priceLabel": "$298.50",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:03:14.730187-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-020811199f6d90c95c38.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-d712a0fcd6e61f4620e3.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-efde4a77a3011827e8c3.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-a6dedf8d290f68436616.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-c501dd1e6a1cd3ded37d.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-4cbff86738050ec7e61e.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-fd71ef53dc7c13022557.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        },
+        {
+          "src": "assets/images/hl-14f49b242bf813719968.webp",
+          "alt": "Helmut Lang · Terry Zip Jacket"
+        }
+      ],
+      "image": "assets/images/hl-020811199f6d90c95c38.webp",
+      "imageAlt": "Helmut Lang · Terry Zip Jacket",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Jacket",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/terry-zip-jacket/blue/199046059384.html",
+          "variantId": "199046059384",
+          "originalPriceUSD": 398.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/terry-zip-jacket/blue/199046059391.html",
+          "variantId": "199046059391",
+          "originalPriceUSD": 398.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-23b6077f7fa16b4c",
+      "name": "Helmut Lang · Small Logo Hoodie",
+      "url": "https://www.helmutlang.com/small-logo-hoodie/Q06HM508_V1F.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "vintage white",
+      "unitPriceUSD": 125.1,
+      "priceLabel": "$125.10",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:03:42.251611-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-69eadf168d8fecad7227.webp",
+          "alt": "Helmut Lang · Small Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-c415bb8c8c5acef592e1.webp",
+          "alt": "Helmut Lang · Small Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-3b755466699476a0bd88.webp",
+          "alt": "Helmut Lang · Small Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-4ebd1a600272211f8647.webp",
+          "alt": "Helmut Lang · Small Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-00134905f75c1f0f9aa7.webp",
+          "alt": "Helmut Lang · Small Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-7bab95dd7ee3e9a5f73d.webp",
+          "alt": "Helmut Lang · Small Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-4b0c4af32df442febf97.webp",
+          "alt": "Helmut Lang · Small Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-c4c1bd32bd62af1d20c6.webp",
+          "alt": "Helmut Lang · Small Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-99b373a490320dfa11b8.webp",
+          "alt": "Helmut Lang · Small Logo Hoodie"
+        },
+        {
+          "src": "assets/images/hl-322a8127d8a9d766407d.webp",
+          "alt": "Helmut Lang · Small Logo Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-69eadf168d8fecad7227.webp",
+      "imageAlt": "Helmut Lang · Small Logo Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/small-logo-hoodie/white/199046060144.html",
+          "variantId": "199046060144",
+          "originalPriceUSD": 278.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/small-logo-hoodie/white/199046060151.html",
+          "variantId": "199046060151",
+          "originalPriceUSD": 278.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-f3b97f300ab6cf12",
+      "name": "Helmut Lang · Ticket Hoodie",
+      "url": "https://www.helmutlang.com/ticket-hoodie/Q06HM509_EAC.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "bourbon",
+      "unitPriceUSD": 134.1,
+      "priceLabel": "$134.10",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:03:44.158792-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-afee317dc0bbbe7b5e58.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-a116ff3b0a0d49cc81da.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-57beb162b67c04431ebe.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-73b4eb8459186457f3fe.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-074b5d01b996a43f7451.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-adaf44bbbeacd93cccd0.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-15f6bf019cab125d2956.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-b22481f0e6b6ca7ac2ef.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-08781bb2112d124c6cdb.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-c0de76d19f09c7eed59a.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-afee317dc0bbbe7b5e58.webp",
+      "imageAlt": "Helmut Lang · Ticket Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/ticket-hoodie/beige/199046060182.html",
+          "variantId": "199046060182",
+          "originalPriceUSD": 298.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/ticket-hoodie/beige/199046060199.html",
+          "variantId": "199046060199",
+          "originalPriceUSD": 298.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-bf08639d2147cb80",
+      "name": "Helmut Lang · Ticket Hoodie",
+      "url": "https://www.helmutlang.com/ticket-hoodie/Q06HM509_FGN.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "forest night",
+      "unitPriceUSD": 134.1,
+      "priceLabel": "$134.10",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:03:46.734763-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-42fbac732d463b876d3b.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-8f5f0a02f48dc7ce0707.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-1df3d918b842cf986878.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-d62aab279c781b6ec43c.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-f484bfab663247be2cf5.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-c05ce50fb7443959d81f.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-a16e41d15187be20ab1a.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-b493d89259085a00b170.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-b7f704bb9e8e71ff4746.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        },
+        {
+          "src": "assets/images/hl-9226c325ad50db9156ee.webp",
+          "alt": "Helmut Lang · Ticket Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-42fbac732d463b876d3b.webp",
+      "imageAlt": "Helmut Lang · Ticket Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/ticket-hoodie/green/199046060229.html",
+          "variantId": "199046060229",
+          "originalPriceUSD": 298.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/ticket-hoodie/green/199046060236.html",
+          "variantId": "199046060236",
+          "originalPriceUSD": 298.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-06851d94a229a96e",
+      "name": "Helmut Lang · Distressed V-Neck",
+      "url": "https://www.helmutlang.com/distressed-v-neck/Q06HM701_G4K.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "dark navy",
+      "unitPriceUSD": 179.1,
+      "priceLabel": "$179.10",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:03:54.083850-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-56aa94a4f5c6d03851f6.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-881fa142ad3b2f2c5592.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-11d25fbe79679cf53e17.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-57bc11253856f8c667b4.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-0d898e3ba4d023c3239b.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-e40a20fa95c361ed701d.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-f8144eebecad62a90547.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-07105582faf0c1b2d9a4.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-f48093f0cdf0ec8be35d.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        }
+      ],
+      "image": "assets/images/hl-56aa94a4f5c6d03851f6.webp",
+      "imageAlt": "Helmut Lang · Distressed V-Neck",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/distressed-v-neck/blue/199046060625.html",
+          "variantId": "199046060625",
+          "originalPriceUSD": 398.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/distressed-v-neck/blue/199046060632.html",
+          "variantId": "199046060632",
+          "originalPriceUSD": 398.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-52c968b6fd977c00",
+      "name": "Helmut Lang · Distressed V-Neck",
+      "url": "https://www.helmutlang.com/distressed-v-neck/Q06HM701_Q91.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "grey melange",
+      "unitPriceUSD": 179.1,
+      "priceLabel": "$179.10",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:03:57.533113-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-ad45da139246ef471fba.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-22af65889d59ef47177e.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-90953106186b089ec213.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-24f2d7b22edcaa0e71a7.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-d83875dcacf7aee434a2.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-4ade4aae6c23b00e0a00.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-4606389c585f27f14c74.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-feaab8f30bb5e37c617a.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-0c0344cfe27a0e4b72e3.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        }
+      ],
+      "image": "assets/images/hl-ad45da139246ef471fba.webp",
+      "imageAlt": "Helmut Lang · Distressed V-Neck",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/distressed-v-neck/grey/199046060663.html",
+          "variantId": "199046060663",
+          "originalPriceUSD": 398.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/distressed-v-neck/grey/199046060670.html",
+          "variantId": "199046060670",
+          "originalPriceUSD": 398.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-909b93dde37b5b0a",
+      "name": "Helmut Lang · Distressed Crew",
+      "url": "https://www.helmutlang.com/distressed-crew/Q06HM703_100.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "white",
+      "unitPriceUSD": 179.1,
+      "priceLabel": "$179.10",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:04:01.364595-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-be41bc6b4dcd0c38b2e0.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-8b11759c37041e9968be.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-93638d56c5ff1ac52b95.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-6c1995dd4d90cae98f94.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-c596348ff72c06d66fbd.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-037f25a4613f86b07bb1.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-47b1b43ef265c2fadb00.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-79a1f2831badd02afb66.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-3879f9d6bc0425888af5.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        }
+      ],
+      "image": "assets/images/hl-be41bc6b4dcd0c38b2e0.webp",
+      "imageAlt": "Helmut Lang · Distressed Crew",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/distressed-crew/white/199046060984.html",
+          "variantId": "199046060984",
+          "originalPriceUSD": 398.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/distressed-crew/white/199046060991.html",
+          "variantId": "199046060991",
+          "originalPriceUSD": 398.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-7819c81ed2128fb7",
+      "name": "Helmut Lang · Distressed V-Neck",
+      "url": "https://www.helmutlang.com/distressed-v-neck/Q06HM701_YAU.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "rosso",
+      "unitPriceUSD": 179.1,
+      "priceLabel": "$179.10",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:04:02.008491-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-fe362cab1bc0b90873f9.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-0f34f6a83e230a457082.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-cbfdf347fb6f88d22937.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-501666c5848b9f3730fc.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-3eca7959278d841f213c.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-9203c25aca61c5d9cfc9.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-4126d8d5c840a21fb3b7.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-341353902b4aaa7b7d58.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-75324259f4d57084b828.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        },
+        {
+          "src": "assets/images/hl-0a25a529e31f26789428.webp",
+          "alt": "Helmut Lang · Distressed V-Neck"
+        }
+      ],
+      "image": "assets/images/hl-fe362cab1bc0b90873f9.webp",
+      "imageAlt": "Helmut Lang · Distressed V-Neck",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/distressed-v-neck/red/199046060700.html",
+          "variantId": "199046060700",
+          "originalPriceUSD": 398.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/distressed-v-neck/red/199046060717.html",
+          "variantId": "199046060717",
+          "originalPriceUSD": 398.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-0238f788f544e05f",
+      "name": "Helmut Lang · Distressed Crew",
+      "url": "https://www.helmutlang.com/distressed-crew/Q06HM703_YAU.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "rosso",
+      "unitPriceUSD": 179.1,
+      "priceLabel": "$179.10",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:04:06.223073-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-67351b392a4ec1820c7c.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-4720b1c443c89b01ec5e.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-360e5a93f13056e027b5.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-c4d098e074a031d3d512.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-7cadb3e5b653ecade09a.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-48a7223193b5dd475f27.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-a6cf604be979506eaeb3.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-8603ab91d65738a9d5ad.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        },
+        {
+          "src": "assets/images/hl-b41f4a60eb6ba0edd35b.webp",
+          "alt": "Helmut Lang · Distressed Crew"
+        }
+      ],
+      "image": "assets/images/hl-67351b392a4ec1820c7c.webp",
+      "imageAlt": "Helmut Lang · Distressed Crew",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/distressed-crew/red/199046061141.html",
+          "variantId": "199046061141",
+          "originalPriceUSD": 398.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/distressed-crew/red/199046061158.html",
+          "variantId": "199046061158",
+          "originalPriceUSD": 398.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-c1e8e32f80763bd5",
+      "name": "Helmut Lang · Horse Race Hoodie",
+      "url": "https://www.helmutlang.com/horse-race-hoodie/Q07HM512_C7J.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "optic white",
+      "unitPriceUSD": 134.1,
+      "priceLabel": "$134.10",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:06:25.742235-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-78c699c3ffe70f093bb6.webp",
+          "alt": "Helmut Lang · Horse Race Hoodie"
+        },
+        {
+          "src": "assets/images/hl-7fd729a39e5f80883ca4.webp",
+          "alt": "Helmut Lang · Horse Race Hoodie"
+        },
+        {
+          "src": "assets/images/hl-b76e3f7fbe700fae6a5f.webp",
+          "alt": "Helmut Lang · Horse Race Hoodie"
+        },
+        {
+          "src": "assets/images/hl-519b7e0c646141eac3bd.webp",
+          "alt": "Helmut Lang · Horse Race Hoodie"
+        },
+        {
+          "src": "assets/images/hl-a70bf32bc0bd0fc686be.webp",
+          "alt": "Helmut Lang · Horse Race Hoodie"
+        },
+        {
+          "src": "assets/images/hl-97b568e074e655dfd22a.webp",
+          "alt": "Helmut Lang · Horse Race Hoodie"
+        },
+        {
+          "src": "assets/images/hl-cd6503125cf3cf4c1c6c.webp",
+          "alt": "Helmut Lang · Horse Race Hoodie"
+        },
+        {
+          "src": "assets/images/hl-1d5c6bcea391a0a3c0ab.webp",
+          "alt": "Helmut Lang · Horse Race Hoodie"
+        },
+        {
+          "src": "assets/images/hl-72537f4c1b78eca7502d.webp",
+          "alt": "Helmut Lang · Horse Race Hoodie"
+        },
+        {
+          "src": "assets/images/hl-31592dbc70549cceb255.webp",
+          "alt": "Helmut Lang · Horse Race Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-78c699c3ffe70f093bb6.webp",
+      "imageAlt": "Helmut Lang · Horse Race Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/horse-race-hoodie/white/199046072352.html",
+          "variantId": "199046072352",
+          "originalPriceUSD": 298.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/horse-race-hoodie/white/199046072369.html",
+          "variantId": "199046072369",
+          "originalPriceUSD": 298.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-3316714b8026f498",
+      "name": "Helmut Lang · Rib Crew Cardigan",
+      "url": "https://www.helmutlang.com/rib-crew-cardigan/Q07HM702_QXF.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "thyme",
+      "unitPriceUSD": 165.6,
+      "priceLabel": "$165.60",
+      "facts": {
+        "Fabric": "Composition: 100% Wool",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:06:26.002393-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-f3ec4a4c7019567def4d.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-75c62e82db9939376d5e.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-d8d0d1ef16b7a7623183.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-5713a2cd645a016123ba.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-d70cb6e1c41a8e4567e9.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-6a106fe22ddf2e2aac20.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-6e2ac1c24c9ddfd53088.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-1add15589c0518e1f8d8.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-73a1bf7b9bd394572be4.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        }
+      ],
+      "image": "assets/images/hl-f3ec4a4c7019567def4d.webp",
+      "imageAlt": "Helmut Lang · Rib Crew Cardigan",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/rib-crew-cardigan/green/199046064012.html",
+          "variantId": "199046064012",
+          "originalPriceUSD": 368.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/rib-crew-cardigan/green/199046064029.html",
+          "variantId": "199046064029",
+          "originalPriceUSD": 368.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-687d2e751dcee286",
+      "name": "Helmut Lang · Rib Crew Cardigan",
+      "url": "https://www.helmutlang.com/rib-crew-cardigan/Q07HM702_WKW.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "sunlight",
+      "unitPriceUSD": 165.6,
+      "priceLabel": "$165.60",
+      "facts": {
+        "Fabric": "Composition: 100% Wool",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:06:31.001374-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-069897a952a5dc366014.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-d6e90bf0646c961657a1.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-b3df1406cd67c8501aaf.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-9cd390e201d40a3c4fbf.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-4c48ba03536b0bf5a745.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-02308efea2222df7f1cd.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-a757f5faa98899d4e2e7.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-9b36cdedea9a96bc4639.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-63199e95400eff6d011f.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        }
+      ],
+      "image": "assets/images/hl-069897a952a5dc366014.webp",
+      "imageAlt": "Helmut Lang · Rib Crew Cardigan",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/rib-crew-cardigan/yellow/199046064098.html",
+          "variantId": "199046064098",
+          "originalPriceUSD": 368.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/rib-crew-cardigan/yellow/199046064104.html",
+          "variantId": "199046064104",
+          "originalPriceUSD": 368.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-ac4df684c029ec86",
+      "name": "Helmut Lang · Rib Crew Cardigan",
+      "url": "https://www.helmutlang.com/rib-crew-cardigan/Q07HM702_V2S.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "graphite",
+      "unitPriceUSD": 165.6,
+      "priceLabel": "$165.60",
+      "facts": {
+        "Fabric": "Composition: 100% Wool",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:06:31.529960-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-ebfd81722263d3918b79.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-94263b786e3a6f5a084d.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-5d1e2ae338e17614368c.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-b7bbe9dbc5f1a9b1912b.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-dfb43fe87e33df87785f.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-1b6cc8c509f0923d6ef5.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-e9307e7d8fc684eb9c68.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-0967040d0d502cfce3ca.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        },
+        {
+          "src": "assets/images/hl-2a52b3a7708e9f972c41.webp",
+          "alt": "Helmut Lang · Rib Crew Cardigan"
+        }
+      ],
+      "image": "assets/images/hl-ebfd81722263d3918b79.webp",
+      "imageAlt": "Helmut Lang · Rib Crew Cardigan",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/rib-crew-cardigan/grey/199046064050.html",
+          "variantId": "199046064050",
+          "originalPriceUSD": 368.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/rib-crew-cardigan/grey/199046064067.html",
+          "variantId": "199046064067",
+          "originalPriceUSD": 368.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-1ef151ddab500da3",
+      "name": "Helmut Lang · Contrast V-Neck",
+      "url": "https://www.helmutlang.com/contrast-v-neck/Q07HM703_2Z4.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "lt grey bicolor",
+      "unitPriceUSD": 156.6,
+      "priceLabel": "$156.60",
+      "facts": {
+        "Fabric": "Composition: 100% Wool",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:06:36.325746-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-76d5b3af2102befc124b.webp",
+          "alt": "Helmut Lang · Contrast V-Neck"
+        },
+        {
+          "src": "assets/images/hl-b5a190f54549a8cbd9ac.webp",
+          "alt": "Helmut Lang · Contrast V-Neck"
+        },
+        {
+          "src": "assets/images/hl-d7f043154318586dc4ad.webp",
+          "alt": "Helmut Lang · Contrast V-Neck"
+        },
+        {
+          "src": "assets/images/hl-fd93d985d6dd6301596f.webp",
+          "alt": "Helmut Lang · Contrast V-Neck"
+        },
+        {
+          "src": "assets/images/hl-909b75ae78fe3572229d.webp",
+          "alt": "Helmut Lang · Contrast V-Neck"
+        },
+        {
+          "src": "assets/images/hl-cbca2415f297115b0d6e.webp",
+          "alt": "Helmut Lang · Contrast V-Neck"
+        },
+        {
+          "src": "assets/images/hl-b13c379185c388bfe62b.webp",
+          "alt": "Helmut Lang · Contrast V-Neck"
+        },
+        {
+          "src": "assets/images/hl-b9d21711d163e7133c45.webp",
+          "alt": "Helmut Lang · Contrast V-Neck"
+        },
+        {
+          "src": "assets/images/hl-7b099d30f783a7a20e1c.webp",
+          "alt": "Helmut Lang · Contrast V-Neck"
+        }
+      ],
+      "image": "assets/images/hl-76d5b3af2102befc124b.webp",
+      "imageAlt": "Helmut Lang · Contrast V-Neck",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/contrast-v-neck/grey/199046064173.html",
+          "variantId": "199046064173",
+          "originalPriceUSD": 348.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/contrast-v-neck/grey/199046064180.html",
+          "variantId": "199046064180",
+          "originalPriceUSD": 348.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-4d0ecadfa5320c77",
+      "name": "Helmut Lang · Rib Crew",
+      "url": "https://www.helmutlang.com/rib-crew/Q07HM705_BXP.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "mid grey",
+      "unitPriceUSD": 147.6,
+      "priceLabel": "$147.60",
+      "facts": {
+        "Fabric": "Composition: 100% Wool",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:06:41.335348-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-20e1506244cb9f009c40.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-be14b11bb30ad9d2df78.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-f9a267aec39c3c1be171.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-4b33cf6e222e0e9e2a09.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-24fdff1315c5d35b35f9.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-59d690cc181cacbe24f3.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-4de86a763bcd58ad7bf9.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-1e8a2949baf2078aadaf.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-9e09e2fd536913a1cd0d.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        }
+      ],
+      "image": "assets/images/hl-20e1506244cb9f009c40.webp",
+      "imageAlt": "Helmut Lang · Rib Crew",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/rib-crew/grey/199046064210.html",
+          "variantId": "199046064210",
+          "originalPriceUSD": 328.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/rib-crew/grey/199046064227.html",
+          "variantId": "199046064227",
+          "originalPriceUSD": 328.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-38f3b5a7c0ad86f0",
+      "name": "Helmut Lang · Rib Crew",
+      "url": "https://www.helmutlang.com/rib-crew/Q07HM705_V2S.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "graphite",
+      "unitPriceUSD": 147.6,
+      "priceLabel": "$147.60",
+      "facts": {
+        "Fabric": "Composition: 100% Wool",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:06:41.696573-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-ea24ea74211f7f0a4d4c.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-5b5bb804c65cc41a3d4f.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-135595185558586f7850.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-9a89e2fb6e6838dee69a.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-4e00ba2fd6eca1234aab.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-81f255ff0abac965b598.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-cf540e1e82bd0de3b669.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-d36b3804b53b78b0516d.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-a1dd41cf1da581a5d7c7.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        }
+      ],
+      "image": "assets/images/hl-ea24ea74211f7f0a4d4c.webp",
+      "imageAlt": "Helmut Lang · Rib Crew",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/rib-crew/grey/199046064333.html",
+          "variantId": "199046064333",
+          "originalPriceUSD": 328.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/rib-crew/grey/199046064340.html",
+          "variantId": "199046064340",
+          "originalPriceUSD": 328.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-eaaf44cb90f64e63",
+      "name": "Helmut Lang · Rib Crew",
+      "url": "https://www.helmutlang.com/rib-crew/Q07HM705_QXF.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "thyme",
+      "unitPriceUSD": 147.6,
+      "priceLabel": "$147.60",
+      "facts": {
+        "Fabric": "Composition: 100% Wool",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:06:44.847499-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-223acb425d312592713e.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-655e51ea49d0a80e39a3.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-c0047a40d6b6b20c4d69.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-960ecd6c394c84281c35.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-18b29d1a0efa02250d26.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-3c748300c809135f7d9b.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-6db749bc9088ddd052ee.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-26e1beab9fb51637786e.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-eec26553d79e9990db80.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        }
+      ],
+      "image": "assets/images/hl-223acb425d312592713e.webp",
+      "imageAlt": "Helmut Lang · Rib Crew",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/rib-crew/green/199046064296.html",
+          "variantId": "199046064296",
+          "originalPriceUSD": 328.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/rib-crew/green/199046064302.html",
+          "variantId": "199046064302",
+          "originalPriceUSD": 328.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-1efa3542a3fb0537",
+      "name": "Helmut Lang · Brush Stripe Crew",
+      "url": "https://www.helmutlang.com/brush-stripe-crew/Q07HM706_EHC.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "oatmeal melange",
+      "unitPriceUSD": 192.6,
+      "priceLabel": "$192.60",
+      "facts": {
+        "Fabric": "Composition: 100% Wool",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:06:46.279234-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-03669e00c5523c526262.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-77e9e203ba0bdb1e6339.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-2a2fdd45fda11f2da35c.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-9a47b734c6bc833041fa.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-c1e002851279a26822db.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-5c93312754fc55c3f381.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-1341198608fe07cfe085.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-c965259a14ace1ac855c.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-42718e9fbb37bc5905d0.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        }
+      ],
+      "image": "assets/images/hl-03669e00c5523c526262.webp",
+      "imageAlt": "Helmut Lang · Brush Stripe Crew",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/brush-stripe-crew/beige/199046072062.html",
+          "variantId": "199046072062",
+          "originalPriceUSD": 428.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/brush-stripe-crew/beige/199046072079.html",
+          "variantId": "199046072079",
+          "originalPriceUSD": 428.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-b47b9129d61987fa",
+      "name": "Helmut Lang · Rib Crew",
+      "url": "https://www.helmutlang.com/rib-crew/Q07HM705_WKW.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "sunlight",
+      "unitPriceUSD": 147.6,
+      "priceLabel": "$147.60",
+      "facts": {
+        "Fabric": "Composition: 100% Wool",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:06:48.088451-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-c68fe988bdded7ea3f30.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-865a774ee363ed7bfa9e.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-495e66954b2b60ec358d.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-f43677e65cc6acd81adb.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-3302b457d766f0ba219e.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-f988c74fae27bad59a11.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-b44efe3f80e47688aea0.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-28cc5835217e271349fd.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        },
+        {
+          "src": "assets/images/hl-662fa9416bc432a45ebc.webp",
+          "alt": "Helmut Lang · Rib Crew"
+        }
+      ],
+      "image": "assets/images/hl-c68fe988bdded7ea3f30.webp",
+      "imageAlt": "Helmut Lang · Rib Crew",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/rib-crew/yellow/199046064371.html",
+          "variantId": "199046064371",
+          "originalPriceUSD": 328.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/rib-crew/yellow/199046064388.html",
+          "variantId": "199046064388",
+          "originalPriceUSD": 328.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-43e956d988986d63",
+      "name": "Helmut Lang · Brush Stripe Crew",
+      "url": "https://www.helmutlang.com/brush-stripe-crew/Q07HM706_Q4T.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "green marl",
+      "unitPriceUSD": 192.6,
+      "priceLabel": "$192.60",
+      "facts": {
+        "Fabric": "Composition: 100% Wool",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:06:51.726615-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-e20811930ae2a52aefd9.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-3a977b6ca11bf8167bcf.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-da64df3ce235f7a18f2b.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-60bb19490cd54ec4a049.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-6086ca17e71700d77c4d.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-cfa30d318384da8c6e2e.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-5768de46d73c1f4264c4.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-9f1599b8a1aadbb5e391.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        },
+        {
+          "src": "assets/images/hl-9b1281f5d4ab381163f2.webp",
+          "alt": "Helmut Lang · Brush Stripe Crew"
+        }
+      ],
+      "image": "assets/images/hl-e20811930ae2a52aefd9.webp",
+      "imageAlt": "Helmut Lang · Brush Stripe Crew",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/brush-stripe-crew/green/199046064456.html",
+          "variantId": "199046064456",
+          "originalPriceUSD": 428.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/brush-stripe-crew/green/199046064463.html",
+          "variantId": "199046064463",
+          "originalPriceUSD": 428.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-cbce1f9ee0fd515c",
+      "name": "Helmut Lang · Blur Hoodie",
+      "url": "https://www.helmutlang.com/blur-hoodie/Q09HM507_001.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "black",
+      "unitPriceUSD": 223.5,
+      "priceLabel": "$223.50",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:08:37.216738-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-c6612b73f89fa4e66343.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-9d4cbe44fea6afb08fcb.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-4393bcea9664ceeb6d98.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-ce7cb3642b2965a6b499.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-4504b80e28b4076bb252.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-a0ae7efd5b7eb7017709.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-7ba517192f232fd7fa6c.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-14841217aef01d5fc865.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-e8438f69a2cfceb8563a.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-c6612b73f89fa4e66343.webp",
+      "imageAlt": "Helmut Lang · Blur Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/blur-hoodie/black/199046081361.html",
+          "variantId": "199046081361",
+          "originalPriceUSD": 298.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/blur-hoodie/black/199046081378.html",
+          "variantId": "199046081378",
+          "originalPriceUSD": 298.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-c115428067df63b0",
+      "name": "Helmut Lang · Blur Hoodie",
+      "url": "https://www.helmutlang.com/blur-hoodie/Q09HM507_V1F.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "vintage white",
+      "unitPriceUSD": 298.0,
+      "priceLabel": "$298.00",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:08:39.047332-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-9ea6027600cc0de3bd45.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-d5069d314287d945b5ce.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-ca18acf10750bc444e20.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-9b422f75a16d90970b6d.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-1c088be58a2a6a19b884.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-64be34f3697776440728.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-b0fd4a67add263255b62.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-3c3d665461318db2a374.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-a5bf8d7859e12dc79423.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-9ea6027600cc0de3bd45.webp",
+      "imageAlt": "Helmut Lang · Blur Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/blur-hoodie/white/199046074295.html",
+          "variantId": "199046074295"
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/blur-hoodie/white/199046074301.html",
+          "variantId": "199046074301"
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-492bbb0d11393b1b",
+      "name": "Helmut Lang · Blur Hoodie",
+      "url": "https://www.helmutlang.com/blur-hoodie/Q09HM507_2ZV.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "chocolate torte",
+      "unitPriceUSD": 298.0,
+      "priceLabel": "$298.00",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:08:39.716435-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-d98982b56bc02d55a94a.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-e448275ea010d6aad9d6.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-5767210f0e8ce3cf787e.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-77aaf169e94a5c0b3263.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-4a0bd535f18af473376f.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-e1660a87bcad3063bb11.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-c79f89af954f6e61e51f.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-5665dc88925b541fff6a.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-504fe274cb55ce7a523e.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-d98982b56bc02d55a94a.webp",
+      "imageAlt": "Helmut Lang · Blur Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/blur-hoodie/brown/199046074257.html",
+          "variantId": "199046074257"
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/blur-hoodie/brown/199046074264.html",
+          "variantId": "199046074264"
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-4f0af1538dec0a33",
+      "name": "Helmut Lang · Disco Hoodie",
+      "url": "https://www.helmutlang.com/disco-hoodie/Q09HM512_TRC.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "dahlia",
+      "unitPriceUSD": 223.5,
+      "priceLabel": "$223.50",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:08:50.255356-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-a151a5097e8528bf6dc5.webp",
+          "alt": "Helmut Lang · Disco Hoodie"
+        },
+        {
+          "src": "assets/images/hl-9d10af2d65371cd91f7f.webp",
+          "alt": "Helmut Lang · Disco Hoodie"
+        },
+        {
+          "src": "assets/images/hl-7036562bf9ff6baf4cf4.webp",
+          "alt": "Helmut Lang · Disco Hoodie"
+        },
+        {
+          "src": "assets/images/hl-649ad0cdfb91d8b7627a.webp",
+          "alt": "Helmut Lang · Disco Hoodie"
+        },
+        {
+          "src": "assets/images/hl-19c786c80a12c391940d.webp",
+          "alt": "Helmut Lang · Disco Hoodie"
+        },
+        {
+          "src": "assets/images/hl-63c51994b9cc26e6225e.webp",
+          "alt": "Helmut Lang · Disco Hoodie"
+        },
+        {
+          "src": "assets/images/hl-1c385bd8024af4515bb7.webp",
+          "alt": "Helmut Lang · Disco Hoodie"
+        },
+        {
+          "src": "assets/images/hl-c59b540464232c5bfe19.webp",
+          "alt": "Helmut Lang · Disco Hoodie"
+        },
+        {
+          "src": "assets/images/hl-0a79fc9301aa421971a1.webp",
+          "alt": "Helmut Lang · Disco Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-a151a5097e8528bf6dc5.webp",
+      "imageAlt": "Helmut Lang · Disco Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/disco-hoodie/red/199046074615.html",
+          "variantId": "199046074615",
+          "originalPriceUSD": 298.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/disco-hoodie/red/199046074622.html",
+          "variantId": "199046074622",
+          "originalPriceUSD": 298.0
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
+    },
+    {
+      "id": "jacket-b831484740b4a546",
+      "name": "Helmut Lang · Blur Hoodie",
+      "url": "https://www.helmutlang.com/blur-hoodie/Q10HM507_TZX.html",
+      "store": "Helmut Lang",
+      "brand": "Helmut Lang",
+      "category": "Sweater",
+      "color": "dark heather melange",
+      "unitPriceUSD": 298.0,
+      "priceLabel": "$298.00",
+      "facts": {
+        "Fabric": "Composition: 100% Cotton",
+        "Size": "S and M",
+        "Observed": "2026-11-23T18:10:40.871679-05:00"
+      },
+      "images": [
+        {
+          "src": "assets/images/hl-cfcc07eb9204601ca474.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-dfa8a608be56e95b7fa7.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-a4c1c2563b0a82a2b11d.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-d05c3346d03d23cedb28.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-7c5195578c577612bedc.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-543fb5b46da77163a9c0.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-e5a10cf7f48b6e2748f5.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-13ef2f3b04435e4cb646.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        },
+        {
+          "src": "assets/images/hl-86623ce8a13dc271af88.webp",
+          "alt": "Helmut Lang · Blur Hoodie"
+        }
+      ],
+      "image": "assets/images/hl-cfcc07eb9204601ca474.webp",
+      "imageAlt": "Helmut Lang · Blur Hoodie",
+      "deal": "S and M",
+      "summary": "",
+      "verdict": "Sweater",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.helmutlang.com/blur-hoodie/grey/199046076282.html",
+          "variantId": "199046076282"
+        },
+        {
+          "size": "M",
+          "url": "https://www.helmutlang.com/blur-hoodie/grey/199046076299.html",
+          "variantId": "199046076299"
+        }
+      ],
+      "naturalPercent": null,
+      "integrityRank": 0
     }
   ],
   "sources": [
@@ -12124,6 +16900,461 @@
       "title": "PRM · A.P.C. Veste Kerlouan Brodee men's cotton transitional jacket beige COHGI.H03205",
       "type": "First-party product evidence",
       "note": "Saved observation: 2026-11-23T17:56:06.601714-05:00"
+    },
+    {
+      "id": "jacket-d6762ac758140bea",
+      "url": "https://www.hawesandcurtis.com/black-half-zip-merino-jumper-machine-washable-jwpwh001-a01",
+      "title": "Hawes & Curtis · Black Half Zip Merino Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-24ac8acd385b8dc8",
+      "url": "https://www.hawesandcurtis.com/blue-half-zip-sweater-machine-washable-jwpwh001-b01",
+      "title": "Hawes & Curtis · Blue Half Zip Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-48660f306f7e33d2",
+      "url": "https://www.hawesandcurtis.com/brown-half-zip-jumper-machine-washable-jwpwh001-c01",
+      "title": "Hawes & Curtis · Brown Half Zip Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-fb2596d741c36dba",
+      "url": "https://www.hawesandcurtis.com/claret-half-zip-merino-jumper-machine-washable-jwpwh001-k97",
+      "title": "Hawes & Curtis · Claret Half Zip Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-01eed044dba1e232",
+      "url": "https://www.hawesandcurtis.com/cocoa-brown-collared-cardigan-jwpwl038-z87",
+      "title": "Hawes & Curtis · Cocoa Brown Collared Cardigan",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-564f10123fb392b0",
+      "url": "https://www.hawesandcurtis.com/cocoa-brown-half-zip-jumper-machine-washable-jwpwh001-z85",
+      "title": "Hawes & Curtis · Cocoa Brown Half Zip Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-16adb8715f8482f1",
+      "url": "https://www.hawesandcurtis.com/dark-green-half-zip-merino-jumper-machine-washable1-jwpwh001-e21",
+      "title": "Hawes & Curtis · Dark Green Half Zip Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-53a7f1e6db73d607",
+      "url": "https://www.hawesandcurtis.com/dark-teal-half-zip-jumper-machine-washable-jwpwh001-e42",
+      "title": "Hawes & Curtis · Dark Teal Half Zip Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-521f28f27646a425",
+      "url": "https://www.hawesandcurtis.com/dusky-pink-half-zip-merino-jumper-machine-washable-jwpwh001-x02",
+      "title": "Hawes & Curtis · Dusky Pink Half Zip Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-6a6a950849882f0e",
+      "url": "https://www.hawesandcurtis.com/dusty-blue-half-zip-jumper-machine-washable-jwpwh001-z86",
+      "title": "Hawes & Curtis · Dusty Blue Half Zip Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-583f8c9baede7f3d",
+      "url": "https://www.hawesandcurtis.com/grey-half-zip-merino-jumper-machine-washable-jwpwh001-f01",
+      "title": "Hawes & Curtis · Grey Half Zip Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-4df256e25ebe99a3",
+      "url": "https://www.hawesandcurtis.com/light-grey-hooded-jumper-machine-washable-jwpwj008-f42",
+      "title": "Hawes & Curtis · Light Grey Hooded Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-272ac33d9aa95126",
+      "url": "https://www.hawesandcurtis.com/moss-green-half-zip-merino-jumper-machine-washable-jwpwh001-e82",
+      "title": "Hawes & Curtis · Moss Green Half Zip Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-de65404d8446b66b",
+      "url": "https://www.hawesandcurtis.com/navy-collared-cardigan-jwpwl038-g01",
+      "title": "Hawes & Curtis · Navy Collared Cardigan ",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-75b09c5de61f455a",
+      "url": "https://www.hawesandcurtis.com/navy-half-zip-merino-jumper-machine-washable-jwpwh001-g01",
+      "title": "Hawes & Curtis · Navy Half Zip Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-be8997ffb7842365",
+      "url": "https://www.hawesandcurtis.com/navy-hooded-jumper-machine-washable-jwpwj008-g01",
+      "title": "Hawes & Curtis · Navy Hooded Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-cefd286fe921d15d",
+      "url": "https://www.hawesandcurtis.com/neutral-half-zip-merino-jumper-machine-washable-jwpwh001-h01",
+      "title": "Hawes & Curtis · Neutral Half Zip Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-f91fb7de0d686da9",
+      "url": "https://www.hawesandcurtis.com/soft-olive-half-zip-jumper-machine-washable-jwpwh001-z84",
+      "title": "Hawes & Curtis · Soft Olive Half Zip Sweater - Machine Washable",
+      "type": "First-party product evidence",
+      "note": "Saved observation: Retained exact variant snapshot"
+    },
+    {
+      "id": "jacket-5d737460ba180363",
+      "url": "https://www.helmutlang.com/feather-studio-hoodie/P02HM506_B00.html",
+      "title": "Helmut Lang · Feather Studio Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:51:10.977242-05:00"
+    },
+    {
+      "id": "jacket-15a53bb204b35bca",
+      "url": "https://www.helmutlang.com/blue-scribble-hoodie/P02HM513_C0V.html",
+      "title": "Helmut Lang · Blue Scribble Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:51:11.617913-05:00"
+    },
+    {
+      "id": "jacket-25779b743a1f8ab5",
+      "url": "https://www.helmutlang.com/embossed-logo-hoodie/P04HM504_100.html",
+      "title": "Helmut Lang · Embossed Logo Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:51:19.232572-05:00"
+    },
+    {
+      "id": "jacket-d88a7e542ce1ff04",
+      "url": "https://www.helmutlang.com/ribbed-v-neck-sweater/P05HM704_100.html",
+      "title": "Helmut Lang · Ribbed V-Neck Sweater",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:51:46.821155-05:00"
+    },
+    {
+      "id": "jacket-3f457d6d0b6d1c06",
+      "url": "https://www.helmutlang.com/contrast-seam-tee/P06HM705_QTG.html",
+      "title": "Helmut Lang · Contrast Seam Tee",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:51:54.405275-05:00"
+    },
+    {
+      "id": "jacket-85bb566c9022e68d",
+      "url": "https://www.helmutlang.com/ski-map-hoodie/P09HM507_100.html",
+      "title": "Helmut Lang · Ski Map Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:52:20.341030-05:00"
+    },
+    {
+      "id": "jacket-498535594788fafd",
+      "url": "https://www.helmutlang.com/stencil-hoodie/P10HM504_100.html",
+      "title": "Helmut Lang · Stencil Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:52:59.390075-05:00"
+    },
+    {
+      "id": "jacket-c4962d2fdb833e3e",
+      "url": "https://www.helmutlang.com/cropped-trucker-jacket/Q01DM501_2Q2.html",
+      "title": "Helmut Lang · Cropped Trucker Jacket",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:53:49.543683-05:00"
+    },
+    {
+      "id": "jacket-ef5ed6e3c975d362",
+      "url": "https://www.helmutlang.com/cropped-trucker-jacket/Q01DM502_2Q0.html",
+      "title": "Helmut Lang · Cropped Trucker Jacket",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:53:52.710611-05:00"
+    },
+    {
+      "id": "jacket-caa6f6226f53ff36",
+      "url": "https://www.helmutlang.com/utility-shirt-jacket/Q01HM102_YNB.html",
+      "title": "Helmut Lang · Utility Shirt Jacket",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:53:58.810946-05:00"
+    },
+    {
+      "id": "jacket-c63b8bf6325d2938",
+      "url": "https://www.helmutlang.com/shirt-bomber/Q01HM101_GJR.html",
+      "title": "Helmut Lang · Shirt Bomber",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:53:59.101708-05:00"
+    },
+    {
+      "id": "jacket-1b7e3811514b8b43",
+      "url": "https://www.helmutlang.com/garment-dyed-wardrobe-hoodie/Q01HM506_2QA.html",
+      "title": "Helmut Lang · Garment-Dyed Wardrobe Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:54:40.445973-05:00"
+    },
+    {
+      "id": "jacket-3950a3a984e2ac31",
+      "url": "https://www.helmutlang.com/handwritten-logo-hoodie/Q01HM510_V1F.html",
+      "title": "Helmut Lang · Handwritten Logo Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:54:51.661794-05:00"
+    },
+    {
+      "id": "jacket-713e1f59dadc9b25",
+      "url": "https://www.helmutlang.com/plaid-logo-hoodie/Q02HM509_V1F.html",
+      "title": "Helmut Lang · Plaid Logo Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:57:43.494959-05:00"
+    },
+    {
+      "id": "jacket-2f90bc191476c94e",
+      "url": "https://www.helmutlang.com/sailor-overshirt/Q04HM102_C69.html",
+      "title": "Helmut Lang · Sailor Overshirt",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T17:59:18.992425-05:00"
+    },
+    {
+      "id": "jacket-a9808ba36d6fb5b6",
+      "url": "https://www.helmutlang.com/cropped-trucker-jacket/Q05DM502_RK5.html",
+      "title": "Helmut Lang · Cropped Trucker Jacket",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:00:52.180573-05:00"
+    },
+    {
+      "id": "jacket-efbc60ef2cfa80c2",
+      "url": "https://www.helmutlang.com/stamp-hoodie/Q05HM506_G2N.html",
+      "title": "Helmut Lang · Stamp Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:27:05.070417-05:00"
+    },
+    {
+      "id": "jacket-1ce9eb54de05cd59",
+      "url": "https://www.helmutlang.com/stamp-hoodie/Q05HM506_C7J.html",
+      "title": "Helmut Lang · Stamp Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:01:17.247969-05:00"
+    },
+    {
+      "id": "jacket-0816ba4fcb691b6b",
+      "url": "https://www.helmutlang.com/stamp-hoodie/Q05HM506_G60.html",
+      "title": "Helmut Lang · Stamp Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:01:17.395287-05:00"
+    },
+    {
+      "id": "jacket-3b5b4446288ef2b0",
+      "url": "https://www.helmutlang.com/stamp-hoodie/Q05HM507_B53.html",
+      "title": "Helmut Lang · Stamp Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:01:21.647006-05:00"
+    },
+    {
+      "id": "jacket-0bdf26cd59e996bd",
+      "url": "https://www.helmutlang.com/cropped-trucker-jacket/Q06DM101_2XG.html",
+      "title": "Helmut Lang · Cropped Trucker Jacket",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:02:41.024306-05:00"
+    },
+    {
+      "id": "jacket-69423eda0317c204",
+      "url": "https://www.helmutlang.com/terry-zip-jacket/Q06HM501_FGN.html",
+      "title": "Helmut Lang · Terry Zip Jacket",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:03:12.837987-05:00"
+    },
+    {
+      "id": "jacket-1b15d7f60ec6fd16",
+      "url": "https://www.helmutlang.com/terry-zip-jacket/Q06HM501_G0F.html",
+      "title": "Helmut Lang · Terry Zip Jacket",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:03:14.730187-05:00"
+    },
+    {
+      "id": "jacket-23b6077f7fa16b4c",
+      "url": "https://www.helmutlang.com/small-logo-hoodie/Q06HM508_V1F.html",
+      "title": "Helmut Lang · Small Logo Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:03:42.251611-05:00"
+    },
+    {
+      "id": "jacket-f3b97f300ab6cf12",
+      "url": "https://www.helmutlang.com/ticket-hoodie/Q06HM509_EAC.html",
+      "title": "Helmut Lang · Ticket Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:03:44.158792-05:00"
+    },
+    {
+      "id": "jacket-bf08639d2147cb80",
+      "url": "https://www.helmutlang.com/ticket-hoodie/Q06HM509_FGN.html",
+      "title": "Helmut Lang · Ticket Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:03:46.734763-05:00"
+    },
+    {
+      "id": "jacket-06851d94a229a96e",
+      "url": "https://www.helmutlang.com/distressed-v-neck/Q06HM701_G4K.html",
+      "title": "Helmut Lang · Distressed V-Neck",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:03:54.083850-05:00"
+    },
+    {
+      "id": "jacket-52c968b6fd977c00",
+      "url": "https://www.helmutlang.com/distressed-v-neck/Q06HM701_Q91.html",
+      "title": "Helmut Lang · Distressed V-Neck",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:03:57.533113-05:00"
+    },
+    {
+      "id": "jacket-909b93dde37b5b0a",
+      "url": "https://www.helmutlang.com/distressed-crew/Q06HM703_100.html",
+      "title": "Helmut Lang · Distressed Crew",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:04:01.364595-05:00"
+    },
+    {
+      "id": "jacket-7819c81ed2128fb7",
+      "url": "https://www.helmutlang.com/distressed-v-neck/Q06HM701_YAU.html",
+      "title": "Helmut Lang · Distressed V-Neck",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:04:02.008491-05:00"
+    },
+    {
+      "id": "jacket-0238f788f544e05f",
+      "url": "https://www.helmutlang.com/distressed-crew/Q06HM703_YAU.html",
+      "title": "Helmut Lang · Distressed Crew",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:04:06.223073-05:00"
+    },
+    {
+      "id": "jacket-c1e8e32f80763bd5",
+      "url": "https://www.helmutlang.com/horse-race-hoodie/Q07HM512_C7J.html",
+      "title": "Helmut Lang · Horse Race Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:06:25.742235-05:00"
+    },
+    {
+      "id": "jacket-3316714b8026f498",
+      "url": "https://www.helmutlang.com/rib-crew-cardigan/Q07HM702_QXF.html",
+      "title": "Helmut Lang · Rib Crew Cardigan",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:06:26.002393-05:00"
+    },
+    {
+      "id": "jacket-687d2e751dcee286",
+      "url": "https://www.helmutlang.com/rib-crew-cardigan/Q07HM702_WKW.html",
+      "title": "Helmut Lang · Rib Crew Cardigan",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:06:31.001374-05:00"
+    },
+    {
+      "id": "jacket-ac4df684c029ec86",
+      "url": "https://www.helmutlang.com/rib-crew-cardigan/Q07HM702_V2S.html",
+      "title": "Helmut Lang · Rib Crew Cardigan",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:06:31.529960-05:00"
+    },
+    {
+      "id": "jacket-1ef151ddab500da3",
+      "url": "https://www.helmutlang.com/contrast-v-neck/Q07HM703_2Z4.html",
+      "title": "Helmut Lang · Contrast V-Neck",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:06:36.325746-05:00"
+    },
+    {
+      "id": "jacket-4d0ecadfa5320c77",
+      "url": "https://www.helmutlang.com/rib-crew/Q07HM705_BXP.html",
+      "title": "Helmut Lang · Rib Crew",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:06:41.335348-05:00"
+    },
+    {
+      "id": "jacket-38f3b5a7c0ad86f0",
+      "url": "https://www.helmutlang.com/rib-crew/Q07HM705_V2S.html",
+      "title": "Helmut Lang · Rib Crew",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:06:41.696573-05:00"
+    },
+    {
+      "id": "jacket-eaaf44cb90f64e63",
+      "url": "https://www.helmutlang.com/rib-crew/Q07HM705_QXF.html",
+      "title": "Helmut Lang · Rib Crew",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:06:44.847499-05:00"
+    },
+    {
+      "id": "jacket-1efa3542a3fb0537",
+      "url": "https://www.helmutlang.com/brush-stripe-crew/Q07HM706_EHC.html",
+      "title": "Helmut Lang · Brush Stripe Crew",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:06:46.279234-05:00"
+    },
+    {
+      "id": "jacket-b47b9129d61987fa",
+      "url": "https://www.helmutlang.com/rib-crew/Q07HM705_WKW.html",
+      "title": "Helmut Lang · Rib Crew",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:06:48.088451-05:00"
+    },
+    {
+      "id": "jacket-43e956d988986d63",
+      "url": "https://www.helmutlang.com/brush-stripe-crew/Q07HM706_Q4T.html",
+      "title": "Helmut Lang · Brush Stripe Crew",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:06:51.726615-05:00"
+    },
+    {
+      "id": "jacket-cbce1f9ee0fd515c",
+      "url": "https://www.helmutlang.com/blur-hoodie/Q09HM507_001.html",
+      "title": "Helmut Lang · Blur Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:08:37.216738-05:00"
+    },
+    {
+      "id": "jacket-c115428067df63b0",
+      "url": "https://www.helmutlang.com/blur-hoodie/Q09HM507_V1F.html",
+      "title": "Helmut Lang · Blur Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:08:39.047332-05:00"
+    },
+    {
+      "id": "jacket-492bbb0d11393b1b",
+      "url": "https://www.helmutlang.com/blur-hoodie/Q09HM507_2ZV.html",
+      "title": "Helmut Lang · Blur Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:08:39.716435-05:00"
+    },
+    {
+      "id": "jacket-4f0af1538dec0a33",
+      "url": "https://www.helmutlang.com/disco-hoodie/Q09HM512_TRC.html",
+      "title": "Helmut Lang · Disco Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:08:50.255356-05:00"
+    },
+    {
+      "id": "jacket-b831484740b4a546",
+      "url": "https://www.helmutlang.com/blur-hoodie/Q10HM507_TZX.html",
+      "title": "Helmut Lang · Blur Hoodie",
+      "type": "First-party product evidence",
+      "note": "Saved observation: 2026-11-23T18:10:40.871679-05:00"
     }
   ]
 }
