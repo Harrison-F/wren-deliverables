@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24T06:06:00Z",
+  "checked_at": "2026-11-24T10:36:26Z",
   "stores": [
     {
       "name": "A.P.C.",
@@ -64,8 +64,8 @@
     {
       "name": "Industry of All Nations",
       "source": "https://industryofallnations.com/",
-      "status": "verified_offer",
-      "note": "Materials of All Nations Week: today’s 15% discount applies to Natural Dyes."
+      "status": "ambiguous",
+      "note": "Campaign or discount wording found; no verified general terms."
     },
     {
       "name": "Massimo Dutti",
