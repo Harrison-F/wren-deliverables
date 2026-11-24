@@ -24,24 +24,24 @@
     },
     {
       "name": "Abercrombie",
-      "status": "ok",
-      "checkpoint": "2026-11-23",
+      "status": "partial",
+      "checkpoint": "2026-11-24",
       "unit": "URLs",
-      "total": 1852,
-      "cached": 1852,
-      "discovered": 5895,
-      "scope": "Known product URLs; includes historical captures, not whole-store coverage. US.",
+      "total": 4091,
+      "cached": 4091,
+      "discovered": 4819,
+      "scope": "US adult style-page URLs from saved sitemap and/or men’s category discovery; not whole-store. 175 confirmed gone excluded; 201 saved URLs outside scope. Fields: any saved PDP evidence per matched URL, not current variant availability.",
       "fields": {
-        "color": 1064,
-        "category": 1852,
-        "named": 999,
-        "composition": 999,
-        "size": 1064,
-        "price": 1064,
-        "currency": 1064,
-        "sale": 598,
-        "available": 0,
-        "image": 1062
+        "color": 4091,
+        "category": 4087,
+        "named": 3973,
+        "composition": 3973,
+        "size": 1644,
+        "price": 4091,
+        "currency": 4091,
+        "sale": 2992,
+        "available": 1644,
+        "image": 4089
       }
     },
     {
@@ -201,12 +201,12 @@
     {
       "name": "Helmut Lang",
       "status": "browser-crawl",
-      "checkpoint": "2026-11-23",
+      "checkpoint": "2026-11-24",
       "unit": "URLs",
       "total": 561,
       "cached": 561,
-      "discovered": 561,
-      "scope": "Registered-browser crawl of sitemap/listing-discovered product URLs; raw HTML saved for enrichment. Not whole-store coverage.",
+      "discovered": 566,
+      "scope": "US product-detail (.html) sitemap paths; saved product records matched to discovered URLs. Not whole-store coverage.",
       "fields": {
         "color": 561,
         "category": 0,
@@ -272,7 +272,7 @@
       "total": 30,
       "cached": 30,
       "discovered": 30,
-      "scope": "Registered-browser crawl of sitemap/listing-discovered product URLs; raw HTML saved for enrichment. Not whole-store coverage.",
+      "scope": "US listing sample; saved product records matched to discovered URLs. Not whole-store coverage.",
       "fields": {
         "color": 0,
         "category": 0,
@@ -316,7 +316,7 @@
       "total": 200,
       "cached": 200,
       "discovered": 200,
-      "scope": "Registered-browser crawl of sitemap/listing-discovered product URLs; raw HTML saved for enrichment. Not whole-store coverage.",
+      "scope": "US sitemap sample; saved product records matched to discovered URLs. Not whole-store coverage.",
       "fields": {
         "color": 175,
         "category": 200,
@@ -382,7 +382,7 @@
       "total": 120,
       "cached": 120,
       "discovered": 120,
-      "scope": "Registered-browser crawl of sitemap/listing-discovered product URLs; raw HTML saved for enrichment. Not whole-store coverage.",
+      "scope": "US listing sample; saved product records matched to discovered URLs. Not whole-store coverage.",
       "fields": {
         "color": 0,
         "category": 0,
