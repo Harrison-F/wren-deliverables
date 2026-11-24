@@ -274,14 +274,14 @@
       "discovered": 30,
       "scope": "US listing sample; saved product records matched to discovered URLs. Not whole-store coverage.",
       "fields": {
-        "color": 0,
-        "category": 0,
-        "named": 0,
-        "composition": 0,
-        "size": 0,
+        "color": 30,
+        "category": 30,
+        "named": 23,
+        "composition": 22,
+        "size": 30,
         "price": 30,
         "currency": 30,
-        "sale": 0,
+        "sale": 30,
         "available": 30,
         "image": 30
       }
@@ -320,13 +320,13 @@
       "fields": {
         "color": 175,
         "category": 200,
-        "named": 0,
-        "composition": 0,
+        "named": 139,
+        "composition": 48,
         "size": 140,
         "price": 196,
         "currency": 196,
         "sale": 51,
-        "available": 0,
+        "available": 200,
         "image": 200
       }
     },
@@ -384,14 +384,14 @@
       "discovered": 120,
       "scope": "US listing sample; saved product records matched to discovered URLs. Not whole-store coverage.",
       "fields": {
-        "color": 0,
-        "category": 0,
-        "named": 0,
-        "composition": 0,
-        "size": 0,
+        "color": 120,
+        "category": 120,
+        "named": 120,
+        "composition": 45,
+        "size": 120,
         "price": 120,
         "currency": 120,
-        "sale": 0,
+        "sale": 120,
         "available": 120,
         "image": 120
       }
@@ -450,7 +450,7 @@
       "discovered": 9341,
       "scope": "Sitemap 2026-11-23: exact product URLs matched to saved feed records. Field coverage uses variants.",
       "fields": {
-        "color": 0,
+        "color": 4446,
         "category": 8347,
         "named": 7404,
         "composition": 1743,
