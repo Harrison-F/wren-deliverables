@@ -10,6 +10,11 @@ const $=s=>document.querySelector(s), cols={color:'Color',category:'Category',na
 for(const label of ['Store','Product-URL crawl success','Avg. field coverage','Field basis',...Object.values(cols),'Checkpoint']){const th=node('th',label);th.scope='col';$('#head').append(th)}
 function percent(n,d){if(!valid(n)||!valid(d)||!d||n>d)return '—';if(n===d)return '100%';if(n===0)return '0%';const p=100*n/d;return p>99.9?'>99.9%':p<0.1?'<0.1%':Number(p.toFixed(1))+'%'}
 function ratio(n,d){return valid(n)&&valid(d)&&d>0&&n<=d?n/d:-1}
+// Keep the real header aligned with its horizontally scrollable columns.
+const coverageTable=$('#coverage table'),coverageHead=coverageTable.tHead;
+coverageHead.style.position='relative';coverageHead.style.zIndex='4';
+function pinCoverageHead(){const r=coverageTable.getBoundingClientRect();coverageHead.style.transform=`translateY(${Math.max(0,Math.min(-r.top,r.height-coverageHead.offsetHeight))}px)`}
+addEventListener('scroll',pinCoverageHead,{passive:true});new ResizeObserver(pinCoverageHead).observe(coverageTable);
 function band(n,d){const r=ratio(n,d);return r<0?'unknown':r<0.5?'band-red':r<0.8?'band-yellow':''}
 function avgCounts(s){const ns=Object.keys(cols).map(k=>s.fields?.[k]).filter(n=>ratio(n,s.total)>=0);return [ns.reduce((a,b)=>a+b,0),ns.length*(s.total||0)]}
 function rank(a,b){return ratio(b.cached,b.discovered)-ratio(a.cached,a.discovered)||ratio(...avgCounts(b))-ratio(...avgCounts(a))||a.name.localeCompare(b.name,'en')}
