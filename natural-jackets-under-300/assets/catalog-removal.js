@@ -40,7 +40,7 @@ var CatalogRemoval = (() => {
   const note=document.createElement('span');note.className='removal-note';
   const details=document.createElement('div');details.className='shortlist-details';details.append(undo,retry,note,status);
   document.querySelector('.research-sort').after(details,bar);
-  if(toolbar)toolbar.mount(bar,details,config.shortlistEndpoint);
+  if(toolbar&&!toolbar.pane)toolbar.mount(bar,details,config.shortlistEndpoint);
   const cards=Array.from(grid.children,card=>{
    const p=topic.products[Number(card.dataset.productIndex)],group=document.createElement('div');group.className='catalog-actions';
    const buttons=actions.map(([s,cls,icon])=>{const b=button(icon);b.className=cls;
@@ -60,7 +60,7 @@ var CatalogRemoval = (() => {
    for(const [s,b] of Object.entries(tabs)){b.textContent=labels[s]+(s==='active'?'':` (${counts[s]})`);if(!toolbar)b.setAttribute('aria-pressed',String(s===view));}
    undo.hidden=!last;retry.hidden=!shared;retry.disabled=busy;
    note.textContent=shared?'Shared shortlist · Anyone with the link can edit.':persistent?'Saved in this browser only.':'Storage unavailable — changes last until reload only.';
-   apply();if(toolbar && ready && !busy)toolbar.ready();
+   apply();toolbar?.report?.(tabs,records,new Set(cards.map(c=>c.p.id)),ready);if(toolbar && ready && !busy)toolbar.ready();
   }
   const request=options=>fetch(config.shortlistEndpoint,{cache:'no-store',credentials:'omit',redirect:'error',referrerPolicy:'no-referrer',signal:AbortSignal.timeout(8000),...options});
   async function read(){const res=await request();if(!res.ok)throw Error();const {items}=await res.json();
@@ -74,12 +74,12 @@ var CatalogRemoval = (() => {
    if(shared){busy=true;refresh();try{
     const version=row(p.id).version,res=await request({method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:p.id,state:next==='consideration'?'considering':next,version})});
     if(res.status===409){await read();status.textContent=`Another editor changed the shortlist. Current destination: ${labels[state(p.id)]}. Review before editing.`;return;}
-    if(!res.ok)throw Error();const saved=decode(await res.json());if(!valid(saved)||saved.state!==next||saved.version<=version)throw Error();records.set(p.id,saved);
+    if(!res.ok)throw Error();const saved=decode(await res.json());if(!valid(saved)||saved.state!==next||saved.version<=version)throw Error();records.set(p.id,saved);last=undoing?null:{p,before,version:saved.version};
    }catch(_){ready=false;status.textContent='Save not confirmed. Refresh before editing.';return;}finally{busy=false;refresh();}}
    else {localMove(p.id,next);last=undoing?null:{p,before};}
    refresh();status.textContent=`${p.name} moved to ${labels[next]}.`;tabs[view].focus({preventScroll:true});
   }
-  undo.onclick=()=>{if(last)move(last.p,last.before,true);};retry.onclick=sync;
+  undo.onclick=()=>{if(last&&shared&&row(last.p.id).version!==last.version){last=null;refresh();status.textContent='Undo unavailable: the item changed.';}else if(last)move(last.p,last.before,true);};retry.onclick=sync;
   refresh();if(shared){sync();document.addEventListener('visibilitychange',()=>{if(!document.hidden)sync();});}
   if(!shared && topic.id==='harrison-clothes-contenders'){
    const exportButton=document.createElement('button');exportButton.type='button';exportButton.textContent='Export selections';exportButton.title='Download this browser’s full order and removed selections. Nothing is uploaded.';
