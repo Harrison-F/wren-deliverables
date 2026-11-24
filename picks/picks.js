@@ -5,6 +5,16 @@ const sources=[
  {id:'natural-jackets-under-300',label:'Natural outerwear',native:jackets,api:'https://jacket-shared-archive.wren-tools.workers.dev/shortlist/state'}
 ];
 const view=location.pathname.includes('/selected/')?'selected':'considering';
+// Keep each view's last receipt independent of shortlist state.
+const receiptKey='universal-picks:toolbar:v1:'+view;
+function get(k){try{return localStorage.getItem(receiptKey+k)}catch{return null}}
+function put(k,v){try{localStorage.setItem(receiptKey+k,v)}catch{}}
+ function mount(bar,details,endpoint){const form=document.createElement('form');form.className='deals-intake';const field=document.createElement('input'),save=document.createElement('button'),msg=document.createElement('span');field.type='url';field.required=true;field.maxLength=850;field.placeholder='Product URL';field.setAttribute('aria-label','Product URL');save.textContent='Save';save.type='submit';msg.setAttribute('role','status');msg.className='intake-status';form.append(field,save);bar.append(form);details.append(msg);
+ const api=new URL('/intake',endpoint);function describe(r){return r.status==='matched'?'Matched an existing card. Shortlist unchanged.':'Saved for review. No verified card yet.'}
+ const prior=get(':receipt');if(prior&&/^[a-f0-9-]{36}$/.test(prior))fetch(api+'/'+prior,{credentials:'omit',cache:'no-store'}).then(r=>r.ok?r.json():null).then(r=>{if(r&&!msg.textContent)msg.textContent=describe(r)}).catch(()=>{});
+ form.onsubmit=async e=>{e.preventDefault();save.disabled=true;msg.textContent='Saving…';try{const res=await fetch(api,{method:'POST',credentials:'omit',redirect:'error',signal:AbortSignal.timeout(10000),headers:{'Content-Type':'application/json'},body:JSON.stringify({url:field.value.trim()})});const r=await res.json();if(!res.ok)throw Error(r.error||'Save failed.');put(':receipt',r.receipt);msg.textContent=(r.duplicate?'Already submitted. ':'')+describe(r);field.value=''}catch(err){msg.textContent=err.message||'Save not confirmed.'}finally{save.disabled=false}}}
+
+mount(document.querySelector('.picks-head nav'),document.querySelector('.picks-tools'),sources[0].api);
 const links=[...document.querySelectorAll('[data-view]')],grid=document.querySelector('.display-template');
 const current=links.find(a=>a.dataset.view===view);current.setAttribute('aria-current','page');
 const $=id=>document.getElementById(id),undo=$('undo'),retry=$('refresh'),notice=$('notice');
