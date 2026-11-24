@@ -9,9 +9,9 @@
     },
     {
       "name": "Abercrombie",
-      "source": "https://www.abercrombie.com/shop/us/br/CyberDrops",
-      "status": "blocked",
-      "note": "Access challenge."
+      "source": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-jacket-63899372?seq=01",
+      "status": "stale_evidence",
+      "note": "2026-11-23: Brown 100% Cotton Corduroy Jacket only — $160 regular, $120 member “Black Friday Price” (USD). Not a storewide offer."
     },
     {
       "name": "Arc’teryx",
@@ -21,9 +21,9 @@
     },
     {
       "name": "ARKET",
-      "source": "https://www.arket.com/en/",
-      "status": "blocked",
-      "note": "Page HTTP 403."
+      "source": "https://www.arket.com/en-gb/black-friday/",
+      "status": "ambiguous",
+      "note": "2026-11-24: Indexed UK terms announce 20% off with no minimum Nov 26–29; member pre-access, gift cards and selected products excluded. Not verified for the US or EU."
     },
     {
       "name": "ASKET",
@@ -46,8 +46,8 @@
     {
       "name": "COS",
       "source": "https://www.cos.com/en-us/black-friday",
-      "status": "blocked",
-      "note": "Page HTTP 403."
+      "status": "ambiguous",
+      "note": "2026-11-24: Indexed US page titled “Black Friday 2026”; product listings do not establish a general discount. Direct campaign request returned 403."
     },
     {
       "name": "Hawes & Curtis",
@@ -57,9 +57,9 @@
     },
     {
       "name": "Helmut Lang",
-      "source": "https://www.helmutlang.com/sale/",
-      "status": "blocked",
-      "note": "Page HTTP 403."
+      "source": "https://www.helmutlang.com/mens-shop-all/?promobar=true",
+      "status": "stale_evidence",
+      "note": "2026-11-23: US banner advertised “Black Friday Sale” and linked Shop Men and Shop Women. No general percentage stated."
     },
     {
       "name": "Industry of All Nations",
@@ -69,15 +69,15 @@
     },
     {
       "name": "Massimo Dutti",
-      "source": "https://www.massimodutti.com/us/",
-      "status": "blocked",
-      "note": "Page HTTP 403."
+      "source": "https://www.massimodutti.com/itxrest/2/catalog/store/34009527/30359506/category/0/product/61734219/detail",
+      "status": "ambiguous",
+      "note": "2026-11-23: US catalog linked this product to a men’s Black Friday category labeled “UP TO 40% OFF.” No public launch date, active discount or eligible collection verified."
     },
     {
       "name": "PRM",
-      "source": "https://prm.com/us",
-      "status": "blocked",
-      "note": "Page HTTP 403."
+      "source": "https://prm.com/us/s/black-friday",
+      "status": "stale_evidence",
+      "note": "2026-11-23: US Black Friday collection advertised up to 50% off, not 50% off every item."
     },
     {
       "name": "Rains",
@@ -87,9 +87,9 @@
     },
     {
       "name": "Saks Fifth Avenue",
-      "source": "https://www.saksfifthavenue.com/c/content/black-friday",
-      "status": "blocked",
-      "note": "Robots HTTP 403."
+      "source": "https://www.saksfifthavenue.com/product/0400027191401.html?dwvar_0400027191401_color=NOIR",
+      "status": "stale_evidence",
+      "note": "2026-11-23: BFGIFT — spend $150 on qualifying labeled full-price merchandise for a $75 promotional gift card (online through Nov 28, 11:59 pm ET). Extra 25% off sale styles; 15% off select beauty and fragrance through Nov 30. Separate offers."
     },
     {
       "name": "Sandro",
@@ -101,13 +101,13 @@
       "name": "SCRT",
       "source": "https://scrt.onl/",
       "status": "stale_evidence",
-      "note": "SCRT host on cooldown; current terms unverified. Last public offer observation: 2026-11-24. Current terms unverified."
+      "note": "2026-11-24 04:36 UTC: Public homepage advertised BF20 for 20% off. Eligibility and expiry not verified from public terms. Later check skipped during host cooldown."
     },
     {
       "name": "SSENSE",
       "source": "https://www.ssense.com/en-us/men/sale",
       "status": "blocked",
-      "note": "Robots HTTP 403."
+      "note": "2026-11-23: US product page linked Sale, without Black Friday terms. Translation strings do not establish an active offer. Nov 24: robots request returned 403; sale page not checked."
     },
     {
       "name": "The Frankie Shop",
