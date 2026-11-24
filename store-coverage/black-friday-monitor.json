@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24T04:36:26Z",
+  "checked_at": "2026-11-24T06:06:00Z",
   "stores": [
     {
       "name": "A.P.C.",
@@ -9,9 +9,9 @@
     },
     {
       "name": "Abercrombie",
-      "source": "https://www.abercrombie.com/shop/us",
+      "source": "https://www.abercrombie.com/shop/us/br/CyberDrops",
       "status": "blocked",
-      "note": "Known access block on tracked roster; not requested."
+      "note": "Access challenge."
     },
     {
       "name": "Arc’teryx",
@@ -23,7 +23,7 @@
       "name": "ARKET",
       "source": "https://www.arket.com/en/",
       "status": "blocked",
-      "note": "Known access block on tracked roster; not requested."
+      "note": "Page HTTP 403."
     },
     {
       "name": "ASKET",
@@ -33,9 +33,9 @@
     },
     {
       "name": "Carhartt",
-      "source": "https://www.carhartt.com/",
-      "status": "blocked",
-      "note": "Known access block on tracked roster; not requested."
+      "source": "https://www.carhartt.com/c/black-friday",
+      "status": "verified_offer",
+      "note": "Black Friday: hoodies up to 40% off; footwear, socks, gloves and pet gear advertised at 25% off."
     },
     {
       "name": "Carhartt WIP",
@@ -45,21 +45,21 @@
     },
     {
       "name": "COS",
-      "source": "https://www.cos.com/en-us",
+      "source": "https://www.cos.com/en-us/black-friday",
       "status": "blocked",
-      "note": "Known access block on tracked roster; not requested."
+      "note": "Page HTTP 403."
     },
     {
       "name": "Hawes & Curtis",
-      "source": "https://www.hawesandcurtis.com/",
-      "status": "access_failure",
-      "note": "Insufficient readable page text."
+      "source": "https://www.hawesandcurtis.com/sale",
+      "status": "verified_offer",
+      "note": "Black Friday sale: up to 60% off sale styles, not a uniform discount."
     },
     {
       "name": "Helmut Lang",
-      "source": "https://www.helmutlang.com/",
+      "source": "https://www.helmutlang.com/sale/",
       "status": "blocked",
-      "note": "Known access block on tracked roster; not requested."
+      "note": "Page HTTP 403."
     },
     {
       "name": "Industry of All Nations",
@@ -70,14 +70,14 @@
     {
       "name": "Massimo Dutti",
       "source": "https://www.massimodutti.com/us/",
-      "status": "access_failure",
-      "note": "Insufficient readable page text."
+      "status": "blocked",
+      "note": "Page HTTP 403."
     },
     {
       "name": "PRM",
       "source": "https://prm.com/us",
       "status": "blocked",
-      "note": "Known access block on tracked roster; not requested."
+      "note": "Page HTTP 403."
     },
     {
       "name": "Rains",
@@ -87,9 +87,9 @@
     },
     {
       "name": "Saks Fifth Avenue",
-      "source": "https://www.saksfifthavenue.com/",
+      "source": "https://www.saksfifthavenue.com/c/content/black-friday",
       "status": "blocked",
-      "note": "Known access block on tracked roster; not requested."
+      "note": "Robots HTTP 403."
     },
     {
       "name": "Sandro",
@@ -100,14 +100,14 @@
     {
       "name": "SCRT",
       "source": "https://scrt.onl/",
-      "status": "verified_offer",
-      "note": "Black Friday: BF20 for 20% off; eligibility and stacking not verified."
+      "status": "stale_evidence",
+      "note": "SCRT host on cooldown; current terms unverified. Last public offer observation: 2026-11-24. Current terms unverified."
     },
     {
       "name": "SSENSE",
-      "source": "https://www.ssense.com/en-us",
+      "source": "https://www.ssense.com/en-us/men/sale",
       "status": "blocked",
-      "note": "Known access block on tracked roster; not requested."
+      "note": "Robots HTTP 403."
     },
     {
       "name": "The Frankie Shop",
