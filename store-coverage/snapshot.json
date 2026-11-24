@@ -232,8 +232,8 @@
       "fields": {
         "color": 2122,
         "category": 1964,
-        "named": 1937,
-        "composition": 1812,
+        "named": null,
+        "composition": null,
         "size": 2075,
         "price": 2206,
         "currency": 2206,
