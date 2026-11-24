@@ -266,7 +266,7 @@
     },
     {
       "name": "PRM",
-      "status": "browser-crawl",
+      "status": "blocked",
       "checkpoint": "2026-11-24",
       "unit": "URLs",
       "total": 30,
@@ -289,6 +289,10 @@
         "scope": "US listing sample",
         "captured": 30,
         "discovered": 30
+      },
+      "discovery_progress": {
+        "matched": 81,
+        "discovered": 768
       }
     },
     {
