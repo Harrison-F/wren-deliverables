@@ -270,8 +270,8 @@
       "checkpoint": "2026-11-24",
       "unit": "URLs",
       "total": 30,
-      "cached": 30,
-      "discovered": 30,
+      "cached": null,
+      "discovered": null,
       "scope": "US listing sample; saved product records matched to discovered URLs. Not whole-store coverage.",
       "fields": {
         "color": 30,
@@ -284,6 +284,11 @@
         "sale": 30,
         "available": 30,
         "image": 30
+      },
+      "sample": {
+        "scope": "US listing sample",
+        "captured": 30,
+        "discovered": 30
       }
     },
     {
@@ -314,8 +319,8 @@
       "checkpoint": "2026-11-24",
       "unit": "URLs",
       "total": 200,
-      "cached": 200,
-      "discovered": 200,
+      "cached": null,
+      "discovered": null,
       "scope": "US sitemap sample; saved product records matched to discovered URLs. Not whole-store coverage.",
       "fields": {
         "color": 175,
@@ -328,6 +333,11 @@
         "sale": 51,
         "available": 200,
         "image": 200
+      },
+      "sample": {
+        "scope": "US sitemap sample",
+        "captured": 200,
+        "discovered": 200
       }
     },
     {
@@ -380,8 +390,8 @@
       "checkpoint": "2026-11-24",
       "unit": "URLs",
       "total": 120,
-      "cached": 120,
-      "discovered": 120,
+      "cached": null,
+      "discovered": null,
       "scope": "US listing sample; saved product records matched to discovered URLs. Not whole-store coverage.",
       "fields": {
         "color": 120,
@@ -394,6 +404,11 @@
         "sale": 120,
         "available": 120,
         "image": 120
+      },
+      "sample": {
+        "scope": "US listing sample",
+        "captured": 120,
+        "discovered": 120
       }
     },
     {
