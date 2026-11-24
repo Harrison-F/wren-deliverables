@@ -69,23 +69,23 @@
     {
       "name": "ARKET",
       "status": "blocked",
-      "checkpoint": "2026-11-23",
+      "checkpoint": "2026-11-24",
       "unit": "URLs",
-      "total": 0,
-      "cached": null,
-      "discovered": null,
-      "scope": "Known product URLs; includes historical captures, not whole-store coverage. Worldwide English.",
+      "total": 2,
+      "cached": 2,
+      "discovered": 48,
+      "scope": "Worldwide English cached official listings; exact URL matches, not whole-store coverage. robots.txt: HTTP 403 Access Denied",
       "fields": {
-        "color": 0,
-        "category": 0,
-        "named": 0,
-        "composition": 0,
-        "size": 0,
-        "price": 0,
-        "currency": 0,
+        "color": 2,
+        "category": 2,
+        "named": 2,
+        "composition": 2,
+        "size": 2,
+        "price": 2,
+        "currency": 2,
         "sale": 0,
         "available": 0,
-        "image": 0
+        "image": 2
       }
     },
     {
@@ -112,13 +112,13 @@
     },
     {
       "name": "Carhartt",
-      "status": "blocked",
-      "checkpoint": "2026-11-23",
+      "status": "partial",
+      "checkpoint": "2026-11-24",
       "unit": "URLs",
-      "total": 153,
-      "cached": null,
-      "discovered": null,
-      "scope": "Known product URLs; includes historical captures, not whole-store coverage. US.",
+      "total": 166,
+      "cached": 166,
+      "discovered": 598,
+      "scope": "US product sitemap and cached official listings; exact URL matches, not whole-store coverage. Browser connection closed during product navigation; no identity switch.",
       "fields": {
         "color": 153,
         "category": 0,
@@ -126,10 +126,10 @@
         "composition": 0,
         "size": 0,
         "price": 0,
-        "currency": 153,
+        "currency": 166,
         "sale": 0,
         "available": 0,
-        "image": 0
+        "image": 13
       }
     },
     {
@@ -157,22 +157,22 @@
     {
       "name": "COS",
       "status": "blocked",
-      "checkpoint": "2026-11-23",
+      "checkpoint": "2026-11-24",
       "unit": "URLs",
-      "total": 664,
-      "cached": null,
-      "discovered": null,
-      "scope": "Known product URLs; includes historical captures, not whole-store coverage. US.",
+      "total": 663,
+      "cached": 663,
+      "discovered": 730,
+      "scope": "US cached official menswear listings/search; exact URL matches, not whole-store coverage. robots.txt: HTTP 403 Access Denied",
       "fields": {
-        "color": 664,
-        "category": 629,
+        "color": 663,
+        "category": 663,
         "named": 317,
         "composition": 317,
-        "size": 25,
-        "price": 664,
-        "currency": 25,
+        "size": 24,
+        "price": 663,
+        "currency": 24,
         "sale": 659,
-        "available": 664,
+        "available": 663,
         "image": 659
       }
     },
