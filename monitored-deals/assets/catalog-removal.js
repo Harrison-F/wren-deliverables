@@ -8,7 +8,8 @@ var CatalogRemoval = (() => {
  function attach(topic,apply){
   const grid=document.querySelector('.display-template'),config=document.documentElement.dataset;
   const shared=config.shortlistTopic===topic.id && Boolean(config.shortlistEndpoint);
-  let records=new Map(),view='active',busy=false,ready=!shared,last=null,persistent=true;
+  const toolbar=shared && window.DealsToolbar;
+  let records=new Map(),view=toolbar?.view||'active',busy=false,ready=!shared,last=null,persistent=true;
   const defaults=new Set(topic.defaultHiddenProductIds||[]);
   const key=name=>`research-catalog-${name}:v1:${topic.id}`;
   function load(name){
@@ -32,13 +33,14 @@ var CatalogRemoval = (() => {
   function button(text){const b=document.createElement('button');b.type='button';b.textContent=text;return b;}
   const bar=document.createElement('div');bar.className='catalog-removal';bar.setAttribute('role','group');bar.setAttribute('aria-label','Item destinations');
   const tabs={};for(const [s,label] of Object.entries(labels)){
-   const b=tabs[s]=button(label);bar.append(b);b.onclick=()=>{view=s;refresh();};
+   const b=tabs[s]=toolbar?toolbar.link(s,label):button(label);bar.append(b);if(!toolbar)b.onclick=()=>{view=s;refresh();};
   }
   const undo=button('Undo'),retry=button('Refresh shortlist');
   const status=document.createElement('span');status.setAttribute('role','status');
   const note=document.createElement('span');note.className='removal-note';
   const details=document.createElement('div');details.className='shortlist-details';details.append(undo,retry,note,status);
   document.querySelector('.research-sort').after(details,bar);
+  if(toolbar)toolbar.mount(bar,details,config.shortlistEndpoint);
   const cards=Array.from(grid.children,card=>{
    const p=topic.products[Number(card.dataset.productIndex)],group=document.createElement('div');group.className='catalog-actions';
    const buttons=actions.map(([s,cls,icon])=>{const b=button(icon);b.className=cls;
@@ -55,10 +57,10 @@ var CatalogRemoval = (() => {
      b.title=on?`Restore ${p.name} to Items`:`${verb} ${p.name}`;b.setAttribute('aria-label',b.title);
      b.setAttribute('aria-pressed',String(on));b.disabled=busy||!ready;});
    }
-   for(const [s,b] of Object.entries(tabs)){b.textContent=labels[s]+(s==='active'?'':` (${counts[s]})`);b.setAttribute('aria-pressed',String(s===view));}
+   for(const [s,b] of Object.entries(tabs)){b.textContent=labels[s]+(s==='active'?'':` (${counts[s]})`);if(!toolbar)b.setAttribute('aria-pressed',String(s===view));}
    undo.hidden=!last;retry.hidden=!shared;retry.disabled=busy;
    note.textContent=shared?'Shared shortlist · Anyone with the link can edit.':persistent?'Saved in this browser only.':'Storage unavailable — changes last until reload only.';
-   apply();
+   apply();if(toolbar && ready && !busy)toolbar.ready();
   }
   const request=options=>fetch(config.shortlistEndpoint,{cache:'no-store',credentials:'omit',redirect:'error',referrerPolicy:'no-referrer',signal:AbortSignal.timeout(8000),...options});
   async function read(){const res=await request();if(!res.ok)throw Error();const {items}=await res.json();
