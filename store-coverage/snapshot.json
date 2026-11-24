@@ -267,7 +267,7 @@
     {
       "name": "PRM",
       "status": "browser-crawl",
-      "checkpoint": "2026-11-23",
+      "checkpoint": "2026-11-24",
       "unit": "URLs",
       "total": 30,
       "cached": 30,
@@ -311,7 +311,7 @@
     {
       "name": "Saks Fifth Avenue",
       "status": "browser-crawl",
-      "checkpoint": "2026-11-23",
+      "checkpoint": "2026-11-24",
       "unit": "URLs",
       "total": 200,
       "cached": 200,
@@ -377,7 +377,7 @@
     {
       "name": "SSENSE",
       "status": "browser-crawl",
-      "checkpoint": "2026-11-23",
+      "checkpoint": "2026-11-24",
       "unit": "URLs",
       "total": 120,
       "cached": 120,
