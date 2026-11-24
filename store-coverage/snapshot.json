@@ -122,8 +122,8 @@
       "fields": {
         "color": 153,
         "category": 0,
-        "named": 0,
-        "composition": 0,
+        "named": 144,
+        "composition": 141,
         "size": 0,
         "price": 0,
         "currency": 166,
@@ -166,8 +166,8 @@
       "fields": {
         "color": 663,
         "category": 663,
-        "named": 317,
-        "composition": 317,
+        "named": 601,
+        "composition": 324,
         "size": 24,
         "price": 663,
         "currency": 24,
@@ -452,8 +452,8 @@
       "fields": {
         "color": 4446,
         "category": 8347,
-        "named": 7404,
-        "composition": 1743,
+        "named": 9756,
+        "composition": 2482,
         "size": 15162,
         "price": 15162,
         "currency": 2,
