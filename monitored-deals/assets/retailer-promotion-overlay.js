@@ -26,17 +26,17 @@
     const urls = new Set(topic.products.flatMap(p => [p.url,...(p.sizeLinks || []).map(l => l.url)]));
     const extra = bundle.cards.filter(p => !ids.has(p.id) && !p.sizeLinks.some(l => urls.has(l.url)));
     const products = topic.products.concat(extra);
-    const eligible = p => p.store === 'SCRT' && new URL(p.url).hostname === 'scrt.onl';
+    const eligible = p => p.store === 'SCRT' && Number.isFinite(p.unitPriceUSD) && p.unitPriceUSD > 0 && new URL(p.url).hostname === 'scrt.onl';
     const estimate = p => Math.round(Math.round(p.unitPriceUSD * 100) * (100 - offer.percent) / 100) / 100;
     const sortBase = window.sortNaturalProducts, metaBase = window.catalogMeta, galleryBase = window.gallery;
     window.sortNaturalProducts = (rows,mode) => mode !== 'price' ? sortBase(rows,mode) : [...rows].sort((a,b) =>
-      (eligible(a) ? estimate(a) : a.unitPriceUSD) - (eligible(b) ? estimate(b) : b.unitPriceUSD));
+      (eligible(a) ? estimate(a) : a.unitPriceUSD ?? Infinity) - (eligible(b) ? estimate(b) : b.unitPriceUSD ?? Infinity));
     window.catalogMeta = p => {
       if (!eligible(p)) return metaBase(p);
       // Suppress the ordinary compare-at row only for this presentation; the
       // actual listed price is the reference for this code, not the old MSRP.
-      const html = metaBase({...p, priceLabel: `${formatUSD(estimate(p))} with ${offer.code}`, sizeLinks:p.sizeLinks.map(s=>({...s,originalPriceUSD:null}))});
-      return html.replace(/(<p class="catalog-price" data-field="price">[^<]*<\/p>)/, '$1'+`<p class="catalog-original-price" aria-label="Listed price"><s>${formatUSD(p.unitPriceUSD)}</s></p>`).replace('class="catalog-price"','class="catalog-price promotion-estimate"');
+      const html = metaBase({...p, priceLabel: `${formatUSD(estimate(p))} with ${offer.code} if eligible`, sizeLinks:p.sizeLinks.map(s=>({...s,originalPriceUSD:null}))});
+      return html.replace(/(<p class="catalog-price" data-field="price">[^<]*<\/p>)/, row => row.replace('class="catalog-price"','class="catalog-price promotion-estimate"')+`<p class="catalog-original-price" aria-label="Listed price"><s>${formatUSD(p.unitPriceUSD)}</s></p>`);
     };
     // The shared gallery validates flat local filenames. Reuse already-published
     // sibling assets for exact product/color only, including subsequent slides.
