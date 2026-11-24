@@ -2,6 +2,7 @@
 window.DealsToolbar=(()=>{
  const paths={active:'items',consideration:'in-consideration',selected:'selected',removed:'removed'};
  const scope=document.documentElement.dataset.shortlistTopic;
+ if(scope==='monitored-deals')paths.new='new-additions';
  const sources={'monitored-deals':'https://monitored-deals-shortlist.wren-tools.workers.dev/state','natural-jackets-under-300':'https://jacket-shared-archive.wren-tools.workers.dev/shortlist/state'};
  const universal=Object.hasOwn(sources,scope), picked=s=>s==='consideration'||s==='selected';
  const pane=universal && window!==parent && new URLSearchParams(location.search).get('picks');
