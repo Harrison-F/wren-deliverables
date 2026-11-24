@@ -2,9 +2,10 @@
 .research .research-recommendation h2{font:600 15px/1.4 sans-serif;margin:0 0 4px}
 .research .research-recommendation p{font-size:13px;line-height:1.5;color:#505966;margin:3px 0}
 .photo-stage{position:relative}
-.research .photo-stage .gallery-arrow{position:absolute;top:50%;transform:translateY(-50%);z-index:1;display:grid;place-items:center;width:44px;height:44px;padding:0;opacity:1;color:white;background:rgba(18,21,20,.77);border:1px solid rgba(255,255,255,.85);font:600 21px/1 sans-serif;touch-action:manipulation}
+.research .photo-stage .gallery-arrow{position:absolute;top:50%;transform:translateY(-50%);z-index:1;display:grid;place-items:center;width:44px;height:44px;padding:0;opacity:0;color:#171717;background:transparent;border:0;box-shadow:none;text-shadow:0 0 2px white;font:400 17px/1 sans-serif;touch-action:manipulation}
+@media (hover:hover){.research .photo-stage:hover .gallery-arrow{opacity:.23}}
 .photo-stage [data-step="-1"]{left:8px}.photo-stage [data-step="1"]{right:8px}
-.photo-stage .gallery-arrow:focus-visible{outline:3px solid white;outline-offset:1px;box-shadow:0 0 0 6px #151515}
+.research .photo-stage .gallery-arrow:focus-visible{opacity:1;background:white;outline:2px solid #171717;outline-offset:-2px}
 .clothing-catalog .catalog-deal:last-of-type{margin-bottom:16px}
 .clothing-catalog .catalog-deal a{color:inherit;text-underline-offset:3px}
 .clothing-catalog .card-body>.catalog-original-price{font-size:13px;color:var(--muted);margin:1px 0 0}
