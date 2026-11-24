@@ -2,12 +2,12 @@
   "id": "natural-jackets-under-300",
   "layout": "natural-basics",
   "catalog": true,
-  "title": "Jackets & sweaters under $300",
+  "title": "Natural outerwear & sweaters under $300",
   "defaultSort": "price",
   "updated": "2026-11-22",
   "recommendation": {},
-  "summary": "Bounded search across the approved retailer roster, not all inventory. Men’s jackets, sweaters, overshirts and chore coats; all colors; S or M; prices strictly below $300 before shipping and tax.",
-  "evidenceNote": "Bounded search, not an exhaustive inventory. One card per proposed exact color; full-price and evidenced sale offers, cheapest first. Availability and prices can change.",
+  "summary": "Men’s outerwear layers and sweaters, including pullover hoodies. S or M, all colors, strictly under $300 before shipping and tax.",
+  "evidenceNote": "Bounded search, not an exhaustive inventory. One card per proposed exact color; full-price and evidenced sale offers, cheapest first. Availability and prices can change. Wild Hoodie price and availability checked 2026-11-24. Earlier cards retain their original observation dates.",
   "caveat": "Main-fabric qualification is not a whole-garment natural-material claim. Shipping, tax and destination-specific delivery estimates are not included. See expandable coverage for each store’s gaps.",
   "products": [
     {
@@ -10667,6 +10667,98 @@
       "attribution": "Retailer product evidence; not an endorsement.",
       "image": "assets/images/af5460bde36b2df1312592670e576d7fd3fe6d6cadf9f3eed065c4acb2191e93.jpg",
       "imageAlt": "The Frankie Shop Beck Wool Cardigan - Chocolate Plum — Chocolate Plum — photo 1"
+    },
+    {
+      "id": "jacket-3ece2b8760eb",
+      "name": "Industry of All Nations · Wild Hoodie — Brown",
+      "url": "https://industryofallnations.com/products/wild-hoodie?variant=43248010068215",
+      "store": "Industry of All Nations",
+      "brand": "Industry of All Nations",
+      "category": "Pullover hoodie",
+      "color": "Brown",
+      "unitPriceUSD": 210,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% organic cotton",
+        "Fit": "S, M",
+        "Status": "US storefront · exact variant inventory"
+      },
+      "sources": [
+        "jacket-3ece2b8760eb"
+      ],
+      "images": [
+        {
+          "src": "assets/images/dea73d272cf6ec4a310852a962d1ac07b1984b61c36edcc353cbb381cb6ad25c.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0897/6684/files/wild-hoodie-wlh-dbr-xs-9728167.jpg?v=1770743178",
+          "sourcePage": "https://industryofallnations.com/products/wild-hoodie?variant=43248010068215",
+          "alt": "Industry of All Nations · Wild Hoodie — Brown"
+        }
+      ],
+      "image": "assets/images/dea73d272cf6ec4a310852a962d1ac07b1984b61c36edcc353cbb381cb6ad25c.webp",
+      "imageAlt": "Industry of All Nations · Wild Hoodie — Brown",
+      "imageNote": "Exact color photo",
+      "attribution": "First-party product imagery",
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://industryofallnations.com/products/wild-hoodie?variant=43248010068215"
+        },
+        {
+          "size": "M",
+          "url": "https://industryofallnations.com/products/wild-hoodie?variant=43248010100983"
+        }
+      ]
+    },
+    {
+      "id": "jacket-64f993a55233",
+      "name": "Industry of All Nations · Wild Hoodie — Caramel",
+      "url": "https://industryofallnations.com/products/wild-hoodie?variant=43859643597047",
+      "store": "Industry of All Nations",
+      "brand": "Industry of All Nations",
+      "category": "Pullover hoodie",
+      "color": "Caramel",
+      "unitPriceUSD": 210,
+      "naturalPercent": 100,
+      "integrityRank": 100,
+      "materialCaveat": "",
+      "deal": "",
+      "summary": "",
+      "verdict": "",
+      "facts": {
+        "Fabric": "100% organic cotton",
+        "Fit": "S, M",
+        "Status": "US storefront · exact variant inventory"
+      },
+      "sources": [
+        "jacket-64f993a55233"
+      ],
+      "images": [
+        {
+          "src": "assets/images/294e5b00aa0c8ab4581bf004990c94356d1f849b207d6bde468c82037dab6e77.webp",
+          "source": "https://cdn.shopify.com/s/files/1/0897/6684/files/wild-hoodie-wlh-car-xs-6176899.jpg?v=1770743179",
+          "sourcePage": "https://industryofallnations.com/products/wild-hoodie?variant=43859643597047",
+          "alt": "Industry of All Nations · Wild Hoodie — Caramel"
+        }
+      ],
+      "image": "assets/images/294e5b00aa0c8ab4581bf004990c94356d1f849b207d6bde468c82037dab6e77.webp",
+      "imageAlt": "Industry of All Nations · Wild Hoodie — Caramel",
+      "imageNote": "Exact color photo",
+      "attribution": "First-party product imagery",
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://industryofallnations.com/products/wild-hoodie?variant=43859643597047"
+        },
+        {
+          "size": "M",
+          "url": "https://industryofallnations.com/products/wild-hoodie?variant=43859643629815"
+        }
+      ]
     }
   ],
   "sources": [
@@ -11950,6 +12042,20 @@
       "title": "The Frankie Shop · Beck Wool Cardigan - Chocolate Plum — Chocolate Plum",
       "type": "First-party product evidence",
       "note": "Checked 2026-11-22T18:43:30.797210+00:00. Official exact-variant stock data; rendered purchase UI not independently verified. No paired markdown verified. No signup or conditional promotion stacked. Main-fabric qualification is not a whole-garment claim. Ribbed trims; separate trim fiber content not specified"
+    },
+    {
+      "id": "jacket-3ece2b8760eb",
+      "url": "https://industryofallnations.com/products/wild-hoodie?variant=43248010068215",
+      "title": "Industry of All Nations · Wild Hoodie — Brown",
+      "type": "First-party product evidence",
+      "note": "Exact variant stock and price checked 2026-11-24T02:54:46.168250+00:00"
+    },
+    {
+      "id": "jacket-64f993a55233",
+      "url": "https://industryofallnations.com/products/wild-hoodie?variant=43859643597047",
+      "title": "Industry of All Nations · Wild Hoodie — Caramel",
+      "type": "First-party product evidence",
+      "note": "Exact variant stock and price checked 2026-11-24T02:54:46.168250+00:00"
     }
   ]
 }
