@@ -90,13 +90,13 @@
     },
     {
       "name": "ASKET",
-      "status": "pending reconciliation",
-      "checkpoint": "2026-11-23",
+      "status": "reconciled",
+      "checkpoint": "2026-11-24",
       "unit": "URLs",
       "total": 463,
-      "cached": null,
-      "discovered": null,
-      "scope": "Sitemap 2026-11-23: 792 mixed routes; updated product count pending. Field coverage is from the previous review.",
+      "cached": 463,
+      "discovered": 463,
+      "scope": "US sitemap: 792 entries, 770 unique routes; product URL coverage uses saved records, not fresh stock checks.",
       "fields": {
         "color": 463,
         "category": 422,
