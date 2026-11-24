@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24T10:36:26Z",
+  "checked_at": "2026-11-24T16:36:29Z",
   "stores": [
     {
       "name": "A.P.C.",
@@ -9,9 +9,9 @@
     },
     {
       "name": "Abercrombie",
-      "source": "https://www.abercrombie.com/shop/us/p/100-cotton-corduroy-jacket-63899372?seq=01",
-      "status": "stale_evidence",
-      "note": "2026-11-23: Brown 100% Cotton Corduroy Jacket only — $160 regular, $120 member “Black Friday Price” (USD). Not a storewide offer."
+      "source": "https://www.abercrombie.com/shop/us/br/CyberDrops",
+      "status": "ambiguous",
+      "note": "Campaign or discount wording found; no verified general terms."
     },
     {
       "name": "Arc’teryx",
@@ -40,8 +40,8 @@
     {
       "name": "Carhartt WIP",
       "source": "https://us.carhartt-wip.com/",
-      "status": "no_verified_offer",
-      "note": "No general promotion verified on the checked public page."
+      "status": "ambiguous",
+      "note": "Campaign or discount wording found; no verified general terms."
     },
     {
       "name": "COS",
