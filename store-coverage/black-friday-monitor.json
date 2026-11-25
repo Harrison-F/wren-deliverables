@@ -9,9 +9,9 @@
     },
     {
       "name": "Abercrombie",
-      "source": "https://www.abercrombie.com/shop/us/br/CyberDrops",
-      "status": "ambiguous",
-      "note": "Campaign or discount wording found; no verified general terms."
+      "source": "https://www.abercrombie.com/shop/us/black-friday",
+      "status": "verified_offer",
+      "note": "Observed 2026-11-25T03:47:59.094033+00:00 · US/Canada, Nov 23–30, 2026, in stores and online: 25–50% off A&F merchandise, excluding third-party brands, clearance and gift cards. Online prices already reflect the discount."
     },
     {
       "name": "Arc’teryx",
@@ -64,8 +64,8 @@
     {
       "name": "Industry of All Nations",
       "source": "https://industryofallnations.com/",
-      "status": "ambiguous",
-      "note": "Campaign or discount wording found; no verified general terms."
+      "status": "verified_offer",
+      "note": "Observed 2026-11-24T22:36:16.000722+00:00 · Materials of All Nations Week: 15% off Alpaca Fibers on the observation day only."
     },
     {
       "name": "Massimo Dutti",
