@@ -82,7 +82,7 @@ var CatalogRemoval = (() => {
    else {localMove(p.id,next);last=undoing?null:{p,before};}
    refresh();status.textContent=`${p.name} moved to ${labels[next]}.`;tabs[view].focus({preventScroll:true});
   }
-  undo.onclick=()=>{if(last&&shared&&row(last.p.id).version!==last.version){last=null;refresh();status.textContent='Undo unavailable: the item changed.';}else if(last)move(last.p,last.before,true);};retry.onclick=sync;
+  undo.onclick=()=>{if(last&&shared&&row(last.p.id).version!==last.version){last=null;refresh();status.textContent='Undo unavailable: the item changed.';}else if(last)move(last.p,last.before,true);};retry.onclick=sync;document.addEventListener('shared-pick-saved',sync);
   refresh();if(shared){sync();document.addEventListener('visibilitychange',()=>{if(!document.hidden)sync();});}
   if(!shared && topic.id==='harrison-clothes-contenders'){
    const exportButton=document.createElement('button');exportButton.type='button';exportButton.textContent='Export selections';exportButton.title='Download this browser’s full order and removed selections. Nothing is uploaded.';

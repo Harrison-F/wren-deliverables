@@ -32,7 +32,9 @@ var CatalogRemoval = (() => {
   }
   function button(text){const b=document.createElement('button');b.type='button';b.textContent=text;return b;}
   const bar=document.createElement('div');bar.className='catalog-removal';bar.setAttribute('role','group');bar.setAttribute('aria-label','Item destinations');
-  const tabs={};for(const [s,label] of Object.entries(labels)){
+  const destinations=toolbar&&topic.id==='monitored-deals'?{active:'Items',new:'New additions',consideration:labels.consideration,selected:labels.selected,removed:labels.removed}:labels;
+  const additions=new Set(topic.newAdditionIds||[]);
+  const tabs={};for(const [s,label] of Object.entries(destinations)){
    const b=tabs[s]=toolbar?toolbar.link(s,label):button(label);bar.append(b);if(!toolbar)b.onclick=()=>{view=s;refresh();};
   }
   const undo=button('Undo'),retry=button('Refresh shortlist');
@@ -50,14 +52,15 @@ var CatalogRemoval = (() => {
   });
   function refresh(){
    grid.dataset.catalogView=view;grid.dataset.removedView=String(view==='removed');
-   const counts={active:0,consideration:0,selected:0,removed:0};
+   const counts={active:0,consideration:0,selected:0,removed:0,new:0};
    for(const {p,card,buttons} of cards){const current=state(p.id);counts[current]++;
-    card.dataset.catalogState=current;card.dataset.removed=String(current==='removed');
+    const recent=current==='active'&&additions.has(p.id);if(recent)counts.new++;
+    card.dataset.catalogState=view==='new'&&recent?'new':current;card.dataset.removed=String(current==='removed');
     buttons.forEach((b,i)=>{const [s,,,verb]=actions[i],on=current===s;
      b.title=on?`Restore ${p.name} to Items`:`${verb} ${p.name}`;b.setAttribute('aria-label',b.title);
      b.setAttribute('aria-pressed',String(on));b.disabled=busy||!ready;});
    }
-   for(const [s,b] of Object.entries(tabs)){b.textContent=labels[s]+(s==='active'?'':` (${counts[s]})`);if(!toolbar)b.setAttribute('aria-pressed',String(s===view));}
+   for(const [s,b] of Object.entries(tabs)){b.textContent=destinations[s]+(s==='active'?'':` (${counts[s]})`);if(!toolbar)b.setAttribute('aria-pressed',String(s===view));}
    undo.hidden=!last;retry.hidden=!shared;retry.disabled=busy;
    note.textContent=shared?'Shared shortlist · Anyone with the link can edit.':persistent?'Saved in this browser only.':'Storage unavailable — changes last until reload only.';
    apply();toolbar?.report?.(tabs,records,new Set(cards.map(c=>c.p.id)),ready);if(toolbar && ready && !busy)toolbar.ready();
@@ -79,7 +82,7 @@ var CatalogRemoval = (() => {
    else {localMove(p.id,next);last=undoing?null:{p,before};}
    refresh();status.textContent=`${p.name} moved to ${labels[next]}.`;tabs[view].focus({preventScroll:true});
   }
-  undo.onclick=()=>{if(last&&shared&&row(last.p.id).version!==last.version){last=null;refresh();status.textContent='Undo unavailable: the item changed.';}else if(last)move(last.p,last.before,true);};retry.onclick=sync;
+  undo.onclick=()=>{if(last&&shared&&row(last.p.id).version!==last.version){last=null;refresh();status.textContent='Undo unavailable: the item changed.';}else if(last)move(last.p,last.before,true);};retry.onclick=sync;document.addEventListener('shared-pick-saved',sync);
   refresh();if(shared){sync();document.addEventListener('visibilitychange',()=>{if(!document.hidden)sync();});}
   if(!shared && topic.id==='harrison-clothes-contenders'){
    const exportButton=document.createElement('button');exportButton.type='button';exportButton.textContent='Export selections';exportButton.title='Download this browser’s full order and removed selections. Nothing is uploaded.';

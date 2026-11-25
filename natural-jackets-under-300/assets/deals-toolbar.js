@@ -2,6 +2,7 @@
 window.DealsToolbar=(()=>{
  const paths={active:'items',consideration:'in-consideration',selected:'selected',removed:'removed'};
  const scope=document.documentElement.dataset.shortlistTopic;
+ if(scope==='monitored-deals')paths.new='new-additions';
  const sources={'monitored-deals':'https://monitored-deals-shortlist.wren-tools.workers.dev/state','natural-jackets-under-300':'https://jacket-shared-archive.wren-tools.workers.dev/shortlist/state'};
  const universal=Object.hasOwn(sources,scope), picked=s=>s==='consideration'||s==='selected';
  const pane=universal && window!==parent && new URLSearchParams(location.search).get('picks');
@@ -18,15 +19,20 @@ window.DealsToolbar=(()=>{
  document.addEventListener('visibilitychange',()=>{if(document.hidden&&!restoring)put(':y',String(scrollY))});
  function ready(){if(started||!restoring)return;started=true;const until=performance.now()+2500;function tick(){if(!restoring)return;scrollTo(0,target);if(Math.abs(scrollY-target)<2||performance.now()>until){restoring=false;return}requestAnimationFrame(tick)}requestAnimationFrame(tick)}
  function mount(bar,details,endpoint){const form=document.createElement('form');form.className='deals-intake';const field=document.createElement('input'),save=document.createElement('button'),msg=document.createElement('span');field.type='url';field.required=true;field.maxLength=850;field.placeholder='Product URL';field.setAttribute('aria-label','Product URL');save.textContent='Save';save.type='submit';msg.setAttribute('role','status');msg.className='intake-status';form.append(field,save);bar.append(form);details.append(msg);
- const api=new URL('/intake',endpoint);function describe(r){return r.status==='matched'?'Matched an existing card. Shortlist unchanged.':'Saved for review. No verified card yet.'}
- const prior=get(':receipt');if(prior&&/^[a-f0-9-]{36}$/.test(prior))fetch(api+'/'+prior,{credentials:'omit',cache:'no-store'}).then(r=>r.ok?r.json():null).then(r=>{if(r&&!msg.textContent)msg.textContent=describe(r)}).catch(()=>{});
- form.onsubmit=async e=>{e.preventDefault();save.disabled=true;msg.textContent='Saving…';try{const res=await fetch(api,{method:'POST',credentials:'omit',redirect:'error',signal:AbortSignal.timeout(10000),headers:{'Content-Type':'application/json'},body:JSON.stringify({url:field.value.trim()})});const r=await res.json();if(!res.ok)throw Error(r.error||'Save failed.');put(':receipt',r.receipt);msg.textContent=(r.duplicate?'Already submitted. ':'')+describe(r);field.value=''}catch(err){msg.textContent=err.message||'Save not confirmed.'}finally{save.disabled=false}}}
+ const api='https://monitored-deals-shortlist.wren-tools.workers.dev/picks';
+ form.onsubmit=async e=>{e.preventDefault();if(save.disabled)return;save.disabled=field.disabled=true;msg.textContent='Saving…';try{
+   const res=await fetch(api,{method:'POST',credentials:'omit',redirect:'error',signal:AbortSignal.timeout(20000),headers:{'Content-Type':'application/json'},body:JSON.stringify({url:field.value.trim()})});
+   const r=await res.json().catch(()=>({}));if(!res.ok||!r.id||!['selected','considering'].includes(r.state)||!Number.isSafeInteger(r.version))throw Error(r.error||'Save not confirmed.');
+   const label=r.state==='selected'?'Selected':'In consideration';msg.textContent=(r.duplicate?'Already in ':'Added to ')+label+'. ';const a=document.createElement('a');a.href=new URL((location.pathname.includes('/picks/')?'../':'../picks/')+(r.state==='selected'?'selected':'in-consideration')+'/',document.baseURI);a.textContent='View pick';msg.append(a);field.value='';document.dispatchEvent(new Event('shared-pick-saved'));
+ }catch(err){msg.textContent=err.message||'Save not confirmed.'}finally{save.disabled=field.disabled=false}}}
+ function manualProduct(id,row){if(!id.startsWith('manual-')||!row.url)return null;const u=new URL(row.url);if(u.protocol!=='https:')return null;const name=u.pathname.split('/').filter(Boolean).pop().replace(/[-_]+/g,' ');return {id,url:u.href,name,store:u.hostname,category:'Manual pick',collectionIds:['matches','size-review'],priceLabel:'Price unverified',facts:{Fabric:'Material unverified'},images:[],sizeLinks:[{size:'Open listing',url:u.href}],fulfillmentNote:'Manually saved · availability unverified',materialCaveat:'Not a verified deal'};}
+ async function appendManual(topic){if(topic.id!=='monitored-deals')return;try{const r=await fetch('https://monitored-deals-shortlist.wren-tools.workers.dev/state',{cache:'no-store',credentials:'omit',signal:AbortSignal.timeout(8000)});if(!r.ok)return;for(const [id,row] of Object.entries((await r.json()).items)){const p=manualProduct(id,row);if(p)topic.products.push(p)}}catch{/* Static catalog remains usable offline. */}}
  let other=null, repaint;
  async function sibling(){try{const response=await fetch(Object.entries(sources).find(([k])=>k!==scope)[1],{cache:'no-store',credentials:'omit',signal:AbortSignal.timeout(8000)});if(!response.ok)throw Error();other=Object.values((await response.json()).items)}catch{other=null}repaint?.()}
- if(universal&&!pane){sibling();document.addEventListener('visibilitychange',()=>{if(!document.hidden)sibling()})}
+ if(universal&&!pane){sibling();document.addEventListener('shared-pick-saved',sibling);document.addEventListener('visibilitychange',()=>{if(!document.hidden)sibling()})}
  function report(tabs,records,ids,ready){if(!universal)return;
  const counts={},missing={};for(const s of ['selected','consideration']){const rows=[...records].filter(([,r])=>r.state===s);counts[s]=rows.length;missing[s]=rows.filter(([id])=>!ids.has(id)).map(([id])=>id)}
  if(pane){parent.dispatchEvent(new CustomEvent('picks-update',{detail:{scope,counts,missing,ready}}));return}
  repaint=()=>{for(const s of ['selected','consideration']){const label=s==='selected'?'Selected':'In consideration';tabs[s].textContent=label+' ('+(ready&&other?counts[s]+other.filter(r=>r.state===(s==='selected'?s:'considering')).length:'—')+')'}};repaint();}
  if(pane)document.documentElement.classList.add('picks-pane');
- return {view,link,ready,mount,pane,report};})();
+ return {view,link,ready,mount,pane,report,appendManual};})();
