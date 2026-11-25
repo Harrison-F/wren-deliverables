@@ -7,7 +7,7 @@
   "updated": "2026-11-23T15:40:03.874420+00:00",
   "recommendation": {
     "title": "All apparel · S or M tops · 30 × 32 trousers · other fits under Check size",
-    "text": "968 size-stock matches · 326 need size checks · saved inventories, not live checkout",
+    "text": "976 size-stock matches · 326 need size checks · saved inventories, not live checkout",
     "test": "Natural fibres + viscose, rayon, modal, lyocell and acetate. No disclosed synthetics."
   },
   "defaultSort": "price",
@@ -88732,6 +88732,466 @@
       "image": "assets/images/sunspel-mjac7210-brgz-1.webp",
       "imageAlt": "Men's Suede Jacket in Dark Brown, photo 1",
       "originalPriceLabel": "$1,795"
+    },
+    {
+      "id": "deal-ef88fdfdbdbada40",
+      "name": "A.P.C. · Gabby T-Shirt - A.P.C. Logo T-Shirt (M)",
+      "url": "https://www.apc-us.com/products/gabby-t-shirt-a-p-c-logo-t-shirt-m-cohbs-m26478_kae?variant=44462036746339",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Shirt",
+      "color": "KAE - Gray Green",
+      "unitPriceUSD": 87.5,
+      "priceLabel": "$87.50",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S",
+      "summary": "S",
+      "verdict": "Shirt",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Size": "S"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-e4193def2d202f79515c61dc.webp",
+          "alt": "A.P.C. · Gabby T-Shirt - A.P.C. Logo T-Shirt (M)"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.apc-us.com/products/gabby-t-shirt-a-p-c-logo-t-shirt-m-cohbs-m26478_kae?variant=44462036746339",
+          "variantId": "44462036746339",
+          "originalPriceUSD": 125.0
+        }
+      ],
+      "image": "assets/images/gallery-e4193def2d202f79515c61dc.webp",
+      "imageAlt": "A.P.C. · Gabby T-Shirt - A.P.C. Logo T-Shirt (M)",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "deal-1102b36b348b4049",
+      "name": "A.P.C. · A.P.C. Micro-Logo T-Shirt",
+      "url": "https://www.apc-us.com/products/a-p-c-micro-logo-t-shirt-cohmw-h26616_aab?variant=44107271241827",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Shirt",
+      "color": "AAB - White",
+      "unitPriceUSD": 115.5,
+      "priceLabel": "$115.50",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "M",
+      "summary": "M",
+      "verdict": "Shirt",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Size": "M"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-6593dd0dd1db2ea4dd18623b.webp",
+          "alt": "A.P.C. · A.P.C. Micro-Logo T-Shirt"
+        },
+        {
+          "src": "assets/images/gallery-6901d4156d9a9ce08180ccc7.webp",
+          "alt": "A.P.C. · A.P.C. Micro-Logo T-Shirt"
+        },
+        {
+          "src": "assets/images/gallery-cd635989e27c600f2099d4e1.webp",
+          "alt": "A.P.C. · A.P.C. Micro-Logo T-Shirt"
+        },
+        {
+          "src": "assets/images/gallery-70531d3981cba804a509df8a.webp",
+          "alt": "A.P.C. · A.P.C. Micro-Logo T-Shirt"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "M",
+          "url": "https://www.apc-us.com/products/a-p-c-micro-logo-t-shirt-cohmw-h26616_aab?variant=44107271241827",
+          "variantId": "44107271241827",
+          "originalPriceUSD": 165.0
+        }
+      ],
+      "image": "assets/images/gallery-6593dd0dd1db2ea4dd18623b.webp",
+      "imageAlt": "A.P.C. · A.P.C. Micro-Logo T-Shirt",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "deal-f5dd5891002132db",
+      "name": "A.P.C. · Striped T-Shirt",
+      "url": "https://www.apc-us.com/products/striped-t-shirt-cohpc-h26585_caa?variant=44106880090211",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Shirt",
+      "color": "CAA - Brown",
+      "unitPriceUSD": 115.5,
+      "priceLabel": "$115.50",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "M",
+      "summary": "M",
+      "verdict": "Shirt",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Size": "M"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-ac7a82e4736ceb6755d5a895.webp",
+          "alt": "A.P.C. · Striped T-Shirt"
+        },
+        {
+          "src": "assets/images/gallery-c5f02bc90f39607c31abf571.webp",
+          "alt": "A.P.C. · Striped T-Shirt"
+        },
+        {
+          "src": "assets/images/gallery-7bf9b74ae8711a25cc9e1af5.webp",
+          "alt": "A.P.C. · Striped T-Shirt"
+        },
+        {
+          "src": "assets/images/gallery-660bc6d22973e2b470ed4b21.webp",
+          "alt": "A.P.C. · Striped T-Shirt"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "M",
+          "url": "https://www.apc-us.com/products/striped-t-shirt-cohpc-h26585_caa?variant=44106880090211",
+          "variantId": "44106880090211",
+          "originalPriceUSD": 165.0
+        }
+      ],
+      "image": "assets/images/gallery-ac7a82e4736ceb6755d5a895.webp",
+      "imageAlt": "A.P.C. · Striped T-Shirt",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "deal-b90679e56f681154",
+      "name": "A.P.C. · Standard Rue Madame T-shirt (M)",
+      "url": "https://www.apc-us.com/products/standard-rue-madame-t-shirt-m-cohbu-m26388_kma?variant=67875810410595",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Shirt",
+      "color": "KMA - Green",
+      "unitPriceUSD": 129.5,
+      "priceLabel": "$129.50",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Shirt",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Size": "S and M"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-149592f7072c183d71b6a712.webp",
+          "alt": "A.P.C. · Standard Rue Madame T-shirt (M)"
+        },
+        {
+          "src": "assets/images/gallery-baec62e1829504c56d0cd313.webp",
+          "alt": "A.P.C. · Standard Rue Madame T-shirt (M)"
+        },
+        {
+          "src": "assets/images/gallery-57b0e47151420a9442acc3b4.webp",
+          "alt": "A.P.C. · Standard Rue Madame T-shirt (M)"
+        },
+        {
+          "src": "assets/images/gallery-f03ae6b2762e5ac88d597b8c.webp",
+          "alt": "A.P.C. · Standard Rue Madame T-shirt (M)"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.apc-us.com/products/standard-rue-madame-t-shirt-m-cohbu-m26388_kma?variant=67875810410595",
+          "variantId": "67875810410595",
+          "originalPriceUSD": 185.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.apc-us.com/products/standard-rue-madame-t-shirt-m-cohbu-m26388_kma?variant=67875810443363",
+          "variantId": "67875810443363",
+          "originalPriceUSD": 185.0
+        }
+      ],
+      "image": "assets/images/gallery-149592f7072c183d71b6a712.webp",
+      "imageAlt": "A.P.C. · Standard Rue Madame T-shirt (M)",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "deal-83aedd6068079798",
+      "name": "A.P.C. · Loose Denim Overshirt",
+      "url": "https://www.apc-us.com/products/loose-denim-overshirt-coeug-h02810_aac?variant=44106946281571",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "AAC - Off-white",
+      "unitPriceUSD": 252.0,
+      "priceLabel": "$252.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Jacket",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Size": "S and M"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-a1360f06b11b87e2cb4e6a80.webp",
+          "alt": "A.P.C. · Loose Denim Overshirt"
+        },
+        {
+          "src": "assets/images/gallery-f0724171145d90659dc56862.webp",
+          "alt": "A.P.C. · Loose Denim Overshirt"
+        },
+        {
+          "src": "assets/images/gallery-21aa75ea26668d677428c10c.webp",
+          "alt": "A.P.C. · Loose Denim Overshirt"
+        },
+        {
+          "src": "assets/images/gallery-9d030a1e1dfc3281fece8936.webp",
+          "alt": "A.P.C. · Loose Denim Overshirt"
+        },
+        {
+          "src": "assets/images/gallery-c1123bb53ba956ef07f9a67a.webp",
+          "alt": "A.P.C. · Loose Denim Overshirt"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.apc-us.com/products/loose-denim-overshirt-coeug-h02810_aac?variant=44106946281571",
+          "variantId": "44106946281571",
+          "originalPriceUSD": 360.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.apc-us.com/products/loose-denim-overshirt-coeug-h02810_aac?variant=44106946314339",
+          "variantId": "44106946314339",
+          "originalPriceUSD": 360.0
+        }
+      ],
+      "image": "assets/images/gallery-a1360f06b11b87e2cb4e6a80.webp",
+      "imageAlt": "A.P.C. · Loose Denim Overshirt",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "deal-dd4e1d47f7ec8385",
+      "name": "A.P.C. · Malcom Shirt - Ecru shirt with blue checks in organic cotton",
+      "url": "https://www.apc-us.com/products/malcom-shirt-ecru-shirt-with-blue-checks-in-organic-cotton-cohse-h12676_aad?variant=44234316972131",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Shirt",
+      "color": "AAD - Ecru",
+      "unitPriceUSD": 276.5,
+      "priceLabel": "$276.50",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Shirt",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Size": "S and M"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-d70e949913c5580830c23d1a.webp",
+          "alt": "A.P.C. · Malcom Shirt - Ecru shirt with blue checks in organic cotton"
+        },
+        {
+          "src": "assets/images/gallery-c50e8f29b79cf8c50592966f.webp",
+          "alt": "A.P.C. · Malcom Shirt - Ecru shirt with blue checks in organic cotton"
+        },
+        {
+          "src": "assets/images/gallery-6a7fba40e532f7985301758a.webp",
+          "alt": "A.P.C. · Malcom Shirt - Ecru shirt with blue checks in organic cotton"
+        },
+        {
+          "src": "assets/images/gallery-5ae689977774b3fc3f712421.webp",
+          "alt": "A.P.C. · Malcom Shirt - Ecru shirt with blue checks in organic cotton"
+        },
+        {
+          "src": "assets/images/gallery-8cd851de076ffd585b88fa04.webp",
+          "alt": "A.P.C. · Malcom Shirt - Ecru shirt with blue checks in organic cotton"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.apc-us.com/products/malcom-shirt-ecru-shirt-with-blue-checks-in-organic-cotton-cohse-h12676_aad?variant=44234316972131",
+          "variantId": "44234316972131",
+          "originalPriceUSD": 395.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.apc-us.com/products/malcom-shirt-ecru-shirt-with-blue-checks-in-organic-cotton-cohse-h12676_aad?variant=44234317004899",
+          "variantId": "44234317004899",
+          "originalPriceUSD": 395.0
+        }
+      ],
+      "image": "assets/images/gallery-d70e949913c5580830c23d1a.webp",
+      "imageAlt": "A.P.C. · Malcom Shirt - Ecru shirt with blue checks in organic cotton",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "deal-d5cebef385fd11e4",
+      "name": "A.P.C. · Workwear Overshirt",
+      "url": "https://www.apc-us.com/products/workwear-overshirt-cohtc-h32104_iaa?variant=44107190370403",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Jacket",
+      "color": "IAA - Blue",
+      "unitPriceUSD": 276.5,
+      "priceLabel": "$276.50",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Jacket",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Size": "S and M"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-f02e732698c85fc58bf6f3f8.webp",
+          "alt": "A.P.C. · Workwear Overshirt"
+        },
+        {
+          "src": "assets/images/gallery-0feda93a6802151c61118abd.webp",
+          "alt": "A.P.C. · Workwear Overshirt"
+        },
+        {
+          "src": "assets/images/gallery-4e92d53833dc4326007eec97.webp",
+          "alt": "A.P.C. · Workwear Overshirt"
+        },
+        {
+          "src": "assets/images/gallery-ea1beef43b50b35f5dc2d1cc.webp",
+          "alt": "A.P.C. · Workwear Overshirt"
+        },
+        {
+          "src": "assets/images/gallery-d3475c642b0b39773f0556c4.webp",
+          "alt": "A.P.C. · Workwear Overshirt"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.apc-us.com/products/workwear-overshirt-cohtc-h32104_iaa?variant=44107190370403",
+          "variantId": "44107190370403",
+          "originalPriceUSD": 395.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.apc-us.com/products/workwear-overshirt-cohtc-h32104_iaa?variant=44107190403171",
+          "variantId": "44107190403171",
+          "originalPriceUSD": 395.0
+        }
+      ],
+      "image": "assets/images/gallery-f02e732698c85fc58bf6f3f8.webp",
+      "imageAlt": "A.P.C. · Workwear Overshirt",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "deal-5cc30c7d25f75ad7",
+      "name": "A.P.C. · Ron Sweater - Camel sweater in recycled wool",
+      "url": "https://www.apc-us.com/products/ron-sweater-camel-sweater-in-recycled-wool-woatj-h23525_cab?variant=44234422059107",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Sweater",
+      "color": "CAB - Camel",
+      "unitPriceUSD": 329.0,
+      "priceLabel": "$329.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S",
+      "summary": "S",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% wool",
+        "Size": "S"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-1afdeec0aea11844c4f7c0ef.webp",
+          "alt": "A.P.C. · Ron Sweater - Camel sweater in recycled wool"
+        },
+        {
+          "src": "assets/images/gallery-77dc1e8b667aec5101bb5639.webp",
+          "alt": "A.P.C. · Ron Sweater - Camel sweater in recycled wool"
+        },
+        {
+          "src": "assets/images/gallery-c433004d18d15a4543427f2e.webp",
+          "alt": "A.P.C. · Ron Sweater - Camel sweater in recycled wool"
+        },
+        {
+          "src": "assets/images/gallery-caef1de05c25741bee77072f.webp",
+          "alt": "A.P.C. · Ron Sweater - Camel sweater in recycled wool"
+        },
+        {
+          "src": "assets/images/gallery-437a5c1403bef3bc1555816d.webp",
+          "alt": "A.P.C. · Ron Sweater - Camel sweater in recycled wool"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.apc-us.com/products/ron-sweater-camel-sweater-in-recycled-wool-woatj-h23525_cab?variant=44234422059107",
+          "variantId": "44234422059107",
+          "originalPriceUSD": 470.0
+        }
+      ],
+      "image": "assets/images/gallery-1afdeec0aea11844c4f7c0ef.webp",
+      "imageAlt": "A.P.C. · Ron Sweater - Camel sweater in recycled wool",
+      "materialPercentUnidentified": false
     }
   ],
   "sources": [],
@@ -88742,6 +89202,7 @@
     "deal-0816ba4fcb691b6b",
     "deal-0bdf26cd59e996bd",
     "deal-0edaa10980a802b3",
+    "deal-1102b36b348b4049",
     "deal-15a53bb204b35bca",
     "deal-1988e9752b786368",
     "deal-1b15d7f60ec6fd16",
@@ -88778,6 +89239,7 @@
     "deal-5ab691ddaf412ece",
     "deal-5b14266ca9c9aac4",
     "deal-5bd5561a5f553953",
+    "deal-5cc30c7d25f75ad7",
     "deal-5d737460ba180363",
     "deal-5f1dc4dac65b08fe",
     "deal-612eef64f4c30aa8",
@@ -88790,6 +89252,7 @@
     "deal-72936c61be4f9a03",
     "deal-7819c81ed2128fb7",
     "deal-78af8da5ff31ad86",
+    "deal-83aedd6068079798",
     "deal-84e0ec99e58aa705",
     "deal-85bb566c9022e68d",
     "deal-909b93dde37b5b0a",
@@ -88805,6 +89268,7 @@
     "deal-ac4df684c029ec86",
     "deal-b026038ef5b3ca9d",
     "deal-b47b9129d61987fa",
+    "deal-b90679e56f681154",
     "deal-b9d33bfe965ce2bd",
     "deal-bb5f62f8ed8324eb",
     "deal-bbafce9df8e356fc",
@@ -88821,7 +89285,9 @@
     "deal-d1e94ec856c6eda4",
     "deal-d45da25f9aefd3ac",
     "deal-d4e1d5f144722543",
+    "deal-d5cebef385fd11e4",
     "deal-d88a7e542ce1ff04",
+    "deal-dd4e1d47f7ec8385",
     "deal-e62c5bed7b17808b",
     "deal-e9b95c189e8a794a",
     "deal-eaaf44cb90f64e63",
@@ -88829,9 +89295,11 @@
     "deal-ed077fc906f02c5c",
     "deal-ed874225d58fc093",
     "deal-ef5ed6e3c975d362",
+    "deal-ef88fdfdbdbada40",
     "deal-efbc60ef2cfa80c2",
     "deal-f3b97f300ab6cf12",
     "deal-f55e12a08db9b365",
+    "deal-f5dd5891002132db",
     "deal-f9e9d7cf2015dc98",
     "deal-fb6c104111c7a1a0",
     "deal-fbb5c9dd8d3cb262"
