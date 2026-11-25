@@ -18,7 +18,31 @@ addEventListener('scroll',pinCoverageHead,{passive:true});new ResizeObserver(pin
 function band(n,d){const r=ratio(n,d);return r<0?'unknown':r<0.5?'band-red':r<0.8?'band-yellow':''}
 function avgCounts(s){const ns=Object.keys(cols).map(k=>s.fields?.[k]).filter(n=>ratio(n,s.total)>=0);return [ns.reduce((a,b)=>a+b,0),ns.length*(s.total||0)]}
 function rank(a,b){return ratio(b.cached,b.discovered)-ratio(a.cached,a.discovered)||ratio(...avgCounts(b))-ratio(...avgCounts(a))||a.name.localeCompare(b.name,'en')}
-let last='';function render(stores){const body=document.createDocumentFragment(),opened=new Set([...document.querySelectorAll('details[open] summary')].map(x=>x.textContent));for(const s of [...stores].sort(rank)){const tr=node('tr'),th=node('th'),de=node('details');th.scope='row';de.open=opened.has(s.name);de.append(node('summary',s.name),node('p',s.scope||'Scope not measured.'));th.append(de,node('small',s.status||'Not measured'));tr.append(th);const add=(text,cls)=>{const c=node('td',text);c.className=cls||'';tr.append(c);return c};const independent=ratio(s.cached,s.discovered)>=0;
+const storefronts={
+  "A.P.C.": "https://www.apc-us.com/",
+  "Abercrombie": "https://www.abercrombie.com/shop/us",
+  "Arc’teryx": "https://arcteryx.com/us/en",
+  "ARKET": "https://www.arket.com/en-gb/",
+  "ASKET": "https://www.asket.com/us/",
+  "Carhartt": "https://www.carhartt.com/",
+  "Carhartt WIP": "https://us.carhartt-wip.com/",
+  "COS": "https://www.cos.com/en-us/",
+  "Hawes & Curtis": "https://www.hawesandcurtis.com/",
+  "Helmut Lang": "https://www.helmutlang.com/",
+  "Industry of All Nations": "https://industryofallnations.com/",
+  "Massimo Dutti": "https://www.massimodutti.com/us/",
+  "PRM": "https://prm.com/us",
+  "Rains": "https://us.rains.com/",
+  "Saks Fifth Avenue": "https://www.saksfifthavenue.com/",
+  "Sandro": "https://us.sandro-paris.com/en/",
+  "SCRT": "https://scrt.onl/",
+  "SSENSE": "https://www.ssense.com/en-us",
+  "The Frankie Shop": "https://thefrankieshop.com/",
+  "Yitai": "https://www.yitai.la/",
+  "Yohji Yamamoto": "https://theshopyohjiyamamoto.com/",
+  "Études": "https://www.etudes-studio.com/"
+};
+let last='';function render(stores){const body=document.createDocumentFragment(),opened=new Set([...document.querySelectorAll('details[open] summary')].map(x=>x.textContent));for(const s of [...stores].sort(rank)){const tr=node('tr'),th=node('th'),de=node('details');th.scope='row';de.open=opened.has(s.name);const summary=node('summary'),link=node('a',s.name);link.href=storefronts[s.name];link.target='_blank';link.rel='noopener noreferrer';summary.append(link);de.append(summary,node('p',s.scope||'Scope not measured.'));th.append(de,node('small',s.status||'Not measured'));tr.append(th);const add=(text,cls)=>{const c=node('td',text);c.className=cls||'';tr.append(c);return c};const independent=ratio(s.cached,s.discovered)>=0;
 const cache=add(s.sample&&!independent?'Whole-store coverage unknown':percent(s.cached,s.discovered),'cache '+band(s.cached,s.discovered));
 if(s.discovery_progress&&!independent){const {matched,discovered}=s.discovery_progress;cache.append(node('small',`Partial discovery: ${fmt(matched)} / ${fmt(discovered)} historical matches`))}
 if(s.sample){const {captured,discovered}=s.sample;cache.append(node('small',`Sample capture: ${fmt(captured)} / ${fmt(discovered)} (${percent(captured,discovered)})`))}
