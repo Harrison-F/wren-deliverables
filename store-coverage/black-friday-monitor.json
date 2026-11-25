@@ -1,29 +1,29 @@
 {
-  "checked_at": "2026-11-25T04:36:27Z",
+  "checked_at": "2026-11-25T10:36:30Z",
   "stores": [
     {
       "name": "A.P.C.",
       "source": "https://www.apc-us.com/",
       "status": "verified_offer",
-      "note": "Observed 2026-11-25T04:36:06.053976+00:00 · New sale selections advertised for women and men; no general percentage verified."
+      "note": "Observed 2026-11-25T10:36:07.081551+00:00 · New sale selections advertised for women and men; no general percentage verified."
     },
     {
       "name": "Abercrombie",
       "source": "https://www.abercrombie.com/shop/us/black-friday",
       "status": "verified_offer",
-      "note": "Observed 2026-11-25T04:36:05.773640+00:00 · US/Canada, November 23, 2026 to November 30, 2026, in stores and online: 25–50% off A&F merchandise, excluding third-party brands, clearance and gift cards. Online prices already reflect the discount."
+      "note": "Observed 2026-11-25T10:36:06.709592+00:00 · US/Canada, November 23, 2026 to November 30, 2026, in stores and online: 25–50% off A&F merchandise, excluding third-party brands, clearance and gift cards. Online prices already reflect the discount."
     },
     {
       "name": "Arc’teryx",
       "source": "https://arcteryx.com/us/en",
       "status": "verified_offer",
-      "note": "Observed 2026-11-25T04:36:06.387492+00:00 · Black Friday sale: up to 40% off select gear, not a uniform discount."
+      "note": "Observed 2026-11-25T10:36:07.053589+00:00 · Black Friday sale: up to 40% off select gear, not a uniform discount."
     },
     {
       "name": "ARKET",
       "source": "https://www.arket.com/en-gb/black-friday/",
       "status": "ambiguous",
-      "note": "2026-11-24: Indexed UK terms announce 20% off with no minimum Nov 26–29; member pre-access, gift cards and selected products excluded. Not verified for the US or EU. Latest route status: Not rechecked during retry delay. Last check 2026-11-24T16:36+00:00: Page HTTP 403."
+      "note": "2026-11-24: Indexed UK terms announce 20% off with no minimum Nov 26–29; member pre-access, gift cards and selected products excluded. Not verified for the US or EU. Latest route status: Page HTTP 403."
     },
     {
       "name": "ASKET",
@@ -35,7 +35,7 @@
       "name": "Carhartt",
       "source": "https://www.carhartt.com/c/black-friday",
       "status": "verified_offer",
-      "note": "Observed 2026-11-25T04:36:13.700552+00:00 · Black Friday: hoodies up to 40% off; footwear, socks, gloves and pet gear advertised at 25% off."
+      "note": "Observed 2026-11-25T10:36:14.163725+00:00 · Black Friday: hoodies up to 40% off; footwear, socks, gloves and pet gear advertised at 25% off."
     },
     {
       "name": "Carhartt WIP",
@@ -47,31 +47,31 @@
       "name": "COS",
       "source": "https://www.cos.com/en-us/black-friday",
       "status": "ambiguous",
-      "note": "2026-11-24: Indexed US page titled “Black Friday 2026”; product listings do not establish a general discount. Direct campaign request returned 403. Latest route status: Not rechecked during retry delay. Last check 2026-11-24T16:36+00:00: Page HTTP 403."
+      "note": "2026-11-24: Indexed US page titled “Black Friday 2026”; product listings do not establish a general discount. Direct campaign request returned 403. Latest route status: Page HTTP 403."
     },
     {
       "name": "Hawes & Curtis",
       "source": "https://www.hawesandcurtis.com/sale",
       "status": "verified_offer",
-      "note": "Observed 2026-11-25T04:36:15.906881+00:00 · Black Friday sale: up to 60% off sale styles, not a uniform discount."
+      "note": "Observed 2026-11-25T10:36:19.913993+00:00 · Black Friday sale: up to 60% off sale styles, not a uniform discount."
     },
     {
       "name": "Helmut Lang",
       "source": "https://www.helmutlang.com/mens-shop-all/?promobar=true",
       "status": "stale_evidence",
-      "note": "2026-11-23: US banner advertised “Black Friday Sale” and linked Shop Men and Shop Women. No general percentage stated. Latest route status: Not rechecked during retry delay. Last check 2026-11-24T16:36+00:00: Page HTTP 403."
+      "note": "2026-11-23: US banner advertised “Black Friday Sale” and linked Shop Men and Shop Women. No general percentage stated. Latest route status: Page HTTP 403."
     },
     {
       "name": "Industry of All Nations",
       "source": "https://industryofallnations.com/",
-      "status": "verified_offer",
-      "note": "Observed 2026-11-25T04:36:16.129157+00:00 · Materials of All Nations Week: 15% off Alpaca Fibers on the observation day only."
+      "status": "ambiguous",
+      "note": "Campaign or discount wording found; no verified general terms."
     },
     {
       "name": "Massimo Dutti",
       "source": "https://www.massimodutti.com/itxrest/2/catalog/store/34009527/30359506/category/0/product/61734219/detail",
       "status": "ambiguous",
-      "note": "2026-11-23: US catalog linked this product to a men’s Black Friday category labeled “UP TO 40% OFF.” No public launch date, active discount or eligible collection verified. Latest route status: Not rechecked during retry delay. Last check 2026-11-24T16:36+00:00: Page HTTP 403."
+      "note": "2026-11-23: US catalog linked this product to a men’s Black Friday category labeled “UP TO 40% OFF.” No public launch date, active discount or eligible collection verified. Latest route status: Page HTTP 403."
     },
     {
       "name": "PRM",
@@ -89,25 +89,25 @@
       "name": "Saks Fifth Avenue",
       "source": "https://www.saksfifthavenue.com/product/0400027191401.html?dwvar_0400027191401_color=NOIR",
       "status": "stale_evidence",
-      "note": "2026-11-23: BFGIFT — spend $150 on qualifying labeled full-price merchandise for a $75 promotional gift card (online through Nov 28, 11:59 pm ET). Extra 25% off sale styles; 15% off select beauty and fragrance through Nov 30. Separate offers. Latest route status: Not rechecked during retry delay. Last check 2026-11-24T16:36+00:00: Robots HTTP 403."
+      "note": "2026-11-23: BFGIFT — spend $150 on qualifying labeled full-price merchandise for a $75 promotional gift card (online through Nov 28, 11:59 pm ET). Extra 25% off sale styles; 15% off select beauty and fragrance through Nov 30. Separate offers. Latest route status: Robots HTTP 403."
     },
     {
       "name": "Sandro",
       "source": "https://us.sandro-paris.com/en/mens/sale/coats-jackets/",
       "status": "verified_offer",
-      "note": "Observed 2026-11-25T04:36:19.772468+00:00 · Thanksgiving Event: 30% off Fall/Winter styles; exclusions and stacking unverified. Sale advertises up to 50% off, not a uniform discount."
+      "note": "Observed 2026-11-25T10:36:24.653852+00:00 · Thanksgiving Event: 30% off Fall/Winter styles; exclusions and stacking unverified. Sale advertises up to 50% off, not a uniform discount."
     },
     {
       "name": "SCRT",
       "source": "https://scrt.onl/",
-      "status": "stale_evidence",
-      "note": "2026-11-24 04:36 UTC: Public homepage advertised BF20 for 20% off. Eligibility and expiry not verified from public terms. Later check skipped during host cooldown. Latest route status: Not rechecked during retry delay. Last check 2026-11-24T16:36+00:00: SCRT host on cooldown; current terms unverified. Last public offer observation: 2026-11-24. Current terms unverified."
+      "status": "verified_offer",
+      "note": "Observed 2026-11-25T10:36:24.677883+00:00 · BF20 advertised for 20% off; US/USD eligibility, stacking and expiry unverified. No projected price."
     },
     {
       "name": "SSENSE",
       "source": "https://www.ssense.com/en-us/men/sale",
       "status": "blocked",
-      "note": "2026-11-23: US product page linked Sale, without Black Friday terms. Translation strings do not establish an active offer. Nov 24: robots request returned 403; sale page not checked. Latest route status: Not rechecked during retry delay. Last check 2026-11-24T16:36+00:00: Robots HTTP 403."
+      "note": "2026-11-23: US product page linked Sale, without Black Friday terms. Translation strings do not establish an active offer. Nov 24: robots request returned 403; sale page not checked. Latest route status: Robots HTTP 403."
     },
     {
       "name": "The Frankie Shop",
@@ -119,19 +119,19 @@
       "name": "Yitai",
       "source": "https://www.yitai.la/",
       "status": "verified_offer",
-      "note": "Observed 2026-11-25T04:36:21.454958+00:00 · Black Friday: free tee over $200 and free sweater over $350; no uniform percentage advertised."
+      "note": "Observed 2026-11-25T10:36:26.464154+00:00 · Black Friday: free tee over $200 and free sweater over $350; no uniform percentage advertised."
     },
     {
       "name": "Yohji Yamamoto",
       "source": "https://theshopyohjiyamamoto.com/blogs/news/bf2026",
       "status": "verified_offer",
-      "note": "Observed 2026-11-25T04:36:23.278469+00:00 · bf26: 10% off eligible brands online; membership and login required. Ends November 30 at 23:59 JST."
+      "note": "Observed 2026-11-25T10:36:30.060078+00:00 · bf26: 10% off eligible brands online; membership and login required. Ends November 30 at 23:59 JST."
     },
     {
       "name": "Études",
       "source": "https://www.etudes-studio.com/",
       "status": "verified_offer",
-      "note": "Observed 2026-11-25T04:36:23.117939+00:00 · Seasonal outerwear sale: up to 70% off, not a uniform discount."
+      "note": "Observed 2026-11-25T10:36:28.460365+00:00 · Seasonal outerwear sale: up to 70% off, not a uniform discount."
     }
   ]
 }
