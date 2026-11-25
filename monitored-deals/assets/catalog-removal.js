@@ -34,6 +34,8 @@ var CatalogRemoval = (() => {
   const bar=document.createElement('div');bar.className='catalog-removal';bar.setAttribute('role','group');bar.setAttribute('aria-label','Item destinations');
   const destinations=toolbar&&topic.id==='monitored-deals'?{active:'Items',new:'New additions',consideration:labels.consideration,selected:labels.selected,removed:labels.removed}:labels;
   const additions=new Set(topic.newAdditionIds||[]);
+  const hasReviews=Object.hasOwn(destinations,'new'), reviewApi='https://monitored-deals-reviews.wren-tools.workers.dev/reviews';
+  let reviewed=new Set(),reviewsReady=false,reviewBusy=false;
   const tabs={};for(const [s,label] of Object.entries(destinations)){
    const b=tabs[s]=toolbar?toolbar.link(s,label):button(label);bar.append(b);if(!toolbar)b.onclick=()=>{view=s;refresh();};
   }
@@ -43,6 +45,8 @@ var CatalogRemoval = (() => {
   const details=document.createElement('div');details.className='shortlist-details';details.append(undo,retry,note,status);
   document.querySelector('.research-sort').after(details,bar);
   if(toolbar&&!toolbar.pane)toolbar.mount(bar,details,config.shortlistEndpoint);
+  const review=button('Reviewed'), reviewStatus=document.createElement('span');reviewStatus.setAttribute('role','status');
+  if(view==='new'){review.title='Mark the listed additions as reviewed. They stay in Items.';bar.insertBefore(review,bar.querySelector('form'));bar.after(reviewStatus);}
   const cards=Array.from(grid.children,card=>{
    const p=topic.products[Number(card.dataset.productIndex)],group=document.createElement('div');group.className='catalog-actions';
    const buttons=actions.map(([s,cls,icon])=>{const b=button(icon);b.className=cls;
@@ -54,7 +58,7 @@ var CatalogRemoval = (() => {
    grid.dataset.catalogView=view;grid.dataset.removedView=String(view==='removed');
    const counts={active:0,consideration:0,selected:0,removed:0,new:0};
    for(const {p,card,buttons} of cards){const current=state(p.id);counts[current]++;
-    const recent=current==='active'&&additions.has(p.id);if(recent)counts.new++;
+    const recent=current==='active'&&additions.has(p.id)&&!reviewed.has(p.id);if(recent)counts.new++;
     card.dataset.catalogState=view==='new'&&recent?'new':current;card.dataset.removed=String(current==='removed');
     buttons.forEach((b,i)=>{const [s,,,verb]=actions[i],on=current===s;
      b.title=on?`Restore ${p.name} to Items`:`${verb} ${p.name}`;b.setAttribute('aria-label',b.title);
@@ -64,12 +68,27 @@ var CatalogRemoval = (() => {
    undo.hidden=!last;retry.hidden=!shared;retry.disabled=busy;
    note.textContent=shared?'Shared shortlist · Anyone with the link can edit.':persistent?'Saved in this browser only.':'Storage unavailable — changes last until reload only.';
    apply();toolbar?.report?.(tabs,records,new Set(cards.map(c=>c.p.id)),ready);if(toolbar && ready && !busy)toolbar.ready();
+   if(hasReviews&&!reviewsReady)tabs.new.textContent='New additions (—)';
+   if(view==='new'&&ready&&reviewsReady&&!counts.new)reviewStatus.textContent='No unreviewed additions.';
+   updateReview();
   }
+  function listed(){return cards.filter(({p,card})=>!card.hidden&&card.dataset.catalogState==='new'&&!reviewed.has(p.id)).map(({p})=>p.id)}
+  function updateReview(){if(view!=='new')return;review.disabled=busy||!ready||!reviewsReady||reviewBusy||!listed().length;}
+  if(view==='new')new MutationObserver(updateReview).observe(grid,{subtree:true,attributes:true,attributeFilter:['hidden']});
+  async function reviewRequest(ids){
+   if(!hasReviews||reviewBusy)return;reviewBusy=true;updateReview();
+   try{const r=await fetch(reviewApi,{credentials:'omit',cache:'no-store',redirect:'error',signal:AbortSignal.timeout(18000),...(ids?{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({ids})}:{})});
+    if(!r.ok)throw Error();const data=await r.json();if(!Array.isArray(data.ids))throw Error();reviewed=new Set(data.ids);reviewsReady=true;
+    reviewStatus.textContent=ids?`${ids.length} reviewed. Kept in Items.`:'';
+   }catch{reviewsReady=false;reviewStatus.textContent='Review status unavailable. Refresh shortlist to retry.';}
+   finally{reviewBusy=false;refresh();}
+  }
+  review.onclick=()=>{if(!review.disabled){const ids=listed();if(ids.length)reviewRequest(ids)}};
   const request=options=>fetch(config.shortlistEndpoint,{cache:'no-store',credentials:'omit',redirect:'error',referrerPolicy:'no-referrer',signal:AbortSignal.timeout(8000),...options});
   async function read(){const res=await request();if(!res.ok)throw Error();const {items}=await res.json();
    if(!items||typeof items!=='object'||Array.isArray(items)||!Object.values(items).every(r=>valid(decode(r))))throw Error();records=new Map(Object.entries(items).map(([id,r])=>[id,decode(r)]));ready=true;
   }
-  async function sync(){if(busy)return;busy=true;refresh();try{await read();status.textContent='Shared shortlist refreshed.';}
+  async function sync(){if(busy)return;busy=true;refresh();try{await Promise.all([read(),reviewRequest()]);status.textContent='Shared shortlist refreshed.';}
    catch(_){ready=false;status.textContent='Shortlist unavailable. Refresh before editing.';}finally{busy=false;refresh();}}
   async function move(p,next,undoing=false){
    if(!ready||busy||document.body.classList.contains('catalog-dragging'))return;
