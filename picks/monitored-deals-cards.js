@@ -27,7 +27,7 @@ function sizeLinks(p){
 }
 function catalogMeta(p){
  if(p.clinicalCard) return `<div class="card-head"><div class="identity"><h2><a class="product-title-link" href="${safeURL(p.url)}" target="_blank" rel="noopener noreferrer">${esc(p.name)}</a></h2></div></div><p class="catalog-store">${esc(p.store)}</p><p class="catalog-price">${esc(p.priceLabel)}</p><p class="clinical-status">${esc(p.verdict)}</p><p class="catalog-material">${esc(p.composition)}</p><p class="clinical-caution">${esc(p.summary)}</p>`;
- const item=p.nickelMinimized?p.name:p.name.split(' · ').slice(1).join(' · ')||p.name;
+ const item=p.name;
  const store=p.store||p.brand;
  const lining=p.nickelMinimized?'':p.materialCaveat||(p.category==='Jacket'?p.summary:'Trims not fully specified.');
  const nickel=p.nickelMinimized;
