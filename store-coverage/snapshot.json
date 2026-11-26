@@ -223,23 +223,23 @@
     {
       "name": "Industry of All Nations",
       "status": "monitored",
-      "checkpoint": "2026-11-24",
+      "checkpoint": "2026-11-26",
       "unit": "variants",
-      "total": 2221,
+      "total": 2193,
       "cached": 152,
       "discovered": 153,
       "scope": "Sitemap 2026-11-23: exact product URLs matched to saved feed records. Field coverage uses variants.",
       "fields": {
-        "color": 2137,
-        "category": 1979,
-        "named": null,
-        "composition": null,
-        "size": 2090,
-        "price": 2221,
-        "currency": 2221,
-        "sale": 2221,
-        "available": 2221,
-        "image": 2221
+        "color": 2109,
+        "category": 1950,
+        "named": 1923,
+        "composition": 1798,
+        "size": 2060,
+        "price": 2193,
+        "currency": 2193,
+        "sale": 2193,
+        "available": 2193,
+        "image": 2193
       }
     },
     {
