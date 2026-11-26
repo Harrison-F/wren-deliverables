@@ -1,5 +1,5 @@
-import * as deals from './monitored-deals-cards.js?v=37acbedf8e74';
-import * as jackets from './natural-jackets-under-300-cards.js?v=5c7f7473cd1b';
+import * as deals from './monitored-deals-cards.js?v=47be28e08374';
+import * as jackets from './natural-jackets-under-300-cards.js?v=37ab4292e120';
 const sources=[
  {id:'monitored-deals',label:'Monitored deals',native:deals,api:'https://monitored-deals-shortlist.wren-tools.workers.dev/state'},
  {id:'natural-jackets-under-300',label:'Natural outerwear',native:jackets,api:'https://jacket-shared-archive.wren-tools.workers.dev/shortlist/state'}
