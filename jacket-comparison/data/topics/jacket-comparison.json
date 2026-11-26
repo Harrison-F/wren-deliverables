@@ -708,6 +708,735 @@
       "verdict": "",
       "image": "assets/images/eames-nw-le-mont-st-michel-navy-01.webp",
       "imageAlt": "Le Mont St Michel Authentic Work Jacket in Navy: Front"
+    },
+    {
+      "id": "olderbest-okonkwo-field-navy",
+      "name": "Olderbest · Okonkwo 12 oz Canvas Field Hunting Jacket · Navy",
+      "store": "Olderbest",
+      "color": "Navy",
+      "materialCaveat": "Corduroy collar fiber not separately stated. No insulation listed.",
+      "imageNote": "All 14 photos from the single-color retailer gallery.",
+      "attribution": "US product description, size guide and exact-variant inventory.",
+      "category": "Jacket",
+      "url": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434",
+      "unitPriceUSD": 108.21,
+      "facts": {
+        "Fabric": "12 oz 100% cotton canvas shell; pure cotton lining.",
+        "Fit": "Regular fit. Garment chest: S/36 42.5 in; M/38 44.1 in.",
+        "Status": "S/36 and M/38 in US listing, checked Nov 25, 2026."
+      },
+      "images": [
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-01.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/1_47639690-3829-4bba-a699-150cd0648c55.jpg?v=1792461919",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        },
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-02.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/2_c6e8af60-3e76-4fb8-b916-5cbdf9b062a4.jpg?v=1792461919",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        },
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-03.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/3_47c54256-cb9d-4cc1-9571-5254cbd97303.jpg?v=1792461919",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        },
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-04.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/4_796e24f6-e6cd-4af6-a98b-0909c78d4bd4.jpg?v=1792461919",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        },
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-05.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/5_6c234759-81c2-44dd-88fe-05fe8e94ed24.jpg?v=1792461919",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        },
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-06.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/6_a41e5caa-d3a4-4a08-a60d-da4235899838.jpg?v=1792461919",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        },
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-07.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 7",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/7_84ba3494-556a-4483-a47b-fc135ac6280c.jpg?v=1792461919",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        },
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-08.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 8",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/8_02064b47-8aa9-4f0f-88bb-3f9af8bf9bc7.jpg?v=1792461919",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        },
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-09.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 9",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/9_b386f3a2-15ef-4df7-b2be-524e0af7ccad.jpg?v=1792461919",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        },
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-10.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 10",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/10_a75d97e9-4560-4ed0-a6dd-14d441d4b504.jpg?v=1792461919",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        },
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-11.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 11",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/11_e798be4a-a342-42ed-ac07-2a8359449b0f.jpg?v=1792461918",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        },
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-12.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 12",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/12_7dc585be-56f6-4288-911b-fc1709d0b8a7.jpg?v=1792461919",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        },
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-13.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 13",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/13_47255160-234f-4dbc-85d7-febf9c106d9c.jpg?v=1792461919",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        },
+        {
+          "src": "assets/images/olderbest-okonkwo-field-navy-14.webp",
+          "alt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 14",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/14_5b2f37e0-fac7-48ae-93ce-b39887a53e97.jpg?v=1792461919",
+          "sourcePage": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434"
+        }
+      ],
+      "sources": [
+        "olderbest-okonkwo-field-navy"
+      ],
+      "summary": "",
+      "verdict": "",
+      "image": "assets/images/olderbest-okonkwo-field-navy-01.webp",
+      "imageAlt": "Okonkwo 12 oz Canvas Field Hunting Jacket in Navy, retailer photo 1"
+    },
+    {
+      "id": "fera-zephyr-jacket-ecru",
+      "name": "Fera · Zephyr Jacket · Ecru",
+      "store": "Fera",
+      "color": "Ecru",
+      "materialCaveat": "Maker explicitly specifies an unlined cotton garment. Trim and sewing-thread fibers are not stated.",
+      "imageNote": "All 7 images from the maker’s Ecru product gallery, in source order.",
+      "attribution": "US product listing and Fera’s Black Friday User Manual (https://feragb.com/blogs/news/black-friday-user-manual-2026).",
+      "category": "Jacket",
+      "url": "https://feragb.com/products/zephyr-jacket-ecru?country=US&currency=USD&variant=55715982180738",
+      "unitPriceUSD": 125.0,
+      "facts": {
+        "Fabric": "100% cotton; unlined.",
+        "Fit": "Snap-front summer chore jacket with two front pockets and adjustable cuffs.",
+        "Status": "Ecru S and M available at the same USD price on November 25, 2026; US delivery offered."
+      },
+      "images": [
+        {
+          "src": "assets/images/nw-fera-zephyr-jacket-ecru-01.jpg",
+          "alt": "Fera Zephyr Jacket, Ecru — view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0573/9803/4623/files/L9_-_Ecru_Zephyr-1.jpg?v=1774269583",
+          "sourcePage": "https://feragb.com/products/zephyr-jacket-ecru?country=US&currency=USD&variant=55715982180738"
+        },
+        {
+          "src": "assets/images/nw-fera-zephyr-jacket-ecru-02.jpg",
+          "alt": "Fera Zephyr Jacket, Ecru — view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0573/9803/4623/files/ZephyrJacket-Ecru_1.jpg?v=1773835720",
+          "sourcePage": "https://feragb.com/products/zephyr-jacket-ecru?country=US&currency=USD&variant=55715982180738"
+        },
+        {
+          "src": "assets/images/nw-fera-zephyr-jacket-ecru-03.jpg",
+          "alt": "Fera Zephyr Jacket, Ecru — view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0573/9803/4623/files/L9_-_Ecru_Zephyr-10.jpg?v=1775743649",
+          "sourcePage": "https://feragb.com/products/zephyr-jacket-ecru?country=US&currency=USD&variant=55715982180738"
+        },
+        {
+          "src": "assets/images/nw-fera-zephyr-jacket-ecru-04.jpg",
+          "alt": "Fera Zephyr Jacket, Ecru — view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0573/9803/4623/files/L9_-_Ecru_Zephyr-5.jpg?v=1775743649",
+          "sourcePage": "https://feragb.com/products/zephyr-jacket-ecru?country=US&currency=USD&variant=55715982180738"
+        },
+        {
+          "src": "assets/images/nw-fera-zephyr-jacket-ecru-05.jpg",
+          "alt": "Fera Zephyr Jacket, Ecru — view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0573/9803/4623/files/ZephyrJacket-Ecru_4.jpg?v=1775743649",
+          "sourcePage": "https://feragb.com/products/zephyr-jacket-ecru?country=US&currency=USD&variant=55715982180738"
+        },
+        {
+          "src": "assets/images/nw-fera-zephyr-jacket-ecru-06.jpg",
+          "alt": "Fera Zephyr Jacket, Ecru — view 6",
+          "source": "https://cdn.shopify.com/s/files/1/0573/9803/4623/files/ZephyrJacket-Ecru_2.jpg?v=1775743649",
+          "sourcePage": "https://feragb.com/products/zephyr-jacket-ecru?country=US&currency=USD&variant=55715982180738"
+        },
+        {
+          "src": "assets/images/nw-fera-zephyr-jacket-ecru-07.jpg",
+          "alt": "Fera Zephyr Jacket, Ecru — view 7",
+          "source": "https://cdn.shopify.com/s/files/1/0573/9803/4623/files/ZephyrJacket-Ecru_3.jpg?v=1775743649",
+          "sourcePage": "https://feragb.com/products/zephyr-jacket-ecru?country=US&currency=USD&variant=55715982180738"
+        }
+      ],
+      "sources": [
+        "fera-zephyr-jacket-ecru"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Black Friday: $125, down from $179 (30% advertised); November 16–30. No code needed.",
+      "image": "assets/images/nw-fera-zephyr-jacket-ecru-01.jpg",
+      "imageAlt": "Fera Zephyr Jacket, Ecru — view 1"
+    },
+    {
+      "id": "jalin-raffia-chore-jacket-ecru",
+      "name": "Jalin · Raffia Chore Jacket · Ecru",
+      "store": "Jalin",
+      "color": "Ecru",
+      "materialCaveat": "Maker explicitly specifies an unlined cotton garment. Trim and sewing-thread fibers are not stated.",
+      "imageNote": "All 4 images from the maker’s Ecru product gallery, in source order.",
+      "attribution": "Men’s US product listing and delivery policy (https://jalindesign.com/pages/delivery).",
+      "category": "Jacket",
+      "url": "https://jalindesign.com/products/raffia-chore-jacket-ecru?country=US&currency=USD&variant=55979609653574",
+      "unitPriceUSD": 128.0,
+      "facts": {
+        "Fabric": "100% BCI cotton canvas; unlined.",
+        "Fit": "Relaxed men’s hospitality work jacket with a button front.",
+        "Status": "Ecru S and M available at the same USD price on November 25, 2026; US delivery offered."
+      },
+      "images": [
+        {
+          "src": "assets/images/nw-jalin-raffia-chore-jacket-ecru-01.jpg",
+          "alt": "Jalin Raffia Chore Jacket, Ecru — view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0819/8409/4534/files/JWMJ7ECRU-RaffiaChore_df107f65-563d-4b79-89e1-b770453755bf.jpg?v=1771251421",
+          "sourcePage": "https://jalindesign.com/products/raffia-chore-jacket-ecru?country=US&currency=USD&variant=55979609653574"
+        },
+        {
+          "src": "assets/images/nw-jalin-raffia-chore-jacket-ecru-02.jpg",
+          "alt": "Jalin Raffia Chore Jacket, Ecru — view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0819/8409/4534/files/JWMJ7ECRU_FRONT_-Edit_d653031f-819c-437f-ac6d-fb5e25c5b1c2.jpg?v=1771251421",
+          "sourcePage": "https://jalindesign.com/products/raffia-chore-jacket-ecru?country=US&currency=USD&variant=55979609653574"
+        },
+        {
+          "src": "assets/images/nw-jalin-raffia-chore-jacket-ecru-03.jpg",
+          "alt": "Jalin Raffia Chore Jacket, Ecru — view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0819/8409/4534/files/JWMJ7ECRU-Edit_aa28368b-4612-49d2-a73c-5935a261d49e.jpg?v=1771251421",
+          "sourcePage": "https://jalindesign.com/products/raffia-chore-jacket-ecru?country=US&currency=USD&variant=55979609653574"
+        },
+        {
+          "src": "assets/images/nw-jalin-raffia-chore-jacket-ecru-04.jpg",
+          "alt": "Jalin Raffia Chore Jacket, Ecru — view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0819/8409/4534/files/JWMJ7ECRU_DETAIL-Edit_36ada755-ced9-489f-9d13-74ad1a471a8c.jpg?v=1771251421",
+          "sourcePage": "https://jalindesign.com/products/raffia-chore-jacket-ecru?country=US&currency=USD&variant=55979609653574"
+        }
+      ],
+      "sources": [
+        "jalin-raffia-chore-jacket-ecru"
+      ],
+      "summary": "",
+      "verdict": "",
+      "image": "assets/images/nw-jalin-raffia-chore-jacket-ecru-01.jpg",
+      "imageAlt": "Jalin Raffia Chore Jacket, Ecru — view 1"
+    },
+    {
+      "id": "lafaurie-vestedepeintre-delaunay-ecru",
+      "name": "Lafaurie · Delaunay Painter’s Jacket · Ecru",
+      "store": "Lafaurie",
+      "color": "Ecru",
+      "materialCaveat": "Maker explicitly specifies an unlined cotton garment. Trim and sewing-thread fibers are not stated.",
+      "imageNote": "All 6 images from the maker’s Ecru product gallery, in source order.",
+      "attribution": "Lafaurie’s US product listing, composition, size advice and delivery information.",
+      "category": "Jacket",
+      "url": "https://lafaurieparis.com/en-us/products/vestedepeintre-delaunay-ecru?country=US&currency=USD&variant=56820629274949",
+      "unitPriceUSD": 145.0,
+      "facts": {
+        "Fabric": "100% cotton canvas, 300 g/m²; unlined.",
+        "Fit": "Straight cut but fitted sizing; Lafaurie recommends ordering one size up.",
+        "Status": "Ecru S and M available at the same USD price on November 25, 2026; US delivery offered."
+      },
+      "images": [
+        {
+          "src": "assets/images/nw-lafaurie-vestedepeintre-delaunay-ecru-01.png",
+          "alt": "Lafaurie Delaunay Painter’s Jacket, Ecru — view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0267/6123/2483/files/Frame_2406.png?v=1789980418",
+          "sourcePage": "https://lafaurieparis.com/en-us/products/vestedepeintre-delaunay-ecru?country=US&currency=USD&variant=56820629274949"
+        },
+        {
+          "src": "assets/images/nw-lafaurie-vestedepeintre-delaunay-ecru-02.jpg",
+          "alt": "Lafaurie Delaunay Painter’s Jacket, Ecru — view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0267/6123/2483/files/DELAUNAY-Ecru_010.jpg?v=1769533392",
+          "sourcePage": "https://lafaurieparis.com/en-us/products/vestedepeintre-delaunay-ecru?country=US&currency=USD&variant=56820629274949"
+        },
+        {
+          "src": "assets/images/nw-lafaurie-vestedepeintre-delaunay-ecru-03.jpg",
+          "alt": "Lafaurie Delaunay Painter’s Jacket, Ecru — view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0267/6123/2483/files/DELAUNAY-Ecru_032.jpg?v=1769533392",
+          "sourcePage": "https://lafaurieparis.com/en-us/products/vestedepeintre-delaunay-ecru?country=US&currency=USD&variant=56820629274949"
+        },
+        {
+          "src": "assets/images/nw-lafaurie-vestedepeintre-delaunay-ecru-04.jpg",
+          "alt": "Lafaurie Delaunay Painter’s Jacket, Ecru — view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0267/6123/2483/files/DELAUNAY-Ecru_026.jpg?v=1769533392",
+          "sourcePage": "https://lafaurieparis.com/en-us/products/vestedepeintre-delaunay-ecru?country=US&currency=USD&variant=56820629274949"
+        },
+        {
+          "src": "assets/images/nw-lafaurie-vestedepeintre-delaunay-ecru-05.jpg",
+          "alt": "Lafaurie Delaunay Painter’s Jacket, Ecru — view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0267/6123/2483/files/DELAUNAY-Ecru_037.jpg?v=1769533392",
+          "sourcePage": "https://lafaurieparis.com/en-us/products/vestedepeintre-delaunay-ecru?country=US&currency=USD&variant=56820629274949"
+        },
+        {
+          "src": "assets/images/nw-lafaurie-vestedepeintre-delaunay-ecru-06.jpg",
+          "alt": "Lafaurie Delaunay Painter’s Jacket, Ecru — view 6",
+          "source": "https://cdn.shopify.com/s/files/1/0267/6123/2483/files/DELAUNAY-Ecru_006.jpg?v=1769533392",
+          "sourcePage": "https://lafaurieparis.com/en-us/products/vestedepeintre-delaunay-ecru?country=US&currency=USD&variant=56820629274949"
+        }
+      ],
+      "sources": [
+        "lafaurie-vestedepeintre-delaunay-ecru"
+      ],
+      "summary": "",
+      "verdict": "",
+      "image": "assets/images/nw-lafaurie-vestedepeintre-delaunay-ecru-01.png",
+      "imageAlt": "Lafaurie Delaunay Painter’s Jacket, Ecru — view 1"
+    },
+    {
+      "id": "mainstream-registered-reversible-jacket-oak-cd26",
+      "name": "Rhythm · Registered Reversible Jacket · Oak",
+      "store": "Rhythm",
+      "color": "Oak",
+      "materialCaveat": "Elastic trim composition and corduroy collar fibers not separately stated; metal zipper.",
+      "imageNote": "All 12 images in the retailer’s single-color product gallery.",
+      "attribution": "US retailer product details and size-specific variant inventory, November 25, 2026.",
+      "category": "Jacket",
+      "url": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325",
+      "unitPriceUSD": 150.0,
+      "facts": {
+        "Fabric": "100% cotton yarn-dyed check on one side; 100% cotton brushed twill on the reverse. No fill listed.",
+        "Fit": "Relaxed zip blouson; corduroy collar, elasticated hem and cuffs.",
+        "Status": "S and M in stock, US storefront, 2026-11-25."
+      },
+      "images": [
+        {
+          "src": "assets/images/mainstream-registered-reversible-jacket-oak-cd26-01.webp",
+          "alt": "Rhythm · Registered Reversible Jacket · Oak, view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK19-OAK-REGISTERED-REVERSIBLE-JACKET-OAK-0170.jpg?v=1790662042",
+          "sourcePage": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325"
+        },
+        {
+          "src": "assets/images/mainstream-registered-reversible-jacket-oak-cd26-02.webp",
+          "alt": "Rhythm · Registered Reversible Jacket · Oak, view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK19-OAK-REGISTERED-REVERSIBLE-JACKET-OAK-1524.jpg?v=1790662043",
+          "sourcePage": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325"
+        },
+        {
+          "src": "assets/images/mainstream-registered-reversible-jacket-oak-cd26-03.webp",
+          "alt": "Rhythm · Registered Reversible Jacket · Oak, view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK19-OAK-REGISTERED-REVERSIBLE-JACKET-OAK-1545.jpg?v=1790662043",
+          "sourcePage": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325"
+        },
+        {
+          "src": "assets/images/mainstream-registered-reversible-jacket-oak-cd26-04.webp",
+          "alt": "Rhythm · Registered Reversible Jacket · Oak, view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK19-OAK-REGISTERED-REVERSIBLE-JACKET-OAK-1515.jpg?v=1790662042",
+          "sourcePage": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325"
+        },
+        {
+          "src": "assets/images/mainstream-registered-reversible-jacket-oak-cd26-05.webp",
+          "alt": "Rhythm · Registered Reversible Jacket · Oak, view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK19-OAK-REGISTERED-REVERSIBLE-JACKET-OAK-1519.jpg?v=1790662042",
+          "sourcePage": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325"
+        },
+        {
+          "src": "assets/images/mainstream-registered-reversible-jacket-oak-cd26-06.webp",
+          "alt": "Rhythm · Registered Reversible Jacket · Oak, view 6",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK19-OAK-REGISTERED-REVERSIBLE-JACKET-OAK-1531.jpg?v=1790662043",
+          "sourcePage": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325"
+        },
+        {
+          "src": "assets/images/mainstream-registered-reversible-jacket-oak-cd26-07.webp",
+          "alt": "Rhythm · Registered Reversible Jacket · Oak, view 7",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK19-OAK-REGISTERED-REVERSIBLE-JACKET-OAK-1536.jpg?v=1790662042",
+          "sourcePage": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325"
+        },
+        {
+          "src": "assets/images/mainstream-registered-reversible-jacket-oak-cd26-08.webp",
+          "alt": "Rhythm · Registered Reversible Jacket · Oak, view 8",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK19-OAK-REGISTERED-REVERSIBLE-JACKET-OAK-1539.jpg?v=1790662043",
+          "sourcePage": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325"
+        },
+        {
+          "src": "assets/images/mainstream-registered-reversible-jacket-oak-cd26-09.webp",
+          "alt": "Rhythm · Registered Reversible Jacket · Oak, view 9",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK19-OAK-REGISTERED-REVERSIBLE-JACKET-OAK-1547.jpg?v=1790662043",
+          "sourcePage": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325"
+        },
+        {
+          "src": "assets/images/mainstream-registered-reversible-jacket-oak-cd26-10.webp",
+          "alt": "Rhythm · Registered Reversible Jacket · Oak, view 10",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK19-OAK-REGISTERED-REVERSIBLE-JACKET-OAK-1552.jpg?v=1790662042",
+          "sourcePage": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325"
+        },
+        {
+          "src": "assets/images/mainstream-registered-reversible-jacket-oak-cd26-11.webp",
+          "alt": "Rhythm · Registered Reversible Jacket · Oak, view 11",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK19-OAK-REGISTERED-REVERSIBLE-JACKET-OAK-1556.jpg?v=1790662043",
+          "sourcePage": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325"
+        },
+        {
+          "src": "assets/images/mainstream-registered-reversible-jacket-oak-cd26-12.webp",
+          "alt": "Rhythm · Registered Reversible Jacket · Oak, view 12",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/CD26M-JK19-OAK-REGISTERED-REVERSIBLE-JACKET-OAK-2118.jpg?v=1790662043",
+          "sourcePage": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325"
+        }
+      ],
+      "sources": [
+        "mainstream-registered-reversible-jacket-oak-cd26"
+      ],
+      "summary": "",
+      "verdict": "",
+      "image": "assets/images/mainstream-registered-reversible-jacket-oak-cd26-01.webp",
+      "imageAlt": "Rhythm · Registered Reversible Jacket · Oak, view 1"
+    },
+    {
+      "id": "indie-lou-dean-far-afield-station-jacket-navy",
+      "name": "Lou + Dean · Far Afield Station Jacket · Navy",
+      "store": "Lou + Dean",
+      "color": "Navy",
+      "materialCaveat": "Far Afield identifies the AFJKFUN01 fabric as 100% BCI cotton.",
+      "imageNote": "All 5 photos from the exact-color stockist gallery, in source order.",
+      "attribution": "US-market stockist price and size inventory; construction: https://farafieldclothing.com/products/fundamentals-station-jacket-navy",
+      "category": "Jacket",
+      "url": "https://www.shoplouanddean.com/products/station-jacket?country=US&currency=USD&variant=67762546606233",
+      "unitPriceUSD": 190.0,
+      "facts": {
+        "Fabric": "100% BCI cotton, 360 gsm panama canvas; unlined and unpadded.",
+        "Fit": "Straight chore cut with a rounded collar and three outer patch pockets.",
+        "Status": "M in stock on the US storefront, November 25, 2026."
+      },
+      "images": [
+        {
+          "src": "assets/images/indie-lou-dean-far-afield-station-jacket-navy-01.webp",
+          "alt": "Far Afield Station Jacket, Navy, view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0693/7398/4921/files/AFJKFUN01_1.webp?v=1792614103",
+          "sourcePage": "https://www.shoplouanddean.com/products/station-jacket?country=US&currency=USD&variant=67762546606233"
+        },
+        {
+          "src": "assets/images/indie-lou-dean-far-afield-station-jacket-navy-02.webp",
+          "alt": "Far Afield Station Jacket, Navy, view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0693/7398/4921/files/AFJKFUND01_2.webp?v=1792614103",
+          "sourcePage": "https://www.shoplouanddean.com/products/station-jacket?country=US&currency=USD&variant=67762546606233"
+        },
+        {
+          "src": "assets/images/indie-lou-dean-far-afield-station-jacket-navy-03.webp",
+          "alt": "Far Afield Station Jacket, Navy, view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0693/7398/4921/files/AFJKFUN01_3.webp?v=1792614103",
+          "sourcePage": "https://www.shoplouanddean.com/products/station-jacket?country=US&currency=USD&variant=67762546606233"
+        },
+        {
+          "src": "assets/images/indie-lou-dean-far-afield-station-jacket-navy-04.webp",
+          "alt": "Far Afield Station Jacket, Navy, view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0693/7398/4921/files/AFJKFUND01_1.webp?v=1792614103",
+          "sourcePage": "https://www.shoplouanddean.com/products/station-jacket?country=US&currency=USD&variant=67762546606233"
+        },
+        {
+          "src": "assets/images/indie-lou-dean-far-afield-station-jacket-navy-05.webp",
+          "alt": "Far Afield Station Jacket, Navy, view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0693/7398/4921/files/AFJKFUN01_2.jpg?v=1792614104",
+          "sourcePage": "https://www.shoplouanddean.com/products/station-jacket?country=US&currency=USD&variant=67762546606233"
+        }
+      ],
+      "sources": [
+        "indie-lou-dean-far-afield-station-jacket-navy"
+      ],
+      "summary": "",
+      "verdict": "",
+      "image": "assets/images/indie-lou-dean-far-afield-station-jacket-navy-01.webp",
+      "imageAlt": "Far Afield Station Jacket, Navy, view 1"
+    },
+    {
+      "id": "milworks-save-khaki-wide-wale-honey",
+      "name": "Milworks · Save Khaki Wide Wale Corduroy Shirt Jacket · Honey",
+      "store": "Milworks",
+      "color": "Honey",
+      "materialCaveat": "Button material not specified.",
+      "imageNote": "All 3 photos from the single-color retailer gallery.",
+      "attribution": "US product description, size guide and exact-variant inventory.",
+      "category": "Jacket",
+      "url": "https://milworks.co/products/wide-wale-corduroy-shirt-jacket-honey?variant=51111687356673",
+      "unitPriceUSD": 240.0,
+      "facts": {
+        "Fabric": "100% cotton 8-wale corduroy; unlined and unpadded.",
+        "Fit": "Relaxed, trucker-inspired button-front shirt jacket; pre-shrunk.",
+        "Status": "S and M in US listing, checked Nov 25, 2026."
+      },
+      "images": [
+        {
+          "src": "assets/images/milworks-save-khaki-wide-wale-honey-01.webp",
+          "alt": "Save Khaki Wide Wale Corduroy Shirt Jacket in Honey, retailer photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/1057/3010/files/SK00804-WW_HONE_1728x_eca48b1d-5fc5-47b7-b853-cd987d38f513.png?v=1794248931",
+          "sourcePage": "https://milworks.co/products/wide-wale-corduroy-shirt-jacket-honey?variant=51111687356673"
+        },
+        {
+          "src": "assets/images/milworks-save-khaki-wide-wale-honey-02.webp",
+          "alt": "Save Khaki Wide Wale Corduroy Shirt Jacket in Honey, retailer photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/1057/3010/files/DSC_9550_1728x_3a3f4c3a-6893-4b6b-a9eb-ea240b92773e.png?v=1794248932",
+          "sourcePage": "https://milworks.co/products/wide-wale-corduroy-shirt-jacket-honey?variant=51111687356673"
+        },
+        {
+          "src": "assets/images/milworks-save-khaki-wide-wale-honey-03.webp",
+          "alt": "Save Khaki Wide Wale Corduroy Shirt Jacket in Honey, retailer photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/1057/3010/files/DSC_9567_1728x_b3c1ce2e-5f44-4afe-87e9-18bbf745a4ab.png?v=1794248932",
+          "sourcePage": "https://milworks.co/products/wide-wale-corduroy-shirt-jacket-honey?variant=51111687356673"
+        }
+      ],
+      "sources": [
+        "milworks-save-khaki-wide-wale-honey"
+      ],
+      "summary": "",
+      "verdict": "",
+      "image": "assets/images/milworks-save-khaki-wide-wale-honey-01.webp",
+      "imageAlt": "Save Khaki Wide Wale Corduroy Shirt Jacket in Honey, retailer photo 1"
+    },
+    {
+      "id": "indie-the-hambledon-folk-zip-overshirt-mink-twill-denim",
+      "name": "The Hambledon · Folk Zip Overshirt · Mink Twill Denim",
+      "store": "The Hambledon",
+      "color": "Mink Twill Denim",
+      "materialCaveat": "Retailer specifies the shell and unlined construction.",
+      "imageNote": "All 10 photos from the exact-color stockist gallery, in source order.",
+      "attribution": "US-market stockist price and size inventory; construction: https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim",
+      "category": "Jacket",
+      "url": "https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim?country=US&currency=USD&variant=58083185459581",
+      "unitPriceUSD": 256.0,
+      "facts": {
+        "Fabric": "100% recycled cotton twill denim; unlined and unpadded.",
+        "Fit": "Lightweight boxy cut with a two-way zip, one chest pocket and two hand pockets.",
+        "Status": "S in stock on the US storefront, November 25, 2026."
+      },
+      "images": [
+        {
+          "src": "assets/images/indie-the-hambledon-folk-zip-overshirt-mink-twill-denim-01.webp",
+          "alt": "Folk Zip Overshirt, Mink Twill Denim, view 1",
+          "source": "https://cdn.shopify.com/s/files/1/2219/2155/files/Folk-Clothing-Zip-Overshirt-Mink-Twill-Denim.jpg?v=1788350869",
+          "sourcePage": "https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim?country=US&currency=USD&variant=58083185459581"
+        },
+        {
+          "src": "assets/images/indie-the-hambledon-folk-zip-overshirt-mink-twill-denim-02.webp",
+          "alt": "Folk Zip Overshirt, Mink Twill Denim, view 2",
+          "source": "https://cdn.shopify.com/s/files/1/2219/2155/files/Folk-Clothing-Zip-Overshirt-Mink-Twill-Denim-01.jpg?v=1788350869",
+          "sourcePage": "https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim?country=US&currency=USD&variant=58083185459581"
+        },
+        {
+          "src": "assets/images/indie-the-hambledon-folk-zip-overshirt-mink-twill-denim-03.webp",
+          "alt": "Folk Zip Overshirt, Mink Twill Denim, view 3",
+          "source": "https://cdn.shopify.com/s/files/1/2219/2155/files/Folk-Clothing-Zip-Overshirt-Mink-Twill-Denim-02.jpg?v=1788350869",
+          "sourcePage": "https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim?country=US&currency=USD&variant=58083185459581"
+        },
+        {
+          "src": "assets/images/indie-the-hambledon-folk-zip-overshirt-mink-twill-denim-04.webp",
+          "alt": "Folk Zip Overshirt, Mink Twill Denim, view 4",
+          "source": "https://cdn.shopify.com/s/files/1/2219/2155/files/Folk-Clothing-Zip-Overshirt-Mink-Twill-Denim-03.jpg?v=1788350869",
+          "sourcePage": "https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim?country=US&currency=USD&variant=58083185459581"
+        },
+        {
+          "src": "assets/images/indie-the-hambledon-folk-zip-overshirt-mink-twill-denim-05.webp",
+          "alt": "Folk Zip Overshirt, Mink Twill Denim, view 5",
+          "source": "https://cdn.shopify.com/s/files/1/2219/2155/files/Folk-Clothing-Zip-Overshirt-Mink-Twill-Denim-04.jpg?v=1788350869",
+          "sourcePage": "https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim?country=US&currency=USD&variant=58083185459581"
+        },
+        {
+          "src": "assets/images/indie-the-hambledon-folk-zip-overshirt-mink-twill-denim-06.webp",
+          "alt": "Folk Zip Overshirt, Mink Twill Denim, view 6",
+          "source": "https://cdn.shopify.com/s/files/1/2219/2155/files/Folk-Clothing-Zip-Overshirt-Mink-Twill-Denim-05.jpg?v=1788350869",
+          "sourcePage": "https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim?country=US&currency=USD&variant=58083185459581"
+        },
+        {
+          "src": "assets/images/indie-the-hambledon-folk-zip-overshirt-mink-twill-denim-07.webp",
+          "alt": "Folk Zip Overshirt, Mink Twill Denim, view 7",
+          "source": "https://cdn.shopify.com/s/files/1/2219/2155/files/Folk-Clothing-Zip-Overshirt-Mink-Twill-Denim-06.jpg?v=1788350869",
+          "sourcePage": "https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim?country=US&currency=USD&variant=58083185459581"
+        },
+        {
+          "src": "assets/images/indie-the-hambledon-folk-zip-overshirt-mink-twill-denim-08.webp",
+          "alt": "Folk Zip Overshirt, Mink Twill Denim, view 8",
+          "source": "https://cdn.shopify.com/s/files/1/2219/2155/files/Folk-Clothing-Zip-Overshirt-Mink-Twill-Denim-07.jpg?v=1788350870",
+          "sourcePage": "https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim?country=US&currency=USD&variant=58083185459581"
+        },
+        {
+          "src": "assets/images/indie-the-hambledon-folk-zip-overshirt-mink-twill-denim-09.webp",
+          "alt": "Folk Zip Overshirt, Mink Twill Denim, view 9",
+          "source": "https://cdn.shopify.com/s/files/1/2219/2155/files/Folk-Clothing-Zip-Overshirt-Mink-Twill-Denim-08.jpg?v=1788350869",
+          "sourcePage": "https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim?country=US&currency=USD&variant=58083185459581"
+        },
+        {
+          "src": "assets/images/indie-the-hambledon-folk-zip-overshirt-mink-twill-denim-10.webp",
+          "alt": "Folk Zip Overshirt, Mink Twill Denim, view 10",
+          "source": "https://cdn.shopify.com/s/files/1/2219/2155/files/Folk-Clothing-Zip-Overshirt-Mink-Twill-Denim-09.jpg?v=1788350869",
+          "sourcePage": "https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim?country=US&currency=USD&variant=58083185459581"
+        }
+      ],
+      "sources": [
+        "indie-the-hambledon-folk-zip-overshirt-mink-twill-denim"
+      ],
+      "summary": "",
+      "verdict": "",
+      "image": "assets/images/indie-the-hambledon-folk-zip-overshirt-mink-twill-denim-01.webp",
+      "imageAlt": "Folk Zip Overshirt, Mink Twill Denim, view 1"
+    },
+    {
+      "id": "indie-peggs-son-folk-prism-jacket-indigo-texture",
+      "name": "Peggs & son. · Folk Prism Jacket · Indigo",
+      "store": "Peggs & son.",
+      "color": "Indigo",
+      "materialCaveat": "Peggs describes a striped lining; Folk identifies the stripe as the reverse of the cotton weave, not a separate lining.",
+      "imageNote": "All 11 photos from the exact-color stockist gallery, in source order. The Indigo outer fabric reads dark navy.",
+      "attribution": "US-market stockist price and size inventory; construction: https://www.folkclothing.com/products/folk-prism-jacket-indigo-texture",
+      "category": "Jacket",
+      "url": "https://www.peggsandson.com/products/products-prism-jacket-indigo-texture-25331?country=US&currency=USD&variant=56813337575804",
+      "unitPriceUSD": 268.0,
+      "facts": {
+        "Fabric": "100% cotton with cotton-poplin internal binding; unlined and unpadded.",
+        "Fit": "Relaxed, slightly cropped cut with spread collar, curved hem and angular patch pockets.",
+        "Status": "M in stock on the US storefront, November 25, 2026."
+      },
+      "images": [
+        {
+          "src": "assets/images/indie-peggs-son-folk-prism-jacket-indigo-texture-01.webp",
+          "alt": "Folk Prism Jacket, Indigo Texture, view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0754/2292/5113/files/1K3C0542_aefe7bca-74e8-416c-828e-0ef3f87406fe.jpg?v=1785927720",
+          "sourcePage": "https://www.peggsandson.com/products/products-prism-jacket-indigo-texture-25331?country=US&currency=USD&variant=56813337575804"
+        },
+        {
+          "src": "assets/images/indie-peggs-son-folk-prism-jacket-indigo-texture-02.webp",
+          "alt": "Folk Prism Jacket, Indigo Texture, view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0754/2292/5113/files/1K3C0712_4a1a11b4-b092-4030-8ab2-bb08a6d89bd2.jpg?v=1786698530",
+          "sourcePage": "https://www.peggsandson.com/products/products-prism-jacket-indigo-texture-25331?country=US&currency=USD&variant=56813337575804"
+        },
+        {
+          "src": "assets/images/indie-peggs-son-folk-prism-jacket-indigo-texture-03.webp",
+          "alt": "Folk Prism Jacket, Indigo Texture, view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0754/2292/5113/files/1K3C0713_9dd608c4-e6db-42d7-8114-96332f8a243f.jpg?v=1786698530",
+          "sourcePage": "https://www.peggsandson.com/products/products-prism-jacket-indigo-texture-25331?country=US&currency=USD&variant=56813337575804"
+        },
+        {
+          "src": "assets/images/indie-peggs-son-folk-prism-jacket-indigo-texture-04.webp",
+          "alt": "Folk Prism Jacket, Indigo Texture, view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0754/2292/5113/files/1K3C0714_580bb69e-d383-48bb-89c1-755ac56214c5.jpg?v=1786698530",
+          "sourcePage": "https://www.peggsandson.com/products/products-prism-jacket-indigo-texture-25331?country=US&currency=USD&variant=56813337575804"
+        },
+        {
+          "src": "assets/images/indie-peggs-son-folk-prism-jacket-indigo-texture-05.webp",
+          "alt": "Folk Prism Jacket, Indigo Texture, view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0754/2292/5113/files/1K3C0715_90749268-da60-4d7f-a1be-a409d479b471.jpg?v=1786698530",
+          "sourcePage": "https://www.peggsandson.com/products/products-prism-jacket-indigo-texture-25331?country=US&currency=USD&variant=56813337575804"
+        },
+        {
+          "src": "assets/images/indie-peggs-son-folk-prism-jacket-indigo-texture-06.webp",
+          "alt": "Folk Prism Jacket, Indigo Texture, view 6",
+          "source": "https://cdn.shopify.com/s/files/1/0754/2292/5113/files/1K3C0716_2bb9590c-1c73-4bfe-91dc-929a0cc6c69a.jpg?v=1786698530",
+          "sourcePage": "https://www.peggsandson.com/products/products-prism-jacket-indigo-texture-25331?country=US&currency=USD&variant=56813337575804"
+        },
+        {
+          "src": "assets/images/indie-peggs-son-folk-prism-jacket-indigo-texture-07.webp",
+          "alt": "Folk Prism Jacket, Indigo Texture, view 7",
+          "source": "https://cdn.shopify.com/s/files/1/0754/2292/5113/files/1K3C0717_4b79ea08-0b71-4482-ae15-29b4b43d0c63.jpg?v=1786698530",
+          "sourcePage": "https://www.peggsandson.com/products/products-prism-jacket-indigo-texture-25331?country=US&currency=USD&variant=56813337575804"
+        },
+        {
+          "src": "assets/images/indie-peggs-son-folk-prism-jacket-indigo-texture-08.webp",
+          "alt": "Folk Prism Jacket, Indigo Texture, view 8",
+          "source": "https://cdn.shopify.com/s/files/1/0754/2292/5113/files/1K3C0718_c4e78260-bcf5-4ebe-bfb2-f47e9d105480.jpg?v=1786698530",
+          "sourcePage": "https://www.peggsandson.com/products/products-prism-jacket-indigo-texture-25331?country=US&currency=USD&variant=56813337575804"
+        },
+        {
+          "src": "assets/images/indie-peggs-son-folk-prism-jacket-indigo-texture-09.webp",
+          "alt": "Folk Prism Jacket, Indigo Texture, view 9",
+          "source": "https://cdn.shopify.com/s/files/1/0754/2292/5113/files/1K3C0719_f1abb123-532c-486a-9290-eded6d744e58.jpg?v=1786698530",
+          "sourcePage": "https://www.peggsandson.com/products/products-prism-jacket-indigo-texture-25331?country=US&currency=USD&variant=56813337575804"
+        },
+        {
+          "src": "assets/images/indie-peggs-son-folk-prism-jacket-indigo-texture-10.webp",
+          "alt": "Folk Prism Jacket, Indigo Texture, view 10",
+          "source": "https://cdn.shopify.com/s/files/1/0754/2292/5113/files/1K3C0720_aaa0bfd5-4513-413d-ae79-c5a81fb262f1.jpg?v=1786698530",
+          "sourcePage": "https://www.peggsandson.com/products/products-prism-jacket-indigo-texture-25331?country=US&currency=USD&variant=56813337575804"
+        },
+        {
+          "src": "assets/images/indie-peggs-son-folk-prism-jacket-indigo-texture-11.webp",
+          "alt": "Folk Prism Jacket, Indigo Texture, view 11",
+          "source": "https://cdn.shopify.com/s/files/1/0754/2292/5113/files/1K3C0542B.jpg?v=1785927720",
+          "sourcePage": "https://www.peggsandson.com/products/products-prism-jacket-indigo-texture-25331?country=US&currency=USD&variant=56813337575804"
+        }
+      ],
+      "sources": [
+        "indie-peggs-son-folk-prism-jacket-indigo-texture"
+      ],
+      "summary": "",
+      "verdict": "",
+      "image": "assets/images/indie-peggs-son-folk-prism-jacket-indigo-texture-01.webp",
+      "imageAlt": "Folk Prism Jacket, Indigo Texture, view 1"
+    },
+    {
+      "id": "mainstream-brown-cotton-suede-ives-jacket",
+      "name": "Universal Works · Cotton Suede Ives Jacket · Brown",
+      "store": "Universal Works",
+      "color": "Brown",
+      "materialCaveat": "Unpadded chore-jacket alternative rather than an elastic-hem blouson.",
+      "imageNote": "All 6 images in the retailer’s single-color product gallery.",
+      "attribution": "US retailer product details and size-specific variant inventory, November 25, 2026.",
+      "category": "Jacket",
+      "url": "https://universalworks.com/en-us/products/brown-cotton-suede-ives-jacket?variant=55648918700408",
+      "unitPriceUSD": 268.0,
+      "facts": {
+        "Fabric": "100% cotton; explicitly not lined. Brushed cotton, not leather suede.",
+        "Fit": "Short, boxy, loose fit; three front patch pockets and one rear patch pocket.",
+        "Status": "S and M in stock, US storefront, 2026-11-25."
+      },
+      "images": [
+        {
+          "src": "assets/images/mainstream-brown-cotton-suede-ives-jacket-01.webp",
+          "alt": "Universal Works · Cotton Suede Ives Jacket · Brown, view 1",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/p35005_cotton-suede-brown_1.jpg?v=1793615208",
+          "sourcePage": "https://universalworks.com/en-us/products/brown-cotton-suede-ives-jacket?variant=55648918700408"
+        },
+        {
+          "src": "assets/images/mainstream-brown-cotton-suede-ives-jacket-02.webp",
+          "alt": "Universal Works · Cotton Suede Ives Jacket · Brown, view 2",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/P35005_Cotton-suede-Brown_model_1.jpg?v=1794919743",
+          "sourcePage": "https://universalworks.com/en-us/products/brown-cotton-suede-ives-jacket?variant=55648918700408"
+        },
+        {
+          "src": "assets/images/mainstream-brown-cotton-suede-ives-jacket-03.webp",
+          "alt": "Universal Works · Cotton Suede Ives Jacket · Brown, view 3",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/P35005_Cotton-suede-Brown_model_2.jpg?v=1794919743",
+          "sourcePage": "https://universalworks.com/en-us/products/brown-cotton-suede-ives-jacket?variant=55648918700408"
+        },
+        {
+          "src": "assets/images/mainstream-brown-cotton-suede-ives-jacket-04.webp",
+          "alt": "Universal Works · Cotton Suede Ives Jacket · Brown, view 4",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/p35005_cotton-suede-brown_swatch.jpg?v=1793615207",
+          "sourcePage": "https://universalworks.com/en-us/products/brown-cotton-suede-ives-jacket?variant=55648918700408"
+        },
+        {
+          "src": "assets/images/mainstream-brown-cotton-suede-ives-jacket-05.webp",
+          "alt": "Universal Works · Cotton Suede Ives Jacket · Brown, view 5",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/p35005_cotton-suede-brown_2.jpg?v=1793615207",
+          "sourcePage": "https://universalworks.com/en-us/products/brown-cotton-suede-ives-jacket?variant=55648918700408"
+        },
+        {
+          "src": "assets/images/mainstream-brown-cotton-suede-ives-jacket-06.webp",
+          "alt": "Universal Works · Cotton Suede Ives Jacket · Brown, view 6",
+          "source": "https://cdn.shopify.com/s/files/1/1831/8429/files/p35005_cotton-suede-brown_3.jpg?v=1793615210",
+          "sourcePage": "https://universalworks.com/en-us/products/brown-cotton-suede-ives-jacket?variant=55648918700408"
+        }
+      ],
+      "sources": [
+        "mainstream-brown-cotton-suede-ives-jacket"
+      ],
+      "summary": "",
+      "verdict": "",
+      "image": "assets/images/mainstream-brown-cotton-suede-ives-jacket-01.webp",
+      "imageAlt": "Universal Works · Cotton Suede Ives Jacket · Brown, view 1"
     }
   ],
   "sources": [
@@ -780,6 +1509,76 @@
       "url": "https://eamesnw.com/products/the-authentic-work-jacket-navy?variant=51055044985110",
       "type": "Retailer",
       "note": "Eames NW supplies the offer and photos. Put This On names Le Mont Saint Michel as a French chore-coat maker, not this Navy offer: https://putthison.com/the-french-chore-coat-finding-good-spring/"
+    },
+    {
+      "id": "olderbest-okonkwo-field-navy",
+      "title": "Olderbest · product page",
+      "url": "https://www.olderbest.com/en-us/products/12-oz-cotton-canvas-field-hunting-jacket-navy?variant=67556549001434",
+      "type": "Retailer",
+      "note": "US product description, size guide and exact-variant inventory."
+    },
+    {
+      "id": "fera-zephyr-jacket-ecru",
+      "title": "Fera · product page",
+      "url": "https://feragb.com/products/zephyr-jacket-ecru?country=US&currency=USD&variant=55715982180738",
+      "type": "Retailer",
+      "note": "US product listing and Fera’s Black Friday User Manual (https://feragb.com/blogs/news/black-friday-user-manual-2026)."
+    },
+    {
+      "id": "jalin-raffia-chore-jacket-ecru",
+      "title": "Jalin · product page",
+      "url": "https://jalindesign.com/products/raffia-chore-jacket-ecru?country=US&currency=USD&variant=55979609653574",
+      "type": "Retailer",
+      "note": "Men’s US product listing and delivery policy (https://jalindesign.com/pages/delivery)."
+    },
+    {
+      "id": "lafaurie-vestedepeintre-delaunay-ecru",
+      "title": "Lafaurie · product page",
+      "url": "https://lafaurieparis.com/en-us/products/vestedepeintre-delaunay-ecru?country=US&currency=USD&variant=56820629274949",
+      "type": "Retailer",
+      "note": "Lafaurie’s US product listing, composition, size advice and delivery information."
+    },
+    {
+      "id": "mainstream-registered-reversible-jacket-oak-cd26",
+      "title": "Rhythm · product page",
+      "url": "https://rhythmlivin.com/products/registered-reversible-jacket-oak-cd26?variant=48904130527325",
+      "type": "Retailer",
+      "note": "US retailer product details and size-specific variant inventory, November 25, 2026."
+    },
+    {
+      "id": "indie-lou-dean-far-afield-station-jacket-navy",
+      "title": "Lou + Dean · product page",
+      "url": "https://www.shoplouanddean.com/products/station-jacket?country=US&currency=USD&variant=67762546606233",
+      "type": "Retailer",
+      "note": "US-market stockist price and size inventory; construction: https://farafieldclothing.com/products/fundamentals-station-jacket-navy"
+    },
+    {
+      "id": "milworks-save-khaki-wide-wale-honey",
+      "title": "Milworks · product page",
+      "url": "https://milworks.co/products/wide-wale-corduroy-shirt-jacket-honey?variant=51111687356673",
+      "type": "Retailer",
+      "note": "US product description, size guide and exact-variant inventory."
+    },
+    {
+      "id": "indie-the-hambledon-folk-zip-overshirt-mink-twill-denim",
+      "title": "The Hambledon · product page",
+      "url": "https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim?country=US&currency=USD&variant=58083185459581",
+      "type": "Retailer",
+      "note": "US-market stockist price and size inventory; construction: https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim"
+    },
+    {
+      "id": "indie-peggs-son-folk-prism-jacket-indigo-texture",
+      "title": "Peggs & son. · product page",
+      "url": "https://www.peggsandson.com/products/products-prism-jacket-indigo-texture-25331?country=US&currency=USD&variant=56813337575804",
+      "type": "Retailer",
+      "note": "US-market stockist price and size inventory; construction: https://www.folkclothing.com/products/folk-prism-jacket-indigo-texture"
+    },
+    {
+      "id": "mainstream-brown-cotton-suede-ives-jacket",
+      "title": "Universal Works · product page",
+      "url": "https://universalworks.com/en-us/products/brown-cotton-suede-ives-jacket?variant=55648918700408",
+      "type": "Retailer",
+      "note": "US retailer product details and size-specific variant inventory, November 25, 2026."
     }
   ]
 }
