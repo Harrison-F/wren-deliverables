@@ -1,9 +1,9 @@
 {
   "title": "Collared jackets & overshirts",
-  "summary": "Brown and navy · Men’s S or M · Black Friday deals and everyday prices",
+  "summary": "Brown, navy and off-white · Men’s S or M · Listed US prices",
   "updated": "2026-11-26",
   "evidenceNote": "Product details and photos come from the linked retailers.",
-  "caveat": "Prices exclude shipping and tax. END.’s corduroy jacket is a near match: lining and fill unconfirmed.",
+  "caveat": "Prices exclude shipping and tax. Undisclosed lining or fill is not verified natural; see each jacket’s material notes. Store banners are not deducted from listed prices.",
   "id": "jacket-comparison",
   "catalog": true,
   "layout": "natural-basics",
@@ -556,6 +556,1263 @@
       "verdict": "",
       "image": "assets/images/indie-the-hambledon-folk-zip-overshirt-mink-twill-denim-01.webp",
       "imageAlt": "Folk Zip Overshirt, Mink Twill Denim, view 1"
+    },
+    {
+      "id": "br-906589032",
+      "name": "Banana Republic · Cotton Twill Shirt Jacket · Navy Blue",
+      "store": "Banana Republic",
+      "color": "Navy Blue",
+      "materialCaveat": "Explicitly unlined; no fill.",
+      "imageNote": "Six navy stills from eight gallery entries; two olive/khaki styling photos excluded.",
+      "attribution": "US retailer product and inventory, checked November 26, 2026.",
+      "category": "Jacket",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=9065890320001",
+      "unitPriceUSD": 58.8,
+      "facts": {
+        "Fabric": "100% cotton twill",
+        "Fit": "Standard straight fit, point collar, shirttail hem.",
+        "Status": "S and M in stock on US site, November 26, 2026."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-main-br-906589032-01.jpg",
+          "alt": "Cotton Twill Shirt Jacket in Navy Blue, retailer view 1",
+          "source": "https://content.gapinc.com/b/0062/938/920/cn62938920.png?width=1440",
+          "sourcePage": "https://bananarepublic.gap.com/browse/product.do?pid=9065890320001"
+        },
+        {
+          "src": "assets/images/bf15-main-br-906589032-02.jpg",
+          "alt": "Cotton Twill Shirt Jacket in Navy Blue, retailer view 2",
+          "source": "https://content.gapinc.com/b/0062/938/988/cn62938988.png?width=1440",
+          "sourcePage": "https://bananarepublic.gap.com/browse/product.do?pid=9065890320001"
+        },
+        {
+          "src": "assets/images/bf15-main-br-906589032-03.jpg",
+          "alt": "Cotton Twill Shirt Jacket in Navy Blue, retailer view 3",
+          "source": "https://content.gapinc.com/b/0062/938/945/cn62938945.png?width=1440",
+          "sourcePage": "https://bananarepublic.gap.com/browse/product.do?pid=9065890320001"
+        },
+        {
+          "src": "assets/images/bf15-main-br-906589032-04.jpg",
+          "alt": "Cotton Twill Shirt Jacket in Navy Blue, retailer view 4",
+          "source": "https://content.gapinc.com/b/0063/058/425/cn63058425.png?width=1440",
+          "sourcePage": "https://bananarepublic.gap.com/browse/product.do?pid=9065890320001"
+        },
+        {
+          "src": "assets/images/bf15-main-br-906589032-05.jpg",
+          "alt": "Cotton Twill Shirt Jacket in Navy Blue, retailer view 5",
+          "source": "https://content.gapinc.com/b/0063/058/440/cn63058440.png?width=1440",
+          "sourcePage": "https://bananarepublic.gap.com/browse/product.do?pid=9065890320001"
+        },
+        {
+          "src": "assets/images/bf15-main-br-906589032-06.jpg",
+          "alt": "Cotton Twill Shirt Jacket in Navy Blue, retailer view 6",
+          "source": "https://content.gapinc.com/b/0063/058/439/cn63058439.png?width=1440",
+          "sourcePage": "https://bananarepublic.gap.com/browse/product.do?pid=9065890320001"
+        }
+      ],
+      "sources": [
+        "br-906589032"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Black Friday 40% off, price as marked: $98 to $58.80.",
+      "image": "assets/images/bf15-main-br-906589032-01.jpg",
+      "imageAlt": "Cotton Twill Shirt Jacket in Navy Blue, retailer view 1"
+    },
+    {
+      "id": "iron-resin-corduroy-rambler-jacket-brown",
+      "name": "Iron & Resin · Corduroy Rambler Jacket · Brown",
+      "store": "Iron & Resin",
+      "color": "Brown",
+      "materialCaveat": "No separate fill or additional lining is listed; fiber claims reflect retailer disclosures.",
+      "imageNote": "All attributable still photos for the selected color; other colors and video excluded.",
+      "attribution": "Iron & Resin US lists this price and comparison price on the selected color and size; no current Black Friday attribution claimed.",
+      "category": "Jacket",
+      "url": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200",
+      "unitPriceUSD": 74.5,
+      "facts": {
+        "Fabric": "9 oz 100% cotton, 14-wale corduroy.",
+        "Fit": "Waist-length trucker; adjustable cuffs and side cinches.",
+        "Status": "US S, M in stock on November 26, 2026."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-iron-resin-corduroy-rambler-jacket-brown-01.webp",
+          "alt": "Dark brown corduroy jacket with silver buttons, two chest pockets, and a collar, displayed on a plain white background.",
+          "source": "https://cdn.shopify.com/s/files/1/0767/3853/files/CorduroyRamblerJacket-Brown-Front-2444.jpg?v=1794223402",
+          "sourcePage": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200"
+        },
+        {
+          "src": "assets/images/bf15-iron-resin-corduroy-rambler-jacket-brown-02.webp",
+          "alt": "Brown corduroy jacket shown from the back, featuring button details and a classic collar, set against a plain background.",
+          "source": "https://cdn.shopify.com/s/files/1/0767/3853/files/CorduroyRamblerJacket-Brown-Front-2446.jpg?v=1794224171",
+          "sourcePage": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200"
+        },
+        {
+          "src": "assets/images/bf15-iron-resin-corduroy-rambler-jacket-brown-03.webp",
+          "alt": "Man in brown jacket and beige pants stands against a tan background, looking to the side with a relaxed posture and expression.",
+          "source": "https://cdn.shopify.com/s/files/1/0767/3853/files/FitModel-CorduroyRambler-1726.jpg?v=1794223063",
+          "sourcePage": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200"
+        },
+        {
+          "src": "assets/images/bf15-iron-resin-corduroy-rambler-jacket-brown-04.webp",
+          "alt": "Man in a brown jacket and white pants stands against a beige background, looking to the side with a thoughtful expression.",
+          "source": "https://cdn.shopify.com/s/files/1/0767/3853/files/FitModel-CorduroyRambler-1735.jpg?v=1794223673",
+          "sourcePage": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200"
+        },
+        {
+          "src": "assets/images/bf15-iron-resin-corduroy-rambler-jacket-brown-05.webp",
+          "alt": "Man with curly hair in a brown jacket and beige pants stands facing away against a neutral background.",
+          "source": "https://cdn.shopify.com/s/files/1/0767/3853/files/FitModel-CorduroyRambler-1739.jpg?v=1794223272",
+          "sourcePage": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200"
+        },
+        {
+          "src": "assets/images/bf15-iron-resin-corduroy-rambler-jacket-brown-06.webp",
+          "alt": "Close-up of a brown corduroy jacket with Iron and Resin label, featuring metal buttons and a classic collar on a white background.",
+          "source": "https://cdn.shopify.com/s/files/1/0767/3853/files/CorduroyRamblerJacket-Brown-Details-2457.jpg?v=1794224231",
+          "sourcePage": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200"
+        },
+        {
+          "src": "assets/images/bf15-iron-resin-corduroy-rambler-jacket-brown-07.webp",
+          "alt": "Brown corduroy jacket with silver buttons and a chest pocket, showcasing textured fabric and detailed stitching.",
+          "source": "https://cdn.shopify.com/s/files/1/0767/3853/files/CorduroyRamblerJacket-Brown-Details-2458.jpg?v=1794223347",
+          "sourcePage": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200"
+        },
+        {
+          "src": "assets/images/bf15-iron-resin-corduroy-rambler-jacket-brown-08.webp",
+          "alt": "Close-up of a brown corduroy jacket with an Iron and Resin label, highlighting its texture and design details.",
+          "source": "https://cdn.shopify.com/s/files/1/0767/3853/files/CorduroyRamblerJacket-Brown-Details-2460.jpg?v=1794223572",
+          "sourcePage": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200"
+        },
+        {
+          "src": "assets/images/bf15-iron-resin-corduroy-rambler-jacket-brown-09.webp",
+          "alt": "Close-up of a brown corduroy jacket sleeve with a silver button, showcasing texture and detail in the fabric and stitching.",
+          "source": "https://cdn.shopify.com/s/files/1/0767/3853/files/CorduroyRamblerJacket-Brown-Details-2462.jpg?v=1794224123",
+          "sourcePage": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200"
+        },
+        {
+          "src": "assets/images/bf15-iron-resin-corduroy-rambler-jacket-brown-10.webp",
+          "alt": "Close-up of brown corduroy fabric with two metal buttons, showcasing texture and detail on a light background.",
+          "source": "https://cdn.shopify.com/s/files/1/0767/3853/files/CorduroyRamblerJacket-Brown-Details-2464.jpg?v=1794223184",
+          "sourcePage": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200"
+        },
+        {
+          "src": "assets/images/bf15-iron-resin-corduroy-rambler-jacket-brown-11.webp",
+          "alt": "Close-up of a brown corduroy jacket with a visible pocket and an Iron and Resin label at the bottom, highlighting texture.",
+          "source": "https://cdn.shopify.com/s/files/1/0767/3853/files/CorduroyRamblerJacket-Brown-Details-2459.jpg?v=1794222967",
+          "sourcePage": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200"
+        },
+        {
+          "src": "assets/images/bf15-iron-resin-corduroy-rambler-jacket-brown-12.webp",
+          "alt": "Brown jacket interior showing a red Iron and Resin label with text, highlighting the brand's craftsmanship and design details.",
+          "source": "https://cdn.shopify.com/s/files/1/0767/3853/files/CorduroyRamblerJacket-Brown-Details-2463.jpg?v=1794223486",
+          "sourcePage": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200"
+        }
+      ],
+      "sources": [
+        "iron-resin-corduroy-rambler-jacket-brown"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Ordinary markdown: $74.5 from $149 (50% off).",
+      "image": "assets/images/bf15-iron-resin-corduroy-rambler-jacket-brown-01.webp",
+      "imageAlt": "Dark brown corduroy jacket with silver buttons, two chest pockets, and a collar, displayed on a plain white background."
+    },
+    {
+      "id": "rhythm-james-jacket-tobacco",
+      "name": "Rhythm · James Jacket · Tobacco",
+      "store": "Rhythm",
+      "color": "Tobacco",
+      "materialCaveat": "No separate fill or additional lining is listed; fiber claims reflect retailer disclosures.",
+      "imageNote": "All still photos from the single-color product gallery.",
+      "attribution": "Rhythm US tags this exact style BF40M in its men’s Black Friday 40%-off campaign: https://rhythmlivin.com/collections/black-friday-26-mens/BF40M.",
+      "category": "Jacket",
+      "url": "https://rhythmlivin.com/products/james-jacket-tobacco-smu26?variant=44320608878685",
+      "unitPriceUSD": 78.0,
+      "facts": {
+        "Fabric": "100% cotton canvas; contrast corduroy collar.",
+        "Fit": "Standard fit with contrast corduroy collar, two-way zip and welt hand pockets.",
+        "Status": "US S in stock on November 26, 2026."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-rhythm-james-jacket-tobacco-01.webp",
+          "alt": "James Jacket in Tobacco — view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/RRG0426M-JK01-TOB-JAMES-JACKET-TOBACCO-0023.jpg?v=1776987582",
+          "sourcePage": "https://rhythmlivin.com/products/james-jacket-tobacco-smu26?variant=44320608878685"
+        },
+        {
+          "src": "assets/images/bf15-rhythm-james-jacket-tobacco-02.webp",
+          "alt": "James Jacket in Tobacco — view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/RRG0426M-JK01-TOB-JAMES-JACKET-TOBACCO-1.jpg?v=1776987582",
+          "sourcePage": "https://rhythmlivin.com/products/james-jacket-tobacco-smu26?variant=44320608878685"
+        },
+        {
+          "src": "assets/images/bf15-rhythm-james-jacket-tobacco-03.webp",
+          "alt": "James Jacket in Tobacco — view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/RRG0426M-JK01-TOB-JAMES-JACKET-TOBACCO-2.jpg?v=1776987582",
+          "sourcePage": "https://rhythmlivin.com/products/james-jacket-tobacco-smu26?variant=44320608878685"
+        },
+        {
+          "src": "assets/images/bf15-rhythm-james-jacket-tobacco-04.webp",
+          "alt": "James Jacket in Tobacco — view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/RRG0426M-JK01-TOB-JAMES-JACKET-TOBACCO-3.jpg?v=1776987582",
+          "sourcePage": "https://rhythmlivin.com/products/james-jacket-tobacco-smu26?variant=44320608878685"
+        },
+        {
+          "src": "assets/images/bf15-rhythm-james-jacket-tobacco-05.webp",
+          "alt": "James Jacket in Tobacco — view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/RRG0426M-JK01-TOB-JAMES-JACKET-TOBACCO-4.jpg?v=1776987582",
+          "sourcePage": "https://rhythmlivin.com/products/james-jacket-tobacco-smu26?variant=44320608878685"
+        },
+        {
+          "src": "assets/images/bf15-rhythm-james-jacket-tobacco-06.webp",
+          "alt": "James Jacket in Tobacco — view 6",
+          "source": "https://cdn.shopify.com/s/files/1/0280/2240/7261/files/RRG0426M-JK01-TOB-JAMES-JACKET-TOBACCO-5.jpg?v=1776987582",
+          "sourcePage": "https://rhythmlivin.com/products/james-jacket-tobacco-smu26?variant=44320608878685"
+        }
+      ],
+      "sources": [
+        "rhythm-james-jacket-tobacco"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Verified Black Friday: $78 from $130 (40% off).",
+      "image": "assets/images/bf15-rhythm-james-jacket-tobacco-01.webp",
+      "imageAlt": "James Jacket in Tobacco — view 1"
+    },
+    {
+      "id": "time-catcher-eisenhower-natural",
+      "name": "Time Catcher · Heavyweight Cotton Eisenhower Jacket · Natural",
+      "store": "Olderbest",
+      "color": "Natural",
+      "materialCaveat": "406 GSM 100% cotton twill; explicitly unlined, no fill.",
+      "imageNote": "Complete single-color retailer gallery, 16 photos in source order.",
+      "attribution": "Olderbest US product page and size-specific inventory, November 26, 2026.",
+      "category": "Jacket",
+      "url": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402",
+      "unitPriceUSD": 80.0,
+      "facts": {
+        "Fabric": "406 GSM 100% cotton twill; explicitly unlined, no fill.",
+        "Fit": "Cropped zip-front Eisenhower; S and M.",
+        "Status": "In stock on the US storefront, November 26, 2026: Natural / S, Natural / M"
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-01.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/1_4cf398dc-f384-4209-b1e3-ddd2e47cfeb6.jpg?v=1786520623",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-02.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/3_febb2e40-a20b-48ba-a202-3b93a259b81a.jpg?v=1786520646",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-03.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/2_47e00894-ad32-4166-be1d-4e85ee5a1ce2.jpg?v=1786520623",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-04.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/M1_a1b0d765-644b-48bb-bfc9-3f3352fce287.jpg?v=1793340362",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-05.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/M5_af610868-434e-4e45-9c44-103d59fd267e.jpg?v=1793340361",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-06.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 6",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/M7_58e38aae-c08a-4a22-9dbe-a5f25100127b.jpg?v=1793340361",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-07.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 7",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/m4_725c9cce-38fb-4491-9288-4f7a7554dfd7.jpg?v=1786520646",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-08.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 8",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/4jpg.jpg?v=1786520645",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-09.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 9",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/5_6d1f89da-150d-4aaa-9c6d-89b59d8b2fc9.jpg?v=1786520646",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-10.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 10",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/6_d88d45d9-306e-40e9-816f-1c5cb85cd65a.jpg?v=1786520646",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-11.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 11",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/8_4552cf7c-d8f4-4e71-b4e7-cb8d4b523288.jpg?v=1786520646",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-12.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 12",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/9_a44ca58d-e7c4-49e0-91d8-9916c7cf8e8f.jpg?v=1786520646",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-13.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 13",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/7_ecb58e13-70da-4f02-9e2c-e1567db8de51.jpg?v=1786520646",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-14.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 14",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/11_e20ca2f0-3cee-4dc7-901f-f8fc3a9c3370.jpg?v=1786520646",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-15.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 15",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/10_10809462-956d-461b-9561-2369a6e05290.jpg?v=1786520712",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        },
+        {
+          "src": "assets/images/bf15-time-catcher-eisenhower-natural-16.webp",
+          "alt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 16",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/12_662498e9-c501-44c9-b50c-546efc9e8256.jpg?v=1786520643",
+          "sourcePage": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402"
+        }
+      ],
+      "sources": [
+        "time-catcher-eisenhower-natural"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Store banner only: “Black Friday Sale.” No item-specific discount confirmed; listed US price shown.",
+      "image": "assets/images/bf15-time-catcher-eisenhower-natural-01.webp",
+      "imageAlt": "Time Catcher · Heavyweight Cotton Eisenhower Jacket, Natural, retailer view 1"
+    },
+    {
+      "id": "bf15-1940s-western-rider-denim-jacket",
+      "name": "Time Catcher · 1940s Western Rider · Dark indigo",
+      "store": "Olderbest",
+      "color": "Indigo (dark navy tone)",
+      "materialCaveat": "No separate lining or insulation specified in the product details.",
+      "imageNote": "Single-color product gallery, in retailer order.",
+      "attribution": "Exact product page and selected-size inventory, November 26, 2026.",
+      "category": "Jacket",
+      "url": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786",
+      "unitPriceUSD": 90.0,
+      "facts": {
+        "Fabric": "15 oz 100% cotton selvedge denim.",
+        "Fit": "Cropped western rider.",
+        "Status": "Available on the US storefront: Indigo / M."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-01.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/1_3f3f14e0-c5d6-4cae-9a0c-06b68a9687fa.jpg?v=1787194896",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-02.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/3_7bd82ad5-f567-4218-94fa-ee0720f3a5bf.jpg?v=1787194914",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-03.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/M1_b75f5ec9-b30a-4f18-b7f8-6b24d2e153bf.jpg?v=1793324896",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-04.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/M2_8f058228-ee01-4ad9-a319-7ec7273f83e2.jpg?v=1793324897",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-05.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/M6_3e56de6c-2f40-4184-af78-d49466954f8e.jpg?v=1793324896",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-06.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 6",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/M7_266d1bf1-74d5-4bc2-baae-e444f62131bd.jpg?v=1793324896",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-07.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 7",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/2_c40441a3-825c-45ad-a6c3-2a9f236075f1.jpg?v=1787194895",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-08.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 8",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/6_091c3b41-2901-495d-8541-d331a7a73d6c.jpg?v=1787194914",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-09.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 9",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/5_b214e9a8-f16a-42f6-b919-ac570f08ef24.jpg?v=1787194915",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-10.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 10",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/13_121546b7-940d-4a63-bbbe-d63a446fe5bb.jpg?v=1787194915",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-11.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 11",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/8_3be10bc0-cd5e-4794-9d6b-c87937eb3c3c.jpg?v=1787194915",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-12.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 12",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/10_39ee3a91-47f0-4923-bfcc-162efd6dfb7e.jpg?v=1787194915",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-13.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 13",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/14_663d5c21-aa06-4ec2-873b-4b16c7351411.jpg?v=1787194915",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-14.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 14",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/9_2bcaa232-c566-455c-973e-fe08adb3be9f.jpg?v=1787194915",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-15.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 15",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/15_9884b01d-d91a-4fea-8cc2-8491335aa672.jpg?v=1787194915",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-16.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 16",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/16_ef525a68-ed23-4372-9ecc-db2376d018e9.jpg?v=1787194916",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-17.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 17",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/17_8a38cfd9-786d-40aa-a56a-a59e0f816318.jpg?v=1787194915",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-18.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 18",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/18_2fe2c572-60d6-4ae1-830d-09247a2f89af.jpg?v=1787194915",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-19.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 19",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/11_0e1d0f1e-afc4-42b0-880d-96beaa39c207.jpg?v=1787194915",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-20.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 20",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/12_76d084ea-4bfd-402d-b4fb-d9f2822b5f4e.jpg?v=1787194916",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        },
+        {
+          "src": "assets/images/bf15-1940s-western-rider-denim-jacket-21.webp",
+          "alt": "Time Catcher · 1940s Western Rider · Dark indigo · view 21",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/19_14edd504-599f-47a2-ab8b-c591e7503d09.jpg?v=1787194915",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786"
+        }
+      ],
+      "sources": [
+        "bf15-1940s-western-rider-denim-jacket"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Black Friday store banner only; no item-specific discount confirmed. Listed price shown.",
+      "image": "assets/images/bf15-1940s-western-rider-denim-jacket-01.webp",
+      "imageAlt": "Time Catcher · 1940s Western Rider · Dark indigo · view 1"
+    },
+    {
+      "id": "iron-resin-fenceline-shirt-jacket-union-brown",
+      "name": "Iron & Resin · Fenceline Shirt Jacket · Union Brown",
+      "store": "Iron & Resin",
+      "color": "Union Brown",
+      "materialCaveat": "No separate fill or additional lining is listed; fiber claims reflect retailer disclosures.",
+      "imageNote": "All attributable still photos for the selected color; other colors and video excluded.",
+      "attribution": "Iron & Resin US lists this price and comparison price on the selected color and size; no current Black Friday attribution claimed.",
+      "category": "Jacket",
+      "url": "https://ironandresin.com/products/fenceline-shirt-jacket?variant=36492030804040",
+      "unitPriceUSD": 97.3,
+      "facts": {
+        "Fabric": "14 oz 100% cotton duck canvas, including a doubled self-fabric yoke.",
+        "Fit": "Western snap-front shirt jacket with a double-layer shoulder yoke; tailored rather than boxy.",
+        "Status": "US S, M in stock on November 26, 2026."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-iron-resin-fenceline-shirt-jacket-union-brown-01.webp",
+          "alt": "Fenceline Shirt Jacket - Iron & Resin",
+          "source": "https://cdn.shopify.com/s/files/1/0767/3853/files/Fenceline-Shirt-Cognac.jpg?v=1794230022",
+          "sourcePage": "https://ironandresin.com/products/fenceline-shirt-jacket?variant=36492030804040"
+        }
+      ],
+      "sources": [
+        "iron-resin-fenceline-shirt-jacket-union-brown"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Ordinary markdown: $97.3 from $139 (30% off).",
+      "image": "assets/images/bf15-iron-resin-fenceline-shirt-jacket-union-brown-01.webp",
+      "imageAlt": "Fenceline Shirt Jacket - Iron & Resin"
+    },
+    {
+      "id": "bf15-multi-ct-herringbone",
+      "name": "Charles Tyrwhitt · Herringbone Overshirt · Navy Blue",
+      "store": "Charles Tyrwhitt",
+      "color": "Navy Blue",
+      "materialCaveat": "No separate lining or fill specified in the retailer’s composition.",
+      "imageNote": "6 exact-color retailer gallery photos, in source order.",
+      "attribution": "US product page shows the $44.70 saving; the US Black Friday campaign advertises 30% off beyond the shirt multibuy: https://www.charlestyrwhitt.com/us/black-friday-cyber-monday-deals.html",
+      "category": "Jacket",
+      "url": "https://www.charlestyrwhitt.com/us/herringbone-overshirt---navy-blue/CSC0073NAV.html?dwvar_CSC0073NAV_casualShirtSize=S",
+      "unitPriceUSD": 104.3,
+      "facts": {
+        "Fabric": "73% cotton, 27% linen; Baird McNutt herringbone.",
+        "Fit": "Generous fit; classic collar and two chest pockets.",
+        "Status": "US S and M marked available, November 26."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-multi-ct-herringbone-01.webp",
+          "alt": "Herringbone Overshirt, Navy Blue — retailer photo 1",
+          "source": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw0d8d64e4/CSC/CSC0073NAV/CSC0073NAV_MODEL_FRONT_01.jpg?sw=960&sh=1200",
+          "sourcePage": "https://www.charlestyrwhitt.com/us/herringbone-overshirt---navy-blue/CSC0073NAV.html?dwvar_CSC0073NAV_casualShirtSize=S"
+        },
+        {
+          "src": "assets/images/bf15-multi-ct-herringbone-02.webp",
+          "alt": "Herringbone Overshirt, Navy Blue — retailer photo 2",
+          "source": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw3b44fa5f/CSC/CSC0073NAV/CSC0073NAV_COLLAR_DETAIL_02.jpg?sw=960&sh=1200",
+          "sourcePage": "https://www.charlestyrwhitt.com/us/herringbone-overshirt---navy-blue/CSC0073NAV.html?dwvar_CSC0073NAV_casualShirtSize=S"
+        },
+        {
+          "src": "assets/images/bf15-multi-ct-herringbone-03.webp",
+          "alt": "Herringbone Overshirt, Navy Blue — retailer photo 3",
+          "source": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw6fb0bea1/CSC/CSC0073NAV/CSC0073NAV_MODEL_BACK_03.jpg?sw=960&sh=1200",
+          "sourcePage": "https://www.charlestyrwhitt.com/us/herringbone-overshirt---navy-blue/CSC0073NAV.html?dwvar_CSC0073NAV_casualShirtSize=S"
+        },
+        {
+          "src": "assets/images/bf15-multi-ct-herringbone-04.webp",
+          "alt": "Herringbone Overshirt, Navy Blue — retailer photo 4",
+          "source": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwaa9b0a69/CSC/CSC0073NAV/CSC0073NAV_MODEL_DETAIL_04.jpg?sw=960&sh=1200",
+          "sourcePage": "https://www.charlestyrwhitt.com/us/herringbone-overshirt---navy-blue/CSC0073NAV.html?dwvar_CSC0073NAV_casualShirtSize=S"
+        },
+        {
+          "src": "assets/images/bf15-multi-ct-herringbone-05.webp",
+          "alt": "Herringbone Overshirt, Navy Blue — retailer photo 5",
+          "source": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwa97f82bc/CSC/CSC0073NAV/CSC0073NAV_FABRIC_DETAIL_05.jpg?sw=960&sh=1200",
+          "sourcePage": "https://www.charlestyrwhitt.com/us/herringbone-overshirt---navy-blue/CSC0073NAV.html?dwvar_CSC0073NAV_casualShirtSize=S"
+        },
+        {
+          "src": "assets/images/bf15-multi-ct-herringbone-06.webp",
+          "alt": "Herringbone Overshirt, Navy Blue — retailer photo 6",
+          "source": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwd91cd75b/CSC/CSC0073NAV/CSC0073NAV_MODEL_FULL_06.jpg?sw=960&sh=1200",
+          "sourcePage": "https://www.charlestyrwhitt.com/us/herringbone-overshirt---navy-blue/CSC0073NAV.html?dwvar_CSC0073NAV_casualShirtSize=S"
+        }
+      ],
+      "sources": [
+        "bf15-multi-ct-herringbone"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Listed markdown: $104.30 from $149. The store advertises Black Friday; exact-item campaign inclusion not confirmed.",
+      "image": "assets/images/bf15-multi-ct-herringbone-01.webp",
+      "imageAlt": "Herringbone Overshirt, Navy Blue — retailer photo 1"
+    },
+    {
+      "id": "bf15-multi-banks-shirt-jacket-saddle-brown",
+      "name": "Bridge & Burn · Banks Shirt Jacket · Saddle Brown",
+      "store": "Bridge & Burn",
+      "color": "Saddle Brown",
+      "materialCaveat": "Retailer lists 100% cotton; no separate lining or fill is specified.",
+      "imageNote": "6 exact-color retailer gallery photos, in source order.",
+      "attribution": "Exact Saddle Brown page states BLACK FRIDAY: $111 IN CART.",
+      "category": "Jacket",
+      "url": "https://www.bridgeandburn.com/products/banks-shirt-jacket-saddle-brown?variant=44328287404111&country=US",
+      "unitPriceUSD": 148.0,
+      "facts": {
+        "Fabric": "100% cotton; 14-wale corduroy.",
+        "Fit": "Chest patch pockets and hand pockets.",
+        "Status": "US in stock: S, M, November 26."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-multi-banks-shirt-jacket-saddle-brown-01.webp",
+          "alt": "Banks Shirt Jacket, Saddle Brown — retailer photo 1",
+          "source": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn69670a1cbd3a9669670a1cbd4df.1277461969670a1cbd4df.jpg?v=1772472430",
+          "sourcePage": "https://www.bridgeandburn.com/products/banks-shirt-jacket-saddle-brown?variant=44328287404111&country=US"
+        },
+        {
+          "src": "assets/images/bf15-multi-banks-shirt-jacket-saddle-brown-02.webp",
+          "alt": "Banks Shirt Jacket, Saddle Brown — retailer photo 2",
+          "source": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a42e3f9bcc2b56a42e3f9bcd12.087605596a42e3f9bcd12.jpg?v=1782768684",
+          "sourcePage": "https://www.bridgeandburn.com/products/banks-shirt-jacket-saddle-brown?variant=44328287404111&country=US"
+        },
+        {
+          "src": "assets/images/bf15-multi-banks-shirt-jacket-saddle-brown-03.webp",
+          "alt": "Banks Shirt Jacket, Saddle Brown — retailer photo 3",
+          "source": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a42e3f9e105386a42e3f9e12db.850107556a42e3f9e12db.jpg?v=1782768684",
+          "sourcePage": "https://www.bridgeandburn.com/products/banks-shirt-jacket-saddle-brown?variant=44328287404111&country=US"
+        },
+        {
+          "src": "assets/images/bf15-multi-banks-shirt-jacket-saddle-brown-04.webp",
+          "alt": "Banks Shirt Jacket, Saddle Brown — retailer photo 4",
+          "source": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a42e3f97e39b56a42e3f97e4f9.481534316a42e3f97e4f9.jpg?v=1782768684",
+          "sourcePage": "https://www.bridgeandburn.com/products/banks-shirt-jacket-saddle-brown?variant=44328287404111&country=US"
+        },
+        {
+          "src": "assets/images/bf15-multi-banks-shirt-jacket-saddle-brown-05.webp",
+          "alt": "Banks Shirt Jacket, Saddle Brown — retailer photo 5",
+          "source": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a42e3f9d01de56a42e3f9d02f8.743271066a42e3f9d02f8.jpg?v=1782768684",
+          "sourcePage": "https://www.bridgeandburn.com/products/banks-shirt-jacket-saddle-brown?variant=44328287404111&country=US"
+        },
+        {
+          "src": "assets/images/bf15-multi-banks-shirt-jacket-saddle-brown-06.webp",
+          "alt": "Banks Shirt Jacket, Saddle Brown — retailer photo 6",
+          "source": "https://cdn.shopify.com/s/files/1/0195/6998/files/Bridgeburn6a42e3f9aa4ac36a42e3f9aa5b2.078221806a42e3f9aa5b2.jpg?v=1782768685",
+          "sourcePage": "https://www.bridgeandburn.com/products/banks-shirt-jacket-saddle-brown?variant=44328287404111&country=US"
+        }
+      ],
+      "sources": [
+        "bf15-multi-banks-shirt-jacket-saddle-brown"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Black Friday: page lists $148 and expressly advertises $111 in cart; cart not tested.",
+      "image": "assets/images/bf15-multi-banks-shirt-jacket-saddle-brown-01.webp",
+      "imageAlt": "Banks Shirt Jacket, Saddle Brown — retailer photo 1"
+    },
+    {
+      "id": "br-906740002",
+      "name": "Banana Republic · Cotton Moto Sweater Jacket · Acorn Brown",
+      "store": "Banana Republic",
+      "color": "Acorn Brown",
+      "materialCaveat": "Knitted moto jacket; the retailer identifies the front body as the lined section. No batting.",
+      "imageNote": "One Acorn Brown still exposed for this selected color.",
+      "attribution": "US retailer product and inventory, checked November 26, 2026.",
+      "category": "Jacket",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=9067400020002",
+      "unitPriceUSD": 148.8,
+      "facts": {
+        "Fabric": "Shell: 100% cotton; front body lining: 100% organic cotton",
+        "Fit": "Relaxed dropped shoulder, notch collar, zip closure.",
+        "Status": "M in stock on US site, November 26, 2026."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-main-br-906740002-01.jpg",
+          "alt": "Cotton Moto Sweater Jacket in Acorn Brown, retailer view 1",
+          "source": "https://content.gapinc.com/b/0062/829/349/cn62829349.png?width=1440",
+          "sourcePage": "https://bananarepublic.gap.com/browse/product.do?pid=9067400020002"
+        }
+      ],
+      "sources": [
+        "br-906740002"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Black Friday 40% off, price as marked: $248 to $148.80.",
+      "image": "assets/images/bf15-main-br-906740002-01.jpg",
+      "imageAlt": "Cotton Moto Sweater Jacket in Acorn Brown, retailer view 1"
+    },
+    {
+      "id": "bf15-ranger-short-cruiser-jacket-navy",
+      "name": "Filson · Dry Wax Short Cruiser · Navy",
+      "store": "Filson",
+      "color": "Navy",
+      "materialCaveat": "Unlined; no insulation listed.",
+      "imageNote": "Single-color product gallery, in retailer order.",
+      "attribution": "Exact product page and selected-size inventory, November 26, 2026.",
+      "category": "Jacket",
+      "url": "https://www.filson.com/products/ranger-short-cruiser-jacket-navy?variant=46073653330072",
+      "unitPriceUSD": 149.25,
+      "facts": {
+        "Fabric": "7 oz dry-waxed 100% cotton; explicitly unlined.",
+        "Fit": "Hip-length with adjustable hem and snap front.",
+        "Status": "Available on the US storefront: Navy / S, Navy / M."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-ranger-short-cruiser-jacket-navy-01.webp",
+          "alt": "Filson · Dry Wax Short Cruiser · Navy · view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0657/0557/4552/files/91cdd047dc781e9d94c3bfba2ee0638c936099705703bb8bfbf4991246346c50.jpg?v=1789699430",
+          "sourcePage": "https://www.filson.com/products/ranger-short-cruiser-jacket-navy?variant=46073653330072"
+        },
+        {
+          "src": "assets/images/bf15-ranger-short-cruiser-jacket-navy-02.webp",
+          "alt": "Filson · Dry Wax Short Cruiser · Navy · view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0657/0557/4552/files/325c1425caee33fad2f515dbb1ddc421659e4ea7a528bb1a215895f192a659da.jpg?v=1789699433",
+          "sourcePage": "https://www.filson.com/products/ranger-short-cruiser-jacket-navy?variant=46073653330072"
+        },
+        {
+          "src": "assets/images/bf15-ranger-short-cruiser-jacket-navy-03.webp",
+          "alt": "Filson · Dry Wax Short Cruiser · Navy · view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0657/0557/4552/files/34c9a4a7fca10f8ea77fab91cc70c0d874695c401ffa2a92887cac3ffb52356e.png?v=1789699435",
+          "sourcePage": "https://www.filson.com/products/ranger-short-cruiser-jacket-navy?variant=46073653330072"
+        },
+        {
+          "src": "assets/images/bf15-ranger-short-cruiser-jacket-navy-04.webp",
+          "alt": "Filson · Dry Wax Short Cruiser · Navy · view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0657/0557/4552/files/89cb7d634db99f1c6f655ce36bbb9202781e7cf2ae8df6448350773992a2558f.png?v=1789699437",
+          "sourcePage": "https://www.filson.com/products/ranger-short-cruiser-jacket-navy?variant=46073653330072"
+        },
+        {
+          "src": "assets/images/bf15-ranger-short-cruiser-jacket-navy-05.webp",
+          "alt": "Filson · Dry Wax Short Cruiser · Navy · view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0657/0557/4552/files/7e2fa5f21097058ec9f81dc2617da9a044a9daa923d6d097f30bf3faee31b41d.png?v=1789699439",
+          "sourcePage": "https://www.filson.com/products/ranger-short-cruiser-jacket-navy?variant=46073653330072"
+        },
+        {
+          "src": "assets/images/bf15-ranger-short-cruiser-jacket-navy-06.webp",
+          "alt": "Filson · Dry Wax Short Cruiser · Navy · view 6",
+          "source": "https://cdn.shopify.com/s/files/1/0657/0557/4552/files/a3fe1a6f63748a1f393faa99177686ffa61d3d6e8620b87dea1ee4f3df958b58.png?v=1789699471",
+          "sourcePage": "https://www.filson.com/products/ranger-short-cruiser-jacket-navy?variant=46073653330072"
+        },
+        {
+          "src": "assets/images/bf15-ranger-short-cruiser-jacket-navy-07.webp",
+          "alt": "Filson · Dry Wax Short Cruiser · Navy · view 7",
+          "source": "https://cdn.shopify.com/s/files/1/0657/0557/4552/files/b0a9402456dd859e2f7b8b288a1d64f52bc533221a59232729f5c3af425829f3.png?v=1789699474",
+          "sourcePage": "https://www.filson.com/products/ranger-short-cruiser-jacket-navy?variant=46073653330072"
+        },
+        {
+          "src": "assets/images/bf15-ranger-short-cruiser-jacket-navy-08.webp",
+          "alt": "Filson · Dry Wax Short Cruiser · Navy · view 8",
+          "source": "https://cdn.shopify.com/s/files/1/0657/0557/4552/files/26019e738257f03dea56c6a2028ad2cd11a2496c496a202786b658954eb80428.png?v=1789699476",
+          "sourcePage": "https://www.filson.com/products/ranger-short-cruiser-jacket-navy?variant=46073653330072"
+        }
+      ],
+      "sources": [
+        "bf15-ranger-short-cruiser-jacket-navy"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Listed markdown: $149.25 from $199.",
+      "image": "assets/images/bf15-ranger-short-cruiser-jacket-navy-01.webp",
+      "imageAlt": "Filson · Dry Wax Short Cruiser · Navy · view 1"
+    },
+    {
+      "id": "annual-ring-1880-indigo",
+      "name": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket",
+      "store": "Olderbest",
+      "color": "Indigo",
+      "materialCaveat": "100% cotton, 15 oz selvedge denim; exposed reverse denim and seams visible in the detail gallery, with no separate lining or fill evident.",
+      "imageNote": "Complete single-color retailer gallery, 18 photos in source order.",
+      "attribution": "Olderbest US product page and size-specific inventory, November 26, 2026.",
+      "category": "Jacket",
+      "url": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249",
+      "unitPriceUSD": 155.55,
+      "facts": {
+        "Fabric": "100% cotton, 15 oz selvedge denim; exposed reverse denim and seams visible in the detail gallery, with no separate lining or fill evident.",
+        "Fit": "Short button-front denim jacket; M only. Deep, navy-toned indigo.",
+        "Status": "In stock on the US storefront, November 26, 2026: Indigo / M"
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-01.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/1_efd73ae8-97dc-41ed-acd7-26ed9ab805a0.jpg?v=1687917541",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-02.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/2_86917c95-0614-495b-961d-6fec33d4995a.jpg?v=1687917541",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-03.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/7_53746884-a23d-4e54-84bd-985df0f51087.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-04.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/8_a9b7204e-a1b5-40f6-a91f-949b9d21ca46.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-05.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/6_2eee38b2-e7df-4897-99ed-a3f2d6589e84.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-06.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 6",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/2_c58d64db-45e3-4d71-9165-7f48482965ea.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-07.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 7",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/3_54b2241d-b900-402d-8ad6-18bb532562f1.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-08.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 8",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/10_ed5c38c1-cf9d-4f1c-9c04-0b22dd819e1c.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-09.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 9",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/4_3f68b6d7-6d6c-46a7-8422-77319df69f41.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-10.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 10",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/7_f59b0efd-bc4d-471d-a7fa-8efbdf63f12b.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-11.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 11",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/5_b2e7cca1-982d-476a-94da-1d987688abe0.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-12.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 12",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/11_ffad217c-c970-4491-87f4-0feb1ad3128d.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-13.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 13",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/6_5f79867c-b601-458d-bebd-ef385e7cc78d.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-14.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 14",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/12_249bfd42-fdb8-4de2-8b5b-8136c9e2a642.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-15.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 15",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/8_180eb837-7841-49cc-a7e0-8b4043830555.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-16.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 16",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/9_44d3bd23-f36e-485c-8514-be185eab7de3.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-17.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 17",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/10_25d9c476-18c0-4aec-91ee-193bd374738e.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        },
+        {
+          "src": "assets/images/bf15-annual-ring-1880-indigo-18.webp",
+          "alt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 18",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/13_e975600f-8061-4b52-a388-f9f2106588c4.jpg?v=1714381690",
+          "sourcePage": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249"
+        }
+      ],
+      "sources": [
+        "annual-ring-1880-indigo"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Listed markdown: $155.55 from $175.84. Store advertises Black Friday; attribution of this markdown to that campaign is unconfirmed.",
+      "image": "assets/images/bf15-annual-ring-1880-indigo-01.webp",
+      "imageAlt": "Annual Ring · 1880 Indigo Dyed 15 oz Selvedge Denim Jacket, Indigo, retailer view 1"
+    },
+    {
+      "id": "bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509",
+      "name": "Taylor Stitch · Maritime Shirt Jacket · Vintage White",
+      "store": "Taylor Stitch",
+      "color": "Vintage White",
+      "materialCaveat": "No separate lining or insulation specified in the product details.",
+      "imageNote": "Single-color product gallery, in retailer order.",
+      "attribution": "Exact product page and selected-size inventory, November 26, 2026.",
+      "category": "Jacket",
+      "url": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509?variant=41473873248333",
+      "unitPriceUSD": 198.0,
+      "facts": {
+        "Fabric": "13 oz 100% organic cotton moleskin twill.",
+        "Fit": "Shirt cuffs and two oversized flap chest pockets.",
+        "Status": "Available on the US storefront: S - 38, M - 40."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509-01.webp",
+          "alt": "Taylor Stitch · Maritime Shirt Jacket · Vintage White · view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509_001.jpg?v=1790611818",
+          "sourcePage": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509?variant=41473873248333"
+        },
+        {
+          "src": "assets/images/bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509-02.webp",
+          "alt": "Taylor Stitch · Maritime Shirt Jacket · Vintage White · view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q325_The_Maritime_Shirt_Jacket-VintageWhiteMoleskinTwill_portrait_002.jpg?v=1785344737",
+          "sourcePage": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509?variant=41473873248333"
+        },
+        {
+          "src": "assets/images/bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509-03.webp",
+          "alt": "Taylor Stitch · Maritime Shirt Jacket · Vintage White · view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q325_The_Maritime_Shirt_Jacket-VintageWhiteMoleskinTwill_portrait_003.jpg?v=1785344739",
+          "sourcePage": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509?variant=41473873248333"
+        },
+        {
+          "src": "assets/images/bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509-04.webp",
+          "alt": "Taylor Stitch · Maritime Shirt Jacket · Vintage White · view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q325_The_Maritime_Shirt_Jacket-VintageWhiteMoleskinTwill_portrait_004.jpg?v=1785344742",
+          "sourcePage": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509?variant=41473873248333"
+        },
+        {
+          "src": "assets/images/bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509-05.webp",
+          "alt": "Taylor Stitch · Maritime Shirt Jacket · Vintage White · view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q325_The_Maritime_Shirt_Jacket-VintageWhiteMoleskinTwill_portrait_005.jpg?v=1785344745",
+          "sourcePage": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509?variant=41473873248333"
+        },
+        {
+          "src": "assets/images/bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509-06.webp",
+          "alt": "Taylor Stitch · Maritime Shirt Jacket · Vintage White · view 6",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q325_The_Maritime_Shirt_Jacket-VintageWhiteMoleskinTwill_portrait_007.jpg?v=1785344751",
+          "sourcePage": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509?variant=41473873248333"
+        },
+        {
+          "src": "assets/images/bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509-07.webp",
+          "alt": "Taylor Stitch · Maritime Shirt Jacket · Vintage White · view 7",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q325_The_Maritime_Shirt_Jacket-VintageWhiteMoleskinTwill_portrait_008.jpg?v=1785344753",
+          "sourcePage": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509?variant=41473873248333"
+        },
+        {
+          "src": "assets/images/bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509-08.webp",
+          "alt": "Taylor Stitch · Maritime Shirt Jacket · Vintage White · view 8",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_maritime-shirt-jacket-vintage-white-moleskin-twill_portrait_009.jpg?v=1785344848",
+          "sourcePage": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509?variant=41473873248333"
+        },
+        {
+          "src": "assets/images/bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509-09.webp",
+          "alt": "Taylor Stitch · Maritime Shirt Jacket · Vintage White · view 9",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/instock_m_q326_maritime-shirt-jacket-vintage-white-moleskin-twill_portrait_0010.jpg?v=1785344848",
+          "sourcePage": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509?variant=41473873248333"
+        },
+        {
+          "src": "assets/images/bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509-10.webp",
+          "alt": "Taylor Stitch · Maritime Shirt Jacket · Vintage White · view 10",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_maritime-shirt-jacket-vintage-white-moleskin-twill_swatch.jpg?v=1790619748",
+          "sourcePage": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509?variant=41473873248333"
+        }
+      ],
+      "sources": [
+        "bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Listed price; no item-specific promotion confirmed.",
+      "image": "assets/images/bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509-01.webp",
+      "imageAlt": "Taylor Stitch · Maritime Shirt Jacket · Vintage White · view 1"
+    },
+    {
+      "id": "bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket",
+      "name": "Annual Ring · Repair Trucker · Ecru",
+      "store": "Olderbest",
+      "color": "Ecru",
+      "materialCaveat": "No separate lining or insulation specified in the product details.",
+      "imageNote": "Single-color product gallery, in retailer order.",
+      "attribution": "Exact product page and selected-size inventory, November 26, 2026.",
+      "category": "Jacket",
+      "url": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610",
+      "unitPriceUSD": 209.65,
+      "facts": {
+        "Fabric": "15.5 oz undyed 100% cotton selvedge denim.",
+        "Fit": "Regular-fit distressed trucker.",
+        "Status": "Available on the US storefront: Ecru / S, Ecru / M."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-01.webp",
+          "alt": "Annual Ring · Repair Trucker · Ecru · view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/1_8f0d6b11-e166-45e0-9da8-18e033f5a2c9.jpg?v=1792485783",
+          "sourcePage": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610"
+        },
+        {
+          "src": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-02.webp",
+          "alt": "Annual Ring · Repair Trucker · Ecru · view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/m1_e3a64129-7155-4b1d-a11c-29ae38ab0f85.jpg?v=1792485784",
+          "sourcePage": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610"
+        },
+        {
+          "src": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-03.webp",
+          "alt": "Annual Ring · Repair Trucker · Ecru · view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/2_ee78cb75-c67a-496f-8405-43a44cdd0f98.jpg?v=1792485783",
+          "sourcePage": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610"
+        },
+        {
+          "src": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-04.webp",
+          "alt": "Annual Ring · Repair Trucker · Ecru · view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/m2_c491c550-6d03-4c0e-9113-dd642f3ec3f6.jpg?v=1792485783",
+          "sourcePage": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610"
+        },
+        {
+          "src": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-05.webp",
+          "alt": "Annual Ring · Repair Trucker · Ecru · view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/m3_c8b63070-45dc-4af6-aaa2-67b3d24e1b34.jpg?v=1792485783",
+          "sourcePage": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610"
+        },
+        {
+          "src": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-06.webp",
+          "alt": "Annual Ring · Repair Trucker · Ecru · view 6",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/m4_e6995ee9-d78c-484d-a9cb-99597943f253.jpg?v=1792485784",
+          "sourcePage": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610"
+        },
+        {
+          "src": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-07.webp",
+          "alt": "Annual Ring · Repair Trucker · Ecru · view 7",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/3_fe897416-c6a1-42ab-a0f1-f78ad68c2616.jpg?v=1792485783",
+          "sourcePage": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610"
+        },
+        {
+          "src": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-08.webp",
+          "alt": "Annual Ring · Repair Trucker · Ecru · view 8",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/4_def56dfa-b63f-4a8c-a710-f5f836070965.jpg?v=1792485783",
+          "sourcePage": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610"
+        },
+        {
+          "src": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-09.webp",
+          "alt": "Annual Ring · Repair Trucker · Ecru · view 9",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/5_cf5f3576-b053-4f84-816e-7842fc2266ad.jpg?v=1792485784",
+          "sourcePage": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610"
+        },
+        {
+          "src": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-10.webp",
+          "alt": "Annual Ring · Repair Trucker · Ecru · view 10",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/7_d650f995-479f-48b2-9330-b55584e17831.jpg?v=1792485783",
+          "sourcePage": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610"
+        },
+        {
+          "src": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-11.webp",
+          "alt": "Annual Ring · Repair Trucker · Ecru · view 11",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/8_9461b6e9-262b-4ef9-a53a-7594970377d8.jpg?v=1792485783",
+          "sourcePage": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610"
+        },
+        {
+          "src": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-12.webp",
+          "alt": "Annual Ring · Repair Trucker · Ecru · view 12",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/9_842c926d-53de-496d-bc81-a17540f1e9e7.jpg?v=1792485783",
+          "sourcePage": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610"
+        },
+        {
+          "src": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-13.webp",
+          "alt": "Annual Ring · Repair Trucker · Ecru · view 13",
+          "source": "https://cdn.shopify.com/s/files/1/0259/8174/7260/files/10_c132554a-d73d-4de1-84f6-c8782fa2072a.jpg?v=1792485783",
+          "sourcePage": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610"
+        }
+      ],
+      "sources": [
+        "bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Black Friday store banner only; no item-specific discount confirmed. Listed price shown.",
+      "image": "assets/images/bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket-01.webp",
+      "imageAlt": "Annual Ring · Repair Trucker · Ecru · view 1"
+    },
+    {
+      "id": "bf15-long-haul-jacket-in-soil-slub-denim-2607",
+      "name": "Taylor Stitch · Long Haul · Soil",
+      "store": "Taylor Stitch",
+      "color": "Soil",
+      "materialCaveat": "No separate lining or insulation specified in the product details.",
+      "imageNote": "Single-color product gallery, in retailer order.",
+      "attribution": "Exact product page and selected-size inventory, November 26, 2026.",
+      "category": "Jacket",
+      "url": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607?variant=42507565006925",
+      "unitPriceUSD": 228.0,
+      "facts": {
+        "Fabric": "11.75 oz 100% cotton denim; 100% organic cotton pocket bags.",
+        "Fit": "Trucker with welt hand pockets.",
+        "Status": "Available on the US storefront: S - 38, M - 40."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-long-haul-jacket-in-soil-slub-denim-2607-01.webp",
+          "alt": "Taylor Stitch · Long Haul · Soil · view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/long-haul-jacket-in-soil-slub-denim-2607_001.jpg?v=1790611791",
+          "sourcePage": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607?variant=42507565006925"
+        },
+        {
+          "src": "assets/images/bf15-long-haul-jacket-in-soil-slub-denim-2607-02.webp",
+          "alt": "Taylor Stitch · Long Haul · Soil · view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_02.jpg?v=1785177619",
+          "sourcePage": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607?variant=42507565006925"
+        },
+        {
+          "src": "assets/images/bf15-long-haul-jacket-in-soil-slub-denim-2607-03.webp",
+          "alt": "Taylor Stitch · Long Haul · Soil · view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_03.jpg?v=1785177619",
+          "sourcePage": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607?variant=42507565006925"
+        },
+        {
+          "src": "assets/images/bf15-long-haul-jacket-in-soil-slub-denim-2607-04.webp",
+          "alt": "Taylor Stitch · Long Haul · Soil · view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_04.jpg?v=1785177619",
+          "sourcePage": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607?variant=42507565006925"
+        },
+        {
+          "src": "assets/images/bf15-long-haul-jacket-in-soil-slub-denim-2607-05.webp",
+          "alt": "Taylor Stitch · Long Haul · Soil · view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_05.jpg?v=1785177620",
+          "sourcePage": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607?variant=42507565006925"
+        },
+        {
+          "src": "assets/images/bf15-long-haul-jacket-in-soil-slub-denim-2607-06.webp",
+          "alt": "Taylor Stitch · Long Haul · Soil · view 6",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_06.jpg?v=1785177620",
+          "sourcePage": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607?variant=42507565006925"
+        },
+        {
+          "src": "assets/images/bf15-long-haul-jacket-in-soil-slub-denim-2607-07.webp",
+          "alt": "Taylor Stitch · Long Haul · Soil · view 7",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_07.jpg?v=1785177620",
+          "sourcePage": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607?variant=42507565006925"
+        },
+        {
+          "src": "assets/images/bf15-long-haul-jacket-in-soil-slub-denim-2607-08.webp",
+          "alt": "Taylor Stitch · Long Haul · Soil · view 8",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_08.jpg?v=1785177619",
+          "sourcePage": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607?variant=42507565006925"
+        },
+        {
+          "src": "assets/images/bf15-long-haul-jacket-in-soil-slub-denim-2607-09.webp",
+          "alt": "Taylor Stitch · Long Haul · Soil · view 9",
+          "source": "https://cdn.shopify.com/s/files/1/0070/1922/files/Q326_the-long-haul-jacket-soil-slub-denim_pdp_compressed_swatch.jpg?v=1785177619",
+          "sourcePage": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607?variant=42507565006925"
+        }
+      ],
+      "sources": [
+        "bf15-long-haul-jacket-in-soil-slub-denim-2607"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Listed price; no item-specific promotion confirmed.",
+      "image": "assets/images/bf15-long-haul-jacket-in-soil-slub-denim-2607-01.webp",
+      "imageAlt": "Taylor Stitch · Long Haul · Soil · view 1"
+    },
+    {
+      "id": "bf15-trucker-jacket-in-umber-twill",
+      "name": "3sixteen · Trucker Jacket · Umber",
+      "store": "Blue Owl",
+      "color": "Umber",
+      "materialCaveat": "No separate lining or insulation specified in the product details.",
+      "imageNote": "Single-color product gallery, in retailer order.",
+      "attribution": "Exact product page and selected-size inventory, November 26, 2026.",
+      "category": "Jacket",
+      "url": "https://www.blueowl.us/products/trucker-jacket-in-umber-twill?variant=41591588552762",
+      "unitPriceUSD": 330.0,
+      "facts": {
+        "Fabric": "100% cotton chino twill.",
+        "Fit": "Boxy trucker with waist adjusters.",
+        "Status": "Available on the US storefront: Small, Medium."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf15-trucker-jacket-in-umber-twill-01.webp",
+          "alt": "3sixteen · Trucker Jacket · Umber · view 1",
+          "source": "https://cdn.shopify.com/s/files/1/0796/5485/files/2026_08_Product_3sixteen_TruckerJacketinUmberTwill_493.jpg?v=1786580110",
+          "sourcePage": "https://www.blueowl.us/products/trucker-jacket-in-umber-twill?variant=41591588552762"
+        },
+        {
+          "src": "assets/images/bf15-trucker-jacket-in-umber-twill-02.webp",
+          "alt": "3sixteen · Trucker Jacket · Umber · view 2",
+          "source": "https://cdn.shopify.com/s/files/1/0796/5485/files/2026_08_Product_3sixteen_TruckerJacketinUmberTwill_494.jpg?v=1786580110",
+          "sourcePage": "https://www.blueowl.us/products/trucker-jacket-in-umber-twill?variant=41591588552762"
+        },
+        {
+          "src": "assets/images/bf15-trucker-jacket-in-umber-twill-03.webp",
+          "alt": "3sixteen · Trucker Jacket · Umber · view 3",
+          "source": "https://cdn.shopify.com/s/files/1/0796/5485/files/2026_08_Product_3sixteen_TruckerJacketinUmberTwill_505.jpg?v=1786580110",
+          "sourcePage": "https://www.blueowl.us/products/trucker-jacket-in-umber-twill?variant=41591588552762"
+        },
+        {
+          "src": "assets/images/bf15-trucker-jacket-in-umber-twill-04.webp",
+          "alt": "3sixteen · Trucker Jacket · Umber · view 4",
+          "source": "https://cdn.shopify.com/s/files/1/0796/5485/files/2026_08_Product_3sixteen_TruckerJacketinUmberTwill_508.jpg?v=1786580110",
+          "sourcePage": "https://www.blueowl.us/products/trucker-jacket-in-umber-twill?variant=41591588552762"
+        },
+        {
+          "src": "assets/images/bf15-trucker-jacket-in-umber-twill-05.webp",
+          "alt": "3sixteen · Trucker Jacket · Umber · view 5",
+          "source": "https://cdn.shopify.com/s/files/1/0796/5485/files/2026_08_Product_3sixteen_TruckerJacketinUmberTwill_497.jpg?v=1786580110",
+          "sourcePage": "https://www.blueowl.us/products/trucker-jacket-in-umber-twill?variant=41591588552762"
+        },
+        {
+          "src": "assets/images/bf15-trucker-jacket-in-umber-twill-06.webp",
+          "alt": "3sixteen · Trucker Jacket · Umber · view 6",
+          "source": "https://cdn.shopify.com/s/files/1/0796/5485/files/2026_08_Product_3sixteen_TruckerJacketinUmberTwill_498.jpg?v=1786580110",
+          "sourcePage": "https://www.blueowl.us/products/trucker-jacket-in-umber-twill?variant=41591588552762"
+        },
+        {
+          "src": "assets/images/bf15-trucker-jacket-in-umber-twill-07.webp",
+          "alt": "3sixteen · Trucker Jacket · Umber · view 7",
+          "source": "https://cdn.shopify.com/s/files/1/0796/5485/files/2026_08_Product_3sixteen_TruckerJacketinUmberTwill_501.jpg?v=1786580110",
+          "sourcePage": "https://www.blueowl.us/products/trucker-jacket-in-umber-twill?variant=41591588552762"
+        },
+        {
+          "src": "assets/images/bf15-trucker-jacket-in-umber-twill-08.webp",
+          "alt": "3sixteen · Trucker Jacket · Umber · view 8",
+          "source": "https://cdn.shopify.com/s/files/1/0796/5485/files/2026_08_Product_3sixteen_TruckerJacketinUmberTwill_500.jpg?v=1786580110",
+          "sourcePage": "https://www.blueowl.us/products/trucker-jacket-in-umber-twill?variant=41591588552762"
+        },
+        {
+          "src": "assets/images/bf15-trucker-jacket-in-umber-twill-09.webp",
+          "alt": "3sixteen · Trucker Jacket · Umber · view 9",
+          "source": "https://cdn.shopify.com/s/files/1/0796/5485/files/2026_08_Product_3sixteen_TruckerJacketinUmberTwill_509.jpg?v=1786580110",
+          "sourcePage": "https://www.blueowl.us/products/trucker-jacket-in-umber-twill?variant=41591588552762"
+        }
+      ],
+      "sources": [
+        "bf15-trucker-jacket-in-umber-twill"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "Listed price; no item-specific promotion confirmed.",
+      "image": "assets/images/bf15-trucker-jacket-in-umber-twill-01.webp",
+      "imageAlt": "3sixteen · Trucker Jacket · Umber · view 1"
     }
   ],
   "sources": [
@@ -607,6 +1864,111 @@
       "url": "https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim?country=US&currency=USD&variant=58083185459581",
       "type": "Retailer",
       "note": "US-market stockist price and size inventory; construction: https://thehambledon.com/en-us/products/zip-overshirt-mink-twill-denim"
+    },
+    {
+      "id": "br-906589032",
+      "title": "Banana Republic · product page",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=9065890320001",
+      "type": "Retailer",
+      "note": "US retailer product and inventory, checked November 26, 2026."
+    },
+    {
+      "id": "iron-resin-corduroy-rambler-jacket-brown",
+      "title": "Iron & Resin · product page",
+      "url": "https://ironandresin.com/products/corduroy-rambler-jacket?variant=36495147696200",
+      "type": "Retailer",
+      "note": "Iron & Resin US lists this price and comparison price on the selected color and size; no current Black Friday attribution claimed."
+    },
+    {
+      "id": "rhythm-james-jacket-tobacco",
+      "title": "Rhythm · product page",
+      "url": "https://rhythmlivin.com/products/james-jacket-tobacco-smu26?variant=44320608878685",
+      "type": "Retailer",
+      "note": "Rhythm US tags this exact style BF40M in its men’s Black Friday 40%-off campaign: https://rhythmlivin.com/collections/black-friday-26-mens/BF40M."
+    },
+    {
+      "id": "time-catcher-eisenhower-natural",
+      "title": "Olderbest · product page",
+      "url": "https://www.olderbest.com/en-us/products/heavyweight-cotton-eisenhower-jacket?variant=48329065693402",
+      "type": "Retailer",
+      "note": "Olderbest US product page and size-specific inventory, November 26, 2026."
+    },
+    {
+      "id": "bf15-1940s-western-rider-denim-jacket",
+      "title": "Olderbest · product page",
+      "url": "https://www.olderbest.com/en-us/products/1940s-western-rider-denim-jacket?variant=48335785197786",
+      "type": "Retailer",
+      "note": "Exact product page and selected-size inventory, November 26, 2026."
+    },
+    {
+      "id": "iron-resin-fenceline-shirt-jacket-union-brown",
+      "title": "Iron & Resin · product page",
+      "url": "https://ironandresin.com/products/fenceline-shirt-jacket?variant=36492030804040",
+      "type": "Retailer",
+      "note": "Iron & Resin US lists this price and comparison price on the selected color and size; no current Black Friday attribution claimed."
+    },
+    {
+      "id": "bf15-multi-ct-herringbone",
+      "title": "Charles Tyrwhitt · product page",
+      "url": "https://www.charlestyrwhitt.com/us/herringbone-overshirt---navy-blue/CSC0073NAV.html?dwvar_CSC0073NAV_casualShirtSize=S",
+      "type": "Retailer",
+      "note": "US product page shows the $44.70 saving; the US Black Friday campaign advertises 30% off beyond the shirt multibuy: https://www.charlestyrwhitt.com/us/black-friday-cyber-monday-deals.html"
+    },
+    {
+      "id": "bf15-multi-banks-shirt-jacket-saddle-brown",
+      "title": "Bridge & Burn · product page",
+      "url": "https://www.bridgeandburn.com/products/banks-shirt-jacket-saddle-brown?variant=44328287404111&country=US",
+      "type": "Retailer",
+      "note": "Exact Saddle Brown page states BLACK FRIDAY: $111 IN CART."
+    },
+    {
+      "id": "br-906740002",
+      "title": "Banana Republic · product page",
+      "url": "https://bananarepublic.gap.com/browse/product.do?pid=9067400020002",
+      "type": "Retailer",
+      "note": "US retailer product and inventory, checked November 26, 2026."
+    },
+    {
+      "id": "bf15-ranger-short-cruiser-jacket-navy",
+      "title": "Filson · product page",
+      "url": "https://www.filson.com/products/ranger-short-cruiser-jacket-navy?variant=46073653330072",
+      "type": "Retailer",
+      "note": "Exact product page and selected-size inventory, November 26, 2026."
+    },
+    {
+      "id": "annual-ring-1880-indigo",
+      "title": "Olderbest · product page",
+      "url": "https://www.olderbest.com/en-us/products/1880-indigo-dyed-15-oz-selvedge-denim-jacket?variant=37929402499249",
+      "type": "Retailer",
+      "note": "Olderbest US product page and size-specific inventory, November 26, 2026."
+    },
+    {
+      "id": "bf15-maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509",
+      "title": "Taylor Stitch · product page",
+      "url": "https://www.taylorstitch.com/products/maritime-shirt-jacket-in-vintage-white-moleskin-twill-2509?variant=41473873248333",
+      "type": "Retailer",
+      "note": "Exact product page and selected-size inventory, November 26, 2026."
+    },
+    {
+      "id": "bf15-15-5-oz-ecru-selvedge-denim-repair-trucker-jacket",
+      "title": "Olderbest · product page",
+      "url": "https://www.olderbest.com/en-us/products/15-5-oz-ecru-selvedge-denim-repair-trucker-jacket?variant=67556159291610",
+      "type": "Retailer",
+      "note": "Exact product page and selected-size inventory, November 26, 2026."
+    },
+    {
+      "id": "bf15-long-haul-jacket-in-soil-slub-denim-2607",
+      "title": "Taylor Stitch · product page",
+      "url": "https://www.taylorstitch.com/products/long-haul-jacket-in-soil-slub-denim-2607?variant=42507565006925",
+      "type": "Retailer",
+      "note": "Exact product page and selected-size inventory, November 26, 2026."
+    },
+    {
+      "id": "bf15-trucker-jacket-in-umber-twill",
+      "title": "Blue Owl · product page",
+      "url": "https://www.blueowl.us/products/trucker-jacket-in-umber-twill?variant=41591588552762",
+      "type": "Retailer",
+      "note": "Exact product page and selected-size inventory, November 26, 2026."
     }
   ]
 }
