@@ -7,7 +7,7 @@
   "updated": "2026-11-23T15:40:03.874420+00:00",
   "recommendation": {
     "title": "All apparel · S or M tops · 30 × 32 trousers · other fits under Check size",
-    "text": "976 size-stock matches · 326 need size checks · saved inventories, not live checkout",
+    "text": "978 size-stock matches · 327 need size checks · saved inventories, not live checkout",
     "test": "Natural fibres + viscose, rayon, modal, lyocell and acetate. No disclosed synthetics."
   },
   "defaultSort": "price",
@@ -89192,6 +89192,170 @@
       "image": "assets/images/gallery-1afdeec0aea11844c4f7c0ef.webp",
       "imageAlt": "A.P.C. · Ron Sweater - Camel sweater in recycled wool",
       "materialPercentUnidentified": false
+    },
+    {
+      "id": "deal-3a8cad2c31ac31c7",
+      "name": "A.P.C. · Patchwork T-shirt",
+      "url": "https://www.apc-us.com/products/patchwork-t-shirt-cohbu-h26580_aab?variant=43581596172387",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Shirt",
+      "color": "AAB - White",
+      "unitPriceUSD": 137.5,
+      "priceLabel": "$137.50",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "S and M",
+      "summary": "S and M",
+      "verdict": "Shirt",
+      "facts": {
+        "Fabric": "100% organic cotton",
+        "Size": "S and M"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-b271b5d30d4bfcdc35824292.webp",
+          "alt": "A.P.C. · Patchwork T-shirt"
+        },
+        {
+          "src": "assets/images/gallery-5b00cf0f8c6da696bb3092f0.webp",
+          "alt": "A.P.C. · Patchwork T-shirt"
+        },
+        {
+          "src": "assets/images/gallery-6fa155433b87eebbd19fbc1f.webp",
+          "alt": "A.P.C. · Patchwork T-shirt"
+        },
+        {
+          "src": "assets/images/gallery-a5b21c6adb75c2e18ea67648.webp",
+          "alt": "A.P.C. · Patchwork T-shirt"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "S",
+          "url": "https://www.apc-us.com/products/patchwork-t-shirt-cohbu-h26580_aab?variant=43581596172387",
+          "variantId": "43581596172387",
+          "originalPriceUSD": 275.0
+        },
+        {
+          "size": "M",
+          "url": "https://www.apc-us.com/products/patchwork-t-shirt-cohbu-h26580_aab?variant=43581596205155",
+          "variantId": "43581596205155",
+          "originalPriceUSD": 275.0
+        }
+      ],
+      "image": "assets/images/gallery-b271b5d30d4bfcdc35824292.webp",
+      "imageAlt": "A.P.C. · Patchwork T-shirt",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "deal-5da7fba998593ed7",
+      "name": "A.P.C. · Standard Jeans",
+      "url": "https://www.apc-us.com/products/standard-jeans-cohlb-h09080_aaf?variant=43583739265123",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Trousers",
+      "color": "AAF - Bleached out",
+      "unitPriceUSD": 175.0,
+      "priceLabel": "$175.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "30 waist",
+      "summary": "30 waist",
+      "verdict": "Trousers",
+      "facts": {
+        "Fabric": "100% organic cotton",
+        "Size": "30 waist"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-ec3134442e6d879581451c27.webp",
+          "alt": "A.P.C. · Standard Jeans"
+        },
+        {
+          "src": "assets/images/gallery-a889ffd9de046436be11d6e9.webp",
+          "alt": "A.P.C. · Standard Jeans"
+        },
+        {
+          "src": "assets/images/gallery-a0daa627f09da05c86409ade.webp",
+          "alt": "A.P.C. · Standard Jeans"
+        },
+        {
+          "src": "assets/images/gallery-e3804f27462638c7be9ef36f.webp",
+          "alt": "A.P.C. · Standard Jeans"
+        },
+        {
+          "src": "assets/images/gallery-c3fdd229a52f31175e646224.webp",
+          "alt": "A.P.C. · Standard Jeans"
+        },
+        {
+          "src": "assets/images/gallery-b7f3f29cbf52375cda9d8bbb.webp",
+          "alt": "A.P.C. · Standard Jeans"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "size-review"
+      ],
+      "sizeLinks": [
+        {
+          "size": "30 waist",
+          "url": "https://www.apc-us.com/products/standard-jeans-cohlb-h09080_aaf?variant=43583739265123",
+          "variantId": "43583739265123",
+          "originalPriceUSD": 350.0
+        }
+      ],
+      "image": "assets/images/gallery-ec3134442e6d879581451c27.webp",
+      "imageAlt": "A.P.C. · Standard Jeans",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "deal-987c31326266c6dc",
+      "name": "A.P.C. · Thomas sweater",
+      "url": "https://www.apc-us.com/products/thomas-jumper-wvbcz-h23434_aad?variant=43390639800419",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Sweater",
+      "color": "AAD - Ecru",
+      "unitPriceUSD": 197.5,
+      "priceLabel": "$197.50",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "M",
+      "summary": "M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% RWS wool",
+        "Size": "M"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-4ea4602089aa65f54f0dc7d9.webp",
+          "alt": "A.P.C. · Thomas sweater"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "M",
+          "url": "https://www.apc-us.com/products/thomas-jumper-wvbcz-h23434_aad?variant=43390639800419",
+          "variantId": "43390639800419",
+          "originalPriceUSD": 395.0
+        }
+      ],
+      "image": "assets/images/gallery-4ea4602089aa65f54f0dc7d9.webp",
+      "imageAlt": "A.P.C. · Thomas sweater",
+      "materialPercentUnidentified": false
     }
   ],
   "sources": [],
@@ -89225,6 +89389,7 @@
     "deal-38f3b5a7c0ad86f0",
     "deal-394ea72a74e4e7ee",
     "deal-3950a3a984e2ac31",
+    "deal-3a8cad2c31ac31c7",
     "deal-3b236733458240bb",
     "deal-3b5b4446288ef2b0",
     "deal-3f457d6d0b6d1c06",
@@ -89241,6 +89406,7 @@
     "deal-5bd5561a5f553953",
     "deal-5cc30c7d25f75ad7",
     "deal-5d737460ba180363",
+    "deal-5da7fba998593ed7",
     "deal-5f1dc4dac65b08fe",
     "deal-612eef64f4c30aa8",
     "deal-6530a950fd3787c6",
@@ -89258,6 +89424,7 @@
     "deal-909b93dde37b5b0a",
     "deal-962174ef42d481c0",
     "deal-972f8690092fcd89",
+    "deal-987c31326266c6dc",
     "deal-991a28a6a7d4031c",
     "deal-9d9f46e028dfb312",
     "deal-9f20744eddfa1b5e",
