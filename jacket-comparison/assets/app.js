@@ -106,7 +106,9 @@ function attachNaturalSort(topic) {
  if(document.body.classList.contains('clothing-catalog') && !topic.clinicalCatalog) ordering=CatalogOrder.attach(topic,grid,apply);
 }
 async function render() {
- const library=await load('data/library.json'); const id='jacket-comparison';
+ const library=await load('data/library.json'); const fresh=new URLSearchParams(location.search).get('tab')==='new-finds';
+ const id=fresh?'jacket-comparison-new-finds':'jacket-comparison';
+ document.querySelectorAll('.jacket-tabs a')[fresh?1:0].setAttribute('aria-current','page');
  if(!id) {document.title='Research library';content.innerHTML=intro('Research library','Decisions, comparisons and the evidence behind them.')+search('Search topics')+`<section class="display-template" aria-label="Research topics">${library.topics.map(t=>`<article class="display-card" data-search="${esc((t.title+' '+t.summary).toLowerCase())}"><a class="portrait-wrap" href="?topic=${encodeURIComponent(t.id)}" aria-label="Open ${esc(t.title)}"><img class="portrait" src="${imageURL(t.image)}" alt="${esc(t.imageAlt)}"></a><div class="card-body"><div class="card-head"><div class="identity"><h2>${esc(t.title)}</h2></div></div><p class="bio">${esc(t.summary)}</p><div class="card-foot"><a class="secondary-button" href="?topic=${encodeURIComponent(t.id)}">View research →</a></div></div></article>`).join('')}</section><p id="no-results" class="empty" hidden>No matching topics.</p>`;attachSearch();return;}
  if(!library.topics.some(t=>t.id===id)||! /^[a-z0-9-]+$/.test(id)) throw Error('Topic not found. Choose a topic from the library.');
  const topic=await load(`data/topics/${id}.json`);document.title=topic.id==='harrison-clothes-contenders'?"Harrison's Clothes Contenders":topic.title+' · Research library';document.querySelector('#home-link').hidden=false;

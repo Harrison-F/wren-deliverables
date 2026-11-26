@@ -7,6 +7,14 @@
       "updated": "2026-11-26",
       "image": "assets/images/bf-walter-dark-navy-1.jpg",
       "imageAlt": "Walter Chore Coat in Dark Navy, retailer view 1"
+    },
+    {
+      "id": "jacket-comparison-new-finds",
+      "title": "New finds",
+      "summary": "Twenty jackets and layering overshirts, sorted by listed US price.",
+      "updated": "2026-11-26",
+      "image": "assets/images/alt-roark-hebrides-unlined-jacket-dnv-dark-navy-01.webp",
+      "imageAlt": "Roark Hebrides Unlined Jacket, DNV-Dark Navy, view 1"
     }
   ]
 }
