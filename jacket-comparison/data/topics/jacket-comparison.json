@@ -1,9 +1,9 @@
 {
   "title": "Collared jackets & overshirts",
-  "summary": "Brown and navy · Men’s S or M · Lowest price first",
+  "summary": "Brown and navy · Men’s S or M · Black Friday deals and everyday prices",
   "updated": "2026-11-25",
   "evidenceNote": "Maker leads: Derek Guy’s French chore coat guide and r/ThrowingFits and r/HeritageWear owner comments. Prices and fabric details come from retailers, not editorial sources.",
-  "caveat": "Prices before shipping and tax. Time Catcher’s code is conditional. END.’s corduroy jacket is a near match: lining and fill unconfirmed.",
+  "caveat": "Time Catcher’s Navy / S was $58.50 in cart with 26BFCM10. Prices exclude shipping and tax. END.’s corduroy jacket is a near match: lining and fill unconfirmed.",
   "id": "jacket-comparison",
   "catalog": true,
   "layout": "natural-basics",
@@ -115,7 +115,7 @@
       ],
       "summary": "",
       "verdict": "",
-      "deal": "Black Friday: advertised sitewide 10% code 26BFCM10; $58.50 if accepted. No minimum stated; not checkout-tested. 15% requires $179, 20% requires $229.",
+      "deal": "Black Friday: code 26BFCM10 reduced Navy / S from $65 to $58.50 in cart. Shipping without optional protection was not confirmed.",
       "image": "assets/images/time-catcher-french-worker-navy-01.webp",
       "imageAlt": "Time Catcher · French Worker Chore Jacket · Navy, view 1"
     },
@@ -180,6 +180,69 @@
       "verdict": "",
       "image": "assets/images/universal-surplus-french-chore-navy-01.webp",
       "imageAlt": "Universal Surplus · French Chore Jacket · Navy, view 1"
+    },
+    {
+      "id": "carhartt-wip-walter-chore-coat-dark-navy",
+      "name": "Carhartt WIP · Walter Chore Coat · Dark Navy",
+      "store": "Carhartt WIP US",
+      "color": "Dark Navy (Garment Dyed)",
+      "materialCaveat": "Unlined and unpadded; buttons and rivets are trims.",
+      "imageNote": "All six distinct views from the exact-color US product gallery, in display order.",
+      "attribution": "Carhartt WIP US product page: specifications, Black Friday price, final-sale notice and photography.",
+      "category": "Jacket",
+      "url": "https://us.carhartt-wip.com/en-us/products/walter-chore-coat-dark-navy-garment-dyed-562",
+      "unitPriceUSD": 104,
+      "facts": {
+        "Fabric": "7.4 oz Sullivan canvas: 58% cotton, 42% linen.",
+        "Fit": "Button-front chore coat with adjustable cuffs and four front pockets.",
+        "Status": "US Small and Medium both in stock at $104 on November 25, 2026; final sale, no returns or exchanges."
+      },
+      "images": [
+        {
+          "src": "assets/images/bf-walter-dark-navy-1.jpg",
+          "alt": "Walter Chore Coat in Dark Navy, retailer view 1",
+          "source": "https://cdn.shopify.com/s/files/1/2193/5809/files/I035552_1C_GD-OF-01_81a7d5dd-d54a-4134-acf4-fc5be9a523fd.jpg",
+          "sourcePage": "https://us.carhartt-wip.com/en-us/products/walter-chore-coat-dark-navy-garment-dyed-562"
+        },
+        {
+          "src": "assets/images/bf-walter-dark-navy-2.jpg",
+          "alt": "Walter Chore Coat in Dark Navy, retailer view 2",
+          "source": "https://cdn.shopify.com/s/files/1/2193/5809/files/I035552_1C_GD-OF-02_96f0a2ba-fd3a-48cf-949f-1a37dc7c26d5.jpg",
+          "sourcePage": "https://us.carhartt-wip.com/en-us/products/walter-chore-coat-dark-navy-garment-dyed-562"
+        },
+        {
+          "src": "assets/images/bf-walter-dark-navy-3.jpg",
+          "alt": "Walter Chore Coat in Dark Navy, retailer view 3",
+          "source": "https://cdn.shopify.com/s/files/1/2193/5809/files/I035552_1C_GD-OF-03_4a718676-03df-4e4f-bed7-be957625dab1.jpg",
+          "sourcePage": "https://us.carhartt-wip.com/en-us/products/walter-chore-coat-dark-navy-garment-dyed-562"
+        },
+        {
+          "src": "assets/images/bf-walter-dark-navy-4.jpg",
+          "alt": "Walter Chore Coat in Dark Navy, retailer view 4",
+          "source": "https://cdn.shopify.com/s/files/1/2193/5809/files/I035552_1C_GD-OF-04_178c0658-be6c-4c34-891a-af3d2c120c25.jpg",
+          "sourcePage": "https://us.carhartt-wip.com/en-us/products/walter-chore-coat-dark-navy-garment-dyed-562"
+        },
+        {
+          "src": "assets/images/bf-walter-dark-navy-5.jpg",
+          "alt": "Walter Chore Coat in Dark Navy, retailer view 5",
+          "source": "https://cdn.shopify.com/s/files/1/2193/5809/files/I035552_1C_GD-ST-01_ffbde62b-3ff6-4e15-b226-050bffe3d3c3.jpg",
+          "sourcePage": "https://us.carhartt-wip.com/en-us/products/walter-chore-coat-dark-navy-garment-dyed-562"
+        },
+        {
+          "src": "assets/images/bf-walter-dark-navy-6.jpg",
+          "alt": "Walter Chore Coat in Dark Navy, retailer view 6",
+          "source": "https://cdn.shopify.com/s/files/1/2193/5809/files/I035552_1C_GD-ST-02_75568af0-4dbe-4b61-a3af-7014d0808ce2.jpg",
+          "sourcePage": "https://us.carhartt-wip.com/en-us/products/walter-chore-coat-dark-navy-garment-dyed-562"
+        }
+      ],
+      "sources": [
+        "carhartt-wip-walter-chore-coat-dark-navy"
+      ],
+      "summary": "",
+      "verdict": "",
+      "deal": "$104, reduced from $258. Exact item labeled Black Friday Sale; no code shown. Expiry not stated.",
+      "image": "assets/images/bf-walter-dark-navy-1.jpg",
+      "imageAlt": "Walter Chore Coat in Dark Navy, retailer view 1"
     },
     {
       "id": "end-service-works-bark-brown",
@@ -661,6 +724,13 @@
       "url": "https://universal-surplus.com/products/french-chore-jacket-navy?country=US&currency=USD&variant=50965560688968",
       "type": "Retailer",
       "note": "Retailer US product page and exact-size variant inventory."
+    },
+    {
+      "id": "carhartt-wip-walter-chore-coat-dark-navy",
+      "title": "Carhartt WIP US · product page",
+      "url": "https://us.carhartt-wip.com/en-us/products/walter-chore-coat-dark-navy-garment-dyed-562",
+      "type": "Retailer",
+      "note": "Carhartt WIP US product page: specifications, Black Friday price, final-sale notice and photography."
     },
     {
       "id": "end-service-works-bark-brown",
