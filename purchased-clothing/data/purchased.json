@@ -1,9 +1,21 @@
 {
   "version": 1,
-  "generated_at": "2026-11-26T19:49:35Z",
+  "generated_at": "2026-11-27T01:50:37Z",
   "refresh_interval_hours": 6,
-  "order_count": 5,
+  "order_count": 6,
   "items": [
+    {
+      "item_name": "100% Merino Wool Crew Sweater",
+      "merchant": "Abercrombie & Fitch",
+      "quantity": null,
+      "variant": null,
+      "size": "BLACK M",
+      "color": "BLACK",
+      "ordered_at": "2026-11-26",
+      "date_basis": "Order date in confirmation",
+      "category": "Clothing",
+      "image_url": "assets/purchased/e3a572091dfae91094b2.webp"
+    },
     {
       "item_name": "CUMMERBUND-WAIST WOOL TAPERED PANTS",
       "merchant": "COS Customer Service",
