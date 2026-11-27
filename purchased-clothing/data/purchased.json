@@ -1,9 +1,21 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T23:28:25Z",
+  "generated_at": "2026-11-27T23:41:13Z",
   "refresh_interval_hours": 24,
-  "order_count": 6,
+  "order_count": 7,
   "items": [
+    {
+      "item_name": "Arcan Logo-Appliqu\u00e9d Corduroy Trimmed Cotton-Canvas Blouson Jacket",
+      "merchant": "MR PORTER",
+      "quantity": 1,
+      "variant": null,
+      "size": "M",
+      "color": "Brown",
+      "ordered_at": "2026-11-27",
+      "date_basis": "Confirmation email date",
+      "category": "Clothing",
+      "image_url": "assets/purchased/ef78b6b76e4dcb326052.webp"
+    },
     {
       "item_name": "100% Merino Wool Crew Sweater",
       "merchant": "Abercrombie & Fitch",
