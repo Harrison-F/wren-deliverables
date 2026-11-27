@@ -35,4 +35,8 @@ window.DealsToolbar=(()=>{
  if(pane){parent.dispatchEvent(new CustomEvent('picks-update',{detail:{scope,counts,missing,ready}}));return}
  repaint=()=>{for(const s of ['selected','consideration']){const label=s==='selected'?'Selected':'In consideration';tabs[s].textContent=label+' ('+(ready&&other?counts[s]+other.filter(r=>r.state===(s==='selected'?s:'considering')).length:'—')+')'}};repaint();}
  if(pane)document.documentElement.classList.add('picks-pane');
- return {view,link,ready,mount,pane,report,appendManual};})();
+ function mountCatalog(bar,details,endpoint){
+   if(universal){const purchased=document.createElement('a');purchased.href=new URL('../purchased-clothing/',document.baseURI);purchased.textContent='Purchased';bar.prepend(purchased)}
+   mount(bar,details,endpoint);
+ }
+ return {view,link,ready,mount:mountCatalog,pane,report,appendManual};})();
