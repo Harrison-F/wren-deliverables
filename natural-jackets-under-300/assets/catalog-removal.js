@@ -1,8 +1,8 @@
 /* Catalog destinations. Only a scope-matched export may send shortlist writes. */
 var CatalogRemoval = (() => {
  'use strict';
- const labels={active:'Items',consideration:'In consideration',selected:'Selected',removed:'Removed'};
- const actions=[['removed','remove-item','🗑︎','Remove'],['consideration','consider-item','🤔','Consider'],['selected','select-item','✓','Select']];
+ const labels={active:'Items',consideration:'In consideration',selected:'Final Picks',removed:'Removed'};
+ const actions=[['removed','remove-item','🗑︎','Remove'],['consideration','consider-item','🤔','Consider'],['selected','select-item','✓','Move to Final Picks:']];
  const valid=row=>row && Object.hasOwn(labels,row.state) && Number.isSafeInteger(row.version) && row.version>=0;
  const decode=r=>r?.state==='considering'?{...r,state:'consideration'}:r;
  function attach(topic,apply){
