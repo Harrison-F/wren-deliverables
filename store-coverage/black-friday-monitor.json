@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-11-26T22:36:26Z",
+  "checked_at": "2026-11-27T04:36:24Z",
   "stores": [
     {
       "name": "A.P.C.",
       "source": "https://www.apc-us.com/",
       "status": "verified_offer",
-      "note": "Observed 2026-11-26T22:36:06.970672+00:00 · New sale selections advertised for women and men; no general percentage verified."
+      "note": "Observed 2026-11-27T04:36:04.801658+00:00 · New sale selections advertised for women and men; no general percentage verified."
     },
     {
       "name": "Abercrombie",
@@ -17,7 +17,7 @@
       "name": "Arc’teryx",
       "source": "https://arcteryx.com/us/en",
       "status": "verified_offer",
-      "note": "Observed 2026-11-26T22:36:07.346794+00:00 · Black Friday sale: up to 40% off select gear, not a uniform discount."
+      "note": "Observed 2026-11-27T04:36:04.841952+00:00 · Black Friday sale: up to 40% off select gear, not a uniform discount."
     },
     {
       "name": "ARKET",
@@ -35,7 +35,7 @@
       "name": "Carhartt",
       "source": "https://www.carhartt.com/c/black-friday",
       "status": "verified_offer",
-      "note": "Observed 2026-11-26T22:36:13.786968+00:00 · Black Friday: hoodies up to 40% off; footwear, socks, gloves and pet gear advertised at 25% off."
+      "note": "Observed 2026-11-27T04:36:12.103425+00:00 · Black Friday: hoodies up to 40% off; footwear, socks, gloves and pet gear advertised at 25% off."
     },
     {
       "name": "Carhartt WIP",
@@ -53,7 +53,7 @@
       "name": "Hawes & Curtis",
       "source": "https://www.hawesandcurtis.com/sale",
       "status": "verified_offer",
-      "note": "Observed 2026-11-26T22:36:16.913642+00:00 · Black Friday sale: up to 60% off sale styles, not a uniform discount."
+      "note": "Observed 2026-11-27T04:36:14.957798+00:00 · Black Friday sale: up to 60% off sale styles, not a uniform discount."
     },
     {
       "name": "Helmut Lang",
@@ -101,7 +101,7 @@
       "name": "SCRT",
       "source": "https://scrt.onl/",
       "status": "verified_offer",
-      "note": "Observed 2026-11-26T22:36:18.331822+00:00 · BF20 advertised for 20% off; US/USD eligibility, stacking and expiry unverified. No projected price."
+      "note": "Observed 2026-11-27T04:36:16.821683+00:00 · BF20 advertised for 20% off; US/USD eligibility, stacking and expiry unverified. No projected price."
     },
     {
       "name": "SSENSE",
@@ -118,20 +118,20 @@
     {
       "name": "Yitai",
       "source": "https://www.yitai.la/",
-      "status": "verified_offer",
-      "note": "Observed 2026-11-26T22:36:21.883547+00:00 · Black Friday: free tee over $200 and free sweater over $350; no uniform percentage advertised."
+      "status": "ambiguous",
+      "note": "Campaign or discount wording found; no verified general terms."
     },
     {
       "name": "Yohji Yamamoto",
       "source": "https://theshopyohjiyamamoto.com/blogs/news/bf2026",
       "status": "verified_offer",
-      "note": "Observed 2026-11-26T22:36:24.475425+00:00 · bf26: 10% off eligible brands online; membership and login required. Ends November 30 at 23:59 JST."
+      "note": "Observed 2026-11-27T04:36:22.184151+00:00 · bf26: 10% off eligible brands online; membership and login required. Ends November 30 at 23:59 JST."
     },
     {
       "name": "Études",
       "source": "https://www.etudes-studio.com/",
       "status": "verified_offer",
-      "note": "Observed 2026-11-26T22:36:24.099577+00:00 · Seasonal outerwear sale: up to 70% off, not a uniform discount."
+      "note": "Observed 2026-11-27T04:36:21.948809+00:00 · Seasonal outerwear sale: up to 70% off, not a uniform discount."
     }
   ]
 }
