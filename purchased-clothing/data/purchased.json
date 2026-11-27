@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T23:41:13Z",
+  "generated_at": "2026-11-27T23:43:49Z",
   "refresh_interval_hours": 24,
-  "order_count": 7,
+  "order_count": 8,
   "items": [
     {
       "item_name": "Arcan Logo-Appliqu\u00e9d Corduroy Trimmed Cotton-Canvas Blouson Jacket",
@@ -135,6 +135,30 @@
       "date_basis": "Confirmation email date",
       "category": "Clothing",
       "image_url": "assets/purchased/3744500341f3e7c85047.webp"
+    },
+    {
+      "item_name": "Men's Drawstring Lounge Pants",
+      "merchant": "Cottonique - Allergy-free Apparel",
+      "quantity": 1,
+      "variant": "S/M / Heather Grey",
+      "size": null,
+      "color": null,
+      "ordered_at": "2026-03-24",
+      "date_basis": "Confirmation email date",
+      "category": "Clothing",
+      "image_url": "assets/purchased/b81c54d3a57286a7ad6f.webp"
+    },
+    {
+      "item_name": "Men's Drawstring Loose Boxer Shorts",
+      "merchant": "Cottonique - Allergy-free Apparel",
+      "quantity": 1,
+      "variant": "S/M / Melange Black",
+      "size": null,
+      "color": null,
+      "ordered_at": "2026-03-24",
+      "date_basis": "Confirmation email date",
+      "category": "Clothing",
+      "image_url": "assets/purchased/2e8fe2f5590d08fd58b6.webp"
     }
   ]
 }
