@@ -3,7 +3,7 @@
     {
       "name": "A.P.C.",
       "status": "monitored",
-      "checkpoint": "2026-11-26",
+      "checkpoint": "2026-11-27",
       "unit": "variants",
       "total": 6584,
       "cached": 1237,
@@ -298,7 +298,7 @@
     {
       "name": "Rains",
       "status": "monitored",
-      "checkpoint": "2026-11-26",
+      "checkpoint": "2026-11-27",
       "unit": "variants",
       "total": 2550,
       "cached": 286,
@@ -307,14 +307,14 @@
       "fields": {
         "color": 2533,
         "category": 2055,
-        "named": 1987,
-        "composition": 1765,
+        "named": 1986,
+        "composition": 1764,
         "size": 2533,
         "price": 2550,
         "currency": 0,
         "sale": 2550,
         "available": 2550,
-        "image": 2545
+        "image": 2543
       }
     },
     {
@@ -369,23 +369,23 @@
     {
       "name": "SCRT",
       "status": "monitored",
-      "checkpoint": "2026-11-26",
+      "checkpoint": "2026-11-27",
       "unit": "variants",
-      "total": 1391,
+      "total": 1398,
       "cached": 348,
       "discovered": 350,
       "scope": "Sitemap 2026-11-23: exact product URLs matched to saved feed records. Field coverage uses variants.",
       "fields": {
-        "color": 719,
-        "category": 1038,
-        "named": 1061,
+        "color": 720,
+        "category": 1044,
+        "named": 1067,
         "composition": 327,
-        "size": 1251,
-        "price": 1389,
+        "size": 1257,
+        "price": 1396,
         "currency": 6,
-        "sale": 1389,
-        "available": 1391,
-        "image": 1391
+        "sale": 1396,
+        "available": 1398,
+        "image": 1398
       }
     },
     {
@@ -418,23 +418,23 @@
     {
       "name": "The Frankie Shop",
       "status": "monitored",
-      "checkpoint": "2026-11-26",
+      "checkpoint": "2026-11-27",
       "unit": "variants",
-      "total": 10959,
+      "total": 11055,
       "cached": 3037,
       "discovered": 3037,
       "scope": "Sitemap 2026-11-23: exact product URLs matched to saved feed records. Field coverage uses variants.",
       "fields": {
-        "color": 5657,
-        "category": 8492,
-        "named": 10673,
-        "composition": 10669,
-        "size": 10121,
-        "price": 10959,
+        "color": 5697,
+        "category": 8556,
+        "named": 10763,
+        "composition": 10759,
+        "size": 10204,
+        "price": 11055,
         "currency": 0,
-        "sale": 10959,
-        "available": 10959,
-        "image": 10959
+        "sale": 11055,
+        "available": 11055,
+        "image": 11055
       }
     },
     {
@@ -462,29 +462,29 @@
     {
       "name": "Yohji Yamamoto",
       "status": "monitored",
-      "checkpoint": "2026-11-26",
+      "checkpoint": "2026-11-27",
       "unit": "variants",
-      "total": 15111,
+      "total": 15116,
       "cached": 9260,
       "discovered": 9341,
       "scope": "Sitemap 2026-11-23: exact product URLs matched to saved feed records. Field coverage uses variants.",
       "fields": {
         "color": 4405,
-        "category": 8256,
+        "category": 8260,
         "named": 14084,
         "composition": 2479,
-        "size": 15069,
-        "price": 15069,
+        "size": 15074,
+        "price": 15074,
         "currency": 2,
-        "sale": 15067,
-        "available": 15111,
-        "image": 15111
+        "sale": 15072,
+        "available": 15116,
+        "image": 15116
       }
     },
     {
       "name": "Études",
       "status": "monitored",
-      "checkpoint": "2026-11-26",
+      "checkpoint": "2026-11-27",
       "unit": "variants",
       "total": 2920,
       "cached": 523,
