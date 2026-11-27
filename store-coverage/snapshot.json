@@ -223,7 +223,7 @@
     {
       "name": "Industry of All Nations",
       "status": "monitored",
-      "checkpoint": "2026-11-26",
+      "checkpoint": "2026-11-27",
       "unit": "variants",
       "total": 2193,
       "cached": 152,
@@ -440,7 +440,7 @@
     {
       "name": "Yitai",
       "status": "monitored",
-      "checkpoint": "2026-11-25",
+      "checkpoint": "2026-11-27",
       "unit": "variants",
       "total": 643,
       "cached": 84,
@@ -449,8 +449,8 @@
       "fields": {
         "color": 348,
         "category": 636,
-        "named": null,
-        "composition": null,
+        "named": 619,
+        "composition": 600,
         "size": 643,
         "price": 643,
         "currency": 643,
