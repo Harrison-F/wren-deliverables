@@ -4,11 +4,11 @@ const sources=[
  {id:'monitored-deals',label:'Monitored deals',native:deals,api:'https://monitored-deals-shortlist.wren-tools.workers.dev/state'},
  {id:'natural-jackets-under-300',label:'Natural outerwear',native:jackets,api:'https://jacket-shared-archive.wren-tools.workers.dev/shortlist/state'}
 ];
-const view=location.pathname.includes('/selected/')?'selected':'considering';
+let view='considering';
 // Keep each view's last receipt independent of shortlist state.
-const receiptKey='universal-picks:toolbar:v1:'+view;
-function get(k){try{return localStorage.getItem(receiptKey+k)}catch{return null}}
-function put(k,v){try{localStorage.setItem(receiptKey+k,v)}catch{}}
+const receiptKey=()=>'universal-picks:toolbar:v1:'+view;
+function get(k){try{return localStorage.getItem(receiptKey()+k)}catch{return null}}
+function put(k,v){try{localStorage.setItem(receiptKey()+k,v)}catch{}}
  function mount(bar,details,endpoint){const form=document.createElement('form');form.className='deals-intake';const field=document.createElement('input'),save=document.createElement('button'),msg=document.createElement('span');field.type='url';field.required=true;field.maxLength=850;field.placeholder='Product URL';field.setAttribute('aria-label','Product URL');save.textContent='Save';save.type='submit';msg.setAttribute('role','status');msg.className='intake-status';form.append(field,save);bar.append(form);details.append(msg);
  const api='https://monitored-deals-shortlist.wren-tools.workers.dev/picks';
  form.onsubmit=async e=>{e.preventDefault();if(save.disabled)return;save.disabled=field.disabled=true;msg.textContent='Saving…';try{
@@ -20,8 +20,8 @@ function put(k,v){try{localStorage.setItem(receiptKey+k,v)}catch{}}
  async function appendManual(topic){if(topic.id!=='monitored-deals')return;try{const r=await fetch('https://monitored-deals-shortlist.wren-tools.workers.dev/state',{cache:'no-store',credentials:'omit',signal:AbortSignal.timeout(8000)});if(!r.ok)return;for(const [id,row] of Object.entries((await r.json()).items)){const p=manualProduct(id,row);if(p)topic.products.push(p)}}catch{/* Static catalog remains usable offline. */}}
 
 mount(document.querySelector('.picks-head nav'),document.querySelector('.picks-tools'),sources[0].api);
-const links=[...document.querySelectorAll('[data-view]')],grid=document.querySelector('.display-template');
-const current=links.find(a=>a.dataset.view===view);current.setAttribute('aria-current','page');
+const links=[...document.querySelectorAll('[data-view]:not([data-view=purchased])')],grid=document.querySelector('#shortlist .display-template');
+let current;
 const $=id=>document.getElementById(id),undo=$('undo'),retry=$('refresh'),notice=$('notice');
 const actions=[['removed','remove-item','🗑︎','Remove'],['considering','consider-item','🤔','Consider'],['selected','select-item','✓','Select']];
 let busy=false,last=null;
@@ -121,11 +121,11 @@ function evidencedProduct(p){
  if(p.id==='deal-21f962cd08003f45'&&p.url==='https://www.saksfifthavenue.com/product/7-for-all-mankind-corduroy-full-zip-shirt-jacket-0400026862929.html?dwvar_0400026862929_color=SMOLDER'&&p.facts?.Fabric==='Composition unverified')return {...p,facts:{...p.facts,Fabric:'98% cotton, 2% elastane (manufacturer)'}};
  return p;
 }
-function node(s,p){if(s.nodes.has(p.id))return s.nodes.get(p.id);
+function node(s,p){const key=view+":"+p.id;if(s.nodes.has(key))return s.nodes.get(key);
  const card=s.native.card(p,s.topic);card.dataset.productId=p.id;card.dataset.scope=s.id;
  const group=document.createElement('div');group.className='catalog-actions';
  for(const [state,cls,icon,verb] of actions){const b=document.createElement('button');b.type='button';b.className=cls;b.textContent=icon;b.title=(view===state?'Restore to Items: ':verb+' ')+p.name;b.setAttribute('aria-label',b.title);b.setAttribute('aria-pressed',String(view===state));b.onclick=()=>move(s,p.id,view===state?'active':state);group.append(b)}
- card.querySelector('.card-body').append(group);s.nodes.set(p.id,card);return card;}
+ card.querySelector('.card-body').append(group);s.nodes.set(key,card);return card;}
 function render(){const ready=sources.every(s=>s.ready),entries=[],missing=[],warnings=[];
  for(const s of sources){if(!s.ready){warnings.push(s.label+' unavailable. Refresh to retry.');continue}
  for(const [id,r] of Object.entries(s.rows)){if(r.state!==view)continue;const p=s.products.get(id)||manualProduct(id,r);if(!p){missing.push(id);continue}const product=evidencedProduct(p),el=node(s,product);entries.push({el,inspiration:view==='considering'&&(product.userStyleInspiration===true||hasSynthetic(product)),key:s.id+':'+id,price:s.native.price(p)});}}
@@ -139,7 +139,6 @@ async function refresh(){if(busy)return;lock(true);await Promise.all(sources.map
 async function move(s,id,next,back=false){if(busy||!s.ready)return;const row=s.rows[id];if(back&&last.version!==row.version){last=null;notice.textContent='Undo unavailable: the item changed.';render();return}lock(true);
  try{const saved=await request(s.api,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify({id,state:next,version:row.version})});if(!valid(saved)||saved.state!==next||saved.version<=row.version)throw Error();s.rows[id]={...row,...saved};last=back?null:{s,id,before:row.state,version:saved.version};notice.textContent=back?'Move undone.':'Item moved.';}
  catch(e){notice.textContent=e.status===409?'Another editor changed the shortlist. Review before editing.':'Save not confirmed. Refresh before editing.';s.ready=false;if(e.status===409){try{await read(s);s.ready=true}catch{}}}render();(last?undo:current).focus({preventScroll:true});}
-undo.onclick=()=>{if(last)move(last.s,last.id,last.before,true)};retry.onclick=refresh;document.addEventListener('shared-pick-saved',async()=>{if(busy){while(busy)await new Promise(resolve=>setTimeout(resolve,50))}await refresh()});document.addEventListener('visibilitychange',()=>{if(!document.hidden)refresh()});
-const dialog=document.querySelector('dialog');dialog.querySelector('button').onclick=()=>dialog.close();dialog.onclick=e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close()}};
-const key='universal-picks:scroll:'+(view==='considering'?'consideration':view);let target=Number(sessionStorage.getItem(key)),restore=target>0;if('scrollRestoration'in history)history.scrollRestoration='manual';for(const e of ['wheel','touchstart','pointerdown','keydown'])addEventListener(e,()=>restore=false,{passive:true});addEventListener('pagehide',()=>{if(!restore)sessionStorage.setItem(key,scrollY)});
-refresh().then(()=>{if(location.hash==='#unnatural-fibers-style-inspiration'){$('style-grid')?.parentElement.scrollIntoView();restore=false}else if(restore){scrollTo(0,target);restore=false}});
+undo.onclick=()=>{if(last)move(last.s,last.id,last.before,true)};retry.onclick=refresh;document.addEventListener('shared-pick-saved',async()=>{if(busy){while(busy)await new Promise(resolve=>setTimeout(resolve,50))}await refresh()});
+let initial;
+export async function show(next){view=next;current=links.find(a=>a.dataset.view===view);document.querySelector('#unnatural-fibers-style-inspiration').hidden=view!=='considering';if(!initial)initial=refresh();await initial;if(!busy)render()}
