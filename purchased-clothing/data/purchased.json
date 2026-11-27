@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T23:56:13Z",
+  "generated_at": "2026-11-27T23:59:25Z",
   "refresh_interval_hours": 24,
   "order_count": 9,
   "items": [
@@ -29,6 +29,18 @@
       "image_url": "assets/purchased/40f811646e5337b6111b.webp"
     },
     {
+      "item_name": "Relaxed Jean",
+      "merchant": "Abercrombie & Fitch",
+      "quantity": null,
+      "variant": null,
+      "size": "Grey Wash 30 X 32",
+      "color": "Grey Wash",
+      "ordered_at": "2026-11-26",
+      "date_basis": "Order date in confirmation",
+      "category": "Clothing",
+      "image_url": "assets/purchased/8fe13aad68d654ebcd9f.webp"
+    },
+    {
       "item_name": "100% Merino Wool Crew Sweater",
       "merchant": "Abercrombie & Fitch",
       "quantity": null,
@@ -39,6 +51,30 @@
       "date_basis": "Order date in confirmation",
       "category": "Clothing",
       "image_url": "assets/purchased/e3a572091dfae91094b2.webp"
+    },
+    {
+      "item_name": "100% Cashmere Rib Beanie",
+      "merchant": "Abercrombie & Fitch",
+      "quantity": null,
+      "variant": null,
+      "size": "LIGHT BROWN 1 SIZE",
+      "color": "LIGHT BROWN",
+      "ordered_at": "2026-11-26",
+      "date_basis": "Order date in confirmation",
+      "category": "Accessories",
+      "image_url": "assets/purchased/d6d3ba903c560072ee4f.webp"
+    },
+    {
+      "item_name": "10-Pack Classic Essential Tees",
+      "merchant": "Abercrombie & Fitch",
+      "quantity": null,
+      "variant": null,
+      "size": "LIGHT GRAY MULTIPACK S",
+      "color": "LIGHT GRAY MULTIPACK",
+      "ordered_at": "2026-11-26",
+      "date_basis": "Order date in confirmation",
+      "category": "Clothing",
+      "image_url": "assets/purchased/31348477320eee0dfff7.webp"
     },
     {
       "item_name": "CUMMERBUND-WAIST WOOL TAPERED PANTS",
