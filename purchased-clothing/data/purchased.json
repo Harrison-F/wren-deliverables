@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T23:44:59Z",
+  "generated_at": "2026-11-27T23:48:17Z",
   "refresh_interval_hours": 24,
-  "order_count": 8,
+  "order_count": 9,
   "items": [
     {
       "item_name": "Arcan Logo-Appliqu\u00e9d Corduroy Trimmed Cotton-Canvas Blouson Jacket",
@@ -15,6 +15,18 @@
       "date_basis": "Confirmation email date",
       "category": "Clothing",
       "image_url": "assets/purchased/ef78b6b76e4dcb326052.webp"
+    },
+    {
+      "item_name": "SUPER-HEAVY\u00ae Waffle Sweat - Black",
+      "merchant": "SCRT\u00ae",
+      "quantity": 1,
+      "variant": null,
+      "size": "M",
+      "color": null,
+      "ordered_at": "2026-11-26",
+      "date_basis": "Confirmation email date",
+      "category": "Clothing",
+      "image_url": "assets/purchased/40f811646e5337b6111b.webp"
     },
     {
       "item_name": "100% Merino Wool Crew Sweater",
