@@ -7,7 +7,7 @@
   "updated": "2026-11-23T15:40:03.874420+00:00",
   "recommendation": {
     "title": "All apparel · S or M tops · 30 × 32 trousers · other fits under Check size",
-    "text": "978 size-stock matches · 327 need size checks · saved inventories, not live checkout",
+    "text": "980 size-stock matches · 327 need size checks · saved inventories, not live checkout",
     "test": "Natural fibres + viscose, rayon, modal, lyocell and acetate. No disclosed synthetics."
   },
   "defaultSort": "price",
@@ -89356,6 +89356,122 @@
       "image": "assets/images/gallery-4ea4602089aa65f54f0dc7d9.webp",
       "imageAlt": "A.P.C. · Thomas sweater",
       "materialPercentUnidentified": false
+    },
+    {
+      "id": "deal-b625574648ff821e",
+      "name": "A.P.C. · Item T-shirt",
+      "url": "https://www.apc-us.com/products/item-t-shirt-pla?variant=41338547404899",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Shirt",
+      "color": "PLA - Heather gray",
+      "unitPriceUSD": 65.0,
+      "priceLabel": "$65.00",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "M",
+      "summary": "M",
+      "verdict": "Shirt",
+      "facts": {
+        "Fabric": "100% cotton",
+        "Size": "M"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-834a8a7897b713200aed7f14.webp",
+          "alt": "A.P.C. · Item T-shirt"
+        },
+        {
+          "src": "assets/images/gallery-b4258fe07dee91bdbb084515.webp",
+          "alt": "A.P.C. · Item T-shirt"
+        },
+        {
+          "src": "assets/images/gallery-8b9c2424b4c12de6ea8f4f8d.webp",
+          "alt": "A.P.C. · Item T-shirt"
+        },
+        {
+          "src": "assets/images/gallery-f1faf93da73c2a156a230c32.webp",
+          "alt": "A.P.C. · Item T-shirt"
+        },
+        {
+          "src": "assets/images/gallery-7cdbfe891aadd9bc4ec8dea7.webp",
+          "alt": "A.P.C. · Item T-shirt"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "M",
+          "url": "https://www.apc-us.com/products/item-t-shirt-pla?variant=41338547404899",
+          "variantId": "41338547404899",
+          "originalPriceUSD": 130.0
+        }
+      ],
+      "image": "assets/images/gallery-834a8a7897b713200aed7f14.webp",
+      "imageAlt": "A.P.C. · Item T-shirt",
+      "materialPercentUnidentified": false
+    },
+    {
+      "id": "deal-080deb59646c060f",
+      "name": "A.P.C. · Item H hoodie",
+      "url": "https://www.apc-us.com/products/item-h-hoodie-lzz?variant=41338578010211",
+      "store": "A.P.C.",
+      "brand": "A.P.C.",
+      "category": "Sweater",
+      "color": "LZZ - Black",
+      "unitPriceUSD": 142.5,
+      "priceLabel": "$142.50",
+      "naturalPercent": null,
+      "integrityRank": 0,
+      "materialCaveat": "Disclosed fibres pass; undisclosed trims not certified.",
+      "deal": "M",
+      "summary": "M",
+      "verdict": "Sweater",
+      "facts": {
+        "Fabric": "100% organic cotton",
+        "Size": "M"
+      },
+      "images": [
+        {
+          "src": "assets/images/gallery-4d35041fbce5973599f5cf3f.webp",
+          "alt": "A.P.C. · Item H hoodie"
+        },
+        {
+          "src": "assets/images/gallery-95014bbd616edd22a66fa7be.webp",
+          "alt": "A.P.C. · Item H hoodie"
+        },
+        {
+          "src": "assets/images/gallery-c1494a9cc191142c09c3dcc1.webp",
+          "alt": "A.P.C. · Item H hoodie"
+        },
+        {
+          "src": "assets/images/gallery-ffc70d59a64fb82f2246d6c3.webp",
+          "alt": "A.P.C. · Item H hoodie"
+        },
+        {
+          "src": "assets/images/gallery-1b223f69c908862bf3f6a304.webp",
+          "alt": "A.P.C. · Item H hoodie"
+        }
+      ],
+      "imageNote": "Retailer gallery from saved product evidence; stock is a separate snapshot.",
+      "collectionIds": [
+        "matches"
+      ],
+      "sizeLinks": [
+        {
+          "size": "M",
+          "url": "https://www.apc-us.com/products/item-h-hoodie-lzz?variant=41338578010211",
+          "variantId": "41338578010211",
+          "originalPriceUSD": 285.0
+        }
+      ],
+      "image": "assets/images/gallery-4d35041fbce5973599f5cf3f.webp",
+      "imageAlt": "A.P.C. · Item H hoodie",
+      "materialPercentUnidentified": false
     }
   ],
   "sources": [],
@@ -89363,6 +89479,7 @@
     "deal-0238f788f544e05f",
     "deal-05cf04724bf63473",
     "deal-06851d94a229a96e",
+    "deal-080deb59646c060f",
     "deal-0816ba4fcb691b6b",
     "deal-0bdf26cd59e996bd",
     "deal-0edaa10980a802b3",
@@ -89435,6 +89552,7 @@
     "deal-ac4df684c029ec86",
     "deal-b026038ef5b3ca9d",
     "deal-b47b9129d61987fa",
+    "deal-b625574648ff821e",
     "deal-b90679e56f681154",
     "deal-b9d33bfe965ce2bd",
     "deal-bb5f62f8ed8324eb",
