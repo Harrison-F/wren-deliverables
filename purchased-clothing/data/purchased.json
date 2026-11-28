@@ -28,7 +28,8 @@
       "ordered_at": "2026-11-26",
       "date_basis": "Order date in confirmation",
       "category": "Clothing",
-      "listing_status": "unverified",
+      "listing_status": "available",
+      "listing_url": "https://www.abercrombie.com/shop/us/p/100-merino-wool-crew-sweater-63830819?seq=03",
       "image_url": "assets/purchased/e3a572091dfae91094b2.webp"
     },
     {
@@ -152,8 +153,7 @@
       "ordered_at": "2026-10-25",
       "date_basis": "Confirmation email date",
       "category": "Clothing",
-      "listing_status": "available",
-      "listing_url": "https://www.cos.com/en-us/men/menswear/trousers/regular-fit/straightleg/product/cotton-regular-fit-straight-leg-chinos-black-1289394006",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/e029e0dbdff00b6c8f53.webp"
     },
     {
