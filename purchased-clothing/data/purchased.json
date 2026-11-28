@@ -1,9 +1,35 @@
 {
   "version": 1,
-  "generated_at": "2026-11-28T00:28:48Z",
+  "generated_at": "2026-11-28T19:22:34Z",
   "refresh_interval_hours": 24,
-  "order_count": 13,
+  "order_count": 14,
   "items": [
+    {
+      "item_name": "Regular fit needlecord shirt",
+      "merchant": "Massimo Dutti",
+      "quantity": 1,
+      "variant": null,
+      "size": "M",
+      "color": "NAVY BLUE",
+      "ordered_at": "2026-11-28",
+      "date_basis": "Confirmation email date",
+      "category": "Clothing",
+      "listing_status": "unverified",
+      "image_url": "assets/purchased/5a858f0badaadad11078.webp"
+    },
+    {
+      "item_name": "Tapered fit denim-effect pants",
+      "merchant": "Massimo Dutti",
+      "quantity": 1,
+      "variant": null,
+      "size": "31",
+      "color": "MINK",
+      "ordered_at": "2026-11-28",
+      "date_basis": "Confirmation email date",
+      "category": "Clothing",
+      "listing_status": "unverified",
+      "image_url": "assets/purchased/c88ab3976a9ac5ef85d6.webp"
+    },
     {
       "item_name": "Arcan Logo-Appliqu\u00e9d Corduroy Trimmed Cotton-Canvas Blouson Jacket",
       "merchant": "MR PORTER",
@@ -14,8 +40,7 @@
       "ordered_at": "2026-11-27",
       "date_basis": "Confirmation email date",
       "category": "Clothing",
-      "listing_status": "available",
-      "listing_url": "https://www.mrporter.com/en-us/mens/product/carhartt-wip/clothing/blousons/arcan-logo-appliqued-corduroy-trimmed-cotton-canvas-blouson-jacket/46376663163084054",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/ef78b6b76e4dcb326052.webp"
     },
     {
@@ -28,8 +53,7 @@
       "ordered_at": "2026-11-26",
       "date_basis": "Order date in confirmation",
       "category": "Clothing",
-      "listing_status": "available",
-      "listing_url": "https://www.abercrombie.com/shop/us/p/100-merino-wool-crew-sweater-63830819?seq=03",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/e3a572091dfae91094b2.webp"
     },
     {
@@ -42,8 +66,7 @@
       "ordered_at": "2026-11-26",
       "date_basis": "Order date in confirmation",
       "category": "Clothing",
-      "listing_status": "available",
-      "listing_url": "https://www.abercrombie.com/shop/us/p/10-pack-classic-essential-tees-62667819?seq=03",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/31348477320eee0dfff7.webp"
     },
     {
@@ -56,8 +79,7 @@
       "ordered_at": "2026-11-26",
       "date_basis": "Order date in confirmation",
       "category": "Clothing",
-      "listing_status": "available",
-      "listing_url": "https://www.abercrombie.com/shop/us/p/relaxed-jean-63752940?seq=05",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/8fe13aad68d654ebcd9f.webp"
     },
     {
@@ -70,8 +92,7 @@
       "ordered_at": "2026-11-26",
       "date_basis": "Order date in confirmation",
       "category": "Accessories",
-      "listing_status": "available",
-      "listing_url": "https://www.abercrombie.com/shop/us/p/100-cashmere-rib-beanie-63842820?seq=01",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/d6d3ba903c560072ee4f.webp"
     },
     {
@@ -98,8 +119,7 @@
       "ordered_at": "2026-11-26",
       "date_basis": "Confirmation email date",
       "category": "Clothing",
-      "listing_status": "available",
-      "listing_url": "https://www.helmutlang.com/brush-stripe-crew/Q07HM706_EHC.html",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/ef95467de9cedf20a083.webp"
     },
     {
@@ -112,8 +132,7 @@
       "ordered_at": "2026-11-02",
       "date_basis": "Order placed in Amazon order history",
       "category": "Clothing",
-      "listing_status": "available",
-      "listing_url": "https://www.amazon.com/dp/B07Z892VPP",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/117970eaf2eec5944d92.webp"
     },
     {
@@ -139,8 +158,7 @@
       "ordered_at": "2026-11-02",
       "date_basis": "Order placed in Amazon order history",
       "category": "Clothing",
-      "listing_status": "available",
-      "listing_url": "https://www.amazon.com/dp/B0FY6CZTZS",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/bd31d73bfeea856dcb5e.webp"
     },
     {
@@ -166,8 +184,7 @@
       "ordered_at": "2026-10-25",
       "date_basis": "Confirmation email date",
       "category": "Clothing",
-      "listing_status": "available",
-      "listing_url": "https://www.cos.com/en-us/men/menswear/trousers/regular-fit/taperedleg/product/cummerbund-waist-wool-tapered-trousers-black-1309593001",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/536280286a13958844bf.webp"
     },
     {
@@ -193,7 +210,8 @@
       "ordered_at": "2026-10-20",
       "date_basis": "Order date in confirmation",
       "category": "Clothing",
-      "listing_status": "unverified",
+      "listing_status": "available",
+      "listing_url": "https://us.sandro-paris.com/en/p/textured-knit-sweater/SHPTR00627_B303.html",
       "image_url": "assets/purchased/58a398a4a6d812896e8e.webp"
     },
     {
@@ -206,8 +224,7 @@
       "ordered_at": "2026-10-20",
       "date_basis": "Order date in confirmation",
       "category": "Clothing",
-      "listing_status": "available",
-      "listing_url": "https://www.abercrombie.com/shop/us/p/classic-essential-tee-61737319?seq=06",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/d3045ad1402315d2aadf.webp"
     },
     {
@@ -220,8 +237,7 @@
       "ordered_at": "2026-10-20",
       "date_basis": "Order date in confirmation",
       "category": "Clothing",
-      "listing_status": "available",
-      "listing_url": "https://www.abercrombie.com/shop/us/p/classic-essential-tee-61737319?seq=07",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/ec5c52219a36ff666b8f.webp"
     },
     {
@@ -234,8 +250,7 @@
       "ordered_at": "2026-10-20",
       "date_basis": "Order date in confirmation",
       "category": "Clothing",
-      "listing_status": "available",
-      "listing_url": "https://www.abercrombie.com/shop/us/p/classic-essential-tee-61737319?seq=10",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/36ce9c624cb991bc051c.webp"
     },
     {
@@ -261,8 +276,7 @@
       "ordered_at": "2026-10-19",
       "date_basis": "Confirmation email date",
       "category": "Clothing",
-      "listing_status": "available",
-      "listing_url": "https://www.massimodutti.com/us/doublepleated-relaxed-fit-pants-l00127008",
+      "listing_status": "unverified",
       "image_url": "assets/purchased/3744500341f3e7c85047.webp"
     },
     {
