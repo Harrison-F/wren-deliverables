@@ -2,6 +2,31 @@ const $=id=>document.getElementById(id), links=[...document.querySelectorAll('na
 const purchaseBase=new URL('../../purchased-clothing/',location.href), dialog=document.querySelector('dialog');
 let items, pending, category='All', active='',ticket=0;
 const text=(tag,value,cls)=>{const e=document.createElement(tag);e.textContent=value;if(cls)e.className=cls;return e};
+// The producer verifies availability and exact product identity. Never infer either from receipt URLs.
+const listingPaths = [
+ ['amazon.com', /^\/dp\/[A-Z0-9]{10}\/?$/], ['abercrombie.com', /^\/shop\/[^/]+\/p\/[^/]+\/?$/],
+ ['cos.com', /\/product\/[\w-]+\/?$/], ['mrporter.com', /\/product\/[\w/-]+$/],
+ ['helmutlang.com', /\/[^/]+\.html$/], ['us.sandro-paris.com', /\/[^/]+\.html$/],
+ ['massimodutti.com', /\/[^/]+-l\d+\.html$/], ['scrt.onl', /\/products\/[\w-]+\/?$/],
+ ['cottonique.com', /\/products\/[\w-]+\/?$/]
+];
+function verifiedListing(i){
+ if(i.listing_status!=='available'||typeof i.listing_url!=='string')return null;
+ try{const u=new URL(i.listing_url);return u.protocol==='https:'&&!u.username&&!u.password&&!u.port&&!u.search&&!u.hash&&listingPaths.some(([host,path])=>(u.hostname===host||u.hostname==='www.'+host)&&path.test(u.pathname))?u.href:null}catch{return null}
+}
+function listingNotice(trigger,message){
+ const modal=text('dialog','','listing-notice'), note=text('p',message), close=text('button','Close');
+ note.id='listing-message';modal.setAttribute('aria-labelledby',note.id);close.type='button';close.autofocus=true;
+ modal.append(note,close);document.body.append(modal);close.onclick=()=>modal.close();
+ modal.addEventListener('close',()=>{modal.remove();if(trigger.isConnected)trigger.focus()},{once:true});modal.showModal();
+}
+function purchaseTitle(i,name){
+ const heading=text('h2',''),url=verifiedListing(i),control=text(url?'a':'button',name,'receipt-title');
+ if(url){control.href=url;control.target='_blank';control.rel='noopener noreferrer'}else{
+  control.type='button';control.setAttribute('aria-haspopup','dialog');control.onclick=()=>listingNotice(control,i.listing_status==='unavailable'?'This listing is no longer available.':'No verified listing is available for this item.');
+ }
+ heading.append(control);return heading;
+}
 function draw(){const rows=items.filter(i=>category==='All'||i.category===category);
  $('receipt-summary').textContent=`${rows.length} purchased ${rows.length===1?'item':'items'}`;
  $('receipt-grid').replaceChildren(...rows.map(i=>{const card=text('article','','display-card');card.dataset.purchase='';const name=i.item_name||'Unnamed item';
@@ -12,6 +37,6 @@ $('receipt-refresh').onclick=()=>receipt(true);document.querySelectorAll('[data-
 dialog.querySelector('button').onclick=()=>dialog.close();dialog.onclick=e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close()}};
 const scrollKey=v=>'universal-picks:scroll:'+(v==='considering'?'consideration':v);
 async function route(){const seq=++ticket,link=links.find(a=>a.pathname===location.pathname)||links[1];if(active)sessionStorage.setItem(scrollKey(active),scrollY);active=link.dataset.view;const purchased=active==='purchased';links.forEach(a=>a===link?a.setAttribute('aria-current','page'):a.removeAttribute('aria-current'));document.title=`${link.firstChild.textContent.trim()} · Universal picks`;document.body.dataset.tab=active;$('shortlist').hidden=purchased;$('purchases').hidden=!purchased;
- if(purchased)await receipt();else{const tpl=$('inspiration');if(tpl)tpl.replaceWith(tpl.content.cloneNode(true));try{const core=await import('./picks.js?v=4e093eb9d9b9');if(seq!==ticket)return;await core.show(active)}catch{$('summary').textContent='Shortlist unavailable. Reload to retry.'}}
+ if(purchased)await receipt();else{const tpl=$('inspiration');if(tpl)tpl.replaceWith(tpl.content.cloneNode(true));try{const core=await import('./picks.js?v=abd3e6dee1b0');if(seq!==ticket)return;await core.show(active)}catch{$('summary').textContent='Shortlist unavailable. Reload to retry.'}}
  if(seq===ticket){if(location.hash==='#unnatural-fibers-style-inspiration'&&active==='considering')$('unnatural-fibers-style-inspiration').scrollIntoView();else scrollTo(0,Number(sessionStorage.getItem(scrollKey(active)))||0)}}
 links.forEach(a=>a.onclick=e=>{if(e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();if(a.pathname!==location.pathname){history.pushState(null,'',a.href);route()}});history.scrollRestoration='manual';addEventListener('popstate',route);addEventListener('pagehide',()=>sessionStorage.setItem(scrollKey(active),scrollY));route();
