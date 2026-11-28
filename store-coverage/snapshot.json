@@ -223,7 +223,7 @@
     {
       "name": "Industry of All Nations",
       "status": "monitored",
-      "checkpoint": "2026-11-27",
+      "checkpoint": "2026-11-28",
       "unit": "variants",
       "total": 2193,
       "cached": 152,
@@ -440,23 +440,23 @@
     {
       "name": "Yitai",
       "status": "monitored",
-      "checkpoint": "2026-11-27",
+      "checkpoint": "2026-11-28",
       "unit": "variants",
-      "total": 643,
+      "total": 679,
       "cached": 84,
       "discovered": 90,
       "scope": "Sitemap 2026-11-23: exact product URLs matched to saved feed records. Field coverage uses variants.",
       "fields": {
-        "color": 348,
-        "category": 636,
-        "named": null,
-        "composition": null,
-        "size": 643,
-        "price": 643,
-        "currency": 643,
-        "sale": 637,
-        "available": 643,
-        "image": 643
+        "color": 360,
+        "category": 672,
+        "named": 655,
+        "composition": 636,
+        "size": 679,
+        "price": 679,
+        "currency": 679,
+        "sale": 673,
+        "available": 679,
+        "image": 679
       }
     },
     {
