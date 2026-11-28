@@ -3,16 +3,21 @@ const purchaseBase=new URL('../../purchased-clothing/',location.href), dialog=do
 let items, pending, category='All', active='',ticket=0;
 const text=(tag,value,cls)=>{const e=document.createElement(tag);e.textContent=value;if(cls)e.className=cls;return e};
 // The producer verifies availability and exact product identity. Never infer either from receipt URLs.
-const listingPaths = [
- ['amazon.com', /^\/dp\/[A-Z0-9]{10}\/?$/], ['abercrombie.com', /^\/shop\/[^/]+\/p\/[^/]+\/?$/],
- ['cos.com', /\/product\/[\w-]+\/?$/], ['mrporter.com', /\/product\/[\w/-]+$/],
- ['helmutlang.com', /\/[^/]+\.html$/], ['us.sandro-paris.com', /\/[^/]+\.html$/],
- ['massimodutti.com', /\/[^/]+-l\d+\.html$/], ['scrt.onl', /\/products\/[\w-]+\/?$/],
- ['cottonique.com', /\/products\/[\w-]+\/?$/]
-];
+// Match purchased_listings.py RULES, including only its two permitted variant query formats.
+const listingRules=new Map([
+ ["Abercrombie & Fitch", /^https:\/\/www\.abercrombie\.com\/shop\/us\/p\/[a-z0-9-]+-\d+\?seq=\d{2}$/],
+ ["Amazon", /^https:\/\/www\.amazon\.com\/dp\/[A-Z0-9]{10}$/],
+ ["SCRT®", /^https:\/\/scrt\.onl\/products\/[a-z0-9-]+$/],
+ ["COS Customer Service", /^https:\/\/www\.cos\.com\/en-us\/men\/(?:[a-z-]+\/){1,6}product\/[a-z0-9-]+-\d{10}$/],
+ ["Cottonique - Allergy-free Apparel", /^https:\/\/cottonique\.com\/products\/[a-z0-9-]+\?variant=\d{10,16}$/],
+ ["Helmut Lang", /^https:\/\/www\.helmutlang\.com\/[a-z0-9-]+\/[A-Z0-9]+_[A-Z0-9]+\.html$/],
+ ["MR PORTER", /^https:\/\/www\.mrporter\.com\/en-us\/mens\/product\/[a-z0-9-]+\/clothing\/[a-z-]+\/[a-z0-9-]+\/\d{15,18}$/],
+ ["Massimo Dutti", /^https:\/\/www\.massimodutti\.com\/us\/[a-z0-9-]+-l\d{8}$/],
+ ["SANDRO", /^https:\/\/us\.sandro-paris\.com\/en\/p\/[a-z0-9-]+\/[A-Z0-9]+_[A-Z0-9]+\.html$/]
+]);
 function verifiedListing(i){
- if(i.listing_status!=='available'||typeof i.listing_url!=='string')return null;
- try{const u=new URL(i.listing_url);return u.protocol==='https:'&&!u.username&&!u.password&&!u.port&&!u.search&&!u.hash&&listingPaths.some(([host,path])=>(u.hostname===host||u.hostname==='www.'+host)&&path.test(u.pathname))?u.href:null}catch{return null}
+ const url=i.listing_url,rule=listingRules.get(i.merchant);
+ return i.listing_status==='available' && typeof url==='string' && !/\s/.test(url) && rule?.test(url) ? url : null;
 }
 function listingNotice(trigger,message){
  const modal=text('dialog','','listing-notice'), note=text('p',message), close=text('button','Close');
