@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-11-28T00:28:08Z",
+  "generated_at": "2026-11-28T00:28:48Z",
   "refresh_interval_hours": 24,
-  "order_count": 10,
+  "order_count": 13,
   "items": [
     {
       "item_name": "Arcan Logo-Appliqu\u00e9d Corduroy Trimmed Cotton-Canvas Blouson Jacket",
@@ -87,6 +87,42 @@
       "date_basis": "Confirmation email date",
       "category": "Clothing",
       "image_url": "assets/purchased/ef95467de9cedf20a083.webp"
+    },
+    {
+      "item_name": "Occulto Men 100% Cotton Dress Socks Pack of 10 (model: Ingo) 10 Pairs | Black 10-12",
+      "merchant": "Amazon",
+      "quantity": null,
+      "variant": null,
+      "size": "10-12",
+      "color": "Black",
+      "ordered_at": "2026-11-02",
+      "date_basis": "Order placed in Amazon order history",
+      "category": "Clothing",
+      "image_url": "assets/purchased/117970eaf2eec5944d92.webp"
+    },
+    {
+      "item_name": "Ait fish Men's 100% Cotton Waffle Knit Crew Casual Socks Lightweight Colorful Dress Socks",
+      "merchant": "Amazon",
+      "quantity": null,
+      "variant": null,
+      "size": null,
+      "color": null,
+      "ordered_at": "2026-11-02",
+      "date_basis": "Order placed in Amazon order history",
+      "category": "Clothing",
+      "image_url": "assets/purchased/c1c3ec1b6529f17cdb18.webp"
+    },
+    {
+      "item_name": "DAUCO 4 Pairs 98% Cotton Socks for Men Women Crew Seamless Fall Slouchy Socks",
+      "merchant": "Amazon",
+      "quantity": null,
+      "variant": null,
+      "size": null,
+      "color": null,
+      "ordered_at": "2026-11-02",
+      "date_basis": "Order placed in Amazon order history",
+      "category": "Clothing",
+      "image_url": "assets/purchased/bd31d73bfeea856dcb5e.webp"
     },
     {
       "item_name": "COTTON REGULAR-FIT STRAIGHT-LEG CHINOS",
@@ -207,6 +243,18 @@
       "date_basis": "Confirmation email date",
       "category": "Clothing",
       "image_url": "assets/purchased/b81c54d3a57286a7ad6f.webp"
+    },
+    {
+      "item_name": "Maggie's Organic Merino Wool Allergy Crew Wellness Socks for Men & Women - One Pair Medium Size Black M",
+      "merchant": "Amazon",
+      "quantity": null,
+      "variant": null,
+      "size": "M",
+      "color": "Black",
+      "ordered_at": null,
+      "date_basis": null,
+      "category": "Clothing",
+      "image_url": "assets/purchased/eb934583496fd7665831.webp"
     }
   ]
 }
